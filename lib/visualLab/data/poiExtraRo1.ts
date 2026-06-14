@@ -1624,6 +1624,24 @@ export const poiExtraRo1: POI[] = [
                         24.672473,
                         45.143153
                   ]
+            },
+            {
+                  "name": "Bis Săn Nicoară",
+                  "text": "Bis Săn Nicoară umfasst die historischen Ruinen der Kirche San Nicoara in Curtea de Argeș.",
+                  "category": "historical",
+                  "coords": [
+                        24.67763,
+                        45.14101
+                  ]
+            },
+            {
+                  "name": "Curtea de Arges City Museum. Ethnography and Folk Art Department",
+                  "text": "Die Abteilung für Ethnographie und Volkskunst des Stadtmuseums Curtea de Arges stellt das lokale Kulturerbe aus.",
+                  "category": "museum",
+                  "coords": [
+                        24.674686,
+                        45.14377
+                  ]
             }
       ],
       "hu": [
@@ -1664,6 +1682,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.672473,
                         45.143153
+                  ]
+            },
+            {
+                  "name": "Bis Săn Nicoară",
+                  "text": "A Bis Săn Nicoară a Săn Nicoară templom történelmi romjait foglalja magában Curtea de Argeș-ben.",
+                  "category": "historical",
+                  "coords": [
+                        24.67763,
+                        45.14101
+                  ]
+            },
+            {
+                  "name": "Curtea de Arges City Museum. Ethnography and Folk Art Department",
+                  "text": "A Curtea de Arges Városi Múzeum Néprajzi és Népművészeti Osztálya a helyi kulturális örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.674686,
+                        45.14377
                   ]
             }
       ],
@@ -1706,6 +1742,24 @@ export const poiExtraRo1: POI[] = [
                         24.672473,
                         45.143153
                   ]
+            },
+            {
+                  "name": "Bis Săn Nicoară",
+                  "text": "Bis Săn Nicoară cuprinde ruinele istorice ale bisericii Săn Nicoară din Curtea de Argeș.",
+                  "category": "historical",
+                  "coords": [
+                        24.67763,
+                        45.14101
+                  ]
+            },
+            {
+                  "name": "Curtea de Arges City Museum. Ethnography and Folk Art Department",
+                  "text": "Departamentul de Etnografie și Artă Populară al Muzeului Municipal Curtea de Argeș expune patrimoniul cultural local.",
+                  "category": "museum",
+                  "coords": [
+                        24.674686,
+                        45.14377
+                  ]
             }
       ],
       "en": [
@@ -1746,6 +1800,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.672473,
                         45.143153
+                  ]
+            },
+            {
+                  "name": "Bis Săn Nicoară",
+                  "text": "Bis Săn Nicoară features the historical ruins of the San Nicoara church in Curtea de Argeș.",
+                  "category": "historical",
+                  "coords": [
+                        24.67763,
+                        45.14101
+                  ]
+            },
+            {
+                  "name": "Curtea de Arges City Museum. Ethnography and Folk Art Department",
+                  "text": "Curtea de Arges City Museum's Ethnography and Folk Art Department exhibits local cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        24.674686,
+                        45.14377
                   ]
             }
       ]
@@ -5465,6 +5537,24 @@ export const poiExtraRo1: POI[] = [
                         27.045347,
                         45.383101
                   ]
+            },
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "Biserica „Nașterea Maicii Domnului” ist eine Kultstätte in Râmnicu Sărat.",
+                  "category": "religious",
+                  "coords": [
+                        27.045286,
+                        45.375424
+                  ]
+            },
+            {
+                  "name": "Biserica „„Sfinții Voievozi” - Câța",
+                  "text": "Biserica „Sfinții Voievozi” - Câța ist eine Kultstätte in Râmnicu Sărat.",
+                  "category": "religious",
+                  "coords": [
+                        27.043746,
+                        45.377728
+                  ]
             }
       ],
       "hu": [
@@ -5505,6 +5595,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.045347,
                         45.383101
+                  ]
+            },
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "A Biserica „Nașterea Maicii Domnului” egy vallási épület Râmnicu Sărat városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.045286,
+                        45.375424
+                  ]
+            },
+            {
+                  "name": "Biserica „„Sfinții Voievozi” - Câța",
+                  "text": "A Biserica „Sfinții Voievozi” - Câța egy istentiszteleti hely Râmnicu Sărat városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.043746,
+                        45.377728
                   ]
             }
       ],
@@ -5547,6 +5655,24 @@ export const poiExtraRo1: POI[] = [
                         27.045347,
                         45.383101
                   ]
+            },
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "Biserica „Nașterea Maicii Domnului” este un lăcaș de cult din Râmnicu Sărat.",
+                  "category": "religious",
+                  "coords": [
+                        27.045286,
+                        45.375424
+                  ]
+            },
+            {
+                  "name": "Biserica „„Sfinții Voievozi” - Câța",
+                  "text": "Biserica „Sfinții Voievozi” - Câța este un lăcaș de cult din Râmnicu Sărat.",
+                  "category": "religious",
+                  "coords": [
+                        27.043746,
+                        45.377728
+                  ]
             }
       ],
       "en": [
@@ -5587,6 +5713,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.045347,
                         45.383101
+                  ]
+            },
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "Biserica „Nașterea Maicii Domnului” is a place of worship in Râmnicu Sărat.",
+                  "category": "religious",
+                  "coords": [
+                        27.045286,
+                        45.375424
+                  ]
+            },
+            {
+                  "name": "Biserica „„Sfinții Voievozi” - Câța",
+                  "text": "Biserica „Sfinții Voievozi” - Câța is a place of worship located in Râmnicu Sărat.",
+                  "category": "religious",
+                  "coords": [
+                        27.043746,
+                        45.377728
                   ]
             }
       ]
@@ -5652,6 +5796,15 @@ export const poiExtraRo1: POI[] = [
                         26.25,
                         45.5
                   ]
+            },
+            {
+                  "name": "Biserica de lemn „Adormirea Maicii Domnului”",
+                  "text": "Die Holzkirche „Adormirea Maicii Domnului” ist ein sakrales Gebäude in Nehoiu.",
+                  "category": "religious",
+                  "coords": [
+                        26.298052,
+                        45.428961
+                  ]
             }
       ],
       "hu": [
@@ -5673,6 +5826,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.25,
                         45.5
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Adormirea Maicii Domnului”",
+                  "text": "A Biserica de lemn „Adormirea Maicii Domnului” egy szakrális épület Nehoiu városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.298052,
+                        45.428961
                   ]
             }
       ],
@@ -5696,6 +5858,15 @@ export const poiExtraRo1: POI[] = [
                         26.25,
                         45.5
                   ]
+            },
+            {
+                  "name": "Biserica de lemn „Adormirea Maicii Domnului”",
+                  "text": "Biserica de lemn „Adormirea Maicii Domnului” este un lăcaș sacru din orașul Nehoiu.",
+                  "category": "religious",
+                  "coords": [
+                        26.298052,
+                        45.428961
+                  ]
             }
       ],
       "en": [
@@ -5717,6 +5888,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.25,
                         45.5
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Adormirea Maicii Domnului”",
+                  "text": "The wooden church „Adormirea Maicii Domnului” is a sacred building in the town of Nehoiu.",
+                  "category": "religious",
+                  "coords": [
+                        26.298052,
+                        45.428961
                   ]
             }
       ]
@@ -5929,6 +6109,24 @@ export const poiExtraRo1: POI[] = [
                         21.921308,
                         45.293703
                   ]
+            },
+            {
+                  "name": "Belvedere spre resita",
+                  "text": "Belvedere spre resita ist ein Aussichtspunkt mit Blick über die Stadt Reșița.",
+                  "category": "natural",
+                  "coords": [
+                        21.867046,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Old Religious Art Collection",
+                  "text": "Die Old Religious Art Collection ist eine Galerie in Reșița.",
+                  "category": "museum",
+                  "coords": [
+                        21.892566,
+                        45.290222
+                  ]
             }
       ],
       "hu": [
@@ -5967,6 +6165,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.921308,
                         45.293703
+                  ]
+            },
+            {
+                  "name": "Belvedere spre resita",
+                  "text": "A Belvedere spre resita egy kilátó, amely panorámát nyújt Reșița városára.",
+                  "category": "natural",
+                  "coords": [
+                        21.867046,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Old Religious Art Collection",
+                  "text": "A Régi Vallásos Művészeti Gyűjtemény egy galéria Reșița városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.892566,
+                        45.290222
                   ]
             }
       ],
@@ -6007,6 +6223,24 @@ export const poiExtraRo1: POI[] = [
                         21.921308,
                         45.293703
                   ]
+            },
+            {
+                  "name": "Belvedere spre resita",
+                  "text": "Belvedere spre Reșița este un punct de belvedere cu o priveliște panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        21.867046,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Old Religious Art Collection",
+                  "text": "Colecția de Artă Religioasă Veche este o galerie din Reșița.",
+                  "category": "museum",
+                  "coords": [
+                        21.892566,
+                        45.290222
+                  ]
             }
       ],
       "en": [
@@ -6045,6 +6279,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         21.921308,
                         45.293703
+                  ]
+            },
+            {
+                  "name": "Belvedere spre resita",
+                  "text": "Belvedere spre resita is a scenic viewpoint offering views over the city of Reșița.",
+                  "category": "natural",
+                  "coords": [
+                        21.867046,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Old Religious Art Collection",
+                  "text": "The Old Religious Art Collection is a gallery located in Reșița.",
+                  "category": "museum",
+                  "coords": [
+                        21.892566,
+                        45.290222
                   ]
             }
       ]
@@ -6130,6 +6382,51 @@ export const poiExtraRo1: POI[] = [
                         22.189219,
                         45.466321
                   ]
+            },
+            {
+                  "name": "Sinagoga Beit El",
+                  "text": "Die Synagoge Beit El ist eine historische Synagoge und Sehenswürdigkeit in Caransebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        22.218804,
+                        45.409824
+                  ]
+            },
+            {
+                  "name": "Caransebes Orthodox Bishopic Collection",
+                  "text": "Die Sammlung des orthodoxen Bistums Caransebes ist ein Museum in Caransebeș.",
+                  "category": "museum",
+                  "coords": [
+                        22.216407,
+                        45.412658
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Etnografie și al Regimentului de Graniță",
+                  "text": "Das Kreismuseum für Ethnografie und des Grenzregiments befindet sich in Caransebeș.",
+                  "category": "museum",
+                  "coords": [
+                        22.213584,
+                        45.41457
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul de vară",
+                  "text": "Das Amfiteatrul de vară ist ein Sommertheater in Caransebeș.",
+                  "category": "cultural",
+                  "coords": [
+                        22.202668,
+                        45.406324
+                  ]
+            },
+            {
+                  "name": "Andesite sculpture park",
+                  "text": "Der Andesit-Skulpturenpark ist eine lokale Attraktion mit Steinkunstwerken in Caransebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        22.194793,
+                        45.41484
+                  ]
             }
       ],
       "hu": [
@@ -6171,6 +6468,51 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.189219,
                         45.466321
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beit El",
+                  "text": "A Beit El Zsinagóga egy történelmi zsinagóga és látványosság Caransebeș városában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.218804,
+                        45.409824
+                  ]
+            },
+            {
+                  "name": "Caransebes Orthodox Bishopic Collection",
+                  "text": "A Karánsebesi Ortodox Püspökség Gyűjteménye egy múzeum Caransebeș városában.",
+                  "category": "museum",
+                  "coords": [
+                        22.216407,
+                        45.412658
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Etnografie și al Regimentului de Graniță",
+                  "text": "A Megyei Néprajzi és Határőrezred Múzeum Caransebeș városában található.",
+                  "category": "museum",
+                  "coords": [
+                        22.213584,
+                        45.41457
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul de vară",
+                  "text": "Az Amfiteatrul de vară egy színház Caransebeș városában.",
+                  "category": "cultural",
+                  "coords": [
+                        22.202668,
+                        45.406324
+                  ]
+            },
+            {
+                  "name": "Andesite sculpture park",
+                  "text": "Az Andezit szoborpark egy látványosság Caransebeș városában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.194793,
+                        45.41484
                   ]
             }
       ],
@@ -6214,6 +6556,51 @@ export const poiExtraRo1: POI[] = [
                         22.189219,
                         45.466321
                   ]
+            },
+            {
+                  "name": "Sinagoga Beit El",
+                  "text": "Sinagoga Beit El este o sinagogă istorică și o atracție în Caransebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        22.218804,
+                        45.409824
+                  ]
+            },
+            {
+                  "name": "Caransebes Orthodox Bishopic Collection",
+                  "text": "Colecția Episcopiei Ortodoxe din Caransebeș este un muzeu din localitate.",
+                  "category": "museum",
+                  "coords": [
+                        22.216407,
+                        45.412658
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Etnografie și al Regimentului de Graniță",
+                  "text": "Muzeul Județean de Etnografie și al Regimentului de Graniță este un muzeu din Caransebeș.",
+                  "category": "museum",
+                  "coords": [
+                        22.213584,
+                        45.41457
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul de vară",
+                  "text": "Amfiteatrul de vară este un teatru situat în Caransebeș.",
+                  "category": "cultural",
+                  "coords": [
+                        22.202668,
+                        45.406324
+                  ]
+            },
+            {
+                  "name": "Andesite sculpture park",
+                  "text": "Parcul de sculptură în andezit este o atracție locală din Caransebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        22.194793,
+                        45.41484
+                  ]
             }
       ],
       "en": [
@@ -6255,6 +6642,51 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.189219,
                         45.466321
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beit El",
+                  "text": "Sinagoga Beit El is a historic synagogue and attraction in Caransebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        22.218804,
+                        45.409824
+                  ]
+            },
+            {
+                  "name": "Caransebes Orthodox Bishopic Collection",
+                  "text": "The Caransebes Orthodox Bishopic Collection is a museum located in Caransebeș.",
+                  "category": "museum",
+                  "coords": [
+                        22.216407,
+                        45.412658
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Etnografie și al Regimentului de Graniță",
+                  "text": "The County Museum of Ethnography and Border Regiment is located in Caransebeș.",
+                  "category": "museum",
+                  "coords": [
+                        22.213584,
+                        45.41457
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul de vară",
+                  "text": "Amfiteatrul de vară is a theatre venue in Caransebeș.",
+                  "category": "cultural",
+                  "coords": [
+                        22.202668,
+                        45.406324
+                  ]
+            },
+            {
+                  "name": "Andesite sculpture park",
+                  "text": "The Andesite sculpture park is an attraction featuring stone artworks in Caransebeș.",
+                  "category": "landmark",
+                  "coords": [
+                        22.194793,
+                        45.41484
                   ]
             }
       ]
@@ -6469,7 +6901,348 @@ export const poiExtraRo1: POI[] = [
       "en": ["The capital of Călărași County.", "An important port on the Danube River.", "The city is located on the Bărăgan Plain.", "The local economy is based on agriculture and industry.", "Călărași has a ferry service to Bulgaria.", "The area is known for its vineyards and wine production."]
     },
     image: "/poi-images/city-calarasi-extra.webp",
-    "sights": {"de": [{"name": "Museum der Unteren Donau", "text": "Ein bedeutendes Museum mit reichen archäologischen Funden aus der Jungsteinzeit und der byzantinischen Zeit der Region.", "category": "museum", "confidence": "high", "coords": [27.329315, 44.191577]}, {"name": "Zoo Călărași", "text": "Einer der größten Zoos Rumäniens, direkt am Ufer des Borcea-Arms gelegen, beherbergt zahlreiche exotische und heimische Tierarten.", "category": "recreational", "confidence": "high", "coords": [27.318481, 44.194257]}, {"name": "Plaja Tineretului", "text": "Direkt in der Stadt Călărași gelegen, bildet dieser Strand einen beliebten Treffpunkt am Flussufer. Einheimische und Gäste nutzen das Gelände gleichermaßen für ausgiebige Sonnenbäder und gesellige Stunden am Wasser. An warmen Sommertagen bringt ein Sprung ins kühle Nass die ersehnte Erfrischung.", "category": "recreational", "coords": [27.325457, 44.181002]}, {"name": "Plaja Mare", "text": "Die Weitläufigkeit dieses Uferstrandes nahe Călărași zieht viele Erholungssuchende an. Hier lässt es sich gemütlich am Wasser spazieren, während man das ruhige Treiben am Fluss beobachtet. Packen Sie am besten Picknick-Zubehör ein, um den Tag in der rumänischen Natur voll auszukosten.", "category": "recreational", "coords": [27.330477, 44.187153]}], "hu": [{"name": "Alsó-Duna Múzeum", "text": "A térség legfontosabb múzeuma, amely gazdag újkőkori és bizánci régészeti gyűjteménnyel rendelkezik a Duna mentéről.", "category": "museum", "confidence": "high", "coords": [27.329315, 44.191577]}, {"name": "Călărași Állatkert", "text": "Románia egyik legnagyobb állatkertje, amely a Borcea-ág partján fekszik, és számos egzotikus állatfajnak ad otthont.", "category": "recreational", "confidence": "high", "coords": [27.318481, 44.194257]}, {"name": "Plaja Tineretului", "text": "A közvetlenül Călărași városában található strand népszerű találkozóhely a folyóparton. A helyiek és a vendégek egyaránt szívesen használják a területet napozásra és a vízparti társasági életre. A meleg nyári napokon a hűsítő vízbe való csobbanás hozza el a várva várt felfrissülést.", "category": "recreational", "coords": [27.325457, 44.181002]}, {"name": "Plaja Mare", "text": "A Călărași közelében található folyóparti strand tágassága sok kikapcsolódni vágyót vonz. Itt kényelmesen sétálhat a víz mentén, miközben figyeli a folyó békés életét. A romániai természetben töltött nap tökéletes élvezetéhez érdemes piknikfelszerelést is csomagolni.", "category": "recreational", "coords": [27.330477, 44.187153]}], "ro": [{"name": "Muzeul Dunării de Jos", "text": "Instituție culturală de prestigiu ce deține colecții arheologice valoroase, inclusiv piese unice din cultura Gumelnița.", "category": "museum", "confidence": "high", "coords": [27.329315, 44.191577]}, {"name": "Grădina Zoologică Călărași", "text": "Una dintre cele mai mari și moderne grădini zoologice din țară, situată pe malul brațului Borcea, cu o diversitate mare de specii.", "category": "recreational", "confidence": "high", "coords": [27.318481, 44.194257]}, {"name": "Plaja Tineretului", "text": "Situată direct în orașul Călărași, această plajă reprezintă un punct de întâlnire popular pe malul râului. Localnicii și oaspeții deopotrivă folosesc zona pentru băi lungi de soare și socializare la malul apei. În zilele calde de vară, o baie în apă aduce o răcorire binemeritată.", "category": "recreational", "coords": [27.325457, 44.181002]}, {"name": "Plaja Mare", "text": "Spațiul vast al acestei plaje pe malul râului, lângă Călărași, atrage mulți oameni în căutare de relaxare. Aici vă puteți plimba pe îndelete de-a lungul apei, urmărind activitatea pașnică de pe râu. Cel mai bine este să împachetați provizii pentru picnic pentru a vă bucura din plin de o zi în natura românească.", "category": "recreational", "coords": [27.330477, 44.187153]}], "en": [{"name": "Lower Danube Museum", "text": "A prominent cultural institution featuring impressive archaeological displays from the Neolithic and Byzantine eras.", "category": "museum", "confidence": "high", "coords": [27.329315, 44.191577]}, {"name": "Călărași Zoo", "text": "One of Romania's largest zoos, located on the banks of the Borcea branch, hosting a wide variety of exotic animals.", "category": "recreational", "confidence": "high", "coords": [27.318481, 44.194257]}, {"name": "Plaja Tineretului", "text": "Located directly in the city of Călărași, this beach forms a popular gathering spot along the riverbank. Locals and guests alike use the area for extensive sunbathing and socializing by the water. On warm summer days, taking a dip brings much-needed refreshment.", "category": "recreational", "coords": [27.325457, 44.181002]}, {"name": "Plaja Mare", "text": "The spaciousness of this riverside beach near Călărași attracts many people seeking relaxation. Here you can take a leisurely walk along the water while watching the peaceful activity on the river. It is best to pack some picnic supplies to fully enjoy a day out in the Romanian nature.", "category": "recreational", "coords": [27.330477, 44.187153]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Museum der Unteren Donau",
+                  "text": "Ein bedeutendes Museum mit reichen archäologischen Funden aus der Jungsteinzeit und der byzantinischen Zeit der Region.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        27.329315,
+                        44.191577
+                  ]
+            },
+            {
+                  "name": "Zoo Călărași",
+                  "text": "Einer der größten Zoos Rumäniens, direkt am Ufer des Borcea-Arms gelegen, beherbergt zahlreiche exotische und heimische Tierarten.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        27.318481,
+                        44.194257
+                  ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "Direkt in der Stadt Călărași gelegen, bildet dieser Strand einen beliebten Treffpunkt am Flussufer. Einheimische und Gäste nutzen das Gelände gleichermaßen für ausgiebige Sonnenbäder und gesellige Stunden am Wasser. An warmen Sommertagen bringt ein Sprung ins kühle Nass die ersehnte Erfrischung.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "Die Weitläufigkeit dieses Uferstrandes nahe Călărași zieht viele Erholungssuchende an. Hier lässt es sich gemütlich am Wasser spazieren, während man das ruhige Treiben am Fluss beobachtet. Packen Sie am besten Picknick-Zubehör ein, um den Tag in der rumänischen Natur voll auszukosten.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
+                  ]
+            },
+            {
+                  "name": "Primăria",
+                  "text": "Primăria, das alte Rathausgebäude, dient heute als Museum in Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.334697,
+                        44.190207
+                  ]
+            },
+            {
+                  "name": "Muzeul Dunării de Jos. Secția de Arheologie și Tezaur",
+                  "text": "Die Abteilung für Archäologie und Schatzkammer des Museums der Unteren Donau befindet sich in Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.332508,
+                        44.191067
+                  ]
+            },
+            {
+                  "name": "Lower Danube Museum. Ethnography and Folk Art Department",
+                  "text": "Die Abteilung für Ethnografie und Volkskunst des Museums der Unteren Donau befindet sich in Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.333595,
+                        44.190385
+                  ]
+            },
+            {
+                  "name": "Saint-Gobain Călărași",
+                  "text": "Saint-Gobain Călărași ist ein Denkmal in der Stadt Călărași.",
+                  "category": "historical",
+                  "coords": [
+                        27.327395,
+                        44.214639
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena” - Volna",
+                  "text": "Biserica „Sfinții Împărați Constantin și Elena” - Volna ist eine Kultstätte in Călărași.",
+                  "category": "religious",
+                  "coords": [
+                        27.328721,
+                        44.194404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alsó-Duna Múzeum",
+                  "text": "A térség legfontosabb múzeuma, amely gazdag újkőkori és bizánci régészeti gyűjteménnyel rendelkezik a Duna mentéről.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        27.329315,
+                        44.191577
+                  ]
+            },
+            {
+                  "name": "Călărași Állatkert",
+                  "text": "Románia egyik legnagyobb állatkertje, amely a Borcea-ág partján fekszik, és számos egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        27.318481,
+                        44.194257
+                  ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "A közvetlenül Călărași városában található strand népszerű találkozóhely a folyóparton. A helyiek és a vendégek egyaránt szívesen használják a területet napozásra és a vízparti társasági életre. A meleg nyári napokon a hűsítő vízbe való csobbanás hozza el a várva várt felfrissülést.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "A Călărași közelében található folyóparti strand tágassága sok kikapcsolódni vágyót vonz. Itt kényelmesen sétálhat a víz mentén, miközben figyeli a folyó békés életét. A romániai természetben töltött nap tökéletes élvezetéhez érdemes piknikfelszerelést is csomagolni.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
+                  ]
+            },
+            {
+                  "name": "Primăria",
+                  "text": "A Primăria, a régi városháza épülete ma múzeumként működik Călărași városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.334697,
+                        44.190207
+                  ]
+            },
+            {
+                  "name": "Muzeul Dunării de Jos. Secția de Arheologie și Tezaur",
+                  "text": "Az Al-Duna Múzeum régészeti és kincstári részlege Călărași városában található.",
+                  "category": "museum",
+                  "coords": [
+                        27.332508,
+                        44.191067
+                  ]
+            },
+            {
+                  "name": "Lower Danube Museum. Ethnography and Folk Art Department",
+                  "text": "Az Al-Duna Múzeum Néprajzi és Népművészeti Osztálya Călărași városában tekinthető meg.",
+                  "category": "museum",
+                  "coords": [
+                        27.333595,
+                        44.190385
+                  ]
+            },
+            {
+                  "name": "Saint-Gobain Călărași",
+                  "text": "A Saint-Gobain Călărași egy emlékmű Călărași városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.327395,
+                        44.214639
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena” - Volna",
+                  "text": "A Biserica „Sfinții Împărați Constantin și Elena” - Volna egy istentiszteleti hely Călărași városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.328721,
+                        44.194404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Dunării de Jos",
+                  "text": "Instituție culturală de prestigiu ce deține colecții arheologice valoroase, inclusiv piese unice din cultura Gumelnița.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        27.329315,
+                        44.191577
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Călărași",
+                  "text": "Una dintre cele mai mari și moderne grădini zoologice din țară, situată pe malul brațului Borcea, cu o diversitate mare de specii.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        27.318481,
+                        44.194257
+                  ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "Situată direct în orașul Călărași, această plajă reprezintă un punct de întâlnire popular pe malul râului. Localnicii și oaspeții deopotrivă folosesc zona pentru băi lungi de soare și socializare la malul apei. În zilele calde de vară, o baie în apă aduce o răcorire binemeritată.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "Spațiul vast al acestei plaje pe malul râului, lângă Călărași, atrage mulți oameni în căutare de relaxare. Aici vă puteți plimba pe îndelete de-a lungul apei, urmărind activitatea pașnică de pe râu. Cel mai bine este să împachetați provizii pentru picnic pentru a vă bucura din plin de o zi în natura românească.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
+                  ]
+            },
+            {
+                  "name": "Primăria",
+                  "text": "Fosta Primărie din Călărași este o clădire istorică ce găzduiește un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        27.334697,
+                        44.190207
+                  ]
+            },
+            {
+                  "name": "Muzeul Dunării de Jos. Secția de Arheologie și Tezaur",
+                  "text": "Secția de Arheologie și Tezaur a Muzeului Dunării de Jos se află în Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.332508,
+                        44.191067
+                  ]
+            },
+            {
+                  "name": "Lower Danube Museum. Ethnography and Folk Art Department",
+                  "text": "Secția de Etnografie și Artă Populară a Muzeului Dunării de Jos este situată în Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.333595,
+                        44.190385
+                  ]
+            },
+            {
+                  "name": "Saint-Gobain Călărași",
+                  "text": "Saint-Gobain Călărași este un monument din orașul Călărași.",
+                  "category": "historical",
+                  "coords": [
+                        27.327395,
+                        44.214639
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena” - Volna",
+                  "text": "Biserica „Sfinții Împărați Constantin și Elena” - Volna este un lăcaș de cult din Călărași.",
+                  "category": "religious",
+                  "coords": [
+                        27.328721,
+                        44.194404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lower Danube Museum",
+                  "text": "A prominent cultural institution featuring impressive archaeological displays from the Neolithic and Byzantine eras.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        27.329315,
+                        44.191577
+                  ]
+            },
+            {
+                  "name": "Călărași Zoo",
+                  "text": "One of Romania's largest zoos, located on the banks of the Borcea branch, hosting a wide variety of exotic animals.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        27.318481,
+                        44.194257
+                  ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "Located directly in the city of Călărași, this beach forms a popular gathering spot along the riverbank. Locals and guests alike use the area for extensive sunbathing and socializing by the water. On warm summer days, taking a dip brings much-needed refreshment.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "The spaciousness of this riverside beach near Călărași attracts many people seeking relaxation. Here you can take a leisurely walk along the water while watching the peaceful activity on the river. It is best to pack some picnic supplies to fully enjoy a day out in the Romanian nature.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
+                  ]
+            },
+            {
+                  "name": "Primăria",
+                  "text": "Primăria, the old city hall building, now serves as a museum in Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.334697,
+                        44.190207
+                  ]
+            },
+            {
+                  "name": "Muzeul Dunării de Jos. Secția de Arheologie și Tezaur",
+                  "text": "The Lower Danube Museum's Archaeology and Treasury section is located in Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.332508,
+                        44.191067
+                  ]
+            },
+            {
+                  "name": "Lower Danube Museum. Ethnography and Folk Art Department",
+                  "text": "The Ethnography and Folk Art Department of the Lower Danube Museum is in Călărași.",
+                  "category": "museum",
+                  "coords": [
+                        27.333595,
+                        44.190385
+                  ]
+            },
+            {
+                  "name": "Saint-Gobain Călărași",
+                  "text": "Saint-Gobain Călărași is a monument located in the city of Călărași.",
+                  "category": "historical",
+                  "coords": [
+                        27.327395,
+                        44.214639
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena” - Volna",
+                  "text": "Biserica „Sfinții Împărați Constantin și Elena” - Volna is a place of worship in Călărași.",
+                  "category": "religious",
+                  "coords": [
+                        27.328721,
+                        44.194404
+                  ]
+            }
+      ]
+}
   },
   {
     "id": "city-oltenita-extra",
@@ -7179,6 +7952,15 @@ export const poiExtraRo1: POI[] = [
                         23.869923,
                         47.147738
                   ]
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Biserica Reformată ist eine historische reformierte Kirche und Kultstätte in Dej.",
+                  "category": "religious",
+                  "coords": [
+                        23.873745,
+                        47.143034
+                  ]
             }
       ],
       "hu": [
@@ -7208,6 +7990,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.869923,
                         47.147738
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "A Biserica Reformată egy történelmi református templom Dej városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.873745,
+                        47.143034
                   ]
             }
       ],
@@ -7239,6 +8030,15 @@ export const poiExtraRo1: POI[] = [
                         23.869923,
                         47.147738
                   ]
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Biserica Reformată este un important lăcaș de cult istoric din orașul Dej.",
+                  "category": "religious",
+                  "coords": [
+                        23.873745,
+                        47.143034
+                  ]
             }
       ],
       "en": [
@@ -7268,6 +8068,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         23.869923,
                         47.147738
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată",
+                  "text": "Biserica Reformată is a historic Reformed church and place of worship in Dej.",
+                  "category": "religious",
+                  "coords": [
+                        23.873745,
+                        47.143034
                   ]
             }
       ]
@@ -14457,6 +15266,33 @@ export const poiExtraRo1: POI[] = [
                         26.666243,
                         44.775087
                   ]
+            },
+            {
+                  "name": "Primăria Manasia",
+                  "text": "Die Primăria Manasia ist ein bemerkenswertes städtisches Gebäude in der Nähe von Urziceni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.666727,
+                        44.704583
+                  ]
+            },
+            {
+                  "name": "Conacul Hagianoff",
+                  "text": "Das Herrenhaus Hagianoff ist ein historisches Anwesen in Urziceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.665269,
+                        44.704347
+                  ]
+            },
+            {
+                  "name": "Conacul Gălățeanu",
+                  "text": "Das Herrenhaus Gălățeanu ist ein elegantes Anwesen in Urziceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.634081,
+                        44.7121
+                  ]
             }
       ],
       "hu": [
@@ -14496,6 +15332,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.666243,
                         44.775087
+                  ]
+            },
+            {
+                  "name": "Primăria Manasia",
+                  "text": "A Primăria Manasia egy jelentős önkormányzati épület Urziceni közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.666727,
+                        44.704583
+                  ]
+            },
+            {
+                  "name": "Conacul Hagianoff",
+                  "text": "A Hagianoff-kúria egy történelmi udvarház Urziceni városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.665269,
+                        44.704347
+                  ]
+            },
+            {
+                  "name": "Conacul Gălățeanu",
+                  "text": "A Gălățeanu-kúria egy elegáns udvarház Urziceni városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.634081,
+                        44.7121
                   ]
             }
       ],
@@ -14537,6 +15400,33 @@ export const poiExtraRo1: POI[] = [
                         26.666243,
                         44.775087
                   ]
+            },
+            {
+                  "name": "Primăria Manasia",
+                  "text": "Primăria Manasia este o clădire municipală notabilă situată lângă Urziceni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.666727,
+                        44.704583
+                  ]
+            },
+            {
+                  "name": "Conacul Hagianoff",
+                  "text": "Conacul Hagianoff este un conac istoric situat în Urziceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.665269,
+                        44.704347
+                  ]
+            },
+            {
+                  "name": "Conacul Gălățeanu",
+                  "text": "Conacul Gălățeanu este un conac elegant situat în Urziceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.634081,
+                        44.7121
+                  ]
             }
       ],
       "en": [
@@ -14576,6 +15466,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.666243,
                         44.775087
+                  ]
+            },
+            {
+                  "name": "Primăria Manasia",
+                  "text": "Primăria Manasia is a notable municipal building located near Urziceni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.666727,
+                        44.704583
+                  ]
+            },
+            {
+                  "name": "Conacul Hagianoff",
+                  "text": "Conacul Hagianoff is a historic manor situated in Urziceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.665269,
+                        44.704347
+                  ]
+            },
+            {
+                  "name": "Conacul Gălățeanu",
+                  "text": "Conacul Gălățeanu is an elegant manor located in Urziceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.634081,
+                        44.7121
                   ]
             }
       ]
@@ -14630,6 +15547,24 @@ export const poiExtraRo1: POI[] = [
                         27.830749,
                         44.367154
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Die Kirche „Adormirea Maicii Domnului” ist ein Gotteshaus in Fetești.",
+                  "category": "religious",
+                  "coords": [
+                        27.845327,
+                        44.378421
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+                  "text": "Die Biserica Ortodoxă „Sfântul Nicolae” ist eine orthodoxe Kirche in Fetești.",
+                  "category": "religious",
+                  "coords": [
+                        27.833352,
+                        44.369162
+                  ]
             }
       ],
       "hu": [
@@ -14651,6 +15586,24 @@ export const poiExtraRo1: POI[] = [
                         27.830749,
                         44.367154
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Az „Adormirea Maicii Domnului” templom egy istenháza Fetești városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.845327,
+                        44.378421
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+                  "text": "A Biserica Ortodoxă „Sfântul Nicolae” egy ortodox templom Feteštiben.",
+                  "category": "religious",
+                  "coords": [
+                        27.833352,
+                        44.369162
+                  ]
             }
       ],
       "ro": [
@@ -14662,6 +15615,24 @@ export const poiExtraRo1: POI[] = [
                         27.830749,
                         44.367154
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Biserica „Adormirea Maicii Domnului” este un lăcaș de închinăciune din Fetești.",
+                  "category": "religious",
+                  "coords": [
+                        27.845327,
+                        44.378421
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+                  "text": "Biserica Ortodoxă „Sfântul Nicolae” este o parohie ortodoxă din municipiul Fetești.",
+                  "category": "religious",
+                  "coords": [
+                        27.833352,
+                        44.369162
+                  ]
             }
       ],
       "en": [
@@ -14672,6 +15643,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.830749,
                         44.367154
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "The Church „Adormirea Maicii Domnului” is a place of worship in Fetești.",
+                  "category": "religious",
+                  "coords": [
+                        27.845327,
+                        44.378421
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae”",
+                  "text": "Biserica Ortodoxă „Sfântul Nicolae” is an Orthodox parish church in Fetești.",
+                  "category": "religious",
+                  "coords": [
+                        27.833352,
+                        44.369162
                   ]
             }
       ]
@@ -14727,6 +15716,15 @@ export const poiExtraRo1: POI[] = [
                         27.648264,
                         44.647094
                   ]
+            },
+            {
+                  "name": "Biserica „Sfinții Voievozi”",
+                  "text": "Die Biserica „Sfinții Voievozi” ist eine lokale Kultstätte in der Stadt Țăndărei.",
+                  "category": "religious",
+                  "coords": [
+                        27.665066,
+                        44.637947
+                  ]
             }
       ],
       "hu": [
@@ -14738,6 +15736,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.648264,
                         44.647094
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Voievozi”",
+                  "text": "A Biserica „Sfinții Voievozi” egy helyi istentiszteleti hely Țăndărei városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.665066,
+                        44.637947
                   ]
             }
       ],
@@ -14751,6 +15758,15 @@ export const poiExtraRo1: POI[] = [
                         27.648264,
                         44.647094
                   ]
+            },
+            {
+                  "name": "Biserica „Sfinții Voievozi”",
+                  "text": "Biserica „Sfinții Voievozi” este un lăcaș de cult din orașul Țăndărei.",
+                  "category": "religious",
+                  "coords": [
+                        27.665066,
+                        44.637947
+                  ]
             }
       ],
       "en": [
@@ -14762,6 +15778,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.648264,
                         44.647094
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Voievozi”",
+                  "text": "Biserica „Sfinții Voievozi” is a local place of worship in the city of Țăndărei.",
+                  "category": "religious",
+                  "coords": [
+                        27.665066,
+                        44.637947
                   ]
             }
       ]
@@ -20733,6 +21758,15 @@ export const poiExtraRo1: POI[] = [
                         25.534966,
                         45.358677
                   ]
+            },
+            {
+                  "name": "\"Cezar Petrescu\" Memorial House",
+                  "text": "Das Gedenkhaus „Cezar Petrescu“ ist ein bekanntes Museum in Sinaia, das dem rumänischen Schriftsteller gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.547516,
+                        45.422831
+                  ]
             }
       ],
       "hu": [
@@ -20775,6 +21809,15 @@ export const poiExtraRo1: POI[] = [
                         25.534966,
                         45.358677
                   ]
+            },
+            {
+                  "name": "\"Cezar Petrescu\" Memorial House",
+                  "text": "A „Cezar Petrescu” Emlékház egy nevezetes múzeum Sinaiában, amelyet a román írónak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        25.547516,
+                        45.422831
+                  ]
             }
       ],
       "ro": [
@@ -20807,6 +21850,15 @@ export const poiExtraRo1: POI[] = [
                         25.534966,
                         45.358677
                   ]
+            },
+            {
+                  "name": "\"Cezar Petrescu\" Memorial House",
+                  "text": "Casa Memorială „Cezar Petrescu” este un muzeu notabil situat în Sinaia, dedicat scriitorului român.",
+                  "category": "museum",
+                  "coords": [
+                        25.547516,
+                        45.422831
+                  ]
             }
       ],
       "en": [
@@ -20828,6 +21880,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.534966,
                         45.358677
+                  ]
+            },
+            {
+                  "name": "\"Cezar Petrescu\" Memorial House",
+                  "text": "The \"Cezar Petrescu\" Memorial House is a notable museum located in Sinaia, dedicated to the Romanian writer.",
+                  "category": "museum",
+                  "coords": [
+                        25.547516,
+                        45.422831
                   ]
             }
       ]
@@ -22775,6 +23836,15 @@ export const poiExtraRo1: POI[] = [
                         26.294868,
                         47.456514
                   ]
+            },
+            {
+                  "name": "Outstanding People's Gallery",
+                  "text": "Die Outstanding People's Gallery ist ein Museum in Fălticeni.",
+                  "category": "museum",
+                  "coords": [
+                        26.299689,
+                        47.465314
+                  ]
             }
       ],
       "hu": [
@@ -22816,6 +23886,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.294868,
                         47.456514
+                  ]
+            },
+            {
+                  "name": "Outstanding People's Gallery",
+                  "text": "Az Outstanding People's Gallery egy múzeum Fălticeni városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.299689,
+                        47.465314
                   ]
             }
       ],
@@ -22859,6 +23938,15 @@ export const poiExtraRo1: POI[] = [
                         26.294868,
                         47.456514
                   ]
+            },
+            {
+                  "name": "Outstanding People's Gallery",
+                  "text": "Outstanding People's Gallery este un muzeu situat în Fălticeni.",
+                  "category": "museum",
+                  "coords": [
+                        26.299689,
+                        47.465314
+                  ]
             }
       ],
       "en": [
@@ -22900,6 +23988,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         26.294868,
                         47.456514
+                  ]
+            },
+            {
+                  "name": "Outstanding People's Gallery",
+                  "text": "The Outstanding People's Gallery is a museum situated in Fălticeni.",
+                  "category": "museum",
+                  "coords": [
+                        26.299689,
+                        47.465314
                   ]
             }
       ]
@@ -26765,6 +27862,33 @@ export const poiExtraRo1: POI[] = [
                         24.268947,
                         44.658338
                   ]
+            },
+            {
+                  "name": "\"St. Elias\" Church Museum Collection",
+                  "text": "Die Museumssammlung der St.-Elias-Kirche ist ein Museum in Drăgășani.",
+                  "category": "museum",
+                  "coords": [
+                        24.262015,
+                        44.663427
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Gib Mihăescu",
+                  "text": "Die Casa Memorială Gib Mihăescu ist ein Gedenkmuseum in Drăgășani.",
+                  "category": "museum",
+                  "coords": [
+                        24.263119,
+                        44.658969
+                  ]
+            },
+            {
+                  "name": "Turnul de Apă",
+                  "text": "Turnul de Apă ist ein markantes Gebäude in Drăgășani.",
+                  "category": "landmark",
+                  "coords": [
+                        24.26651,
+                        44.659735
+                  ]
             }
       ],
       "hu": [
@@ -26804,6 +27928,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.268947,
                         44.658338
+                  ]
+            },
+            {
+                  "name": "\"St. Elias\" Church Museum Collection",
+                  "text": "A Szent Illés Templom Múzeumi Gyűjteménye Drăgășani városában található.",
+                  "category": "museum",
+                  "coords": [
+                        24.262015,
+                        44.663427
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Gib Mihăescu",
+                  "text": "A Casa Memorială Gib Mihăescu egy múzeum Drăgășani városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.263119,
+                        44.658969
+                  ]
+            },
+            {
+                  "name": "Turnul de Apă",
+                  "text": "A Turnul de Apă egy épület Drăgășani városában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.26651,
+                        44.659735
                   ]
             }
       ],
@@ -26845,6 +27996,33 @@ export const poiExtraRo1: POI[] = [
                         24.268947,
                         44.658338
                   ]
+            },
+            {
+                  "name": "\"St. Elias\" Church Museum Collection",
+                  "text": "Colecția Muzeală a Bisericii „Sf. Ilie” este un muzeu situat în Drăgășani.",
+                  "category": "museum",
+                  "coords": [
+                        24.262015,
+                        44.663427
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Gib Mihăescu",
+                  "text": "Casa Memorială Gib Mihăescu este un muzeu situat în Drăgășani.",
+                  "category": "museum",
+                  "coords": [
+                        24.263119,
+                        44.658969
+                  ]
+            },
+            {
+                  "name": "Turnul de Apă",
+                  "text": "Turnul de Apă este o clădire notabilă situată în Drăgășani.",
+                  "category": "landmark",
+                  "coords": [
+                        24.26651,
+                        44.659735
+                  ]
             }
       ],
       "en": [
@@ -26884,6 +28062,33 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.268947,
                         44.658338
+                  ]
+            },
+            {
+                  "name": "\"St. Elias\" Church Museum Collection",
+                  "text": "The \"St. Elias\" Church Museum Collection is a museum situated in Drăgășani.",
+                  "category": "museum",
+                  "coords": [
+                        24.262015,
+                        44.663427
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Gib Mihăescu",
+                  "text": "Casa Memorială Gib Mihăescu is a memorial museum located in Drăgășani.",
+                  "category": "museum",
+                  "coords": [
+                        24.263119,
+                        44.658969
+                  ]
+            },
+            {
+                  "name": "Turnul de Apă",
+                  "text": "Turnul de Apă is a building located in Drăgășani.",
+                  "category": "landmark",
+                  "coords": [
+                        24.26651,
+                        44.659735
                   ]
             }
       ]

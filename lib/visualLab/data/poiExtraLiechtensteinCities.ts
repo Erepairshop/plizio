@@ -4332,10 +4332,50 @@ export const poiExtraLiechtensteinCities: POI[] = [
   },
   {
     id: "city-unterm-schloss-extra", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "St. Erasmus-Kapelle",
+                  "text": "Die St. Erasmus-Kapelle ist eine lokale Sehenswürdigkeit in Unterm Schloss.",
+                  "category": "landmark",
+                  "coords": [
+                        9.489271,
+                        47.09018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Erasmus-Kapelle",
+                  "text": "A St. Erasmus-Kapelle egy helyi nevezetesség Unterm Schloss területén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.489271,
+                        47.09018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Erasmus-Kapelle",
+                  "text": "St. Erasmus-Kapelle este un punct de interes local situat în Unterm Schloss.",
+                  "category": "landmark",
+                  "coords": [
+                        9.489271,
+                        47.09018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Erasmus-Kapelle",
+                  "text": "St. Erasmus-Kapelle is a local point of interest situated in Unterm Schloss.",
+                  "category": "landmark",
+                  "coords": [
+                        9.489271,
+                        47.09018
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "LI-004",
@@ -6373,6 +6413,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.541659,
                         47.197472
                   ]
+            },
+            {
+                  "name": "Sankt Sebastian und Rochus",
+                  "text": "Sankt Sebastian und Rochus ist ein Gotteshaus im Presta-Areal.",
+                  "category": "religious",
+                  "coords": [
+                        9.544837,
+                        47.199253
+                  ]
             }
       ],
       "hu": [
@@ -6383,6 +6432,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.541659,
                         47.197472
+                  ]
+            },
+            {
+                  "name": "Sankt Sebastian und Rochus",
+                  "text": "A Sankt Sebastian und Rochus egy istentiszteleti hely a Presta-Areal területén.",
+                  "category": "religious",
+                  "coords": [
+                        9.544837,
+                        47.199253
                   ]
             }
       ],
@@ -6395,6 +6453,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                         9.541659,
                         47.197472
                   ]
+            },
+            {
+                  "name": "Sankt Sebastian und Rochus",
+                  "text": "Sankt Sebastian und Rochus este un lăcaș de cult situat în Presta-Areal.",
+                  "category": "religious",
+                  "coords": [
+                        9.544837,
+                        47.199253
+                  ]
             }
       ],
       "en": [
@@ -6405,6 +6472,15 @@ export const poiExtraLiechtensteinCities: POI[] = [
                   "coords": [
                         9.541659,
                         47.197472
+                  ]
+            },
+            {
+                  "name": "Sankt Sebastian und Rochus",
+                  "text": "Sankt Sebastian und Rochus is a place of worship located in the Presta-Areal.",
+                  "category": "religious",
+                  "coords": [
+                        9.544837,
+                        47.199253
                   ]
             }
       ]

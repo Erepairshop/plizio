@@ -2161,6 +2161,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.487359,
                         35.903123
                   ]
+            },
+            {
+                  "name": "Saint Joseph Parish Church",
+                  "text": "Die Pfarrkirche St. Joseph ist ein schönes historisches Gebäude in Msida.",
+                  "category": "landmark",
+                  "coords": [
+                        14.490019,
+                        35.896717
+                  ]
             }
       ],
       "hu": [
@@ -2198,6 +2207,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.487359,
                         35.903123
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Parish Church",
+                  "text": "A Szent József-plébániatemplom egy gyönyörű műemléképület Msida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.490019,
+                        35.896717
                   ]
             }
       ],
@@ -2237,6 +2255,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.487359,
                         35.903123
                   ]
+            },
+            {
+                  "name": "Saint Joseph Parish Church",
+                  "text": "Biserica Parohială Sfântul Iosif este o clădire de patrimoniu frumoasă situată în Msida.",
+                  "category": "landmark",
+                  "coords": [
+                        14.490019,
+                        35.896717
+                  ]
             }
       ],
       "en": [
@@ -2274,6 +2301,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.487359,
                         35.903123
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Parish Church",
+                  "text": "Saint Joseph Parish Church is a beautiful heritage building located in Msida.",
+                  "category": "landmark",
+                  "coords": [
+                        14.490019,
+                        35.896717
                   ]
             }
       ]
@@ -3766,6 +3802,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.503691,
                         35.891918
                   ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Das Independence Monument ist ein Wahrzeichen in Floriana.",
+                  "category": "historical",
+                  "coords": [
+                        14.506454,
+                        35.894365
+                  ]
+            },
+            {
+                  "name": "MICAS Vaults",
+                  "text": "Die MICAS Vaults sind ein Museum in Floriana.",
+                  "category": "museum",
+                  "coords": [
+                        14.50086,
+                        35.894561
+                  ]
+            },
+            {
+                  "name": "Floriana Old Train Station",
+                  "text": "Die Floriana Old Train Station ist eine historische verkehrsbezogene Attraktion in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502761,
+                        35.891705
+                  ]
             }
       ],
       "hu": [
@@ -3785,6 +3848,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.503691,
                         35.891918
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Az Independence Monument egy emlékmű Florianában.",
+                  "category": "historical",
+                  "coords": [
+                        14.506454,
+                        35.894365
+                  ]
+            },
+            {
+                  "name": "MICAS Vaults",
+                  "text": "A MICAS Vaults egy múzeum Florianában.",
+                  "category": "museum",
+                  "coords": [
+                        14.50086,
+                        35.894561
+                  ]
+            },
+            {
+                  "name": "Floriana Old Train Station",
+                  "text": "A Floriana Old Train Station egy történelmi közlekedési látványosság a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502761,
+                        35.891705
                   ]
             }
       ],
@@ -3806,6 +3896,33 @@ export const poiExtraMaltaCities: POI[] = [
                         14.503691,
                         35.891918
                   ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Monumentul Independenței este un monument și un reper situat în Floriana.",
+                  "category": "historical",
+                  "coords": [
+                        14.506454,
+                        35.894365
+                  ]
+            },
+            {
+                  "name": "MICAS Vaults",
+                  "text": "MICAS Vaults este un muzeu situat în Floriana.",
+                  "category": "museum",
+                  "coords": [
+                        14.50086,
+                        35.894561
+                  ]
+            },
+            {
+                  "name": "Floriana Old Train Station",
+                  "text": "Floriana Old Train Station este o atracție istorică legată de transport din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502761,
+                        35.891705
+                  ]
             }
       ],
       "en": [
@@ -3825,6 +3942,33 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.503691,
                         35.891918
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "The Independence Monument is a landmark located in Floriana.",
+                  "category": "historical",
+                  "coords": [
+                        14.506454,
+                        35.894365
+                  ]
+            },
+            {
+                  "name": "MICAS Vaults",
+                  "text": "The MICAS Vaults is a museum situated in Floriana.",
+                  "category": "museum",
+                  "coords": [
+                        14.50086,
+                        35.894561
+                  ]
+            },
+            {
+                  "name": "Floriana Old Train Station",
+                  "text": "The Floriana Old Train Station is a historic transport-related attraction in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502761,
+                        35.891705
                   ]
             }
       ]
@@ -4138,10 +4282,158 @@ export const poiExtraMaltaCities: POI[] = [
     }, image: "/poi-images/city-kalkara-extra.webp"},
   {
     id: "city-vittoriosa-birgu-extra", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Auberge de Castille et Portugal",
+                  "text": "Die Auberge de Castille et Portugal ist ein historisches Denkmal in Vittoriosa (Birgu).",
+                  "category": "historical",
+                  "coords": [
+                        14.523456,
+                        35.888399
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Lawrence",
+                  "text": "Die Collegiate Church of Saint Lawrence ist eine bemerkenswerte Kultstätte in Vittoriosa (Birgu).",
+                  "category": "religious",
+                  "coords": [
+                        14.5214,
+                        35.887309
+                  ]
+            },
+            {
+                  "name": "Couvre de Porte",
+                  "text": "Couvre de Porte ist eine historische Burg in Vittoriosa (Birgu).",
+                  "category": "castle",
+                  "coords": [
+                        14.522544,
+                        35.885455
+                  ]
+            },
+            {
+                  "name": "The Executioner's House",
+                  "text": "Das Haus des Scharfrichters ist eine lokale Sehenswürdigkeit in Vittoriosa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522806,
+                        35.887331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auberge de Castille et Portugal",
+                  "text": "Az Auberge de Castille et Portugal egy történelmi műemlék Vittoriosában (Birgu).",
+                  "category": "historical",
+                  "coords": [
+                        14.523456,
+                        35.888399
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Lawrence",
+                  "text": "A Collegiate Church of Saint Lawrence egy figyelemre méltó istentiszteleti hely Vittoriosában (Birgu).",
+                  "category": "religious",
+                  "coords": [
+                        14.5214,
+                        35.887309
+                  ]
+            },
+            {
+                  "name": "Couvre de Porte",
+                  "text": "A Couvre de Porte egy történelmi vár Vittoriosában (Birgu).",
+                  "category": "castle",
+                  "coords": [
+                        14.522544,
+                        35.885455
+                  ]
+            },
+            {
+                  "name": "The Executioner's House",
+                  "text": "A Hóhér háza egy helyi látványosság Vittoriosa területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522806,
+                        35.887331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auberge de Castille et Portugal",
+                  "text": "Auberge de Castille et Portugal este un monument istoric din Vittoriosa (Birgu).",
+                  "category": "historical",
+                  "coords": [
+                        14.523456,
+                        35.888399
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Lawrence",
+                  "text": "Collegiate Church of Saint Lawrence este un lăcaș de cult notabil din Vittoriosa (Birgu).",
+                  "category": "religious",
+                  "coords": [
+                        14.5214,
+                        35.887309
+                  ]
+            },
+            {
+                  "name": "Couvre de Porte",
+                  "text": "Couvre de Porte este un castel istoric din Vittoriosa (Birgu).",
+                  "category": "castle",
+                  "coords": [
+                        14.522544,
+                        35.885455
+                  ]
+            },
+            {
+                  "name": "The Executioner's House",
+                  "text": "Casa Călăului este o atracție locală situată în Vittoriosa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522806,
+                        35.887331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auberge de Castille et Portugal",
+                  "text": "Auberge de Castille et Portugal is a historic monument in Vittoriosa (Birgu).",
+                  "category": "historical",
+                  "coords": [
+                        14.523456,
+                        35.888399
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Lawrence",
+                  "text": "Collegiate Church of Saint Lawrence is a notable place of worship in Vittoriosa (Birgu).",
+                  "category": "religious",
+                  "coords": [
+                        14.5214,
+                        35.887309
+                  ]
+            },
+            {
+                  "name": "Couvre de Porte",
+                  "text": "Couvre de Porte is a historic castle in Vittoriosa (Birgu).",
+                  "category": "castle",
+                  "coords": [
+                        14.522544,
+                        35.885455
+                  ]
+            },
+            {
+                  "name": "The Executioner's House",
+                  "text": "The Executioner's House is a local attraction located in Vittoriosa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.522806,
+                        35.887331
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "MT-03",
@@ -4221,6 +4513,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.517244,
                         35.888912
                   ]
+            },
+            {
+                  "name": "Art by the Seaside Art Gallery",
+                  "text": "Die Art by the Seaside Art Gallery ist eine Kunstgalerie in Senglea (L-Isla).",
+                  "category": "museum",
+                  "coords": [
+                        14.518182,
+                        35.887529
+                  ]
             }
       ],
       "hu": [
@@ -4258,6 +4559,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.517244,
                         35.888912
+                  ]
+            },
+            {
+                  "name": "Art by the Seaside Art Gallery",
+                  "text": "Az Art by the Seaside Art Gallery egy művészeti galéria Senglea (L-Isla) városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.518182,
+                        35.887529
                   ]
             }
       ],
@@ -4297,6 +4607,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.517244,
                         35.888912
                   ]
+            },
+            {
+                  "name": "Art by the Seaside Art Gallery",
+                  "text": "Art by the Seaside Art Gallery este o galerie de artă în Senglea (L-Isla).",
+                  "category": "museum",
+                  "coords": [
+                        14.518182,
+                        35.887529
+                  ]
             }
       ],
       "en": [
@@ -4334,6 +4653,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.517244,
                         35.888912
+                  ]
+            },
+            {
+                  "name": "Art by the Seaside Art Gallery",
+                  "text": "The Art by the Seaside Art Gallery is an art gallery in Senglea (L-Isla).",
+                  "category": "museum",
+                  "coords": [
+                        14.518182,
+                        35.887529
                   ]
             }
       ]
@@ -4765,6 +5093,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.508216,
                         35.871647
                   ]
+            },
+            {
+                  "name": "Church of Saint Ubaldeska",
+                  "text": "Die Kirche St. Ubaldeska ist ein Gotteshaus in Paola.",
+                  "category": "religious",
+                  "coords": [
+                        14.505813,
+                        35.872129
+                  ]
             }
       ],
       "hu": [
@@ -4793,6 +5130,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.508216,
                         35.871647
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ubaldeska",
+                  "text": "A Szent Ubaldeska-templom egy istentiszteleti hely Paolában.",
+                  "category": "religious",
+                  "coords": [
+                        14.505813,
+                        35.872129
                   ]
             }
       ],
@@ -4823,6 +5169,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.508216,
                         35.871647
                   ]
+            },
+            {
+                  "name": "Church of Saint Ubaldeska",
+                  "text": "Biserica Sfânta Ubaldeska este un lăcaș de cult din Paola.",
+                  "category": "religious",
+                  "coords": [
+                        14.505813,
+                        35.872129
+                  ]
             }
       ],
       "en": [
@@ -4851,6 +5206,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.508216,
                         35.871647
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ubaldeska",
+                  "text": "The Church of Saint Ubaldeska is a place of worship located in Paola.",
+                  "category": "religious",
+                  "coords": [
+                        14.505813,
+                        35.872129
                   ]
             }
       ]
@@ -7551,6 +7915,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.530887,
                         35.825483
                   ]
+            },
+            {
+                  "name": "Wied Żnuber Dolmen",
+                  "text": "Der Dolmen von Wied Żnuber ist eine historische megalithische Stätte in Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.510714,
+                        35.81129
+                  ]
+            },
+            {
+                  "name": "Borġ in-Nadur megalithic temple",
+                  "text": "Der Megalithtempel Borġ in-Nadur ist eine bedeutende archäologische Stätte in Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.528854,
+                        35.831123
+                  ]
+            },
+            {
+                  "name": "Fort Bengħisa",
+                  "text": "Fort Bengħisa ist eine historische Festungsanlage in Birżebbuġa.",
+                  "category": "fortress",
+                  "coords": [
+                        14.532379,
+                        35.808337
+                  ]
+            },
+            {
+                  "name": "Church of Saint George the Martyr",
+                  "text": "Die Kirche des Heiligen Georg des Märtyrers ist eine historische Stätte in Birżebbuġa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.530376,
+                        35.831154
+                  ]
+            },
+            {
+                  "name": "Chapel of the Immaculate Conception",
+                  "text": "Die Kapelle der Unbefleckten Empfängnis ist ein Gotteshaus in Birżebbuġa.",
+                  "category": "religious",
+                  "coords": [
+                        14.524418,
+                        35.813003
+                  ]
+            },
+            {
+                  "name": "Għar Ħasan",
+                  "text": "Għar Ħasan ist eine Höhle und archäologische Stätte in Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.518222,
+                        35.806764
+                  ]
+            },
+            {
+                  "name": "Ħal Far (Former Royal Air Force Airfield)",
+                  "text": "Ħal Far ist ein ehemaliger Flugplatz der Royal Air Force in Birżebbuġa, der heute als Sehenswürdigkeit gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.511268,
+                        35.814707
+                  ]
             }
       ],
       "hu": [
@@ -7570,6 +7997,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.530887,
                         35.825483
+                  ]
+            },
+            {
+                  "name": "Wied Żnuber Dolmen",
+                  "text": "A Wied Żnuber dolmen egy történelmi megalitikus helyszín Birżebbuġában.",
+                  "category": "historical",
+                  "coords": [
+                        14.510714,
+                        35.81129
+                  ]
+            },
+            {
+                  "name": "Borġ in-Nadur megalithic temple",
+                  "text": "A Borġ in-Nadur megalitikus templom egy jelentős régészeti lelőhely Birżebbuġában.",
+                  "category": "historical",
+                  "coords": [
+                        14.528854,
+                        35.831123
+                  ]
+            },
+            {
+                  "name": "Fort Bengħisa",
+                  "text": "A Fort Bengħisa egy történelmi erődítmény Birżebbuġában.",
+                  "category": "fortress",
+                  "coords": [
+                        14.532379,
+                        35.808337
+                  ]
+            },
+            {
+                  "name": "Church of Saint George the Martyr",
+                  "text": "A Szent György vértanú temploma egy történelmi örökségi helyszín Birżebbuġában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.530376,
+                        35.831154
+                  ]
+            },
+            {
+                  "name": "Chapel of the Immaculate Conception",
+                  "text": "A Szeplőtelen Fogantatás kápolnája egy istentiszteleti hely Birżebbuġában.",
+                  "category": "religious",
+                  "coords": [
+                        14.524418,
+                        35.813003
+                  ]
+            },
+            {
+                  "name": "Għar Ħasan",
+                  "text": "Għar Ħasan egy barlang és régészeti lelőhely Birżebbuġában.",
+                  "category": "historical",
+                  "coords": [
+                        14.518222,
+                        35.806764
+                  ]
+            },
+            {
+                  "name": "Ħal Far (Former Royal Air Force Airfield)",
+                  "text": "A Ħal Far egykori Királyi Légierő repülőtér ma történelmi látványosság Birżebbuġában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.511268,
+                        35.814707
                   ]
             }
       ],
@@ -7591,6 +8081,69 @@ export const poiExtraMaltaCities: POI[] = [
                         14.530887,
                         35.825483
                   ]
+            },
+            {
+                  "name": "Wied Żnuber Dolmen",
+                  "text": "Dolmenul Wied Żnuber este un sit megalitic istoric din Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.510714,
+                        35.81129
+                  ]
+            },
+            {
+                  "name": "Borġ in-Nadur megalithic temple",
+                  "text": "Templul megalitic Borġ in-Nadur este un sit arheologic important din Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.528854,
+                        35.831123
+                  ]
+            },
+            {
+                  "name": "Fort Bengħisa",
+                  "text": "Fortul Bengħisa este o fortificație istorică situată în Birżebbuġa.",
+                  "category": "fortress",
+                  "coords": [
+                        14.532379,
+                        35.808337
+                  ]
+            },
+            {
+                  "name": "Church of Saint George the Martyr",
+                  "text": "Biserica Sfântului Gheorghe Martirul este un sit de patrimoniu din Birżebbuġa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.530376,
+                        35.831154
+                  ]
+            },
+            {
+                  "name": "Chapel of the Immaculate Conception",
+                  "text": "Capela Imaculatei Concepții este un lăcaș de cult din Birżebbuġa.",
+                  "category": "religious",
+                  "coords": [
+                        14.524418,
+                        35.813003
+                  ]
+            },
+            {
+                  "name": "Għar Ħasan",
+                  "text": "Għar Ħasan este o peșteră și un sit arheologic în Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.518222,
+                        35.806764
+                  ]
+            },
+            {
+                  "name": "Ħal Far (Former Royal Air Force Airfield)",
+                  "text": "Ħal Far, fost aerodrom al Royal Air Force, este astăzi o atracție în Birżebbuġa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.511268,
+                        35.814707
+                  ]
             }
       ],
       "en": [
@@ -7610,6 +8163,69 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.530887,
                         35.825483
+                  ]
+            },
+            {
+                  "name": "Wied Żnuber Dolmen",
+                  "text": "The Wied Żnuber Dolmen is a historic megalithic site located in Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.510714,
+                        35.81129
+                  ]
+            },
+            {
+                  "name": "Borġ in-Nadur megalithic temple",
+                  "text": "The Borġ in-Nadur megalithic temple is a significant archaeological site in Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.528854,
+                        35.831123
+                  ]
+            },
+            {
+                  "name": "Fort Bengħisa",
+                  "text": "Fort Bengħisa is a historic coastal fortification located in Birżebbuġa.",
+                  "category": "fortress",
+                  "coords": [
+                        14.532379,
+                        35.808337
+                  ]
+            },
+            {
+                  "name": "Church of Saint George the Martyr",
+                  "text": "The Church of Saint George the Martyr is a historic heritage site in Birżebbuġa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.530376,
+                        35.831154
+                  ]
+            },
+            {
+                  "name": "Chapel of the Immaculate Conception",
+                  "text": "The Chapel of the Immaculate Conception is a place of worship in Birżebbuġa.",
+                  "category": "religious",
+                  "coords": [
+                        14.524418,
+                        35.813003
+                  ]
+            },
+            {
+                  "name": "Għar Ħasan",
+                  "text": "Għar Ħasan is a cave and archaeological site located in Birżebbuġa.",
+                  "category": "historical",
+                  "coords": [
+                        14.518222,
+                        35.806764
+                  ]
+            },
+            {
+                  "name": "Ħal Far (Former Royal Air Force Airfield)",
+                  "text": "Ħal Far is a former Royal Air Force airfield that now serves as an attraction in Birżebbuġa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.511268,
+                        35.814707
                   ]
             }
       ]
@@ -7824,6 +8440,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.552454,
                         35.885811
                   ]
+            },
+            {
+                  "name": "Delle Grazie Battery",
+                  "text": "Ein historisches Fort in der Küstenstadt Xgħajra.",
+                  "category": "fortress",
+                  "coords": [
+                        14.549372,
+                        35.885992
+                  ]
+            },
+            {
+                  "name": "St. Peter's Battery",
+                  "text": "Eine archäologische Stätte in Xgħajra, die die Überreste der St. Peter's Battery bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        14.540037,
+                        35.887244
+                  ]
+            },
+            {
+                  "name": "Wreck of the Schnellboot",
+                  "text": "Das Unterwasserwrack eines Schnellboots, das als Attraktion vor der Küste von Xgħajra dient.",
+                  "category": "landmark",
+                  "coords": [
+                        14.57089,
+                        35.89155
+                  ]
+            },
+            {
+                  "name": "Wreck of the Hellespont",
+                  "text": "Das Wrack der Hellespont, eine bemerkenswerte Attraktion in der Nähe von Xgħajra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.543052,
+                        35.899699
+                  ]
+            },
+            {
+                  "name": "Musical Fountain",
+                  "text": "Ein musikalischer Springbrunnen, der als lokale Attraktion in Xgħajra dient.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54256,
+                        35.891227
+                  ]
             }
       ],
       "hu": [
@@ -7834,6 +8495,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.552454,
                         35.885811
+                  ]
+            },
+            {
+                  "name": "Delle Grazie Battery",
+                  "text": "Történelmi erődítmény Xgħajra tengerparti városában.",
+                  "category": "fortress",
+                  "coords": [
+                        14.549372,
+                        35.885992
+                  ]
+            },
+            {
+                  "name": "St. Peter's Battery",
+                  "text": "Egy régészeti lelőhely Xgħajra városában, amely a Szent Péter-üteg maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        14.540037,
+                        35.887244
+                  ]
+            },
+            {
+                  "name": "Wreck of the Schnellboot",
+                  "text": "Egy Schnellboot víz alatti roncsai, amely látványosságként szolgál Xgħajra partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.57089,
+                        35.89155
+                  ]
+            },
+            {
+                  "name": "Wreck of the Hellespont",
+                  "text": "A Hellespont roncsa, amely egy jelentős látványosság Xgħajra közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.543052,
+                        35.899699
+                  ]
+            },
+            {
+                  "name": "Musical Fountain",
+                  "text": "Egy zenélő szökőkút, amely helyi látványosságként szolgál Xgħajra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54256,
+                        35.891227
                   ]
             }
       ],
@@ -7846,6 +8552,51 @@ export const poiExtraMaltaCities: POI[] = [
                         14.552454,
                         35.885811
                   ]
+            },
+            {
+                  "name": "Delle Grazie Battery",
+                  "text": "Un fort istoric situat în orașul de coastă Xgħajra.",
+                  "category": "fortress",
+                  "coords": [
+                        14.549372,
+                        35.885992
+                  ]
+            },
+            {
+                  "name": "St. Peter's Battery",
+                  "text": "Un sit arheologic în Xgħajra care păstrează rămășițele Bateriei Sf. Petru.",
+                  "category": "historical",
+                  "coords": [
+                        14.540037,
+                        35.887244
+                  ]
+            },
+            {
+                  "name": "Wreck of the Schnellboot",
+                  "text": "Epava subacvatică a unui Schnellboot, care servește ca atracție în largul coastei Xgħajra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.57089,
+                        35.89155
+                  ]
+            },
+            {
+                  "name": "Wreck of the Hellespont",
+                  "text": "Epava Hellespont, o atracție notabilă situată lângă Xgħajra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.543052,
+                        35.899699
+                  ]
+            },
+            {
+                  "name": "Musical Fountain",
+                  "text": "O fântână muzicală care servește ca atracție locală în Xgħajra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54256,
+                        35.891227
+                  ]
             }
       ],
       "en": [
@@ -7856,6 +8607,51 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.552454,
                         35.885811
+                  ]
+            },
+            {
+                  "name": "Delle Grazie Battery",
+                  "text": "A historic fort situated in the coastal town of Xgħajra.",
+                  "category": "fortress",
+                  "coords": [
+                        14.549372,
+                        35.885992
+                  ]
+            },
+            {
+                  "name": "St. Peter's Battery",
+                  "text": "An archaeological site in Xgħajra preserving the remains of St. Peter's Battery.",
+                  "category": "historical",
+                  "coords": [
+                        14.540037,
+                        35.887244
+                  ]
+            },
+            {
+                  "name": "Wreck of the Schnellboot",
+                  "text": "The underwater wreck of a Schnellboot, serving as an attraction off the coast of Xgħajra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.57089,
+                        35.89155
+                  ]
+            },
+            {
+                  "name": "Wreck of the Hellespont",
+                  "text": "The wreck of the Hellespont, a notable attraction located near Xgħajra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.543052,
+                        35.899699
+                  ]
+            },
+            {
+                  "name": "Musical Fountain",
+                  "text": "A musical fountain serving as a local attraction in Xgħajra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.54256,
+                        35.891227
                   ]
             }
       ]
@@ -9114,10 +9910,50 @@ export const poiExtraMaltaCities: POI[] = [
     }, image: "/poi-images/city-kirkop-extra.webp"},
   {
     id: "city-safi-extra", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Torri tal-Bakkari / Torri tal-Baqqari",
+                  "text": "Torri tal-Bakkari / Torri tal-Baqqari umfasst historische Ruinen in Safi.",
+                  "category": "historical",
+                  "coords": [
+                        14.496186,
+                        35.819463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torri tal-Bakkari / Torri tal-Baqqari",
+                  "text": "A Torri tal-Bakkari / Torri tal-Baqqari egy történelmi rom Safi területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.496186,
+                        35.819463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torri tal-Bakkari / Torri tal-Baqqari",
+                  "text": "Torri tal-Bakkari / Torri tal-Baqqari prezintă ruine istorice situate în Safi.",
+                  "category": "historical",
+                  "coords": [
+                        14.496186,
+                        35.819463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torri tal-Bakkari / Torri tal-Baqqari",
+                  "text": "Torri tal-Bakkari / Torri tal-Baqqari features historical ruins located in Safi.",
+                  "category": "historical",
+                  "coords": [
+                        14.496186,
+                        35.819463
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "MT-47",
@@ -16982,6 +17818,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.295802,
                         36.027837
                   ]
+            },
+            {
+                  "name": "Ta' Kenuna",
+                  "text": "Der Ta' Kenuna-Turm bietet herrliche Ausblicke über Nadur und die maltesische Insel Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.283947,
+                        36.03564
+                  ]
             }
       ],
       "hu": [
@@ -17001,6 +17846,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.295802,
                         36.027837
+                  ]
+            },
+            {
+                  "name": "Ta' Kenuna",
+                  "text": "A Ta' Kenuna torony csodálatos kilátást nyújt Nadurra és a máltai Gozo szigetére.",
+                  "category": "landmark",
+                  "coords": [
+                        14.283947,
+                        36.03564
                   ]
             }
       ],
@@ -17022,6 +17876,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.295802,
                         36.027837
                   ]
+            },
+            {
+                  "name": "Ta' Kenuna",
+                  "text": "Turnul Ta' Kenuna oferă vederi magnifice asupra orașului Nadur și a insulei malteze Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.283947,
+                        36.03564
+                  ]
             }
       ],
       "en": [
@@ -17041,6 +17904,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.295802,
                         36.027837
+                  ]
+            },
+            {
+                  "name": "Ta' Kenuna",
+                  "text": "The Ta' Kenuna Tower offers magnificent views over Nadur and the Maltese island of Gozo.",
+                  "category": "landmark",
+                  "coords": [
+                        14.283947,
+                        36.03564
                   ]
             }
       ]
@@ -20186,6 +21058,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.237423,
                         36.074918
                   ]
+            },
+            {
+                  "name": "It-Tieqa",
+                  "text": "It-Tieqa ist ein Aussichtspunkt an der Küste in der Stadt Għasri.",
+                  "category": "natural",
+                  "coords": [
+                        14.213106,
+                        36.079678
+                  ]
             }
       ],
       "hu": [
@@ -20196,6 +21077,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.237423,
                         36.074918
+                  ]
+            },
+            {
+                  "name": "It-Tieqa",
+                  "text": "Az It-Tieqa egy tengerparti kilátó Għasri városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.213106,
+                        36.079678
                   ]
             }
       ],
@@ -20208,6 +21098,15 @@ export const poiExtraMaltaCities: POI[] = [
                         14.237423,
                         36.074918
                   ]
+            },
+            {
+                  "name": "It-Tieqa",
+                  "text": "It-Tieqa este un punct de belvedere situat în orașul Għasri.",
+                  "category": "natural",
+                  "coords": [
+                        14.213106,
+                        36.079678
+                  ]
             }
       ],
       "en": [
@@ -20218,6 +21117,15 @@ export const poiExtraMaltaCities: POI[] = [
                   "coords": [
                         14.237423,
                         36.074918
+                  ]
+            },
+            {
+                  "name": "It-Tieqa",
+                  "text": "It-Tieqa is a coastal viewpoint located in the town of Għasri.",
+                  "category": "natural",
+                  "coords": [
+                        14.213106,
+                        36.079678
                   ]
             }
       ]

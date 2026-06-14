@@ -8620,6 +8620,15 @@ imageHint: "Ukmerge hillfort and old town",
                         21.843695,
                         55.917588
                   ]
+            },
+            {
+                  "name": "Plungės dvaro sodybos parkas",
+                  "text": "Der Plungės dvaro sodybos parkas ist ein malerischer Gutspark in Plungė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.842589,
+                        55.917771
+                  ]
             }
       ],
       "hu": [
@@ -8657,6 +8666,15 @@ imageHint: "Ukmerge hillfort and old town",
                   "coords": [
                         21.843695,
                         55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės dvaro sodybos parkas",
+                  "text": "A Plungės dvaro sodybos parkas egy gyönyörű kastélypark Plungė városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.842589,
+                        55.917771
                   ]
             }
       ],
@@ -8696,6 +8714,15 @@ imageHint: "Ukmerge hillfort and old town",
                         21.843695,
                         55.917588
                   ]
+            },
+            {
+                  "name": "Plungės dvaro sodybos parkas",
+                  "text": "Plungės dvaro sodybos parkas este un parc de conac situat în Plungė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.842589,
+                        55.917771
+                  ]
             }
       ],
       "en": [
@@ -8733,6 +8760,15 @@ imageHint: "Ukmerge hillfort and old town",
                   "coords": [
                         21.843695,
                         55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės dvaro sodybos parkas",
+                  "text": "The Plungės dvaro sodybos parkas is a scenic manor park attraction in Plungė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.842589,
+                        55.917771
                   ]
             }
       ]
@@ -22576,6 +22612,51 @@ imageHint: "Kaisiadorys cathedral and railway",
                         24.380915,
                         56.056549
                   ]
+            },
+            {
+                  "name": "The Millstone Museum",
+                  "text": "Das Mühlsteinmuseum in Pasvalys bietet eine Freilichtausstellung historischer Mühlsteine.",
+                  "category": "museum",
+                  "coords": [
+                        24.405834,
+                        56.065211
+                  ]
+            },
+            {
+                  "name": "Žalsvasis šaltinis",
+                  "text": "Žalsvasis šaltinis in Pasvalys ist als die tiefste Höhlenquelle Litauens bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.400867,
+                        56.064516
+                  ]
+            },
+            {
+                  "name": "Ustukių tiltas",
+                  "text": "Ustukių tiltas ist eine bemerkenswerte Brücke, die den Fluss in Pasvalys überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.374833,
+                        56.078726
+                  ]
+            },
+            {
+                  "name": "Pasvalio Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Pasvalio Šv. Jono Krikštytojo bažnyčia ist eine markante Johannes-der-Täufer-Kirche in Pasvalys.",
+                  "category": "religious",
+                  "coords": [
+                        24.398039,
+                        56.06164
+                  ]
+            },
+            {
+                  "name": "Pasvalio krašto muziejus",
+                  "text": "Pasvalio krašto muziejus ist ein Museum, das der lokalen Geschichte von Pasvalys gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.398825,
+                        56.060132
+                  ]
             }
       ],
       "hu": [
@@ -22613,6 +22694,51 @@ imageHint: "Kaisiadorys cathedral and railway",
                   "coords": [
                         24.380915,
                         56.056549
+                  ]
+            },
+            {
+                  "name": "The Millstone Museum",
+                  "text": "A pasvalysi Malomkő Múzeum történelmi malomkövek szabadtéri kiállítását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.405834,
+                        56.065211
+                  ]
+            },
+            {
+                  "name": "Žalsvasis šaltinis",
+                  "text": "A pasvalysi Žalsvasis šaltinis Litvánia legmélyebb barlangi forrásaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.400867,
+                        56.064516
+                  ]
+            },
+            {
+                  "name": "Ustukių tiltas",
+                  "text": "Az Ustukių tiltas egy nevezetes híd, amely a folyót szeli át Pasvalysban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.374833,
+                        56.078726
+                  ]
+            },
+            {
+                  "name": "Pasvalio Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A Pasvalio Šv. Jono Krikštytojo bažnyčia egy kiemelkedő Keresztelő Szent János-templom Pasvalysban.",
+                  "category": "religious",
+                  "coords": [
+                        24.398039,
+                        56.06164
+                  ]
+            },
+            {
+                  "name": "Pasvalio krašto muziejus",
+                  "text": "A Pasvalio krašto muziejus a pasvalysi helytörténetet bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.398825,
+                        56.060132
                   ]
             }
       ],
@@ -22652,6 +22778,51 @@ imageHint: "Kaisiadorys cathedral and railway",
                         24.380915,
                         56.056549
                   ]
+            },
+            {
+                  "name": "The Millstone Museum",
+                  "text": "Muzeul Pietrelor de Moară din Pasvalys prezintă o expoziție în aer liber de pietre de moară istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.405834,
+                        56.065211
+                  ]
+            },
+            {
+                  "name": "Žalsvasis šaltinis",
+                  "text": "Žalsvasis šaltinis din Pasvalys este cunoscut ca cel mai adânc izvor de peșteră din Lituania.",
+                  "category": "landmark",
+                  "coords": [
+                        24.400867,
+                        56.064516
+                  ]
+            },
+            {
+                  "name": "Ustukių tiltas",
+                  "text": "Ustukių tiltas este un pod notabil care traversează râul în Pasvalys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.374833,
+                        56.078726
+                  ]
+            },
+            {
+                  "name": "Pasvalio Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Pasvalio Šv. Jono Krikštytojo bažnyčia este o biserică proeminentă cu hramul Sfântului Ioan Botezătorul din Pasvalys.",
+                  "category": "religious",
+                  "coords": [
+                        24.398039,
+                        56.06164
+                  ]
+            },
+            {
+                  "name": "Pasvalio krašto muziejus",
+                  "text": "Pasvalio krašto muziejus este un muzeu dedicat istoriei locale din Pasvalys.",
+                  "category": "museum",
+                  "coords": [
+                        24.398825,
+                        56.060132
+                  ]
             }
       ],
       "en": [
@@ -22689,6 +22860,51 @@ imageHint: "Kaisiadorys cathedral and railway",
                   "coords": [
                         24.380915,
                         56.056549
+                  ]
+            },
+            {
+                  "name": "The Millstone Museum",
+                  "text": "The Millstone Museum in Pasvalys features an open-air exhibition of historical millstones.",
+                  "category": "museum",
+                  "coords": [
+                        24.405834,
+                        56.065211
+                  ]
+            },
+            {
+                  "name": "Žalsvasis šaltinis",
+                  "text": "Žalsvasis šaltinis in Pasvalys is known as the deepest cave spring in Lithuania.",
+                  "category": "landmark",
+                  "coords": [
+                        24.400867,
+                        56.064516
+                  ]
+            },
+            {
+                  "name": "Ustukių tiltas",
+                  "text": "Ustukių tiltas is a notable bridge crossing the river in Pasvalys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.374833,
+                        56.078726
+                  ]
+            },
+            {
+                  "name": "Pasvalio Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Pasvalio Šv. Jono Krikštytojo bažnyčia is a prominent St. John the Baptist church in Pasvalys.",
+                  "category": "religious",
+                  "coords": [
+                        24.398039,
+                        56.06164
+                  ]
+            },
+            {
+                  "name": "Pasvalio krašto muziejus",
+                  "text": "Pasvalio krašto muziejus is a museum dedicated to the local history of Pasvalys.",
+                  "category": "museum",
+                  "coords": [
+                        24.398825,
+                        56.060132
                   ]
             }
       ]
@@ -24685,6 +24901,15 @@ imageHint: "Zarasai lake panoramic view and bridge",
                         21.531764,
                         56.270275
                   ]
+            },
+            {
+                  "name": "Skuodo paplūdimys",
+                  "text": "Skuodo paplūdimys ist ein Strand in der Stadt Skuodas.",
+                  "category": "recreational",
+                  "coords": [
+                        21.513286,
+                        56.264844
+                  ]
             }
       ],
       "hu": [
@@ -24722,6 +24947,15 @@ imageHint: "Zarasai lake panoramic view and bridge",
                   "coords": [
                         21.531764,
                         56.270275
+                  ]
+            },
+            {
+                  "name": "Skuodo paplūdimys",
+                  "text": "A Skuodo paplūdimys egy strand Skuodas városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.513286,
+                        56.264844
                   ]
             }
       ],
@@ -24761,6 +24995,15 @@ imageHint: "Zarasai lake panoramic view and bridge",
                         21.531764,
                         56.270275
                   ]
+            },
+            {
+                  "name": "Skuodo paplūdimys",
+                  "text": "Skuodo paplūdimys este o plajă situată în Skuodas.",
+                  "category": "recreational",
+                  "coords": [
+                        21.513286,
+                        56.264844
+                  ]
             }
       ],
       "en": [
@@ -24798,6 +25041,15 @@ imageHint: "Zarasai lake panoramic view and bridge",
                   "coords": [
                         21.531764,
                         56.270275
+                  ]
+            },
+            {
+                  "name": "Skuodo paplūdimys",
+                  "text": "Skuodo paplūdimys is a relaxing beach located in Skuodas.",
+                  "category": "recreational",
+                  "coords": [
+                        21.513286,
+                        56.264844
                   ]
             }
       ]
@@ -37004,7 +37256,160 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-vievis-region-cities-v2.webp",
   },
   {
-    id: "lithuania-trakai-voke-cities-v2",
+    id: "lithuania-trakai-voke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trakų Vokės koplyčia",
+                  "text": "Die Trakų Vokės koplyčia ist eine Kapelle in Trakų Vokė.",
+                  "category": "religious",
+                  "coords": [
+                        25.107274,
+                        54.629037
+                  ]
+            },
+            {
+                  "name": "Trakų Vokė Tyszkiewicz palace",
+                  "text": "Der Tyszkiewicz-Palast ist eine bedeutende historische Attraktion in Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10874,
+                        54.630647
+                  ]
+            },
+            {
+                  "name": "Kazbėjų tiltas",
+                  "text": "Kazbėjų tiltas ist eine Brücke in Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.13469,
+                        54.614847
+                  ]
+            },
+            {
+                  "name": "Kukurūzų labirintas",
+                  "text": "Der Kukurūzų labirintas ist ein Maislabyrinth in Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.090488,
+                        54.619374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trakų Vokės koplyčia",
+                  "text": "A Trakų Vokės koplyčia egy kápolna Trakų Vokė településén.",
+                  "category": "religious",
+                  "coords": [
+                        25.107274,
+                        54.629037
+                  ]
+            },
+            {
+                  "name": "Trakų Vokė Tyszkiewicz palace",
+                  "text": "A Trakų Vokė-i Tyszkiewicz-palota egy történelmi látványosság Trakų Vokė településén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10874,
+                        54.630647
+                  ]
+            },
+            {
+                  "name": "Kazbėjų tiltas",
+                  "text": "A Kazbėjų tiltas egy híd Trakų Vokė területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.13469,
+                        54.614847
+                  ]
+            },
+            {
+                  "name": "Kukurūzų labirintas",
+                  "text": "A Kukurūzų labirintas egy kukoricaútvesztő Trakų Vokė városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.090488,
+                        54.619374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trakų Vokės koplyčia",
+                  "text": "Trakų Vokės koplyčia este un lăcaș de cult situat în Trakų Vokė.",
+                  "category": "religious",
+                  "coords": [
+                        25.107274,
+                        54.629037
+                  ]
+            },
+            {
+                  "name": "Trakų Vokė Tyszkiewicz palace",
+                  "text": "Palatul Tyszkiewicz din Trakų Vokė este o atracție istorică importantă.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10874,
+                        54.630647
+                  ]
+            },
+            {
+                  "name": "Kazbėjų tiltas",
+                  "text": "Kazbėjų tiltas este un pod situat în Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.13469,
+                        54.614847
+                  ]
+            },
+            {
+                  "name": "Kukurūzų labirintas",
+                  "text": "Kukurūzų labirintas este o atracție de tip labirint din Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.090488,
+                        54.619374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trakų Vokės koplyčia",
+                  "text": "The Trakų Vokės koplyčia is a chapel located in Trakų Vokė.",
+                  "category": "religious",
+                  "coords": [
+                        25.107274,
+                        54.629037
+                  ]
+            },
+            {
+                  "name": "Trakų Vokė Tyszkiewicz palace",
+                  "text": "The Trakų Vokė Tyszkiewicz palace is a historical attraction in Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.10874,
+                        54.630647
+                  ]
+            },
+            {
+                  "name": "Kazbėjų tiltas",
+                  "text": "The Kazbėjų tiltas is a bridge located in Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.13469,
+                        54.614847
+                  ]
+            },
+            {
+                  "name": "Kukurūzų labirintas",
+                  "text": "The Kukurūzų labirintas is a corn maze attraction in Trakų Vokė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.090488,
+                        54.619374
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Trakų Vokė", hu: "Trakų Vokė", ro: "Trakų Vokė", en: "Trakų Vokė" },
@@ -37037,7 +37442,160 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-trakai-voke-cities-v2.webp",
   },
   {
-    id: "lithuania-baisogala-cities-v2",
+    id: "lithuania-baisogala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diauderių piliakalnis",
+                  "text": "Eine historische Wallburg-Attraktion nahe Baisogala, die als Überrest der alten Verteidigungsanlagen Litauens dient.",
+                  "category": "landmark",
+                  "coords": [
+                        23.691139,
+                        55.627361
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaras",
+                  "text": "Ein markantes Herrenhaus in Baisogala, das für seine elegante Architektur aus dem 19. Jahrhundert und den umgebenden Park bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.717412,
+                        55.636832
+                  ]
+            },
+            {
+                  "name": "Baisogalos Švč. Trejybės bažnyčia",
+                  "text": "Die Heilige-Dreifaltigkeits-Kirche ist ein bedeutendes Gotteshaus in Baisogala mit markanter historischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        23.723949,
+                        55.639767
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaro sodybos vėjo malūnas",
+                  "text": "Diese traditionelle Windmühle ist ein historisches Wahrzeichen in Baisogala.",
+                  "category": "landmark",
+                  "coords": [
+                        23.712768,
+                        55.635344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diauderių piliakalnis",
+                  "text": "Baisogala közelében található történelmi dombvár, amely Litvánia egykori védelmi rendszerének maradványa.",
+                  "category": "landmark",
+                  "coords": [
+                        23.691139,
+                        55.627361
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaras",
+                  "text": "Egy kiemelkedő kúria Baisogalában, amely elegáns 19. századi építészetéről és a körülötte lévő parkról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        23.717412,
+                        55.636832
+                  ]
+            },
+            {
+                  "name": "Baisogalos Švč. Trejybės bažnyčia",
+                  "text": "A baisogalai Szentháromság-templom a település egyik jelentős egyházi épülete, amely jellegzetes történelmi építészettel bír.",
+                  "category": "religious",
+                  "coords": [
+                        23.723949,
+                        55.639767
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaro sodybos vėjo malūnas",
+                  "text": "Ez a hagyományos szélmalom egy történelmi nevezetesség Baisogala városában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.712768,
+                        55.635344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diauderių piliakalnis",
+                  "text": "O fortificație istorică pe deal lângă Baisogala, servind drept rămășiță a vechilor structuri defensive ale Lituaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        23.691139,
+                        55.627361
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaras",
+                  "text": "Un conac proeminent în Baisogala, notabil pentru arhitectura sa elegantă din secolul al XIX-lea și parcul înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        23.717412,
+                        55.636832
+                  ]
+            },
+            {
+                  "name": "Baisogalos Švč. Trejybės bažnyčia",
+                  "text": "Biserica Sfânta Treime este un lăcaș de cult notabil din Baisogala, prezentând o arhitectură istorică distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        23.723949,
+                        55.639767
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaro sodybos vėjo malūnas",
+                  "text": "Această moară de vânt tradițională este un punct de reper istoric situat în Baisogala.",
+                  "category": "landmark",
+                  "coords": [
+                        23.712768,
+                        55.635344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diauderių piliakalnis",
+                  "text": "A historic hillfort attraction near Baisogala, serving as a remnant of Lithuania's ancient defensive earthworks.",
+                  "category": "landmark",
+                  "coords": [
+                        23.691139,
+                        55.627361
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaras",
+                  "text": "A prominent manor estate in Baisogala, notable for its elegant 19th-century architecture and surrounding park.",
+                  "category": "landmark",
+                  "coords": [
+                        23.717412,
+                        55.636832
+                  ]
+            },
+            {
+                  "name": "Baisogalos Švč. Trejybės bažnyčia",
+                  "text": "The Holy Trinity Church is a notable place of worship in Baisogala, featuring distinctive historical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.723949,
+                        55.639767
+                  ]
+            },
+            {
+                  "name": "Baisogalos dvaro sodybos vėjo malūnas",
+                  "text": "This traditional windmill is a historical landmark located in Baisogala.",
+                  "category": "landmark",
+                  "coords": [
+                        23.712768,
+                        55.635344
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Baisogala", hu: "Baisogala", ro: "Baisogala", en: "Baisogala" },
@@ -37164,6 +37722,51 @@ imageHint: "Lazdijai border crossing and church",
                         23.793104,
                         55.748203
                   ]
+            },
+            {
+                  "name": "Lost Shtetl",
+                  "text": "Das Museum Lost Shtetl in Šeduva widmet sich der Geschichte der litauischen Juden.",
+                  "category": "museum",
+                  "coords": [
+                        23.770968,
+                        55.747098
+                  ]
+            },
+            {
+                  "name": "Šeduvos Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "Die Kirche der Kreuzauffindung ist eine bedeutende historische katholische Kirche in Šeduva.",
+                  "category": "religious",
+                  "coords": [
+                        23.756685,
+                        55.756203
+                  ]
+            },
+            {
+                  "name": "Šeduvos kraštotyros ekspozicija",
+                  "text": "Heimatkundliche Ausstellung, die das Erbe von Šeduva zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.756104,
+                        55.75282
+                  ]
+            },
+            {
+                  "name": "Šeduvos Retromobile istorinės technikos muziejus",
+                  "text": "Museum in Šeduva, das historische Retromobil-Technik ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.766315,
+                        55.756872
+                  ]
+            },
+            {
+                  "name": "Raudondvario dvaro sodyba",
+                  "text": "Das historische Herrenhaus Raudondvaris in Šeduva.",
+                  "category": "historical",
+                  "coords": [
+                        23.797513,
+                        55.750382
+                  ]
             }
       ],
       "hu": [
@@ -37201,6 +37804,51 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.793104,
                         55.748203
+                  ]
+            },
+            {
+                  "name": "Lost Shtetl",
+                  "text": "A Šeduva városában található Lost Shtetl a litvániai zsidók történelmét őrző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.770968,
+                        55.747098
+                  ]
+            },
+            {
+                  "name": "Šeduvos Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "A Szent Kereszt Megtalálása templom jelentős történelmi katolikus templom Šeduvában.",
+                  "category": "religious",
+                  "coords": [
+                        23.756685,
+                        55.756203
+                  ]
+            },
+            {
+                  "name": "Šeduvos kraštotyros ekspozicija",
+                  "text": "Šeduva örökségét bemutató helytörténeti kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        23.756104,
+                        55.75282
+                  ]
+            },
+            {
+                  "name": "Šeduvos Retromobile istorinės technikos muziejus",
+                  "text": "Történelmi járműveket bemutató Retromobile múzeum Šeduvában.",
+                  "category": "museum",
+                  "coords": [
+                        23.766315,
+                        55.756872
+                  ]
+            },
+            {
+                  "name": "Raudondvario dvaro sodyba",
+                  "text": "A Raudondvaris majorság egy történelmi birtok Šeduvában.",
+                  "category": "historical",
+                  "coords": [
+                        23.797513,
+                        55.750382
                   ]
             }
       ],
@@ -37240,6 +37888,51 @@ imageHint: "Lazdijai border crossing and church",
                         23.793104,
                         55.748203
                   ]
+            },
+            {
+                  "name": "Lost Shtetl",
+                  "text": "Muzeul Lost Shtetl din Šeduva este dedicat păstrării istoriei evreilor lituanieni.",
+                  "category": "museum",
+                  "coords": [
+                        23.770968,
+                        55.747098
+                  ]
+            },
+            {
+                  "name": "Šeduvos Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "Biserica Descoperirea Sfintei Cruci este o importantă biserică catolică istorică din Šeduva.",
+                  "category": "religious",
+                  "coords": [
+                        23.756685,
+                        55.756203
+                  ]
+            },
+            {
+                  "name": "Šeduvos kraštotyros ekspozicija",
+                  "text": "Expoziție de istorie locală care prezintă patrimoniul orașului Šeduva.",
+                  "category": "museum",
+                  "coords": [
+                        23.756104,
+                        55.75282
+                  ]
+            },
+            {
+                  "name": "Šeduvos Retromobile istorinės technikos muziejus",
+                  "text": "Muzeu în Šeduva care expune tehnologie istorică de vehicule retro.",
+                  "category": "museum",
+                  "coords": [
+                        23.766315,
+                        55.756872
+                  ]
+            },
+            {
+                  "name": "Raudondvario dvaro sodyba",
+                  "text": "Conacul Raudondvaris este un domeniu istoric situat în Šeduva.",
+                  "category": "historical",
+                  "coords": [
+                        23.797513,
+                        55.750382
+                  ]
             }
       ],
       "en": [
@@ -37277,6 +37970,51 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         23.793104,
                         55.748203
+                  ]
+            },
+            {
+                  "name": "Lost Shtetl",
+                  "text": "The Lost Shtetl in Šeduva is a museum dedicated to preserving the history of Lithuanian Jews.",
+                  "category": "museum",
+                  "coords": [
+                        23.770968,
+                        55.747098
+                  ]
+            },
+            {
+                  "name": "Šeduvos Šv. Kryžiaus Atradimo bažnyčia",
+                  "text": "The Church of the Discovery of the Holy Cross is a notable historic Catholic church in Šeduva.",
+                  "category": "religious",
+                  "coords": [
+                        23.756685,
+                        55.756203
+                  ]
+            },
+            {
+                  "name": "Šeduvos kraštotyros ekspozicija",
+                  "text": "Local history exhibition showcasing the heritage of Šeduva.",
+                  "category": "museum",
+                  "coords": [
+                        23.756104,
+                        55.75282
+                  ]
+            },
+            {
+                  "name": "Šeduvos Retromobile istorinės technikos muziejus",
+                  "text": "Museum in Šeduva displaying historic retro mobile technology.",
+                  "category": "museum",
+                  "coords": [
+                        23.766315,
+                        55.756872
+                  ]
+            },
+            {
+                  "name": "Raudondvario dvaro sodyba",
+                  "text": "The Raudondvaris manor homestead is a historical estate located in Šeduva.",
+                  "category": "historical",
+                  "coords": [
+                        23.797513,
+                        55.750382
                   ]
             }
       ]
@@ -37362,6 +38100,15 @@ imageHint: "Lazdijai border crossing and church",
                         24.141191,
                         56.060189
                   ]
+            },
+            {
+                  "name": "Siaurukas",
+                  "text": "Der Siaurukas ist eine Schmalspurbahn und Touristenattraktion in Joniškėlis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.152475,
+                        56.03631
+                  ]
             }
       ],
       "hu": [
@@ -37399,6 +38146,15 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.141191,
                         56.060189
+                  ]
+            },
+            {
+                  "name": "Siaurukas",
+                  "text": "A Siaurukas egy keskeny nyomtávú vasút és turisztikai látványosság Joniškėlisben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.152475,
+                        56.03631
                   ]
             }
       ],
@@ -37438,6 +38194,15 @@ imageHint: "Lazdijai border crossing and church",
                         24.141191,
                         56.060189
                   ]
+            },
+            {
+                  "name": "Siaurukas",
+                  "text": "Siaurukas este o cale ferată cu ecartament îngust și o atracție turistică din Joniškėlis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.152475,
+                        56.03631
+                  ]
             }
       ],
       "en": [
@@ -37475,6 +38240,15 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         24.141191,
                         56.060189
+                  ]
+            },
+            {
+                  "name": "Siaurukas",
+                  "text": "The Siaurukas is a narrow-gauge railway and tourist attraction located in Joniškėlis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.152475,
+                        56.03631
                   ]
             }
       ]
@@ -39432,6 +40206,15 @@ imageHint: "Lazdijai border crossing and church",
                         22.44524,
                         55.564927
                   ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "Lurdas ist ein lokaler Wegschrein in Kaltinėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.436725,
+                        55.567831
+                  ]
             }
       ],
       "hu": [
@@ -39469,6 +40252,15 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         22.44524,
                         55.564927
+                  ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "A Lurdas egy helyi útmenti szentély Kaltinėnai-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.436725,
+                        55.567831
                   ]
             }
       ],
@@ -39508,6 +40300,15 @@ imageHint: "Lazdijai border crossing and church",
                         22.44524,
                         55.564927
                   ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "Lurdas este un altar stradal local din Kaltinėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.436725,
+                        55.567831
+                  ]
             }
       ],
       "en": [
@@ -39545,6 +40346,15 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         22.44524,
                         55.564927
+                  ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "Lurdas is a local wayside shrine situated in Kaltinėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.436725,
+                        55.567831
                   ]
             }
       ]
@@ -41393,7 +42203,88 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-krakinava-cities-v2.webp",
   },
   {
-    id: "lithuania-seduva-environs-cities-v2",
+    id: "lithuania-seduva-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baltosios vėjo malūnas",
+                  "text": "Baltosios vėjo malūnas ist eine bekannte historische Windmühle in der Umgebung von Šeduva.",
+                  "category": "landmark",
+                  "coords": [
+                        23.76781,
+                        55.735156
+                  ]
+            },
+            {
+                  "name": "Šeduvos malūnas",
+                  "text": "Šeduvos malūnas ist eine Windmühle in der Umgebung von Šeduva.",
+                  "category": "landmark",
+                  "coords": [
+                        23.743471,
+                        55.760675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baltosios vėjo malūnas",
+                  "text": "A Baltosios vėjo malūnas egy nevezetes történelmi szélmalom Šeduva környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.76781,
+                        55.735156
+                  ]
+            },
+            {
+                  "name": "Šeduvos malūnas",
+                  "text": "A Šeduvos malūnas egy szélmalom Šeduva környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.743471,
+                        55.760675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baltosios vėjo malūnas",
+                  "text": "Baltosios vėjo malūnas este o moară de vânt istorică notabilă situată în împrejurimile orașului Šeduva.",
+                  "category": "landmark",
+                  "coords": [
+                        23.76781,
+                        55.735156
+                  ]
+            },
+            {
+                  "name": "Šeduvos malūnas",
+                  "text": "Šeduvos malūnas este o moară de vânt situată în împrejurimile orașului Šeduva.",
+                  "category": "landmark",
+                  "coords": [
+                        23.743471,
+                        55.760675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baltosios vėjo malūnas",
+                  "text": "Baltosios vėjo malūnas is a notable historical windmill located in the surroundings of Šeduva.",
+                  "category": "landmark",
+                  "coords": [
+                        23.76781,
+                        55.735156
+                  ]
+            },
+            {
+                  "name": "Šeduvos malūnas",
+                  "text": "Šeduvos malūnas is a windmill located in the surroundings of Šeduva.",
+                  "category": "landmark",
+                  "coords": [
+                        23.743471,
+                        55.760675
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Šeduva Umgebung", hu: "Šeduva környéke", ro: "Împrejurimi Šeduva", en: "Šeduva surroundings" },
@@ -42104,7 +42995,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-radviliskis-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-telsiai-environs-cities-v2",
+    id: "lithuania-telsiai-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Telšių Šv. Antano Paduviečio katedra",
+                  "text": "Die Kathedrale des Heiligen Antonius von Padua ist ein bedeutendes Gotteshaus in der Region Telšiai.",
+                  "category": "religious",
+                  "coords": [
+                        22.24621,
+                        55.982363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Telšių Šv. Antano Paduviečio katedra",
+                  "text": "A Páduai Szent Antal-székesegyház egy kiemelkedő istentiszteleti hely Telšiai környékén.",
+                  "category": "religious",
+                  "coords": [
+                        22.24621,
+                        55.982363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Telšių Šv. Antano Paduviečio katedra",
+                  "text": "Catedrala Sfântul Anton de Padova este un lăcaș de cult proeminent situat în zona Telšiai.",
+                  "category": "religious",
+                  "coords": [
+                        22.24621,
+                        55.982363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Telšių Šv. Antano Paduviečio katedra",
+                  "text": "The Cathedral of St. Anthony of Padua is a prominent place of worship located in the Telšiai area.",
+                  "category": "religious",
+                  "coords": [
+                        22.24621,
+                        55.982363
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Telšiai Umgebung", hu: "Telšiai környéke", ro: "Împrejurimi Telšiai", en: "Telšiai area" },
@@ -42905,7 +43841,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-silale-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-ignalina-environs-cities-v2",
+    id: "lithuania-ignalina-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ignalinos paplūdimys",
+                  "text": "Ignalinos paplūdimys ist ein entspannender Sandstrand im Gebiet von Ignalina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146242,
+                        55.335374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ignalinos paplūdimys",
+                  "text": "Az Ignalinos paplūdimys egy pihentető homokos strand Ignalina környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146242,
+                        55.335374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ignalinos paplūdimys",
+                  "text": "Ignalinos paplūdimys este o plajă cu nisip relaxantă situată în zona Ignalina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146242,
+                        55.335374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ignalinos paplūdimys",
+                  "text": "Ignalinos paplūdimys is a relaxing sandy beach located in the Ignalina area.",
+                  "category": "recreational",
+                  "coords": [
+                        26.146242,
+                        55.335374
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Ignalina Umgebung", hu: "Ignalina környéke", ro: "Împrejurimi Ignalina", en: "Ignalina area" },

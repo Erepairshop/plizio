@@ -18,6 +18,69 @@ export const poiExtraHuV4: POI[] = [
                         18.116932,
                         46.13681
                   ]
+            },
+            {
+                  "name": "Kis-kő-hegy",
+                  "text": "Der Kis-kő-hegy ist ein Berggipfel in der Nähe von Abaliget.",
+                  "category": "landmark",
+                  "coords": [
+                        18.101048,
+                        46.145991
+                  ]
+            },
+            {
+                  "name": "Akácos-víznyelő",
+                  "text": "Akácos-víznyelő ist ein Höhleneingang in Abaliget, der mit dem Abaligeti-Höhlensystem verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.111745,
+                        46.134345
+                  ]
+            },
+            {
+                  "name": "Abaligeti régi alagút",
+                  "text": "Das Abaligeti régi alagút sind die Ruinen eines alten Tunnels in Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.091269,
+                        46.15479
+                  ]
+            },
+            {
+                  "name": "viadukt pillér",
+                  "text": "Viadukt pillér sind die Ruinen eines Viaduktpfeilers in Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.088346,
+                        46.163654
+                  ]
+            },
+            {
+                  "name": "Denevér Múzeum",
+                  "text": "Das Denevér Múzeum ist ein Fledermausmuseum in Abaliget.",
+                  "category": "museum",
+                  "coords": [
+                        18.115837,
+                        46.13679
+                  ]
+            },
+            {
+                  "name": "volt Górász malom",
+                  "text": "Volt Górász malom sind die Ruinen einer ehemaligen Mühle in Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.103665,
+                        46.149635
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Szabadstrand ist ein öffentlicher Strand in Abaliget.",
+                  "category": "recreational",
+                  "coords": [
+                        18.1351,
+                        46.155817
+                  ]
             }
       ],
       "hu": [
@@ -30,6 +93,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.116932,
                         46.13681
+                  ]
+            },
+            {
+                  "name": "Kis-kő-hegy",
+                  "text": "A Kis-kő-hegy egy hegycsúcs Abaliget közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.101048,
+                        46.145991
+                  ]
+            },
+            {
+                  "name": "Akácos-víznyelő",
+                  "text": "Az Akácos-víznyelő egy barlangbejárat Abaligeten, amely az Abaligeti-barlangrendszerhez tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        18.111745,
+                        46.134345
+                  ]
+            },
+            {
+                  "name": "Abaligeti régi alagút",
+                  "text": "Az Abaligeti régi alagút egy régi alagút romja Abaliget területén.",
+                  "category": "historical",
+                  "coords": [
+                        18.091269,
+                        46.15479
+                  ]
+            },
+            {
+                  "name": "viadukt pillér",
+                  "text": "A viadukt pillér egy egykori viadukt maradványa Abaligeten.",
+                  "category": "historical",
+                  "coords": [
+                        18.088346,
+                        46.163654
+                  ]
+            },
+            {
+                  "name": "Denevér Múzeum",
+                  "text": "A Denevér Múzeum egy denevéreket bemutató múzeum Abaligeten.",
+                  "category": "museum",
+                  "coords": [
+                        18.115837,
+                        46.13679
+                  ]
+            },
+            {
+                  "name": "volt Górász malom",
+                  "text": "A volt Górász malom egy egykori malom romja Abaliget területén.",
+                  "category": "historical",
+                  "coords": [
+                        18.103665,
+                        46.149635
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "A Szabadstrand egy nyilvános strand Abaligeten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.1351,
+                        46.155817
                   ]
             }
       ],
@@ -44,6 +170,69 @@ export const poiExtraHuV4: POI[] = [
                         18.116932,
                         46.13681
                   ]
+            },
+            {
+                  "name": "Kis-kő-hegy",
+                  "text": "Kis-kő-hegy este un vârf montan situat lângă Abaliget.",
+                  "category": "landmark",
+                  "coords": [
+                        18.101048,
+                        46.145991
+                  ]
+            },
+            {
+                  "name": "Akácos-víznyelő",
+                  "text": "Akácos-víznyelő este o intrare de peșteră în Abaliget, asociată cu sistemul Peșterii Abaligeti.",
+                  "category": "landmark",
+                  "coords": [
+                        18.111745,
+                        46.134345
+                  ]
+            },
+            {
+                  "name": "Abaligeti régi alagút",
+                  "text": "Abaligeti régi alagút reprezintă ruinele unui vechi tunel în Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.091269,
+                        46.15479
+                  ]
+            },
+            {
+                  "name": "viadukt pillér",
+                  "text": "Viadukt pillér sunt ruinele unui pilon de viaduct din Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.088346,
+                        46.163654
+                  ]
+            },
+            {
+                  "name": "Denevér Múzeum",
+                  "text": "Denevér Múzeum este un muzeu dedicat liliecilor, situat în Abaliget.",
+                  "category": "museum",
+                  "coords": [
+                        18.115837,
+                        46.13679
+                  ]
+            },
+            {
+                  "name": "volt Górász malom",
+                  "text": "Volt Górász malom reprezintă ruinele unei foste mori în Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.103665,
+                        46.149635
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Szabadstrand este o plajă publică în Abaliget.",
+                  "category": "recreational",
+                  "coords": [
+                        18.1351,
+                        46.155817
+                  ]
             }
       ],
       "en": [
@@ -56,6 +245,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.116932,
                         46.13681
+                  ]
+            },
+            {
+                  "name": "Kis-kő-hegy",
+                  "text": "Kis-kő-hegy is a mountain peak located near Abaliget.",
+                  "category": "landmark",
+                  "coords": [
+                        18.101048,
+                        46.145991
+                  ]
+            },
+            {
+                  "name": "Akácos-víznyelő",
+                  "text": "Akácos-víznyelő is a cave entrance in Abaliget, associated with the Abaligeti Cave system.",
+                  "category": "landmark",
+                  "coords": [
+                        18.111745,
+                        46.134345
+                  ]
+            },
+            {
+                  "name": "Abaligeti régi alagút",
+                  "text": "Abaligeti régi alagút represents the ruins of an old tunnel in Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.091269,
+                        46.15479
+                  ]
+            },
+            {
+                  "name": "viadukt pillér",
+                  "text": "Viadukt pillér refers to the ruins of a viaduct pillar in Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.088346,
+                        46.163654
+                  ]
+            },
+            {
+                  "name": "Denevér Múzeum",
+                  "text": "The Denevér Múzeum is a museum dedicated to bats located in Abaliget.",
+                  "category": "museum",
+                  "coords": [
+                        18.115837,
+                        46.13679
+                  ]
+            },
+            {
+                  "name": "volt Górász malom",
+                  "text": "Volt Górász malom are the ruins of a former mill in Abaliget.",
+                  "category": "historical",
+                  "coords": [
+                        18.103665,
+                        46.149635
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Szabadstrand is a public beach located in Abaliget.",
+                  "category": "recreational",
+                  "coords": [
+                        18.1351,
+                        46.155817
                   ]
             }
       ]
@@ -83,6 +335,69 @@ export const poiExtraHuV4: POI[] = [
                         17.832073,
                         46.930143
                   ]
+            },
+            {
+                  "name": "Udvari Galéria",
+                  "text": "Udvari Galéria ist ein lokales Museum in Aszófő.",
+                  "category": "museum",
+                  "coords": [
+                        17.806613,
+                        46.904601
+                  ]
+            },
+            {
+                  "name": "Levendulás",
+                  "text": "Levendulás ist ein malerischer Aussichtspunkt in Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.852326,
+                        46.905255
+                  ]
+            },
+            {
+                  "name": "Árpád-kori lakótorony",
+                  "text": "Árpád-kori lakótorony umfasst historische Ruinen eines Wohnturms in Aszófő.",
+                  "category": "historical",
+                  "coords": [
+                        17.852483,
+                        46.906527
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény és galéria",
+                  "text": "Dieses Museum in Aszófő beherbergt eine heimatgeschichtliche Sammlung und eine Galerie.",
+                  "category": "museum",
+                  "coords": [
+                        17.816513,
+                        46.916388
+                  ]
+            },
+            {
+                  "name": "Magyar narancs",
+                  "text": "Magyar narancs ist ein lokaler Aussichtspunkt mit malerischem Blick in Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.855036,
+                        46.90253
+                  ]
+            },
+            {
+                  "name": "Malommúzeum",
+                  "text": "Das Malommúzeum ist ein Mühlenmuseum, das die lokale Geschichte in Aszófő zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.817488,
+                        46.91647
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Fokozottan védett terület ist ein streng geschütztes Naturschutzgebiet in Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.817326,
+                        46.945355
+                  ]
             }
       ],
       "hu": [
@@ -106,6 +421,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.832073,
                         46.930143
+                  ]
+            },
+            {
+                  "name": "Udvari Galéria",
+                  "text": "Az Udvari Galéria egy helyi múzeum Aszófőn.",
+                  "category": "museum",
+                  "coords": [
+                        17.806613,
+                        46.904601
+                  ]
+            },
+            {
+                  "name": "Levendulás",
+                  "text": "A Levendulás egy festői kilátó Aszófőn.",
+                  "category": "natural",
+                  "coords": [
+                        17.852326,
+                        46.905255
+                  ]
+            },
+            {
+                  "name": "Árpád-kori lakótorony",
+                  "text": "Az Árpád-kori lakótorony egy történelmi lakótorony romjait foglalja magában Aszófőn.",
+                  "category": "historical",
+                  "coords": [
+                        17.852483,
+                        46.906527
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény és galéria",
+                  "text": "A helytörténeti gyűjtemény és galéria a helyi történelmet mutatja be Aszófőn.",
+                  "category": "museum",
+                  "coords": [
+                        17.816513,
+                        46.916388
+                  ]
+            },
+            {
+                  "name": "Magyar narancs",
+                  "text": "A Magyar narancs egy helyi kilátópont Aszófőn.",
+                  "category": "natural",
+                  "coords": [
+                        17.855036,
+                        46.90253
+                  ]
+            },
+            {
+                  "name": "Malommúzeum",
+                  "text": "A Malommúzeum egy helyi történelmet bemutató malommúzeum Aszófőn.",
+                  "category": "museum",
+                  "coords": [
+                        17.817488,
+                        46.91647
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "A Fokozottan védett terület egy szigorúan védett természetvédelmi övezet Aszófőn.",
+                  "category": "natural",
+                  "coords": [
+                        17.817326,
+                        46.945355
                   ]
             }
       ],
@@ -131,6 +509,69 @@ export const poiExtraHuV4: POI[] = [
                         17.832073,
                         46.930143
                   ]
+            },
+            {
+                  "name": "Udvari Galéria",
+                  "text": "Udvari Galéria este un muzeu local situat în Aszófő.",
+                  "category": "museum",
+                  "coords": [
+                        17.806613,
+                        46.904601
+                  ]
+            },
+            {
+                  "name": "Levendulás",
+                  "text": "Levendulás este un punct de belvedere pitoresc situat în Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.852326,
+                        46.905255
+                  ]
+            },
+            {
+                  "name": "Árpád-kori lakótorony",
+                  "text": "Árpád-kori lakótorony prezintă ruinele istorice ale unui turn rezidențial din Aszófő.",
+                  "category": "historical",
+                  "coords": [
+                        17.852483,
+                        46.906527
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény és galéria",
+                  "text": "Acest muzeu din Aszófő găzduiește o colecție de istorie locală și o galerie.",
+                  "category": "museum",
+                  "coords": [
+                        17.816513,
+                        46.916388
+                  ]
+            },
+            {
+                  "name": "Magyar narancs",
+                  "text": "Magyar narancs este un punct de belvedere local ce oferă vederi pitorești în Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.855036,
+                        46.90253
+                  ]
+            },
+            {
+                  "name": "Malommúzeum",
+                  "text": "Malommúzeum este un muzeu al morăritului ce prezintă istoria locală din Aszófő.",
+                  "category": "museum",
+                  "coords": [
+                        17.817488,
+                        46.91647
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Fokozottan védett terület este o rezervație naturală strict protejată din Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.817326,
+                        46.945355
+                  ]
             }
       ],
       "en": [
@@ -154,6 +595,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.832073,
                         46.930143
+                  ]
+            },
+            {
+                  "name": "Udvari Galéria",
+                  "text": "Udvari Galéria is a local museum located in Aszófő.",
+                  "category": "museum",
+                  "coords": [
+                        17.806613,
+                        46.904601
+                  ]
+            },
+            {
+                  "name": "Levendulás",
+                  "text": "Levendulás is a scenic viewpoint situated in Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.852326,
+                        46.905255
+                  ]
+            },
+            {
+                  "name": "Árpád-kori lakótorony",
+                  "text": "Árpád-kori lakótorony features historical ruins of a residential tower in Aszófő.",
+                  "category": "historical",
+                  "coords": [
+                        17.852483,
+                        46.906527
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény és galéria",
+                  "text": "This museum in Aszófő houses a local history collection and a gallery.",
+                  "category": "museum",
+                  "coords": [
+                        17.816513,
+                        46.916388
+                  ]
+            },
+            {
+                  "name": "Magyar narancs",
+                  "text": "Magyar narancs is a local viewpoint providing scenic views in Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.855036,
+                        46.90253
+                  ]
+            },
+            {
+                  "name": "Malommúzeum",
+                  "text": "Malommúzeum is a mill museum showcasing local history in Aszófő.",
+                  "category": "museum",
+                  "coords": [
+                        17.817488,
+                        46.91647
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Fokozottan védett terület is a strictly protected nature reserve in Aszófő.",
+                  "category": "natural",
+                  "coords": [
+                        17.817326,
+                        46.945355
                   ]
             }
       ]
@@ -181,6 +685,78 @@ export const poiExtraHuV4: POI[] = [
                         17.495897,
                         46.794032
                   ]
+            },
+            {
+                  "name": "Tördemici kilátó",
+                  "text": "Der Tördemici kilátó ist ein Aussichtspunkt in Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.487534,
+                        46.800803
+                  ]
+            },
+            {
+                  "name": "Egry József kilátóhely",
+                  "text": "Egry József kilátóhely ist ein Aussichtspunkt in Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.493432,
+                        46.796857
+                  ]
+            },
+            {
+                  "name": "Páholykő-kilátóhely",
+                  "text": "Páholykő-kilátóhely ist ein bekannter Aussichtspunkt in Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.499118,
+                        46.798728
+                  ]
+            },
+            {
+                  "name": "Kisfaludy-kilátó (lezárva)",
+                  "text": "Der Kisfaludy-kilátó ist ein Aussichtsturm auf dem Badacsony-Berg in Badacsonytomaj.",
+                  "category": "tower",
+                  "coords": [
+                        17.496235,
+                        46.803278
+                  ]
+            },
+            {
+                  "name": "Rózsakő",
+                  "text": "Rózsakő ist ein berühmter Basaltblock und eine touristische Attraktion in Badacsonytomaj.",
+                  "category": "landmark",
+                  "coords": [
+                        17.496298,
+                        46.795663
+                  ]
+            },
+            {
+                  "name": "Hármas-hegy",
+                  "text": "Der Hármas-hegy ist ein Berggipfel in Badacsonytomaj.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499142,
+                        46.817548
+                  ]
+            },
+            {
+                  "name": "Folly Arborétum",
+                  "text": "Das Folly Arborétum ist ein botanischer Garten mit einer einzigartigen Zypressen- und Zedernsammlung in Badacsonytomaj.",
+                  "category": "park",
+                  "coords": [
+                        17.544687,
+                        46.81075
+                  ]
+            },
+            {
+                  "name": "Egry József Emlékmúzeum",
+                  "text": "Das Egry József Emlékmúzeum ist ein Museum in Badacsonytomaj, das dem Maler József Egry gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.504867,
+                        46.787526
+                  ]
             }
       ],
       "hu": [
@@ -204,6 +780,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.495897,
                         46.794032
+                  ]
+            },
+            {
+                  "name": "Tördemici kilátó",
+                  "text": "A Tördemici kilátó egy kilátópont Badacsonytomajon.",
+                  "category": "natural",
+                  "coords": [
+                        17.487534,
+                        46.800803
+                  ]
+            },
+            {
+                  "name": "Egry József kilátóhely",
+                  "text": "Az Egry József kilátóhely egy panorámás kilátópont Badacsonytomajon.",
+                  "category": "natural",
+                  "coords": [
+                        17.493432,
+                        46.796857
+                  ]
+            },
+            {
+                  "name": "Páholykő-kilátóhely",
+                  "text": "A Páholykő-kilátóhely egy ismert kilátópont Badacsonytomajon.",
+                  "category": "natural",
+                  "coords": [
+                        17.499118,
+                        46.798728
+                  ]
+            },
+            {
+                  "name": "Kisfaludy-kilátó (lezárva)",
+                  "text": "A Kisfaludy-kilátó egy kilátótorony a Badacsony hegyen, Badacsonytomaj területén.",
+                  "category": "tower",
+                  "coords": [
+                        17.496235,
+                        46.803278
+                  ]
+            },
+            {
+                  "name": "Rózsakő",
+                  "text": "A Rózsakő egy híres bazalttömb és turisztikai látványosság Badacsonytomajon.",
+                  "category": "landmark",
+                  "coords": [
+                        17.496298,
+                        46.795663
+                  ]
+            },
+            {
+                  "name": "Hármas-hegy",
+                  "text": "A Hármas-hegy egy hegycsúcs Badacsonytomaj közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499142,
+                        46.817548
+                  ]
+            },
+            {
+                  "name": "Folly Arborétum",
+                  "text": "A Folly Arborétum egy botanikus kert különleges ciprus- és cédrusgyűjteménnyel Badacsonytomajon.",
+                  "category": "park",
+                  "coords": [
+                        17.544687,
+                        46.81075
+                  ]
+            },
+            {
+                  "name": "Egry József Emlékmúzeum",
+                  "text": "Az Egry József Emlékmúzeum a festőművész életét bemutató múzeum Badacsonytomajon.",
+                  "category": "museum",
+                  "coords": [
+                        17.504867,
+                        46.787526
                   ]
             }
       ],
@@ -229,6 +877,78 @@ export const poiExtraHuV4: POI[] = [
                         17.495897,
                         46.794032
                   ]
+            },
+            {
+                  "name": "Tördemici kilátó",
+                  "text": "Tördemici kilátó este un punct de observație în Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.487534,
+                        46.800803
+                  ]
+            },
+            {
+                  "name": "Egry József kilátóhely",
+                  "text": "Egry József kilátóhely este un punct de panoramă în Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.493432,
+                        46.796857
+                  ]
+            },
+            {
+                  "name": "Páholykő-kilátóhely",
+                  "text": "Páholykő-kilátóhely este un punct de belvedere situat în Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.499118,
+                        46.798728
+                  ]
+            },
+            {
+                  "name": "Kisfaludy-kilátó (lezárva)",
+                  "text": "Kisfaludy-kilátó este un turn de observație situat pe muntele Badacsony din Badacsonytomaj.",
+                  "category": "tower",
+                  "coords": [
+                        17.496235,
+                        46.803278
+                  ]
+            },
+            {
+                  "name": "Rózsakő",
+                  "text": "Rózsakő este un faimos bloc de bazalt și o atracție turistică în Badacsonytomaj.",
+                  "category": "landmark",
+                  "coords": [
+                        17.496298,
+                        46.795663
+                  ]
+            },
+            {
+                  "name": "Hármas-hegy",
+                  "text": "Hármas-hegy este un vârf montan în Badacsonytomaj.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499142,
+                        46.817548
+                  ]
+            },
+            {
+                  "name": "Folly Arborétum",
+                  "text": "Folly Arborétum este o grădină botanică din Badacsonytomaj, cunoscută pentru colecția sa de chiparoși și cedri.",
+                  "category": "park",
+                  "coords": [
+                        17.544687,
+                        46.81075
+                  ]
+            },
+            {
+                  "name": "Egry József Emlékmúzeum",
+                  "text": "Egry József Emlékmúzeum este un muzeu memorial din Badacsonytomaj dedicat pictorului József Egry.",
+                  "category": "museum",
+                  "coords": [
+                        17.504867,
+                        46.787526
+                  ]
             }
       ],
       "en": [
@@ -253,6 +973,78 @@ export const poiExtraHuV4: POI[] = [
                         17.495897,
                         46.794032
                   ]
+            },
+            {
+                  "name": "Tördemici kilátó",
+                  "text": "Tördemici kilátó is a scenic viewpoint in Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.487534,
+                        46.800803
+                  ]
+            },
+            {
+                  "name": "Egry József kilátóhely",
+                  "text": "Egry József kilátóhely is a panoramic viewpoint in Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.493432,
+                        46.796857
+                  ]
+            },
+            {
+                  "name": "Páholykő-kilátóhely",
+                  "text": "Páholykő-kilátóhely is a well-known viewpoint situated in Badacsonytomaj.",
+                  "category": "natural",
+                  "coords": [
+                        17.499118,
+                        46.798728
+                  ]
+            },
+            {
+                  "name": "Kisfaludy-kilátó (lezárva)",
+                  "text": "The Kisfaludy-kilátó is an observation tower located on the Badacsony hill in Badacsonytomaj.",
+                  "category": "tower",
+                  "coords": [
+                        17.496235,
+                        46.803278
+                  ]
+            },
+            {
+                  "name": "Rózsakő",
+                  "text": "Rózsakő is a famous basalt block and tourist attraction in Badacsonytomaj.",
+                  "category": "landmark",
+                  "coords": [
+                        17.496298,
+                        46.795663
+                  ]
+            },
+            {
+                  "name": "Hármas-hegy",
+                  "text": "Hármas-hegy is a mountain peak located in Badacsonytomaj.",
+                  "category": "landmark",
+                  "coords": [
+                        17.499142,
+                        46.817548
+                  ]
+            },
+            {
+                  "name": "Folly Arborétum",
+                  "text": "The Folly Arborétum is a botanical garden in Badacsonytomaj, known for its unique collection of cypresses and cedars.",
+                  "category": "park",
+                  "coords": [
+                        17.544687,
+                        46.81075
+                  ]
+            },
+            {
+                  "name": "Egry József Emlékmúzeum",
+                  "text": "The Egry József Emlékmúzeum is a museum in Badacsonytomaj dedicated to the Hungarian painter József Egry.",
+                  "category": "museum",
+                  "coords": [
+                        17.504867,
+                        46.787526
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Burg Szigliget", "text": "Eine malerische Burgruine auf einem Hügel über dem Balaton.", "distance": "12 km", "category": "historical"}, {"name": "Tapolca Seehöhle", "text": "Ein unterirdisches Höhlensystem, das man mit Booten befahren kann.", "distance": "15 km", "category": "natural"}], "hu": [{"name": "Szigligeti vár", "text": "A 'Balaton vára', ahonnan a legszebb kilátás nyílik a tanúhegyekre.", "distance": "12 km", "category": "historical"}, {"name": "Tapolcai-tavasbarlang", "text": "Csónakázható barlangrendszer a város szíve alatt.", "distance": "15 km", "category": "natural"}], "ro": [{"name": "Cetatea Szigliget", "text": "O ruină de cetate superbă, oferind cele mai bune unghiuri pentru fotografii.", "distance": "12 km", "category": "historical"}, {"name": "Peștera Lacului din Tapolca", "text": "Sistem de peșteri inundate unde se pot face plimbări cu barca.", "distance": "15 km", "category": "natural"}], "en": [{"name": "Szigliget Castle", "text": "A medieval fortress ruin known as the 'Castle of Balaton'.", "distance": "12 km", "category": "historical"}, {"name": "Tapolca Lake Cave", "text": "A unique underground cave system navigated by small boats.", "distance": "15 km", "category": "natural"}]}, "parent": "veszprem"},
@@ -267,6 +1059,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.732711,
                         47.244159
+                  ]
+            },
+            {
+                  "name": "Erzsébet-kilátó",
+                  "text": "Erzsébet-kilátó ist ein Aussichtspunkt mit Panoramablick in Bakonybél.",
+                  "category": "natural",
+                  "coords": [
+                        17.729829,
+                        47.25807
+                  ]
+            },
+            {
+                  "name": "Tönkölös-hegy",
+                  "text": "Tönkölös-hegy ist ein bemerkenswerter Berggipfel in der Nähe von Bakonybél.",
+                  "category": "landmark",
+                  "coords": [
+                        17.727818,
+                        47.269227
+                  ]
+            },
+            {
+                  "name": "Pörgöl-barlang",
+                  "text": "Pörgöl-barlang ist ein anerkannter Höhleneingang in der Bakony-Region in der Nähe von Bakonybél.",
+                  "category": "landmark",
+                  "coords": [
+                        17.748829,
+                        47.262706
+                  ]
+            },
+            {
+                  "name": "Witt-kilátópont",
+                  "text": "Witt-kilátópont ist ein ausgewiesener Aussichtspunkt mit malerischen Ausblicken in Bakonybél.",
+                  "category": "natural",
+                  "coords": [
+                        17.688211,
+                        47.263812
+                  ]
+            },
+            {
+                  "name": "Faluház, Tourinform",
+                  "text": "Faluház, Tourinform dient als Museum und Touristeninformationszentrum in Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.725194,
+                        47.25304
+                  ]
+            },
+            {
+                  "name": "Játék- és Nosztalgiamúzeum",
+                  "text": "Játék- und Nosztalgiamúzeum ist ein Museum für historisches Spielzeug und Nostalgieartikel in Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.730208,
+                        47.252806
+                  ]
+            },
+            {
+                  "name": "Bakonyi Erdők Háza",
+                  "text": "Bakonyi Erdők Háza ist ein Museum, das den Wäldern der Region gewidmet ist und sich in Bakonybél befindet.",
+                  "category": "museum",
+                  "coords": [
+                        17.728146,
+                        47.252881
+                  ]
+            },
+            {
+                  "name": "Bakonyújvár",
+                  "text": "Bakonyújvár zeigt die historischen Ruinen einer Burg in der Nähe von Bakonybél.",
+                  "category": "historical",
+                  "coords": [
+                        17.721638,
+                        47.275667
                   ]
             }
       ],
@@ -288,6 +1152,78 @@ export const poiExtraHuV4: POI[] = [
                   "category": "historical",
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Erzsébet-kilátó",
+                  "text": "Az Erzsébet-kilátó egy panorámás kilátást nyújtó kilátópont Bakonybélben.",
+                  "category": "natural",
+                  "coords": [
+                        17.729829,
+                        47.25807
+                  ]
+            },
+            {
+                  "name": "Tönkölös-hegy",
+                  "text": "A Tönkölös-hegy egy jelentős hegycsúcs Bakonybél közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.727818,
+                        47.269227
+                  ]
+            },
+            {
+                  "name": "Pörgöl-barlang",
+                  "text": "A Pörgöl-barlang egy ismert barlangbejárat a Bakonyban, Bakonybél közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.748829,
+                        47.262706
+                  ]
+            },
+            {
+                  "name": "Witt-kilátópont",
+                  "text": "A Witt-kilátópont egy festői kilátást biztosító kilátópont Bakonybélben.",
+                  "category": "natural",
+                  "coords": [
+                        17.688211,
+                        47.263812
+                  ]
+            },
+            {
+                  "name": "Faluház, Tourinform",
+                  "text": "A Faluház, Tourinform múzeumként és turisztikai információs központként működik Bakonybélben.",
+                  "category": "museum",
+                  "coords": [
+                        17.725194,
+                        47.25304
+                  ]
+            },
+            {
+                  "name": "Játék- és Nosztalgiamúzeum",
+                  "text": "A Játék- és Nosztalgiamúzeum egy régi játékokat és nosztalgia tárgyakat bemutató múzeum Bakonybélben.",
+                  "category": "museum",
+                  "coords": [
+                        17.730208,
+                        47.252806
+                  ]
+            },
+            {
+                  "name": "Bakonyi Erdők Háza",
+                  "text": "A Bakonyi Erdők Háza a régió erdeit bemutató múzeum Bakonybélben.",
+                  "category": "museum",
+                  "coords": [
+                        17.728146,
+                        47.252881
+                  ]
+            },
+            {
+                  "name": "Bakonyújvár",
+                  "text": "A Bakonyújvár egy vár történelmi romjait foglalja magában Bakonybél közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.721638,
+                        47.275667
+                  ]
             }
       ],
       "ro": [
@@ -301,6 +1237,78 @@ export const poiExtraHuV4: POI[] = [
                         17.732711,
                         47.244159
                   ]
+            },
+            {
+                  "name": "Erzsébet-kilátó",
+                  "text": "Erzsébet-kilátó este un punct de belvedere care oferă vederi panoramice în Bakonybél.",
+                  "category": "natural",
+                  "coords": [
+                        17.729829,
+                        47.25807
+                  ]
+            },
+            {
+                  "name": "Tönkölös-hegy",
+                  "text": "Tönkölös-hegy este un vârf montan notabil situat lângă Bakonybél.",
+                  "category": "landmark",
+                  "coords": [
+                        17.727818,
+                        47.269227
+                  ]
+            },
+            {
+                  "name": "Pörgöl-barlang",
+                  "text": "Pörgöl-barlang este o intrare de peșteră recunoscută din regiunea Bakony, lângă Bakonybél.",
+                  "category": "landmark",
+                  "coords": [
+                        17.748829,
+                        47.262706
+                  ]
+            },
+            {
+                  "name": "Witt-kilátópont",
+                  "text": "Witt-kilátópont este un punct de belvedere desemnat care oferă peisaje pitorești în Bakonybél.",
+                  "category": "natural",
+                  "coords": [
+                        17.688211,
+                        47.263812
+                  ]
+            },
+            {
+                  "name": "Faluház, Tourinform",
+                  "text": "Faluház, Tourinform servește drept muzeu și centru de informare turistică în Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.725194,
+                        47.25304
+                  ]
+            },
+            {
+                  "name": "Játék- és Nosztalgiamúzeum",
+                  "text": "Játék- és Nosztalgiamúzeum este un muzeu care expune jucării de epocă și articole de nostalgie în Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.730208,
+                        47.252806
+                  ]
+            },
+            {
+                  "name": "Bakonyi Erdők Háza",
+                  "text": "Bakonyi Erdők Háza este un muzeu dedicat pădurilor din regiune, situat în Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.728146,
+                        47.252881
+                  ]
+            },
+            {
+                  "name": "Bakonyújvár",
+                  "text": "Bakonyújvár prezintă ruinele istorice ale unui castel situat lângă Bakonybél.",
+                  "category": "historical",
+                  "coords": [
+                        17.721638,
+                        47.275667
+                  ]
             }
       ],
       "en": [
@@ -313,6 +1321,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.732711,
                         47.244159
+                  ]
+            },
+            {
+                  "name": "Erzsébet-kilátó",
+                  "text": "Erzsébet-kilátó is a viewpoint offering panoramic views in Bakonybél.",
+                  "category": "natural",
+                  "coords": [
+                        17.729829,
+                        47.25807
+                  ]
+            },
+            {
+                  "name": "Tönkölös-hegy",
+                  "text": "Tönkölös-hegy is a notable mountain peak situated near Bakonybél.",
+                  "category": "landmark",
+                  "coords": [
+                        17.727818,
+                        47.269227
+                  ]
+            },
+            {
+                  "name": "Pörgöl-barlang",
+                  "text": "Pörgöl-barlang is a recognized cave entrance located in the Bakony region near Bakonybél.",
+                  "category": "landmark",
+                  "coords": [
+                        17.748829,
+                        47.262706
+                  ]
+            },
+            {
+                  "name": "Witt-kilátópont",
+                  "text": "Witt-kilátópont is a designated viewpoint providing scenic vistas in Bakonybél.",
+                  "category": "natural",
+                  "coords": [
+                        17.688211,
+                        47.263812
+                  ]
+            },
+            {
+                  "name": "Faluház, Tourinform",
+                  "text": "Faluház, Tourinform serves as a museum and tourist information center in Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.725194,
+                        47.25304
+                  ]
+            },
+            {
+                  "name": "Játék- és Nosztalgiamúzeum",
+                  "text": "Játék- és Nosztalgiamúzeum is a museum exhibiting vintage toys and nostalgia items in Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.730208,
+                        47.252806
+                  ]
+            },
+            {
+                  "name": "Bakonyi Erdők Háza",
+                  "text": "Bakonyi Erdők Háza is a museum dedicated to the forests of the region, located in Bakonybél.",
+                  "category": "museum",
+                  "coords": [
+                        17.728146,
+                        47.252881
+                  ]
+            },
+            {
+                  "name": "Bakonyújvár",
+                  "text": "Bakonyújvár features the historic ruins of a castle situated near Bakonybél.",
+                  "category": "historical",
+                  "coords": [
+                        17.721638,
+                        47.275667
                   ]
             }
       ]
@@ -328,6 +1408,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.972955,
                         47.271975
+                  ]
+            },
+            {
+                  "name": "Bongó-zsomboly",
+                  "text": "Die Bongó-zsomboly ist ein Höhleneingang in der Karstlandschaft von Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.983694,
+                        47.257389
+                  ]
+            },
+            {
+                  "name": "Csengő-zsomboly",
+                  "text": "Die Csengő-zsomboly ist ein weiterer markanter Höhleneingang bei Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974014,
+                        47.248445
+                  ]
+            },
+            {
+                  "name": "Veimpuszta",
+                  "text": "Veimpuszta beherbergt historische Ruinen in der Gemeinde Bakonynána.",
+                  "category": "historical",
+                  "coords": [
+                        17.932054,
+                        47.274955
+                  ]
+            },
+            {
+                  "name": "Római Fürdő szurdok",
+                  "text": "Die Schlucht des Römischen Bades ist eine malerische natürliche Attraktion in Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991946,
+                        47.270448
                   ]
             }
       ],
@@ -349,6 +1465,42 @@ export const poiExtraHuV4: POI[] = [
                   "category": "historical",
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Bongó-zsomboly",
+                  "text": "A Bongó-zsomboly egy mély karsztos barlangnyílás Bakonynána közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.983694,
+                        47.257389
+                  ]
+            },
+            {
+                  "name": "Csengő-zsomboly",
+                  "text": "A Csengő-zsomboly egy ismert aknabarlang bejárata a Bakonynána környéki erdőkben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974014,
+                        47.248445
+                  ]
+            },
+            {
+                  "name": "Veimpuszta",
+                  "text": "Veimpuszta egy történelmi romokat rejtő elhagyatott terület Bakonynána közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.932054,
+                        47.274955
+                  ]
+            },
+            {
+                  "name": "Római Fürdő szurdok",
+                  "text": "A Római Fürdő szurdok egy festői szépségű, sziklák közötti vízesés és látványosság Bakonynánánál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991946,
+                        47.270448
+                  ]
             }
       ],
       "ro": [
@@ -362,6 +1514,42 @@ export const poiExtraHuV4: POI[] = [
                         17.972955,
                         47.271975
                   ]
+            },
+            {
+                  "name": "Bongó-zsomboly",
+                  "text": "Bongó-zsomboly este o intrare de peșteră din peisajul carstic din Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.983694,
+                        47.257389
+                  ]
+            },
+            {
+                  "name": "Csengő-zsomboly",
+                  "text": "Csengő-zsomboly este o altă intrare importantă de peșteră lângă Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974014,
+                        47.248445
+                  ]
+            },
+            {
+                  "name": "Veimpuszta",
+                  "text": "Veimpuszta adăpostește ruine istorice în municipalitatea Bakonynána.",
+                  "category": "historical",
+                  "coords": [
+                        17.932054,
+                        47.274955
+                  ]
+            },
+            {
+                  "name": "Római Fürdő szurdok",
+                  "text": "Cheile Băilor Romane reprezintă o atracție naturală pitorească în Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991946,
+                        47.270448
+                  ]
             }
       ],
       "en": [
@@ -374,6 +1562,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.972955,
                         47.271975
+                  ]
+            },
+            {
+                  "name": "Bongó-zsomboly",
+                  "text": "Bongó-zsomboly is a deep cave entrance located in the karst terrain of Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.983694,
+                        47.257389
+                  ]
+            },
+            {
+                  "name": "Csengő-zsomboly",
+                  "text": "Csengő-zsomboly is a notable vertical cave entrance situated near Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974014,
+                        47.248445
+                  ]
+            },
+            {
+                  "name": "Veimpuszta",
+                  "text": "Veimpuszta is an area featuring historical ruins located within Bakonynána.",
+                  "category": "historical",
+                  "coords": [
+                        17.932054,
+                        47.274955
+                  ]
+            },
+            {
+                  "name": "Római Fürdő szurdok",
+                  "text": "The Roman Bath gorge is a picturesque natural gorge and waterfall attraction in Bakonynána.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991946,
+                        47.270448
                   ]
             }
       ]
@@ -389,6 +1613,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.831725,
                         47.377471
+                  ]
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "Die Evangelische Kirche ist ein Gotteshaus in Bakonyszentlászló.",
+                  "category": "religious",
+                  "coords": [
+                        17.800411,
+                        47.390244
+                  ]
+            },
+            {
+                  "name": "Csikóvár",
+                  "text": "Csikóvár umfasst historische Ruinen in der Stadt Bakonyszentlászló.",
+                  "category": "historical",
+                  "coords": [
+                        17.8231,
+                        47.368028
+                  ]
+            },
+            {
+                  "name": "Gróf Esterházy-kastély",
+                  "text": "Das Schloss des Grafen Esterházy ist ein stattliches Gebäude in Bakonyszentlászló.",
+                  "category": "castle",
+                  "coords": [
+                        17.802181,
+                        47.388931
                   ]
             }
       ],
@@ -410,6 +1661,33 @@ export const poiExtraHuV4: POI[] = [
                   "category": "natural",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "Az evangélikus templom egy istentiszteleti hely Bakonyszentlászlón.",
+                  "category": "religious",
+                  "coords": [
+                        17.800411,
+                        47.390244
+                  ]
+            },
+            {
+                  "name": "Csikóvár",
+                  "text": "A Csikóvár történelmi romokat rejt Bakonyszentlászló területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.8231,
+                        47.368028
+                  ]
+            },
+            {
+                  "name": "Gróf Esterházy-kastély",
+                  "text": "A Gróf Esterházy-kastély egy impozáns épület Bakonyszentlászlón.",
+                  "category": "castle",
+                  "coords": [
+                        17.802181,
+                        47.388931
+                  ]
             }
       ],
       "ro": [
@@ -422,6 +1700,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.831725,
                         47.377471
+                  ]
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "Biserica evanghelică este un lăcaș de cult situat în Bakonyszentlászló.",
+                  "category": "religious",
+                  "coords": [
+                        17.800411,
+                        47.390244
+                  ]
+            },
+            {
+                  "name": "Csikóvár",
+                  "text": "Csikóvár prezintă ruine istorice situate în orașul Bakonyszentlászló.",
+                  "category": "historical",
+                  "coords": [
+                        17.8231,
+                        47.368028
+                  ]
+            },
+            {
+                  "name": "Gróf Esterházy-kastély",
+                  "text": "Castelul Contelui Esterházy este o clădire impunătoare din Bakonyszentlászló.",
+                  "category": "castle",
+                  "coords": [
+                        17.802181,
+                        47.388931
                   ]
             }
       ],
@@ -436,11 +1741,680 @@ export const poiExtraHuV4: POI[] = [
                         17.831725,
                         47.377471
                   ]
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "The Evangelical church is a place of worship located in Bakonyszentlászló.",
+                  "category": "religious",
+                  "coords": [
+                        17.800411,
+                        47.390244
+                  ]
+            },
+            {
+                  "name": "Csikóvár",
+                  "text": "Csikóvár features historical ruins situated in the town of Bakonyszentlászló.",
+                  "category": "historical",
+                  "coords": [
+                        17.8231,
+                        47.368028
+                  ]
+            },
+            {
+                  "name": "Gróf Esterházy-kastély",
+                  "text": "The Count Esterházy Castle is a stately building in Bakonyszentlászló.",
+                  "category": "castle",
+                  "coords": [
+                        17.802181,
+                        47.388931
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Burg Csesznek", "text": "Eine imposante Burgruine, die das Cuha-Tal überragt.", "distance": "6 km", "category": "historical"}, {"name": "Zirc Abtei", "text": "Das Zentrum der Zisterzienser mit einer prächtigen Bibliothek.", "distance": "14 km", "category": "religious"}], "hu": [{"name": "Cseszneki vár", "text": "Gótikus várrom a falu felett, látványos panorámával.", "distance": "6 km", "category": "historical"}, {"name": "Zirci Ciszterci Apátság", "text": "Híres műemlékkönyvtár és arborétum a közeli kisvárosban.", "distance": "14 km", "category": "religious"}], "ro": [{"name": "Cetatea Csesznek", "text": "O cetate medievală impunătoare situată pe un vârf de stâncă.", "distance": "6 km", "category": "historical"}, {"name": "Abația Zirc", "text": "Mănăstire cisterciană monumentală cu o bibliotecă celebră.", "distance": "14 km", "category": "religious"}], "en": [{"name": "Csesznek Castle", "text": "A magnificent Gothic fortress ruin overlooking the entire region.", "distance": "6 km", "category": "historical"}, {"name": "Zirc Abbey", "text": "The headquarters of the Cistercian order in Hungary with a grand library.", "distance": "14 km", "category": "religious"}]}, "parent": "veszprem"},
-  {"id": "balatonakali", "type": "village", "coords": [17.7523, 46.8839], "population": 660, "name": {"de": "Balatonakali", "hu": "Balatonakali", "ro": "Balatonakali", "en": "Balatonakali"}, "descriptionAdvanced": {"de": "Balatonakali ist ein malerisches Weindorf am Nordufer des Plattensees, das für seine authentische Atmosphäre und seine hervorragenden Weißweine bekannt ist. Die Geschichte der Siedlung reicht bis in die Römerzeit zurück, was durch zahlreiche archäologische Funde belegt wird. Im Mittelalter gehörte das Gebiet dem Bistum Veszprém und war ein wichtiger Ort für die Fischerei und den Weinbau. Eine Besonderheit des Dorfes ist die Architektur der Bauernhäuser aus dem 18. und 19. Jahrhundert, von denen viele unter Denkmalschutz stehen. Diese Gebäude mit ihren typischen Arkaden und weiß getünchten Wänden verleihen dem Ort einen zeitlosen Charme. Heute ist Akali ein beliebtes Ziel für Touristen, die Ruhe abseits des Massentourismus suchen. Der hiesige Strand gilt als einer der saubersten am Nordufer und bietet einen herrlichen Blick auf die Halbinsel Tihany. Die Weinkultur wird hier großgeschrieben, insbesondere die Sorte Welschriesling (Olaszrizling) gedeiht auf den sonnigen Hängen hervorragend und prägt die lokale Gastronomie.", "hu": "Balatonakali a Balaton északi partjának egyik legkarakteresebb bortermelő települése, amely Veszprém vármegyében, Balatonfüred és Révfülöp között helyezkedik el. A település neve az 'Akali' személynévből ered, és már a 13. században említik az oklevelek. A falu szerkezete hűen őrzi a hagyományos dunántúli paraszti építészet jegyeit; a műemléki védelem alatt álló présházak és nádtetős pincék sora a Fenye-hegyen és a Les-hegyen a magyar borkultúra élő emlékezete. A község gazdaságának alapját évszázadok óta a szőlőművelés és a halászat adta, mára azonban a minőségi turizmus vált meghatározóvá. A helyi strand híres családbarát kialakításáról és tiszta vizéről, miközben a falu csendes utcái ideális helyszínt biztosítanak a pihenésre. Akali borai, különösen az olaszrizling és a szürkebarát, országos hírűek, a helyi borosgazdák pedig vendégszeretetükkel és a hagyományok ápolásával teszik felejthetetlenné a látogatást. A település határában található mandulások virágzása tavasszal különleges látványt nyújt a Balaton-felvidék kapujában.", "ro": "Balatonakali este o așezare pitorească situată pe malul nordic al lacului Balaton, renumită pentru tradițiile sale viticole profunde și pentru peisajul cultural conservat cu grijă. Prima atestare documentară a satului datează din secolul al XIII-lea, deși urmele locuirii romane sugerează o istorie mult mai veche a cultivării viței-de-vie pe aceste dealuri însorite. Satul este unic prin rândurile sale de crame și case de presat struguri, multe dintre ele fiind monumente istorice care datează din secolul al XVIII-lea, construite în stilul popular baroc rural. Economia locală este strâns legată de turismul estival și de producția de vinuri de înaltă calitate, în special soiurile Olaszrizling și Müller-Thurgau, care beneficiază de microclimatul mediteranean al zonei. Plaja din Balatonakali este apreciată pentru curățenia sa și pentru facilitățile moderne, fiind o destinație preferată de familiile care doresc să evite aglomerația marilor stațiuni. În plus față de activitățile nautice, satul oferă numeroase trasee de drumeție prin bazinul Káli, permițând vizitatorilor să exploreze formațiunile vulcanice unice și flora protejată a Parcului Național Balaton-felvidék.", "en": "Balatonakali is a charming lakeside village on the northern shore of Lake Balaton, distinguished by its strong winemaking heritage and beautifully preserved folk architecture. The settlement’s history is deeply intertwined with the landscape of the Balaton Uplands, with written records dating back to 1243. Throughout the centuries, the village survived the Ottoman occupation and rebuilt its identity around the limestone-rich soil that produces some of Hungary’s finest white wines. The village is particularly famous for its historic cellar rows on the surrounding hills, where stone-built wine houses reflect the traditional peasant lifestyle of the Transdanubian region. For modern travelers, Balatonakali offers a perfect blend of relaxation and activity; its award-winning beach is a hub for swimming and sailing, while the nearby vineyards provide endless opportunities for wine tasting and gastronomic exploration. The village manages to maintain a peaceful, authentic atmosphere even during the peak summer season, making it a sanctuary for those who appreciate history, nature, and the art of viticulture. The scenic bicycle path along the lake also passes through here, connecting the village to other historic gems of the Veszprém region."}, "factsAdvanced": {"de": ["Erste urkundliche Erwähnung im Jahr 1243.", "Bekannt für den Anbau der Rebsorte Welschriesling.", "Der Bahnhof liegt direkt an der Bahnstrecke Budapest-Tapolca.", "Zahlreiche unter Denkmalschutz stehende Presshäuser aus dem 18. Jh.", "Beliebtes Ziel für Angler aufgrund der ruhigen Uferzonen.", "Liegt im Nationalpark Balaton-Oberland."], "hu": ["Első írásos említése 1243-ból származik.", "A falu felett húzódó Fenye-hegyi pincesor műemléki védettségű.", "Lakossága a nyári szezonban a többszörösére duzzad.", "A településen áthalad a balatoni bringakörút.", "Híres az akali mandulásairól és a helyi borfesztiválokról.", "Közvetlen vasúti kapcsolata van Budapesttel a déli parton keresztül."], "ro": ["Menționat pentru prima dată în documente în anul 1243.", "Satul deține numeroase case de presat struguri monument istoric.", "Este situat în inima regiunii viticole Balatonfüred-Csopak.", "Plaja locală a primit de mai multe ori steagul albastru pentru calitate.", "Zona este protejată ca parte a Parcului Național Balaton-felvidék.", "Populația permanentă este de aproximativ 660 de locuitori."], "en": ["First mentioned in written records in 1243.", "Famous for its historic thatched-roof wine cellars.", "The village is a key stop on the Balaton bike circuit.", "Known for its high-quality Olaszrizling (Welschriesling) wines.", "The beach offers a direct view of the Tihany Abbey.", "Features several 18th-century peasant houses in the center."]}, "faq": {"de": [{"q": "Gibt es in Balatonakali einen öffentlichen Strand?", "a": "Ja, das Dorf verfügt über einen sehr gepflegten Strand mit modernen Einrichtungen."}, {"q": "Welche Weinsorten sollte man hier probieren?", "a": "Besonders empfehlenswert sind der Olaszrizling und der Szürkebarát aus lokaler Produktion."}, {"q": "Ist der Ort mit dem Zug erreichbar?", "a": "Ja, Balatonakali hat einen eigenen Bahnhof an der Strecke Budapest-Tapolca."}, {"q": "Gibt es Wandermöglichkeiten in der Nähe?", "a": "Ja, es gibt schöne Wege durch die Weinberge und zum nahegelegenen Káli-Becken."}], "hu": [{"q": "Milyen a strand Balatonakaliban?", "a": "A strand kiváló minőségű, tiszta, árnyas és családbarát szolgáltatásokkal rendelkezik."}, {"q": "Mikor érdemes ellátogatni a településre?", "a": "A nyári szezon a legélénkebb, de tavasszal a mandulavirágzás is csodálatos."}, {"q": "Van kerékpárút a faluban?", "a": "Igen, a Balatoni Bringakörút közvetlenül áthalad a településen."}, {"q": "Hol lehet helyi borokat kóstolni?", "a": "A falu feletti pincehegyeken számos nyitott pincét találunk a főszezonban."}], "ro": [{"q": "Cum este plaja din Balatonakali?", "a": "Plaja este foarte bine întreținută, cu multă umbră și potrivită pentru familii cu copii."}, {"q": "Ce fel de vinuri sunt specifice zonei?", "a": "Zona este renumită pentru vinurile albe seci, în special Olaszrizling."}, {"q": "Se poate ajunge cu trenul?", "a": "Da, există o stație de tren locală pe linia spre Tapolca sau Budapesta."}, {"q": "Există obiective istorice în sat?", "a": "Da, șirul de crame istorice de pe dealul Fenye-hegy este un obiectiv major."}], "en": [{"q": "Is the beach in Balatonakali suitable for children?", "a": "Yes, it is known as a family-friendly beach with shallow water areas and playgrounds."}, {"q": "What is the best way to explore the vineyards?", "a": "Hiking or cycling up to the Fenye-hill cellars is highly recommended."}, {"q": "Are there restaurants in the village?", "a": "Yes, several restaurants offer traditional Hungarian dishes and local wines."}, {"q": "Is Balatonakali crowded in the summer?", "a": "It is popular but remains much quieter and more authentic than the larger resorts."}]}, "sights": {"de": [{"name": "Balatonakali Strand", "text": "Dieser weitläufige und gepflegte Strand an der malerischen Küste von Balatonakali besticht durch hervorragende Wasserqualität und einen atemberaubenden Blick auf Tihany. Die Umgebung ist ideal für Familien und Paare, die einen großzügigen, lebendigen Ort zum Schwimmen und Entspannen suchen. Wer früh anreist, sichert sich den besten Platz auf der Liegewiese für einen langen Tag am See.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.739447, 46.879283]}, {"name": "Fenye-hegy", "text": "Ein Aussichtspunkt über den Weinbergen mit Panoramablick auf den Plattensee.", "category": "natural", "confidence": "high", "source_hint": "known", "coords": [17.757941, 46.898357]}], "hu": [{"name": "Akali strand", "text": "A Balatonakali festői partján húzódó, kiterjedt és gondozott strand kiváló vízminőséggel és Tihanyra nyíló lenyűgöző kilátással büszkélkedhet. A környezet ideális családok és párok számára egyaránt, akik tágas, élettel teli területet keresnek az úszáshoz és a pihenéshez. A korai érkezés garantálja a legjobb helyet a füvön egy egész napos tóparti kikapcsolódáshoz.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.739447, 46.879283]}, {"name": "Műemlék parasztházak", "text": "A falu központjában található, a 18-19. századi népi építészetet őrző lakóépületek.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.757941, 46.898357]}], "ro": [{"name": "Plaja Balatonakali", "text": "Întinzându-se de-a lungul coastei pitorești a orașului Balatonakali, această plajă extinsă și bine întreținută se mândrește cu o calitate excelentă a apei și vederi uimitoare spre Tihany. Cadrul este ideal atât pentru familii, cât și pentru cuplurile care caută o zonă spațioasă și vibrantă pentru înot și relaxare. Sosirea devreme garantează cel mai bun loc pe peluză pentru o zi întreagă de agrement pe malul lacului.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.739447, 46.879283]}, {"name": "Casele țărănești tradiționale", "text": "Clădiri vechi din secolele XVIII-XIX care păstrează stilul arhitectural al zonei Dunării.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.757941, 46.898357]}], "en": [{"name": "Balatonakali Beach", "text": "Stretching along the scenic coast of Balatonakali, this expansive and well-maintained beach boasts excellent water quality and stunning views of Tihany. The setting is ideal for both families and couples seeking a spacious, vibrant area for swimming and relaxation. Arriving early guarantees the best spot on the lawn for a full day of lakeside leisure.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.739447, 46.879283]}, {"name": "Folk Heritage Houses", "text": "Protected stone-built peasant houses in the heart of the village center.", "category": "historical", "confidence": "high", "source_hint": "wiki", "coords": [17.757941, 46.898357]}]}, "nearbySights": {"de": [{"name": "Tihany Abtei", "text": "Berühmte Barockabtei auf der Halbinsel Tihany.", "distance": "12 km", "category": "religious"}, {"name": "Balatonfüred", "text": "Historische Kurstadt mit wunderschöner Promenade.", "distance": "15 km", "category": "historical"}], "hu": [{"name": "Tihanyi Apátság", "text": "A Balaton ikonikus barokk temploma és kolostora a félszigeten.", "distance": "12 km", "category": "religious"}, {"name": "Hegyestű", "text": "Különleges bazaltkúp és geológiai bemutatóhely Monoszló mellett.", "distance": "10 km", "category": "natural"}], "ro": [{"name": "Abația din Tihany", "text": "O mănăstire benedictină istorică situată pe o peninsulă vulcanică.", "distance": "12 km", "category": "religious"}, {"name": "Hegyestű", "text": "O coloană de bazalt impresionantă, vestigiu al activității vulcanice antice.", "distance": "10 km", "category": "natural"}], "en": [{"name": "Tihany Abbey", "text": "Iconic Benedictine monastery overlooking Lake Balaton.", "distance": "12 km", "category": "religious"}, {"name": "Hegyestű Geological Site", "text": "A unique basalt column formation offering panoramic views.", "distance": "10 km", "category": "natural"}]}, "parent": "veszprem"},
-  {"id": "balatonederics", "type": "village", "coords": [17.3789, 46.7903], "population": 1050, "name": {"de": "Balatonederics", "hu": "Balatonederics", "ro": "Balatonederics", "en": "Balatonederics"}, "descriptionAdvanced": {"de": "Balatonederics ist eine charmante Gemeinde am westlichen Ende des Nordufers des Plattensees, wo die Ausläufer des Keszthely-Gebirges auf das Wasser treffen. Der Ort ist bekannt für seine vielfältigen Naturschönheiten und seine besondere geografische Lage. Die Geschichte des Dorfes ist eng mit dem Weinbau und der Landwirtschaft verbunden, doch in den letzten Jahrzehnten hat sich Ederics zu einem wichtigen Zentrum für Ökotourismus entwickelt. Eines der bedeutendsten Highlights ist die Csodabogyós-Höhle, eine der längsten Höhlen des Balaton-Oberlandes, die Abenteuerlustige zu geführten Touren einlädt. Ein weiteres Kuriosum ist das Afrika-Museum, das vom berühmten Jäger und Forscher Endre Nagy gegründet wurde und exotische Tiere sowie eine beeindruckende Sammlung afrikanischer Artefakte beherbergt. Die Umgebung von Balatonederics bietet zahlreiche Wanderwege durch dichte Wälder und zu herrlichen Aussichtspunkten, von denen man den Blick über das Tapolca-Becken und die Zeugenberge schweifen lassen kann. Die Kombination aus Seeerlebnis, Höhlenforschung und kulturellen Besonderheiten macht diesen Ort zu einem einzigartigen Ziel in der Region Veszprém.", "hu": "Balatonederics a Balaton északi partjának nyugati kapujában fekszik, ott, ahol a Keszthelyi-hegység vonulatai elérik a tavat. A település neve valószínűleg a Szent Adalbert névből származik, ami korai középkori alapításra utal. A falu különleges vonzerejét a természet közelsége és az egyedi látnivalók adják. Itt található Magyarország egyik legizgalmasabb barlangja, a Csodabogyós-barlang, amely nevét a környéken honos szúrós csodabogyóról kapta; a barlang technikai túrái felejthetetlen élményt nyújtanak. Balatonederics másik büszkesége az Afrika Múzeum, amelyet dr. Nagy Endre alapított, és ahol a szafarik világa elevenedik meg a Balaton-felvidéken. A község strandja családias és tiszta, a falu feletti szőlőhegyekről pedig pazar kilátás nyílik a Tapolcai-medence tanúhegyeire és a Szigligeti várra. A település klímája kiváló, a környékbeli erdők pedig gazdag vadállománnyal és túraútvonalakkal várják a természetjárókat. Ederics tökéletes választás azoknak, akik a Balaton vízi örömeit kombinálni szeretnék a hegyvidéki kirándulásokkal és kulturális kuriózumokkal.", "ro": "Balatonederics este o comună situată la limita vestică a malului nordic al lacului Balaton, la poalele munților Keszthely. Această locație privilegiată oferă vizitatorilor un peisaj variat, unde dealurile verzi se întâlnesc cu apele sclipitoare ale lacului. Istoria localității este strâns legată de exploatarea resurselor naturale și de viticultură, dar astăzi este cunoscută în principal pentru obiectivele sale turistice unice. Peștera Csodabogyós, situată în apropiere, este o destinație majoră pentru iubitorii de speologie și aventură, oferind trasee subterane spectaculoase. O altă atracție neobișnuită este Muzeul Africa, fondat de vânătorul și cercetătorul Endre Nagy, care aduce un strop de exotism pe malul Balatonului prin colecția sa de animale și obiecte etnografice africane. Satul păstrează o atmosferă liniștită, fiind ideal pentru cei care caută relaxare în mijlocul naturii. Traseele de drumeție din împrejurimi duc spre puncte de belvedere de unde se pot admira munții martor ai bazinului Tapolca, precum Badacsony sau Szent György-hegy. Gastronomia locală și vinurile din regiunea Badacsony completează experiența oferită de această așezare plină de surprize.", "en": "Balatonederics is a captivating village situated at the western gateway of Lake Balaton's northern shore, nestled between the lake and the Keszthely Mountains. This unique location provides a diverse range of natural attractions, making it a standout destination in Veszprém County. The village is most famous for the Csodabogyós Cave, an extensive limestone cave system named after the butcher's broom plant (Ruscus aculeatus) found in the area; it offers adventurous guided tours that go deep into the subterranean world. Another surprising highlight is the Africa Museum and Zoo, established by the renowned Hungarian hunter Endre Nagy, which features exotic wildlife and cultural exhibits from the African continent. Historically, the village was part of the Festetics estate, and its architecture still reflects its rural roots. Today, Balatonederics is a hub for eco-tourism, with numerous trails leading hikers through lush forests to breathtaking panoramic views of the Tapolca Basin and its iconic volcanic witness mountains. The village beach is known for its peaceful, scenic environment, providing a perfect spot for swimming while enjoying the view of Szigliget Castle across the bay."}, "factsAdvanced": {"de": ["Die Csodabogyós-Höhle ist über 6 Kilometer lang.", "Das Afrika-Museum beherbergt lebende Kamele und Zebras.", "Liegt direkt an der Grenze zwischen den Komitaten Veszprém und Zala.", "Der Name Ederics stammt wahrscheinlich vom Namen Adalbert.", "Die höchste Erhebung in der Nähe ist der 444 m hohe Kerek-hegy.", "Der Ort ist Teil der Weinregion Badacsony."], "hu": ["A Csodabogyós-barlang Magyarország egyik leghosszabb barlangja.", "Az Afrika Múzeum alapítója Nagy Endre, neves Afrika-kutató.", "A falu strandja több alkalommal kapott 'Kékhullám Zászló' minősítést.", "A település határában található a Pele-apó tanösvény.", "Közvetlen közelében fekszik a Szigligeti-öböl.", "Veszprém vármegye legnyugatibb balatoni települése."], "ro": ["Peștera Csodabogyós are o lungime explorată de peste 6 km.", "Muzeul Africa include un mic parc zoologic cu specii africane.", "Localitatea este situată la poalele Munților Keszthely.", "Numele localității are origini slave sau germane (Adalbert).", "Este o poartă de acces către regiunea vulcanică a bazinului Tapolca.", "Economia se bazează pe turism ecologic și viticultură."], "en": ["The Csodabogyós Cave is famous for its narrow passages and stalactites.", "The Africa Museum was founded in 1984.", "The village offers one of the best views of Szigliget Castle.", "Part of the Balaton-felvidék National Park area.", "Located near the junction of major tourist hiking trails.", "The local beach is highly rated for its family-friendly atmosphere."]}, "faq": {"de": [{"q": "Kann man die Csodabogyós-Höhle ohne Ausrüstung besuchen?", "a": "Nein, Besuche sind nur mit geführten Touren und bereitgestellter Schutzkleidung möglich."}, {"q": "Gibt es im Afrika-Museum echte Tiere?", "a": "Ja, es gibt einen kleinen Zoo mit Kamelen, Zebras und Antilopen."}, {"q": "Wie weit ist es von Balatonederics nach Keszthely?", "a": "Keszthely liegt etwa 10 Kilometer westlich von Balatonederics."}, {"q": "Ist der Strand in Ederics kinderfreundlich?", "a": "Ja, der Strand ist ruhig, gut beschattet und ideal für Familien."}], "hu": [{"q": "Hogyan látogatható a Csodabogyós-barlang?", "a": "Kizárólag előzetes bejelentkezéssel, szakképzett túravezetők kíséretében látogatható."}, {"q": "Mit láthatunk az Afrika Múzeumban?", "a": "Nagy Endre trófeagyűjteményét, afrikai néprajzi tárgyakat és élő állatokat, pl. zebrákat."}, {"q": "Milyen túraútvonalak indulnak a faluból?", "a": "Számos út vezet a Keszthelyi-hegységbe, köztük a Pele-apó tanösvény."}, {"q": "Van-e vasútállomás Balatonedericsen?", "a": "Igen, a település megállóhellyel rendelkezik a Balatonszentgyörgy–Tapolca vonalon."}], "ro": [{"q": "Este peștera Csodabogyós potrivită pentru oricine?", "a": "Necesită o condiție fizică medie, deoarece tururile implică târâre și cățărare."}, {"q": "Există animale vii la Muzeul Africa?", "a": "Da, există o mică grădină zoologică cu cămile, bivoli și alte animale africane."}, {"q": "Unde se află cea mai apropiată plajă?", "a": "Comuna are propria plajă bine întreținută pe malul lacului Balaton."}, {"q": "Ce alte atracții sunt în apropiere?", "a": "Castelul Szigliget și orașul Keszthely sunt la doar câțiva kilometri distanță."}], "en": [{"q": "How long are the cave tours in Csodabogyós?", "a": "Tours vary from 1.5 to 4 hours depending on the chosen difficulty level."}, {"q": "Is the Africa Museum open all year round?", "a": "It is typically open from spring to autumn; check seasonal schedules before visiting."}, {"q": "Can I cycle to Balatonederics?", "a": "Yes, it is a popular stop on the Balaton Bike Ring."}, {"q": "What is the meaning of the name 'Csodabogyós'?", "a": "It refers to the 'Butcher's Broom' plant, which is abundant around the cave entrance."}]}, "sights": {"de": [{"name": "Csodabogyós-Höhle", "text": "Eine abenteuerliche Höhle mit Seilrutschen und geführten Klettertouren im Keszthely-Gebirge.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.364633, 46.796983]}, {"name": "Afrika-Museum", "text": "Einzigartige Sammlung afrikanischer Kultur und ein kleiner Zoo, gegründet von Endre Nagy.", "category": "historical", "confidence": "high", "source_hint": "known", "coords": [17.374813, 46.78541]}, {"name": "Balatonederics Strand", "text": "Als wunderbar familienfreundlicher Badeplatz in Balatonederics belohnt dieser Strand seine Besucher mit einer herrlichen Aussicht auf Szigliget. Die ruhige und zuvorkommende Atmosphäre macht ihn zur perfekten Wahl für Eltern und Kinder, um sicher im Wasser zu spielen. Es ist ein fantastisches Ausflugsziel für einen entspannten Sommernachmittag am Plattensee.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.383116, 46.790393]}, {"name": "Pele-apó Lehrpfad", "text": "Ein informativer Wanderweg für Kinder und Erwachsene über die Flora und Fauna der Region.", "category": "natural", "confidence": "medium", "source_hint": "known", "coords": [17.35753, 46.78834]}], "hu": [{"name": "Csodabogyós-barlang", "text": "Balatonederics melletti kalandbarlang, ahol overallos, kötélpályás túrákon vehetünk részt.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.364633, 46.796983]}, {"name": "Afrika Múzeum", "text": "Dr. Nagy Endre alapította gyűjtemény afrikai trófeákkal, maszáj kunyhókkal és élő állatokkal.", "category": "historical", "confidence": "high", "source_hint": "known", "coords": [17.374813, 46.78541]}, {"name": "Balatonedericsi strand", "text": "A csodálatos, családbarát balatonedericsi fürdőhelyként szolgáló strand lenyűgöző, Szigligetre nyíló kilátással jutalmazza a látogatókat. A nyugodt és barátságos légkör tökéletes választássá teszi szülők és gyerekek számára a biztonságos vízi játékokhoz. Fantasztikus úti cél egy pihentető nyári délutánhoz a Balatonnál.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.383116, 46.790393]}, {"name": "Szentháromság-templom", "text": "A falu központjában álló, barokk alapokra épült római katolikus templom.", "category": "religious", "confidence": "high", "source_hint": "known", "coords": [17.35753, 46.78834]}], "ro": [{"name": "Peștera Csodabogyós", "text": "O peșteră de aventură lângă Balatonederics, oferind tururi speologice cu echipament special.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.364633, 46.796983]}, {"name": "Muzeul Africa", "text": "O expoziție exotică de trofee și obiecte africane, completată de o mică grădină zoologică.", "category": "historical", "confidence": "high", "source_hint": "known", "coords": [17.374813, 46.78541]}, {"name": "Plaja locală", "text": "Oferind un minunat loc de scăldat potrivit pentru familii în Balatonederics, această plajă își răsplătește vizitatorii cu vederi magnifice asupra Szigliget. Atmosfera calmă și primitoare face din acest loc o alegere perfectă pentru ca părinții și copiii să se joace în siguranță în apă. Servește ca o destinație fantastică pentru o după-amiază relaxantă de vară la Lacul Balaton.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.383116, 46.790393]}, {"name": "Traseul educațional Pele-apó", "text": "Un drum tematic despre natura munților Keszthely, perfect pentru drumeții în familie.", "category": "natural", "confidence": "medium", "source_hint": "known", "coords": [17.35753, 46.78834]}], "en": [{"name": "Csodabogyós Cave", "text": "An adventurous cave near Balatonederics offering rope-climbing tours through narrow limestone passages.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.364633, 46.796983]}, {"name": "Africa Museum", "text": "A fascinating private collection of African artifacts and a zoo founded by hunter Endre Nagy.", "category": "historical", "confidence": "high", "source_hint": "known", "coords": [17.374813, 46.78541]}, {"name": "Local Beach", "text": "Offering a wonderful family-friendly bathing spot in Balatonederics, this beach rewards visitors with magnificent views over Szigliget. The calm and accommodating atmosphere makes it a perfect choice for parents and children to play in the water safely. It serves as a fantastic destination for a relaxing summer afternoon by Lake Balaton.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.383116, 46.790393]}, {"name": "Old Press Houses", "text": "Traditional wine-making buildings scattered on the hillsides above the village.", "category": "historical", "confidence": "medium", "source_hint": "known", "coords": [17.35753, 46.78834]}]}, "nearbySights": {"de": [{"name": "Burg Szigliget", "text": "Imposante Burgruine auf einem Vulkanhügel.", "distance": "6 km", "category": "historical"}, {"name": "Seehöhle Tapolca", "text": "Einzigartige Höhle, die man mit dem Boot befahren kann.", "distance": "12 km", "category": "natural"}], "hu": [{"name": "Szigligeti vár", "text": "Magyarország egyik legszebb fekvésű középkori várromja.", "distance": "6 km", "category": "historical"}, {"name": "Tapolcai-tavasbarlang", "text": "Város alatti barlangrendszer, amely csónakkal bejárható.", "distance": "12 km", "category": "natural"}], "ro": [{"name": "Cetatea Szigliget", "text": "O fortăreață medievală renovată cu o vedere panoramică incredibilă.", "distance": "6 km", "category": "historical"}, {"name": "Peștera cu lac din Tapolca", "text": "Un sistem de peșteri inundate unde vizitatorii pot merge cu barca.", "distance": "12 km", "category": "natural"}], "en": [{"name": "Szigliget Castle", "text": "One of Hungary's most scenic castle ruins on a volcanic hill.", "distance": "6 km", "category": "historical"}, {"name": "Tapolca Lake Cave", "text": "A unique subterranean lake navigable by small boats.", "distance": "12 km", "category": "natural"}]}, "parent": "veszprem"},
+  {"id": "balatonakali", "type": "village", "coords": [17.7523, 46.8839], "population": 660, "name": {"de": "Balatonakali", "hu": "Balatonakali", "ro": "Balatonakali", "en": "Balatonakali"}, "descriptionAdvanced": {"de": "Balatonakali ist ein malerisches Weindorf am Nordufer des Plattensees, das für seine authentische Atmosphäre und seine hervorragenden Weißweine bekannt ist. Die Geschichte der Siedlung reicht bis in die Römerzeit zurück, was durch zahlreiche archäologische Funde belegt wird. Im Mittelalter gehörte das Gebiet dem Bistum Veszprém und war ein wichtiger Ort für die Fischerei und den Weinbau. Eine Besonderheit des Dorfes ist die Architektur der Bauernhäuser aus dem 18. und 19. Jahrhundert, von denen viele unter Denkmalschutz stehen. Diese Gebäude mit ihren typischen Arkaden und weiß getünchten Wänden verleihen dem Ort einen zeitlosen Charme. Heute ist Akali ein beliebtes Ziel für Touristen, die Ruhe abseits des Massentourismus suchen. Der hiesige Strand gilt als einer der saubersten am Nordufer und bietet einen herrlichen Blick auf die Halbinsel Tihany. Die Weinkultur wird hier großgeschrieben, insbesondere die Sorte Welschriesling (Olaszrizling) gedeiht auf den sonnigen Hängen hervorragend und prägt die lokale Gastronomie.", "hu": "Balatonakali a Balaton északi partjának egyik legkarakteresebb bortermelő települése, amely Veszprém vármegyében, Balatonfüred és Révfülöp között helyezkedik el. A település neve az 'Akali' személynévből ered, és már a 13. században említik az oklevelek. A falu szerkezete hűen őrzi a hagyományos dunántúli paraszti építészet jegyeit; a műemléki védelem alatt álló présházak és nádtetős pincék sora a Fenye-hegyen és a Les-hegyen a magyar borkultúra élő emlékezete. A község gazdaságának alapját évszázadok óta a szőlőművelés és a halászat adta, mára azonban a minőségi turizmus vált meghatározóvá. A helyi strand híres családbarát kialakításáról és tiszta vizéről, miközben a falu csendes utcái ideális helyszínt biztosítanak a pihenésre. Akali borai, különösen az olaszrizling és a szürkebarát, országos hírűek, a helyi borosgazdák pedig vendégszeretetükkel és a hagyományok ápolásával teszik felejthetetlenné a látogatást. A település határában található mandulások virágzása tavasszal különleges látványt nyújt a Balaton-felvidék kapujában.", "ro": "Balatonakali este o așezare pitorească situată pe malul nordic al lacului Balaton, renumită pentru tradițiile sale viticole profunde și pentru peisajul cultural conservat cu grijă. Prima atestare documentară a satului datează din secolul al XIII-lea, deși urmele locuirii romane sugerează o istorie mult mai veche a cultivării viței-de-vie pe aceste dealuri însorite. Satul este unic prin rândurile sale de crame și case de presat struguri, multe dintre ele fiind monumente istorice care datează din secolul al XVIII-lea, construite în stilul popular baroc rural. Economia locală este strâns legată de turismul estival și de producția de vinuri de înaltă calitate, în special soiurile Olaszrizling și Müller-Thurgau, care beneficiază de microclimatul mediteranean al zonei. Plaja din Balatonakali este apreciată pentru curățenia sa și pentru facilitățile moderne, fiind o destinație preferată de familiile care doresc să evite aglomerația marilor stațiuni. În plus față de activitățile nautice, satul oferă numeroase trasee de drumeție prin bazinul Káli, permițând vizitatorilor să exploreze formațiunile vulcanice unice și flora protejată a Parcului Național Balaton-felvidék.", "en": "Balatonakali is a charming lakeside village on the northern shore of Lake Balaton, distinguished by its strong winemaking heritage and beautifully preserved folk architecture. The settlement’s history is deeply intertwined with the landscape of the Balaton Uplands, with written records dating back to 1243. Throughout the centuries, the village survived the Ottoman occupation and rebuilt its identity around the limestone-rich soil that produces some of Hungary’s finest white wines. The village is particularly famous for its historic cellar rows on the surrounding hills, where stone-built wine houses reflect the traditional peasant lifestyle of the Transdanubian region. For modern travelers, Balatonakali offers a perfect blend of relaxation and activity; its award-winning beach is a hub for swimming and sailing, while the nearby vineyards provide endless opportunities for wine tasting and gastronomic exploration. The village manages to maintain a peaceful, authentic atmosphere even during the peak summer season, making it a sanctuary for those who appreciate history, nature, and the art of viticulture. The scenic bicycle path along the lake also passes through here, connecting the village to other historic gems of the Veszprém region."}, "factsAdvanced": {"de": ["Erste urkundliche Erwähnung im Jahr 1243.", "Bekannt für den Anbau der Rebsorte Welschriesling.", "Der Bahnhof liegt direkt an der Bahnstrecke Budapest-Tapolca.", "Zahlreiche unter Denkmalschutz stehende Presshäuser aus dem 18. Jh.", "Beliebtes Ziel für Angler aufgrund der ruhigen Uferzonen.", "Liegt im Nationalpark Balaton-Oberland."], "hu": ["Első írásos említése 1243-ból származik.", "A falu felett húzódó Fenye-hegyi pincesor műemléki védettségű.", "Lakossága a nyári szezonban a többszörösére duzzad.", "A településen áthalad a balatoni bringakörút.", "Híres az akali mandulásairól és a helyi borfesztiválokról.", "Közvetlen vasúti kapcsolata van Budapesttel a déli parton keresztül."], "ro": ["Menționat pentru prima dată în documente în anul 1243.", "Satul deține numeroase case de presat struguri monument istoric.", "Este situat în inima regiunii viticole Balatonfüred-Csopak.", "Plaja locală a primit de mai multe ori steagul albastru pentru calitate.", "Zona este protejată ca parte a Parcului Național Balaton-felvidék.", "Populația permanentă este de aproximativ 660 de locuitori."], "en": ["First mentioned in written records in 1243.", "Famous for its historic thatched-roof wine cellars.", "The village is a key stop on the Balaton bike circuit.", "Known for its high-quality Olaszrizling (Welschriesling) wines.", "The beach offers a direct view of the Tihany Abbey.", "Features several 18th-century peasant houses in the center."]}, "faq": {"de": [{"q": "Gibt es in Balatonakali einen öffentlichen Strand?", "a": "Ja, das Dorf verfügt über einen sehr gepflegten Strand mit modernen Einrichtungen."}, {"q": "Welche Weinsorten sollte man hier probieren?", "a": "Besonders empfehlenswert sind der Olaszrizling und der Szürkebarát aus lokaler Produktion."}, {"q": "Ist der Ort mit dem Zug erreichbar?", "a": "Ja, Balatonakali hat einen eigenen Bahnhof an der Strecke Budapest-Tapolca."}, {"q": "Gibt es Wandermöglichkeiten in der Nähe?", "a": "Ja, es gibt schöne Wege durch die Weinberge und zum nahegelegenen Káli-Becken."}], "hu": [{"q": "Milyen a strand Balatonakaliban?", "a": "A strand kiváló minőségű, tiszta, árnyas és családbarát szolgáltatásokkal rendelkezik."}, {"q": "Mikor érdemes ellátogatni a településre?", "a": "A nyári szezon a legélénkebb, de tavasszal a mandulavirágzás is csodálatos."}, {"q": "Van kerékpárút a faluban?", "a": "Igen, a Balatoni Bringakörút közvetlenül áthalad a településen."}, {"q": "Hol lehet helyi borokat kóstolni?", "a": "A falu feletti pincehegyeken számos nyitott pincét találunk a főszezonban."}], "ro": [{"q": "Cum este plaja din Balatonakali?", "a": "Plaja este foarte bine întreținută, cu multă umbră și potrivită pentru familii cu copii."}, {"q": "Ce fel de vinuri sunt specifice zonei?", "a": "Zona este renumită pentru vinurile albe seci, în special Olaszrizling."}, {"q": "Se poate ajunge cu trenul?", "a": "Da, există o stație de tren locală pe linia spre Tapolca sau Budapesta."}, {"q": "Există obiective istorice în sat?", "a": "Da, șirul de crame istorice de pe dealul Fenye-hegy este un obiectiv major."}], "en": [{"q": "Is the beach in Balatonakali suitable for children?", "a": "Yes, it is known as a family-friendly beach with shallow water areas and playgrounds."}, {"q": "What is the best way to explore the vineyards?", "a": "Hiking or cycling up to the Fenye-hill cellars is highly recommended."}, {"q": "Are there restaurants in the village?", "a": "Yes, several restaurants offer traditional Hungarian dishes and local wines."}, {"q": "Is Balatonakali crowded in the summer?", "a": "It is popular but remains much quieter and more authentic than the larger resorts."}]}, "sights": {
+      "de": [
+            {
+                  "name": "Balatonakali Strand",
+                  "text": "Dieser weitläufige und gepflegte Strand an der malerischen Küste von Balatonakali besticht durch hervorragende Wasserqualität und einen atemberaubenden Blick auf Tihany. Die Umgebung ist ideal für Familien und Paare, die einen großzügigen, lebendigen Ort zum Schwimmen und Entspannen suchen. Wer früh anreist, sichert sich den besten Platz auf der Liegewiese für einen langen Tag am See.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.739447,
+                        46.879283
+                  ]
+            },
+            {
+                  "name": "Fenye-hegy",
+                  "text": "Ein Aussichtspunkt über den Weinbergen mit Panoramablick auf den Plattensee.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.757941,
+                        46.898357
+                  ]
+            },
+            {
+                  "name": "Pántlika kastély",
+                  "text": "Ein als Pántlika kastély bekanntes Schloss in Balatonakali.",
+                  "category": "castle",
+                  "coords": [
+                        17.747301,
+                        46.890014
+                  ]
+            },
+            {
+                  "name": "Múzeum és szálláshely",
+                  "text": "Ein lokales Museum und eine Unterkunft in Balatonakali.",
+                  "category": "museum",
+                  "coords": [
+                        17.749308,
+                        46.881157
+                  ]
+            },
+            {
+                  "name": "Ságdörgicsei templomrom",
+                  "text": "Die Ságdörgicsei templomrom ist eine sehenswerte Kirchenruine in Balatonakali.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715163,
+                        46.881738
+                  ]
+            },
+            {
+                  "name": "Tank-kaland panzerfahren",
+                  "text": "Tank-kaland panzerfahren ist eine besondere Attraktion in Balatonakali.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715566,
+                        46.884548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akali strand",
+                  "text": "A Balatonakali festői partján húzódó, kiterjedt és gondozott strand kiváló vízminőséggel és Tihanyra nyíló lenyűgöző kilátással büszkélkedhet. A környezet ideális családok és párok számára egyaránt, akik tágas, élettel teli területet keresnek az úszáshoz és a pihenéshez. A korai érkezés garantálja a legjobb helyet a füvön egy egész napos tóparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.739447,
+                        46.879283
+                  ]
+            },
+            {
+                  "name": "Műemlék parasztházak",
+                  "text": "A falu központjában található, a 18-19. századi népi építészetet őrző lakóépületek.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.757941,
+                        46.898357
+                  ]
+            },
+            {
+                  "name": "Pántlika kastély",
+                  "text": "A Pántlika kastély néven ismert épület Balatonakaliban.",
+                  "category": "castle",
+                  "coords": [
+                        17.747301,
+                        46.890014
+                  ]
+            },
+            {
+                  "name": "Múzeum és szálláshely",
+                  "text": "Egy helyi múzeum és szálláshely Balatonakaliban.",
+                  "category": "museum",
+                  "coords": [
+                        17.749308,
+                        46.881157
+                  ]
+            },
+            {
+                  "name": "Ságdörgicsei templomrom",
+                  "text": "A Ságdörgicsei templomrom egy érdekes látványosság Balatonakali településén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715163,
+                        46.881738
+                  ]
+            },
+            {
+                  "name": "Tank-kaland panzerfahren",
+                  "text": "A Tank-kaland panzerfahren egy különleges látványosság Balatonakali területén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715566,
+                        46.884548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Balatonakali",
+                  "text": "Întinzându-se de-a lungul coastei pitorești a orașului Balatonakali, această plajă extinsă și bine întreținută se mândrește cu o calitate excelentă a apei și vederi uimitoare spre Tihany. Cadrul este ideal atât pentru familii, cât și pentru cuplurile care caută o zonă spațioasă și vibrantă pentru înot și relaxare. Sosirea devreme garantează cel mai bun loc pe peluză pentru o zi întreagă de agrement pe malul lacului.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.739447,
+                        46.879283
+                  ]
+            },
+            {
+                  "name": "Casele țărănești tradiționale",
+                  "text": "Clădiri vechi din secolele XVIII-XIX care păstrează stilul arhitectural al zonei Dunării.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.757941,
+                        46.898357
+                  ]
+            },
+            {
+                  "name": "Pántlika kastély",
+                  "text": "Un castel cunoscut sub numele de Pántlika kastély situat în Balatonakali.",
+                  "category": "castle",
+                  "coords": [
+                        17.747301,
+                        46.890014
+                  ]
+            },
+            {
+                  "name": "Múzeum és szálláshely",
+                  "text": "Un muzeu local și unitate de cazare în Balatonakali.",
+                  "category": "museum",
+                  "coords": [
+                        17.749308,
+                        46.881157
+                  ]
+            },
+            {
+                  "name": "Ságdörgicsei templomrom",
+                  "text": "Ruina bisericii Ságdörgicsei este o atracție din Balatonakali.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715163,
+                        46.881738
+                  ]
+            },
+            {
+                  "name": "Tank-kaland panzerfahren",
+                  "text": "Tank-kaland panzerfahren este o atracție situată în Balatonakali.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715566,
+                        46.884548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balatonakali Beach",
+                  "text": "Stretching along the scenic coast of Balatonakali, this expansive and well-maintained beach boasts excellent water quality and stunning views of Tihany. The setting is ideal for both families and couples seeking a spacious, vibrant area for swimming and relaxation. Arriving early guarantees the best spot on the lawn for a full day of lakeside leisure.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.739447,
+                        46.879283
+                  ]
+            },
+            {
+                  "name": "Folk Heritage Houses",
+                  "text": "Protected stone-built peasant houses in the heart of the village center.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.757941,
+                        46.898357
+                  ]
+            },
+            {
+                  "name": "Pántlika kastély",
+                  "text": "A castle known as Pántlika kastély located in Balatonakali.",
+                  "category": "castle",
+                  "coords": [
+                        17.747301,
+                        46.890014
+                  ]
+            },
+            {
+                  "name": "Múzeum és szálláshely",
+                  "text": "A local museum and accommodation facility in Balatonakali.",
+                  "category": "museum",
+                  "coords": [
+                        17.749308,
+                        46.881157
+                  ]
+            },
+            {
+                  "name": "Ságdörgicsei templomrom",
+                  "text": "The Ságdörgicsei templomrom is a notable church ruin attraction in Balatonakali.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715163,
+                        46.881738
+                  ]
+            },
+            {
+                  "name": "Tank-kaland panzerfahren",
+                  "text": "Tank-kaland panzerfahren is an attraction located in Balatonakali.",
+                  "category": "landmark",
+                  "coords": [
+                        17.715566,
+                        46.884548
+                  ]
+            }
+      ]
+}, "nearbySights": {"de": [{"name": "Tihany Abtei", "text": "Berühmte Barockabtei auf der Halbinsel Tihany.", "distance": "12 km", "category": "religious"}, {"name": "Balatonfüred", "text": "Historische Kurstadt mit wunderschöner Promenade.", "distance": "15 km", "category": "historical"}], "hu": [{"name": "Tihanyi Apátság", "text": "A Balaton ikonikus barokk temploma és kolostora a félszigeten.", "distance": "12 km", "category": "religious"}, {"name": "Hegyestű", "text": "Különleges bazaltkúp és geológiai bemutatóhely Monoszló mellett.", "distance": "10 km", "category": "natural"}], "ro": [{"name": "Abația din Tihany", "text": "O mănăstire benedictină istorică situată pe o peninsulă vulcanică.", "distance": "12 km", "category": "religious"}, {"name": "Hegyestű", "text": "O coloană de bazalt impresionantă, vestigiu al activității vulcanice antice.", "distance": "10 km", "category": "natural"}], "en": [{"name": "Tihany Abbey", "text": "Iconic Benedictine monastery overlooking Lake Balaton.", "distance": "12 km", "category": "religious"}, {"name": "Hegyestű Geological Site", "text": "A unique basalt column formation offering panoramic views.", "distance": "10 km", "category": "natural"}]}, "parent": "veszprem"},
+  {"id": "balatonederics", "type": "village", "coords": [17.3789, 46.7903], "population": 1050, "name": {"de": "Balatonederics", "hu": "Balatonederics", "ro": "Balatonederics", "en": "Balatonederics"}, "descriptionAdvanced": {"de": "Balatonederics ist eine charmante Gemeinde am westlichen Ende des Nordufers des Plattensees, wo die Ausläufer des Keszthely-Gebirges auf das Wasser treffen. Der Ort ist bekannt für seine vielfältigen Naturschönheiten und seine besondere geografische Lage. Die Geschichte des Dorfes ist eng mit dem Weinbau und der Landwirtschaft verbunden, doch in den letzten Jahrzehnten hat sich Ederics zu einem wichtigen Zentrum für Ökotourismus entwickelt. Eines der bedeutendsten Highlights ist die Csodabogyós-Höhle, eine der längsten Höhlen des Balaton-Oberlandes, die Abenteuerlustige zu geführten Touren einlädt. Ein weiteres Kuriosum ist das Afrika-Museum, das vom berühmten Jäger und Forscher Endre Nagy gegründet wurde und exotische Tiere sowie eine beeindruckende Sammlung afrikanischer Artefakte beherbergt. Die Umgebung von Balatonederics bietet zahlreiche Wanderwege durch dichte Wälder und zu herrlichen Aussichtspunkten, von denen man den Blick über das Tapolca-Becken und die Zeugenberge schweifen lassen kann. Die Kombination aus Seeerlebnis, Höhlenforschung und kulturellen Besonderheiten macht diesen Ort zu einem einzigartigen Ziel in der Region Veszprém.", "hu": "Balatonederics a Balaton északi partjának nyugati kapujában fekszik, ott, ahol a Keszthelyi-hegység vonulatai elérik a tavat. A település neve valószínűleg a Szent Adalbert névből származik, ami korai középkori alapításra utal. A falu különleges vonzerejét a természet közelsége és az egyedi látnivalók adják. Itt található Magyarország egyik legizgalmasabb barlangja, a Csodabogyós-barlang, amely nevét a környéken honos szúrós csodabogyóról kapta; a barlang technikai túrái felejthetetlen élményt nyújtanak. Balatonederics másik büszkesége az Afrika Múzeum, amelyet dr. Nagy Endre alapított, és ahol a szafarik világa elevenedik meg a Balaton-felvidéken. A község strandja családias és tiszta, a falu feletti szőlőhegyekről pedig pazar kilátás nyílik a Tapolcai-medence tanúhegyeire és a Szigligeti várra. A település klímája kiváló, a környékbeli erdők pedig gazdag vadállománnyal és túraútvonalakkal várják a természetjárókat. Ederics tökéletes választás azoknak, akik a Balaton vízi örömeit kombinálni szeretnék a hegyvidéki kirándulásokkal és kulturális kuriózumokkal.", "ro": "Balatonederics este o comună situată la limita vestică a malului nordic al lacului Balaton, la poalele munților Keszthely. Această locație privilegiată oferă vizitatorilor un peisaj variat, unde dealurile verzi se întâlnesc cu apele sclipitoare ale lacului. Istoria localității este strâns legată de exploatarea resurselor naturale și de viticultură, dar astăzi este cunoscută în principal pentru obiectivele sale turistice unice. Peștera Csodabogyós, situată în apropiere, este o destinație majoră pentru iubitorii de speologie și aventură, oferind trasee subterane spectaculoase. O altă atracție neobișnuită este Muzeul Africa, fondat de vânătorul și cercetătorul Endre Nagy, care aduce un strop de exotism pe malul Balatonului prin colecția sa de animale și obiecte etnografice africane. Satul păstrează o atmosferă liniștită, fiind ideal pentru cei care caută relaxare în mijlocul naturii. Traseele de drumeție din împrejurimi duc spre puncte de belvedere de unde se pot admira munții martor ai bazinului Tapolca, precum Badacsony sau Szent György-hegy. Gastronomia locală și vinurile din regiunea Badacsony completează experiența oferită de această așezare plină de surprize.", "en": "Balatonederics is a captivating village situated at the western gateway of Lake Balaton's northern shore, nestled between the lake and the Keszthely Mountains. This unique location provides a diverse range of natural attractions, making it a standout destination in Veszprém County. The village is most famous for the Csodabogyós Cave, an extensive limestone cave system named after the butcher's broom plant (Ruscus aculeatus) found in the area; it offers adventurous guided tours that go deep into the subterranean world. Another surprising highlight is the Africa Museum and Zoo, established by the renowned Hungarian hunter Endre Nagy, which features exotic wildlife and cultural exhibits from the African continent. Historically, the village was part of the Festetics estate, and its architecture still reflects its rural roots. Today, Balatonederics is a hub for eco-tourism, with numerous trails leading hikers through lush forests to breathtaking panoramic views of the Tapolca Basin and its iconic volcanic witness mountains. The village beach is known for its peaceful, scenic environment, providing a perfect spot for swimming while enjoying the view of Szigliget Castle across the bay."}, "factsAdvanced": {"de": ["Die Csodabogyós-Höhle ist über 6 Kilometer lang.", "Das Afrika-Museum beherbergt lebende Kamele und Zebras.", "Liegt direkt an der Grenze zwischen den Komitaten Veszprém und Zala.", "Der Name Ederics stammt wahrscheinlich vom Namen Adalbert.", "Die höchste Erhebung in der Nähe ist der 444 m hohe Kerek-hegy.", "Der Ort ist Teil der Weinregion Badacsony."], "hu": ["A Csodabogyós-barlang Magyarország egyik leghosszabb barlangja.", "Az Afrika Múzeum alapítója Nagy Endre, neves Afrika-kutató.", "A falu strandja több alkalommal kapott 'Kékhullám Zászló' minősítést.", "A település határában található a Pele-apó tanösvény.", "Közvetlen közelében fekszik a Szigligeti-öböl.", "Veszprém vármegye legnyugatibb balatoni települése."], "ro": ["Peștera Csodabogyós are o lungime explorată de peste 6 km.", "Muzeul Africa include un mic parc zoologic cu specii africane.", "Localitatea este situată la poalele Munților Keszthely.", "Numele localității are origini slave sau germane (Adalbert).", "Este o poartă de acces către regiunea vulcanică a bazinului Tapolca.", "Economia se bazează pe turism ecologic și viticultură."], "en": ["The Csodabogyós Cave is famous for its narrow passages and stalactites.", "The Africa Museum was founded in 1984.", "The village offers one of the best views of Szigliget Castle.", "Part of the Balaton-felvidék National Park area.", "Located near the junction of major tourist hiking trails.", "The local beach is highly rated for its family-friendly atmosphere."]}, "faq": {"de": [{"q": "Kann man die Csodabogyós-Höhle ohne Ausrüstung besuchen?", "a": "Nein, Besuche sind nur mit geführten Touren und bereitgestellter Schutzkleidung möglich."}, {"q": "Gibt es im Afrika-Museum echte Tiere?", "a": "Ja, es gibt einen kleinen Zoo mit Kamelen, Zebras und Antilopen."}, {"q": "Wie weit ist es von Balatonederics nach Keszthely?", "a": "Keszthely liegt etwa 10 Kilometer westlich von Balatonederics."}, {"q": "Ist der Strand in Ederics kinderfreundlich?", "a": "Ja, der Strand ist ruhig, gut beschattet und ideal für Familien."}], "hu": [{"q": "Hogyan látogatható a Csodabogyós-barlang?", "a": "Kizárólag előzetes bejelentkezéssel, szakképzett túravezetők kíséretében látogatható."}, {"q": "Mit láthatunk az Afrika Múzeumban?", "a": "Nagy Endre trófeagyűjteményét, afrikai néprajzi tárgyakat és élő állatokat, pl. zebrákat."}, {"q": "Milyen túraútvonalak indulnak a faluból?", "a": "Számos út vezet a Keszthelyi-hegységbe, köztük a Pele-apó tanösvény."}, {"q": "Van-e vasútállomás Balatonedericsen?", "a": "Igen, a település megállóhellyel rendelkezik a Balatonszentgyörgy–Tapolca vonalon."}], "ro": [{"q": "Este peștera Csodabogyós potrivită pentru oricine?", "a": "Necesită o condiție fizică medie, deoarece tururile implică târâre și cățărare."}, {"q": "Există animale vii la Muzeul Africa?", "a": "Da, există o mică grădină zoologică cu cămile, bivoli și alte animale africane."}, {"q": "Unde se află cea mai apropiată plajă?", "a": "Comuna are propria plajă bine întreținută pe malul lacului Balaton."}, {"q": "Ce alte atracții sunt în apropiere?", "a": "Castelul Szigliget și orașul Keszthely sunt la doar câțiva kilometri distanță."}], "en": [{"q": "How long are the cave tours in Csodabogyós?", "a": "Tours vary from 1.5 to 4 hours depending on the chosen difficulty level."}, {"q": "Is the Africa Museum open all year round?", "a": "It is typically open from spring to autumn; check seasonal schedules before visiting."}, {"q": "Can I cycle to Balatonederics?", "a": "Yes, it is a popular stop on the Balaton Bike Ring."}, {"q": "What is the meaning of the name 'Csodabogyós'?", "a": "It refers to the 'Butcher's Broom' plant, which is abundant around the cave entrance."}]}, "sights": {
+      "de": [
+            {
+                  "name": "Csodabogyós-Höhle",
+                  "text": "Eine abenteuerliche Höhle mit Seilrutschen und geführten Klettertouren im Keszthely-Gebirge.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.364633,
+                        46.796983
+                  ]
+            },
+            {
+                  "name": "Afrika-Museum",
+                  "text": "Einzigartige Sammlung afrikanischer Kultur und ein kleiner Zoo, gegründet von Endre Nagy.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.374813,
+                        46.78541
+                  ]
+            },
+            {
+                  "name": "Balatonederics Strand",
+                  "text": "Als wunderbar familienfreundlicher Badeplatz in Balatonederics belohnt dieser Strand seine Besucher mit einer herrlichen Aussicht auf Szigliget. Die ruhige und zuvorkommende Atmosphäre macht ihn zur perfekten Wahl für Eltern und Kinder, um sicher im Wasser zu spielen. Es ist ein fantastisches Ausflugsziel für einen entspannten Sommernachmittag am Plattensee.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.383116,
+                        46.790393
+                  ]
+            },
+            {
+                  "name": "Pele-apó Lehrpfad",
+                  "text": "Ein informativer Wanderweg für Kinder und Erwachsene über die Flora und Fauna der Region.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known",
+                  "coords": [
+                        17.35753,
+                        46.78834
+                  ]
+            },
+            {
+                  "name": "Fekete-kastély",
+                  "text": "Das Fekete-kastély (Schwarzes Schloss) ist ein verlassenes historisches Herrenhaus in Balatonederics, das für seine dunklen lokalen Legenden bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        17.376943,
+                        46.788551
+                  ]
+            },
+            {
+                  "name": "Jakucs László-barlang",
+                  "text": "Der Eingang zur Jakucs-László-Höhle, einer Naturstätte in Balatonederics.",
+                  "category": "landmark",
+                  "coords": [
+                        17.364033,
+                        46.80114
+                  ]
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "Eine Kirche, die Johannes dem Täufer gewidmet ist und als Kultstätte in Balatonederics dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.381582,
+                        46.809799
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "Der Szépkilátó ist ein bekannter Aussichtspunkt in Balatonederics.",
+                  "category": "natural",
+                  "coords": [
+                        17.362352,
+                        46.770433
+                  ]
+            },
+            {
+                  "name": "Batsányi-kilátó",
+                  "text": "Der Batsányi-Aussichtsturm bietet einen herrlichen Blick über Balatonederics.",
+                  "category": "natural",
+                  "coords": [
+                        17.357049,
+                        46.777217
+                  ]
+            },
+            {
+                  "name": "Kiskastély",
+                  "text": "Das Kiskastély (Kleines Schloss) ist ein historisches Schloss in Balatonederics.",
+                  "category": "castle",
+                  "coords": [
+                        17.374305,
+                        46.79022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Csodabogyós-barlang",
+                  "text": "Balatonederics melletti kalandbarlang, ahol overallos, kötélpályás túrákon vehetünk részt.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.364633,
+                        46.796983
+                  ]
+            },
+            {
+                  "name": "Afrika Múzeum",
+                  "text": "Dr. Nagy Endre alapította gyűjtemény afrikai trófeákkal, maszáj kunyhókkal és élő állatokkal.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.374813,
+                        46.78541
+                  ]
+            },
+            {
+                  "name": "Balatonedericsi strand",
+                  "text": "A csodálatos, családbarát balatonedericsi fürdőhelyként szolgáló strand lenyűgöző, Szigligetre nyíló kilátással jutalmazza a látogatókat. A nyugodt és barátságos légkör tökéletes választássá teszi szülők és gyerekek számára a biztonságos vízi játékokhoz. Fantasztikus úti cél egy pihentető nyári délutánhoz a Balatonnál.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.383116,
+                        46.790393
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "A falu központjában álló, barokk alapokra épült római katolikus templom.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.35753,
+                        46.78834
+                  ]
+            },
+            {
+                  "name": "Fekete-kastély",
+                  "text": "A balatonedericsi Fekete-kastély egy elhagyatott történelmi kúria, amely sötét helyi legendáiról híres.",
+                  "category": "castle",
+                  "coords": [
+                        17.376943,
+                        46.788551
+                  ]
+            },
+            {
+                  "name": "Jakucs László-barlang",
+                  "text": "A Jakucs László-barlang bejárata, amely egy természeti látványosság Balatonedericsen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.364033,
+                        46.80114
+                  ]
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "Keresztelő Szent János tiszteletére szentelt templom Balatonedericsen.",
+                  "category": "religious",
+                  "coords": [
+                        17.381582,
+                        46.809799
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "A Szépkilátó egy híres kilátópont Balatonedericsen.",
+                  "category": "natural",
+                  "coords": [
+                        17.362352,
+                        46.770433
+                  ]
+            },
+            {
+                  "name": "Batsányi-kilátó",
+                  "text": "A Batsányi-kilátó magaslati panorámát nyújt Balatonederics környékére.",
+                  "category": "natural",
+                  "coords": [
+                        17.357049,
+                        46.777217
+                  ]
+            },
+            {
+                  "name": "Kiskastély",
+                  "text": "A Kiskastély egy történelmi kastélyépület Balatonederics településén.",
+                  "category": "castle",
+                  "coords": [
+                        17.374305,
+                        46.79022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peștera Csodabogyós",
+                  "text": "O peșteră de aventură lângă Balatonederics, oferind tururi speologice cu echipament special.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.364633,
+                        46.796983
+                  ]
+            },
+            {
+                  "name": "Muzeul Africa",
+                  "text": "O expoziție exotică de trofee și obiecte africane, completată de o mică grădină zoologică.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.374813,
+                        46.78541
+                  ]
+            },
+            {
+                  "name": "Plaja locală",
+                  "text": "Oferind un minunat loc de scăldat potrivit pentru familii în Balatonederics, această plajă își răsplătește vizitatorii cu vederi magnifice asupra Szigliget. Atmosfera calmă și primitoare face din acest loc o alegere perfectă pentru ca părinții și copiii să se joace în siguranță în apă. Servește ca o destinație fantastică pentru o după-amiază relaxantă de vară la Lacul Balaton.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.383116,
+                        46.790393
+                  ]
+            },
+            {
+                  "name": "Traseul educațional Pele-apó",
+                  "text": "Un drum tematic despre natura munților Keszthely, perfect pentru drumeții în familie.",
+                  "category": "natural",
+                  "confidence": "medium",
+                  "source_hint": "known",
+                  "coords": [
+                        17.35753,
+                        46.78834
+                  ]
+            },
+            {
+                  "name": "Fekete-kastély",
+                  "text": "Fekete-kastély (Castelul Negru) este un conac istoric abandonat din Balatonederics, cunoscut pentru legendele sale locale întunecate.",
+                  "category": "castle",
+                  "coords": [
+                        17.376943,
+                        46.788551
+                  ]
+            },
+            {
+                  "name": "Jakucs László-barlang",
+                  "text": "Intrarea în Peștera Jakucs László, un sit natural din Balatonederics.",
+                  "category": "landmark",
+                  "coords": [
+                        17.364033,
+                        46.80114
+                  ]
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "O biserică închinată Sfântului Ioan Botezătorul, care servește ca lăcaș de cult în Balatonederics.",
+                  "category": "religious",
+                  "coords": [
+                        17.381582,
+                        46.809799
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "Szépkilátó este un punct de belvedere renumit în Balatonederics.",
+                  "category": "natural",
+                  "coords": [
+                        17.362352,
+                        46.770433
+                  ]
+            },
+            {
+                  "name": "Batsányi-kilátó",
+                  "text": "Turnul de observație Batsányi oferă o vedere panoramică asupra orașului Balatonederics.",
+                  "category": "natural",
+                  "coords": [
+                        17.357049,
+                        46.777217
+                  ]
+            },
+            {
+                  "name": "Kiskastély",
+                  "text": "Kiskastély (Micul Castel) este un reper istoric situat în Balatonederics.",
+                  "category": "castle",
+                  "coords": [
+                        17.374305,
+                        46.79022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Csodabogyós Cave",
+                  "text": "An adventurous cave near Balatonederics offering rope-climbing tours through narrow limestone passages.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.364633,
+                        46.796983
+                  ]
+            },
+            {
+                  "name": "Africa Museum",
+                  "text": "A fascinating private collection of African artifacts and a zoo founded by hunter Endre Nagy.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.374813,
+                        46.78541
+                  ]
+            },
+            {
+                  "name": "Local Beach",
+                  "text": "Offering a wonderful family-friendly bathing spot in Balatonederics, this beach rewards visitors with magnificent views over Szigliget. The calm and accommodating atmosphere makes it a perfect choice for parents and children to play in the water safely. It serves as a fantastic destination for a relaxing summer afternoon by Lake Balaton.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.383116,
+                        46.790393
+                  ]
+            },
+            {
+                  "name": "Old Press Houses",
+                  "text": "Traditional wine-making buildings scattered on the hillsides above the village.",
+                  "category": "historical",
+                  "confidence": "medium",
+                  "source_hint": "known",
+                  "coords": [
+                        17.35753,
+                        46.78834
+                  ]
+            },
+            {
+                  "name": "Fekete-kastély",
+                  "text": "The Fekete-kastély (Black Castle) is an abandoned historic manor in Balatonederics known for its dark local legends.",
+                  "category": "castle",
+                  "coords": [
+                        17.376943,
+                        46.788551
+                  ]
+            },
+            {
+                  "name": "Jakucs László-barlang",
+                  "text": "The entrance to the Jakucs László Cave, a natural site in Balatonederics.",
+                  "category": "landmark",
+                  "coords": [
+                        17.364033,
+                        46.80114
+                  ]
+            },
+            {
+                  "name": "Keresztelő Szent János-templom",
+                  "text": "A church dedicated to St. John the Baptist, serving as a place of worship in Balatonederics.",
+                  "category": "religious",
+                  "coords": [
+                        17.381582,
+                        46.809799
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "The Szépkilátó is a renowned scenic viewpoint in Balatonederics.",
+                  "category": "natural",
+                  "coords": [
+                        17.362352,
+                        46.770433
+                  ]
+            },
+            {
+                  "name": "Batsányi-kilátó",
+                  "text": "The Batsányi observation tower provides elevated views over Balatonederics.",
+                  "category": "natural",
+                  "coords": [
+                        17.357049,
+                        46.777217
+                  ]
+            },
+            {
+                  "name": "Kiskastély",
+                  "text": "The Kiskastély (Little Castle) is a historic castle landmark located in Balatonederics.",
+                  "category": "castle",
+                  "coords": [
+                        17.374305,
+                        46.79022
+                  ]
+            }
+      ]
+}, "nearbySights": {"de": [{"name": "Burg Szigliget", "text": "Imposante Burgruine auf einem Vulkanhügel.", "distance": "6 km", "category": "historical"}, {"name": "Seehöhle Tapolca", "text": "Einzigartige Höhle, die man mit dem Boot befahren kann.", "distance": "12 km", "category": "natural"}], "hu": [{"name": "Szigligeti vár", "text": "Magyarország egyik legszebb fekvésű középkori várromja.", "distance": "6 km", "category": "historical"}, {"name": "Tapolcai-tavasbarlang", "text": "Város alatti barlangrendszer, amely csónakkal bejárható.", "distance": "12 km", "category": "natural"}], "ro": [{"name": "Cetatea Szigliget", "text": "O fortăreață medievală renovată cu o vedere panoramică incredibilă.", "distance": "6 km", "category": "historical"}, {"name": "Peștera cu lac din Tapolca", "text": "Un sistem de peșteri inundate unde vizitatorii pot merge cu barca.", "distance": "12 km", "category": "natural"}], "en": [{"name": "Szigliget Castle", "text": "One of Hungary's most scenic castle ruins on a volcanic hill.", "distance": "6 km", "category": "historical"}, {"name": "Tapolca Lake Cave", "text": "A unique subterranean lake navigable by small boats.", "distance": "12 km", "category": "natural"}]}, "parent": "veszprem"},
   {"id": "balatonfenyves", "type": "town", "coords": [17.4812, 46.7115], "population": 2350, "name": {"de": "Balatonfenyves", "hu": "Balatonfenyves", "ro": "Balatonfenyves", "en": "Balatonfenyves"}, "descriptionAdvanced": {"de": "Balatonfenyves ist einer der beliebtesten Urlaubsorte am Südufer des Plattensees und zeichnet sich durch seine ruhige, familienfreundliche Atmosphäre und seine weitläufigen Grünflächen aus. Die Geschichte der Gemeinde ist eng mit dem Bau der Südbahn und der Trockenlegung des Nagyberek-Sumpfgebietes Ende des 19. Jahrhunderts verbunden, wodurch aus einer wilden Sumpflandschaft fruchtbares Ackerland und ein Erholungsgebiet wurden. Heute ist der Ort vor allem für seinen kilometerlangen, kostenlosen Strand bekannt, der mit seinem flachen Wasser ideal für Familien mit kleinen Kindern ist. Eine besondere Attraktion ist die Balatonfenyveser Wirtschaftsbahn, eine der letzten funktionierenden Schmalspurbahnen Ungarns, die Touristen in das Herz des Naturschutzgebietes Nagyberek führt. Der moderne Yachthafen der Gemeinde ist einer der größten am See und bietet erstklassige Dienstleistungen für Segler. In der Umgebung finden sich zahlreiche Radwege, die Teil des Balaton-Radrings sind, sowie hervorragende Restaurants, die die regionale Küche von Somogy repräsentieren.", "hu": "Balatonfenyves a Balaton déli partjának egyik legkedveltebb és legnyugodtabb üdülőhelye, amely hosszan elnyúló szabadstrandjaival és hatalmas zöldfelületeivel vonzza a látogatókat. A település fejlődése a 19. század végén indult meg, amikor a déli vasútvonal kiépítése és a környező Nagyberek mocsárvilágának lecsapolása lehetővé tette a terület lakhatóvá tételét. A község ma igazi családi paradicsom, ahol az sekély víz és a gondozott parkok ideális feltételeket biztosítanak a pihenéshez. A település büszkesége a Balatonfenyvesi Gazdasági Vasút, amely az ország egyik utolsó működő keskenynyomtávú vasútjaként különleges utazást kínál a berek vadregényes tájaira, ahol ritka vízimadarak és különleges növénytársulások figyelhetők meg. A modern vitorláskikötő a vízi sportok kedvelőit várja, míg a környékbeli kerékpárutak a tókerülő túrák fontos állomásai. A helyi gasztronómia a somogyi vadételek és a balatoni halászlé különleges ötvözetét kínálja a vendégeknek.", "ro": "Balatonfenyves este una dintre cele mai apreciate stațiuni de pe malul sudic al lacului Balaton, fiind cunoscută pentru atmosfera sa liniștită și spațiile verzi generoase care se întind de-a lungul apei. Dezvoltarea localității a început la sfârșitul secolului al XIX-lea, odată cu construcția căii ferate sudice și asanarea mlaștinilor din regiunea Nagyberek, transformând zona într-un centru agricol și ulterior turistic. Astăzi, localitatea atrage numeroși turiști datorită plajelor sale publice cu acces gratuit, unde apa puțin adâncă este ideală pentru copii. O atracție emblematică este calea ferată economică Balatonfenyves, o linie cu ecartament îngust care transportă pasagerii prin peisajul sălbatic al rezervației naturale din apropiere, oferind o perspectivă unică asupra florei și faunei locale. Portul modern de agrement este un punct de referință pentru navigatori, oferind facilități de ultimă generație. Infrastructura turistică include numeroase piste de biciclete și unități de cazare care păstrează ospitalitatea tradițională a județului Somogy.", "en": "Balatonfenyves is a prominent resort town on the southern shore of Lake Balaton, renowned for its peaceful environment and extensive free beaches that stretch for several kilometers. The town's history is deeply intertwined with the large-scale drainage projects of the Nagyberek wetlands and the establishment of the railway network in the late 1800s. Today, it serves as a premier destination for families, offering shallow waters and well-maintained parks perfect for summer recreation. One of its most unique features is the Balatonfenyves Economic Railway, a surviving narrow-gauge railway that provides scenic tours into the heart of the Nagyberek nature reserve, a haven for birdwatchers and nature enthusiasts. The town also boasts a state-of-the-art marina, making it a hub for sailing on the lake. Visitors can explore the region via the Balaton Bike Loop or enjoy local Somogy County delicacies in the numerous lakeside taverns. The combination of natural beauty, nostalgic railway trips, and modern nautical facilities makes Balatonfenyves a multifaceted gem of the Hungarian sea."}, "factsAdvanced": {"de": ["Gegründet als eigenständige Gemeinde im Jahr 1958.", "Die Schmalspurbahn hat eine Spurweite von 760 mm.", "Der Ort besitzt einen der längsten zusammenhängenden freien Strände am Balaton.", "Der Yachthafen bietet Platz für über 300 Boote.", "Die Entfernung nach Budapest beträgt etwa 160 Kilometer.", "Nagyberek ist ein wichtiges Überwinterungsgebiet für Zugvögel."], "hu": ["1958-ban vált önálló községgé.", "A gazdasági vasút nyomtávja 760 mm.", "Itt található a Balaton egyik leghosszabb ingyenes szabadstrandja.", "A vitorláskikötő több mint 300 hajó befogadására alkalmas.", "Budapesttől való távolsága körülbelül 160 kilométer.", "A Nagyberek területe Natura 2000-es védelem alatt áll."], "ro": ["A devenit comună independentă în anul 1958.", "Ecartamentul căii ferate înguste este de 760 mm.", "Localitatea are una dintre cele mai lungi plaje libere de pe lacul Balaton.", "Portul turistic are o capacitate de peste 300 de ambarcațiuni.", "Distanța față de Budapesta este de aproximativ 160 km.", "Regiunea Nagyberek este arie protejată pentru conservarea biodiversității."], "en": ["Became an independent municipality in 1958.", "The narrow-gauge railway operates on a 760 mm track.", "Features one of the longest continuous free beaches on Lake Balaton.", "The local marina accommodates more than 300 vessels.", "Located approximately 160 kilometers from Budapest.", "The Nagyberek area is a designated Natura 2000 protected site."]}, "faq": {"de": [{"q": "Gibt es Parkgebühren an den Stränden?", "a": "Die meisten Parkplätze in Strandnähe sind in Balatonfenyves derzeit kostenlos."}, {"q": "Wann fährt die Schmalspurbahn?", "a": "Die Bahn verkehrt ganzjährig, im Sommer jedoch mit deutlich höherer Frequenz."}, {"q": "Ist der Ort für Hunde geeignet?", "a": "Es gibt in der Nähe spezielle Hundestrand-Abschnitte für Haustierbesitzer."}, {"q": "Welche Sportmöglichkeiten gibt es?", "a": "Segeln, Windsurfen, Radfahren und Reiten sind in der Umgebung sehr beliebt."}], "hu": [{"q": "Fizetős-e a parkolás a strandoknál?", "a": "Balatonfenyves legtöbb strandközeli parkolója jelenleg ingyenesen használható."}, {"q": "Mikor jár a kisvasút?", "a": "A kisvasút egész évben közlekedik, nyáron sűrített menetrend szerint."}, {"q": "Van-e kutyás strand a településen?", "a": "Igen, a közelben kijelölt kutyás strand várja a háziállattal érkezőket."}, {"q": "Milyen sportolási lehetőségek vannak?", "a": "A vitorlázás, szörfözés, kerékpározás és a lovaglás a legnépszerűbb sportok."}], "ro": [{"q": "Parcarea este cu plată lângă plaje?", "a": "Majoritatea parcărilor din apropierea plajelor în Balatonfenyves sunt gratuite."}, {"q": "Când circulă trenul de cale ferată îngustă?", "a": "Trenul circulă tot anul, cu o frecvență mai mare în perioada estivală."}, {"q": "Există plaje pentru câini?", "a": "Da, în apropiere există secțiuni de plajă special amenajate pentru animalele de companie."}, {"q": "Ce activități sportive se pot practica?", "a": "Navigația, windsurfingul, ciclismul și călăria sunt opțiuni foarte populare."}], "en": [{"q": "Is parking paid near the beaches?", "a": "Most parking areas near the beaches in Balatonfenyves are currently free of charge."}, {"q": "When does the narrow-gauge railway run?", "a": "The railway operates year-round, with a more frequent schedule during the summer season."}, {"q": "Are there dog-friendly beaches?", "a": "Yes, there are designated dog beaches in the vicinity for visitors with pets."}, {"q": "What sports can I practice here?", "a": "Sailing, windsurfing, cycling, and horseback riding are the most popular local activities."}]}, "sights": {
       "de": [
             {
@@ -463,6 +2437,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.4766,
                         46.70844
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Der Szabadstrand ist ein Badestrand am Seeufer von Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.508682,
+                        46.723397
+                  ]
+            },
+            {
+                  "name": "Pozsonyi strand",
+                  "text": "Der Pozsonyi strand ist ein lokaler Strand in Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.495271,
+                        46.719043
+                  ]
+            },
+            {
+                  "name": "Balatonfenyves alsó szabadstrand",
+                  "text": "Balatonfenyves alsó szabadstrand ist ein Badestrand in der Stadt Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.453678,
+                        46.709421
                   ]
             }
       ],
@@ -488,6 +2489,33 @@ export const poiExtraHuV4: POI[] = [
                         17.4766,
                         46.70844
                   ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "A Szabadstrand egy fürdőhely és strand Balatonfenyvesen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.508682,
+                        46.723397
+                  ]
+            },
+            {
+                  "name": "Pozsonyi strand",
+                  "text": "A Pozsonyi strand egy helyi fürdőzőhely Balatonfenyvesen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.495271,
+                        46.719043
+                  ]
+            },
+            {
+                  "name": "Balatonfenyves alsó szabadstrand",
+                  "text": "A Balatonfenyves alsó szabadstrand egy fürdőhely a településen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.453678,
+                        46.709421
+                  ]
             }
       ],
       "ro": [
@@ -512,6 +2540,33 @@ export const poiExtraHuV4: POI[] = [
                         17.4766,
                         46.70844
                   ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Szabadstrand este o stațiune cu plajă din Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.508682,
+                        46.723397
+                  ]
+            },
+            {
+                  "name": "Pozsonyi strand",
+                  "text": "Pozsonyi strand este o plajă din Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.495271,
+                        46.719043
+                  ]
+            },
+            {
+                  "name": "Balatonfenyves alsó szabadstrand",
+                  "text": "Balatonfenyves alsó szabadstrand este o stațiune cu plajă din orașul Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.453678,
+                        46.709421
+                  ]
             }
       ],
       "en": [
@@ -535,6 +2590,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.4766,
                         46.70844
+                  ]
+            },
+            {
+                  "name": "Szabadstrand",
+                  "text": "Szabadstrand is a beach resort located in Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.508682,
+                        46.723397
+                  ]
+            },
+            {
+                  "name": "Pozsonyi strand",
+                  "text": "Pozsonyi strand is a local beach along the shores of Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.495271,
+                        46.719043
+                  ]
+            },
+            {
+                  "name": "Balatonfenyves alsó szabadstrand",
+                  "text": "Balatonfenyves alsó szabadstrand is a beach resort located in the town of Balatonfenyves.",
+                  "category": "recreational",
+                  "coords": [
+                        17.453678,
+                        46.709421
                   ]
             }
       ]
@@ -565,6 +2647,24 @@ export const poiExtraHuV4: POI[] = [
                   "category": "civic",
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Kő-hegy",
+                  "text": "A Kő-hegy egy hegycsúcs Balf településének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633988,
+                        47.656482
+                  ]
+            },
+            {
+                  "name": "Kópházi kilátó",
+                  "text": "A Kópházi kilátó egy festői kilátóhely Balf térségében.",
+                  "category": "natural",
+                  "coords": [
+                        16.635063,
+                        47.650319
+                  ]
             }
       ],
       "de": [
@@ -577,6 +2677,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.662486,
                         47.651031
+                  ]
+            },
+            {
+                  "name": "Kő-hegy",
+                  "text": "Kő-hegy ist ein Berggipfel in der Nähe der Siedlung Balf.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633988,
+                        47.656482
+                  ]
+            },
+            {
+                  "name": "Kópházi kilátó",
+                  "text": "Kópházi kilátó ist ein Aussichtspunkt in der Gegend von Balf.",
+                  "category": "natural",
+                  "coords": [
+                        16.635063,
+                        47.650319
                   ]
             }
       ],
@@ -591,6 +2709,24 @@ export const poiExtraHuV4: POI[] = [
                         16.662486,
                         47.651031
                   ]
+            },
+            {
+                  "name": "Kő-hegy",
+                  "text": "Kő-hegy este un vârf montan situat în apropiere de așezarea Balf.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633988,
+                        47.656482
+                  ]
+            },
+            {
+                  "name": "Kópházi kilátó",
+                  "text": "Kópházi kilátó este un punct de belvedere pitoresc situat în zona Balf.",
+                  "category": "natural",
+                  "coords": [
+                        16.635063,
+                        47.650319
+                  ]
             }
       ],
       "en": [
@@ -603,6 +2739,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.662486,
                         47.651031
+                  ]
+            },
+            {
+                  "name": "Kő-hegy",
+                  "text": "Kő-hegy is a mountain peak located near the settlement of Balf.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633988,
+                        47.656482
+                  ]
+            },
+            {
+                  "name": "Kópházi kilátó",
+                  "text": "Kópházi kilátó is a scenic viewpoint situated in the area of Balf.",
+                  "category": "natural",
+                  "coords": [
+                        16.635063,
+                        47.650319
                   ]
             }
       ]
@@ -619,6 +2773,15 @@ export const poiExtraHuV4: POI[] = [
                         21.02173,
                         46.285663
                   ]
+            },
+            {
+                  "name": "Strandfűrdő",
+                  "text": "Das Strandfűrdő ist ein Wasserpark in der Stadt Battonya.",
+                  "category": "recreational",
+                  "coords": [
+                        21.021158,
+                        46.283828
+                  ]
             }
       ],
       "hu": [
@@ -631,6 +2794,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.02173,
                         46.285663
+                  ]
+            },
+            {
+                  "name": "Strandfűrdő",
+                  "text": "A battonyai Strandfürdő egy vízi park és pihenőhely a városban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.021158,
+                        46.283828
                   ]
             }
       ],
@@ -645,6 +2817,15 @@ export const poiExtraHuV4: POI[] = [
                         21.02173,
                         46.285663
                   ]
+            },
+            {
+                  "name": "Strandfűrdő",
+                  "text": "Strandfűrdő este un parc acvatic cu facilități de recreere situat în Battonya.",
+                  "category": "recreational",
+                  "coords": [
+                        21.021158,
+                        46.283828
+                  ]
             }
       ],
       "en": [
@@ -657,6 +2838,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.02173,
                         46.285663
+                  ]
+            },
+            {
+                  "name": "Strandfűrdő",
+                  "text": "Strandfűrdő is a water park offering recreational facilities in Battonya.",
+                  "category": "recreational",
+                  "coords": [
+                        21.021158,
+                        46.283828
                   ]
             }
       ]
@@ -673,6 +2863,42 @@ export const poiExtraHuV4: POI[] = [
                         20.846088,
                         47.389095
                   ]
+            },
+            {
+                  "name": "Soviet Airforce Museum",
+                  "text": "Ein Museum zur sowjetischen Luftwaffe in Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.841413,
+                        47.383788
+                  ]
+            },
+            {
+                  "name": "Néprajzi Magángyűjtemény Berekfurdő",
+                  "text": "Die volkskundliche Privatsammlung in Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.847533,
+                        47.382256
+                  ]
+            },
+            {
+                  "name": "Sebők Margit Galéria",
+                  "text": "Die Sebők Margit Galerie in Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.841033,
+                        47.385033
+                  ]
+            },
+            {
+                  "name": "Berekfürdői Gyógy- és Strandfürdő",
+                  "text": "Das Heil- und Strandbad von Berekfürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        20.840714,
+                        47.386897
+                  ]
             }
       ],
       "hu": [
@@ -685,6 +2911,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.846088,
                         47.389095
+                  ]
+            },
+            {
+                  "name": "Soviet Airforce Museum",
+                  "text": "A szovjet légierő történetét bemutató múzeum Berekfürdőn.",
+                  "category": "museum",
+                  "coords": [
+                        20.841413,
+                        47.383788
+                  ]
+            },
+            {
+                  "name": "Néprajzi Magángyűjtemény Berekfurdő",
+                  "text": "Néprajzi Magángyűjtemény Berekfürdőn.",
+                  "category": "museum",
+                  "coords": [
+                        20.847533,
+                        47.382256
+                  ]
+            },
+            {
+                  "name": "Sebők Margit Galéria",
+                  "text": "A Sebők Margit Galéria Berekfürdőn.",
+                  "category": "museum",
+                  "coords": [
+                        20.841033,
+                        47.385033
+                  ]
+            },
+            {
+                  "name": "Berekfürdői Gyógy- és Strandfürdő",
+                  "text": "A Berekfürdői Gyógy- és Strandfürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        20.840714,
+                        47.386897
                   ]
             }
       ],
@@ -699,6 +2961,42 @@ export const poiExtraHuV4: POI[] = [
                         20.846088,
                         47.389095
                   ]
+            },
+            {
+                  "name": "Soviet Airforce Museum",
+                  "text": "Un muzeu dedicat forțelor aeriene sovietice în Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.841413,
+                        47.383788
+                  ]
+            },
+            {
+                  "name": "Néprajzi Magángyűjtemény Berekfurdő",
+                  "text": "O colecție etnografică privată în Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.847533,
+                        47.382256
+                  ]
+            },
+            {
+                  "name": "Sebők Margit Galéria",
+                  "text": "Galeria Sebők Margit din Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.841033,
+                        47.385033
+                  ]
+            },
+            {
+                  "name": "Berekfürdői Gyógy- és Strandfürdő",
+                  "text": "Complexul balnear și ștrandul din Berekfürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        20.840714,
+                        47.386897
+                  ]
             }
       ],
       "en": [
@@ -711,6 +3009,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.846088,
                         47.389095
+                  ]
+            },
+            {
+                  "name": "Soviet Airforce Museum",
+                  "text": "A Soviet Airforce Museum located in Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.841413,
+                        47.383788
+                  ]
+            },
+            {
+                  "name": "Néprajzi Magángyűjtemény Berekfurdő",
+                  "text": "A private ethnographic collection in Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.847533,
+                        47.382256
+                  ]
+            },
+            {
+                  "name": "Sebők Margit Galéria",
+                  "text": "The Sebők Margit Gallery situated in Berekfürdő.",
+                  "category": "museum",
+                  "coords": [
+                        20.841033,
+                        47.385033
+                  ]
+            },
+            {
+                  "name": "Berekfürdői Gyógy- és Strandfürdő",
+                  "text": "The thermal spa and water park in Berekfürdő.",
+                  "category": "recreational",
+                  "coords": [
+                        20.840714,
+                        47.386897
                   ]
             }
       ]
@@ -738,6 +3072,33 @@ export const poiExtraHuV4: POI[] = [
                         20.482661,
                         47.93165
                   ]
+            },
+            {
+                  "name": "Szomolyai tájház",
+                  "text": "Ein traditionelles Heimatmuseum in Bogács.",
+                  "category": "museum",
+                  "coords": [
+                        20.4945,
+                        47.894583
+                  ]
+            },
+            {
+                  "name": "Fazekasműhely",
+                  "text": "Ein Töpferwerkstatt-Museum in Bogács, das lokale Handwerkskunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.49511,
+                        47.89121
+                  ]
+            },
+            {
+                  "name": "Erzsébet kilátó",
+                  "text": "Der Erzsébet-Aussichtsturm bietet einen herrlichen Blick über Bogács.",
+                  "category": "natural",
+                  "coords": [
+                        20.489362,
+                        47.88647
+                  ]
             }
       ],
       "hu": [
@@ -761,6 +3122,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.482661,
                         47.93165
+                  ]
+            },
+            {
+                  "name": "Szomolyai tájház",
+                  "text": "Hagyományos tájház és múzeum Bogács térségében.",
+                  "category": "museum",
+                  "coords": [
+                        20.4945,
+                        47.894583
+                  ]
+            },
+            {
+                  "name": "Fazekasműhely",
+                  "text": "Helyi kerámiaművességet bemutató fazekasműhely Bogácson.",
+                  "category": "museum",
+                  "coords": [
+                        20.49511,
+                        47.89121
+                  ]
+            },
+            {
+                  "name": "Erzsébet kilátó",
+                  "text": "Az Erzsébet kilátó gyönyörű panorámát nyújt Bogács környékére.",
+                  "category": "natural",
+                  "coords": [
+                        20.489362,
+                        47.88647
                   ]
             }
       ],
@@ -786,6 +3174,33 @@ export const poiExtraHuV4: POI[] = [
                         20.482661,
                         47.93165
                   ]
+            },
+            {
+                  "name": "Szomolyai tájház",
+                  "text": "Un muzeu tradițional al satului situat în Bogács.",
+                  "category": "museum",
+                  "coords": [
+                        20.4945,
+                        47.894583
+                  ]
+            },
+            {
+                  "name": "Fazekasműhely",
+                  "text": "Muzeu al unui atelier de olărit din Bogács, care prezintă meșteșugul local.",
+                  "category": "museum",
+                  "coords": [
+                        20.49511,
+                        47.89121
+                  ]
+            },
+            {
+                  "name": "Erzsébet kilátó",
+                  "text": "Turnul de observație Erzsébet oferă o priveliște panoramică asupra orașului Bogács.",
+                  "category": "natural",
+                  "coords": [
+                        20.489362,
+                        47.88647
+                  ]
             }
       ],
       "en": [
@@ -810,14 +3225,81 @@ export const poiExtraHuV4: POI[] = [
                         20.482661,
                         47.93165
                   ]
+            },
+            {
+                  "name": "Szomolyai tájház",
+                  "text": "A traditional country house museum located in Bogács.",
+                  "category": "museum",
+                  "coords": [
+                        20.4945,
+                        47.894583
+                  ]
+            },
+            {
+                  "name": "Fazekasműhely",
+                  "text": "Pottery workshop museum in Bogács showcasing local craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        20.49511,
+                        47.89121
+                  ]
+            },
+            {
+                  "name": "Erzsébet kilátó",
+                  "text": "The Erzsébet lookout tower offers scenic views over Bogács.",
+                  "category": "natural",
+                  "coords": [
+                        20.489362,
+                        47.88647
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Mezőkövesd Matyó-Viertel", "text": "Bekannt für seine einzigartigen Stickereien und Volkstrachten.", "distance": "10 km", "category": "historical"}, {"name": "Schloss Eger", "text": "Die berühmte Festung von Eger, Schauplatz wichtiger historischer Kämpfe.", "distance": "18 km", "category": "historical"}], "hu": [{"name": "Mezőkövesd Hadas városrész", "text": "A matyó népművészet és építészet élő skanzene.", "distance": "10 km", "category": "historical"}, {"name": "Egri vár", "text": "Magyarország egyik legfontosabb történelmi erődítménye.", "distance": "18 km", "category": "historical"}], "ro": [{"name": "Cartierul Matyó din Mezőkövesd", "text": "Centru al broderiilor matyó protejate de UNESCO.", "distance": "10 km", "category": "historical"}, {"name": "Cetatea Eger", "text": "O fortăreață legendară celebră pentru rezistența împotriva turcilor.", "distance": "18 km", "category": "historical"}], "en": [{"name": "Mezőkövesd Hadas District", "text": "The heart of Matyó folk art and traditional peasant architecture.", "distance": "10 km", "category": "historical"}, {"name": "Eger Castle", "text": "One of Hungary's most iconic fortresses with a rich military history.", "distance": "18 km", "category": "historical"}]}, "parent": "borsod-abauj-zemplen"},
   {"id": "boldva", "type": "village", "coords": [20.7877, 48.2166], "population": 2350, "name": {"de": "Boldva", "hu": "Boldva", "ro": "Boldva", "en": "Boldva"}, "descriptionAdvanced": {"de": "Boldva ist eine historisch bedeutende Gemeinde im Nordosten Ungarns, gelegen im Tal des Flusses Bódva. Der Ort erlangte weltweite Bekanntheit unter Philologen und Historikern als Fundort der 'Leichenrede und Gebet' (Halotti beszéd és könyörgés), dem ältesten zusammenhängenden ungarischen Sprachtext. Dieses kostbare Dokument wurde in einem Benediktinerkloster verfasst, das im 12. Jahrhundert in Boldva stand. Heute können Besucher die imposanten Ruinen dieses Klosters und die prachtvoll restaurierte reformierte Kirche besichtigen, die auf den Fundamenten der ehemaligen Benediktinerkirche errichtet wurde. Die Architektur der Kirche zeigt deutlich romanische und gotische Einflüsse und ist ein herausragendes Beispiel für die mittelalterliche Sakralbaukunst in Ungarn. Das Dorf selbst hat eine ruhige, ländliche Atmosphäre bewahrt, ist aber eng mit der Geschichte der ungarischen Identität und Sprache verknüpft. Das lokale Museum präsentiert die archäologischen Funde aus der Klosteranlage und erklärt die Bedeutung von Boldva im religiösen Leben des Mittelalters. Die umliegende Landschaft ist geprägt von der fruchtbaren Bódva-Aue, die zu Spaziergängen und Naturbeobachtungen einlädt. Boldva ist ein unverzichtbares Ziel für alle, die sich für die Ursprünge der ungarischen Kultur und Sprache interessieren.", "hu": "Boldva az észak-magyarországi régió egyik legjelentősebb kultúrtörténeti emlékhelye, Borsod-Abaúj-Zemplén vármegyében, a Bódva folyó völgyében. A település nevét minden magyar iskolás ismeri, hiszen itt található az első összefüggő magyar nyelvű szövegemlékünk, a Halotti beszéd és könyörgés lelőhelye. A 12. század végén itt működő bencés monostor falai között jegyezhették le ezt a páratlan nyelvi emléket a Pray-kódexben. A mai református templom a hajdani monumentális bencés apátság alapjaira épült, megőrizve annak román kori arányait és építészeti részleteit. A templom és a mellette feltárt kolostorromok a középkori magyar építészet kiemelkedő emlékei, amelyek látványosan mutatják be az egykori szerzetesi életet. Boldva nemcsak a múlt emlékeiből él; a falu rendezett utcaképe és a folyóparti természetvédelmi területek kellemes pihenőhelyet kínálnak a látogatóknak. A helyi tájházban a település néprajzi értékeit és a Bódva-völgy hagyományait ismerhetik meg az érdeklődők. A község büszke történelmi szerepére, és rendszeresen ad otthont olyan rendezvényeknek, amelyek a magyar nyelv és a középkori hagyományok ápolását szolgálják. A látogatók számára a templomkert és a romterület spirituális és esztétikai élményt egyaránt nyújt.", "ro": "Boldva este o localitate de o importanță istorică și culturală excepțională în Ungaria, situată în valea râului Bódva, în județul Borsod-Abaúj-Zemplén. Localitatea este celebră în întreaga lume academică ca fiind locul de origine al 'Predicii de înmormântare și rugăciune' (Halotti beszéd és könyörgés), cel mai vechi text continuu scris în limba maghiară, datând de la sfârșitul secolului al XII-lea. Acest document prețios a fost redactat în cadrul mănăstirii benedictine care funcționa aici în perioada medievală timpurie. Actuala biserică reformată din Boldva este construită pe fundațiile vechii abații benedictine, păstrând elemente arhitecturale romane remarcabile, cum ar fi ferestrele înguste și zidurile masive de piatră. Ruinele mănăstirii adiacente, excavate de arheologi, oferă o imagine clară a complexului monastic de odinioară. Boldva reprezintă un punct de pelerinaj cultural pentru cei interesați de istoria lingvistică și religioasă a Bazinului Carpatic. Pe lângă moștenirea sa medievală, satul oferă peisaje naturale frumoase de-a lungul râului Bódva, ideale pentru recreere. Un muzeu local prezintă descoperirile arheologice și explică contextul istoric în care a înflorit viața monahală în această regiune. Boldva reușește să combine sobrietatea istoriei milenare cu ospitalitatea specifică satelor din nordul Ungariei.", "en": "Boldva is a settlement of paramount historical and linguistic importance in Northern Hungary, located in the Bódva River valley. It is internationally renowned as the site where the 'Funeral Oration and Prayer' (Halotti beszéd és könyörgés) was composed—the oldest known continuous text written in the Hungarian language. This landmark of literary history originated in the Benedictine monastery that flourished here in the late 12th century. Today, the village's primary attraction is the Reformed Church, which stands on the foundations of the ancient Benedictine abbey. The building preserves significant Romanesque architectural features, making it one of the most important medieval monuments in the country. Adjacent to the church, the excavated ruins of the monastery provide a fascinating insight into the daily lives of the monks who once resided there. Boldva is not just a site for scholars; its peaceful rural setting and the scenic banks of the Bódva River offer a relaxing environment for visitors. The local heritage house showcases ethnographic exhibits from the Bódva valley, preserving traditional crafts and customs. As a cradle of Hungarian literacy, Boldva remains a spiritual and cultural beacon, attracting tourists interested in the origins of Central European religious and linguistic heritage. The site is a testament to the enduring legacy of medieval monasticism and its role in shaping national identity."}, "factsAdvanced": {"de": ["In Boldva wurde die 'Leichenrede', der älteste ungarische Sprachtext, gefunden.", "Das Benediktinerkloster wurde um 1175 erbaut.", "Die heutige reformierte Kirche bewahrt romanische Strukturen aus dem 12. Jahrhundert.", "Boldva liegt an der historischen Pilgerstraße der Region.", "Archäologische Ausgrabungen legten den Grundriss des Klosters in den 1970er Jahren frei.", "Das Kloster wurde während des Tatarensturms im 13. Jahrhundert schwer beschädigt."], "hu": ["Itt jegyezték le a Halotti beszéd és könyörgés szövegét a 12. század végén.", "A boldvai bencés templom Magyarország egyik legjelentősebb román kori műemléke.", "A monostort a tatárjárás után már nem építették újjá eredeti formájában.", "A református templom déli falán középkori napóra maradványai láthatók.", "A település a Bódva folyó bal partján fekszik.", "A Pray-kódexben maradt fenn a híres nyelvemlék, amely Boldvához köthető."], "ro": ["Boldva este locul unde a fost scris primul text coerent în limba maghiară (aprox. 1192).", "Biserica reformată păstrează fundațiile și zidurile abației benedictine din secolul XII.", "Mănăstirea a fost abandonată după invazia tătară din 1241-1242.", "Textul istoric a fost păstrat în manuscrisul numit Codexul Pray.", "Regiunea este cunoscută pentru satele sale medievale foarte bine conservate.", "Excavațiile arheologice au scos la iveală obiecte de cult rare din perioada Arpadiană."], "en": ["The 'Funeral Oration' found here consists of 26 lines and 190 Hungarian words.", "The monastery was founded around 1175-1180 by the Benedictine order.", "The Reformed Church is an outstanding example of Romanesque architecture in Hungary.", "The site includes a small museum explaining the history of the Pray Codex.", "The Bódva River near the village is part of a protected natural habitat.", "The church survived several centuries of conflict, including the Ottoman occupation."]}, "faq": {"de": [{"q": "Kann man die Kirche von innen besichtigen?", "a": "Ja, Besichtigungen sind nach vorheriger Anmeldung oder zu Gottesdienstzeiten möglich."}, {"q": "Wo befindet sich das Original der Leichenrede?", "a": "Das Original befindet sich in der Széchényi-Nationalbibliothek in Budapest."}, {"q": "Gibt es Parkplätze an der Kirche?", "a": "Ja, es gibt kostenlose Parkplätze direkt vor dem Kircheneingang."}, {"q": "Ist Boldva mit öffentlichen Verkehrsmitteln erreichbar?", "a": "Ja, es gibt regelmäßige Busverbindungen von Miskolc."}], "hu": [{"q": "Látogatható-e a templom minden nap?", "a": "A templom látogatásához érdemes előre bejelentkezni a református lelkészi hivatalnál."}, {"q": "Mekkora a monostor romterülete?", "a": "A templom mellett közvetlenül látható az egykori kolostor alaprajza és néhány fala."}, {"q": "Vannak-e vezetett túrák?", "a": "Helyi idegenvezetés keretében megismerhető a templom és a nyelvemlék története."}, {"q": "Van-e belépődíj?", "a": "A templom látogatása általában adományalapú vagy csekély belépődíjhoz kötött."}], "ro": [{"q": "Unde se află mai exact ruinele mănăstirii?", "a": "Ruinele sunt chiar lângă biserica reformată actuală, în centrul satului."}, {"q": "Este acest loc important pentru lingviști?", "a": "Da, este considerat 'leagănul' limbii maghiare scrise."}, {"q": "Există locuri de luat masa în Boldva?", "a": "Există mici unități locale, dar mai multe opțiuni se găsesc în orașele apropiate."}, {"q": "Se organizează evenimente culturale?", "a": "Da, anual au loc zilele localității cu tematică istorică."}], "en": [{"q": "How far is Boldva from Miskolc?", "a": "It is about 15 kilometers north of Miskolc, a 20-minute drive."}, {"q": "What is the Pray Codex?", "a": "It is a medieval manuscript that contains the famous Funeral Oration text."}, {"q": "Is the church still active?", "a": "Yes, it serves as the place of worship for the local Reformed congregation."}, {"q": "Are the ruins open to the public?", "a": "Yes, the ruins in the churchyard can be viewed freely from the outside."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Bencés Monostor romjai",
+                  "text": "Die Bencés Monostor romjai sind die Ruinen eines ehemaligen Klosters in Boldva.",
+                  "category": "historical",
+                  "coords": [
+                        20.782493,
+                        48.220306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bencés Monostor romjai",
+                  "text": "A Bencés Monostor romjai egy egykori kolostor maradványai Boldván.",
+                  "category": "historical",
+                  "coords": [
+                        20.782493,
+                        48.220306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bencés Monostor romjai",
+                  "text": "Bencés Monostor romjai sunt ruinele unei foste mănăstiri din Boldva.",
+                  "category": "historical",
+                  "coords": [
+                        20.782493,
+                        48.220306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bencés Monostor romjai",
+                  "text": "The Bencés Monostor romjai are the ruins of a former monastery in Boldva.",
+                  "category": "historical",
+                  "coords": [
+                        20.782493,
+                        48.220306
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Schloss L’Huillier-Coburg", "text": "Eines der größten Barockschlösser Ungarns in Edelény.", "distance": "12 km", "category": "historical"}, {"name": "Miskolc-Tapolca Höhlenbad", "text": "Einzigartiges Thermalbad in einer natürlichen Höhle.", "distance": "22 km", "category": "recreational"}], "hu": [{"name": "Edelényi L’Huillier-Coburg-kastély", "text": "Magyarország egyik legnagyobb és legszebb barokk kastélya.", "distance": "12 km", "category": "historical"}, {"name": "Miskolctapolca Barlangfürdő", "text": "Európában egyedülálló, természetes barlangban kialakított fürdőhely.", "distance": "22 km", "category": "recreational"}], "ro": [{"name": "Castelul L’Huillier-Coburg", "text": "Un superb castel baroc situat în localitatea vecină Edelény.", "distance": "12 km", "category": "historical"}, {"name": "Băile în Peșteră Miskolctapolca", "text": "Un complex balnear unic în Europa, amenajat într-o peșteră naturală.", "distance": "22 km", "category": "recreational"}], "en": [{"name": "L’Huillier-Coburg Castle", "text": "A massive and beautifully restored Baroque palace in Edelény.", "distance": "12 km", "category": "historical"}, {"name": "Miskolctapolca Cave Bath", "text": "A world-famous thermal spa located inside a natural cave system.", "distance": "22 km", "category": "recreational"}]}, "parent": "borsod-abauj-zemplen"},
   {"id": "buzsak", "type": "village", "coords": [17.5841, 46.645], "population": 1350, "name": {"de": "Buzsák", "hu": "Buzsák", "ro": "Buzsák", "en": "Buzsák"}, "descriptionAdvanced": {"de": "Buzsák ist ein malerisches Dorf im Komitat Somogy, südlich des Plattensees, das weit über die Landesgrenzen hinaus für seine lebendige Volkskunst und Traditionen bekannt ist. Die Siedlung hat ihre Wurzeln im Mittelalter und wurde während der Türkenkriege von dalmatinischen Siedlern neu bevölkert, was die lokale Kultur und Architektur nachhaltig prägte. Besonders berühmt ist Buzsák für seine einzigartigen Stickereien, die in drei verschiedenen Stilen („véretes“, „boszorkányos“ und „rátétes“) gefertigt werden und fester Bestandteil der prachtvollen Volkstrachten sind. Im Dorfzentrum lädt ein Heimatmuseum dazu ein, das bäuerliche Leben und die Kunstfertigkeit der Vorfahren kennenzulernen. Ein weiterer wichtiger Bestandteil der Gemeinde ist Csisztapuszta, wo bei Ölbohrungen zufällig heilkräftiges Thermalwasser entdeckt wurde. Heute zieht das Csiszta-Bad zahlreiche Besucher an, die Heilung für rheumatische Beschwerden suchen. Die Umgebung ist geprägt von Weinbergen und der unberührten Natur des Nagyberek, was Buzsák zu einem idealen Ziel für Kulturliebhaber und Erholungssuchende macht.", "hu": "Buzsák a Somogyi-dombság és a Nagyberek találkozásánál fekvő település, amely a magyar népművészet egyik legfontosabb és legélőbb központja. A falu híressé vált egyedi hímzésvilágáról, amely három jellegzetes technikát – a véretest, a boszorkányost és a rátétest – foglal magában, és amelyeket a mai napig aktívan művelnek a helyi asszonyok. Buzsák története az Árpád-korig nyúlik vissza, de a török hódoltság utáni betelepítések során érkező dalmát lakosság sajátos színt vitt a helyi kultúrába, ami a népviseletben és a vallási szokásokban is megmutatkozik. A faluban található Tájház és a népművészeti bolt hűen őrzi a múlt emlékeit, míg a Fehér Kápolna a szőlőhegyen a környék egyik legszebb barokk emléke. A településhez tartozó Csisztapuszta gyógyfürdője országos hírű, vize kiválóan alkalmas mozgásszervi panaszok kezelésére. A falusi vendéglátás, a hagyományos somogyi ételek és a helyi borok teszik teljessé az ide látogatók élményét, akik a berek csendjében találhatnak feltöltődést.", "ro": "Buzsák este un sat pitoresc din județul Somogy, situat la sud de lacul Balaton, renumit la nivel național pentru conservarea excepțională a artei populare și a tradițiilor secuiești și dalmate. Localitatea este faimoasă pentru broderiile sale unice, realizate în trei stiluri distincte, care împodobesc costumele populare purtate și astăzi la sărbători. Istoria satului este bogată, fiind influențată de coloniștii care s-au stabilit aici după perioada ocupației otomane, aducând cu ei tehnici specifice de construcție și decorare. Centrul satului găzduiește o Casă Regională (tájház) care funcționează ca muzeu, prezentând interiorul unei gospodării tradiționale și instrumentele folosite în meșteșugurile locale. O componentă esențială a economiei locale este turismul balnear, concentrat în satul aparținător Csisztapuszta, unde apele termale sulfuroase atrag vizitatori pentru tratamente terapeutice. Peisajul din jur este dominat de podgorii și de zonele mlăștinoase din Nagyberek, oferind oportunități excelente pentru drumeții și observarea păsărilor, într-un cadru rural autentic.", "en": "Buzsák is a charming village in Somogy County, located just south of Lake Balaton, widely recognized as one of Hungary's most significant centers for traditional folk art. The village is particularly famous for its intricate embroidery styles, which come in three distinct varieties: the red-and-blue 'véretes', the colorful 'boszorkányos', and the unique appliqué 'rátétes'. These patterns are not only preserved in museums but remain a living part of the community's identity. Historically, the village saw a wave of Dalmatian settlers after the Ottoman era, which contributed to its unique architectural and cultural heritage. The local Heritage House offers a deep dive into the peasant life of past centuries, showcasing beautifully carved furniture and textiles. Additionally, the village is home to the Csiszta Spa in Csisztapuszta, a popular thermal bath that originated from accidental oil exploration. Surrounded by the rolling hills of Somogy and the wildlife-rich wetlands of Nagyberek, Buzsák provides a perfect blend of cultural immersion, historical exploration, and natural relaxation for its visitors."}, "factsAdvanced": {"de": ["Berühmt für drei verschiedene Stickereistile.", "Die Weiße Kapelle auf dem Weinberg wurde 1733 erbaut.", "Csisztapuszta gehört administrativ zu Buzsák.", "Das Dorf feiert jährlich das Buzsáker Kirmesfest im August.", "Dalmatinische Siedler prägten die Architektur des 18. Jahrhunderts.", "Das Thermalwasser in Csiszta ist besonders reich an Schwefel."], "hu": ["A falu háromféle hímzése hungarikum-várományos.", "A szőlőhegyi Fehér Kápolna 1733-ban épült.", "Csisztapuszta közigazgatásilag Buzsák része.", "Minden év augusztusában megrendezik a Buzsáki Búcsút.", "A török kor után dalmát telepesek érkeztek a faluba.", "A csisztai gyógyvíz ásványianyag-tartalma kiemelkedően magas."], "ro": ["Satul este celebru pentru cele trei stiluri de broderie locală.", "Capela Albă de pe dealul viilor datează din anul 1733.", "Csisztapuszta aparține administrativ de comuna Buzsák.", "Festivalul Folcloric din Buzsák are loc anual în luna august.", "Coloniștii dalmați au influențat arhitectura locală în secolul XVIII.", "Apa termală din Csiszta este extrem de bogată în sulf și minerale."], "en": ["Famous for three distinct types of traditional embroidery.", "The White Chapel on the vineyard hill was built in 1733.", "Csisztapuszta is administratively part of the village of Buzsák.", "The Buzsák Folk Festival is held every year in August.", "Dalmatian settlers influenced the local culture after the Ottoman wars.", "The thermal water in nearby Csiszta is exceptionally high in mineral content."]}, "faq": {"de": [{"q": "Wo kann man die berühmten Stickereien kaufen?", "a": "Im örtlichen Heimatmuseum und in kleinen Kunsthandwerksläden im Dorf."}, {"q": "Wie weit ist das Csiszta-Bad entfernt?", "a": "Es liegt etwa 5 km vom Dorfzentrum entfernt und ist gut ausgeschildert."}, {"q": "Gibt es geführte Touren?", "a": "Auf Anfrage werden im Tájház Führungen zur Dorfgeschichte angeboten."}, {"q": "Wann ist die beste Reisezeit?", "a": "Der Sommer ist ideal wegen der Feste und des Badebetriebs."}], "hu": [{"q": "Hol vásárolhatók meg a helyi hímzések?", "a": "A Tájházban és a faluban található népművészeti boltban."}, {"q": "Milyen messze van a Csiszta-fürdő?", "a": "Körülbelül 5 km-re fekszik a falu központjától, aszfaltozott úton elérhető."}, {"q": "Vannak-e szervezett programok?", "a": "Igen, a Tájházban rendszeresen tartanak hímzésbemutatókat és táncházakat."}, {"q": "Mikor érdemes ellátogatni Buzsákra?", "a": "Az augusztusi búcsú idején a legélénkebb a kulturális élet."}], "ro": [{"q": "De unde pot cumpăra broderii autentice?", "a": "De la Casa Regională (Tájház) și din magazinele de artizanat din sat."}, {"q": "Cât de departe sunt Băile Csiszta?", "a": "Se află la aproximativ 5 km de centrul satului, fiind accesibile cu mașina."}, {"q": "Există ghidaj pentru turiști?", "a": "La muzeul local se oferă informații detaliate despre istoria și tradițiile satului."}, {"q": "Care este cea mai bună perioadă pentru vizită?", "a": "Luna august, în timpul marilor sărbători folclorice locale."}], "en": [{"q": "Where can I buy the famous embroideries?", "a": "At the local Heritage House and in small craft shops throughout the village."}, {"q": "How far is the Csiszta Spa?", "a": "It is located about 5 km from the village center and is easily accessible by car."}, {"q": "Are there guided tours available?", "a": "Guided tours focusing on folk traditions are available at the Heritage House."}, {"q": "What is the best time to visit?", "a": "August is the best time, especially during the annual village festival."}]}, "sights": {
       "de": [
@@ -929,6 +3411,51 @@ export const poiExtraHuV4: POI[] = [
                         16.510876,
                         47.355742
                   ]
+            },
+            {
+                  "name": "Kőszegi Tájvédelmi Körzet",
+                  "text": "Das Landschaftsschutzgebiet Kőszeg ist ein Naturschutzgebiet bei Cák, das zum Schutz der Naturschönheiten des Günser Gebirges gegründet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        16.486309,
+                        47.369157
+                  ]
+            },
+            {
+                  "name": "Óház",
+                  "text": "Óház bietet historische Ruinen in der Nähe von Cák.",
+                  "category": "historical",
+                  "coords": [
+                        16.50318,
+                        47.381482
+                  ]
+            },
+            {
+                  "name": "Irány-hegy",
+                  "text": "Irány-hegy ist ein Berggipfel in der Nähe von Cák.",
+                  "category": "landmark",
+                  "coords": [
+                        16.494182,
+                        47.377518
+                  ]
+            },
+            {
+                  "name": "Kőszegdoroszlói evangélikus templom",
+                  "text": "Die evangelische Kirche von Kőszegdoroszló ist ein Gotteshaus in der Nähe von Cák.",
+                  "category": "religious",
+                  "coords": [
+                        16.538969,
+                        47.347894
+                  ]
+            },
+            {
+                  "name": "Vörös-kereszt",
+                  "text": "Vörös-kereszt ist eine lokale Attraktion in Cák.",
+                  "category": "landmark",
+                  "coords": [
+                        16.491214,
+                        47.374022
+                  ]
             }
       ],
       "hu": [
@@ -941,6 +3468,51 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.510876,
                         47.355742
+                  ]
+            },
+            {
+                  "name": "Kőszegi Tájvédelmi Körzet",
+                  "text": "A Kőszegi Tájvédelmi Körzet a Kőszegi-hegység természeti értékeit óvó, Cákhoz közeli természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        16.486309,
+                        47.369157
+                  ]
+            },
+            {
+                  "name": "Óház",
+                  "text": "Az Óház történelmi romokat rejt Cák közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.50318,
+                        47.381482
+                  ]
+            },
+            {
+                  "name": "Irány-hegy",
+                  "text": "Az Irány-hegy egy hegycsúcs Cák szomszédságában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.494182,
+                        47.377518
+                  ]
+            },
+            {
+                  "name": "Kőszegdoroszlói evangélikus templom",
+                  "text": "A kőszegdoroszlói evangélikus templom egy istentiszteleti hely Cák közelében.",
+                  "category": "religious",
+                  "coords": [
+                        16.538969,
+                        47.347894
+                  ]
+            },
+            {
+                  "name": "Vörös-kereszt",
+                  "text": "A Vörös-kereszt egy helyi látványosság Cák településen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.491214,
+                        47.374022
                   ]
             }
       ],
@@ -955,6 +3527,51 @@ export const poiExtraHuV4: POI[] = [
                         16.510876,
                         47.355742
                   ]
+            },
+            {
+                  "name": "Kőszegi Tájvédelmi Körzet",
+                  "text": "Aria de Protecție a Peisajului Kőszeg este o rezervație naturală lângă Cák, înființată pentru a proteja frumusețea Munților Kőszeg.",
+                  "category": "natural",
+                  "coords": [
+                        16.486309,
+                        47.369157
+                  ]
+            },
+            {
+                  "name": "Óház",
+                  "text": "Óház prezintă ruine istorice situate în apropiere de Cák.",
+                  "category": "historical",
+                  "coords": [
+                        16.50318,
+                        47.381482
+                  ]
+            },
+            {
+                  "name": "Irány-hegy",
+                  "text": "Irány-hegy este un vârf montan situat în vecinătatea localității Cák.",
+                  "category": "landmark",
+                  "coords": [
+                        16.494182,
+                        47.377518
+                  ]
+            },
+            {
+                  "name": "Kőszegdoroszlói evangélikus templom",
+                  "text": "Biserica luterană din Kőszegdoroszló este un lăcaș de cult situat lângă Cák.",
+                  "category": "religious",
+                  "coords": [
+                        16.538969,
+                        47.347894
+                  ]
+            },
+            {
+                  "name": "Vörös-kereszt",
+                  "text": "Vörös-kereszt este o atracție locală situată în Cák.",
+                  "category": "landmark",
+                  "coords": [
+                        16.491214,
+                        47.374022
+                  ]
             }
       ],
       "en": [
@@ -967,6 +3584,51 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.510876,
                         47.355742
+                  ]
+            },
+            {
+                  "name": "Kőszegi Tájvédelmi Körzet",
+                  "text": "The Kőszeg Landscape Protection Area is a nature reserve near Cák, established to protect the natural beauty of the Kőszeg Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        16.486309,
+                        47.369157
+                  ]
+            },
+            {
+                  "name": "Óház",
+                  "text": "Óház features historic ruins located near Cák.",
+                  "category": "historical",
+                  "coords": [
+                        16.50318,
+                        47.381482
+                  ]
+            },
+            {
+                  "name": "Irány-hegy",
+                  "text": "Irány-hegy is a mountain peak situated in the vicinity of Cák.",
+                  "category": "landmark",
+                  "coords": [
+                        16.494182,
+                        47.377518
+                  ]
+            },
+            {
+                  "name": "Kőszegdoroszlói evangélikus templom",
+                  "text": "The Kőszegdoroszló Lutheran church is a place of worship near Cák.",
+                  "category": "religious",
+                  "coords": [
+                        16.538969,
+                        47.347894
+                  ]
+            },
+            {
+                  "name": "Vörös-kereszt",
+                  "text": "Vörös-kereszt is a local attraction located in Cák.",
+                  "category": "landmark",
+                  "coords": [
+                        16.491214,
+                        47.374022
                   ]
             }
       ]
@@ -994,6 +3656,15 @@ export const poiExtraHuV4: POI[] = [
                         22.432864,
                         48.150758
                   ]
+            },
+            {
+                  "name": "Református látogatóközpont",
+                  "text": "Ein Besucherzentrum, das die Geschichte und das Erbe der reformierten Kirche in Csaroda erläutert.",
+                  "category": "museum",
+                  "coords": [
+                        22.458815,
+                        48.157762
+                  ]
             }
       ],
       "hu": [
@@ -1017,6 +3688,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         22.432864,
                         48.150758
+                  ]
+            },
+            {
+                  "name": "Református látogatóközpont",
+                  "text": "A csarodai református egyház történetét és örökségét bemutató látogatóközpont.",
+                  "category": "museum",
+                  "coords": [
+                        22.458815,
+                        48.157762
                   ]
             }
       ],
@@ -1042,6 +3722,15 @@ export const poiExtraHuV4: POI[] = [
                         22.432864,
                         48.150758
                   ]
+            },
+            {
+                  "name": "Református látogatóközpont",
+                  "text": "Un centru pentru vizitatori care detaliază istoria și patrimoniul Bisericii Reformate din Csaroda.",
+                  "category": "museum",
+                  "coords": [
+                        22.458815,
+                        48.157762
+                  ]
             }
       ],
       "en": [
@@ -1065,6 +3754,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         22.432864,
                         48.150758
+                  ]
+            },
+            {
+                  "name": "Református látogatóközpont",
+                  "text": "A visitor center detailing the history and heritage of the Reformed Church in Csaroda.",
+                  "category": "museum",
+                  "coords": [
+                        22.458815,
+                        48.157762
                   ]
             }
       ]
@@ -1092,6 +3790,24 @@ export const poiExtraHuV4: POI[] = [
                         16.807445,
                         47.15587
                   ]
+            },
+            {
+                  "name": "Széchenyi-kastély",
+                  "text": "Ein historisches Herrenhaus in Csempeszkopács, das einst der Familie Széchenyi gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        16.823617,
+                        47.138442
+                  ]
+            },
+            {
+                  "name": "Vasúti emlékhely",
+                  "text": "Eine Eisenbahn-Gedenkstätte zur Bewahrung der lokalen Transportgeschichte in Csempeszkopács.",
+                  "category": "landmark",
+                  "coords": [
+                        16.802743,
+                        47.154194
+                  ]
             }
       ],
       "hu": [
@@ -1115,6 +3831,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.807445,
                         47.15587
+                  ]
+            },
+            {
+                  "name": "Széchenyi-kastély",
+                  "text": "A Széchenyi család egykori kastélya Csempeszkopácson.",
+                  "category": "castle",
+                  "coords": [
+                        16.823617,
+                        47.138442
+                  ]
+            },
+            {
+                  "name": "Vasúti emlékhely",
+                  "text": "A helyi közlekedéstörténetet őrző vasúti emlékhely Csempeszkopácson.",
+                  "category": "landmark",
+                  "coords": [
+                        16.802743,
+                        47.154194
                   ]
             }
       ],
@@ -1140,6 +3874,24 @@ export const poiExtraHuV4: POI[] = [
                         16.807445,
                         47.15587
                   ]
+            },
+            {
+                  "name": "Széchenyi-kastély",
+                  "text": "Un conac istoric care a aparținut cândva familiei Széchenyi din Csempeszkopács.",
+                  "category": "castle",
+                  "coords": [
+                        16.823617,
+                        47.138442
+                  ]
+            },
+            {
+                  "name": "Vasúti emlékhely",
+                  "text": "Un loc memorial feroviar care păstrează istoria transportului local în Csempeszkopács.",
+                  "category": "landmark",
+                  "coords": [
+                        16.802743,
+                        47.154194
+                  ]
             }
       ],
       "en": [
@@ -1163,6 +3915,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.807445,
                         47.15587
+                  ]
+            },
+            {
+                  "name": "Széchenyi-kastély",
+                  "text": "A historic manor once belonging to the Széchenyi family in Csempeszkopács.",
+                  "category": "castle",
+                  "coords": [
+                        16.823617,
+                        47.138442
+                  ]
+            },
+            {
+                  "name": "Vasúti emlékhely",
+                  "text": "A railway memorial site preserving local transport history in Csempeszkopács.",
+                  "category": "landmark",
+                  "coords": [
+                        16.802743,
+                        47.154194
                   ]
             }
       ]
@@ -1221,7 +3991,220 @@ export const poiExtraHuV4: POI[] = [
             }
       ]
 }, "nearbySights": {"de": [{"name": "Kunszentmárton Heimatmuseum", "text": "Ein interessantes Museum in der benachbarten Kleinstadt.", "distance": "8 km", "category": "historical"}, {"name": "Tisza-Körös Mündung", "text": "Ein wunderschöner Naturpunkt, wo zwei große Flüsse aufeinandertreffen.", "distance": "15 km", "category": "natural"}], "hu": [{"name": "Kunszentmártoni Helytörténeti Múzeum", "text": "A szomszédos város gazdag múltját bemutató kiállítás egy régi börtönépületben.", "distance": "8 km", "category": "historical"}, {"name": "Tisza-Körös torkolat", "text": "Látványos természeti pont Csongrád közelében, ahol a két folyó találkozik.", "distance": "15 km", "category": "natural"}], "ro": [{"name": "Muzeul din Kunszentmárton", "text": "Colecție de istorie locală situată în clădirea unei foste închisori istorice.", "distance": "8 km", "category": "historical"}, {"name": "Confluența Tisa-Criș", "text": "Punct natural spectaculos unde râul Criș se varsă în Tisa, lângă orașul Csongrád.", "distance": "15 km", "category": "natural"}], "en": [{"name": "Kunszentmárton Local Museum", "text": "A fascinating museum detailing the history of the neighboring market town.", "distance": "8 km", "category": "historical"}, {"name": "Tisza-Körös Confluence", "text": "A scenic natural spot where the two major rivers of the region meet.", "distance": "15 km", "category": "natural"}]}, "parent": "jasz-nagykun-szolnok"},
-  {"id": "csopak", "type": "village", "coords": [17.9255, 46.9744], "population": 1850, "name": {"de": "Csopak", "hu": "Csopak", "ro": "Csopak", "en": "Csopak"}, "descriptionAdvanced": {"de": "Csopak ist eine der elegantesten Gemeinden am Nordufer des Plattensees und das unangefochtene Zentrum der Weinregion Balatonfüred-Csopak. Der Ort ist weltberühmt für seinen Welschriesling (Olaszrizling), der auf den roten Perm-Sandsteinböden der Region eine einzigartige Mineralität und ein feines Mandelaroma entwickelt. Die Geschichte von Csopak reicht bis in die Antike zurück, als hier bereits römische Villen standen. Im Mittelalter war der Ort für seine Wassermühlen am Noszlopy-Bach bekannt, von denen einige heute liebevoll restauriert und für Besucher zugänglich sind. Das Dorfbild wird geprägt von gepflegten Gärten, Villen aus der Zeit der Jahrhundertwende und einer preisgekrönten Strandanlage, die regelmäßig als eine der besten am gesamten See ausgezeichnet wird. Csopak ist nicht nur ein Ziel für Weinliebhaber und Badegäste, sondern auch ein Ausgangspunkt für Wanderungen in das Balaton-Oberland. Die friedliche Atmosphäre und das Bekenntnis zu Qualität und Tradition machen Csopak zu einem Synonym für gehobene Lebensart am Plattensee.", "hu": "Csopak a Balaton-felvidék egyik legnépszerűbb és legigényesebb települése, a Balatonfüred-Csopaki borvidék névadó központja. A község hírnevét elsősorban a kiváló minőségű olaszrizlingnek köszönheti, amely a környék jellegzetes vörös permi homokkő talaján nyeri el egyedi, mandulás zamatát. A település története a római korig nyúlik vissza, de a középkorban is jelentős hely volt, amiről a Noszlopy-patak mentén épült vízimalmok tanúskodnak; ezek közül a Plul-malom ma is látogatható ipartörténeti emlék. Csopak strandja országos hírű, számtalanszor elnyerte a legjobb balatoni strandnak járó kitüntetéseket virágos parkjaival és korszerű szolgáltatásaival. A falu feletti Csákány-hegyi kilátóból lenyűgöző panoráma nyílik a tóra és a környező szőlőskertekre. Csopak nem csupán üdülőhely, hanem az élő hagyományok faluja is, ahol a borászat, a gasztronómia és a természeti értékek tisztelete ötvöződik a modern kényelemmel. A Jazz Csopak és más kulturális rendezvények révén a minőségi szórakozás kedvelőit is ide vonzza a Balaton kapujában fekvő település.", "ro": "Csopak este o localitate de prestigiu situată pe malul nordic al lacului Balaton, fiind inima regiunii viticole Balatonfüred-Csopak. Localitatea este faimoasă la nivel internațional pentru vinurile sale albe, în special Olaszrizling, care capătă un caracter mineral distinct datorită solului roșu din gresie permiară, unic în Ungaria. Istoria satului este legată de prezența numeroaselor mori de apă construite pe pârâul Noszlopy, unele dintre ele fiind restaurate și transformate în muzee tehnice valoroase. Plaja din Csopak este considerată una dintre cele mai bune de pe întreg lacul, primind constant premii pentru curățenie, amenajare peisagistică și infrastructură turistică de top. Dincolo de lac, Csopak oferă acces spre dealurile împădurite ale munților Bakony, unde traseele duc spre puncte de observație precum turnul Csákány-hegyi. Arhitectura locală combină vilele elegante de la sfârșitul secolului al XIX-lea cu casele tradiționale ale viticultorilor, creând o atmosferă de rafinament și autenticitate. Evenimentele culturale și degustările de vinuri organizate în cramele locale fac din Csopak o destinație de nelipsit pentru orice călător care explorează vestul Ungariei.", "en": "Csopak is a premium destination on the northern shore of Lake Balaton, serving as the prestigious center of the Balatonfüred-Csopak wine region. The village is synonymous with world-class white wines, particularly the Olaszrizling (Welschriesling), which owes its unique almond-like finish to the rare red Permian sandstone soil of the surrounding hills. Csopak’s heritage is long and rich, with archaeological evidence of Roman settlement and a medieval history centered around the mills of the Noszlopy Creek; the restored Plul Mill stands as a testament to this industrial past. The local beach is frequently cited as the best on Lake Balaton, praised for its lush green lawns, cleanliness, and extensive family-friendly facilities. For nature enthusiasts, the Csákány-hegy lookout tower provides one of the most comprehensive panoramas of the lake and the Tihany Peninsula. Csopak manages to balance its role as a high-end resort with its authentic village roots, hosting various cultural festivals and maintaining a vibrant winemaking community. It is a place where nature, gastronomy, and architectural beauty meet, offering a sophisticated yet welcoming experience for visitors."}, "factsAdvanced": {"de": ["Zentrum der Weinregion Balatonfüred-Csopak.", "Der Boden besteht aus 250 Millionen Jahre altem roten Sandstein.", "Die Plul-Mühle ist eine funktionsfähige Wassermühle.", "Der Strand gewinnt regelmäßig die 'Blaue Wellen'-Fahne.", "Erste urkundliche Erwähnung im Jahr 1277.", "Heimat des Csopak-Codex, eines strengen Qualitätsversprechens für Weine."], "hu": ["A Balatonfüred-Csopaki borvidék központja.", "Talaja különleges vörös permi homokkő.", "A Plul-malom az utolsó épen maradt vízimalom a faluban.", "A csopaki strand többször volt az 'Év Strandja' a Balatonon.", "Első említése 1277-ből, 'Chupak' néven ismert.", "A falu felett emelkedik a 327 méter magas Csákány-hegy."], "ro": ["Centrul regiunii viticole Balatonfüred-Csopak.", "Solul este format din gresie roșie permiară rară.", "Moara Plul este un monument tehnic funcțional.", "Plaja a fost premiată de numeroase ori ca fiind cea mai bună de pe Balaton.", "Prima mențiune documentară datează din 1277.", "Localitatea este renumită pentru reglementările stricte de calitate a vinului."], "en": ["The focal point of the Balatonfüred-Csopak wine district.", "Features unique red Permian sandstone soil.", "The Plul Mill is a restored 19th-century water mill.", "Regular recipient of the best beach award on Lake Balaton.", "First documented in 1277 as 'Chupak'.", "Home to the Csákány-hegy lookout point with views of Tihany."]}, "faq": {"de": [{"q": "Warum ist der Wein aus Csopak so besonders?", "a": "Wegen des speziellen roten Sandsteinbodens, der dem Olaszrizling eine einzigartige Mineralität verleiht."}, {"q": "Gibt es historische Gebäude in Csopak?", "a": "Ja, insbesondere die restaurierte Plul-Wassermühle und alte Winzerhäuser."}, {"q": "Wie ist der Strand in Csopak?", "a": "Er gilt als einer der am besten ausgestatteten und schönsten Strände am Plattensee."}, {"q": "Gibt es Radwege?", "a": "Ja, der Balaton-Radweg führt direkt durch Csopak."}], "hu": [{"q": "Milyen bort érdemes inni Csopakon?", "a": "Az olaszrizling a falu büszkesége, érdemes a 'Csopak' védjeggyel ellátott borokat keresni."}, {"q": "Látogathatók-e a vízimalmok?", "a": "Igen, a Plul-malom múzeumként üzemel és megtekinthető a működése is."}, {"q": "Milyen szolgáltatások vannak a strandon?", "a": "Vízi sporteszköz-kölcsönző, éttermek, gyermekmedence és óriáscsúszda is található."}, {"q": "Hova lehet túrázni a környéken?", "a": "A Csákány-hegyi kilátóhoz vagy a szomszédos Paloznak irányába is remek utak vezetnek."}], "ro": [{"q": "De ce este faimos vinul din Csopak?", "a": "Datorită solului de gresie roșie care conferă vinului Olaszrizling un gust de migdale."}, {"q": "Putem vizita morile de apă?", "a": "Da, Moara Plul este deschisă publicului ca muzeu al tehnicii populare."}, {"q": "Este plaja din Csopak potrivită pentru familii?", "a": "Da, este renumită pentru spațiile verzi, locurile de joacă și siguranță."}, {"q": "Există evenimente de vară în sat?", "a": "Da, Csopak găzduiește numeroase seri de vin și festivaluri de jazz."}], "en": [{"q": "What is the signature grape of Csopak?", "a": "Olaszrizling (Welschriesling) is the most famous grape variety of the village."}, {"q": "Are there any industrial monuments in the village?", "a": "Yes, the Plul Mill is a significant 19th-century industrial heritage site."}, {"q": "What makes the Csopak beach stand out?", "a": "It is known for its exceptional landscaping, cleanliness, and diverse amenities."}, {"q": "Is Csopak close to Balatonfüred?", "a": "Yes, it is only about 3-4 kilometers away, easily reachable by bike or car."}]}, "sights": {"de": [{"name": "Csopaki borvidék", "text": "Das Herz der Weinregion, bekannt für den Anbau des charakteristischen Olaszrizling.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.97532, 46.991675]}, {"name": "Csopak Strand", "text": "Dieser mehrfach ausgezeichnete Strand in Csopak ist weithin bekannt für seine weitläufigen Grünflächen und seine hervorragende Infrastruktur. Besucher können in einen aktiven, aber dennoch komfortablen Tag eintauchen, der durch umfangreiche Annehmlichkeiten, saftige Liegewiesen und einladendes Wasser besticht. Es lohnt sich, einen ganzen Tag einzuplanen, um dieses erstklassige See-Resort in vollen Zügen zu genießen.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.938152, 46.976873]}, {"name": "Csákány-hegy Aussichtsturm", "text": "Ein hölzerner Turm, der einen spektakulären Panoramablick auf den See bietet.", "category": "natural", "confidence": "high", "source_hint": "known", "coords": [17.885543, 46.952919]}], "hu": [{"name": "Csopaki borvidék", "text": "Az északi part egyik legnevesebb bortermő területe, az olaszrizling hazája.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.97532, 46.991675]}, {"name": "Csopaki strand", "text": "A Csopakon található, többszörösen díjnyertes strand híres hatalmas zöldterületeiről és kiváló infrastruktúrájáról. A látogatók egy aktív, mégis kényelmes napba csöppenhetnek, amelyet kiterjedt szolgáltatások, buja pázsit és hívogató víz jellemez. Érdemes egy egész napot betervezni ide, hogy teljes mértékben kihasználhassuk a tóparti üdülőhely nyújtotta összes lehetőséget.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.938152, 46.976873]}, {"name": "Endrődi Sándor-kilátó", "text": "A Csákány-hegy csúcsán álló kilátó, ahonnan a Tihanyi-félsziget is jól látható.", "category": "natural", "confidence": "high", "source_hint": "known", "coords": [17.885543, 46.952919]}], "ro": [{"name": "Regiunea viticolă Csopak", "text": "Sediul central al districtului viticol, renumit pentru terroir-ul de gresie roșie.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.97532, 46.991675]}, {"name": "Plaja Csopak", "text": "Situată în Csopak, această plajă multipremiată este renumită pentru spațiile sale verzi mari și infrastructura excelentă. Vizitatorii se pot bucura de o zi activă, dar confortabilă, cu facilități extinse, peluze luxuriante și ape primitoare. Planificarea unei zile întregi aici vă asigură că puteți utiliza pe deplin tot ceea ce are de oferit această stațiune de top de pe malul lacului.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.938152, 46.976873]}, {"name": "Turnul Csákány-hegyi", "text": "Punct de belvedere care oferă o vedere de ansamblu asupra estului lacului Balaton.", "category": "natural", "confidence": "high", "source_hint": "known", "coords": [17.885543, 46.952919]}], "en": [{"name": "Csopak Wine Region", "text": "Famous for its high-quality Olaszrizling produced on unique red Permian sandstone soil.", "category": "natural", "confidence": "high", "source_hint": "wiki", "coords": [17.97532, 46.991675]}, {"name": "Csopak Beach", "text": "Located in Csopak, this multiple award-winning beach is renowned for its large green spaces and excellent infrastructure. Visitors can plunge into an active yet comfortable day featuring extensive amenities, lush lawns, and inviting waters. Planning a whole day here ensures you can fully utilize everything this top-tier lakeside resort has to offer.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.938152, 46.976873]}, {"name": "Endrődi Sándor Lookout", "text": "Located on the Csákány hill, offering breathtaking views over the Tihany Peninsula.", "category": "natural", "confidence": "high", "source_hint": "known", "coords": [17.885543, 46.952919]}]}, "nearbySights": {"de": [{"name": "Lóczy-Höhle", "text": "Eine interessante Kalksteinhöhle in Balatonfüred.", "distance": "4 km", "category": "natural"}, {"name": "Veszprém Zoo", "text": "Großer, moderner Zoo in der Stadt der Königinnen.", "distance": "15 km", "category": "recreational"}], "hu": [{"name": "Lóczy-barlang", "text": "Különleges mészkőbarlang Balatonfüred határában.", "distance": "4 km", "category": "natural"}, {"name": "Veszprémi vár", "text": "Történelmi negyed püspöki palotával és kilátással.", "distance": "15 km", "category": "historical"}], "ro": [{"name": "Peștera Lóczy", "text": "O peșteră spectaculoasă situată la marginea orașului Balatonfüred.", "distance": "4 km", "category": "natural"}, {"name": "Castelul din Veszprém", "text": "Un complex istoric situat pe o stâncă înaltă, fostă reședință a reginelor.", "distance": "15 km", "category": "historical"}], "en": [{"name": "Lóczy Cave", "text": "A fascinating cave on the outskirts of neighboring Balatonfüred.", "distance": "4 km", "category": "natural"}, {"name": "Veszprém Castle District", "text": "Historic hilltop district with baroque architecture and museums.", "distance": "15 km", "category": "historical"}]}, "parent": "veszprem"},
+  {"id": "csopak", "type": "village", "coords": [17.9255, 46.9744], "population": 1850, "name": {"de": "Csopak", "hu": "Csopak", "ro": "Csopak", "en": "Csopak"}, "descriptionAdvanced": {"de": "Csopak ist eine der elegantesten Gemeinden am Nordufer des Plattensees und das unangefochtene Zentrum der Weinregion Balatonfüred-Csopak. Der Ort ist weltberühmt für seinen Welschriesling (Olaszrizling), der auf den roten Perm-Sandsteinböden der Region eine einzigartige Mineralität und ein feines Mandelaroma entwickelt. Die Geschichte von Csopak reicht bis in die Antike zurück, als hier bereits römische Villen standen. Im Mittelalter war der Ort für seine Wassermühlen am Noszlopy-Bach bekannt, von denen einige heute liebevoll restauriert und für Besucher zugänglich sind. Das Dorfbild wird geprägt von gepflegten Gärten, Villen aus der Zeit der Jahrhundertwende und einer preisgekrönten Strandanlage, die regelmäßig als eine der besten am gesamten See ausgezeichnet wird. Csopak ist nicht nur ein Ziel für Weinliebhaber und Badegäste, sondern auch ein Ausgangspunkt für Wanderungen in das Balaton-Oberland. Die friedliche Atmosphäre und das Bekenntnis zu Qualität und Tradition machen Csopak zu einem Synonym für gehobene Lebensart am Plattensee.", "hu": "Csopak a Balaton-felvidék egyik legnépszerűbb és legigényesebb települése, a Balatonfüred-Csopaki borvidék névadó központja. A község hírnevét elsősorban a kiváló minőségű olaszrizlingnek köszönheti, amely a környék jellegzetes vörös permi homokkő talaján nyeri el egyedi, mandulás zamatát. A település története a római korig nyúlik vissza, de a középkorban is jelentős hely volt, amiről a Noszlopy-patak mentén épült vízimalmok tanúskodnak; ezek közül a Plul-malom ma is látogatható ipartörténeti emlék. Csopak strandja országos hírű, számtalanszor elnyerte a legjobb balatoni strandnak járó kitüntetéseket virágos parkjaival és korszerű szolgáltatásaival. A falu feletti Csákány-hegyi kilátóból lenyűgöző panoráma nyílik a tóra és a környező szőlőskertekre. Csopak nem csupán üdülőhely, hanem az élő hagyományok faluja is, ahol a borászat, a gasztronómia és a természeti értékek tisztelete ötvöződik a modern kényelemmel. A Jazz Csopak és más kulturális rendezvények révén a minőségi szórakozás kedvelőit is ide vonzza a Balaton kapujában fekvő település.", "ro": "Csopak este o localitate de prestigiu situată pe malul nordic al lacului Balaton, fiind inima regiunii viticole Balatonfüred-Csopak. Localitatea este faimoasă la nivel internațional pentru vinurile sale albe, în special Olaszrizling, care capătă un caracter mineral distinct datorită solului roșu din gresie permiară, unic în Ungaria. Istoria satului este legată de prezența numeroaselor mori de apă construite pe pârâul Noszlopy, unele dintre ele fiind restaurate și transformate în muzee tehnice valoroase. Plaja din Csopak este considerată una dintre cele mai bune de pe întreg lacul, primind constant premii pentru curățenie, amenajare peisagistică și infrastructură turistică de top. Dincolo de lac, Csopak oferă acces spre dealurile împădurite ale munților Bakony, unde traseele duc spre puncte de observație precum turnul Csákány-hegyi. Arhitectura locală combină vilele elegante de la sfârșitul secolului al XIX-lea cu casele tradiționale ale viticultorilor, creând o atmosferă de rafinament și autenticitate. Evenimentele culturale și degustările de vinuri organizate în cramele locale fac din Csopak o destinație de nelipsit pentru orice călător care explorează vestul Ungariei.", "en": "Csopak is a premium destination on the northern shore of Lake Balaton, serving as the prestigious center of the Balatonfüred-Csopak wine region. The village is synonymous with world-class white wines, particularly the Olaszrizling (Welschriesling), which owes its unique almond-like finish to the rare red Permian sandstone soil of the surrounding hills. Csopak’s heritage is long and rich, with archaeological evidence of Roman settlement and a medieval history centered around the mills of the Noszlopy Creek; the restored Plul Mill stands as a testament to this industrial past. The local beach is frequently cited as the best on Lake Balaton, praised for its lush green lawns, cleanliness, and extensive family-friendly facilities. For nature enthusiasts, the Csákány-hegy lookout tower provides one of the most comprehensive panoramas of the lake and the Tihany Peninsula. Csopak manages to balance its role as a high-end resort with its authentic village roots, hosting various cultural festivals and maintaining a vibrant winemaking community. It is a place where nature, gastronomy, and architectural beauty meet, offering a sophisticated yet welcoming experience for visitors."}, "factsAdvanced": {"de": ["Zentrum der Weinregion Balatonfüred-Csopak.", "Der Boden besteht aus 250 Millionen Jahre altem roten Sandstein.", "Die Plul-Mühle ist eine funktionsfähige Wassermühle.", "Der Strand gewinnt regelmäßig die 'Blaue Wellen'-Fahne.", "Erste urkundliche Erwähnung im Jahr 1277.", "Heimat des Csopak-Codex, eines strengen Qualitätsversprechens für Weine."], "hu": ["A Balatonfüred-Csopaki borvidék központja.", "Talaja különleges vörös permi homokkő.", "A Plul-malom az utolsó épen maradt vízimalom a faluban.", "A csopaki strand többször volt az 'Év Strandja' a Balatonon.", "Első említése 1277-ből, 'Chupak' néven ismert.", "A falu felett emelkedik a 327 méter magas Csákány-hegy."], "ro": ["Centrul regiunii viticole Balatonfüred-Csopak.", "Solul este format din gresie roșie permiară rară.", "Moara Plul este un monument tehnic funcțional.", "Plaja a fost premiată de numeroase ori ca fiind cea mai bună de pe Balaton.", "Prima mențiune documentară datează din 1277.", "Localitatea este renumită pentru reglementările stricte de calitate a vinului."], "en": ["The focal point of the Balatonfüred-Csopak wine district.", "Features unique red Permian sandstone soil.", "The Plul Mill is a restored 19th-century water mill.", "Regular recipient of the best beach award on Lake Balaton.", "First documented in 1277 as 'Chupak'.", "Home to the Csákány-hegy lookout point with views of Tihany."]}, "faq": {"de": [{"q": "Warum ist der Wein aus Csopak so besonders?", "a": "Wegen des speziellen roten Sandsteinbodens, der dem Olaszrizling eine einzigartige Mineralität verleiht."}, {"q": "Gibt es historische Gebäude in Csopak?", "a": "Ja, insbesondere die restaurierte Plul-Wassermühle und alte Winzerhäuser."}, {"q": "Wie ist der Strand in Csopak?", "a": "Er gilt als einer der am besten ausgestatteten und schönsten Strände am Plattensee."}, {"q": "Gibt es Radwege?", "a": "Ja, der Balaton-Radweg führt direkt durch Csopak."}], "hu": [{"q": "Milyen bort érdemes inni Csopakon?", "a": "Az olaszrizling a falu büszkesége, érdemes a 'Csopak' védjeggyel ellátott borokat keresni."}, {"q": "Látogathatók-e a vízimalmok?", "a": "Igen, a Plul-malom múzeumként üzemel és megtekinthető a működése is."}, {"q": "Milyen szolgáltatások vannak a strandon?", "a": "Vízi sporteszköz-kölcsönző, éttermek, gyermekmedence és óriáscsúszda is található."}, {"q": "Hova lehet túrázni a környéken?", "a": "A Csákány-hegyi kilátóhoz vagy a szomszédos Paloznak irányába is remek utak vezetnek."}], "ro": [{"q": "De ce este faimos vinul din Csopak?", "a": "Datorită solului de gresie roșie care conferă vinului Olaszrizling un gust de migdale."}, {"q": "Putem vizita morile de apă?", "a": "Da, Moara Plul este deschisă publicului ca muzeu al tehnicii populare."}, {"q": "Este plaja din Csopak potrivită pentru familii?", "a": "Da, este renumită pentru spațiile verzi, locurile de joacă și siguranță."}, {"q": "Există evenimente de vară în sat?", "a": "Da, Csopak găzduiește numeroase seri de vin și festivaluri de jazz."}], "en": [{"q": "What is the signature grape of Csopak?", "a": "Olaszrizling (Welschriesling) is the most famous grape variety of the village."}, {"q": "Are there any industrial monuments in the village?", "a": "Yes, the Plul Mill is a significant 19th-century industrial heritage site."}, {"q": "What makes the Csopak beach stand out?", "a": "It is known for its exceptional landscaping, cleanliness, and diverse amenities."}, {"q": "Is Csopak close to Balatonfüred?", "a": "Yes, it is only about 3-4 kilometers away, easily reachable by bike or car."}]}, "sights": {
+      "de": [
+            {
+                  "name": "Csopaki borvidék",
+                  "text": "Das Herz der Weinregion, bekannt für den Anbau des charakteristischen Olaszrizling.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.97532,
+                        46.991675
+                  ]
+            },
+            {
+                  "name": "Csopak Strand",
+                  "text": "Dieser mehrfach ausgezeichnete Strand in Csopak ist weithin bekannt für seine weitläufigen Grünflächen und seine hervorragende Infrastruktur. Besucher können in einen aktiven, aber dennoch komfortablen Tag eintauchen, der durch umfangreiche Annehmlichkeiten, saftige Liegewiesen und einladendes Wasser besticht. Es lohnt sich, einen ganzen Tag einzuplanen, um dieses erstklassige See-Resort in vollen Zügen zu genießen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.938152,
+                        46.976873
+                  ]
+            },
+            {
+                  "name": "Csákány-hegy Aussichtsturm",
+                  "text": "Ein hölzerner Turm, der einen spektakulären Panoramablick auf den See bietet.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.885543,
+                        46.952919
+                  ]
+            },
+            {
+                  "name": "Péter-hegy",
+                  "text": "Péter-hegy ist ein lokaler Berggipfel in Csopak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.895525,
+                        46.978596
+                  ]
+            },
+            {
+                  "name": "Arácsi Népház",
+                  "text": "Arácsi Népház ist ein regionales Museum und Gemeindehaus in Csopak.",
+                  "category": "museum",
+                  "coords": [
+                        17.896021,
+                        46.971663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Csopaki borvidék",
+                  "text": "Az északi part egyik legnevesebb bortermő területe, az olaszrizling hazája.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.97532,
+                        46.991675
+                  ]
+            },
+            {
+                  "name": "Csopaki strand",
+                  "text": "A Csopakon található, többszörösen díjnyertes strand híres hatalmas zöldterületeiről és kiváló infrastruktúrájáról. A látogatók egy aktív, mégis kényelmes napba csöppenhetnek, amelyet kiterjedt szolgáltatások, buja pázsit és hívogató víz jellemez. Érdemes egy egész napot betervezni ide, hogy teljes mértékben kihasználhassuk a tóparti üdülőhely nyújtotta összes lehetőséget.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.938152,
+                        46.976873
+                  ]
+            },
+            {
+                  "name": "Endrődi Sándor-kilátó",
+                  "text": "A Csákány-hegy csúcsán álló kilátó, ahonnan a Tihanyi-félsziget is jól látható.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.885543,
+                        46.952919
+                  ]
+            },
+            {
+                  "name": "Péter-hegy",
+                  "text": "A Péter-hegy egy helyi hegycsúcs Csopakon.",
+                  "category": "landmark",
+                  "coords": [
+                        17.895525,
+                        46.978596
+                  ]
+            },
+            {
+                  "name": "Arácsi Népház",
+                  "text": "Az Arácsi Népház egy helyi múzeum és közösségi ház Csopakon.",
+                  "category": "museum",
+                  "coords": [
+                        17.896021,
+                        46.971663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Regiunea viticolă Csopak",
+                  "text": "Sediul central al districtului viticol, renumit pentru terroir-ul de gresie roșie.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.97532,
+                        46.991675
+                  ]
+            },
+            {
+                  "name": "Plaja Csopak",
+                  "text": "Situată în Csopak, această plajă multipremiată este renumită pentru spațiile sale verzi mari și infrastructura excelentă. Vizitatorii se pot bucura de o zi activă, dar confortabilă, cu facilități extinse, peluze luxuriante și ape primitoare. Planificarea unei zile întregi aici vă asigură că puteți utiliza pe deplin tot ceea ce are de oferit această stațiune de top de pe malul lacului.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.938152,
+                        46.976873
+                  ]
+            },
+            {
+                  "name": "Turnul Csákány-hegyi",
+                  "text": "Punct de belvedere care oferă o vedere de ansamblu asupra estului lacului Balaton.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.885543,
+                        46.952919
+                  ]
+            },
+            {
+                  "name": "Péter-hegy",
+                  "text": "Péter-hegy este un vârf montan local din Csopak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.895525,
+                        46.978596
+                  ]
+            },
+            {
+                  "name": "Arácsi Népház",
+                  "text": "Arácsi Népház este un muzeu regional și o casă comunitară situată în Csopak.",
+                  "category": "museum",
+                  "coords": [
+                        17.896021,
+                        46.971663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Csopak Wine Region",
+                  "text": "Famous for its high-quality Olaszrizling produced on unique red Permian sandstone soil.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.97532,
+                        46.991675
+                  ]
+            },
+            {
+                  "name": "Csopak Beach",
+                  "text": "Located in Csopak, this multiple award-winning beach is renowned for its large green spaces and excellent infrastructure. Visitors can plunge into an active yet comfortable day featuring extensive amenities, lush lawns, and inviting waters. Planning a whole day here ensures you can fully utilize everything this top-tier lakeside resort has to offer.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.938152,
+                        46.976873
+                  ]
+            },
+            {
+                  "name": "Endrődi Sándor Lookout",
+                  "text": "Located on the Csákány hill, offering breathtaking views over the Tihany Peninsula.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.885543,
+                        46.952919
+                  ]
+            },
+            {
+                  "name": "Péter-hegy",
+                  "text": "Péter-hegy is a local mountain peak found in Csopak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.895525,
+                        46.978596
+                  ]
+            },
+            {
+                  "name": "Arácsi Népház",
+                  "text": "Arácsi Népház is a regional museum and community house located in Csopak.",
+                  "category": "museum",
+                  "coords": [
+                        17.896021,
+                        46.971663
+                  ]
+            }
+      ]
+}, "nearbySights": {"de": [{"name": "Lóczy-Höhle", "text": "Eine interessante Kalksteinhöhle in Balatonfüred.", "distance": "4 km", "category": "natural"}, {"name": "Veszprém Zoo", "text": "Großer, moderner Zoo in der Stadt der Königinnen.", "distance": "15 km", "category": "recreational"}], "hu": [{"name": "Lóczy-barlang", "text": "Különleges mészkőbarlang Balatonfüred határában.", "distance": "4 km", "category": "natural"}, {"name": "Veszprémi vár", "text": "Történelmi negyed püspöki palotával és kilátással.", "distance": "15 km", "category": "historical"}], "ro": [{"name": "Peștera Lóczy", "text": "O peșteră spectaculoasă situată la marginea orașului Balatonfüred.", "distance": "4 km", "category": "natural"}, {"name": "Castelul din Veszprém", "text": "Un complex istoric situat pe o stâncă înaltă, fostă reședință a reginelor.", "distance": "15 km", "category": "historical"}], "en": [{"name": "Lóczy Cave", "text": "A fascinating cave on the outskirts of neighboring Balatonfüred.", "distance": "4 km", "category": "natural"}, {"name": "Veszprém Castle District", "text": "Historic hilltop district with baroque architecture and museums.", "distance": "15 km", "category": "historical"}]}, "parent": "veszprem"},
   {"id": "decs", "type": "village", "coords": [18.7512, 46.2845], "population": 3850, "name": {"de": "Decs", "hu": "Decs", "ro": "Decs", "en": "Decs"}, "descriptionAdvanced": {"de": "Decs ist die Hauptstadt der Sárköz-Region im Komitat Tolna und gilt als eines der wichtigsten Zentren der ungarischen Volkskunst. Das Dorf ist berühmt für seine prachtvollen Trachten, die reichhaltigen Stickereien und die einzigartige Webkunst, die seit Generationen von den Bewohnern gepflegt werden. Die Geschichte von Decs ist geprägt von der Nähe zur Donau und den ehemaligen Überschwemmungsgebieten, die das Leben und die Kultur der Sárköz-Menschen nachhaltig beeinflussten. Das Sárköz-Heimatmuseum in Decs bietet einen tiefen Einblick in diese Traditionen, zeigt handgefertigte Textilien und dokumentiert die spezielle soziale Struktur des Dorfes. Die Architektur des Ortes ist durch stattliche Bauernhäuser und die reformierte Kirche im Zentrum gekennzeichnet. Decs ist nicht nur ein Ort des Handwerks, sondern auch der Gastronomie; der Sárközer Wein und die traditionellen Hochzeitsgerichte sind landesweit bekannt. Die Region Sárköz ist Teil des UNESCO-Kulturerbes, und Decs steht stolz als Wächter dieser lebendigen ungarischen Identität.", "hu": "Decs a Tolna vármegyei Sárköz központja, a magyar népművészet egyik legfontosabb fellegvára. A település neve elválaszthatatlan a sárközi hímzéstől, a díszes szőttesektől és a páratlanul gazdag népviselettől, amely a 19. századi polgárosodás során érte el legpompásabb formáját. Decs történetét a Duna közelsége és az ármentesítés előtti vizes világ határozta meg, ami a helyiek gondolkodásmódjában és művészetében is nyomot hagyott. A Decsi Sárközi Tájház a régió legjelentősebb gyűjteménye, ahol a látogatók megismerhetik a sárközi lakodalmas szokásokat és a textilfestés titkait. A község református temploma a közösségi élet spirituális központja, amelynek falai között fontos történelmi események zajlottak. A település híres bortermeléséről is, a szekszárdi borvidék részeként kiváló vörösborokkal büszkélkedhet. Decs ma is élő hagyományőrző közösség, ahol a fiatalok is büszkén viselik a hagyományos viseletet az ünnepek alkalmával, megőrizve a Sárköz szellemi örökségét.", "ro": "Decs este „capitala” regiunii Sárköz din județul Tolna, fiind recunoscută ca unul dintre cele mai importante centre ale artei populare maghiare. Satul este faimos pentru broderiile sale extrem de elaborate, țesăturile colorate și costumele populare spectaculoase, care reflectă bogăția și statutul social al locuitorilor de odinioară. Istoria localității a fost modelată de proximitatea Dunării, viața comunității fiind strâns legată de zonele inundabile înainte de marile lucrări de asanare din secolul al XIX-lea. Casa Regională din Decs (Sárközi tájház) funcționează ca un muzeu esențial, prezentând interioare tradiționale și tehnici de cusut transmise din generație în generație. Pe lângă patrimoniul textil, Decs este cunoscut și pentru viticultură, făcând parte din renumita regiune viticolă Szekszárd. Biserica reformată din centrul satului este un monument arhitectural valoros, martor al istoriei religioase a zonei. Vizitarea localității Decs oferă o incursiune rară într-o cultură populară vie, protejată de UNESCO, unde ospitalitatea și mândria locală sunt la loc de cinste.", "en": "Decs is the cultural heart of the Sárköz region in Tolna County, celebrated as a primary bastion of Hungarian folk art. The village is internationally renowned for its incredibly ornate traditional costumes, intricate embroideries, and unique weaving techniques that flourished during the 19th century. Historically, the life in Decs was dictated by the floodplains of the Danube, creating a unique environment that fostered a distinct local identity and artistic style. The Sárköz Heritage House in Decs is a must-visit, showcasing a vast collection of textiles, painted furniture, and artifacts that tell the story of the local peasantry's wealth and craftsmanship. The village's Reformed Church stands as a significant historical landmark in the center. Decs is also integrated into the Szekszárd wine region, producing high-quality red wines that complement the rich local culinary traditions, including famous wedding feasts. Today, Decs remains a vibrant community where folk traditions are not just preserved in museums but are actively practiced during festivals, making it a living monument of Hungarian cultural heritage."}, "factsAdvanced": {"de": ["Inoffizielle Hauptstadt der Sárköz-Region.", "Die Trachten gehören zum UNESCO-Weltkulturerbe.", "Berühmt für die fünf-farbige Sárköz-Stickerei.", "Das Dorf liegt am Rande des Nationalparks Donau-Drau.", "Die reformierte Kirche hat mittelalterliche Ursprünge.", "Decs ist bekannt für seine traditionsreichen Hochzeiten."], "hu": ["A Sárköz nem hivatalos fővárosa.", "A sárközi népművészet a Szellemi Kulturális Örökség része.", "Híres az ötszínű sárközi hímzésről és a szőttesekről.", "A település a Duna-Dráva Nemzeti Park határán fekszik.", "A református templom gótikus eredetű, később átépítették.", "Decs a szekszárdi borvidék egyik fontos települése."], "ro": ["Capitala neoficială a regiunii etnografice Sárköz.", "Arta populară din Sárköz este inclusă în patrimoniul UNESCO.", "Celebră pentru broderiile în cinci culori și țesăturile fine.", "Satul se află la marginea Parcului Național Dunăre-Drava.", "Biserica reformată are origini gotice și o istorie bogată.", "Decs este renumit pentru tradițiile sale de nuntă grandioase."], "en": ["The unofficial capital of the Sárköz ethnographic region.", "Sárköz folk art is part of the UNESCO Intangible Cultural Heritage.", "Famous for unique five-colored embroidery and woven textiles.", "The village is located on the edge of the Danube-Drava National Park.", "The Reformed Church has Gothic roots with later modifications.", "Decs is a prominent location within the Szekszárd wine district."]}, "faq": {"de": [{"q": "Wo kann man Sárközer Textilien kaufen?", "a": "Im Tájház und bei den lokalen Kunsthandwerkern im Dorf."}, {"q": "Wann ist das Sárköz-Festival?", "a": "Große Feierlichkeiten finden meist im Sommer und bei Erntefesten statt."}, {"q": "Gibt es Weinproben in Decs?", "a": "Ja, mehrere lokale Winzer bieten Verkostungen an."}, {"q": "Ist das Heimatmuseum täglich geöffnet?", "a": "Ja, in der Saison meist täglich, außer montags."}], "hu": [{"q": "Hol lehet eredeti sárközi hímzést venni?", "a": "A Decsi Tájházban és a helyi népművészeknél."}, {"q": "Mikor tartják a Sárközi lakodalmat?", "a": "Rendszeresen szerveznek hagyományőrző bemutatókat a nyári szezonban."}, {"q": "Vannak borpincék Decsen?", "a": "Igen, a szekszárdi borvidék részeként több pincészet is látogatható."}, {"q": "Hogyan közelíthető meg Decs?", "a": "Szekszárdról busszal vagy vonattal is könnyen elérhető."}], "ro": [{"q": "De unde pot cumpăra broderii de Sárköz?", "a": "De la Casa Regională și direct de la meșterii populari din sat."}, {"q": "Există degustări de vin în Decs?", "a": "Da, localitatea are mai mulți producători de vin de Szekszárd."}, {"q": "Când au loc festivalurile folclorice?", "a": "Cele mai importante evenimente sunt vara și în perioada recoltării viilor."}, {"q": "Muzeul satului este deschis zilnic?", "a": "În sezonul turistic este deschis de marți până duminică."}], "en": [{"q": "Where can I buy original Sárköz embroidery?", "a": "At the Decs Heritage House and from local artisans."}, {"q": "Are there wine cellars to visit in Decs?", "a": "Yes, as part of the Szekszárd region, there are several visitable wineries."}, {"q": "When is the best time for folk festivals?", "a": "Summer and the autumn harvest season are the most active times."}, {"q": "How can I reach Decs?", "a": "It is easily accessible from Szekszárd by bus or regional train."}]}, "sights": {
       "de": [
             {
@@ -1356,6 +4339,78 @@ export const poiExtraHuV4: POI[] = [
                         18.8935,
                         47.7376
                   ]
+            },
+            {
+                  "name": "Prédikálószék-kilátó",
+                  "text": "Der Prédikálószék-kilátó ist ein Aussichtspunkt in Dömös mit herrlichem Blick.",
+                  "category": "natural",
+                  "coords": [
+                        18.920497,
+                        47.73944
+                  ]
+            },
+            {
+                  "name": "late Roman fortlet Visegrád–Gizellamajor",
+                  "text": "Das spätrömische Kleinkastell Visegrád-Gizellamajor ist eine bedeutende archäologische Stätte bei Dömös.",
+                  "category": "historical",
+                  "coords": [
+                        18.930568,
+                        47.760769
+                  ]
+            },
+            {
+                  "name": "Szekrény-hegy",
+                  "text": "Der Szekrény-hegy ist ein Berggipfel in der Umgebung von Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.88054,
+                        47.770006
+                  ]
+            },
+            {
+                  "name": "Prépost-hegy",
+                  "text": "Prépost-hegy ist eine Erhebung in der Nähe der Ortschaft Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.898516,
+                        47.755175
+                  ]
+            },
+            {
+                  "name": "Vörös-hegy",
+                  "text": "Der Vörös-hegy ist ein lokaler Berggipfel bei Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.887037,
+                        47.757594
+                  ]
+            },
+            {
+                  "name": "Ördög-hegy",
+                  "text": "Ördög-hegy ist ein Hügel und markanter Gipfel in Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92946,
+                        47.771095
+                  ]
+            },
+            {
+                  "name": "Vadálló-kövek",
+                  "text": "Die Vadálló-kövek sind eine bekannte Naturattraktion und Felsformation in Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.912313,
+                        47.740374
+                  ]
+            },
+            {
+                  "name": "LIMES Pannónia, római őrtorony",
+                  "text": "Dieser römische Wachturm am Pannonischen Limes ist eine historische Attraktion in Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.901537,
+                        47.79064
+                  ]
             }
       ],
       "hu": [
@@ -1368,6 +4423,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.8935,
                         47.7376
+                  ]
+            },
+            {
+                  "name": "Prédikálószék-kilátó",
+                  "text": "A Prédikálószék-kilátó egy kilátópont Dömösön, amely csodálatos panorámát nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.920497,
+                        47.73944
+                  ]
+            },
+            {
+                  "name": "late Roman fortlet Visegrád–Gizellamajor",
+                  "text": "A késő római Visegrád-Gizellamajor erődítmény egy jelentős régészeti lelőhely Dömös közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.930568,
+                        47.760769
+                  ]
+            },
+            {
+                  "name": "Szekrény-hegy",
+                  "text": "A Szekrény-hegy egy hegycsúcs Dömös környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.88054,
+                        47.770006
+                  ]
+            },
+            {
+                  "name": "Prépost-hegy",
+                  "text": "A Prépost-hegy egy magaslat Dömös településének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.898516,
+                        47.755175
+                  ]
+            },
+            {
+                  "name": "Vörös-hegy",
+                  "text": "A Vörös-hegy egy helyi hegycsúcs Dömös mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        18.887037,
+                        47.757594
+                  ]
+            },
+            {
+                  "name": "Ördög-hegy",
+                  "text": "Az Ördög-hegy egy jellegzetes hegycsúcs Dömös közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92946,
+                        47.771095
+                  ]
+            },
+            {
+                  "name": "Vadálló-kövek",
+                  "text": "A Vadálló-kövek egy ismert természeti látványosság és sziklaalakzat Dömös területén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.912313,
+                        47.740374
+                  ]
+            },
+            {
+                  "name": "LIMES Pannónia, római őrtorony",
+                  "text": "Ez a pannóniai limesen található római őrtorony történelmi látványosság Dömösön.",
+                  "category": "landmark",
+                  "coords": [
+                        18.901537,
+                        47.79064
                   ]
             }
       ],
@@ -1382,6 +4509,78 @@ export const poiExtraHuV4: POI[] = [
                         18.8935,
                         47.7376
                   ]
+            },
+            {
+                  "name": "Prédikálószék-kilátó",
+                  "text": "Prédikálószék-kilátó este un punct de belvedere din Dömös, cu o priveliște minunată.",
+                  "category": "natural",
+                  "coords": [
+                        18.920497,
+                        47.73944
+                  ]
+            },
+            {
+                  "name": "late Roman fortlet Visegrád–Gizellamajor",
+                  "text": "Micul castru roman târziu Visegrád-Gizellamajor este un important sit arheologic de lângă Dömös.",
+                  "category": "historical",
+                  "coords": [
+                        18.930568,
+                        47.760769
+                  ]
+            },
+            {
+                  "name": "Szekrény-hegy",
+                  "text": "Szekrény-hegy este un vârf de munte situat în împrejurimile orașului Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.88054,
+                        47.770006
+                  ]
+            },
+            {
+                  "name": "Prépost-hegy",
+                  "text": "Prépost-hegy este un vârf muntos din apropierea localității Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.898516,
+                        47.755175
+                  ]
+            },
+            {
+                  "name": "Vörös-hegy",
+                  "text": "Vörös-hegy este un vârf de munte local situat lângă Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.887037,
+                        47.757594
+                  ]
+            },
+            {
+                  "name": "Ördög-hegy",
+                  "text": "Ördög-hegy este un vârf muntos și un deal proeminent din Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92946,
+                        47.771095
+                  ]
+            },
+            {
+                  "name": "Vadálló-kövek",
+                  "text": "Vadálló-kövek sunt o atracție naturală și o formațiune stâncoasă renumită din Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.912313,
+                        47.740374
+                  ]
+            },
+            {
+                  "name": "LIMES Pannónia, római őrtorony",
+                  "text": "Acest turn de veghe roman de pe Limesul Panonic este o atracție istorică în Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.901537,
+                        47.79064
+                  ]
             }
       ],
       "en": [
@@ -1394,6 +4593,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.8935,
                         47.7376
+                  ]
+            },
+            {
+                  "name": "Prédikálószék-kilátó",
+                  "text": "Prédikálószék-kilátó is a viewpoint in Dömös offering a wonderful panoramic view.",
+                  "category": "natural",
+                  "coords": [
+                        18.920497,
+                        47.73944
+                  ]
+            },
+            {
+                  "name": "late Roman fortlet Visegrád–Gizellamajor",
+                  "text": "The late Roman fortlet Visegrád-Gizellamajor is a significant archaeological site near Dömös.",
+                  "category": "historical",
+                  "coords": [
+                        18.930568,
+                        47.760769
+                  ]
+            },
+            {
+                  "name": "Szekrény-hegy",
+                  "text": "Szekrény-hegy is a mountain peak located in the vicinity of Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.88054,
+                        47.770006
+                  ]
+            },
+            {
+                  "name": "Prépost-hegy",
+                  "text": "Prépost-hegy is a peak near the settlement of Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.898516,
+                        47.755175
+                  ]
+            },
+            {
+                  "name": "Vörös-hegy",
+                  "text": "Vörös-hegy is a local mountain peak situated near Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.887037,
+                        47.757594
+                  ]
+            },
+            {
+                  "name": "Ördög-hegy",
+                  "text": "Ördög-hegy is a prominent hill and peak located in Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92946,
+                        47.771095
+                  ]
+            },
+            {
+                  "name": "Vadálló-kövek",
+                  "text": "The Vadálló-kövek are a renowned natural attraction and rock formation in Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.912313,
+                        47.740374
+                  ]
+            },
+            {
+                  "name": "LIMES Pannónia, római őrtorony",
+                  "text": "This Roman watchtower on the Pannonian Limes is a historic attraction in Dömös.",
+                  "category": "landmark",
+                  "coords": [
+                        18.901537,
+                        47.79064
                   ]
             }
       ]
@@ -1410,6 +4681,33 @@ export const poiExtraHuV4: POI[] = [
                         19.036801,
                         48.01585
                   ]
+            },
+            {
+                  "name": "Szondi kiállítóterem",
+                  "text": "Szondi kiállítóterem ist ein Museum in Drégelypalánk für historische Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        19.052328,
+                        48.050122
+                  ]
+            },
+            {
+                  "name": "Szondi-kápolna",
+                  "text": "Szondi-kápolna stellt die historischen Ruinen einer Kapelle in Drégelypalánk dar.",
+                  "category": "historical",
+                  "coords": [
+                        19.029986,
+                        48.046079
+                  ]
+            },
+            {
+                  "name": "Magasleselkedő",
+                  "text": "Magasleselkedő ist ein Vogelbeobachtungsstand in Drégelypalánk.",
+                  "category": "landmark",
+                  "coords": [
+                        19.039185,
+                        48.064532
+                  ]
             }
       ],
       "hu": [
@@ -1422,6 +4720,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.036801,
                         48.01585
+                  ]
+            },
+            {
+                  "name": "Szondi kiállítóterem",
+                  "text": "A Szondi kiállítóterem egy helytörténeti és emlékmúzeum Drégelypalánkon.",
+                  "category": "museum",
+                  "coords": [
+                        19.052328,
+                        48.050122
+                  ]
+            },
+            {
+                  "name": "Szondi-kápolna",
+                  "text": "A Szondi-kápolna egy történelmi kápolnarom Drégelypalánk határában.",
+                  "category": "historical",
+                  "coords": [
+                        19.029986,
+                        48.046079
+                  ]
+            },
+            {
+                  "name": "Magasleselkedő",
+                  "text": "A Magasleselkedő egy madármegfigyelő leshely Drégelypalánkon.",
+                  "category": "landmark",
+                  "coords": [
+                        19.039185,
+                        48.064532
                   ]
             }
       ],
@@ -1436,6 +4761,33 @@ export const poiExtraHuV4: POI[] = [
                         19.036801,
                         48.01585
                   ]
+            },
+            {
+                  "name": "Szondi kiállítóterem",
+                  "text": "Szondi kiállítóterem este un muzeu din Drégelypalánk dedicat expozițiilor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        19.052328,
+                        48.050122
+                  ]
+            },
+            {
+                  "name": "Szondi-kápolna",
+                  "text": "Szondi-kápolna reprezintă ruinele istorice ale unei capele din Drégelypalánk.",
+                  "category": "historical",
+                  "coords": [
+                        19.029986,
+                        48.046079
+                  ]
+            },
+            {
+                  "name": "Magasleselkedő",
+                  "text": "Magasleselkedő este un observator de păsări care oferă oportunități de observare a naturii în Drégelypalánk.",
+                  "category": "landmark",
+                  "coords": [
+                        19.039185,
+                        48.064532
+                  ]
             }
       ],
       "en": [
@@ -1448,6 +4800,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.036801,
                         48.01585
+                  ]
+            },
+            {
+                  "name": "Szondi kiállítóterem",
+                  "text": "Szondi kiállítóterem is a museum in Drégelypalánk dedicated to historical exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        19.052328,
+                        48.050122
+                  ]
+            },
+            {
+                  "name": "Szondi-kápolna",
+                  "text": "Szondi-kápolna represents the historical ruins of a chapel located in Drégelypalánk.",
+                  "category": "historical",
+                  "coords": [
+                        19.029986,
+                        48.046079
+                  ]
+            },
+            {
+                  "name": "Magasleselkedő",
+                  "text": "Magasleselkedő is a bird hide providing nature observation opportunities in Drégelypalánk.",
+                  "category": "landmark",
+                  "coords": [
+                        19.039185,
+                        48.064532
                   ]
             }
       ]
@@ -1475,6 +4854,69 @@ export const poiExtraHuV4: POI[] = [
                         20.33602,
                         47.85405
                   ]
+            },
+            {
+                  "name": "Barlanglakások",
+                  "text": "Barlanglakások besteht aus historischen Höhlenwohnungsruinen in Egerszalók.",
+                  "category": "historical",
+                  "coords": [
+                        20.332806,
+                        47.867743
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Menyecske-hegy",
+                  "text": "Kaptárkő - Menyecske-hegy bietet als lokaler Aussichtspunkt in Egerszalók malerische Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        20.339933,
+                        47.858219
+                  ]
+            },
+            {
+                  "name": "Egerszalók Gyógy- és Wellnessfürdő",
+                  "text": "Egerszalók Gyógy- és Wellnessfürdő ist ein beliebter Wasserpark und ein Spa in Egerszalók.",
+                  "category": "recreational",
+                  "coords": [
+                        20.334594,
+                        47.85416
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Betyárbújó, Öreg-hegy",
+                  "text": "Kaptárkő - Betyárbújó, Öreg-hegy ist eine markante natürliche Felsattraktion in Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.3274,
+                        47.867578
+                  ]
+            },
+            {
+                  "name": "Kőasszony (bújó)",
+                  "text": "Kőasszony (bújó) ist eine lokale Sehenswürdigkeit in Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.337333,
+                        47.858487
+                  ]
+            },
+            {
+                  "name": "Salt Hill",
+                  "text": "Salt Hill ist eine markante Naturattraktion in Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.334546,
+                        47.853098
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színpad ist ein Freilufttheater in Egerszalók.",
+                  "category": "cultural",
+                  "coords": [
+                        20.331647,
+                        47.867487
+                  ]
             }
       ],
       "hu": [
@@ -1498,6 +4940,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.33602,
                         47.85405
+                  ]
+            },
+            {
+                  "name": "Barlanglakások",
+                  "text": "A Barlanglakások történelmi barlanglakások romjai Egerszalókon.",
+                  "category": "historical",
+                  "coords": [
+                        20.332806,
+                        47.867743
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Menyecske-hegy",
+                  "text": "A Kaptárkő - Menyecske-hegy egy szép kilátást nyújtó helyi kilátópont Egerszalókon.",
+                  "category": "natural",
+                  "coords": [
+                        20.339933,
+                        47.858219
+                  ]
+            },
+            {
+                  "name": "Egerszalók Gyógy- és Wellnessfürdő",
+                  "text": "Az Egerszalók Gyógy- és Wellnessfürdő egy népszerű vízipark és gyógyfürdő Egerszalókon.",
+                  "category": "recreational",
+                  "coords": [
+                        20.334594,
+                        47.85416
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Betyárbújó, Öreg-hegy",
+                  "text": "A Kaptárkő - Betyárbújó, Öreg-hegy egy jelentős természeti szikla-látványosság Egerszalókon.",
+                  "category": "landmark",
+                  "coords": [
+                        20.3274,
+                        47.867578
+                  ]
+            },
+            {
+                  "name": "Kőasszony (bújó)",
+                  "text": "A Kőasszony (bújó) egy helyi látványosság Egerszalókon.",
+                  "category": "landmark",
+                  "coords": [
+                        20.337333,
+                        47.858487
+                  ]
+            },
+            {
+                  "name": "Salt Hill",
+                  "text": "A Salt Hill, vagyis Sódomb egy kiemelkedő természeti látványosság Egerszalókon.",
+                  "category": "landmark",
+                  "coords": [
+                        20.334546,
+                        47.853098
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "A Szabadtéri színpad egy szabadtéri színház Egerszalókon.",
+                  "category": "cultural",
+                  "coords": [
+                        20.331647,
+                        47.867487
                   ]
             }
       ],
@@ -1523,6 +5028,69 @@ export const poiExtraHuV4: POI[] = [
                         20.33602,
                         47.85405
                   ]
+            },
+            {
+                  "name": "Barlanglakások",
+                  "text": "Barlanglakások constă din ruinele unor locuințe rupestre istorice din Egerszalók.",
+                  "category": "historical",
+                  "coords": [
+                        20.332806,
+                        47.867743
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Menyecske-hegy",
+                  "text": "Kaptárkő - Menyecske-hegy oferă vederi pitorești ca punct de belvedere local în Egerszalók.",
+                  "category": "natural",
+                  "coords": [
+                        20.339933,
+                        47.858219
+                  ]
+            },
+            {
+                  "name": "Egerszalók Gyógy- és Wellnessfürdő",
+                  "text": "Egerszalók Gyógy- és Wellnessfürdő este un parc acvatic și un centru spa popular din Egerszalók.",
+                  "category": "recreational",
+                  "coords": [
+                        20.334594,
+                        47.85416
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Betyárbújó, Öreg-hegy",
+                  "text": "Kaptárkő - Betyárbújó, Öreg-hegy este o atracție stâncoasă naturală notabilă din Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.3274,
+                        47.867578
+                  ]
+            },
+            {
+                  "name": "Kőasszony (bújó)",
+                  "text": "Kőasszony (bújó) este o atracție locală situată în Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.337333,
+                        47.858487
+                  ]
+            },
+            {
+                  "name": "Salt Hill",
+                  "text": "Salt Hill este o atracție naturală proeminentă situată în Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.334546,
+                        47.853098
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színpad este un teatru în aer liber situat în Egerszalók.",
+                  "category": "cultural",
+                  "coords": [
+                        20.331647,
+                        47.867487
+                  ]
             }
       ],
       "en": [
@@ -1547,6 +5115,69 @@ export const poiExtraHuV4: POI[] = [
                         20.33602,
                         47.85405
                   ]
+            },
+            {
+                  "name": "Barlanglakások",
+                  "text": "Barlanglakások consists of historical cave dwelling ruins in Egerszalók.",
+                  "category": "historical",
+                  "coords": [
+                        20.332806,
+                        47.867743
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Menyecske-hegy",
+                  "text": "Kaptárkő - Menyecske-hegy offers scenic views as a local viewpoint in Egerszalók.",
+                  "category": "natural",
+                  "coords": [
+                        20.339933,
+                        47.858219
+                  ]
+            },
+            {
+                  "name": "Egerszalók Gyógy- és Wellnessfürdő",
+                  "text": "Egerszalók Gyógy- és Wellnessfürdő is a popular water park and spa in Egerszalók.",
+                  "category": "recreational",
+                  "coords": [
+                        20.334594,
+                        47.85416
+                  ]
+            },
+            {
+                  "name": "Kaptárkő - Betyárbújó, Öreg-hegy",
+                  "text": "Kaptárkő - Betyárbújó, Öreg-hegy is a notable natural rock attraction in Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.3274,
+                        47.867578
+                  ]
+            },
+            {
+                  "name": "Kőasszony (bújó)",
+                  "text": "Kőasszony (bújó) is a local attraction located in Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.337333,
+                        47.858487
+                  ]
+            },
+            {
+                  "name": "Salt Hill",
+                  "text": "Salt Hill is a prominent natural attraction found in Egerszalók.",
+                  "category": "landmark",
+                  "coords": [
+                        20.334546,
+                        47.853098
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színpad is an open-air theatre located in Egerszalók.",
+                  "category": "cultural",
+                  "coords": [
+                        20.331647,
+                        47.867487
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Burg von Eger", "text": "Historische Festung in Eger, bekannt für die Verteidigung gegen die Türken 1552.", "distance": "8 km", "category": "historical"}, {"name": "Demjén Höhlenbad", "text": "Ein spektakuläres Thermalbad in einer künstlichen Höhle mit Rutschenpark.", "distance": "5 km", "category": "recreational"}], "hu": [{"name": "Egri vár", "text": "Magyarország egyik legfontosabb történelmi vára, az 1552-es hősies védelem helyszíne.", "distance": "8 km", "category": "historical"}, {"name": "Demjéni Cascade Barlangfürdő", "text": "Európa legnagyobb barlangfürdője hatalmas csúszdákkal és látványos fényekkel.", "distance": "5 km", "category": "recreational"}], "ro": [{"name": "Cetatea Eger", "text": "O fortăreață istorică legendară, faimoasă pentru rezistența împotriva Imperiului Otoman.", "distance": "8 km", "category": "historical"}, {"name": "Baia Cascade din Demjén", "text": "Cea mai mare baie termală în peșteră din Europa, dotată cu parcuri acvatice moderne.", "distance": "5 km", "category": "recreational"}], "en": [{"name": "Eger Castle", "text": "A major historic fortress famous for the heroic defense against the Turks in 1552.", "distance": "8 km", "category": "historical"}, {"name": "Demjén Cave Bath", "text": "The largest thermal cave bath in Europe, featuring spectacular slides and light shows.", "distance": "5 km", "category": "recreational"}]}, "parent": "heves"},
@@ -1562,6 +5193,15 @@ export const poiExtraHuV4: POI[] = [
                         20.230817,
                         47.814373
                   ]
+            },
+            {
+                  "name": "Szent Márton püspök templom",
+                  "text": "Die Bischof-Sankt-Martin-Kirche in Feldebrő ist eine bedeutende historische Attraktion aus der Árpádenzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235804,
+                        47.811639
+                  ]
             }
       ],
       "hu": [
@@ -1574,6 +5214,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.230817,
                         47.814373
+                  ]
+            },
+            {
+                  "name": "Szent Márton püspök templom",
+                  "text": "A feldebrői Szent Márton püspök templom kiemelkedő Árpád-kori műemlék.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235804,
+                        47.811639
                   ]
             }
       ],
@@ -1588,6 +5237,15 @@ export const poiExtraHuV4: POI[] = [
                         20.230817,
                         47.814373
                   ]
+            },
+            {
+                  "name": "Szent Márton püspök templom",
+                  "text": "Biserica episcopului Sfântul Martin din Feldebrő este o atracție istorică importantă din epoca arpadiană.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235804,
+                        47.811639
+                  ]
             }
       ],
       "en": [
@@ -1600,6 +5258,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.230817,
                         47.814373
+                  ]
+            },
+            {
+                  "name": "Szent Márton püspök templom",
+                  "text": "The Bishop Saint Martin Church in Feldebrő is an important historic attraction from the Árpád era.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235804,
+                        47.811639
                   ]
             }
       ]
@@ -1641,6 +5308,24 @@ export const poiExtraHuV4: POI[] = [
                   "category": "natural",
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "A Szentháromság-templom egy vallási épület Fertőbozon.",
+                  "category": "religious",
+                  "coords": [
+                        16.700454,
+                        47.635205
+                  ]
+            },
+            {
+                  "name": "Hérics-domb",
+                  "text": "A Hérics-domb egy kilátópont Fertőbozon.",
+                  "category": "natural",
+                  "coords": [
+                        16.681147,
+                        47.635077
+                  ]
             }
       ],
       "de": [
@@ -1653,6 +5338,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.696044,
                         47.635941
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Die Szentháromság-templom ist ein Gotteshaus in Fertőboz.",
+                  "category": "religious",
+                  "coords": [
+                        16.700454,
+                        47.635205
+                  ]
+            },
+            {
+                  "name": "Hérics-domb",
+                  "text": "Hérics-domb ist ein Aussichtspunkt in Fertőboz.",
+                  "category": "natural",
+                  "coords": [
+                        16.681147,
+                        47.635077
                   ]
             }
       ],
@@ -1678,6 +5381,24 @@ export const poiExtraHuV4: POI[] = [
                         16.705711,
                         47.610725
                   ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Szentháromság-templom este un lăcaș de cult în Fertőboz.",
+                  "category": "religious",
+                  "coords": [
+                        16.700454,
+                        47.635205
+                  ]
+            },
+            {
+                  "name": "Hérics-domb",
+                  "text": "Hérics-domb este un punct de belvedere în Fertőboz.",
+                  "category": "natural",
+                  "coords": [
+                        16.681147,
+                        47.635077
+                  ]
             }
       ],
       "en": [
@@ -1690,6 +5411,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.696044,
                         47.635941
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "The Szentháromság-templom is a place of worship in Fertőboz.",
+                  "category": "religious",
+                  "coords": [
+                        16.700454,
+                        47.635205
+                  ]
+            },
+            {
+                  "name": "Hérics-domb",
+                  "text": "Hérics-domb is a scenic viewpoint in Fertőboz.",
+                  "category": "natural",
+                  "coords": [
+                        16.681147,
+                        47.635077
                   ]
             }
       ]
@@ -1720,6 +5459,42 @@ export const poiExtraHuV4: POI[] = [
                   "category": "recreational",
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Pinty-tető",
+                  "text": "A Pinty-tető egy hegycsúcs Fertőrákos területén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633751,
+                        47.691826
+                  ]
+            },
+            {
+                  "name": "Magasfigyelő",
+                  "text": "A Magasfigyelő egy festői panorámát nyújtó kilátópont Fertőrákoson.",
+                  "category": "natural",
+                  "coords": [
+                        16.6699,
+                        47.693583
+                  ]
+            },
+            {
+                  "name": "Kecske-hegyi kilátótorony",
+                  "text": "A Kecske-hegyi kilátótorony lenyűgöző panorámát kínál Fertőrákoson.",
+                  "category": "natural",
+                  "coords": [
+                        16.630874,
+                        47.722079
+                  ]
+            },
+            {
+                  "name": "Fertőrákosi kőfejtő",
+                  "text": "Történelmi kőfejtő Fertőrákoson, amely népszerű témaparkként és rendezvényhelyszínként is funkcionál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.64317,
+                        47.726078
+                  ]
             }
       ],
       "de": [
@@ -1740,6 +5515,42 @@ export const poiExtraHuV4: POI[] = [
                         16.644452,
                         47.726586
                   ]
+            },
+            {
+                  "name": "Pinty-tető",
+                  "text": "Der Pinty-tető ist ein markanter Gipfel in Fertőrákos.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633751,
+                        47.691826
+                  ]
+            },
+            {
+                  "name": "Magasfigyelő",
+                  "text": "Der Magasfigyelő ist ein Aussichtspunkt in Fertőrákos.",
+                  "category": "natural",
+                  "coords": [
+                        16.6699,
+                        47.693583
+                  ]
+            },
+            {
+                  "name": "Kecske-hegyi kilátótorony",
+                  "text": "Aussichtsturm auf dem Kecske-Hügel mit Blick über Fertőrákos.",
+                  "category": "natural",
+                  "coords": [
+                        16.630874,
+                        47.722079
+                  ]
+            },
+            {
+                  "name": "Fertőrákosi kőfejtő",
+                  "text": "Ein historischer Steinbruch in Fertőrákos, der als Themenpark genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        16.64317,
+                        47.726078
+                  ]
             }
       ],
       "ro": [
@@ -1753,6 +5564,42 @@ export const poiExtraHuV4: POI[] = [
                         16.644452,
                         47.726586
                   ]
+            },
+            {
+                  "name": "Pinty-tető",
+                  "text": "Pinty-tető este un vârf proeminent situat în Fertőrákos.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633751,
+                        47.691826
+                  ]
+            },
+            {
+                  "name": "Magasfigyelő",
+                  "text": "Magasfigyelő este un punct de belvedere panoramic situat în Fertőrákos.",
+                  "category": "natural",
+                  "coords": [
+                        16.6699,
+                        47.693583
+                  ]
+            },
+            {
+                  "name": "Kecske-hegyi kilátótorony",
+                  "text": "Turn de observație pe dealul Kecske oferind priveliști asupra orașului Fertőrákos.",
+                  "category": "natural",
+                  "coords": [
+                        16.630874,
+                        47.722079
+                  ]
+            },
+            {
+                  "name": "Fertőrákosi kőfejtő",
+                  "text": "O carieră istorică din Fertőrákos, care servește drept parc tematic.",
+                  "category": "recreational",
+                  "coords": [
+                        16.64317,
+                        47.726078
+                  ]
             }
       ],
       "en": [
@@ -1765,6 +5612,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.644452,
                         47.726586
+                  ]
+            },
+            {
+                  "name": "Pinty-tető",
+                  "text": "The Pinty-tető is a prominent peak located in Fertőrákos.",
+                  "category": "landmark",
+                  "coords": [
+                        16.633751,
+                        47.691826
+                  ]
+            },
+            {
+                  "name": "Magasfigyelő",
+                  "text": "The Magasfigyelő is a scenic viewpoint situated in Fertőrákos.",
+                  "category": "natural",
+                  "coords": [
+                        16.6699,
+                        47.693583
+                  ]
+            },
+            {
+                  "name": "Kecske-hegyi kilátótorony",
+                  "text": "Lookout tower on Kecske hill offering views over Fertőrákos.",
+                  "category": "natural",
+                  "coords": [
+                        16.630874,
+                        47.722079
+                  ]
+            },
+            {
+                  "name": "Fertőrákosi kőfejtő",
+                  "text": "A historic quarry in Fertőrákos that serves as a popular theme park.",
+                  "category": "recreational",
+                  "coords": [
+                        16.64317,
+                        47.726078
                   ]
             }
       ]
@@ -1792,6 +5675,69 @@ export const poiExtraHuV4: POI[] = [
                         21.457778,
                         48.576667
                   ]
+            },
+            {
+                  "name": "Porcelán Múzeum, Márkabolt és Alkotó Centrum",
+                  "text": "Das Porzellanmuseum mit Markenshop und Kreativzentrum befindet sich in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.419088,
+                        48.533713
+                  ]
+            },
+            {
+                  "name": "Fazekas Ház",
+                  "text": "Das Töpferhaus (Fazekas Ház) ist ein Handwerksmuseum in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.419021,
+                        48.53482
+                  ]
+            },
+            {
+                  "name": "Sólyom-szikla",
+                  "text": "Der Falkenfelsen (Sólyom-szikla) ist ein Aussichtspunkt bei Füzér.",
+                  "category": "natural",
+                  "coords": [
+                        21.484925,
+                        48.553358
+                  ]
+            },
+            {
+                  "name": "Posta Emlékhely",
+                  "text": "Die Postgedenkstätte ist ein kleines Museum in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.453488,
+                        48.511205
+                  ]
+            },
+            {
+                  "name": "Remete-hegyi-bérc",
+                  "text": "Remete-hegyi-bérc ist ein Aussichtspunkt in Füzér.",
+                  "category": "natural",
+                  "coords": [
+                        21.446706,
+                        48.560879
+                  ]
+            },
+            {
+                  "name": "Nagy-Milic Natúrpark Látogató Központ és Várgondnokság",
+                  "text": "Das Besucherzentrum des Naturparks Nagy-Milic ist ein Museum in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.456468,
+                        48.538918
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Das Tájház ist ein Heimatmuseum, das das ländliche Leben in Füzér zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.455462,
+                        48.541885
+                  ]
             }
       ],
       "hu": [
@@ -1815,6 +5761,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.457778,
                         48.576667
+                  ]
+            },
+            {
+                  "name": "Porcelán Múzeum, Márkabolt és Alkotó Centrum",
+                  "text": "A Porcelán Múzeum, Márkabolt és Alkotó Centrum Füzéren található.",
+                  "category": "museum",
+                  "coords": [
+                        21.419088,
+                        48.533713
+                  ]
+            },
+            {
+                  "name": "Fazekas Ház",
+                  "text": "A Fazekas Ház egy hagyományos kézművességet bemutató múzeum Füzéren.",
+                  "category": "museum",
+                  "coords": [
+                        21.419021,
+                        48.53482
+                  ]
+            },
+            {
+                  "name": "Sólyom-szikla",
+                  "text": "A Sólyom-szikla egy természetes kilátópont Füzér közelében.",
+                  "category": "natural",
+                  "coords": [
+                        21.484925,
+                        48.553358
+                  ]
+            },
+            {
+                  "name": "Posta Emlékhely",
+                  "text": "A Posta Emlékhely egy múzeumi kiállítás Füzéren.",
+                  "category": "museum",
+                  "coords": [
+                        21.453488,
+                        48.511205
+                  ]
+            },
+            {
+                  "name": "Remete-hegyi-bérc",
+                  "text": "A Remete-hegyi-bérc egy gyönyörű kilátást nyújtó pont Füzéren.",
+                  "category": "natural",
+                  "coords": [
+                        21.446706,
+                        48.560879
+                  ]
+            },
+            {
+                  "name": "Nagy-Milic Natúrpark Látogató Központ és Várgondnokság",
+                  "text": "A Nagy-Milic Natúrpark Látogató Központ és Várgondnokság egy múzeum Füzéren.",
+                  "category": "museum",
+                  "coords": [
+                        21.456468,
+                        48.538918
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A füzéri Tájház a helyi népi építészetet és hagyományokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.455462,
+                        48.541885
                   ]
             }
       ],
@@ -1840,6 +5849,69 @@ export const poiExtraHuV4: POI[] = [
                         21.457778,
                         48.576667
                   ]
+            },
+            {
+                  "name": "Porcelán Múzeum, Márkabolt és Alkotó Centrum",
+                  "text": "Muzeul Porțelanului, magazinul de marcă și centrul de creație se află în Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.419088,
+                        48.533713
+                  ]
+            },
+            {
+                  "name": "Fazekas Ház",
+                  "text": "Casa Olarului este un muzeu de meșteșuguri situat în Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.419021,
+                        48.53482
+                  ]
+            },
+            {
+                  "name": "Sólyom-szikla",
+                  "text": "Stânca Șoimului este un punct de belvedere în apropiere de Füzér.",
+                  "category": "natural",
+                  "coords": [
+                        21.484925,
+                        48.553358
+                  ]
+            },
+            {
+                  "name": "Posta Emlékhely",
+                  "text": "Memorialul Poștei este un mic muzeu situat în Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.453488,
+                        48.511205
+                  ]
+            },
+            {
+                  "name": "Remete-hegyi-bérc",
+                  "text": "Remete-hegyi-bérc este un punct de belvedere montan din Füzér.",
+                  "category": "natural",
+                  "coords": [
+                        21.446706,
+                        48.560879
+                  ]
+            },
+            {
+                  "name": "Nagy-Milic Natúrpark Látogató Központ és Várgondnokság",
+                  "text": "Centrul de vizitare al Parcului Natural Nagy-Milic este un muzeu din Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.456468,
+                        48.538918
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Casa tradițională este un muzeu de arhitectură rurală în Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.455462,
+                        48.541885
+                  ]
             }
       ],
       "en": [
@@ -1863,6 +5935,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.457778,
                         48.576667
+                  ]
+            },
+            {
+                  "name": "Porcelán Múzeum, Márkabolt és Alkotó Centrum",
+                  "text": "The Porcelain Museum, brand shop, and creative center are located in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.419088,
+                        48.533713
+                  ]
+            },
+            {
+                  "name": "Fazekas Ház",
+                  "text": "The Potter's House (Fazekas Ház) is a craft museum located in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.419021,
+                        48.53482
+                  ]
+            },
+            {
+                  "name": "Sólyom-szikla",
+                  "text": "The Falcon Rock (Sólyom-szikla) is a scenic viewpoint near Füzér.",
+                  "category": "natural",
+                  "coords": [
+                        21.484925,
+                        48.553358
+                  ]
+            },
+            {
+                  "name": "Posta Emlékhely",
+                  "text": "The Postal Memorial is a small museum exhibit in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.453488,
+                        48.511205
+                  ]
+            },
+            {
+                  "name": "Remete-hegyi-bérc",
+                  "text": "Remete-hegyi-bérc is a scenic viewpoint in Füzér.",
+                  "category": "natural",
+                  "coords": [
+                        21.446706,
+                        48.560879
+                  ]
+            },
+            {
+                  "name": "Nagy-Milic Natúrpark Látogató Központ és Várgondnokság",
+                  "text": "The Nagy-Milic Nature Park Visitor Center is a museum in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.456468,
+                        48.538918
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "The Tájház is a local heritage museum showcasing rural life in Füzér.",
+                  "category": "museum",
+                  "coords": [
+                        21.455462,
+                        48.541885
                   ]
             }
       ]
@@ -1890,6 +6025,69 @@ export const poiExtraHuV4: POI[] = [
                         17.449604,
                         46.835539
                   ]
+            },
+            {
+                  "name": "Oroszlánfejű kút",
+                  "text": "Oroszlánfejű kút ist eine bekannte Quelle mit einem Löwenkopfmotiv in Hegymagas.",
+                  "category": "landmark",
+                  "coords": [
+                        17.446776,
+                        46.835217
+                  ]
+            },
+            {
+                  "name": "Szép kilátás",
+                  "text": "Szép kilátás ist ein malerischer Aussichtspunkt, der wunderschöne Ausblicke in Hegymagas bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.448967,
+                        46.838805
+                  ]
+            },
+            {
+                  "name": "borterasz",
+                  "text": "Diese Weinterrasse in Hegymagas dient als angenehmer Aussichtspunkt über die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        17.4511,
+                        46.837666
+                  ]
+            },
+            {
+                  "name": "Világháborús emlékmű",
+                  "text": "Das Weltkriegsdenkmal ist eine historische Gedenkstätte in Hegymagas.",
+                  "category": "historical",
+                  "coords": [
+                        17.466327,
+                        46.843785
+                  ]
+            },
+            {
+                  "name": "Ify-kápolna",
+                  "text": "Die Ify-Kapelle ist eine historische Ruinenstätte in Hegymagas.",
+                  "category": "historical",
+                  "coords": [
+                        17.454758,
+                        46.83886
+                  ]
+            },
+            {
+                  "name": "Nemesgulácsi kastély",
+                  "text": "Nemesgulácsi kastély ist ein Schlossgebäude in der Stadt Hegymagas.",
+                  "category": "castle",
+                  "coords": [
+                        17.482232,
+                        46.832616
+                  ]
+            },
+            {
+                  "name": "2. Bazaltorgonák",
+                  "text": "Der Informationspunkt Basaltorgeln in Hegymagas bietet Details zu den lokalen geologischen Formationen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.450708,
+                        46.846436
+                  ]
             }
       ],
       "hu": [
@@ -1913,6 +6111,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.449604,
                         46.835539
+                  ]
+            },
+            {
+                  "name": "Oroszlánfejű kút",
+                  "text": "Az Oroszlánfejű kút egy ismert forrás Hegymagason.",
+                  "category": "landmark",
+                  "coords": [
+                        17.446776,
+                        46.835217
+                  ]
+            },
+            {
+                  "name": "Szép kilátás",
+                  "text": "A Szép kilátás egy gyönyörű panorámát nyújtó kilátópont Hegymagason.",
+                  "category": "natural",
+                  "coords": [
+                        17.448967,
+                        46.838805
+                  ]
+            },
+            {
+                  "name": "borterasz",
+                  "text": "Ez a hegymagasi borterasz kellemes kilátópontként szolgál a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        17.4511,
+                        46.837666
+                  ]
+            },
+            {
+                  "name": "Világháborús emlékmű",
+                  "text": "A Világháborús emlékmű egy történelmi emlékhely Hegymagason.",
+                  "category": "historical",
+                  "coords": [
+                        17.466327,
+                        46.843785
+                  ]
+            },
+            {
+                  "name": "Ify-kápolna",
+                  "text": "Az Ify-kápolna egy történelmi romterület Hegymagason.",
+                  "category": "historical",
+                  "coords": [
+                        17.454758,
+                        46.83886
+                  ]
+            },
+            {
+                  "name": "Nemesgulácsi kastély",
+                  "text": "A Nemesgulácsi kastély egy kastélyépület Hegymagas településén.",
+                  "category": "castle",
+                  "coords": [
+                        17.482232,
+                        46.832616
+                  ]
+            },
+            {
+                  "name": "2. Bazaltorgonák",
+                  "text": "A hegymagasi 2. Bazaltorgonák információs pont részleteket kínál a helyi geológiai képződményekről.",
+                  "category": "landmark",
+                  "coords": [
+                        17.450708,
+                        46.846436
                   ]
             }
       ],
@@ -1938,6 +6199,69 @@ export const poiExtraHuV4: POI[] = [
                         17.449604,
                         46.835539
                   ]
+            },
+            {
+                  "name": "Oroszlánfejű kút",
+                  "text": "Oroszlánfejű kút este un izvor cunoscut cu un motiv de cap de leu situat în Hegymagas.",
+                  "category": "landmark",
+                  "coords": [
+                        17.446776,
+                        46.835217
+                  ]
+            },
+            {
+                  "name": "Szép kilátás",
+                  "text": "Szép kilátás este un punct de belvedere care oferă priveliști frumoase în Hegymagas.",
+                  "category": "natural",
+                  "coords": [
+                        17.448967,
+                        46.838805
+                  ]
+            },
+            {
+                  "name": "borterasz",
+                  "text": "Această terasă de vinuri din Hegymagas servește ca un punct de belvedere plăcut asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        17.4511,
+                        46.837666
+                  ]
+            },
+            {
+                  "name": "Világháborús emlékmű",
+                  "text": "Monumentul Războiului Mondial este un memorial istoric situat în Hegymagas.",
+                  "category": "historical",
+                  "coords": [
+                        17.466327,
+                        46.843785
+                  ]
+            },
+            {
+                  "name": "Ify-kápolna",
+                  "text": "Capela Ify este un sit istoric în ruine situat în Hegymagas.",
+                  "category": "historical",
+                  "coords": [
+                        17.454758,
+                        46.83886
+                  ]
+            },
+            {
+                  "name": "Nemesgulácsi kastély",
+                  "text": "Nemesgulácsi kastély este o clădire de castel situată în orașul Hegymagas.",
+                  "category": "castle",
+                  "coords": [
+                        17.482232,
+                        46.832616
+                  ]
+            },
+            {
+                  "name": "2. Bazaltorgonák",
+                  "text": "Punctul de informare al Organelor de Bazalt din Hegymagas oferă detalii despre formațiunile geologice locale.",
+                  "category": "landmark",
+                  "coords": [
+                        17.450708,
+                        46.846436
+                  ]
             }
       ],
       "en": [
@@ -1962,6 +6286,69 @@ export const poiExtraHuV4: POI[] = [
                         17.449604,
                         46.835539
                   ]
+            },
+            {
+                  "name": "Oroszlánfejű kút",
+                  "text": "Oroszlánfejű kút is a well-known spring with a lion's head motif located in Hegymagas.",
+                  "category": "landmark",
+                  "coords": [
+                        17.446776,
+                        46.835217
+                  ]
+            },
+            {
+                  "name": "Szép kilátás",
+                  "text": "Szép kilátás is a scenic viewpoint offering beautiful vistas in Hegymagas.",
+                  "category": "natural",
+                  "coords": [
+                        17.448967,
+                        46.838805
+                  ]
+            },
+            {
+                  "name": "borterasz",
+                  "text": "This wine terrace in Hegymagas serves as a pleasant viewpoint over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        17.4511,
+                        46.837666
+                  ]
+            },
+            {
+                  "name": "Világháborús emlékmű",
+                  "text": "The World War Monument is a historical memorial located in Hegymagas.",
+                  "category": "historical",
+                  "coords": [
+                        17.466327,
+                        46.843785
+                  ]
+            },
+            {
+                  "name": "Ify-kápolna",
+                  "text": "The Ify Chapel is a historic ruins site located in Hegymagas.",
+                  "category": "historical",
+                  "coords": [
+                        17.454758,
+                        46.83886
+                  ]
+            },
+            {
+                  "name": "Nemesgulácsi kastély",
+                  "text": "Nemesgulácsi kastély is a castle building situated in the town of Hegymagas.",
+                  "category": "castle",
+                  "coords": [
+                        17.482232,
+                        46.832616
+                  ]
+            },
+            {
+                  "name": "2. Bazaltorgonák",
+                  "text": "The Basalt Organs information point in Hegymagas provides details about the local geological formations.",
+                  "category": "landmark",
+                  "coords": [
+                        17.450708,
+                        46.846436
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Szigliget", "text": "Malerisches Dorf mit berühmter Burgruine.", "distance": "5 km", "category": "historical"}, {"name": "Tapolca", "text": "Stadt mit einem See-Höhlensystem im Zentrum.", "distance": "6 km", "category": "natural"}], "hu": [{"name": "Szigligeti vár", "text": "Középkori erődítmény pazar kilátással a Balatonra.", "distance": "5 km", "category": "historical"}, {"name": "Tapolcai Malom-tó", "text": "Hangulatos tó a város szívében, malomépülettel.", "distance": "6 km", "category": "natural"}], "ro": [{"name": "Cetatea Szigliget", "text": "O cetate spectaculoasă construită pe un vârf vulcanic.", "distance": "5 km", "category": "historical"}, {"name": "Lacul Malom din Tapolca", "text": "Un lac mediteranean în centrul orașului Tapolca.", "distance": "6 km", "category": "natural"}], "en": [{"name": "Szigliget Castle", "text": "Medieval castle ruins offering a full view of the Badacsony region.", "distance": "5 km", "category": "historical"}, {"name": "Tapolca Mill Pond", "text": "A scenic pond and historic mill in the heart of Tapolca.", "distance": "6 km", "category": "natural"}]}, "parent": "veszprem"},
@@ -1972,16 +6359,132 @@ export const poiExtraHuV4: POI[] = [
       "en": []
 }, "nearbySights": {"de": [{"name": "Kaposvár", "text": "Die Komitatshauptstadt mit wunderschöner Jugendstil-Architektur und einem Theater.", "distance": "25 km", "category": "civic"}, {"name": "Szenna (Freilichtmuseum)", "text": "Ein preisgekröntes Dorf-Museum, das die Baukultur von Somogy bewahrt.", "distance": "30 km", "category": "historical"}], "hu": [{"name": "Kaposvár", "text": "Somogy vármegye székhelye, szecessziós belvárossal és híres színházzal.", "distance": "25 km", "category": "civic"}, {"name": "Szenna (Skanzen)", "text": "Europa Nostra-díjas falumúzeum, a somogyi népi építészet remekműveivel.", "distance": "30 km", "category": "historical"}], "ro": [{"name": "Kaposvár", "text": "Reședința de județ, cunoscută pentru centrul său în stil Art Nouveau și teatrul celebru.", "distance": "25 km", "category": "civic"}, {"name": "Szenna (Muzeul Satului)", "text": "Un muzeu în aer liber premiat, care conservă arhitectura tradițională din Somogy.", "distance": "30 km", "category": "historical"}], "en": [{"name": "Kaposvár", "text": "The county capital, famous for its Art Nouveau buildings and cultural life.", "distance": "25 km", "category": "civic"}, {"name": "Szenna (Open Air Museum)", "text": "An award-winning ethnographical museum showcasing traditional Somogy architecture.", "distance": "30 km", "category": "historical"}]}, "parent": "somogy"},
   {"id": "ipolytarnoc", "type": "village", "coords": [19.6214, 48.2431], "population": 400, "name": {"de": "Ipolytarnóc", "hu": "Ipolytarnóc", "ro": "Ipolytarnóc", "en": "Ipolytarnóc"}, "descriptionAdvanced": {"de": "Ipolytarnóc ist ein kleines Dorf im Norden Ungarns, das als 'ungarisches Pompeji' Weltruhm erlangt hat. Die Gemeinde beherbergt eine der reichsten und spektakulärsten paläontologischen Fundstätten der Welt, die auf einen gewaltigen Vulkanausbruch vor etwa 20 Millionen Jahren zurückzuführen ist. Damals begrub eine Schicht aus heißer Asche ein subtropisches Ökosystem und konservierte es für die Nachwelt. Zu den wichtigsten Funden gehören riesige versteinerte Kiefernstämme, Tausende von Fußabdrücken urzeitlicher Tiere wie Nashörner und Raubtiere sowie versteinerte Haifischzähne aus dem ehemaligen Paratethys-Meer. Das Naturschutzgebiet ist heute ein modernes Besucherzentrum mit 4D-Kino, interaktiven Ausstellungen und einem Baumwipfelpfad. Das Dorf selbst liegt in einer ruhigen, hügeligen Landschaft des Nógrád-Geoparks, fernab vom Massentourismus. Die Architektur ist bescheiden und ländlich, aber die Gastfreundschaft der wenigen hundert Einwohner ist spürbar. Für Wissenschaftler und Naturfreunde ist Ipolytarnóc ein einzigartiges Fenster in die tiefe Vergangenheit der Erde.", "hu": "Ipolytarnóc egy apró település Nógrád vármegye legészakibb csücskében, közvetlenül a szlovák határ mentén. Világhírét a falu határában található ősmaradvány-lelőhelynek köszönheti, amelyet méltán neveznek a 'pannon Pompeji'-nek. Egy 20 millió évvel ezelőtti vulkánkitörés során a forró hamu konzerválta az akkori szubtrópusi növényzetet és állatvilágot, így ma egyedülálló bepillantást nyerhetünk a miocén korba. A látogatók megcsodálhatják a világ legnagyobb megkövesedett fenyőtörzsét, őskori rinocéroszok, medvekutyák és madarak lábnyomait, valamint a tengeri üledékekből előkerült cápafogakat. A bemutatóhely az Európa-diplomás természetvédelmi terület része, ahol interaktív tanösvények, lombkoronasétány és modern látogatóközpont várja a vendégeket. A község csendes, eldugott fekvése ideális a nyugodt pihenésre és a természetjárásra. Ipolytarnóc nemcsak tudományos szempontból jelentős, hanem fontos állomása a palóc hagyományok megismerésének is, hiszen a környező dombok és völgyek a palóc kultúra szerves részét képezik.", "ro": "Ipolytarnóc este un mic sat din județul Nógrád, situat la granița de nord a Ungariei, renumit la nivel global sub numele de 'Pompeii maghiar'. Această localitate găzduiește unul dintre cele mai importante situri paleontologice din lume, format în urmă cu 20 de milioane de ani, când o erupție vulcanică catastrofală a acoperit cu cenușă fierbinte o zonă subtropicală luxuriantă. Conservarea excepțională a permis păstrarea unor amprente de animale preistorice, trunchiuri de copaci gigantici pietrificați și chiar dinți de rechin din perioada în care regiunea era acoperită de mare. Rezervația naturală, distinsă cu Diploma Europeană, oferă astăzi vizitatorilor experiențe moderne, inclusiv proiecții 4D și trasee educative prin coronamentul arborilor. Satul în sine este o așezare liniștită, cu o populație redusă, păstrând farmecul rural al regiunii istorice Palócföld. Pentru vizitatori, Ipolytarnóc reprezintă o destinație fascinantă unde timpul pare să fi stat în loc, oferind o perspectivă rară asupra evoluției geologice a Europei Centrale și a speciilor dispărute care au populat cândva aceste meleaguri.", "en": "Ipolytarnóc is a small, quiet village in northern Hungary, internationally acclaimed as the 'Hungarian Pompeii' due to its extraordinary paleontological remains. Located within the Nógrád-Novohrad UNESCO Global Geopark, the area was the site of a cataclysmic volcanic eruption 20 million years ago, which perfectly preserved a Miocene-era subtropical landscape under thick layers of ash. The highlights of the protected area include thousands of fossilized footprints of prehistoric rhinos, birds, and carnivores, as well as the world's largest petrified pine tree trunk. Visitors can also explore sea sediments rich in ancient shark teeth, testifying to a time when a shallow sea covered the region. The modern visitor center features interactive displays, a 4D cinema depicting the eruption, and a scenic canopy walkway. Despite its global scientific importance, the village remains an authentic rural community with traditional Hungarian hospitality. Its remote location near the Slovak border ensures a peaceful environment, making it a perfect retreat for nature lovers and those interested in the deep history of our planet."}, "factsAdvanced": {"de": ["Vulkanausbruch vor ca. 20 Millionen Jahren.", "Entdeckung der ersten Funde im Jahr 1836.", "Der versteinerte Kiefernstamm war ursprünglich 100 Meter lang.", "Es wurden Fußabdrücke von 11 verschiedenen Tierarten gefunden.", "Das Gebiet erhielt 1995 die Europa-Diplom-Auszeichnung.", "Die Haifischzähne stammen von 25 verschiedenen Arten."], "hu": ["A világ legnagyobb kövesedett fenyője 20 millió éves.", "A lelőhelyen több mint 3000 állati lábnyomot azonosítottak.", "A vulkáni tufa vastagsága helyenként a 30 métert is eléri.", "Ipolytarnóc az egyik első magyar természetvédelmi terület (1944).", "A látogatóközpontban 4D-s mozi mutatja be az őskori katasztrófát.", "A cápafogakat a homokkő-rétegek őrizték meg a Paratethys-tengerből."], "ro": ["Situl face parte din Rețeaua Globală de Geoparcuri UNESCO.", "Trunchiul de conifer pietrificat are un diametru de peste 2 metri.", "S-au descoperit peste 1.000 de dinți de rechin preistoric.", "Suprafața zonei protejate este de aproximativ 513 hectare.", "Erupția a fost similară cu cea a muntelui St. Helens.", "Satul are mai puțin de 500 de locuitori."], "en": ["Miocene era fossils preserved under volcanic rhyolite tuff.", "Awarded the European Diploma for Protected Areas.", "The site features a 3-level canopy walkway for visitors.", "Over 10,000 prehistoric footprints have been documented.", "The fossilized pine tree is of the Taxodioxylon gypsaceum species.", "Located exactly on the Hungarian-Slovak border line."]}, "faq": {"de": [{"q": "Kann man die Fossilien anfassen?", "a": "Im Freigelände ist das Anfassen verboten, aber im Besucherzentrum gibt es spezielle Tastobjekte."}, {"q": "Gibt es Parkplätze vor Ort?", "a": "Ja, es gibt einen großen bewachten Parkplatz am Eingang des Naturschutzgebiets."}, {"q": "Sind Hunde erlaubt?", "a": "Hunde dürfen an der Leine auf die Außenwege, aber nicht in die Ausstellungsgebäude."}, {"q": "Gibt es Gastronomie im Naturschutzgebiet?", "a": "Ja, es gibt ein Buffet und ein Restaurant im Besucherzentrum."}], "hu": [{"q": "Mikor látogatható az ősmaradványok területe?", "a": "Márciustól novemberig tart nyitva, hétfő kivételével minden nap."}, {"q": "Lehet-e cápafogat gyűjteni?", "a": "A védett területen tilos, de a kijelölt 'homokozóban' a gyerekek kereshetnek másolatokat."}, {"q": "Milyen hosszú a tanösvény?", "a": "A fő geológiai tanösvény kényelmesen 1-1,5 óra alatt bejárható."}, {"q": "Van-e akadálymentes útvonal?", "a": "Igen, a geológiai bemutatóhely nagy része kerekesszékkel is megközelíthető."}], "ro": [{"q": "Este nevoie de programare pentru grupuri?", "a": "Da, grupurile mai mari de 15 persoane trebuie să rezerve ora de vizitare."}, {"q": "Ce limbă vorbesc ghizii?", "a": "Tururile ghidate sunt în maghiară, dar există ghiduri scrise în engleză."}, {"q": "Există loc de joacă pentru copii?", "a": "Da, există un parc de aventură paleontologic special amenajat pentru cei mici."}, {"q": "Cât costă biletul de intrare?", "a": "Prețurile variază în funcție de pachetul ales (muzeu, 4D, parc de aventură)."}], "en": [{"q": "Is the 4D cinema worth it?", "a": "Yes, it provides a vivid recreation of the prehistoric environment and eruption."}, {"q": "Can I reach Ipolytarnóc by bus?", "a": "Yes, there are buses from Salgótarján, but they are infrequent."}, {"q": "Is photography allowed?", "a": "Photography is permitted on the trails, but flash is restricted in some exhibits."}, {"q": "Is there a souvenir shop?", "a": "Yes, you can buy books, stones, and dinosaur-themed gifts at the center."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Kilátó - Lombtanösvény",
+                  "text": "Aussichtspunkt entlang des Baumkronenpfades in Ipolytarnóc.",
+                  "category": "natural",
+                  "coords": [
+                        19.651255,
+                        48.232964
+                  ]
+            },
+            {
+                  "name": "Miocén erdő",
+                  "text": "Der Miozän-Wald ist ein beliebter Themenpark in Ipolytarnóc.",
+                  "category": "recreational",
+                  "coords": [
+                        19.654889,
+                        48.230204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kilátó - Lombtanösvény",
+                  "text": "Kilátópont az ipolytarnóci lombsétány és tanösvény mentén.",
+                  "category": "natural",
+                  "coords": [
+                        19.651255,
+                        48.232964
+                  ]
+            },
+            {
+                  "name": "Miocén erdő",
+                  "text": "A Miocén erdő egy népszerű őslénytani témapark Ipolytarnócon.",
+                  "category": "recreational",
+                  "coords": [
+                        19.654889,
+                        48.230204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kilátó - Lombtanösvény",
+                  "text": "Punct de belvedere de-a lungul traseului educațional din coronamentul copacilor în Ipolytarnóc.",
+                  "category": "natural",
+                  "coords": [
+                        19.651255,
+                        48.232964
+                  ]
+            },
+            {
+                  "name": "Miocén erdő",
+                  "text": "Pădurea Miocenă este un parc tematic popular în Ipolytarnóc.",
+                  "category": "recreational",
+                  "coords": [
+                        19.654889,
+                        48.230204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kilátó - Lombtanösvény",
+                  "text": "Viewpoint along the canopy educational trail in Ipolytarnóc.",
+                  "category": "natural",
+                  "coords": [
+                        19.651255,
+                        48.232964
+                  ]
+            },
+            {
+                  "name": "Miocén erdő",
+                  "text": "The Miocene forest is a popular theme park attraction in Ipolytarnóc.",
+                  "category": "recreational",
+                  "coords": [
+                        19.654889,
+                        48.230204
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Salgótarján", "text": "Die Hauptstadt des Komitats mit einem einzigartigen Untertage-Bergbaumuseum.", "distance": "25 km", "category": "historical"}, {"name": "Burg Somoskő", "text": "Eindrucksvolle Burg direkt an der Grenze mit Basaltsäulen.", "distance": "28 km", "category": "historical"}], "hu": [{"name": "Salgótarján", "text": "A vármegyeszékhely, ahol az ország egyetlen föld alatti bányamúzeuma található.", "distance": "25 km", "category": "historical"}, {"name": "Somoskői vár", "text": "Közvetlenül a határon álló vár, híres bazaltorgonákkal az oldalában.", "distance": "28 km", "category": "historical"}], "ro": [{"name": "Salgótarján", "text": "Reședința de județ, cunoscută pentru muzeul minier subteran unic în țară.", "distance": "25 km", "category": "historical"}, {"name": "Cetatea Somoskő", "text": "O fortăreață impresionantă situată pe un con vulcanic la granița cu Slovacia.", "distance": "28 km", "category": "historical"}], "en": [{"name": "Salgótarján", "text": "The county seat, home to Hungary's only underground mining museum.", "distance": "25 km", "category": "historical"}, {"name": "Castle of Somoskő", "text": "A stunning border fortress famous for its rare basalt column formations.", "distance": "28 km", "category": "historical"}]}, "parent": "nograd"},
   {"id": "jak", "type": "village", "coords": [16.5822, 47.1401], "population": 2580, "name": {"de": "Jaak", "hu": "Ják", "ro": "Ják", "en": "Ják"}, "descriptionAdvanced": {"de": "Ják ist weltweit bekannt für seine monumentale Abteikirche, die als das bedeutendste Meisterwerk der romanischen Architektur in Ungarn gilt. Die im Jahr 1256 geweihte St. Georgs-Kirche wurde von der Adelsfamilie Ják als Grabstätte gegründet und ist ein beeindruckendes Beispiel für den spätromanischen Stil mit Einflüssen aus dem Donauraum. Besonders hervorzuheben ist das prachtvolle Stufenportal, das mit filigranen Skulpturen und geometrischen Motiven geschmückt ist. Das Dorf selbst liegt in der sanften Hügellandschaft des Komitats Vas, unweit der Stadt Szombathely. Neben der Kirche beherbergt Ják auch die St. Jakobs-Kapelle, die als Pfarrkirche für das Dorf diente, während die Abteikirche den Mönchen vorbehalten war. Die Geschichte von Ják spiegelt die Blütezeit des ungarischen Mittelalters wider, und die sorgfältigen Restaurierungen haben dafür gesorgt, dass die Details der Steinmetzarbeiten bis heute bewundert werden können. Für Besucher ist Ják nicht nur ein religiöser Ort, sondern ein kunsthistorisches Monument von europäischem Rang, das die Brücke zwischen byzantinischen und westlichen Einflüssen schlägt.", "hu": "Ják község Vas vármegyében, a vasi dombság szélén fekszik, és nevét az ország egyik legfontosabb műemléke, a jáki apátsági templom tette világhírűvé. A Szent György-apátság templomát 1256-ban szentelték fel, építtetője a Ják nembeli Márton volt, aki a bencés szerzetesek számára alapított itt monostort. A templom a magyarországi román kori építészet csúcspontja, leglátványosabb eleme a többszörösen tagozott, bélletes főkapu, amelyen bibliai alakok és ornamentális díszítések láthatók. A templom melletti Szent Jakab-kápolna is jelentős, hiszen ez volt a falu plébániatemploma a középkorban, mivel a monostor templomát a hívek nem használhatták. Ják története során többször megsérült, a török időkben és egy tűzvészben is, de a 19. század végi nagy restaurálás során Schulek Frigyes és Schulek János irányításával nyerte el mai, lenyűgöző formáját. A falu lakossága ma is büszkén őrzi ezt az örökséget, miközben a modern mezőgazdaság és a növekvő turizmus adja a település megélhetését. A templomkert és a közeli múzeumi kiállítóhelyek mélyebb betekintést nyújtanak a középkori Magyarország hitéletébe és művészetébe.", "ro": "Ják este o localitate emblematică din vestul Ungariei, faimoasă pentru biserica sa abațială, considerată cea mai frumoasă realizare a stilului romanic din țară. Edificiul, dedicat Sfântului Gheorghe, a fost sfințit în 1256 și a servit drept mausoleu familiei nobiliare Ják. Caracteristica sa cea mai distinctivă este portalul principal monumental, decorat cu reliefuri complexe și statui ale apostolilor, care reflectă influențe artistice din Europa Occidentală și Bazinul Dunării. Lângă biserică se află Capela Sfântul Iacob, o structură mai mică dar la fel de valoroasă, care păstrează spiritul arhitecturii medievale timpurii. Satul Ják oferă o atmosferă liniștită, specifică regiunii Vas, fiind situat în apropierea orașului Szombathely. Importanța sitului depășește granițele naționale, fiind un punct de referință pentru istoricii de artă din întreaga Europă. Restaurările recente au evidențiat detalii uimitoare ale sculpturilor în piatră, transformând Ják într-o destinație obligatorie pentru turiștii culturali. Pe lângă valoarea religioasă, locația este un simbol al rezilienței culturale și al măiestriei artizanilor medievali care au creat o capodoperă ce dăinuie de peste șapte secole.", "en": "Ják is a small village in Vas County that holds one of Hungary's most significant cultural treasures: the Romanesque Abbey Church of St. George. Dedicated in 1256, the church was commissioned by the powerful Ják clan as a Benedictine monastery and family burial site. It is widely regarded as the pinnacle of late Romanesque architecture in the region, characterized by its twin-towered facade and its world-famous recessed main portal. The portal is intricately decorated with carvings of Christ, the apostles, and various mythical figures, showcasing a sophisticated level of craftsmanship for the 13th century. Adjacent to the main church stands the Chapel of St. James, which functioned as the village's parish church during the Middle Ages. Throughout its history, Ják has survived several sieges and fires, but extensive restoration efforts in the late 19th and early 20th centuries preserved its structural integrity. Today, the village is a major pilgrimage and tourist destination, attracting thousands of visitors who come to admire its stone carvings and serene spiritual environment. The site is not just a local church but a monument of European architectural history, reflecting the transition from Romanesque to early Gothic styles."}, "factsAdvanced": {"de": ["Einweihung: 1256 durch Bischof Amadeus", "Stil: Spätromanik mit Zierelementen", "Bauherr: Márton aus dem Clan Ják", "Besonderheit: Bekanntestes Stufenportal Ungarns", "Zugehörige Bauten: St. Jakobs-Kapelle", "Region: West-Transdanubien"], "hu": ["Felszentelés éve: 1256", "Építészeti stílus: Késő román", "Alapító: Ják nembeli Márton", "Fő látnivaló: Bélletes kapuzat", "Társtemplom: Szent Jakab-kápolna", "Restaurálás: 1896-1904 (Schulek Frigyes)"], "ro": ["Sfințire: anul 1256", "Stil arhitectural: Romanic târziu", "Ctitor: Márton din neamul Ják", "Element cheie: Portalul cu trepte", "Capelă adiacentă: Sfântul Iacob", "Locație: Lângă Szombathely"], "en": ["Consecration: 1256", "Architectural style: Late Romanesque", "Founder: Márton of the Ják clan", "Famous feature: Deeply recessed portal", "Associated site: St. James Chapel", "Province: Vas County"]}, "faq": {"de": [{"q": "Warum ist die Kirche in Ják so berühmt?", "a": "Wegen ihres einzigartigen romanischen Portals und der gut erhaltenen Architektur aus dem 13. Jahrhundert."}, {"q": "Kann man die Kirche besichtigen?", "a": "Ja, sie ist täglich für Touristen und Gläubige geöffnet."}, {"q": "Wie weit ist Szombathely entfernt?", "a": "Etwa 10-12 Kilometer südlich der Stadt."}, {"q": "Gibt es Führungen?", "a": "Ja, vor Ort werden oft Führungen zur Geschichte und Architektur angeboten."}], "hu": [{"q": "Miért különleges a jáki templom?", "a": "Ez a legépebben maradt és legszebb magyarországi román kori apátsági templom."}, {"q": "Mikor látogatható a templom?", "a": "Egész évben nyitva áll a látogatók előtt, belépőjegy ellenében."}, {"q": "Ki építette a templomot?", "a": "A Ják nembeli Márton alapította a bencés szerzeteseknek."}, {"q": "Látható a templomban az alapító sírja?", "a": "Igen, a belső térben található az alapító sírhelye."}], "ro": [{"q": "Ce face ca Biserica din Ják să fie unică?", "a": "Este cel mai important monument romanic din Ungaria, celebru pentru portalul său."}, {"q": "Este permisă fotografierea?", "a": "De obicei este permisă, dar fără blitz în interiorul bisericii."}, {"q": "Cât timp durează vizita?", "a": "Aproximativ o oră pentru a vedea biserica, capela și grădina."}, {"q": "Există parcare în apropiere?", "a": "Da, există o parcare amenajată lângă complexul mănăstiresc."}], "en": [{"q": "What is the best feature of the church?", "a": "The magnificently carved, deeply recessed main portal."}, {"q": "Is the church still in use?", "a": "Yes, it functions as a regular Roman Catholic church and for special ceremonies."}, {"q": "When was it built?", "a": "The main construction took place in the first half of the 13th century, finished in 1256."}, {"q": "Who was the architect?", "a": "The masters are unknown, but they were likely from the workshop of Regensburg or Bamberg."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Jáki Szent György apátsági templom",
+                  "text": "Die Abteikirche St. Georg in Ják ist eine bedeutende historische Sehenswürdigkeit, die für ihre romanische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        16.582365,
+                        47.139295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jáki Szent György apátsági templom",
+                  "text": "A jáki Szent György apátsági templom egy kiemelkedő történelmi látványosság, amely román stílusú építészetéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        16.582365,
+                        47.139295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jáki Szent György apátsági templom",
+                  "text": "Biserica abațială Sfântul Gheorghe din Ják este o atracție istorică notabilă, cunoscută pentru arhitectura sa romanică.",
+                  "category": "landmark",
+                  "coords": [
+                        16.582365,
+                        47.139295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jáki Szent György apátsági templom",
+                  "text": "The Abbey Church of St George in Ják is a notable historic attraction known for its Romanesque architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        16.582365,
+                        47.139295
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Szombathely (Savaria)", "text": "Römische Ruinen und ein barockes Stadtzentrum.", "distance": "12 km", "category": "historical"}, {"name": "Körmend Batthyány-Schloss", "text": "Ein prächtiges Barockschloss mit einem großen Park.", "distance": "18 km", "category": "historical"}], "hu": [{"name": "Szombathely - Iseum", "text": "Római kori Ízisz-szentély és belvárosi barokk épületek.", "distance": "12 km", "category": "historical"}, {"name": "Körmendi Batthyány-kastély", "text": "Impozáns barokk kastélyegyüttes és természetvédelmi park.", "distance": "18 km", "category": "historical"}], "ro": [{"name": "Szombathely (Savaria)", "text": "Oraș cu vestigii romane importante și o catedrală barocă superbă.", "distance": "12 km", "category": "historical"}, {"name": "Castelul Batthyány din Körmend", "text": "Un castel baroc monumental cu un parc dendrologic vast.", "distance": "18 km", "category": "historical"}], "en": [{"name": "Szombathely (Savaria)", "text": "Ancient Roman ruins (Iseum) and a beautiful baroque city center.", "distance": "12 km", "category": "historical"}, {"name": "Batthyány Castle, Körmend", "text": "A grand baroque castle complex surrounded by a large nature park.", "distance": "18 km", "category": "historical"}]}, "parent": "vas"},
   {"id": "josvafo", "type": "village", "coords": [20.5534, 48.4811], "population": 210, "name": {"de": "Jósvafő", "hu": "Jósvafő", "ro": "Jósvafő", "en": "Jósvafő"}, "descriptionAdvanced": {"de": "Jósvafő ist ein malerisches Dorf im Norden Ungarns, gelegen im Herzen des Aggtelek-Nationalparks, der zum UNESCO-Welterbe gehört. Der Ort ist ein Paradies für Naturliebhaber und Höhlenforscher gleichermaßen. Das Dorf liegt am Zusammenfluss von drei Bächen, was ihm eine einzigartige Atmosphäre und ein üppig grünes Erscheinungsbild verleiht. Jósvafő ist vor allem als der südliche Eingang zur berühmten Baradla-Höhle bekannt, der größten und spektakulärsten Tropfsteinhöhle Zentraleuropas. Das Dorfzentrum ist ein geschütztes architektonisches Denkmal, geprägt von traditionellen Bauernhäusern aus Stein und Holz. Besucher können hier das dörfliche Leben in seiner ursprünglichsten Form erleben. Ein besonderes Highlight ist die Hucul-Pferdezucht, eine robuste Gebirgspferderasse, die in den umliegenden Wiesen gezüchtet wird. Jósvafő ist auch ein bedeutendes Zentrum für Ökotourismus; zahlreiche Wanderwege führen durch die Karstlandschaft zu versteckten Quellen und tiefen Tälern. Das Kessler-Hubert-Gedenkhaus erzählt die Geschichte der lokalen Höhlenforschung. Die Stille des Ortes, die reine Luft und die mystische Unterwelt machen Jósvafő zu einem der faszinierendsten Ziele für alle, die die wilde Natur Ungarns entdecken möchten.", "hu": "Jósvafő egy ékszerdoboz szerű település az Aggteleki Nemzeti Park szívében, Borsod-Abaúj-Zemplén vármegye északi részén. A falu az UNESCO Világörökség részét képező barlangrendszer egyik legfontosabb kapuja; itt található a Baradla-barlang monumentális jósvafői kijárata. A település különlegessége a három patak találkozásánál kialakult medence, amely friss levegőt és buja növényzetet biztosít a környéknek. Jósvafő ófaluja országos jelentőségű műemléki terület, ahol a hagyományos népi építészet remekei, a kőfalú, fűrészelt díszítésű házak ma is eredeti pompájukban állnak. A falu egyik legfőbb látványossága a hucul ménes; az apró termetű, rendkívül szívós hegyi lovak a falu határában legelnek, és lovaglási lehetőséget is kínálnak. A falu szélén fakadó Jósva-forrás és a környék tengerszemei, barlangjai a túrázók Mekkájává teszik a vidéket. A helyi tájház és a barlangkutatók emlékháza mélyebb betekintést enged a régió természeti és néprajzi értékeibe. Jósvafő csendje, a patakok csobogása és a természet közelsége olyan nyugodt atmoszférát teremt, amely elfeledteti a városi nyüzsgést minden látogatóval.", "ro": "Jósvafő este o localitate de un pitoresc aparte, situată în inima Parcului Național Aggtelek din nordul Ungariei, o zonă inclusă în patrimoniul mondial UNESCO. Satul este situat la confluența a trei pâraie, ceea ce îi conferă o vegetație luxuriantă și un aer de o prospețime rară. Jósvafő este renumit în special ca poarta de acces sudică către Peștera Baradla, cea mai mare și mai impresionantă peșteră cu stalactite din Europa Centrală. Centrul vechi al satului este o rezervație de arhitectură populară protejată, cu case din piatră și lemn care păstrează stilul tradițional al regiunii. O atracție unică în Ungaria este herghelia de cai Hucul; acești cai de munte robuști pot fi văzuți păscând pe dealurile din jurul satului, oferind turiștilor posibilitatea de a practica echitația în natură. Satul găzduiește și un mic lac carstic cu apă turcoaz și numeroase izvoare care alimentează pâraiele locale. Pentru cei interesați de știință, Casa Memorială Kessler Hubert oferă informații despre explorarea speologică a zonei. Jósvafő reprezintă destinația ideală pentru ecoturism, oferind trasee de drumeție prin peisaje carstice spectaculoase și o liniște deplină, departe de civilizația modernă.", "en": "Jósvafő is a quintessential mountain village located in the heart of the Aggtelek National Park in Northern Hungary, a region designated as a UNESCO World Heritage site. Nestled at the confluence of three streams, the village is surrounded by lush forests and dramatic karst landscapes. It is best known as the southern gateway to the Baradla Cave, Central Europe's largest and most magnificent stalactite cavern system. The historic core of Jósvafő is a protected architectural area, where traditional stone-built peasant houses with ornate wooden gables line the narrow streets. One of the village's unique highlights is the Hucul stud farm, where a robust breed of small mountain horses is bred and preserved; visitors can often see them grazing in the surrounding meadows. The village also features a stunning turquoise-colored karst lake and numerous fresh-water springs. For those interested in the history of discovery, the Kessler Hubert Memorial House explores the local legacy of cave exploration. Jósvafő offers a perfect blend of ethnographic charm and natural wonders, serving as a prime hub for hikers, nature photographers, and those seeking the tranquility of a pristine mountain environment. Its commitment to preserving both its cultural heritage and its subterranean treasures makes it a standout destination in Hungary."}, "factsAdvanced": {"de": ["Jósvafő liegt am Treffpunkt der Bäche Jósva, Kecső und Tohonya.", "Die Baradla-Höhle ist Teil des UNESCO-Welterbes Aggteleker Karst.", "Das Dorf beheimatet das größte Hucul-Gestüt Ungarns.", "Der tiefste See Ungarns (ein künstlicher Stautee) befand sich früher hier.", "Die reformierte Kirche hat einen hölzernen Glockenturm aus dem 18. Jahrhundert.", "Die Karstquelle Jósva ist die wasserreichste Quelle des Aggteleker Karsts."], "hu": ["Jósvafő az Aggteleki-karszt egyik legmélyebb völgyében fekszik.", "A Baradla-barlang jósvafői bejárata mellett található a Tengerszem-tó.", "A faluban tenyésztik a Kárpát-medence őshonos lovát, a hucult.", "A település központja 1999 óta országos jelentőségű műemléki terület.", "A Jósva-forrás percenként több ezer liter vizet ad.", "A falu nevében a 'Jósva' szó valószínűleg a 'jó víz' kifejezésből ered."], "ro": ["Jósvafő este sediul administrativ al Parcului Național Aggtelek.", "Peștera Baradla are o lungime totală de peste 25 de kilometri, trecând și în Slovacia.", "Caii Hucul sunt singura rasă de cai montani autohtoni din Bazinul Carpatic.", "Satul are numeroase case tradiționale construite fără mortar, folosind piatră locală.", "Izvorul Jósva alimentează un lac de smarald situat la marginea localității.", "Regiunea este celebră pentru densitatea ridicată de peșteri pe kilometru pătrat."], "en": ["Jósvafő is located within the Aggtelek Karst and Slovak Karst UNESCO site.", "The Baradla Cave entrance in Jósvafő is a starting point for specialized tours.", "The Hucul horses are known as the 'ponies of the Carpathians' for their strength.", "The village features a historic Reformed Church with a unique painted ceiling.", "The Jósva spring flows out from under a massive limestone cliff.", "The village maintains its traditional 19th-century mountain village structure."]}, "faq": {"de": [{"q": "Kann man die Hucul-Pferde reiten?", "a": "Ja, das Gestüt bietet Reitmöglichkeiten und Kutschfahrten für Besucher an."}, {"q": "Welche Höhlentouren starten in Jósvafő?", "a": "Es gibt sowohl kurze Standardtouren als auch längere Abenteuertouren."}, {"q": "Gibt es ein Hotel im Dorf?", "a": "Ja, das Hotel Tengerszem liegt direkt am Eingang zur Höhle."}, {"q": "Ist das Dorf für Wanderer geeignet?", "a": "Absolut, es ist einer der besten Ausgangspunkte für Wanderungen im Nationalpark."}], "hu": [{"q": "Mikor indulnak a barlangtúrák?", "a": "A jósvafői kijárattól fix időpontokban indulnak túrák, érdemes a honlapon tájékozódni."}, {"q": "Megnézhető-e a ménes minden nap?", "a": "Igen, a lovak a falu határában lévő legelőkön általában láthatóak."}, {"q": "Van-e étterem a faluban?", "a": "Igen, több panzió és a hotel étterme is várja az éhes túrázókat."}, {"q": "Milyen messze van Aggtelek?", "a": "Aggtelek közúton kb. 5 kilométerre fekszik Jósvafőtől."}], "ro": [{"q": "Este peștera Baradla iluminată?", "a": "Da, secțiunile principale sunt iluminate electric și au poteci amenajate."}, {"q": "Se pot vedea lilieci în peșteră?", "a": "Da, în anumite perioade ale anului, liliecii pot fi observați în galeriile înalte."}, {"q": "Există locuri de campare?", "a": "Da, în apropierea hotelului există o zonă de camping pentru turiști."}, {"q": "Cum este vremea în peșteră?", "a": "Temperatura este constantă la 10-11 grade Celsius, deci haina groasă este obligatorie."}], "en": [{"q": "Can I visit the cave without a guide?", "a": "No, all cave visits are strictly guided for safety and conservation reasons."}, {"q": "What is the Hucul horse trail?", "a": "It is an educational path near the village focused on the history of this horse breed."}, {"q": "Is there a grocery store in Jósvafő?", "a": "Yes, there is a small local shop in the village center."}, {"q": "Are there specialized photography tours in the cave?", "a": "Yes, but these usually require prior booking and specialized equipment."}]}, "sights": {
       "de": [
@@ -1994,6 +6497,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.544593,
                         48.483157
+                  ]
+            },
+            {
+                  "name": "Pitics-hegy",
+                  "text": "Pitics-hegy ist ein bemerkenswerter Berggipfel in der Nähe von Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564952,
+                        48.455823
+                  ]
+            },
+            {
+                  "name": "Béke-barlang (főbejárat)",
+                  "text": "Béke-barlang (főbejárat) ist der Haupteingang zur bekannten Friedenshöhle in Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.541949,
+                        48.460777
+                  ]
+            },
+            {
+                  "name": "Tücsök-lyuk",
+                  "text": "Tücsök-lyuk ist ein lokaler Höhleneingang in der Umgebung von Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.5439,
+                        48.506467
+                  ]
+            },
+            {
+                  "name": "Baradla Rövid-Alsó-barlang",
+                  "text": "Baradla Rövid-Alsó-barlang ist einer der Höhleneingänge im berühmten Baradla-Höhlensystem in Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.542367,
+                        48.483493
+                  ]
+            },
+            {
+                  "name": "Református harangtorony",
+                  "text": "Református harangtorony ist ein traditioneller reformierter Glockenturm in Jósvafő.",
+                  "category": "tower",
+                  "coords": [
+                        20.54935,
+                        48.483755
+                  ]
+            },
+            {
+                  "name": "Kessler-ház",
+                  "text": "Kessler-ház ist ein lokales Museum, das der Regionalgeschichte in Jósvafő gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.539397,
+                        48.484452
+                  ]
+            },
+            {
+                  "name": "Kúria Oktatóközpont",
+                  "text": "Kúria Oktatóközpont ist eine pädagogische Attraktion in Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.550696,
+                        48.484344
                   ]
             }
       ],
@@ -2008,6 +6574,69 @@ export const poiExtraHuV4: POI[] = [
                         20.544593,
                         48.483157
                   ]
+            },
+            {
+                  "name": "Pitics-hegy",
+                  "text": "A Pitics-hegy egy figyelemre méltó hegycsúcs Jósvafő közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564952,
+                        48.455823
+                  ]
+            },
+            {
+                  "name": "Béke-barlang (főbejárat)",
+                  "text": "A Béke-barlang (főbejárat) a híres jósvafői Béke-barlang főbejárata.",
+                  "category": "landmark",
+                  "coords": [
+                        20.541949,
+                        48.460777
+                  ]
+            },
+            {
+                  "name": "Tücsök-lyuk",
+                  "text": "A Tücsök-lyuk egy helyi barlangbejárat Jósvafő környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.5439,
+                        48.506467
+                  ]
+            },
+            {
+                  "name": "Baradla Rövid-Alsó-barlang",
+                  "text": "A Baradla Rövid-Alsó-barlang a híres jósvafői Baradla-barlangrendszer egyik bejárata.",
+                  "category": "landmark",
+                  "coords": [
+                        20.542367,
+                        48.483493
+                  ]
+            },
+            {
+                  "name": "Református harangtorony",
+                  "text": "A Református harangtorony egy hagyományos református harangtorony Jósvafőn.",
+                  "category": "tower",
+                  "coords": [
+                        20.54935,
+                        48.483755
+                  ]
+            },
+            {
+                  "name": "Kessler-ház",
+                  "text": "A Kessler-ház egy helytörténeti múzeum Jósvafő településen.",
+                  "category": "museum",
+                  "coords": [
+                        20.539397,
+                        48.484452
+                  ]
+            },
+            {
+                  "name": "Kúria Oktatóközpont",
+                  "text": "A Kúria Oktatóközpont egy oktatási célú látványosság Jósvafőn.",
+                  "category": "landmark",
+                  "coords": [
+                        20.550696,
+                        48.484344
+                  ]
             }
       ],
       "ro": [
@@ -2021,6 +6650,69 @@ export const poiExtraHuV4: POI[] = [
                         20.544593,
                         48.483157
                   ]
+            },
+            {
+                  "name": "Pitics-hegy",
+                  "text": "Pitics-hegy este un vârf montan notabil situat lângă Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564952,
+                        48.455823
+                  ]
+            },
+            {
+                  "name": "Béke-barlang (főbejárat)",
+                  "text": "Béke-barlang (főbejárat) este intrarea principală în renumita Peșteră a Păcii din Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.541949,
+                        48.460777
+                  ]
+            },
+            {
+                  "name": "Tücsök-lyuk",
+                  "text": "Tücsök-lyuk este o intrare de peșteră locală aflată în vecinătatea localității Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.5439,
+                        48.506467
+                  ]
+            },
+            {
+                  "name": "Baradla Rövid-Alsó-barlang",
+                  "text": "Baradla Rövid-Alsó-barlang este una dintre intrările în celebrul sistem de peșteri Baradla din Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.542367,
+                        48.483493
+                  ]
+            },
+            {
+                  "name": "Református harangtorony",
+                  "text": "Református harangtorony este un turn de clopotniță reformat tradițional situat în Jósvafő.",
+                  "category": "tower",
+                  "coords": [
+                        20.54935,
+                        48.483755
+                  ]
+            },
+            {
+                  "name": "Kessler-ház",
+                  "text": "Kessler-ház este un muzeu local dedicat istoriei regionale din Jósvafő.",
+                  "category": "museum",
+                  "coords": [
+                        20.539397,
+                        48.484452
+                  ]
+            },
+            {
+                  "name": "Kúria Oktatóközpont",
+                  "text": "Kúria Oktatóközpont este o atracție educațională situată în Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.550696,
+                        48.484344
+                  ]
             }
       ],
       "en": [
@@ -2033,6 +6725,69 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.544593,
                         48.483157
+                  ]
+            },
+            {
+                  "name": "Pitics-hegy",
+                  "text": "Pitics-hegy is a notable mountain peak situated near Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.564952,
+                        48.455823
+                  ]
+            },
+            {
+                  "name": "Béke-barlang (főbejárat)",
+                  "text": "Béke-barlang (főbejárat) is the main entrance to the renowned Peace Cave in Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.541949,
+                        48.460777
+                  ]
+            },
+            {
+                  "name": "Tücsök-lyuk",
+                  "text": "Tücsök-lyuk is a local cave entrance found in the vicinity of Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.5439,
+                        48.506467
+                  ]
+            },
+            {
+                  "name": "Baradla Rövid-Alsó-barlang",
+                  "text": "Baradla Rövid-Alsó-barlang is one of the cave entrances within the famous Baradla cave system in Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.542367,
+                        48.483493
+                  ]
+            },
+            {
+                  "name": "Református harangtorony",
+                  "text": "Református harangtorony is a traditional Reformed bell tower situated in Jósvafő.",
+                  "category": "tower",
+                  "coords": [
+                        20.54935,
+                        48.483755
+                  ]
+            },
+            {
+                  "name": "Kessler-ház",
+                  "text": "Kessler-ház is a local museum dedicated to regional history in Jósvafő.",
+                  "category": "museum",
+                  "coords": [
+                        20.539397,
+                        48.484452
+                  ]
+            },
+            {
+                  "name": "Kúria Oktatóközpont",
+                  "text": "Kúria Oktatóközpont is an educational attraction located in Jósvafő.",
+                  "category": "landmark",
+                  "coords": [
+                        20.550696,
+                        48.484344
                   ]
             }
       ]
@@ -2049,6 +6804,15 @@ export const poiExtraHuV4: POI[] = [
                         21.920441,
                         47.861103
                   ]
+            },
+            {
+                  "name": "Wolkenstein-kastély",
+                  "text": "Das Wolkenstein-kastély ist ein historisches Schloss in Kállósemjén.",
+                  "category": "castle",
+                  "coords": [
+                        21.922257,
+                        47.859775
+                  ]
             }
       ],
       "hu": [
@@ -2061,6 +6825,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.920441,
                         47.861103
+                  ]
+            },
+            {
+                  "name": "Wolkenstein-kastély",
+                  "text": "A Wolkenstein-kastély egy történelmi kastély Kállósemjén területén.",
+                  "category": "castle",
+                  "coords": [
+                        21.922257,
+                        47.859775
                   ]
             }
       ],
@@ -2075,6 +6848,15 @@ export const poiExtraHuV4: POI[] = [
                         21.920441,
                         47.861103
                   ]
+            },
+            {
+                  "name": "Wolkenstein-kastély",
+                  "text": "Wolkenstein-kastély este un castel istoric situat în Kállósemjén.",
+                  "category": "castle",
+                  "coords": [
+                        21.922257,
+                        47.859775
+                  ]
             }
       ],
       "en": [
@@ -2087,6 +6869,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.920441,
                         47.861103
+                  ]
+            },
+            {
+                  "name": "Wolkenstein-kastély",
+                  "text": "Wolkenstein-kastély is a historical castle located in Kállósemjén.",
+                  "category": "castle",
+                  "coords": [
+                        21.922257,
+                        47.859775
                   ]
             }
       ]
@@ -2103,6 +6894,33 @@ export const poiExtraHuV4: POI[] = [
                         17.553594,
                         46.92519
                   ]
+            },
+            {
+                  "name": "Pokol-lik",
+                  "text": "Pokol-lik ist ein lokaler Höhleneingang in Kapolcs.",
+                  "category": "landmark",
+                  "coords": [
+                        17.588173,
+                        46.947024
+                  ]
+            },
+            {
+                  "name": "Királykő",
+                  "text": "Királykő ist eine archäologische Stätte bei Kapolcs.",
+                  "category": "historical",
+                  "coords": [
+                        17.614194,
+                        46.952536
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Dieses Gebiet ist ein streng geschütztes Naturschutzgebiet in Kapolcs.",
+                  "category": "natural",
+                  "coords": [
+                        17.617156,
+                        46.953112
+                  ]
             }
       ],
       "hu": [
@@ -2115,6 +6933,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.553594,
                         46.92519
+                  ]
+            },
+            {
+                  "name": "Pokol-lik",
+                  "text": "A Pokol-lik egy természetes barlangnyílás Kapolcs határában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.588173,
+                        46.947024
+                  ]
+            },
+            {
+                  "name": "Királykő",
+                  "text": "A Királykő egy régészeti lelőhely Kapolcs területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.614194,
+                        46.952536
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Ez a helyszín egy fokozottan védett természetvédelmi terület Kapolcs közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.617156,
+                        46.953112
                   ]
             }
       ],
@@ -2129,6 +6974,33 @@ export const poiExtraHuV4: POI[] = [
                         17.553594,
                         46.92519
                   ]
+            },
+            {
+                  "name": "Pokol-lik",
+                  "text": "Pokol-lik este o intrare de peșteră localizată în Kapolcs.",
+                  "category": "landmark",
+                  "coords": [
+                        17.588173,
+                        46.947024
+                  ]
+            },
+            {
+                  "name": "Királykő",
+                  "text": "Királykő este un sit arheologic din Kapolcs.",
+                  "category": "historical",
+                  "coords": [
+                        17.614194,
+                        46.952536
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Acesta este o rezervație naturală strict protejată din Kapolcs.",
+                  "category": "natural",
+                  "coords": [
+                        17.617156,
+                        46.953112
+                  ]
             }
       ],
       "en": [
@@ -2142,14 +7014,225 @@ export const poiExtraHuV4: POI[] = [
                         17.553594,
                         46.92519
                   ]
+            },
+            {
+                  "name": "Pokol-lik",
+                  "text": "Pokol-lik is a local cave entrance found in Kapolcs.",
+                  "category": "landmark",
+                  "coords": [
+                        17.588173,
+                        46.947024
+                  ]
+            },
+            {
+                  "name": "Királykő",
+                  "text": "Királykő is an archaeological site located in Kapolcs.",
+                  "category": "historical",
+                  "coords": [
+                        17.614194,
+                        46.952536
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "This site is a strictly protected nature reserve located in Kapolcs.",
+                  "category": "natural",
+                  "coords": [
+                        17.617156,
+                        46.953112
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Burg Nagyvázsony", "text": "Die berühmte Kinizsi-Burg mit Wohnturm.", "distance": "12 km", "category": "historical"}, {"name": "Taliándörögd", "text": "Ein Nachbardorf mit einer beeindruckenden Kirchenruine.", "distance": "5 km", "category": "historical"}], "hu": [{"name": "Nagyvázsonyi Kinizsi-vár", "text": "Kinizsi Pál vitéz egykori vára, látványos lakótoronnyal.", "distance": "12 km", "category": "historical"}, {"name": "Taliándörögdi Szent András templomrom", "text": "Középkori monumentális romok a falu szélén.", "distance": "5 km", "category": "historical"}], "ro": [{"name": "Castelul Kinizsi din Nagyvázsony", "text": "O fortăreață medievală importantă cu un turn rezidențial masiv.", "distance": "12 km", "category": "historical"}, {"name": "Ruina bisericii din Taliándörögd", "text": "Rămășițele unei biserici medievale impunătoare.", "distance": "5 km", "category": "historical"}], "en": [{"name": "Kinizsi Castle in Nagyvázsony", "text": "A well-preserved medieval fortress once owned by the hero Pál Kinizsi.", "distance": "12 km", "category": "historical"}, {"name": "Church Ruins of Taliándörögd", "text": "Atmospheric ruins of a large medieval parish church.", "distance": "5 km", "category": "historical"}]}, "parent": "veszprem"},
   {"id": "kazar", "type": "village", "coords": [19.8553, 48.0483], "population": 1700, "name": {"de": "Kazár", "hu": "Kazár", "ro": "Kazár", "en": "Kazár"}, "descriptionAdvanced": {"de": "Kazár ist ein malerisches Dorf im Komitat Nógrád, das für seine reiche Volkskultur und eine einzigartige geologische Formation bekannt ist. Die Gemeinde ist eines der Zentren der 'Palóc'-Kultur, einer ungarischen Volksgruppe mit markanten Dialekten und Trachten. Die Frauen von Kazár tragen bis heute bei festlichen Anlässen ihre weltberühmten, aufwendig bestickten Trachten, die durch ihre Farbenpracht bestechen. Ein absolutes Highlight ist das Rhyolith-Tuff-Feld am Rande des Dorfes, eine mondähnliche Landschaft, die durch vulkanische Erosion entstanden ist. Weltweit gibt es nur wenige Orte mit einer ähnlichen Struktur, was Kazár zu einem Ziel für Geologen und Fotografen macht. Das Dorf pflegt seine Traditionen in mehreren Heimatmuseen, in denen man die bäuerliche Lebensweise des 19. Jahrhunderts kennenlernen kann. Die Umgebung ist von den sanften Hügeln des Cserhát-Gebirges geprägt, die zu ausgiebigen Wanderungen einladen. Kazár ist ein Ort, an dem die Zeit langsamer zu vergehen scheint und die ungarische Seele in ihrer reinsten Form erlebbar ist.", "hu": "Kazár Nógrád vármegye keleti részén, Salgótarján szomszédságában fekvő település, amely a palóc kultúra és a különleges természeti képződmények találkozóhelye. A falu egyik legfőbb büszkesége a világhírű kazári női népviselet, amely bonyolult hímzéseivel és jellegzetes főkötőivel a palóc hagyományok egyik leggazdagabb tárháza. A település központjában található tájházak és múzeumok hűen őrzik a régi paraszti életmód emlékeit. Természeti vonzereje közül kiemelkedik a riolittufa-mező, amely egyedülálló geológiai ritkaság: a fehér, barázdált felszín a vulkáni hamu eróziója révén jött létre, és leginkább a törökországi Kappadókiára emlékeztet. Európában mindössze hat hasonló hely létezik, így a túrázók számára bakancslistás úticél. Kazár híres gasztronómiájáról is, különösen a laskáról és a tócsniról, melyeket a helyi fesztiválokon fatüzelésű kemencékben készítenek. A község vendégszerető lakói elkötelezettek a hagyományőrzés mellett, így a látogatók valódi időutazáson vehetnek részt a palócok földjén.", "ro": "Kazár este o bijuterie ascunsă a județului Nógrád, situată într-o vale liniștită a munților Cserhát, fiind un centru vital al culturii populare Palóc. Localitatea este renumită pentru portul său popular feminin, considerat unul dintre cele mai complexe și artistice din Ungaria, caracterizat prin broderii fine și culori vibrante. Din punct de vedere geologic, Kazár oferă un spectacol rar: un câmp de tuf riolitic alb, modelat de eroziune într-o formă care amintește de peisajele lunare sau de faimoasa regiune Cappadocia din Turcia. Acest fenomen natural, unic în Europa Centrală, atrage anual mii de vizitatori dornici să exploreze formațiunile de rocă vulcanică. Satul găzduiește mai multe muzee locale și case memoriale care prezintă viața de zi cu zi a țăranilor din secolele trecute, precum și ateliere de meșteșuguri tradiționale. Gastronomia locală este un alt punct forte, vizitatorii având ocazia să guste preparate specifice gătite după rețete vechi transmise din generație în generație. Kazár reprezintă destinația ideală pentru cei care doresc să combine turismul cultural cu explorarea naturii sălbatice.", "en": "Kazár is a picturesque village in Nógrád County, famous for its vibrant folk heritage and a rare geological phenomenon. As a heartland of the 'Palóc' people, the village is renowned for its traditional costumes, which are among the most ornate and colorful in Hungary. On holidays, the local women still wear these intricately embroidered dresses, showcasing centuries of artistic tradition. Beyond its cultural wealth, Kazár is home to a world-class natural wonder: the Rhyolite Tuff formations. This eroded volcanic ash landscape, with its stark white ridges and deep furrows, is a geological rarity found in only six places globally. The village center is dotted with charming heritage houses, museums, and craft workshops that allow visitors to step back in time. The surrounding rolling hills of the Nógrád Geopark offer peaceful hiking trails and stunning viewpoints. Kazár is also known for its traditional oven-baked flatbreads and hospitable atmosphere, making it a perfect destination for those seeking an authentic encounter with Hungarian rural life and unique natural beauty."}, "factsAdvanced": {"de": ["Die Rhyolith-Tuff-Formation ist etwa 20 Millionen Jahre alt.", "Die Tracht von Kazár besteht aus bis zu 10 Schichten Röcken.", "Das Dorf liegt nur 6 km von Salgótarján entfernt.", "Es gibt hier 9 verschiedene Ausstellungsräume und Heimatmuseen.", "Der Name Kazár leitet sich vermutlich vom Volk der Chasaren ab.", "Die Rhyolith-Fläche erstreckt sich über fast einen Hektar."], "hu": ["A kazári riolittufa Európában egyedülálló, összesen 6 ilyen hely van a világon.", "A helyi népviseletet a mai napig több mint 20 idős asszony készíti.", "A falu 2012-ben kapta meg a Magyar Örökség díjat.", "A kazári laska készítése a település legfontosabb gasztro-hagyománya.", "A környék a Nógrád-Novohrad Geopark része.", "A riolittufa felszíne folyamatosan változik az esővíz eróziója miatt."], "ro": ["Formațiunile de tuf riolitic sunt de culoare albă strălucitoare.", "Satul are o casă memorială dedicată portului popular Palóc.", "Distanța de mers pe jos până la tuful riolitic este de 1,5 km din centru.", "Kazár a fost menționat pentru prima dată în documente în 1227.", "Populația satului este de aproximativ 1.700 de persoane.", "Localitatea găzduiește un festival anual al cuptoarelor tradiționale."], "en": ["The Rhyolite Tuff was formed by Miocene volcanic activity.", "Kazár is a prominent member of the UNESCO Global Geopark network.", "The local folk costume was added to the National Treasure list.", "The village features a dedicated museum for iron and mining tools.", "Average elevation of the village is 195 meters above sea level.", "The white volcanic ash reflects sunlight, creating a bright glow."]}, "faq": {"de": [{"q": "Wie erreiche ich das Rhyolith-Tuff-Feld?", "a": "Vom Dorfzentrum führt ein gut markierter Wanderweg (ca. 20-30 Min.) dorthin."}, {"q": "Kann man die Trachten kaufen?", "a": "Originale Trachten sind Familienerbstücke, aber im Dorf gibt es Kunsthandwerker, die Repliken und Stickereien verkaufen."}, {"q": "Ist der Eintritt zum Tuff-Feld kostenpflichtig?", "a": "Nein, das Naturdenkmal ist frei zugänglich."}, {"q": "Wann ist das beste Wetter für Fotos am Tuff?", "a": "Bei tiefstehender Sonne am Vormittag oder späten Nachmittag kommen die Strukturen am besten zur Geltung."}], "hu": [{"q": "Milyen hosszú túra a riolittufa megtekintése?", "a": "Könnyű, körülbelül 3-4 kilométeres körséta a falu szélétől."}, {"q": "Mikor látható a legtöbb népviseletbe öltözött ember?", "a": "Nagyobb egyházi ünnepeken vagy a Kazári Laskafesztivál idején."}, {"q": "Van étkezési lehetőség a faluban?", "a": "Igen, a faluban működik vendéglő és több kisebb büfé is."}, {"q": "Be lehet menni a tájházakba bármikor?", "a": "Érdemes előre bejelentkezni a polgármesteri hivatalnál vagy a múzeumnál."}], "ro": [{"q": "Este sigur drumul spre formațiunile muntoase?", "a": "Da, traseul este marcat și nu necesită echipament de alpinism, doar pantofi de sport."}, {"q": "Se pot face poze în interiorul muzeelor?", "a": "De regulă da, dar este bine să întrebați personalul de la intrare."}, {"q": "Există transport public din Salgótarján?", "a": "Da, există autobuze locale regulate care circulă între oraș și sat."}, {"q": "Ce este 'laska'?", "a": "Este o turtă tradițională coaptă pe plită, specifică regiunii Palóc."}], "en": [{"q": "What is the best time to visit Kazár?", "a": "Late spring for the nature and the Laska Festival in June are highly recommended."}, {"q": "Is the Rhyolite Tuff slippery?", "a": "It can be slippery after rain, so wear shoes with good grip."}, {"q": "Are there guided tours for the folk houses?", "a": "Yes, local guides can be requested at the Tourism Information Point in the center."}, {"q": "Can I bring a dog to the Tuff formation?", "a": "Yes, dogs are welcome but should be kept on a leash to protect the area."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Szeplőtelen Fogantatás templom",
+                  "text": "Szeplőtelen Fogantatás templom ist eine Kultstätte in der Ortschaft Kazár.",
+                  "category": "religious",
+                  "coords": [
+                        19.819391,
+                        48.049894
+                  ]
+            },
+            {
+                  "name": "Gyufacímke gyűjtemény",
+                  "text": "Die Gyufacímke gyűjtemény ist ein Museum in Kazár, das eine Sammlung von Streichholzetiketten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.861264,
+                        48.049062
+                  ]
+            },
+            {
+                  "name": "Vasaló Múzeum",
+                  "text": "Das Vasaló Múzeum in Kazár ist ein lokales Museum, das sich historischen Bügeleisen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        19.862176,
+                        48.049159
+                  ]
+            },
+            {
+                  "name": "Bányászház",
+                  "text": "Das Bányászház ist ein Museum in Kazár, das die lokale Bergbaugeschichte und Lebensweise zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.855281,
+                        48.049914
+                  ]
+            },
+            {
+                  "name": "Kazári riolittufa",
+                  "text": "Kazári riolittufa ist eine geologische Attraktion mit Rhyolith-Tuff-Formationen in Kazár.",
+                  "category": "landmark",
+                  "coords": [
+                        19.874947,
+                        48.058539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szeplőtelen Fogantatás templom",
+                  "text": "A Szeplőtelen Fogantatás templom egy vallási épület Kazár településen.",
+                  "category": "religious",
+                  "coords": [
+                        19.819391,
+                        48.049894
+                  ]
+            },
+            {
+                  "name": "Gyufacímke gyűjtemény",
+                  "text": "A kazári Gyufacímke gyűjtemény egy egyedi kiállítás, amely gyufacímkéket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.861264,
+                        48.049062
+                  ]
+            },
+            {
+                  "name": "Vasaló Múzeum",
+                  "text": "A kazári Vasaló Múzeum a történelmi vasalóeszközök helyi kiállítóhelye.",
+                  "category": "museum",
+                  "coords": [
+                        19.862176,
+                        48.049159
+                  ]
+            },
+            {
+                  "name": "Bányászház",
+                  "text": "A kazári Bányászház a helyi bányászati múltat és életmódot bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.855281,
+                        48.049914
+                  ]
+            },
+            {
+                  "name": "Kazári riolittufa",
+                  "text": "A Kazári riolittufa egyedülálló geológiai látványosság és természeti képződmény Kazár határában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.874947,
+                        48.058539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Szeplőtelen Fogantatás templom",
+                  "text": "Szeplőtelen Fogantatás templom este un lăcaș de cult situat în Kazár.",
+                  "category": "religious",
+                  "coords": [
+                        19.819391,
+                        48.049894
+                  ]
+            },
+            {
+                  "name": "Gyufacímke gyűjtemény",
+                  "text": "Gyufacímke gyűjtemény este un muzeu din Kazár care expune o colecție de etichete de chibrituri.",
+                  "category": "museum",
+                  "coords": [
+                        19.861264,
+                        48.049062
+                  ]
+            },
+            {
+                  "name": "Vasaló Múzeum",
+                  "text": "Vasaló Múzeum este un muzeu local din Kazár dedicat fiarelor de călcat istorice.",
+                  "category": "museum",
+                  "coords": [
+                        19.862176,
+                        48.049159
+                  ]
+            },
+            {
+                  "name": "Bányászház",
+                  "text": "Bányászház este un muzeu din Kazár care prezintă istoria și stilul de viață minier local.",
+                  "category": "museum",
+                  "coords": [
+                        19.855281,
+                        48.049914
+                  ]
+            },
+            {
+                  "name": "Kazári riolittufa",
+                  "text": "Kazári riolittufa este o atracție geologică ce prezintă formațiuni de tuf riolitic în Kazár.",
+                  "category": "landmark",
+                  "coords": [
+                        19.874947,
+                        48.058539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Szeplőtelen Fogantatás templom",
+                  "text": "The Szeplőtelen Fogantatás templom is a place of worship located in Kazár.",
+                  "category": "religious",
+                  "coords": [
+                        19.819391,
+                        48.049894
+                  ]
+            },
+            {
+                  "name": "Gyufacímke gyűjtemény",
+                  "text": "The Gyufacímke gyűjtemény is a museum in Kazár displaying a collection of matchbox labels.",
+                  "category": "museum",
+                  "coords": [
+                        19.861264,
+                        48.049062
+                  ]
+            },
+            {
+                  "name": "Vasaló Múzeum",
+                  "text": "The Vasaló Múzeum is a local museum in Kazár dedicated to historical ironing tools.",
+                  "category": "museum",
+                  "coords": [
+                        19.862176,
+                        48.049159
+                  ]
+            },
+            {
+                  "name": "Bányászház",
+                  "text": "The Bányászház is a museum in Kazár showcasing the local mining history and lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        19.855281,
+                        48.049914
+                  ]
+            },
+            {
+                  "name": "Kazári riolittufa",
+                  "text": "Kazári riolittufa is a geological attraction featuring rhyolite tuff formations in Kazár.",
+                  "category": "landmark",
+                  "coords": [
+                        19.874947,
+                        48.058539
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Salgó-Burg", "text": "Eine beeindruckende Burgruine auf einem hohen Basaltfelsen mit Weitblick.", "distance": "12 km", "category": "historical"}, {"name": "Mátraverebély-Szentkút", "text": "Ein nationaler Wallfahrtsort mit einer Heilquelle und Barockkirche.", "distance": "20 km", "category": "religious"}], "hu": [{"name": "Salgó vára", "text": "Bazaltkúpon álló várrom, ahonnan tiszta időben a Tátra is látszik.", "distance": "12 km", "category": "historical"}, {"name": "Somoskői vár", "text": "Közvetlenül a határvonalon álló erődítmény, lábánál a híres bazaltorgonákkal.", "distance": "15 km", "category": "historical"}], "ro": [{"name": "Cetatea Salgó", "text": "Ruinele unei cetăți construite pe o stâncă vulcanică, oferind panorame superbe.", "distance": "12 km", "category": "historical"}, {"name": "Szentkút", "text": "Sanctuar național maghiar și loc de pelerinaj renumit pentru miracole.", "distance": "20 km", "category": "religious"}], "en": [{"name": "Salgó Castle", "text": "A castle ruin perched on a basalt peak, iconic to the Nógrád landscape.", "distance": "12 km", "category": "historical"}, {"name": "Mátraverebély-Szentkút", "text": "The national shrine of Hungary, located in a scenic valley with a holy spring.", "distance": "20 km", "category": "religious"}]}, "parent": "nograd"},
   {"id": "kehidakustany", "type": "village", "coords": [17.113, 46.834], "population": 1120, "name": {"de": "Kehidakustány", "hu": "Kehidakustány", "ro": "Kehidakustány", "en": "Kehidakustány"}, "descriptionAdvanced": {"de": "Kehidakustány ist eine bedeutende Kur- und Kulturgemeinde im Komitat Zala, gelegen im malerischen Tal des Flusses Zala. Der Ort entstand durch die Vereinigung der Dörfer Kehida und Kustány und ist heute vor allem für sein modernes Thermal- und Erlebnisbad bekannt, dessen zertifiziertes Heilwasser besonders bei Gelenk- und Hauterkrankungen geschätzt wird. Doch Kehidakustány ist weit mehr als nur ein Wellness-Resort; es ist ein Ort von nationaler historischer Bedeutung. Hier befindet sich das ehemalige Herrenhaus von Ferenc Deák, dem 'Weisen der Nation', der maßgeblich am Österreichisch-Ungarischen Ausgleich von 1867 beteiligt war. Das Deák-Museum im renovierten Barockschloss bietet einen tiefen Einblick in das Leben und Wirken dieses bedeutenden Politikers des 19. Jahrhunderts. Das Dorf bewahrt zudem sakrale Schätze wie die römisch-katholische Kirche Mariä Verkündigung und die Ruinen einer mittelalterlichen Rundkirche. Die natürliche Umgebung bietet zahlreiche Freizeitmöglichkeiten, von Radtouren entlang der Zala bis hin zu Wanderungen durch die sanften Hügel von Zala. Die Gastronomie der Region spiegelt die Traditionen von Göcsej und Hetés wider, wobei lokale Spezialitäten wie Dödölle und Wildgerichte die Besucher kulinarisch verwöhnen.", "hu": "Kehidakustány Zala vármegye északkeleti részén, a Zala folyó völgyében fekvő dinamikusan fejlődő település, amely Kehida és Kustány egyesülésével jött létre. Országos ismertségét elsősorban a Kehida Termál Gyógy- és Élményfürdőnek köszönheti, amelynek 43 fokos kénes gyógyvize kiválóan alkalmas mozgásszervi panaszok kezelésére. A falu azonban nemcsak a wellness kedvelői számára vonzó, hanem a magyar történelem egyik legfontosabb emlékhelye is. Itt áll a Deák-kúria, ahol a 'haza bölcse', Deák Ferenc élt és alkotott évtizedeken át. A kúriában berendezett interaktív kiállítás a 19. századi reformkor világát és Deák politikai örökségét mutatja be. A település épített értékei közé tartozik a középkori eredetű kustányi romtemplom és a kehidai Gyümölcsoltó Boldogasszony-templom, amely barokk stílusával a falu központját ékesíti. Kehidakustány ideális hely a csendes pihenésre, ugyanakkor a Zala-völgyi kerékpárút és a közeli Keszthelyi-hegység túraútvonalai aktív kikapcsolódást is kínálnak. A falu gasztronómiája a zalai hagyományokra épül, ahol a dödölle és a tökmagolajos ételek mellett a helyi borok is fontos szerepet kapnak.", "ro": "Kehidakustány este o stațiune balneară și un centru istoric important situat în valea râului Zala, formată prin unirea a două sate străvechi. Localitatea a devenit celebră în ultimii ani datorită complexului termal modern, care utilizează ape bogate în sulf pentru tratamente terapeutice și relaxare. Pe lângă facilitățile de wellness, Kehidakustány deține o valoare istorică imensă pentru Ungaria, fiind locul de reședință al lui Ferenc Deák, supranumit 'înțeleptul națiunii'. Conacul Deák, transformat într-un muzeu de rang național, oferă vizitatorilor o incursiune în atmosfera epocii reformelor și în viața omului politic care a negociat compromisul austro-ungar. Din punct de vedere arhitectural, satul impresionează prin biserica barocă și prin ruinele bisericii medievale din Kustány, care atestă o continuitate a locuirii de peste opt secole. Peisajul înconjurător este tipic regiunii Zala, cu dealuri line și păduri de foioase, oferind condiții excelente pentru turismul activ, inclusiv trasee de ciclism și pescuit pe râul Zala. Gastronomia locală este renumită pentru preparatele din cartofi și ulei de dovleac, reprezentând o atracție în sine pentru vizitatorii care caută aromele autentice ale regiunii Transdanubia.", "en": "Kehidakustány is a prominent spa destination and historical site located in the Zala River valley, formed by the merger of two ancient villages, Kehida and Kustány. The settlement is widely known for the Kehida Thermal Spa and Adventure Bath, which features 43°C sulfurous medicinal water renowned for treating musculoskeletal disorders. Beyond wellness, the village holds deep significance in Hungarian history as the long-time residence of Ferenc Deák, the 'Sage of the Nation' and architect of the 1867 Austro-Hungarian Compromise. The Deák Mansion, a beautifully restored baroque building, now houses a comprehensive exhibition dedicated to his political career and personal life. Architectural highlights also include the medieval church ruins in Kustány and the baroque Church of the Annunciation in Kehida. The village's geographic location offers a peaceful rural atmosphere with access to the Zala Valley bicycle path and nearby hiking trails in the Zala Hills. Visitors can enjoy local culinary specialties such as 'dödölle' (potato dumplings) and dishes prepared with cold-pressed pumpkin seed oil, reflecting the rich gastronomic heritage of Zala County. Kehidakustány perfectly balances health tourism with high-level cultural exploration."}, "factsAdvanced": {"de": ["Die Thermalquelle von Kehida liefert Wasser mit einer Temperatur von 43°C.", "Ferenc Deák lebte hier von 1803 bis 1854 auf seinem Familiengut.", "Das Herrenhaus wurde in der Mitte des 18. Jahrhunderts erbaut.", "Die Gemeinde entstand 1977 durch die Zusammenlegung von Kehida und Kustány.", "Das Heilwasser von Kehida ist besonders reich an Schwefel und Kalzium.", "Kehidakustány liegt nur 12 km vom Kurort Hévíz entfernt."], "hu": ["A kehidai gyógyvíz 43 Celsius-fokos, kénes összetételű.", "Deák Ferenc 1803 és 1854 között élt a településen, itt volt a családi birtoka.", "A kúria épülete a 18. század közepén épült barokk stílusban.", "A két község, Kehida és Kustány 1977-ben egyesült.", "A kustányi romtemplom a 13. századi román stílus jegyeit viseli.", "A falu közigazgatási területe 19,75 négyzetkilométer."], "ro": ["Apa termală din Kehida este certificată ca apă medicinală din anul 1988.", "Conacul Deák a fost construit de familia Hertelendy în stil baroc.", "Localitatea este situată la o distanță de 20 km de orașul Keszthely.", "Populația satului a crescut constant datorită dezvoltării turismului balnear.", "Râul Zala traversează localitatea, oferind locuri de agrement pentru pescari.", "Complexul termal dispune de 13 bazine și numeroase tobogane."], "en": ["The medicinal water of Kehida was officially certified in 1988.", "Ferenc Deák spent 51 years of his life in this settlement.", "The Deák Mansion is one of the most visited historical museums in Zala County.", "The merger of Kehida and Kustány took place in 1977.", "The Zala Valley bicycle path connects the village with Lake Balaton.", "Kustány church ruins represent a typical 13th-century Transdanubian rural temple."]}, "faq": {"de": [{"q": "Ist das Deák-Museum täglich geöffnet?", "a": "Ja, meist von Dienstag bis Sonntag, montags ist Ruhetag."}, {"q": "Gibt es im Thermalbad auch Indoor-Becken?", "a": "Ja, das Bad verfügt über einen großen Innenbereich, der ganzjährig nutzbar ist."}, {"q": "Kann man in der Zala angeln?", "a": "Ja, mit einer entsprechenden Angelkarte ist das Fischen in der Zala erlaubt."}, {"q": "Wie weit ist der Plattensee entfernt?", "a": "Der See (Keszthely) ist etwa 20 Kilometer entfernt, ca. 25 Minuten Fahrt."}], "hu": [{"q": "Mennyibe kerül a belépő a Deák-kúriába?", "a": "A felnőtt jegy általában 1500-2000 Ft körül mozog, diák- és nyugdíjas kedvezmény van."}, {"q": "Van-e gyerekbarát részleg a fürdőben?", "a": "Igen, külön babapancsoló és csúszdapark várja a családokat."}, {"q": "Milyen tömegközlekedéssel érhető el a falu?", "a": "Keszthelyről és Zalaegerszegről rendszeres autóbuszjáratok indulnak."}, {"q": "Hol lehet megkóstolni a helyi ételeket?", "a": "A falu több éttermében és a fürdő saját vendéglátóhelyein is kínálnak zalai specialitásokat."}], "ro": [{"q": "Sunt permise animalele de companie în incinta complexului termal?", "a": "Nu, accesul cu animale este interzis în zona de bazine."}, {"q": "Se poate vizita mormântul lui Deák Ferenc în sat?", "a": "Nu, mormântul său se află în Budapesta, dar conacul familiei este aici."}, {"q": "Există cazare la conacul Deák?", "a": "Nu, conacul este muzeu, dar în imediata apropiere sunt numeroase hoteluri și pensiuni."}, {"q": "Este apa din bazine potrivită pentru copii?", "a": "Complexul are bazine speciale cu apă dulce pentru copii, apa termală fiind recomandată adulților."}], "en": [{"q": "What are the spa's opening hours?", "a": "The spa is generally open from 9:00 AM to 8:00 PM daily."}, {"q": "Can I rent a bike in Kehidakustány?", "a": "Yes, several guest houses and the tourist office offer bike rental services."}, {"q": "Is there a parking fee at the spa?", "a": "Parking is usually free for spa guests in the designated lots."}, {"q": "What historical period does the mansion exhibition cover?", "a": "It covers the Reform Era (1825-1848) and the life of Ferenc Deák."}]}, "sights": {
       "de": [
@@ -2181,6 +7264,60 @@ export const poiExtraHuV4: POI[] = [
                         17.093378,
                         46.843148
                   ]
+            },
+            {
+                  "name": "Deák-kúria",
+                  "text": "Die Deák-kúria ist ein historisches Herrenhaus in Kehidakustány, das mit dem ungarischen Staatsmann Ferenc Deák verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        17.093089,
+                        46.844924
+                  ]
+            },
+            {
+                  "name": "Gyümölcsoltó Boldogasszony-templom",
+                  "text": "Die Kirche Mariä Verkündigung ist ein historisches Gotteshaus in Kehidakustány.",
+                  "category": "religious",
+                  "coords": [
+                        17.091823,
+                        46.843326
+                  ]
+            },
+            {
+                  "name": "Teréz Anya kilátó",
+                  "text": "Der Aussichtspunkt Mutter Teresa bietet einen malerischen Blick über die Gegend von Kehidakustány.",
+                  "category": "natural",
+                  "coords": [
+                        17.146209,
+                        46.840928
+                  ]
+            },
+            {
+                  "name": "Batthyány-kastély",
+                  "text": "Das Batthyány-kastély ist ein bemerkenswertes Schloss in Kehidakustány.",
+                  "category": "castle",
+                  "coords": [
+                        17.093902,
+                        46.81088
+                  ]
+            },
+            {
+                  "name": "Kustányi romtemplom",
+                  "text": "Die Kirchenruine von Kustány ist eine faszinierende historische Attraktion in Kehidakustány.",
+                  "category": "landmark",
+                  "coords": [
+                        17.111821,
+                        46.821369
+                  ]
+            },
+            {
+                  "name": "Kehida Termál",
+                  "text": "Kehida Termál ist ein beliebter Thermalwasserpark in Kehidakustány.",
+                  "category": "recreational",
+                  "coords": [
+                        17.106351,
+                        46.832849
+                  ]
             }
       ],
       "hu": [
@@ -2204,6 +7341,60 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.093378,
                         46.843148
+                  ]
+            },
+            {
+                  "name": "Deák-kúria",
+                  "text": "A Deák-kúria egy történelmi kastély Kehidakustányban, amely szorosan kötődik Deák Ferenc magyar államférfihoz.",
+                  "category": "castle",
+                  "coords": [
+                        17.093089,
+                        46.844924
+                  ]
+            },
+            {
+                  "name": "Gyümölcsoltó Boldogasszony-templom",
+                  "text": "A Gyümölcsoltó Boldogasszony-templom egy történelmi jelentőségű istentiszteleti hely Kehidakustányban.",
+                  "category": "religious",
+                  "coords": [
+                        17.091823,
+                        46.843326
+                  ]
+            },
+            {
+                  "name": "Teréz Anya kilátó",
+                  "text": "A Teréz Anya kilátó festői kilátást nyújt Kehidakustány környékére.",
+                  "category": "natural",
+                  "coords": [
+                        17.146209,
+                        46.840928
+                  ]
+            },
+            {
+                  "name": "Batthyány-kastély",
+                  "text": "A Batthyány-kastély egy figyelemre méltó kastély Kehidakustányban.",
+                  "category": "castle",
+                  "coords": [
+                        17.093902,
+                        46.81088
+                  ]
+            },
+            {
+                  "name": "Kustányi romtemplom",
+                  "text": "A Kustányi romtemplom egy érdekes történelmi látványosság Kehidakustányban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.111821,
+                        46.821369
+                  ]
+            },
+            {
+                  "name": "Kehida Termál",
+                  "text": "A Kehida Termál egy népszerű termálfürdő és aquapark Kehidakustányban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.106351,
+                        46.832849
                   ]
             }
       ],
@@ -2229,6 +7420,60 @@ export const poiExtraHuV4: POI[] = [
                         17.093378,
                         46.843148
                   ]
+            },
+            {
+                  "name": "Deák-kúria",
+                  "text": "Deák-kúria este un conac istoric din Kehidakustány, asociat în special cu omul de stat maghiar Ferenc Deák.",
+                  "category": "castle",
+                  "coords": [
+                        17.093089,
+                        46.844924
+                  ]
+            },
+            {
+                  "name": "Gyümölcsoltó Boldogasszony-templom",
+                  "text": "Biserica Buna Vestire este un lăcaș de cult istoric situat în Kehidakustány.",
+                  "category": "religious",
+                  "coords": [
+                        17.091823,
+                        46.843326
+                  ]
+            },
+            {
+                  "name": "Teréz Anya kilátó",
+                  "text": "Punctul de belvedere Maica Tereza oferă priveliști pitorești asupra zonei Kehidakustány.",
+                  "category": "natural",
+                  "coords": [
+                        17.146209,
+                        46.840928
+                  ]
+            },
+            {
+                  "name": "Batthyány-kastély",
+                  "text": "Batthyány-kastély este un castel notabil situat în Kehidakustány.",
+                  "category": "castle",
+                  "coords": [
+                        17.093902,
+                        46.81088
+                  ]
+            },
+            {
+                  "name": "Kustányi romtemplom",
+                  "text": "Biserica ruinată Kustány este o atracție istorică intrigantă din Kehidakustány.",
+                  "category": "landmark",
+                  "coords": [
+                        17.111821,
+                        46.821369
+                  ]
+            },
+            {
+                  "name": "Kehida Termál",
+                  "text": "Kehida Termál este un popular parc acvatic termal situat în Kehidakustány.",
+                  "category": "recreational",
+                  "coords": [
+                        17.106351,
+                        46.832849
+                  ]
             }
       ],
       "en": [
@@ -2253,20 +7498,442 @@ export const poiExtraHuV4: POI[] = [
                         17.093378,
                         46.843148
                   ]
+            },
+            {
+                  "name": "Deák-kúria",
+                  "text": "The Deák-kúria is a historic manor house in Kehidakustány, notably associated with the Hungarian statesman Ferenc Deák.",
+                  "category": "castle",
+                  "coords": [
+                        17.093089,
+                        46.844924
+                  ]
+            },
+            {
+                  "name": "Gyümölcsoltó Boldogasszony-templom",
+                  "text": "The Church of the Annunciation is a historic place of worship located in Kehidakustány.",
+                  "category": "religious",
+                  "coords": [
+                        17.091823,
+                        46.843326
+                  ]
+            },
+            {
+                  "name": "Teréz Anya kilátó",
+                  "text": "The Mother Teresa viewpoint offers scenic sights over the area of Kehidakustány.",
+                  "category": "natural",
+                  "coords": [
+                        17.146209,
+                        46.840928
+                  ]
+            },
+            {
+                  "name": "Batthyány-kastély",
+                  "text": "The Batthyány-kastély is a notable castle located in Kehidakustány.",
+                  "category": "castle",
+                  "coords": [
+                        17.093902,
+                        46.81088
+                  ]
+            },
+            {
+                  "name": "Kustányi romtemplom",
+                  "text": "The Kustány ruined church is an intriguing historical attraction in Kehidakustány.",
+                  "category": "landmark",
+                  "coords": [
+                        17.111821,
+                        46.821369
+                  ]
+            },
+            {
+                  "name": "Kehida Termál",
+                  "text": "Kehida Termál is a popular thermal water park situated in Kehidakustány.",
+                  "category": "recreational",
+                  "coords": [
+                        17.106351,
+                        46.832849
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Hévíz Thermalsee", "text": "Der weltweit größte biologisch aktive natürliche Thermalsee.", "distance": "12 km", "category": "natural"}, {"name": "Schloss Festetics", "text": "Ein prächtiges Barockschloss in Keszthely mit einer riesigen Bibliothek.", "distance": "20 km", "category": "historical"}], "hu": [{"name": "Hévízi-tó", "text": "Világhírű természetes tőzegmedrű gyógytó meleg vízzel és tündérrózsákkal.", "distance": "12 km", "category": "natural"}, {"name": "Zalacsányi-tó", "text": "Kedvelt horgász- és szabadidőközpont a szomszédos településen.", "distance": "4 km", "category": "recreational"}], "ro": [{"name": "Lacul Hévíz", "text": "Cea mai mare piscină termală naturală din lume, faimoasă pentru nuferii săi.", "distance": "12 km", "category": "natural"}, {"name": "Castelul Festetics", "text": "Un palat monumental în Keszthely, reprezentativ pentru aristocrația maghiară.", "distance": "20 km", "category": "historical"}], "en": [{"name": "Lake Hévíz", "text": "A world-famous natural thermal lake offering unique outdoor swimming year-round.", "distance": "12 km", "category": "natural"}, {"name": "Keszthely", "text": "A historic lakeside city known for its museums and the Festetics Palace.", "distance": "20 km", "category": "civic"}]}, "parent": "zala"},
   {"id": "koveskal", "type": "village", "coords": [17.6075, 46.8794], "population": 360, "name": {"de": "Köveskál", "hu": "Köveskál", "ro": "Köveskál", "en": "Köveskál"}, "descriptionAdvanced": {"de": "Köveskál ist das gastronomische und kulturelle Herz des Káli-Beckens, einer Region, die oft als die 'Ungarische Toskana' bezeichnet wird. Das Dorf liegt inmitten einer einzigartigen geologischen Landschaft, die durch vulkanische Zeugenberge und bizarre Felsformationen geprägt ist. Köveskál selbst ist ein Musterbeispiel für die Architektur des Balaton-Oberlandes, mit seinen weiß getünchten Steinhäusern und den typischen geschnitzten Holztoren. Die Geschichte der Siedlung reicht weit zurück; sie war einst ein adeliges Dorf, was sich noch heute in der Eleganz einiger historischer Gebäude widerspiegelt. In den letzten Jahren hat sich Köveskál zu einem Mekka für Feinschmecker entwickelt. Hier finden sich einige der besten Restaurants Ungarns, die auf lokale Zutaten und moderne Interpretationen traditioneller Gerichte setzen. Die umliegenden Weinberge produzieren erstklassige Weine, die auf dem mineralhaltigen Boden hervorragend gedeihen. Ein besonderes Highlight in der unmittelbaren Nähe ist das 'Steinmeer' (Kőtenger) von Szentbékkálla, ein faszinierendes Naturphänomen aus riesigen Sandsteinblöcken. Köveskál bietet eine perfekte Mischung aus ländlicher Idylle, gehobener Gastronomie und beeindruckenden Naturerlebnissen, die den Geist des Balaton-Oberlandes perfekt einfangen.", "hu": "Köveskál a Káli-medence gasztronómiai és kulturális központja, egyben a Balaton-felvidék egyik legstílusosabb, műemlékileg védett települése. A falu neve a honfoglaló Kál horka nevéből ered, ami jelzi ősi, nemesi múltját. Köveskál építészete magán viseli az egykori kisnemesi jólét nyomait: a tágas udvarok, a kőkeretes ablakok és a gondosan faragott kapuk egyedi karaktert adnak az utcáknak. A település mára országos hírű gasztro-falu lett, ahol a legmagasabb minőségű éttermek és vendégházak várják a látogatókat, gyakran a helyi borászok kiváló tételeivel párosítva a fogásokat. A falu határában terül el a Káli-medence szinte teljes egésze, amelynek vulkanikus tanúhegyei és a közeli szentbékkállai kőtenger felejthetetlen természeti élményt nyújtanak. Köveskál nem csupán egy állomás a túrázók számára, hanem egy olyan szellemi műhely is, ahol művészek és borászok találtak otthonra. A falu klímája és a környék nyugalma a 'magyar Toszkána' érzését idézi. A település határában fakadó források és a vadvirágos rétek a Balaton-felvidéki Nemzeti Park legszebb részei közé tartoznak, ideális terepet biztosítva a természetjáróknak és a kikapcsolódni vágyóknak.", "ro": "Köveskál este inima gastronomică și culturală a bazinului Káli, o zonă supranumită adesea 'Toscana maghiară' datorită dealurilor sale line și a peisajului viticol spectaculos. Satul este o rezervație arhitecturală sub protecție monumentală, păstrând casele din piatră de var specifice regiunii Balaton-felvidék, cu fațade decorate și porți tradiționale din lemn. Istoria sa nobilă este atestată încă din perioada descălecatului maghiar, numele provenind de la căpetenia Kál. Astăzi, Köveskál este faimos în toată Ungaria pentru restaurantele sale de înaltă clasă care promovează filosofia 'de la fermă la masă', utilizând ingrediente locale de sezon. Localitatea servește drept bază ideală pentru explorarea minunilor naturale ale bazinului Káli, cum ar fi celebrul 'Mare de Piatră' (Kőtenger) din Szentbékkálla, un labirint de stânci din gresie formate prin eroziune. Podgoriile din jurul satului produc vinuri albe rafinate, cu o mineralitate distinctă oferită de substratul vulcanic. Atmosfera boemă a satului atrage numeroși artiști și scriitori, care au transformat Köveskál într-un centru cultural vibrant, menținând în același timp un ritm de viață liniștit și autentic rural. Este o destinație esențială pentru cei care doresc să descopere echilibrul perfect între tradiție, natură și gastronomie modernă.", "en": "Köveskál is the gastronomic and cultural epicenter of the Káli Basin, an area frequently referred to as the 'Hungarian Tuscany' for its rolling hills, Mediterranean-like microclimate, and exceptional viticulture. The village is a protected architectural heritage site, known for its elegant stone houses that reflect its historical status as a settlement of minor nobility. The name Köveskál originates from the 10th-century Hungarian chieftain Kál, highlighting the village's ancient roots. In recent decades, Köveskál has gained a national reputation as a high-end culinary destination, home to award-winning restaurants and boutique guesthouses that emphasize local ingredients and volcanic wines. The village serves as a primary gateway to the natural wonders of the Káli Basin, including the nearby 'Stone Sea' (Kőtenger) in Szentbékkálla—a breathtaking geological formation of massive sandstone boulders. The landscape is dotted with volcanic 'witness mountains' like Hegyestű and Gulács, providing a dramatic backdrop for hikers and photographers. Köveskál offers a sophisticated yet rustic experience where visitors can enjoy world-class hospitality in a tranquil, traditional village setting. Its streets are a testament to the enduring beauty of Transdanubian rural architecture, making it one of the most beloved gems of the Balaton Uplands."}, "factsAdvanced": {"de": ["Einst ein Dorf des Kleinadels (Curialisten).", "Gehört zum Nationalpark Balaton-Oberland.", "Zentrum der sogenannten 'Ungarischen Toskana'.", "Boden besteht aus rotem Sandstein und Kalkstein.", "Der Name Kál stammt von einem Anführer der Magyaren.", "Berühmt für seine 'Gastrodorf'-Atmosphäre."], "hu": ["Egykor nemesi kiváltságokkal rendelkező kuriális falu volt.", "A Káli-medence legjelentősebb gasztronómiai központja.", "A falu nevében a 'Köves' a köves talajra utal.", "Számos épülete műemléki védettséget élvez.", "Itt található az ország egyik legmagasabban jegyzett étterme.", "Központi elhelyezkedése miatt a medence 'fővárosának' is hívják."], "ro": ["Sat sub protecție monumentală cu arhitectură nobiliară rurală.", "Situat în centrul geologic al bazinului Káli.", "Faimos pentru restaurantele de tip 'gourmet village'.", "Numele provine de la horka Kál, lider tribal maghiar.", "Zona este protejată pentru flora sa rară și formațiunile de gresie.", "Populația este de doar 360 de persoane, dar crește mult vara."], "en": ["A historic settlement of minor nobility in the medieval era.", "Regarded as the culinary capital of the Káli Basin.", "Features uniquely preserved 19th-century peasant-citizen houses.", "Named after Chieftain Kál from the time of the Hungarian conquest.", "Surrounded by volcanic 'witness mountains' and sandstone formations.", "Part of the official 'Hungarian Tuscany' tourist route."]}, "faq": {"de": [{"q": "Warum wird Köveskál das Dorf der Feinschmecker genannt?", "a": "Weil es mehrere hochkarätige Restaurants gibt, die weit über die Region hinaus bekannt sind."}, {"q": "Wo befindet sich das Steinmeer?", "a": "Das bekannteste Steinmeer liegt im Nachbardorf Szentbékkálla, nur 3 km entfernt."}, {"q": "Ist Köveskál ein guter Ausgangspunkt zum Wandern?", "a": "Ja, von hier aus lassen sich alle Berge des Káli-Beckens leicht erreichen."}, {"q": "Gibt es Weinverkostungen im Dorf?", "a": "Ja, viele lokale Winzer haben Keller direkt in Köveskál."}], "hu": [{"q": "Miért különleges Köveskál építészete?", "a": "Mert a nemesi múlt miatt gazdagabb, polgáriasabb stílusú kőházak épültek itt."}, {"q": "Hol lehet enni a faluban?", "a": "Több híres étterem is van (pl. Kővirág, Káli Art Inn), érdemes előre asztalt foglalni."}, {"q": "Milyen messze van a Balaton?", "a": "A legközelebbi strand (Zánka vagy Köveskál-Akali) kb. 8-10 km-re található."}, {"q": "Milyen természeti látnivaló van közvetlenül a faluban?", "a": "A falu határában található a Kornyi-tó és a híres Emberi kompozíció szobrok."}], "ro": [{"q": "Ce restaurante recomandați în Köveskál?", "a": "Kővirág și Káli Art Inn sunt cele mai celebre pentru calitatea mâncării."}, {"q": "Putem vizita marea de piatră pe jos?", "a": "Da, satul vecin Szentbékkálla este la o plimbare scurtă sau scurtă călătorie cu mașina."}, {"q": "Cum este clima în Köveskál?", "a": "Este o climă blândă, protejată de vânturi de munții martori, similară cu zona mediteraneană."}, {"q": "Există cazare în stil tradițional?", "a": "Da, satul oferă numeroase conace vechi transformate în pensiuni de lux."}], "en": [{"q": "Is a reservation necessary for restaurants in Köveskál?", "a": "Yes, especially on weekends and during summer, tables are booked weeks in advance."}, {"q": "What is the 'Stone Sea'?", "a": "A natural formation of large rocks left behind from the ancient Pannonian Sea."}, {"q": "Can I visit Köveskál by bus?", "a": "Yes, there are bus connections from Veszprém and Tapolca."}, {"q": "What wines should I try?", "a": "Olaszrizling and Juhfark from the local volcanic hills are highly recommended."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Juhászok kútja",
+                  "text": "Juhászok kútja ist eine traditionelle natürliche Quelle in Köveskál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.595037,
+                        46.902843
+                  ]
+            },
+            {
+                  "name": "Pusztapalota romja",
+                  "text": "Pusztapalota romja besteht aus den historischen Ruinen eines ehemaligen Palastes in Köveskál.",
+                  "category": "historical",
+                  "coords": [
+                        17.610564,
+                        46.871752
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "Helytörténeti Gyűjtemény ist ein lokales Geschichtsmuseum im Dorf Köveskál.",
+                  "category": "museum",
+                  "coords": [
+                        17.60715,
+                        46.88232
+                  ]
+            },
+            {
+                  "name": "Kovácsműhely",
+                  "text": "Kovácsműhely ist ein Museum, das eine traditionelle Schmiedewerkstatt in Köveskál zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.606353,
+                        46.883809
+                  ]
+            },
+            {
+                  "name": "Kővágóörsi kőtenger",
+                  "text": "Kővágóörsi kőtenger ist eine berühmte geologische Attraktion, die aus einem Steinmeer bei Köveskál besteht.",
+                  "category": "landmark",
+                  "coords": [
+                        17.608597,
+                        46.852914
+                  ]
+            },
+            {
+                  "name": "Mosóház",
+                  "text": "Mosóház ist eine historische Attraktion, die ein traditionelles Waschhaus in Köveskál darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.604318,
+                        46.882408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Juhászok kútja",
+                  "text": "A Juhászok kútja egy hagyományos természetes forrás Köveskálon.",
+                  "category": "landmark",
+                  "coords": [
+                        17.595037,
+                        46.902843
+                  ]
+            },
+            {
+                  "name": "Pusztapalota romja",
+                  "text": "A Pusztapalota romja egy egykori palota történelmi romja Köveskálon.",
+                  "category": "historical",
+                  "coords": [
+                        17.610564,
+                        46.871752
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "A Helytörténeti Gyűjtemény egy helytörténeti múzeum Köveskál községben.",
+                  "category": "museum",
+                  "coords": [
+                        17.60715,
+                        46.88232
+                  ]
+            },
+            {
+                  "name": "Kovácsműhely",
+                  "text": "A Kovácsműhely egy hagyományos kovácsműhelyt bemutató múzeum Köveskálon.",
+                  "category": "museum",
+                  "coords": [
+                        17.606353,
+                        46.883809
+                  ]
+            },
+            {
+                  "name": "Kővágóörsi kőtenger",
+                  "text": "A Kővágóörsi kőtenger egy híres geológiai látványosság, amely egy kőtengerből áll Köveskál közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.608597,
+                        46.852914
+                  ]
+            },
+            {
+                  "name": "Mosóház",
+                  "text": "A Mosóház egy hagyományos mosóházat bemutató történelmi látványosság Köveskálon.",
+                  "category": "landmark",
+                  "coords": [
+                        17.604318,
+                        46.882408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Juhászok kútja",
+                  "text": "Juhászok kútja este un izvor natural tradițional situat în Köveskál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.595037,
+                        46.902843
+                  ]
+            },
+            {
+                  "name": "Pusztapalota romja",
+                  "text": "Pusztapalota romja este formată din ruinele istorice ale unui fost palat din Köveskál.",
+                  "category": "historical",
+                  "coords": [
+                        17.610564,
+                        46.871752
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "Helytörténeti Gyűjtemény este un muzeu de istorie locală situat în satul Köveskál.",
+                  "category": "museum",
+                  "coords": [
+                        17.60715,
+                        46.88232
+                  ]
+            },
+            {
+                  "name": "Kovácsműhely",
+                  "text": "Kovácsműhely este un muzeu care prezintă un atelier de fierărie tradițional în Köveskál.",
+                  "category": "museum",
+                  "coords": [
+                        17.606353,
+                        46.883809
+                  ]
+            },
+            {
+                  "name": "Kővágóörsi kőtenger",
+                  "text": "Kővágóörsi kőtenger este o atracție geologică faimoasă constând dintr-o mare de pietre lângă Köveskál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.608597,
+                        46.852914
+                  ]
+            },
+            {
+                  "name": "Mosóház",
+                  "text": "Mosóház este o atracție istorică reprezentând o spălătorie tradițională din Köveskál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.604318,
+                        46.882408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Juhászok kútja",
+                  "text": "Juhászok kútja is a traditional natural spring located in Köveskál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.595037,
+                        46.902843
+                  ]
+            },
+            {
+                  "name": "Pusztapalota romja",
+                  "text": "Pusztapalota romja consists of the historical ruins of a former palace in Köveskál.",
+                  "category": "historical",
+                  "coords": [
+                        17.610564,
+                        46.871752
+                  ]
+            },
+            {
+                  "name": "Helytörténeti Gyűjtemény",
+                  "text": "Helytörténeti Gyűjtemény is a local history museum situated in the village of Köveskál.",
+                  "category": "museum",
+                  "coords": [
+                        17.60715,
+                        46.88232
+                  ]
+            },
+            {
+                  "name": "Kovácsműhely",
+                  "text": "Kovácsműhely is a museum showcasing a traditional blacksmith's workshop in Köveskál.",
+                  "category": "museum",
+                  "coords": [
+                        17.606353,
+                        46.883809
+                  ]
+            },
+            {
+                  "name": "Kővágóörsi kőtenger",
+                  "text": "Kővágóörsi kőtenger is a famous geological attraction consisting of a sea of stones near Köveskál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.608597,
+                        46.852914
+                  ]
+            },
+            {
+                  "name": "Mosóház",
+                  "text": "Mosóház is a historical attraction representing a traditional washhouse in Köveskál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.604318,
+                        46.882408
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Steinmeer von Szentbékkálla", "text": "Bizarre Felsformationen aus versteinertem Sand.", "distance": "3 km", "category": "natural"}, {"name": "Hegyestű", "text": "Spektakulärer Basaltkegel mit geologischem Lehrpfad.", "distance": "7 km", "category": "natural"}], "hu": [{"name": "Szentbékkállai kőtenger", "text": "Hatalmas homokkő tömbökből álló, látványos geológiai képződmény.", "distance": "3 km", "category": "natural"}, {"name": "Hegyestű Geológiai Bemutatóhely", "text": "Félbevágott bazalthegy, lenyűgöző oszlopokkal.", "distance": "7 km", "category": "natural"}], "ro": [{"name": "Marea de piatră din Szentbékkálla", "text": "Blocuri uriașe de gresie permiară sculptate de vânt și apă.", "distance": "3 km", "category": "natural"}, {"name": "Muntele Hegyestű", "text": "O coloană de bazalt retezată care arată structura internă a unui vulcan.", "distance": "7 km", "category": "natural"}], "en": [{"name": "Stone Sea of Szentbékkálla", "text": "A famous natural labyrinth of giant sandstone rocks.", "distance": "3 km", "category": "natural"}, {"name": "Hegyestű Geological Site", "text": "A halved volcanic hill showcasing spectacular basalt columns.", "distance": "7 km", "category": "natural"}]}, "parent": "veszprem"},
   {"id": "lasztonya", "type": "village", "coords": [16.7125, 46.545], "population": 84, "name": {"de": "Lasztonya", "hu": "Lasztonya", "ro": "Lasztonya", "en": "Lasztonya"}, "descriptionAdvanced": {"de": "Lasztonya ist eine der kleinsten und ruhigsten Gemeinden im Komitat Zala, gelegen in den tiefen Wäldern des Göcsej-Hügellandes. Das Dorf ist ein Paradebeispiel für die traditionelle Siedlungsform der Region, geprägt von verstreuten Gehöften und einer tiefen Verbundenheit mit der Forstwirtschaft. Die Umgebung von Lasztonya ist bekannt für ihre unberührten Eichen- und Buchenwälder, die zum Zalaerdő-Forstgebiet gehören und als Rückzugsort für seltene Wildtierarten dienen. Geografisch ist die Region durch tiefe Täler und sanfte Hügel gekennzeichnet, die ein ideales Terrain für Wanderer und Jäger bieten, die die Stille der Natur suchen. In der Nähe befindet sich der 'Zalaerdődi Tölgyes' (Eichenwald), ein geschütztes Naturdenkmal, das für seine jahrhundertealten Baumriesen berühmt ist. Die Geschichte des Dorfes ist eng mit der Holzverarbeitung und der Jagd verknüpft, was sich in der schlichten, aber funktionalen Architektur der lokalen Gebäude widerspiegelt. Lasztonya bietet heute vor allem für Stadtbewohner eine Flucht aus dem Alltag; viele alte Häuser wurden liebevoll als Ferienhäuser renoviert, wobei der ursprüngliche Charakter des Dorfes erhalten blieb. Die lokale Gastronomie konzentriert sich auf Wildspezialitäten und Pilzgerichte, die direkt aus den umliegenden Wäldern stammen.", "hu": "Lasztonya Zala vármegye déli részén, a Letenyei-dombság és a Göcsej határán fekvő aprófalu, amely a természetközeli nyugalom szigete. A település neve szláv eredetű, és a tájra jellemző mocsaras, vizenyős területekre utal, bár ma már inkább a sűrű erdők uralják a határt. A falu egyik legfontosabb természeti értéke a környéken található Zalaerdődi Tölgyes, amely egy védett, ősi kocsányos tölgyerdő a Mura-vidék közelében. Ezek a több száz éves óriásfák a vidék biológiai sokféleségének és erdészeti múltjának élő emlékei. Lasztonya gazdasága és élete évszázadokon át az erdőhöz kötődött; a fa- és vadgazdálkodás ma is meghatározó. A falu építészeti látnivalói közül kiemelkedik a Szent Rozália tiszteletére szentelt kis templom és a jellegzetes zalai boronafalas épületek maradványai. A csendes utcák és a tiszta levegő miatt a település egyre népszerűbb az ökoturizmus és a bakancsos túrázók körében. A közeli Bázakerettye és a kistolmácsi tó közelsége további kikapcsolódási lehetőségeket nyújt a látogatóknak. Lasztonya az a hely, ahol a vándor valóban megtapasztalhatja a zalai dombok misztikus és megnyugtató erejét.", "ro": "Lasztonya este o localitate mică situată în inima dealurilor Zala, reprezentând un refugiu ideal pentru cei care caută liniștea absolută și comuniunea cu natura. Satul face parte din regiunea etnografică Göcsej, fiind caracterizat prin așezări dispersate și o economie bazată istoric pe resursele forestiere. Una dintre cele mai remarcabile atracții naturale din apropiere este Pădurea de Stejari Zalaerdődi (Tölgyes), o rezervație forestieră ce adăpostește exemplare seculare de stejari, un simbol al stabilității ecologice a regiunii Mura. Biodiversitatea zonei este impresionantă, pădurile dese oferind adăpost cerbilor, mistreților și multor specii de păsări protejate. Din punct de vedere arhitectural, satul păstrează elemente ale construcțiilor tradiționale din lemn, specifice zonei de sud-vest a Ungariei. Deși populația este redusă, comunitatea depune eforturi pentru conservarea tradițiilor locale, organizând periodic evenimente legate de cultura vânătorii și a colectării fructelor de pădure. Pentru turiști, Lasztonya oferă numeroase trasee de drumeție care șerpuiesc printre dealuri, oferind panorame uluitoare și aer curat, fiind un punct de plecare excelent pentru explorarea regiunii de frontieră cu Slovenia și Croația.", "en": "Lasztonya is one of the smallest and most tranquil villages in Zala County, hidden within the lush green valleys of the Göcsej hills. This tiny settlement is a perfect example of the 'szeg' settlement type, where small groups of houses are scattered across the hilltops. The village is surrounded by the vast forest tracts of Zalaerdő, specifically the protected Zalaerdődi Oak Forest (Tölgyes), which is home to magnificent ancient oak trees that have stood for centuries. Historically, the life of the villagers was inextricably linked to forestry and hunting, traditions that are still honored today. Geographically, the area is characterized by a humid, temperate climate that supports a rich undergrowth of ferns and rare mushrooms, making it a favorite spot for foragers and nature photographers. The local architecture features simple stone and wooden structures, including a small, intimate church dedicated to Saint Rosalia. Lasztonya has recently become a sanctuary for those looking to escape urban life, with many traditional houses being restored as eco-friendly holiday retreats. Its remote location ensures a dark sky perfect for stargazing and a level of silence that is rare in modern Europe, offering a profound sense of peace and natural harmony."}, "factsAdvanced": {"de": ["Lasztonya gehört zu den zehn bevölkerungsärmsten Dörfern Ungarns.", "Das Dorf liegt auf einer Höhe von ca. 210 Metern im Letenye-Hügelland.", "Die Forstverwaltung Zalaerdő Zrt. bewirtschaftet die umliegenden Wälder.", "Die Gemeinde umfasst eine Gesamtfläche von nur 3,77 Quadratkilometern.", "Die Kirche des Dorfes wurde zu Ehren der Heiligen Rozália geweiht.", "Der Zalaerdődi Tölgyes beherbergt Eichen, die über 200 Jahre alt sind."], "hu": ["A falu lélekszáma tartósan 100 fő alatt van, igazi aprófalu.", "A település neve a szláv 'laz' szóból ered, ami irtást vagy mocsarat jelent.", "A Zalaerdődi Tölgyes a Mura-menti Tájvédelmi Körzet része.", "A község területe mindössze 377 hektár, az egyik legkisebb a megyében.", "A falutól nem messze halad el a híres zalai erdei vasút egyik vonala.", "A település tengerszint feletti magassága 210 méter."], "ro": ["Lasztonya este una dintre cele mai mici localități din Ungaria după populație.", "Rezervația forestieră Zalaerdődi Tölgyes protejează stejarii pedunculați seculari.", "Altitudinea satului este de aproximativ 210 metri deasupra nivelului mării.", "Suprafața administrativă a comunei este de 3,77 km pătrați.", "Satul se află la mică distanță de granița cu Croația și Slovenia.", "Economia locală depinde aproape exclusiv de silvicultură și turism rural."], "en": ["Lasztonya has a population of less than 100 inhabitants.", "The Zalaerdődi Oak Forest is a protected habitat for the rare Great Capricorn Beetle.", "The village is situated at an elevation of 210 meters in the Zala Hills.", "The total administrative area of Lasztonya is only 3.77 square kilometers.", "Saint Rosalia's Church is the primary religious landmark of the village.", "The area is part of the Mura-Dráva-Duna Biosphere Reserve."]}, "faq": {"de": [{"q": "Gibt es in Lasztonya ein Geschäft?", "a": "Nein, es gibt kein Lebensmittelgeschäft; die Versorgung erfolgt über Verkaufswagen."}, {"q": "Sind die Wanderwege im Wald markiert?", "a": "Ja, es gibt markierte Wege, aber eine Karte ist aufgrund der Dichte des Waldes ratsam."}, {"q": "Kann man die alten Eichen besichtigen?", "a": "Ja, der Zalaerdődi Tölgyes ist über Waldwege erreichbar."}, {"q": "Gibt es in der Nähe ein Restaurant?", "a": "In den benachbarten Orten wie Bázakerettye gibt es gute Gastronomie."}], "hu": [{"q": "Hogyan lehet eljutni Lasztonyára?", "a": "Letenye felől közelíthető meg közúton, autóval vagy busszal."}, {"q": "Van-e szálláslehetőség a faluban?", "a": "Igen, néhány felújított vendégház várja a csendre vágyó turistákat."}, {"q": "Látogatható-e a tölgyes egész évben?", "a": "Igen, de sárga jelzésű utakon érdemes megközelíteni, figyelve a vadászati szezonra."}, {"q": "Van-e térerő a faluban?", "a": "A domborzati viszonyok miatt a mobil térerő helyenként ingadozó lehet."}], "ro": [{"q": "Este Lasztonya o destinație potrivită pentru copii?", "a": "Da, pentru familiile care iubesc natura și plimbările în pădure."}, {"q": "Există transport public spre sat?", "a": "Există autobuze dinspre Letenye, dar frecvența lor este redusă."}, {"q": "Se poate vâna în pădurile din jur?", "a": "Vânătoarea este organizată de societățile locale, fiind necesare autorizații speciale."}, {"q": "Ce ar trebui să vizitez în apropiere?", "a": "Lacul de acumulare din Kistolmács este o destinație populară pentru înot și pescuit."}], "en": [{"q": "Is Lasztonya accessible for tourists?", "a": "Yes, it is a great spot for eco-tourism, though services are minimal."}, {"q": "What is the best way to see the ancient oaks?", "a": "By following the forestry trails starting from the north of the village."}, {"q": "Is there drinking water in the forest?", "a": "There are some natural springs, but it's recommended to carry your own water."}, {"q": "Are there any festivals in the village?", "a": "The village day in summer is the main community event."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Lasztonyai kilátó (lezárva!)",
+                  "text": "Ein derzeit geschlossener Aussichtspunkt in Lasztonya.",
+                  "category": "natural",
+                  "coords": [
+                        16.70841,
+                        46.55604
+                  ]
+            },
+            {
+                  "name": "Olajipari kiállítás és Buda Ernő-emlékszoba",
+                  "text": "Museum in Lasztonya mit einer Ausstellung zur Erdölindustrie und dem Ernő-Buda-Gedenkraum.",
+                  "category": "museum",
+                  "coords": [
+                        16.709146,
+                        46.522177
+                  ]
+            },
+            {
+                  "name": "Alsó-Válicka völgy",
+                  "text": "Das Alsó-Válicka-Tal ist eine natürliche Attraktion in Lasztonya.",
+                  "category": "landmark",
+                  "coords": [
+                        16.749657,
+                        46.550496
+                  ]
+            },
+            {
+                  "name": "B-2 olajkút (H-10 olajipari emlékhely)",
+                  "text": "Industriedenkmal in Lasztonya mit der Erdölbohrung B-2.",
+                  "category": "landmark",
+                  "coords": [
+                        16.711907,
+                        46.522666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lasztonyai kilátó (lezárva!)",
+                  "text": "Jelenleg lezárt kilátópont Lasztonyán.",
+                  "category": "natural",
+                  "coords": [
+                        16.70841,
+                        46.55604
+                  ]
+            },
+            {
+                  "name": "Olajipari kiállítás és Buda Ernő-emlékszoba",
+                  "text": "Múzeum Lasztonyán, amely egy olajipari kiállítást és a Buda Ernő-emlékszobát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.709146,
+                        46.522177
+                  ]
+            },
+            {
+                  "name": "Alsó-Válicka völgy",
+                  "text": "Az Alsó-Válicka völgy egy szép természeti látványosság Lasztonyán.",
+                  "category": "landmark",
+                  "coords": [
+                        16.749657,
+                        46.550496
+                  ]
+            },
+            {
+                  "name": "B-2 olajkút (H-10 olajipari emlékhely)",
+                  "text": "Olajipari emlékhely Lasztonyán, ahol a B-2 olajkút tekinthető meg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.711907,
+                        46.522666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lasztonyai kilátó (lezárva!)",
+                  "text": "Un punct de belvedere momentan închis, situat în Lasztonya.",
+                  "category": "natural",
+                  "coords": [
+                        16.70841,
+                        46.55604
+                  ]
+            },
+            {
+                  "name": "Olajipari kiállítás és Buda Ernő-emlékszoba",
+                  "text": "Muzeu în Lasztonya care prezintă o expoziție a industriei petroliere și sala memorială Ernő Buda.",
+                  "category": "museum",
+                  "coords": [
+                        16.709146,
+                        46.522177
+                  ]
+            },
+            {
+                  "name": "Alsó-Válicka völgy",
+                  "text": "Valea Alsó-Válicka este o atracție naturală în Lasztonya.",
+                  "category": "landmark",
+                  "coords": [
+                        16.749657,
+                        46.550496
+                  ]
+            },
+            {
+                  "name": "B-2 olajkút (H-10 olajipari emlékhely)",
+                  "text": "Atracție de patrimoniu industrial în Lasztonya, prezentând sonda de petrol B-2.",
+                  "category": "landmark",
+                  "coords": [
+                        16.711907,
+                        46.522666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lasztonyai kilátó (lezárva!)",
+                  "text": "A currently closed viewpoint located in Lasztonya.",
+                  "category": "natural",
+                  "coords": [
+                        16.70841,
+                        46.55604
+                  ]
+            },
+            {
+                  "name": "Olajipari kiállítás és Buda Ernő-emlékszoba",
+                  "text": "Museum in Lasztonya featuring an oil industry exhibition and the Ernő Buda memorial room.",
+                  "category": "museum",
+                  "coords": [
+                        16.709146,
+                        46.522177
+                  ]
+            },
+            {
+                  "name": "Alsó-Válicka völgy",
+                  "text": "The Alsó-Válicka valley is a beautiful natural attraction in Lasztonya.",
+                  "category": "landmark",
+                  "coords": [
+                        16.749657,
+                        46.550496
+                  ]
+            },
+            {
+                  "name": "B-2 olajkút (H-10 olajipari emlékhely)",
+                  "text": "Industrial heritage attraction in Lasztonya featuring the B-2 oil well memorial site.",
+                  "category": "landmark",
+                  "coords": [
+                        16.711907,
+                        46.522666
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Kistolmácsi See", "text": "Ein idyllischer Stausee mit Strand und Angelmöglichkeiten.", "distance": "8 km", "category": "recreational"}, {"name": "Waldeisenbahn Csömödér", "text": "Die längste Waldeisenbahn Ungarns führt durch die Zalaer Wälder.", "distance": "12 km", "category": "recreational"}], "hu": [{"name": "Kistolmácsi-tó", "text": "Kedvelt fürdő- és horgászhely gyönyörű erdei környezetben.", "distance": "8 km", "category": "recreational"}, {"name": "Bázakerettyei strand", "text": "Kiváló termálvizes medencék a szomszédos olajbányász településen.", "distance": "6 km", "category": "recreational"}], "ro": [{"name": "Lacul Kistolmács", "text": "O destinație de weekend populară pentru camping și activități acvatice.", "distance": "8 km", "category": "recreational"}, {"name": "Calea ferată forestieră Csömödér", "text": "Trenuleț cu aburi ce traversează peisajele pitorești ale regiunii Zala.", "distance": "12 km", "category": "recreational"}], "en": [{"name": "Kistolmács Lake", "text": "A scenic reservoir perfect for a summer day out with swimming and fishing.", "distance": "8 km", "category": "recreational"}, {"name": "Bázakerettye Thermal Spa", "text": "A local thermal bath known for its healing waters and tranquil setting.", "distance": "6 km", "category": "recreational"}]}, "parent": "zala"},
   {"id": "lebeny", "type": "village", "coords": [17.3833, 47.7333], "population": 3200, "name": {"de": "Lébény", "hu": "Lébény", "ro": "Lébény", "en": "Lébény"}, "descriptionAdvanced": {"de": "Lébény ist eine geschichtsträchtige Gemeinde in der Kleinen Ungarischen Tiefebene, auf halbem Weg zwischen Győr und Mosonmagyaróvár. Das absolute Highlight und Stolz des Dorfes ist die St.-Jakobs-Kirche, eine der bedeutendsten romanischen Basiliken Ungarns. Dieses im frühen 13. Jahrhundert errichtete Meisterwerk der Architektur überstand Kriege und Brände und gilt als das Ebenbild der berühmten Kirche von Ják. Die monumentalen Steinportale mit ihren kunstvollen Verzierungen sind ein Zeugnis der hochmittelalterlichen Handwerkskunst. Lébény war historisch ein wichtiger Knotenpunkt für Pilger auf dem Jakobsweg, eine Tradition, die heute wiederbelebt wurde und Wanderer aus ganz Europa anzieht. Die Siedlung liegt am Rande des Hanság-Gebiets, was ihr eine besondere ökologische Bedeutung verleiht. Neben der religiösen Architektur prägt die Landwirtschaft und die ruhige, pannonische Landschaft den Alltag der Menschen in Lébény, das seine Besucher mit spiritueller Ruhe und archaischer Schönheit empfängt.", "hu": "Lébény Győr-Moson-Sopron megye egyik legősibb települése, amely a Mosoni-síkság és a Hanság találkozásánál fekszik. A község világhírét a Szent Jakab apostol tiszteletére szentelt apátsági templomának köszönheti, amely a magyarországi román kori építészet egyik legépebben maradt és legszebb példája. A 13. század elején épült monumentális bazilika a jáki templom közeli rokona, kapuzatainak faragványai és robusztus kőfalai a középkori Magyarország erejét hirdetik. Lébény évszázadok óta fontos állomása a nemzetközi Szent Jakab zarándokútnak (El Camino), így ma is zarándokok sokasága pihen meg falai között. A település környezete a Hanság mocsaras, lápos vidékének kapuja, ahol gazdag élővilág várja a természetbarátokat. Lébény nem csupán egy falu a főút mellett, hanem egy spirituális központ, ahol a történelem minden kőben jelen van, és ahol a látogató a nyugalom és a középkori áhítat különleges egyvelegét tapasztalhatja meg.", "ro": "Lébény este o localitate de o valoare istorică inestimabilă situată în vestul Ungariei, faimoasă pentru biserica sa abațială Sfântul Iacob. Această bazilică romanică, construită la începutul secolului al XIII-lea, este considerată una dintre cele mai bine conservate structuri de acest tip din Europa Centrală, fiind o 'soră' arhitecturală a celebrei biserici din Ják. Fațada sa impunătoare, cu portaluri sculptate cu o măiestrie rară, atrage anual mii de turiști și specialiști în istoria artei. Lébény a fost istoric un punct de oprire crucial pentru pelerinii care parcurgeau drumul Sfântului Iacob (El Camino de Santiago) prin Europa de Est, o tradiție care a fost revigorată în ultimele decenii. Localitatea este situată într-o zonă de câmpie fertilă, în apropierea regiunii Hanság, oferind un peisaj liniștit dominat de agricultură. Atmosfera din Lébény este una de reculegere și respect față de trecut, biserica dominând orizontul satului ca un simbol etern al credinței și al rezilienței în fața timpului.", "en": "Lébény is a historic settlement in northwestern Hungary, renowned globally for the Abbey Church of St. James, a premier example of Romanesque architecture. Built in the early 13th century by the Győr clan, this monumental stone basilica is the twin of the famous church in Ják and stands as one of the most intact medieval structures in the Carpathian Basin. Its heavily decorated western portals and grand interior vaulting are masterpieces of high medieval craftsmanship. For centuries, Lébény has been a vital stop on the Hungarian branch of the Way of St. James (El Camino) pilgrimage route, continuing to welcome travelers seeking spiritual solace today. The village is positioned near the Hanság wetlands, providing a unique natural backdrop to its architectural grandeur. Beyond its religious significance, Lébény maintains a peaceful rural atmosphere where traditional Hungarian hospitality and centuries of history converge, making it a must-visit for lovers of art history and spiritual tourism."}, "factsAdvanced": {"de": ["Die St.-Jakobs-Kirche wurde zwischen 1202 und 1208 erbaut.", "Die Mauern der Basilika sind stellenweise über 2 Meter dick.", "Lébény ist ein offizieller Startpunkt des ungarischen Jakobswegs.", "Im Jahr 1529 wurde die Kirche von den Osmanen in Brand gesteckt.", "Die Restaurierung im 19. Jahrhundert wurde von Ferenc Storno geleitet.", "Das Dorf liegt direkt an der Autobahn M1, ist aber dennoch ruhig."], "hu": ["A templomot a Győr nembeli Saul és Csépán alapította 1202-ben.", "A lébényi templom kapuzatai a középkori szobrászat remekművei.", "A településen minden év július végén nagyszabású Szent Jakab-napi búcsút tartanak.", "A templom belső hossza 31 méter, szélessége 16 méter.", "A Hanság kapujaként Lébény fontos ökoturisztikai csomópont.", "A község határában római kori őrtorony maradványait is megtalálták."], "ro": ["Biserica din Lébény a supraviețuit invaziei mongole din 1241.", "Portalul nordic prezintă motive vegetale și geometrice complexe.", "Este una dintre puținele biserici medievale din Ungaria care nu au fost barocizate complet.", "Lébény se află la o distanță egală de aproximativ 25 km de Győr și Mosonmagyaróvár.", "Satul are o comunitate activă care păstrează tradițiile zarándok (pelerinaj).", "Arhitectura bisericii a servit drept model pentru multe alte lăcașuri de cult din regiune."], "en": ["The Abbey Church was consecrated in honor of St. James the Apostle.", "It features two massive towers that dominate the local landscape.", "Lébény is a key landmark on the international pilgrimage route towards Santiago.", "The stone used for the church was transported from quarries near Lake Fertő.", "The interior houses valuable 19th-century stained glass windows.", "The settlement was a royal estate during the Árpád dynasty."]}, "faq": {"de": [{"q": "Ist die Kirche für Touristen geöffnet?", "a": "Ja, sie kann täglich besichtigt werden, meist gegen eine kleine Erhaltungsgebühr."}, {"q": "Gibt es Pilgerunterkünfte in Lébény?", "a": "Ja, es gibt ein spezielles Pilgerhaus direkt neben der Kirche."}], "hu": [{"q": "Hogyan lehet bejutni a templomba?", "a": "A templom melletti látogatóközpontban lehet jegyet váltani és információt kérni."}, {"q": "Vannak idegenvezetések?", "a": "Igen, nagyobb csoportok számára előzetes bejelentkezéssel szakszerű vezetés igényelhető."}], "ro": [{"q": "Se pot face fotografii în interiorul bisericii?", "a": "În general este permis, dar fără blitz și cu respectarea liniștii locului."}, {"q": "Este Lébény accesibil cu trenul?", "a": "Gara Lébény-Mosonszentmiklós se află la câțiva kilometri de centrul satului."}], "en": [{"q": "When is the main festival in the village?", "a": "The St. James's Day festivities are held annually on the weekend closest to July 25th."}, {"q": "How long does it take to see the church?", "a": "About 45-60 minutes is enough to admire both the exterior portals and the interior."}]}, "sights": {
       "hu": [
@@ -2283,11 +7950,86 @@ export const poiExtraHuV4: POI[] = [
                   "category": "civic",
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Szent Jakab-templom",
+                  "text": "A Szent Jakab-templom egy történelmi látványosság Lébényben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.387772,
+                        47.737406
+                  ]
+            },
+            {
+                  "name": "Rabi-tó zsilip",
+                  "text": "A Rabi-tó zsilip egy helyi látványosság Lébényben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.382276,
+                        47.735058
+                  ]
             }
       ],
-      "de": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Szent Jakab-templom",
+                  "text": "Die Szent Jakab-templom ist eine historische Attraktion in Lébény.",
+                  "category": "landmark",
+                  "coords": [
+                        17.387772,
+                        47.737406
+                  ]
+            },
+            {
+                  "name": "Rabi-tó zsilip",
+                  "text": "Rabi-tó zsilip ist eine lokale Sehenswürdigkeit in Lébény.",
+                  "category": "landmark",
+                  "coords": [
+                        17.382276,
+                        47.735058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Szent Jakab-templom",
+                  "text": "Szent Jakab-templom este o atracție istorică în Lébény.",
+                  "category": "landmark",
+                  "coords": [
+                        17.387772,
+                        47.737406
+                  ]
+            },
+            {
+                  "name": "Rabi-tó zsilip",
+                  "text": "Rabi-tó zsilip este o atracție locală în Lébény.",
+                  "category": "landmark",
+                  "coords": [
+                        17.382276,
+                        47.735058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Szent Jakab-templom",
+                  "text": "The Szent Jakab-templom is a historic attraction in Lébény.",
+                  "category": "landmark",
+                  "coords": [
+                        17.387772,
+                        47.737406
+                  ]
+            },
+            {
+                  "name": "Rabi-tó zsilip",
+                  "text": "Rabi-tó zsilip is a local attraction in Lébény.",
+                  "category": "landmark",
+                  "coords": [
+                        17.382276,
+                        47.735058
+                  ]
+            }
+      ]
 }, "nearbySights": {"hu": [{"name": "Győri Püspökvár", "text": "Történelmi erődítmény és bazilika Győr belvárosában.", "distance": "22 km", "category": "historical"}, {"name": "Futura Élményközpont", "text": "Interaktív természettudományi kiállítás Mosonmagyaróváron.", "distance": "24 km", "category": "recreational"}], "de": [{"name": "Győr Altstadt", "text": "Die Stadt der drei Flüsse mit barockem Flair.", "distance": "22 km", "category": "historical"}, {"name": "Szigetköz", "text": "Ein riesiges Flussdelta der Donau, ideal für Kanutouren.", "distance": "20 km", "category": "natural"}], "ro": [{"name": "Centrul Vechi Győr", "text": "Oraș istoric vibrant cu o catedrală superbă.", "distance": "22 km", "category": "historical"}, {"name": "Castelul din Mosonmagyaróvár", "text": "O fortăreață istorică ce găzduiește o universitate prestigioasă.", "distance": "24 km", "category": "historical"}], "en": [{"name": "Győr Cathedral", "text": "A historic basilica with a gold-covered reliquary of St. Ladislaus.", "distance": "22 km", "category": "historical"}, {"name": "Szigetköz Water World", "text": "The inland delta of the Danube, perfect for eco-tourism.", "distance": "20 km", "category": "natural"}]}, "parent": "gyor-moson-sopron"},
   {"id": "lovasbereny", "type": "village", "coords": [18.5487, 47.3117], "population": 2600, "name": {"de": "Lovasberény", "hu": "Lovasberény", "ro": "Lovasberény", "en": "Lovasberény"}, "descriptionAdvanced": {"de": "Lovasberény liegt im Herzen des Fejér-Komitats, am südlichen Rand des Velence-Gebirges. Das Dorf blickt auf eine reiche Geschichte zurück, die vor allem durch die Familie Cziráky geprägt wurde, die hier über Jahrhunderte ihren Stammsitz hatte. Das imposante Cziráky-Schloss, ein klassizistisches Meisterwerk, ist das architektonische Wahrzeichen der Gemeinde, auch wenn es heute auf eine umfassende Restaurierung wartet. Lovasberény war historisch gesehen ein bedeutendes Zentrum der jüdischen Gemeinde in Mittelungarn, wovon heute noch einer der schönsten und am besten erhaltenen jüdischen Friedhöfe der Region zeugt. Die Umgebung ist durch sanfte Hügel, Weinberge und dichte Wälder gekennzeichnet, die zu ausgiebigen Wanderungen einladen. Das Klima und der Boden begünstigen den Weinbau, der hier eine lange Tradition hat. Lovasberény bewahrt seinen ruhigen, dörflichen Charakter und ist gleichzeitig ein kulturelles Zentrum für die umliegenden Siedlungen im Velence-Gebirge.", "hu": "Lovasberény a Velencei-hegység északi lábánál fekvő, gazdag történelmi múlttal rendelkező település Fejér megyében. A község életét évszázadokon át meghatározta a Cziráky család jelenléte, akiknek klasszicista kastélya a magyar építészettörténet egyik kiemelkedő emléke. A monumentális Cziráky-kastély fehér oszlopaival és angolparkjával ma is lenyűgöző látványt nyújt, még ha jelenleg felújítás alatt is áll. Lovasberény különlegessége a kulturális sokszínűségben rejlik: a településen jelentős zsidó közösség élt, emléküket az ország egyik legszebb, domboldalon fekvő zsidó temetője őrzi. A falu határában kanyargó utak mentén számos borospince sorakozik, hiszen a környék kiváló bortermelő vidék. A természet közelsége, a túraútvonalak és a csendes vidéki környezet Lovasberényt az aktív kikapcsolódás és a kulturális zarándoklatok kedvelt célpontjává teszi, ahol a múlt emlékei és a jelen nyugalma harmonikusan találkozik.", "ro": "Lovasberény este o localitate istorică situată în județul Fejér, la poalele Munților Velence, cunoscută în special pentru moștenirea sa aristocratică. Piesa centrală a satului este Castelul Cziráky, un exemplu monumental de arhitectură neoclasică maghiară. Deși clădirea a suferit degradări de-a lungul timpului, coloanele sale impunătoare și parcul englezesc din jur păstrează încă aura de grandoare de altădată. Satul este de asemenea un loc de memorie important pentru comunitatea evreiască, găzduind un cimitir istoric foarte bine conservat, situat pe un deal pitoresc, care oferă o perspectivă unică asupra istoriei locale. Economia locală este tradițional agrară, viticultura jucând un rol important în viața comunității, cu numeroase pivnițe mici presărate pe versanții din jur. Lovasberény oferă un refugiu liniștit departe de agitația urbană, fiind un punct ideal pentru explorarea regiunii lacului Velence și a traseelor montane ușoare din apropiere.", "en": "Lovasberény is a historic village located in Fejér County, situated at the northern edge of the Velence Mountains. The village is most famous for the Cziráky Mansion, a monumental Neoclassical masterpiece that served as the ancestral home of the noble Cziráky family. Despite its current state of renovation, the mansion's grand colonnade and vast English landscape garden remain significant landmarks of Hungarian architectural history. Beyond its noble past, Lovasberény was once a vibrant center for the regional Jewish community, leaving behind one of the most beautiful and well-preserved Jewish cemeteries in Hungary, located on a scenic hillside. The village is surrounded by fertile lands and vineyards, with local winemaking traditions still thriving in the small cellars lining the outskirts. Its proximity to Lake Velence and the hiking trails of the Velence Hills makes it an attractive destination for those seeking a mix of historical exploration and natural beauty in a serene rural setting."}, "factsAdvanced": {"de": ["Das Cziráky-Schloss erhielt seine klassizistische Form um 1804.", "Der jüdische Friedhof beherbergt Grabsteine aus dem 18. Jahrhundert.", "Lovasberény liegt am nördlichen Rand des Velence-Gebirges.", "Im Ort gibt es drei Kirchen verschiedener Konfessionen.", "Die berühmte Lenke-Quelle liefert seit Jahrzehnten sauberes Wasser.", "Das Dorf war einst eine Poststation an der Route nach Wien."], "hu": ["A Cziráky-kastély tervezésében Pollack Mihály is részt vett.", "A lovasberényi zsidó temetőben több mint 400 sírkő található.", "A település határában lévő 'Lujza-major' fontos agrártörténeti emlék.", "Lovasberény nevében a 'lovas' előtag az egykori királyi lovászokra utal.", "A római katolikus templom freskóit híres mesterek festették.", "A falu közelében található a Velencei-hegység egyik legmagasabb pontja."], "ro": ["Castelul Cziráky are o fațadă cu opt coloane în stil doric.", "Cimitirul evreiesc este declarat monument istoric protejat.", "Localitatea este menționată pentru prima dată în documente în 1302.", "Lovasberény a fost un nod important pe drumul poștal spre Székesfehérvár.", "Grădina castelului se întinde pe mai multe hectare de teren.", "Satul găzduiește anual festivalul castanelor în timpul toamnei."], "en": ["The Cziráky Mansion is one of the largest Neoclassical castles in Fejér.", "The Jewish cemetery contains rare stone carvings and inscriptions.", "The village name suggests it was once a settlement of royal grooms.", "Lovasberény is a starting point for the 'Red' hiking trail of Velence.", "The Reformed Church was built in 1786 after the Edict of Tolerance.", "Local volcanic soil contributes to the unique character of local wines."]}, "faq": {"de": [{"q": "Kann man das Schloss von innen besichtigen?", "a": "Das Innere ist derzeit wegen Renovierungsarbeiten meist geschlossen, aber der Park ist begehbar."}, {"q": "Wo befindet sich der jüdische Friedhof?", "a": "Er liegt am Rande des Dorfes auf einem Hügel und ist über einen Feldweg erreichbar."}], "hu": [{"q": "Látogatható a kastélypark?", "a": "Igen, a kastélyt övező angolpark szabadon sétálható és kedvelt fotózási helyszín."}, {"q": "Milyen túraútvonalak indulnak innen?", "a": "A falu fontos csomópontja a Velencei-hegység túraútvonalainak, több jelzett út is érinti."}], "ro": [{"q": "Există locuri de mâncare în sat?", "a": "Da, există câteva hanuri tradiționale care servesc preparate specifice regiunii Fejér."}, {"q": "Cât de departe este de Székesfehérvár?", "a": "Lovasberény se află la aproximativ 15-20 de minute de mers cu mașina (22 km)."}], "en": [{"q": "Is the Jewish cemetery open to the public?", "a": "Yes, it is accessible, though respect for the sacred ground is expected from visitors."}, {"q": "Are there any annual events in Lovasberény?", "a": "The village fair and local wine harvest festivals are popular local events."}]}, "sights": {
       "hu": [
@@ -2315,6 +8057,60 @@ export const poiExtraHuV4: POI[] = [
                   "category": "historical",
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "János-hegy",
+                  "text": "A János-hegy egy természeti szépségeket kínáló hegycsúcs Lovasberényben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.577465,
+                        47.299666
+                  ]
+            },
+            {
+                  "name": "Csikvári Faluház",
+                  "text": "A Csikvári Faluház egy helyi hagyományokat őrző múzeum Lovasberényben.",
+                  "category": "museum",
+                  "coords": [
+                        18.548548,
+                        47.314177
+                  ]
+            },
+            {
+                  "name": "Lenke galéria és tájház",
+                  "text": "A Lenke galéria és tájház egy kulturális kiállítótér Lovasberényben.",
+                  "category": "museum",
+                  "coords": [
+                        18.556047,
+                        47.305233
+                  ]
+            },
+            {
+                  "name": "Szentháromság-kápolna",
+                  "text": "A Szentháromság-kápolna egy hangulatos templom Lovasberényben.",
+                  "category": "religious",
+                  "coords": [
+                        18.545753,
+                        47.313171
+                  ]
+            },
+            {
+                  "name": "pince rom",
+                  "text": "Egy régi pince romjai Lovasberényben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.582061,
+                        47.298736
+                  ]
+            },
+            {
+                  "name": "Antal-domb",
+                  "text": "Az Antal-domb egy magaslat Lovasberényben, a történelmi Cziráky-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.541789,
+                        47.31212
+                  ]
             }
       ],
       "de": [
@@ -2327,6 +8123,60 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.54479,
                         47.31338
+                  ]
+            },
+            {
+                  "name": "János-hegy",
+                  "text": "János-hegy ist ein markanter Gipfel in Lovasberény.",
+                  "category": "landmark",
+                  "coords": [
+                        18.577465,
+                        47.299666
+                  ]
+            },
+            {
+                  "name": "Csikvári Faluház",
+                  "text": "Das Dorfhaus Csikvár ist ein Museum zur Bewahrung lokaler Traditionen in Lovasberény.",
+                  "category": "museum",
+                  "coords": [
+                        18.548548,
+                        47.314177
+                  ]
+            },
+            {
+                  "name": "Lenke galéria és tájház",
+                  "text": "Die Lenke-Galerie und das Heimatmuseum in Lovasberény.",
+                  "category": "museum",
+                  "coords": [
+                        18.556047,
+                        47.305233
+                  ]
+            },
+            {
+                  "name": "Szentháromság-kápolna",
+                  "text": "Die Dreifaltigkeitskapelle ist eine malerische Kirche in Lovasberény.",
+                  "category": "religious",
+                  "coords": [
+                        18.545753,
+                        47.313171
+                  ]
+            },
+            {
+                  "name": "pince rom",
+                  "text": "Die Ruine eines alten Weinkellers in Lovasberény.",
+                  "category": "landmark",
+                  "coords": [
+                        18.582061,
+                        47.298736
+                  ]
+            },
+            {
+                  "name": "Antal-domb",
+                  "text": "Antal-domb ist eine lokale Erhebung in Lovasberény, in der Nähe des historischen Schlosses Cziráky.",
+                  "category": "landmark",
+                  "coords": [
+                        18.541789,
+                        47.31212
                   ]
             }
       ],
@@ -2341,6 +8191,60 @@ export const poiExtraHuV4: POI[] = [
                         18.54479,
                         47.31338
                   ]
+            },
+            {
+                  "name": "János-hegy",
+                  "text": "János-hegy este un vârf notabil care oferă peisaje naturale în Lovasberény.",
+                  "category": "landmark",
+                  "coords": [
+                        18.577465,
+                        47.299666
+                  ]
+            },
+            {
+                  "name": "Csikvári Faluház",
+                  "text": "Casa satului Csikvár este un muzeu care păstrează tradițiile locale în Lovasberény.",
+                  "category": "museum",
+                  "coords": [
+                        18.548548,
+                        47.314177
+                  ]
+            },
+            {
+                  "name": "Lenke galéria és tájház",
+                  "text": "Galeria și muzeul casei tradiționale Lenke din Lovasberény.",
+                  "category": "museum",
+                  "coords": [
+                        18.556047,
+                        47.305233
+                  ]
+            },
+            {
+                  "name": "Szentháromság-kápolna",
+                  "text": "Capela Sfintei Treimi este o biserică pitorească situată în Lovasberény.",
+                  "category": "religious",
+                  "coords": [
+                        18.545753,
+                        47.313171
+                  ]
+            },
+            {
+                  "name": "pince rom",
+                  "text": "Ruinele unei pivnițe vechi situate în Lovasberény.",
+                  "category": "landmark",
+                  "coords": [
+                        18.582061,
+                        47.298736
+                  ]
+            },
+            {
+                  "name": "Antal-domb",
+                  "text": "Antal-domb este un deal local din Lovasberény, situat în apropierea istoricului Castel Cziráky.",
+                  "category": "landmark",
+                  "coords": [
+                        18.541789,
+                        47.31212
+                  ]
             }
       ],
       "en": [
@@ -2353,6 +8257,60 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.54479,
                         47.31338
+                  ]
+            },
+            {
+                  "name": "János-hegy",
+                  "text": "János-hegy is a notable peak providing natural landscapes in Lovasberény.",
+                  "category": "landmark",
+                  "coords": [
+                        18.577465,
+                        47.299666
+                  ]
+            },
+            {
+                  "name": "Csikvári Faluház",
+                  "text": "The Csikvár village house is a museum preserving local traditions in Lovasberény.",
+                  "category": "museum",
+                  "coords": [
+                        18.548548,
+                        47.314177
+                  ]
+            },
+            {
+                  "name": "Lenke galéria és tájház",
+                  "text": "The Lenke gallery and country house museum in Lovasberény.",
+                  "category": "museum",
+                  "coords": [
+                        18.556047,
+                        47.305233
+                  ]
+            },
+            {
+                  "name": "Szentháromság-kápolna",
+                  "text": "The Holy Trinity Chapel is a quaint church located in Lovasberény.",
+                  "category": "religious",
+                  "coords": [
+                        18.545753,
+                        47.313171
+                  ]
+            },
+            {
+                  "name": "pince rom",
+                  "text": "The ruins of an old cellar located in Lovasberény.",
+                  "category": "landmark",
+                  "coords": [
+                        18.582061,
+                        47.298736
+                  ]
+            },
+            {
+                  "name": "Antal-domb",
+                  "text": "Antal-domb is a local peak in Lovasberény, located near the historic Cziráky Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        18.541789,
+                        47.31212
                   ]
             }
       ]
@@ -2369,6 +8327,33 @@ export const poiExtraHuV4: POI[] = [
                         21.277524,
                         48.196121
                   ]
+            },
+            {
+                  "name": "Mádi Rabbiház Fogadó",
+                  "text": "Ein Museum und Gasthaus im ehemaligen Rabbinerhaus in Mád.",
+                  "category": "museum",
+                  "coords": [
+                        21.277727,
+                        48.194695
+                  ]
+            },
+            {
+                  "name": "Kilátóterasz",
+                  "text": "Eine Aussichtsterrasse mit Panoramablick auf Mád und die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        21.304297,
+                        48.167333
+                  ]
+            },
+            {
+                  "name": "Szilvásfürdő Pihenőpark",
+                  "text": "Ein Freizeit-Wasserpark und Erholungsgebiet in Mád.",
+                  "category": "recreational",
+                  "coords": [
+                        21.299279,
+                        48.193662
+                  ]
             }
       ],
       "hu": [
@@ -2381,6 +8366,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.277524,
                         48.196121
+                  ]
+            },
+            {
+                  "name": "Mádi Rabbiház Fogadó",
+                  "text": "Egykori rabbiházban kialakított múzeum és fogadó Mádon.",
+                  "category": "museum",
+                  "coords": [
+                        21.277727,
+                        48.194695
+                  ]
+            },
+            {
+                  "name": "Kilátóterasz",
+                  "text": "Panorámás kilátást nyújtó terasz Mád településén.",
+                  "category": "natural",
+                  "coords": [
+                        21.304297,
+                        48.167333
+                  ]
+            },
+            {
+                  "name": "Szilvásfürdő Pihenőpark",
+                  "text": "Kellemes fürdő- és pihenőpark Mádon.",
+                  "category": "recreational",
+                  "coords": [
+                        21.299279,
+                        48.193662
                   ]
             }
       ],
@@ -2395,6 +8407,33 @@ export const poiExtraHuV4: POI[] = [
                         21.277524,
                         48.196121
                   ]
+            },
+            {
+                  "name": "Mádi Rabbiház Fogadó",
+                  "text": "Un muzeu și han situat într-o fostă casă a rabinului din Mád.",
+                  "category": "museum",
+                  "coords": [
+                        21.277727,
+                        48.194695
+                  ]
+            },
+            {
+                  "name": "Kilátóterasz",
+                  "text": "O terasă de observare care oferă vederi panoramice asupra localității Mád și a împrejurimilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        21.304297,
+                        48.167333
+                  ]
+            },
+            {
+                  "name": "Szilvásfürdő Pihenőpark",
+                  "text": "Un parc acvatic de agrement și zonă de relaxare în Mád.",
+                  "category": "recreational",
+                  "coords": [
+                        21.299279,
+                        48.193662
+                  ]
             }
       ],
       "en": [
@@ -2408,14 +8447,117 @@ export const poiExtraHuV4: POI[] = [
                         21.277524,
                         48.196121
                   ]
+            },
+            {
+                  "name": "Mádi Rabbiház Fogadó",
+                  "text": "A museum and inn situated in a former rabbi's house in Mád.",
+                  "category": "museum",
+                  "coords": [
+                        21.277727,
+                        48.194695
+                  ]
+            },
+            {
+                  "name": "Kilátóterasz",
+                  "text": "A viewing terrace offering panoramic vistas of Mád and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        21.304297,
+                        48.167333
+                  ]
+            },
+            {
+                  "name": "Szilvásfürdő Pihenőpark",
+                  "text": "A recreational water park and relaxation area in Mád.",
+                  "category": "recreational",
+                  "coords": [
+                        21.299279,
+                        48.193662
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Szerencs Burg", "text": "Eine schöne Burg mit einem Schokoladenmuseum im Inneren.", "distance": "12 km", "category": "historical"}, {"name": "Tokaj-Stadt", "text": "Das Zentrum des Weingebiets mit berühmten Kellern und dem Bodrog-Ufer.", "distance": "10 km", "category": "civic"}], "hu": [{"name": "Szerencsi vár", "text": "Rákóczi-vár Szerencsen, ahol csokoládémúzeum is működik.", "distance": "12 km", "category": "historical"}, {"name": "Tokaj városa", "text": "A borvidék névadó városa, folyóparti sétánnyal és történelmi pincékkel.", "distance": "10 km", "category": "civic"}], "ro": [{"name": "Cetatea Szerencs", "text": "O cetate renascentistă frumoasă care găzduiește și un muzeu al ciocolatei.", "distance": "12 km", "category": "historical"}, {"name": "Orașul Tokaj", "text": "Simbolul regiunii viticole, situat la confluența râurilor Tisa și Bodrog.", "distance": "10 km", "category": "civic"}], "en": [{"name": "Szerencs Castle", "text": "A Renaissance fortress featuring a chocolate museum and local history exhibits.", "distance": "12 km", "category": "historical"}, {"name": "Tokaj Town", "text": "The historic namesake of the wine region, famous for its grand cellars and riversides.", "distance": "10 km", "category": "civic"}]}, "parent": "borsod-abauj-zemplen"},
   {"id": "magyarpolany", "type": "village", "coords": [17.5458, 47.1642], "population": 1150, "name": {"de": "Magyarpolány", "hu": "Magyarpolány", "ro": "Magyarpolány", "en": "Magyarpolány"}, "descriptionAdvanced": {"de": "Magyarpolány ist ein preisgekröntes Kulturerbe-Dorf am Rande des Bakony-Gebirges, das für seine außergewöhnlich gut erhaltene Volksarchitektur bekannt ist. Der Ort wurde mehrfach international für den Schutz seiner Baudenkmäler ausgezeichnet, darunter mit dem begehrten Europa-Nostra-Preis. Die Hauptstraße des Dorfes besteht aus fast einhundert denkmalgeschützten Bauernhäusern, die im typischen Bakony-Stil mit weißen Wänden und dunklen Schilfdächern errichtet wurden. Eine weitere bedeutende Sehenswürdigkeit ist der Kalvarienberg, dessen Stufen zu einer Kapelle führen und der jedes Jahr Schauplatz der berühmten 'Polányer Passion' ist, einem Passionsspiel, das die gesamte Dorfgemeinschaft einbezieht. Die Geschichte des Dorfes ist stark von der Ansiedlung deutscher Einwanderer im 18. Jahrhundert geprägt, was sich noch heute in den schwäbischen Traditionen, der Gastronomie und der Mundart einiger Bewohner widerspiegelt. Die Umgebung von Magyarpolány bietet herrliche Wanderwege durch dichte Buchen- und Eichenwälder, die typisch für den Bakony sind. Die Kombination aus gelebter Geschichte, religiöser Tradition und einer intakten natürlichen Umgebung macht Magyarpolány zu einem der wertvollsten Schätze der ungarischen Provinz.", "hu": "Magyarpolány a Bakony délnyugati lejtőin fekvő, Európa-Nostra-díjas település, amely hazánk egyik legszebb és legegységesebb faluképével büszkélkedhet. A község legfőbb vonzereje a műemlékvédelem alatt álló Petőfi utca, ahol közel száz, eredeti állapotában megőrzött bakonyi parasztház sorakozik; ezek a fehérre meszelt, nádtetős épületek a sváb és magyar népi építészet remekei. A település lelki és kulturális központja a híres kálvária, amely 153 lépcsőfokával vezet fel a dombtetőn álló kápolnához. Itt rendezik meg minden évben a Magyarpolányi Passiót, amely egyedülálló módon vonja be a falu lakóit a bibliai események megelevenítésébe. Magyarpolány történetét meghatározza a 18. századi német betelepítés, amelynek köszönhetően a falu gazdasága és kultúrája virágzásnak indult. A környék erdői kitűnő túralehetőségeket kínálnak, a falu pedig híres kézműves hagyományairól, különösen a fa- és textilmegmunkálásról. Ez a település tökéletes példája annak, hogyan maradhat fenn a hagyományos értékrend és az épített örökség a modern világban, miközben maradandó élményt nyújt az idelátogató turistáknak.", "ro": "Magyarpolány este un sat de o frumusețe rară situat pe pantele sud-vestice ale munților Bakony, deținător al prestigiosului premiu Europa Nostra pentru conservarea patrimoniului arhitectural. Localitatea este faimoasă pentru strada sa principală, unde se aliniază aproape o sută de case țărănești monument istoric, construite în stilul tradițional al regiunii Bakony, cu acoperișuri de stuf și fațade imaculate. Unul dintre cele mai importante puncte de reper este dealul Calvarului, unde o scară impunătoare cu 153 de trepte duce spre o capelă barocă, fiind locul de desfășurare a celebrei 'Patimi din Magyarpolány', o piesă de teatru religios interpretată chiar de localnici. Istoria satului este profund marcată de colonizarea șvabilor (germani) în secolul al XVIII-lea, care au adus cu ei tehnici avansate de agricultură și o cultură arhitecturală distinctă. Astăzi, satul este un centru al meșteșugurilor populare și al turismului rural de calitate. Împrejurimile împădurite oferă numeroase trasee pentru drumeții și ciclism, aerul curat de munte fiind un atu suplimentar. Magyarpolány nu este doar un muzeu în aer liber, ci o comunitate vie care păstrează cu mândrie tradițiile germane și maghiare, oferind vizitatorilor o privire autentică în viața satului transdanubian.", "en": "Magyarpolány is an award-winning heritage village located on the southwestern slopes of the Bakony Mountains, celebrated for its exceptionally preserved folk architecture. The village received the Europa Nostra Award for its commitment to protecting its historic urban fabric, which features nearly one hundred protected peasant houses on its main street. These iconic buildings, with their thick white walls and thatched roofs, showcase the unique regional style formed by the coexistence of Hungarian and Swabian (German) settlers. A major spiritual and tourist landmark is the Calvary, where 153 steps lead up a hill to a Baroque chapel; this site serves as the stage for the 'Magyarpolány Passion', a large-scale community play performed annually during Pentecost. Historically, the village thrived following the 18th-century influx of German immigrants, whose influence is still visible in the local dialect, cuisine, and festivals. Surrounded by the dense forests of the Bakony, the village is an ideal starting point for nature excursions and forest therapy. Magyarpolány remains an active center for traditional crafts, including pottery and woodcarving, making it a perfect destination for travelers seeking cultural depth and architectural beauty in a serene mountainous setting."}, "factsAdvanced": {"de": ["Träger des Europa-Nostra-Preises seit 1993.", "Fast 100 denkmalgeschützte Häuser in der Petőfi-Straße.", "Die Treppe zum Kalvarienberg hat genau 153 Stufen.", "Gegründet wurde der Ort bereits im Mittelalter (1171).", "Schauplatz der 'Polányer Passion' zu Pfingsten.", "Starke schwäbische (deutschstämmige) Traditionen."], "hu": ["1993-ban kapta meg az Europa Nostra-díjat.", "Közel 100 műemléki védelem alatt álló ház található a Petőfi utcában.", "A kálvária-lépcső 153 fokból áll.", "Első írásos említése 1171-ből származik.", "A falu lakóinak jelentős része ma is ápolja sváb gyökereit.", "A Magyarpolányi Passió több mint 20 éves hagyomány."], "ro": ["Premiat cu Europa Nostra în 1993 pentru conservare.", "Strada Petőfi conține aproape 100 de case monument istoric.", "Scara Calvarului are 153 de trepte monumentale.", "Localitatea a fost atestată documentar în anul 1171.", "Găzduiește anual reprezentația religioasă 'Patimile din Polány'.", "Arhitectura este o fuziune între stilul maghiar și cel șvab."], "en": ["Winner of the Europa Nostra Award in 1993.", "Features nearly 100 protected folk architecture houses.", "The Calvary staircase consists of 153 steps.", "First documented in 1171.", "Known for its traditional community Passion Play at Pentecost.", "A center for Swabian German ethnic traditions in the Bakony."]}, "faq": {"de": [{"q": "Was ist das Besondere an den Häusern in Magyarpolány?", "a": "Sie sind im traditionellen Bakony-Stil mit Schilfdächern und weißem Putz erhalten."}, {"q": "Wann findet das Passionsspiel statt?", "a": "Die Polányer Passion wird jedes Jahr zu Pfingsten aufgeführt."}, {"q": "Kann man im Dorf übernachten?", "a": "Ja, viele der historischen Häuser dienen heute als authentische Gästehäuser."}, {"q": "Gibt es Museen im Ort?", "a": "Es gibt eine Heimatstube, die das bäuerliche Leben und Handwerk zeigt."}], "hu": [{"q": "Miért kapott díjat a falu?", "a": "Az egységes és védett népi építészeti falukép megőrzéséért kapta az Europa Nostra-díjat."}, {"q": "Látogatható a kálvária?", "a": "Igen, szabadon látogatható, és fentről gyönyörű kilátás nyílik a Bakonyra."}, {"q": "Milyen ételeket érdemes kóstolni?", "a": "A helyi sváb konyha remekeit, például a káposztás ételeket és házi süteményeket."}, {"q": "Van-e túraútvonal a környéken?", "a": "Igen, a falu a Bakony számos túraútvonalának csomópontja."}], "ro": [{"q": "Sunt casele din sat locuibile?", "a": "Multe dintre casele monument sunt încă locuite, iar altele sunt pensiuni turistice."}, {"q": "Ce este Patima din Magyarpolány?", "a": "Este o piesă de teatru religioasă pusă în scenă de săteni, foarte faimoasă în regiune."}, {"q": "Câte trepte are drumul Calvarului?", "a": "Drumul are 153 de trepte, reprezentând numărul simbolic al rugăciunilor."}, {"q": "Este satul accesibil turiștilor străini?", "a": "Da, este o destinație populară pentru iubitorii de cultură și arhitectură din toată Europa."}], "en": [{"q": "What makes the main street unique?", "a": "It preserves an unbroken row of 19th-century peasant houses in their original state."}, {"q": "Can visitors participate in the Passion Play?", "a": "Visitors can watch the performance, which is a major event involving hundreds of locals."}, {"q": "Is Magyarpolány close to Lake Balaton?", "a": "It is about 25-30 km north of the lake, in the Bakony Mountains area."}, {"q": "What language is spoken locally?", "a": "Hungarian is primary, but many older residents still speak a Swabian German dialect."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Bakonygyepesi zergebogláros Természetvédelmi Terület",
+                  "text": "Dieses Naturschutzgebiet in Magyarpolány schützt wertvolle lokale Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        17.560656,
+                        47.140306
+                  ]
+            },
+            {
+                  "name": "Tájház és Falumúzeum",
+                  "text": "Das Tájház és Falumúzeum ist ein regionales Dorfmuseum in Magyarpolány.",
+                  "category": "museum",
+                  "coords": [
+                        17.548568,
+                        47.167876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bakonygyepesi zergebogláros Természetvédelmi Terület",
+                  "text": "A bakonygyepesi zergebogláros Természetvédelmi Terület a helyi flórát és faunát védi Magyarpolányban.",
+                  "category": "natural",
+                  "coords": [
+                        17.560656,
+                        47.140306
+                  ]
+            },
+            {
+                  "name": "Tájház és Falumúzeum",
+                  "text": "A Tájház és Falumúzeum egy regionális falumúzeum Magyarpolányban.",
+                  "category": "museum",
+                  "coords": [
+                        17.548568,
+                        47.167876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bakonygyepesi zergebogláros Természetvédelmi Terület",
+                  "text": "Această rezervație naturală din Magyarpolány protejează flora și fauna locală valoroasă.",
+                  "category": "natural",
+                  "coords": [
+                        17.560656,
+                        47.140306
+                  ]
+            },
+            {
+                  "name": "Tájház és Falumúzeum",
+                  "text": "Tájház și Falumúzeum este un muzeu regional al satului în Magyarpolány.",
+                  "category": "museum",
+                  "coords": [
+                        17.548568,
+                        47.167876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bakonygyepesi zergebogláros Természetvédelmi Terület",
+                  "text": "This nature reserve in Magyarpolány protects valuable local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        17.560656,
+                        47.140306
+                  ]
+            },
+            {
+                  "name": "Tájház és Falumúzeum",
+                  "text": "The Tájház és Falumúzeum is a regional village museum in Magyarpolány.",
+                  "category": "museum",
+                  "coords": [
+                        17.548568,
+                        47.167876
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Ajka Glass Museum", "text": "Interessantes Museum zur Geschichte der Glasherstellung.", "distance": "10 km", "category": "historical"}, {"name": "Burg Somló", "text": "Eindrucksvolle Burgruine auf einem alleinstehenden Vulkanhügel.", "distance": "22 km", "category": "historical"}], "hu": [{"name": "Ajka Kristály Múzeum", "text": "Az üveggyártás történetét bemutató kiállítás Ajkán.", "distance": "10 km", "category": "historical"}, {"name": "Somlói vár", "text": "A Somló-hegy tetején álló középkori várrom, híres borvidék közepén.", "distance": "22 km", "category": "historical"}], "ro": [{"name": "Muzeul de Cristal din Ajka", "text": "O expoziție dedicată faimoaselor cristale produse în orașul vecin.", "distance": "10 km", "category": "historical"}, {"name": "Cetatea Somló", "text": "O ruină de cetate medievală pe un munte martor izolat, renumit pentru vinul său.", "distance": "22 km", "category": "historical"}], "en": [{"name": "Ajka Glass & Crystal Museum", "text": "Showcases the history of the world-famous local glass manufacturing.", "distance": "10 km", "category": "historical"}, {"name": "Somló Castle", "text": "A medieval fortress perched on an isolated volcanic hill in a famous wine region.", "distance": "22 km", "category": "historical"}]}, "parent": "veszprem"},
   {"id": "matrafured", "type": "village", "coords": [19.9688, 47.8295], "population": 950, "name": {"de": "Mátrafüred", "hu": "Mátrafüred", "ro": "Mátrafüred", "en": "Mátrafüred"}, "descriptionAdvanced": {"de": "Mátrafüred ist ein charmanter Kurort am südlichen Hang des Mátra-Gebirges und ein integraler Bestandteil der Stadt Gyöngyös. Auf einer Höhe von etwa 350 bis 400 Metern gelegen, dient das Dorf als das wichtigste Tor zum ungarischen Mittelgebirge. Sein subalpines Klima macht es seit über einem Jahrhundert zu einem beliebten Ziel für Erholungssuchende und Menschen mit Atemwegsbeschwerden. Die Geschichte des Ortes ist eng mit der Entwicklung des Tourismus in Ungarn verbunden; Ende des 19. Jahrhunderts entstanden hier die ersten Villen und Sanatorien. Eine der größten Attraktionen ist die Mátra-Waldbahn, die Mátrafüred mit Gyöngyös verbindet und durch malerische Eichen- und Buchenwälder führt. Der Ort ist auch ein Zentrum für Aktivurlauber, mit zahlreichen Wanderwegen, die zu Aussichtstürmen wie dem Kozmáry-Turm führen. In den letzten Jahren hat sich Mátrafüred zu einem Paradies für Extremsportler entwickelt, insbesondere durch den nahegelegenen Oxygen Adrenalin Park, der Unterhaltung für die ganze Familie bietet. Mit seinen gepflegten Parkanlagen und der frischen Bergluft bleibt Mátrafüred ein zeitloser Rückzugsort.", "hu": "Mátrafüred a Mátra déli lábánál, mintegy 350-400 méteres magasságban fekvő üdülőhely, Gyöngyös városrésze. A település a hegység egyik legfontosabb turisztikai kapuja, amely már a 19. század végétől népszerű a pihenni vágyók körében szubalpin klímája és tiszta levegője miatt. Mátrafüred arculatát a századfordulós villák, a hatalmas parkok és az árnyas sétányok határozzák meg. Itt található a Mátravasút egyik végállomása, amely az ország egyik legszebb erdei vasútvonalán köti össze a falut Gyöngyössel, felejthetetlen élményt nyújtva a családoknak. A túrázók számára a község ideális bázis: innen indulnak az utak a Kozmáry-kilátóhoz, a Sástóhoz vagy a Mátra mélyebb erdőibe. A modern turizmus jegyében a közelben épült fel az Oxygen Adrenalin Park, ahol bobpálya és kalandpark várja az izgalmak kedvelőit. Mátrafüred nemcsak a sportról, hanem a kultúráról is szól; a Bene-házban helytörténeti és néprajzi kiállítás tekinthető meg. A település harmóniája, a természet közelsége és a fejlett szolgáltatások teszik a Mátra egyik legkedveltebb pihenőhelyévé.", "ro": "Mátrafüred este o stațiune balneară încântătoare situată pe versantul sudic al munților Mátra, administrativ făcând parte din orașul Gyöngyös. Situată la o altitudine de aproximativ 350-400 de metri, localitatea este considerată poarta principală de intrare în masivul Mátra. Datorită climatului său subalpin, stațiunea a devenit celebră încă de la sfârșitul secolului al XIX-lea, când au fost construite primele sanatorii și vile elegante. Una dintre atracțiile emblematice este calea ferată forestieră Mátra, care face legătura între stațiune și orașul Gyöngyös, oferind o călătorie spectaculoasă prin păduri dese de fagi și stejari. Pentru iubitorii de drumeții, Mátrafüred oferă numeroase trasee marcate care duc spre puncte de belvedere faimoase, cum ar fi turnul Kozmáry. În ultimul deceniu, stațiunea s-a transformat și într-un centru de aventură, datorită parcului Oxygen Adrenalin, unde vizitatorii pot încerca tiroliana sau pista de bob. Atmosfera liniștită, parcurile bine întreținute și aerul curat de munte fac din Mátrafüred o destinație ideală pentru familii și pentru cei care doresc să evadeze din aglomerația urbană.", "en": "Mátrafüred is a charming mountain resort located on the southern slopes of the Mátra Mountains, serving as a district of the nearby city of Gyöngyös. Situated at an altitude of 350-400 meters, it is widely regarded as the gateway to Hungary's highest mountain range. The village gained prominence in the late 19th century due to its refreshing subalpine climate, which led to the development of numerous villas, spas, and sanatoriums for respiratory health. One of its most beloved attractions is the Mátra Forest Railway, one of the oldest and most scenic narrow-gauge railways in Hungary, connecting the resort with Gyöngyös through lush woodlands. Mátrafüred is a premier hub for outdoor enthusiasts, featuring a network of hiking trails that lead to landmarks like the Kozmáry Lookout Tower or the nearby Sástó lake. Recent developments have added modern thrills, such as the Oxygen Adrenalin Park, which offers bobsledding and adventure courses. Combining historical elegance with natural beauty and active recreation, Mátrafüred remains a top destination for those seeking the healing powers of nature and the excitement of mountain life."}, "factsAdvanced": {"de": ["Durchschnittliche Höhe: 350-400 Meter", "Bahnverbindung: Mátra-Waldbahn nach Gyöngyös", "Klima: Subalpines Schonklima", "Erstes Hotel: 'Avar' (historisches Gebäude)", "Hauptattraktion: Kozmáry-Aussichtsturm", "Distanz zu Kékestető: ca. 12 km"], "hu": ["Átlagos tengerszint feletti magasság: 350-400 m", "Kisvasút végállomás: Mátravasút (Gyöngyös-Mátrafüred)", "Éghajlat: Szubalpin gyógyklíma", "Legrégebbi kilátó: Kozmáry-kilátó (1900-ban épült)", "Közigazgatás: Gyöngyös város része", "Közeli kalandpark: Oxygen Adrenalin Park"], "ro": ["Altitudine medie: 350-400 metri", "Transport special: Calea ferată forestieră Mátra", "Tipul climatului: Subalpin, terapeutic", "Cel mai vechi punct de belvedere: Turnul Kozmáry", "Statut administrativ: Aparține de orașul Gyöngyös", "Activități de vârf: Parcul de aventură Oxygen Adrenalin"], "en": ["Average elevation: 350-400 meters", "Railway: Mátra Forest Railway (Gyöngyös line)", "Climate type: Subalpine healing climate", "Oldest lookout: Kozmáry Lookout (built in 1900)", "Administration: Part of the city of Gyöngyös", "Top adventure site: Oxygen Adrenalin Park"]}, "faq": {"de": [{"q": "Wann fährt die Waldbahn?", "a": "Die Mátravasút fährt saisonal, meist von April bis Oktober, an Wochenenden oft auch im Winter."}, {"q": "Ist der Kozmáry-Turm leicht zu erreichen?", "a": "Ja, er liegt nur etwa 15-20 Minuten Fußweg vom Ortszentrum entfernt und bietet eine tolle Aussicht."}, {"q": "Gibt es im Dorf Restaurants?", "a": "Ja, Mátrafüred hat eine gute Auswahl an traditionellen ungarischen Gasthäusern und Cafés."}, {"q": "Kann man von hier zum Kékes wandern?", "a": "Ja, es gibt gut markierte Wanderwege, die Wanderung dauert etwa 3 bis 4 Stunden."}], "hu": [{"q": "Mikor indul az erdei kisvasút?", "a": "A Mátravasút tavasztól őszig menetrend szerint közlekedik, télen pedig különjáratok indulnak."}, {"q": "Könnyű megközelíteni a Kozmáry-kilátót?", "a": "Igen, a faluközpontból egy rövid, 15-20 perces emelkedő sétával elérhető."}, {"q": "Vannak-e éttermek a településen?", "a": "Igen, számos patinás vendéglő és cukrászda várja a látogatókat a központban."}, {"q": "Van-e kerékpárút Gyöngyösről?", "a": "Igen, egy modern aszfaltozott kerékpárút köti össze Gyöngyöst Mátrafüreddel."}], "ro": [{"q": "Când circulă trenul cu abur?", "a": "Trenul forestier circulă regulat din primăvară până în toamnă, iar iarna are curse speciale de sărbători."}, {"q": "Este greu drumul până la turnul Kozmáry?", "a": "Nu, este o plimbare ușoară de 15-20 de minute din centrul stațiunii, pe un traseu bine marcat."}, {"q": "Unde se pot lua masa în stațiune?", "a": "Centrul stațiunii este plin de hanuri tradiționale și cafenele cochete cu specific montan."}, {"q": "Se poate ajunge pe jos la Sástó?", "a": "Da, există o potecă prin pădure de aproximativ 2 km, foarte populară printre familii."}], "en": [{"q": "When does the forest railway run?", "a": "The Mátra Railway operates from spring to autumn; during winter, special holiday trains are available."}, {"q": "Is the Kozmáry Lookout easy to reach?", "a": "Yes, it is a short, 15-20 minute walk from the village center on a well-maintained path."}, {"q": "Are there good dining options in town?", "a": "Yes, Mátrafüred offers several traditional Hungarian inns and cozy pastry shops."}, {"q": "Is there a bike path from Gyöngyös?", "a": "Yes, a modern, paved bicycle path connects Gyöngyös and Mátrafüred, perfect for cyclists."}]}, "sights": {
       "de": [
@@ -2490,6 +8632,15 @@ export const poiExtraHuV4: POI[] = [
                         19.970783,
                         47.856244
                   ]
+            },
+            {
+                  "name": "Csór-hegy",
+                  "text": "Csór-hegy ist ein markanter Berggipfel in der Region Mátraháza.",
+                  "category": "landmark",
+                  "coords": [
+                        19.97,
+                        47.893085
+                  ]
             }
       ],
       "hu": [
@@ -2502,6 +8653,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.970783,
                         47.856244
+                  ]
+            },
+            {
+                  "name": "Csór-hegy",
+                  "text": "A Csór-hegy egy figyelemre méltó hegycsúcs a Mátraháza régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.97,
+                        47.893085
                   ]
             }
       ],
@@ -2523,6 +8683,15 @@ export const poiExtraHuV4: POI[] = [
                         19.970783,
                         47.856244
                   ]
+            },
+            {
+                  "name": "Csór-hegy",
+                  "text": "Csór-hegy este un vârf de munte notabil situat în regiunea Mátraháza.",
+                  "category": "landmark",
+                  "coords": [
+                        19.97,
+                        47.893085
+                  ]
             }
       ],
       "en": [
@@ -2543,6 +8712,15 @@ export const poiExtraHuV4: POI[] = [
                         19.970783,
                         47.856244
                   ]
+            },
+            {
+                  "name": "Csór-hegy",
+                  "text": "Csór-hegy is a notable mountain peak located in the Mátraháza region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.97,
+                        47.893085
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Kékestető TV-Turm", "text": "Der höchste Punkt Ungarns mit Aussichtsplattform und Restaurant.", "distance": "3 km", "category": "recreational"}, {"name": "Sástó", "text": "Ein idyllischer See mit Aussichtsturm und Abenteuerpark.", "distance": "4 km", "category": "natural"}], "hu": [{"name": "Kékestető TV-torony", "text": "Magyarország legmagasabb pontja kilátóval és presszóval a toronyban.", "distance": "3 km", "category": "recreational"}, {"name": "Sástó", "text": "Csónakázótó, kemping és kilátó a Mátraházától délre eső völgyben.", "distance": "4 km", "category": "natural"}], "ro": [{"name": "Turnul TV de pe Kékestető", "text": "Cel mai înalt punct din țară, oferind o panoramă circulară incredibilă.", "distance": "3 km", "category": "recreational"}, {"name": "Sástó", "text": "Lac montan liniștit cu un turn galben de belvedere și locuri de camping.", "distance": "4 km", "category": "natural"}], "en": [{"name": "Kékestető TV Tower", "text": "The highest point in Hungary, featuring an observation deck and a tower-top cafe.", "distance": "3 km", "category": "recreational"}, {"name": "Sástó Lake", "text": "A scenic mountain lake with a tall lookout tower and camping facilities.", "distance": "4 km", "category": "natural"}]}, "parent": "heves"},
@@ -2558,6 +8736,78 @@ export const poiExtraHuV4: POI[] = [
                         19.922106,
                         47.918098
                   ]
+            },
+            {
+                  "name": "Galya-tető",
+                  "text": "Galya-tető ist der dritthöchste Gipfel Ungarns und befindet sich in der Nähe von Mátraszentimre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.916093,
+                        47.916227
+                  ]
+            },
+            {
+                  "name": "Piszkés-tető",
+                  "text": "Piszkés-tető ist ein markanter Gipfel im Mátra-Gebirge bei Mátraszentimre, der für sein Observatorium bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.895103,
+                        47.916997
+                  ]
+            },
+            {
+                  "name": "Piszkéstetői Obszervatórium",
+                  "text": "Das Piszkéstetői Obszervatórium in Mátraszentimre ist das größte astronomische Observatorium Ungarns.",
+                  "category": "park",
+                  "coords": [
+                        19.893377,
+                        47.917432
+                  ]
+            },
+            {
+                  "name": "Vörös-kő kilátó",
+                  "text": "Der Vörös-kő kilátó ist ein Aussichtspunkt in Mátraszentimre, der Panoramen der umliegenden Landschaften bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.879871,
+                        47.930334
+                  ]
+            },
+            {
+                  "name": "Orosz Mátyás vára",
+                  "text": "Orosz Mátyás vára ist eine historische Burgstätte im Gebiet von Mátraszentimre.",
+                  "category": "castle",
+                  "coords": [
+                        19.897035,
+                        47.924526
+                  ]
+            },
+            {
+                  "name": "Galyavár",
+                  "text": "Galyavár ist die Stätte einer ehemaligen Burg in der Mátra-Region in der Nähe von Mátraszentimre.",
+                  "category": "castle",
+                  "coords": [
+                        19.909082,
+                        47.924495
+                  ]
+            },
+            {
+                  "name": "Állatpark",
+                  "text": "Der Állatpark ist ein lokaler Zoo in Mátraszentimre, in dem Besucher verschiedene Tierarten beobachten können.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867678,
+                        47.913375
+                  ]
+            },
+            {
+                  "name": "Mátra Ásványház Múzeum és Ásványbolt",
+                  "text": "Dieses lokale Museum in Mátraszentimre zeigt eine Sammlung von Mineralien.",
+                  "category": "museum",
+                  "coords": [
+                        19.880601,
+                        47.90755
+                  ]
             }
       ],
       "hu": [
@@ -2570,6 +8820,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.922106,
                         47.918098
+                  ]
+            },
+            {
+                  "name": "Galya-tető",
+                  "text": "A Galya-tető Magyarország harmadik legmagasabb hegycsúcsa, amely Mátraszentimre közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        19.916093,
+                        47.916227
+                  ]
+            },
+            {
+                  "name": "Piszkés-tető",
+                  "text": "A Piszkés-tető egy kiemelkedő hegycsúcs a Mátrában, Mátraszentimre közelében, amely csillagvizsgálójáról is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.895103,
+                        47.916997
+                  ]
+            },
+            {
+                  "name": "Piszkéstetői Obszervatórium",
+                  "text": "A Mátraszentimrén található Piszkéstetői Obszervatórium Magyarország legnagyobb csillagászati vizsgálóállomása.",
+                  "category": "park",
+                  "coords": [
+                        19.893377,
+                        47.917432
+                  ]
+            },
+            {
+                  "name": "Vörös-kő kilátó",
+                  "text": "A Vörös-kő kilátó egy mátraszentimrei kilátó, amely panorámát nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.879871,
+                        47.930334
+                  ]
+            },
+            {
+                  "name": "Orosz Mátyás vára",
+                  "text": "Orosz Mátyás vára egy történelmi várhely Mátraszentimre területén.",
+                  "category": "castle",
+                  "coords": [
+                        19.897035,
+                        47.924526
+                  ]
+            },
+            {
+                  "name": "Galyavár",
+                  "text": "Galyavár egy egykori vár helyszíne a Mátra térségében, Mátraszentimre közelében.",
+                  "category": "castle",
+                  "coords": [
+                        19.909082,
+                        47.924495
+                  ]
+            },
+            {
+                  "name": "Állatpark",
+                  "text": "Az Állatpark egy helyi állatkert Mátraszentimrén, ahol a látogatók különféle állatfajokat figyelhetnek meg.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867678,
+                        47.913375
+                  ]
+            },
+            {
+                  "name": "Mátra Ásványház Múzeum és Ásványbolt",
+                  "text": "Ez a mátraszentimrei helyi múzeum és bolt ásványgyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.880601,
+                        47.90755
                   ]
             }
       ],
@@ -2584,6 +8906,78 @@ export const poiExtraHuV4: POI[] = [
                         19.922106,
                         47.918098
                   ]
+            },
+            {
+                  "name": "Galya-tető",
+                  "text": "Galya-tető este al treilea cel mai înalt vârf din Ungaria, situat lângă Mátraszentimre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.916093,
+                        47.916227
+                  ]
+            },
+            {
+                  "name": "Piszkés-tető",
+                  "text": "Piszkés-tető este un vârf proeminent din munții Mátra lângă Mátraszentimre, cunoscut pentru observatorul său.",
+                  "category": "landmark",
+                  "coords": [
+                        19.895103,
+                        47.916997
+                  ]
+            },
+            {
+                  "name": "Piszkéstetői Obszervatórium",
+                  "text": "Piszkéstetői Obszervatórium din Mátraszentimre este principalul observator astronomic al Ungariei.",
+                  "category": "park",
+                  "coords": [
+                        19.893377,
+                        47.917432
+                  ]
+            },
+            {
+                  "name": "Vörös-kő kilátó",
+                  "text": "Vörös-kő kilátó este un punct de belvedere din Mátraszentimre care oferă panorame ale peisajelor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        19.879871,
+                        47.930334
+                  ]
+            },
+            {
+                  "name": "Orosz Mátyás vára",
+                  "text": "Orosz Mátyás vára este un sit istoric al unui castel situat în zona Mátraszentimre.",
+                  "category": "castle",
+                  "coords": [
+                        19.897035,
+                        47.924526
+                  ]
+            },
+            {
+                  "name": "Galyavár",
+                  "text": "Galyavár este locul unui fost castel situat în regiunea Mátra, lângă Mátraszentimre.",
+                  "category": "castle",
+                  "coords": [
+                        19.909082,
+                        47.924495
+                  ]
+            },
+            {
+                  "name": "Állatpark",
+                  "text": "Állatpark este o grădină zoologică locală din Mátraszentimre, unde vizitatorii pot observa diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867678,
+                        47.913375
+                  ]
+            },
+            {
+                  "name": "Mátra Ásványház Múzeum és Ásványbolt",
+                  "text": "Acest muzeu și magazin local din Mátraszentimre expune o colecție de minerale.",
+                  "category": "museum",
+                  "coords": [
+                        19.880601,
+                        47.90755
+                  ]
             }
       ],
       "en": [
@@ -2596,6 +8990,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.922106,
                         47.918098
+                  ]
+            },
+            {
+                  "name": "Galya-tető",
+                  "text": "Galya-tető is the third highest peak in Hungary, located near Mátraszentimre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.916093,
+                        47.916227
+                  ]
+            },
+            {
+                  "name": "Piszkés-tető",
+                  "text": "Piszkés-tető is a prominent peak in the Mátra mountains near Mátraszentimre, known for hosting an observatory.",
+                  "category": "landmark",
+                  "coords": [
+                        19.895103,
+                        47.916997
+                  ]
+            },
+            {
+                  "name": "Piszkéstetői Obszervatórium",
+                  "text": "The Piszkéstetői Obszervatórium in Mátraszentimre is Hungary's main astronomical observatory.",
+                  "category": "park",
+                  "coords": [
+                        19.893377,
+                        47.917432
+                  ]
+            },
+            {
+                  "name": "Vörös-kő kilátó",
+                  "text": "The Vörös-kő kilátó is a viewpoint in Mátraszentimre offering panoramas of the surrounding landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        19.879871,
+                        47.930334
+                  ]
+            },
+            {
+                  "name": "Orosz Mátyás vára",
+                  "text": "Orosz Mátyás vára is a historic castle site located in the area of Mátraszentimre.",
+                  "category": "castle",
+                  "coords": [
+                        19.897035,
+                        47.924526
+                  ]
+            },
+            {
+                  "name": "Galyavár",
+                  "text": "Galyavár is the site of a former castle located in the Mátra region near Mátraszentimre.",
+                  "category": "castle",
+                  "coords": [
+                        19.909082,
+                        47.924495
+                  ]
+            },
+            {
+                  "name": "Állatpark",
+                  "text": "The Állatpark is a local zoo in Mátraszentimre where visitors can observe various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867678,
+                        47.913375
+                  ]
+            },
+            {
+                  "name": "Mátra Ásványház Múzeum és Ásványbolt",
+                  "text": "This local museum and shop in Mátraszentimre showcases a collection of minerals.",
+                  "category": "museum",
+                  "coords": [
+                        19.880601,
+                        47.90755
                   ]
             }
       ]
@@ -2612,6 +9078,60 @@ export const poiExtraHuV4: POI[] = [
                         19.763978,
                         48.003334
                   ]
+            },
+            {
+                  "name": "Nagyboldogasszony bazilika",
+                  "text": "Die Nagyboldogasszony bazilika ist eine bedeutende Kirche am Nationalheiligtum Mátraverebély-Szentkút, einem wichtigen Wallfahrtsort.",
+                  "category": "religious",
+                  "coords": [
+                        19.76134,
+                        48.000152
+                  ]
+            },
+            {
+                  "name": "Kálvária-kápolna",
+                  "text": "Kálvária-kápolna ist eine Kapelle und Kultstätte in Mátraverebély.",
+                  "category": "religious",
+                  "coords": [
+                        19.758931,
+                        48.000607
+                  ]
+            },
+            {
+                  "name": "Szent Háromság-forrás",
+                  "text": "Szent Háromság-forrás ist eine natürliche Wasserquelle in der Gegend von Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.75842,
+                        48.004676
+                  ]
+            },
+            {
+                  "name": "Betyár-barlang",
+                  "text": "Betyár-barlang ist ein bekannter Höhleneingang in Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.762583,
+                        48.009051
+                  ]
+            },
+            {
+                  "name": "Nagyboldogasszony-templom",
+                  "text": "Die Nagyboldogasszony-templom ist eine historische römisch-katholische Kirche und eine bekannte Attraktion in Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.767702,
+                        47.9741
+                  ]
+            },
+            {
+                  "name": "Slovenské Kuchynské Múzeum",
+                  "text": "Das Slovenské Kuchynské Múzeum in Mátraverebély ist dem slowakischen Küchenerbe gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        19.720503,
+                        47.985971
+                  ]
             }
       ],
       "hu": [
@@ -2624,6 +9144,60 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.763978,
                         48.003334
+                  ]
+            },
+            {
+                  "name": "Nagyboldogasszony bazilika",
+                  "text": "A Nagyboldogasszony bazilika a mátraverebély-szentkúti Nemzeti Kegyhely kiemelkedő temploma és búcsújáró helye.",
+                  "category": "religious",
+                  "coords": [
+                        19.76134,
+                        48.000152
+                  ]
+            },
+            {
+                  "name": "Kálvária-kápolna",
+                  "text": "A Kálvária-kápolna egy vallási épület és istentiszteleti hely Mátraverebélyen.",
+                  "category": "religious",
+                  "coords": [
+                        19.758931,
+                        48.000607
+                  ]
+            },
+            {
+                  "name": "Szent Háromság-forrás",
+                  "text": "A Szent Háromság-forrás egy természetes vízforrás Mátraverebély területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.75842,
+                        48.004676
+                  ]
+            },
+            {
+                  "name": "Betyár-barlang",
+                  "text": "A Betyár-barlang egy barlangbejárat Mátraverebély határában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.762583,
+                        48.009051
+                  ]
+            },
+            {
+                  "name": "Nagyboldogasszony-templom",
+                  "text": "A Nagyboldogasszony-templom egy történelmi római katolikus templom és műemlék Mátraverebélyen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.767702,
+                        47.9741
+                  ]
+            },
+            {
+                  "name": "Slovenské Kuchynské Múzeum",
+                  "text": "A Slovenské Kuchynské Múzeum egy a szlovák konyhai hagyományokat bemutató múzeum Mátraverebélyen.",
+                  "category": "museum",
+                  "coords": [
+                        19.720503,
+                        47.985971
                   ]
             }
       ],
@@ -2638,6 +9212,60 @@ export const poiExtraHuV4: POI[] = [
                         19.763978,
                         48.003334
                   ]
+            },
+            {
+                  "name": "Nagyboldogasszony bazilika",
+                  "text": "Nagyboldogasszony bazilika este o biserică proeminentă de la Altarul Național Mátraverebély-Szentkút, un loc important de pelerinaj.",
+                  "category": "religious",
+                  "coords": [
+                        19.76134,
+                        48.000152
+                  ]
+            },
+            {
+                  "name": "Kálvária-kápolna",
+                  "text": "Kálvária-kápolna este o capelă religioasă și lăcaș de cult situat în Mátraverebély.",
+                  "category": "religious",
+                  "coords": [
+                        19.758931,
+                        48.000607
+                  ]
+            },
+            {
+                  "name": "Szent Háromság-forrás",
+                  "text": "Szent Háromság-forrás este un izvor natural de apă din zona Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.75842,
+                        48.004676
+                  ]
+            },
+            {
+                  "name": "Betyár-barlang",
+                  "text": "Betyár-barlang este o intrare de peșteră situată în Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.762583,
+                        48.009051
+                  ]
+            },
+            {
+                  "name": "Nagyboldogasszony-templom",
+                  "text": "Nagyboldogasszony-templom este o biserică istorică și o atracție notabilă în Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.767702,
+                        47.9741
+                  ]
+            },
+            {
+                  "name": "Slovenské Kuchynské Múzeum",
+                  "text": "Slovenské Kuchynské Múzeum este un muzeu situat în Mátraverebély, dedicat patrimoniului de bucătărie slovac.",
+                  "category": "museum",
+                  "coords": [
+                        19.720503,
+                        47.985971
+                  ]
             }
       ],
       "en": [
@@ -2651,14 +9279,396 @@ export const poiExtraHuV4: POI[] = [
                         19.763978,
                         48.003334
                   ]
+            },
+            {
+                  "name": "Nagyboldogasszony bazilika",
+                  "text": "The Nagyboldogasszony bazilika is a prominent church at the Mátraverebély-Szentkút National Shrine, a major pilgrimage site.",
+                  "category": "religious",
+                  "coords": [
+                        19.76134,
+                        48.000152
+                  ]
+            },
+            {
+                  "name": "Kálvária-kápolna",
+                  "text": "Kálvária-kápolna is a religious chapel and place of worship located in Mátraverebély.",
+                  "category": "religious",
+                  "coords": [
+                        19.758931,
+                        48.000607
+                  ]
+            },
+            {
+                  "name": "Szent Háromság-forrás",
+                  "text": "Szent Háromság-forrás is a natural water spring found in the area of Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.75842,
+                        48.004676
+                  ]
+            },
+            {
+                  "name": "Betyár-barlang",
+                  "text": "Betyár-barlang is a known cave entrance located in Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.762583,
+                        48.009051
+                  ]
+            },
+            {
+                  "name": "Nagyboldogasszony-templom",
+                  "text": "The Nagyboldogasszony-templom is a historic Roman Catholic church and notable attraction in Mátraverebély.",
+                  "category": "landmark",
+                  "coords": [
+                        19.767702,
+                        47.9741
+                  ]
+            },
+            {
+                  "name": "Slovenské Kuchynské Múzeum",
+                  "text": "Slovenské Kuchynské Múzeum is a museum situated in Mátraverebély dedicated to Slovak kitchen heritage.",
+                  "category": "museum",
+                  "coords": [
+                        19.720503,
+                        47.985971
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Pásztó", "text": "Historische Stadt mit einer mittelalterlichen Klosterruine und Museum.", "distance": "10 km", "category": "historical"}, {"name": "Tar", "text": "Bekannt für den buddhistischen Stupa und den Gedenkpark.", "distance": "8 km", "category": "religious"}], "hu": [{"name": "Pásztó", "text": "Középkori mezőváros, híres a romkertről és a Ciszterci Apátságról.", "distance": "10 km", "category": "historical"}, {"name": "Tar", "text": "Kőrösi Csoma Sándor emlékpark és buddhista sztúpa található itt.", "distance": "8 km", "category": "religious"}], "ro": [{"name": "Pásztó", "text": "Oraș istoric cu ruine de mănăstire cisterciană și un centru vechi conservat.", "distance": "10 km", "category": "historical"}, {"name": "Tar", "text": "Localitate renumită pentru stupa budistă și memorialul dedicat lui Kőrösi Csoma Sándor.", "distance": "8 km", "category": "religious"}], "en": [{"name": "Pásztó", "text": "A historic town featuring a medieval ruin garden and a Cistercian Abbey.", "distance": "10 km", "category": "historical"}, {"name": "Tar", "text": "Home to the Alexander Csoma de Koros Memorial Park and a Tibetan Stupa.", "distance": "8 km", "category": "religious"}]}, "parent": "nograd"},
   {"id": "nagyborzsony", "type": "village", "coords": [18.8267, 47.9356], "population": 700, "name": {"de": "Nagybörzsöny", "hu": "Nagybörzsöny", "ro": "Nagybörzsöny", "en": "Nagybörzsöny"}, "descriptionAdvanced": {"de": "Nagybörzsöny ist eine versteckte Perle am westlichen Rand des Börzsöny-Gebirges im Komitat Pest. Das Dorf war im Mittelalter eine bedeutende Bergbaustadt, in der Gold, Silber und Eisen abgebaut wurden. Zeugen dieser reichen Vergangenheit sind die vier Kirchen des kleinen Ortes, allen voran die romanische St. Stephans-Kirche (Szent István-templom) aus dem 13. Jahrhundert, die als eines der am besten erhaltenen Baudenkmäler ihrer Art in Ungarn gilt. Nagybörzsöny hat sich seinen mittelalterlichen Grundriss und seine authentische Atmosphäre bewahrt. Neben den sakralen Bauten ist die funktionstüchtige Wassermühle aus dem 19. Jahrhundert eine große Attraktion, in der Besucher den Weg vom Getreide zum Mehl verfolgen können. Die Waldeisenbahn verbindet das Dorf mit der unberührten Natur des Börzsöny-Gebirges und ist besonders bei Familien beliebt. Kulinarisch ist der Ort für seine traditionellen 'Lepény' (Fladenbrote) und Wildgerichte bekannt. Wer Ruhe abseits der ausgetretenen Pfade sucht und in die Geschichte eintauchen möchte, findet in Nagybörzsöny ein wahres Paradies.", "hu": "Nagybörzsöny a Börzsöny hegység nyugati lábánál fekvő, Pest vármegyei ékszerdoboz, amely egyedülálló módon őrizte meg középkori hangulatát. Az egykor virágzó bányavárosban aranyat és ezüstöt termeltek ki, aminek emlékét a település négy temploma és bányászati emlékei őrzik. A falu legértékesebb kincse a 13. századi Szent István-templom, amely a román kori építészet egyik legszebb hazai példája, fallal körülvett kertjével és különleges kőfaragványaival. A település látnivalói közül kiemelkedik a ma is működőképes Antal-féle vízimalom, ahol a látogatók megismerhetik az őrlés hagyományos folyamatát. A faluból induló erdei kisvasút vadregényes tájakon keresztül vezet a Börzsöny mélyébe, felejthetetlen élményt nyújtva a természetjáróknak. Nagybörzsöny híres vendégszeretetéről és helyi termékeiről, mint a különleges lekvárok, szörpök és a kemencés lepények. A csendes völgyben fekvő község ideális hely a lassú turizmus kedvelőinek, akik értékelik az épített örökség és a háborítatlan természet harmóniáját.", "ro": "Nagybörzsöny este un sat pitoresc situat la poalele vestice ale munților Börzsöny, în județul Pest, fiind considerat unul dintre cele mai bine conservate situri istorice rurale din Ungaria. În Evul Mediu, localitatea era un oraș minier înfloritor unde se extrăgeau metale prețioase, bogăție care se reflectă în prezența a patru biserici vechi într-un sat atât de mic. Bijuteria localității este Biserica Sfântul Ștefan, o construcție în stil romanic din secolul al XIII-lea, înconjurată de un zid de piatră defensiv, fiind un exemplu rar de arhitectură ecleziastică timpurie. Pe lângă monumentele religioase, vizitatorii pot descoperi moara de apă funcțională Antal, construită în secolul al XIX-lea, care oferă demonstrații de măcinare a cerealelor. O altă atracție majoră este trenulețul de munte care șerpuiește prin pădurile dese, legând satul de zonele înalte ale munților. Gastronomia locală este renumită pentru turtele coapte în cuptor și dulcețurile artizanale din fructe de pădure. Nagybörzsöny reprezintă destinația perfectă pentru turiștii care caută o evadare în timp, într-un decor natural de o frumusețe sălbatică și liniștitoare.", "en": "Nagybörzsöny is a hidden gem tucked away in a valley on the western edge of the Börzsöny Mountains in Pest County. Once a prosperous royal mining town famous for its gold and silver deposits, the village today is a tranquil sanctuary of medieval heritage. It is unique for having four distinct churches, the most celebrated being the St. Stephen’s Church (Szent István-templom), a 13th-century Romanesque masterpiece with perfectly preserved stone carvings and a surrounding defensive wall. Another major highlight is the functional Antal Watermill, where visitors can witness traditional flour milling techniques used for centuries. For nature enthusiasts, the narrow-gauge forest railway offers a nostalgic journey through deep forests and rocky valleys. The village is also known for its 'slow food' culture, featuring homemade fruit jams, syrups, and traditional oven-baked pastries. Nagybörzsöny’s untouched medieval layout and its integration with the surrounding national park make it an exceptional destination for those seeking historical authenticity and natural serenity."}, "factsAdvanced": {"de": ["Die St. Stephans-Kirche wurde um 1250 erbaut.", "Nagybörzsöny hat nur etwa 700 Einwohner.", "Es war eine von sieben königlichen Bergbaustädten in Oberungarn.", "Die Wassermühle wird durch den Börzsöny-Bach angetrieben.", "Die Waldeisenbahn hat eine Spurweite von 760 mm.", "Im Mittelalter lebten hier viele deutsche Bergleute (Sachsen)."], "hu": ["A Szent István-templom kerítőfalán 19 emberfejet formázó kőfaragvány látható.", "Az Antal-féle vízimalom 1851-ben épült jelenlegi formájában.", "A bányamúzeumban 14. századi bányászszerszámokat is őriznek.", "A községben négy különböző felekezetű/stílusú templom található.", "Nagybörzsöny híres a több mint 100-féle házi készítésű lekvárjáról.", "Az erdei vasút Magyarország egyik legmeredekebb vonalvezetése."], "ro": ["Biserica Sfântul Ștefan păstrează fresce fragmentare din secolul al XIV-lea.", "Satul se află într-o zonă montană la granița județului Pest.", "Moara de apă este una dintre puținele din Ungaria care încă funcționează.", "Mineritul în zonă a încetat complet în secolul al XVIII-lea.", "Există un traseu de drumeție care duce la vârful Nagy-Hideg-hegy.", "Stilul arhitectural al caselor vechi este cel tradițional german."], "en": ["St. Stephen's Church is one of Hungary's most photographed medieval sites.", "The village had its own silver minting privilege in the Middle Ages.", "The forest railway connects Nagybörzsöny with Nagyirtáspuszta.", "Average annual precipitation is higher than the national average.", "The mining museum is located in a former miner's house from 1700.", "The village name 'Börzsöny' is related to the German word 'Bernstein'."]}, "faq": {"de": [{"q": "Kann man die St. Stephans-Kirche von innen besichtigen?", "a": "Ja, der Schlüssel kann meist im gegenüberliegenden Haus oder im Pfarramt ausgeliehen werden."}, {"q": "Fährt die Waldeisenbahn das ganze Jahr über?", "a": "Nein, sie verkehrt meist von April bis Oktober an Wochenenden und Feiertagen."}, {"q": "Gibt es gute Restaurants im Dorf?", "a": "Ja, es gibt mehrere Gasthäuser, die regionale Spezialitäten und Wildgerichte anbieten."}, {"q": "Ist die Wassermühle für Besucher zugänglich?", "a": "Ja, es gibt regelmäßige Vorführungen und ein kleines Museum im Inneren."}], "hu": [{"q": "Hogyan lehet bejutni a Szent István-templomba?", "a": "A templom melletti gondnoki házban kell elkérni a kulcsot vagy jegyet váltani."}, {"q": "Milyen gyakran jár a kisvasút?", "a": "Szezonban hétvégente kétóránként indulnak járatok Nagyirtáspuszta felé."}, {"q": "Lehet-e helyi lekvárt vásárolni a faluban?", "a": "Igen, a főutca mentén több kistermelőnél is kaphatók díjnyertes lekvárok."}, {"q": "Van bankautomata a településen?", "a": "Nincs, érdemes készpénzzel készülni, mert sok helyen nem fogadnak el kártyát."}], "ro": [{"q": "Cât costă biletul la trenulețul de munte?", "a": "Prețul este în jur de 1500-2500 forinți, depinzând de lungimea traseului."}, {"q": "Drumul spre sat este asfaltat?", "a": "Da, drumul de acces dinspre Szob este în stare bună și asfaltat complet."}, {"q": "Există ghidaj pentru moara de apă?", "a": "Da, morarul explică vizitatorilor procesul tehnologic în limba maghiară."}, {"q": "Se pot face drumeții lungi din sat?", "a": "Da, din Nagybörzsöny pornesc numeroase trasee marcate spre inima munților Börzsöny."}], "en": [{"q": "Is Nagybörzsöny suitable for a day trip from Budapest?", "a": "Yes, it takes about 1.5 hours by car and is perfect for a quiet day away from the city."}, {"q": "What is the 'lekvár' famous for?", "a": "It's famous for being 100% natural, often made from wild berries gathered in the forest."}, {"q": "Can I visit all four churches in one day?", "a": "Yes, they are all within walking distance of each other in the village center."}, {"q": "Is there a parking fee in the village?", "a": "Parking is generally free in most parts of the village."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Kutya-hát",
+                  "text": "Kutya-hát ist ein anerkannter Berggipfel in der Nähe von Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.828189,
+                        47.948746
+                  ]
+            },
+            {
+                  "name": "Bánya-hegy",
+                  "text": "Bánya-hegy ist ein bekannter Berggipfel in der Umgebung von Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.800847,
+                        47.922116
+                  ]
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Szent Miklós-templom ist eine bemerkenswerte Kirche aus der Árpádenzeit und Kultstätte in Nagybörzsöny.",
+                  "category": "religious",
+                  "coords": [
+                        18.824063,
+                        47.934182
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Tájház ist ein lokales Heimatmuseum in Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.825792,
+                        47.935604
+                  ]
+            },
+            {
+                  "name": "Rustokvár",
+                  "text": "Rustokvár ist eine archäologische Stätte in Nagybörzsöny.",
+                  "category": "historical",
+                  "coords": [
+                        18.862647,
+                        47.934864
+                  ]
+            },
+            {
+                  "name": "Vízimalom",
+                  "text": "Vízimalom ist ein Museum mit einer historischen Wassermühle in Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.829556,
+                        47.936605
+                  ]
+            },
+            {
+                  "name": "Fafaragás kiállítás",
+                  "text": "Fafaragás kiállítás ist ein Museum für Holzschnitzereien in Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.834159,
+                        47.936374
+                  ]
+            },
+            {
+                  "name": "Nagybörzsönyi Erdei Vasút",
+                  "text": "Nagybörzsönyi Erdei Vasút ist eine lokale Waldbahn-Attraktion in Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837764,
+                        47.931409
+                  ]
+            },
+            {
+                  "name": "Szent István király templom",
+                  "text": "Szent István király templom ist eine bemerkenswerte Kirche in Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.817611,
+                        47.936216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kutya-hát",
+                  "text": "A Kutya-hát egy ismert hegycsúcs Nagybörzsöny közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.828189,
+                        47.948746
+                  ]
+            },
+            {
+                  "name": "Bánya-hegy",
+                  "text": "A Bánya-hegy egy jelentős hegycsúcs Nagybörzsöny térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.800847,
+                        47.922116
+                  ]
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A Szent Miklós-templom egy jelentős Árpád-kori templom és vallási épület Nagybörzsönyben.",
+                  "category": "religious",
+                  "coords": [
+                        18.824063,
+                        47.934182
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A Tájház egy helyi múzeum, amely Nagybörzsöny hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.825792,
+                        47.935604
+                  ]
+            },
+            {
+                  "name": "Rustokvár",
+                  "text": "A Rustokvár egy régészeti lelőhely Nagybörzsönyben.",
+                  "category": "historical",
+                  "coords": [
+                        18.862647,
+                        47.934864
+                  ]
+            },
+            {
+                  "name": "Vízimalom",
+                  "text": "A Vízimalom egy történelmi vízimalmot bemutató múzeum Nagybörzsönyben.",
+                  "category": "museum",
+                  "coords": [
+                        18.829556,
+                        47.936605
+                  ]
+            },
+            {
+                  "name": "Fafaragás kiállítás",
+                  "text": "A Fafaragás kiállítás egy fafaragásokat bemutató múzeum Nagybörzsönyben.",
+                  "category": "museum",
+                  "coords": [
+                        18.834159,
+                        47.936374
+                  ]
+            },
+            {
+                  "name": "Nagybörzsönyi Erdei Vasút",
+                  "text": "A Nagybörzsönyi Erdei Vasút egy helyi erdei vasút és látványosság Nagybörzsönyben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837764,
+                        47.931409
+                  ]
+            },
+            {
+                  "name": "Szent István király templom",
+                  "text": "A Szent István király templom egy jelentős templomi látványosság Nagybörzsönyben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.817611,
+                        47.936216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kutya-hát",
+                  "text": "Kutya-hát este un vârf montan recunoscut situat lângă Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.828189,
+                        47.948746
+                  ]
+            },
+            {
+                  "name": "Bánya-hegy",
+                  "text": "Bánya-hegy este un vârf montan notabil aflat în vecinătatea localității Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.800847,
+                        47.922116
+                  ]
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Szent Miklós-templom este o biserică notabilă din epoca arpadiană și un lăcaș de cult în Nagybörzsöny.",
+                  "category": "religious",
+                  "coords": [
+                        18.824063,
+                        47.934182
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Tájház este un muzeu local care prezintă patrimoniul din Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.825792,
+                        47.935604
+                  ]
+            },
+            {
+                  "name": "Rustokvár",
+                  "text": "Rustokvár este un sit arheologic situat în Nagybörzsöny.",
+                  "category": "historical",
+                  "coords": [
+                        18.862647,
+                        47.934864
+                  ]
+            },
+            {
+                  "name": "Vízimalom",
+                  "text": "Vízimalom este un muzeu cu o moară de apă istorică în Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.829556,
+                        47.936605
+                  ]
+            },
+            {
+                  "name": "Fafaragás kiállítás",
+                  "text": "Fafaragás kiállítás este un muzeu dedicat sculpturii în lemn din Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.834159,
+                        47.936374
+                  ]
+            },
+            {
+                  "name": "Nagybörzsönyi Erdei Vasút",
+                  "text": "Nagybörzsönyi Erdei Vasút este o atracție feroviară forestieră locală în Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837764,
+                        47.931409
+                  ]
+            },
+            {
+                  "name": "Szent István király templom",
+                  "text": "Szent István király templom este o biserică notabilă și o atracție în Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.817611,
+                        47.936216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kutya-hát",
+                  "text": "Kutya-hát is a recognized peak located near Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.828189,
+                        47.948746
+                  ]
+            },
+            {
+                  "name": "Bánya-hegy",
+                  "text": "Bánya-hegy is a notable peak found in the vicinity of Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.800847,
+                        47.922116
+                  ]
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Szent Miklós-templom is an Árpád-era church and notable place of worship in Nagybörzsöny.",
+                  "category": "religious",
+                  "coords": [
+                        18.824063,
+                        47.934182
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Tájház is a local museum exhibiting regional heritage in Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.825792,
+                        47.935604
+                  ]
+            },
+            {
+                  "name": "Rustokvár",
+                  "text": "Rustokvár is an archaeological site situated in Nagybörzsöny.",
+                  "category": "historical",
+                  "coords": [
+                        18.862647,
+                        47.934864
+                  ]
+            },
+            {
+                  "name": "Vízimalom",
+                  "text": "Vízimalom is a museum featuring a historic watermill in Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.829556,
+                        47.936605
+                  ]
+            },
+            {
+                  "name": "Fafaragás kiállítás",
+                  "text": "Fafaragás kiállítás is a museum dedicated to woodcarving exhibitions in Nagybörzsöny.",
+                  "category": "museum",
+                  "coords": [
+                        18.834159,
+                        47.936374
+                  ]
+            },
+            {
+                  "name": "Nagybörzsönyi Erdei Vasút",
+                  "text": "Nagybörzsönyi Erdei Vasút is a local forest railway attraction in Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.837764,
+                        47.931409
+                  ]
+            },
+            {
+                  "name": "Szent István király templom",
+                  "text": "Szent István király templom is a notable church attraction in Nagybörzsöny.",
+                  "category": "landmark",
+                  "coords": [
+                        18.817611,
+                        47.936216
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Kemence", "text": "Ein weiteres charmantes Dorf mit einem großen Waldeisenbahnmuseum.", "distance": "12 km", "category": "recreational"}, {"name": "Szob", "text": "Anlegestelle an der Donau und Tor zum Donauknie.", "distance": "18 km", "category": "civic"}], "hu": [{"name": "Kemence", "text": "Híres az erdei vasútjáról és a környék nagyszerű túraútvonalairól.", "distance": "12 km", "category": "recreational"}, {"name": "Szob", "text": "Közlekedési csomópont a Dunánál, híres a Luczenbacher-kastélyról.", "distance": "18 km", "category": "historical"}], "ro": [{"name": "Kemence", "text": "Localitate vecină cunoscută pentru muzeul căilor ferate forestiere.", "distance": "12 km", "category": "recreational"}, {"name": "Szob", "text": "Punct de acces la Dunăre, unde se poate lua bacul spre Pilismarót.", "distance": "18 km", "category": "recreational"}], "en": [{"name": "Kemence", "text": "Nearby village featuring another popular forest railway and hiking base.", "distance": "12 km", "category": "recreational"}, {"name": "Szob", "text": "A transport hub by the Danube, known for its river views and historic buildings.", "distance": "18 km", "category": "civic"}]}, "parent": "pest"},
   {"id": "nagycenk", "type": "village", "coords": [16.7, 47.6083], "population": 2000, "name": {"de": "Nagycenk", "hu": "Nagycenk", "ro": "Nagycenk", "en": "Nagycenk"}, "descriptionAdvanced": {"de": "Nagycenk ist untrennbar mit dem Namen des Grafen István Széchenyi, dem 'größten Ungarn', verbunden. Das Dorf beherbergt den beeindruckenden Széchenyi-Schlosskomplex, der heute als Gedenkstätte und Museum dient. Das Schloss selbst, ein Juwel des Klassizismus, ist von einem weitläufigen englischen Park und der weltberühmten, 2,6 Kilometer langen Lindenallee umgeben, die zum UNESCO-Welterbe gehört. Nagycenk ist ein Ort der nationalen Identität; im Széchenyi-Mausoleum in der Dorfkirche ruhen die Mitglieder der bedeutenden Adelsfamilie. Ein besonderes Highlight für Familien ist die Széchenyi-Museumsbahn, eine Schmalspurbahn, die den Ort mit Fertőboz verbindet und von Kindern und Jugendlichen betrieben wird. Die Architektur des Dorfes strahlt eine aristokratische Ruhe aus, wobei die Pfarrkirche St. Stephan mit ihren nazarenischen Fresken ebenfalls ein bedeutendes Kunstdenkmal darstellt. Nagycenk ist nicht nur ein Museumsdorf, sondern ein lebendiges Zentrum für Kultur und Geschichte im Herzen des Fertő-Táj-Welterbes.", "hu": "Nagycenk a magyar történelem egyik legfontosabb zarándokhelye, a 'legnagyobb magyar', gróf Széchenyi István otthona és nyughelye. A település központjában álló Széchenyi-kastély nemcsak építészeti remekmű, hanem a modern Magyarország születésének emlékmúzeuma is. A kastélyt övező hatalmas angolpark és az onnan induló, több mint két kilométer hosszú, védett hársfa-fasor a világörökség része. Nagycenk különleges hangulatát a nemesi múlt és a gondozott falukép adja, ahol minden a Széchenyi család örökségét idézi. A Szent István-templom alatti családi mauzóleum a nemzeti kegyelet helyszíne. A kisvasút barátai számára a Széchenyi Múzeumvasút kínál felejthetetlen élményt, ahol korhű gőzmozdonyok és vagonok repítenek vissza a múltba. A falu ideális úti cél azoknak, akik a történelem mélységeit, a klasszicista eleganciát és a nyugodt természeti környezetet keresik egy helyen.", "ro": "Nagycenk este o localitate de o importanță simbolică majoră pentru națiunea maghiară, fiind reședința contelui István Széchenyi, supranumit 'cel mai mare maghiar'. Castelul Széchenyi din centrul satului este astăzi un muzeu memorial de prestigiu, unde vizitatorii pot descoperi viața și realizările acestui vizionar care a modernizat Ungaria în secolul al XIX-lea. Domeniul este faimos pentru imensa sa grădină englezească și pentru aleea de tei lungă de 2,6 kilometri, un monument natural protejat de UNESCO. Un alt punct de interes major este Mausoleul Széchenyi, aflat sub biserica parohială, locul de odihnă al membrilor familiei nobile. Pentru turiștii tineri și pasionații de tehnologie istorică, calea ferată muzeu Széchenyi oferă plimbări nostalgice cu aburi. Nagycenk păstrează o atmosferă de noblețe și ordine, fiind o destinație culturală rafinată situată în proximitatea lacului Fertő, oferind o experiență educativă și relaxantă într-un cadru peisagistic de excepție.", "en": "Nagycenk is a pivotal site of Hungarian national heritage, primarily known as the home of Count István Széchenyi, titled 'the Greatest Hungarian'. The Széchenyi Mansion, a Neoclassical jewel, serves as a comprehensive memorial museum dedicated to the man who founded the Hungarian Academy of Sciences and initiated the building of the Chain Bridge in Budapest. The estate features a sprawling English park and a world-famous, 2.6-kilometer-long linden tree alley, both of which are part of the UNESCO World Heritage landscape. Spiritual life centers on the St. Stephen's Parish Church and the nearby Széchenyi Mausoleum, where generations of the noble family are buried. A unique attraction is the Széchenyi Museum Railway, a narrow-gauge heritage line operated largely by youth, connecting Nagycenk to Fertőboz with vintage steam locomotives. The village's aristocratic charm, historical depth, and beautifully preserved environment make it a top destination for those exploring the culture and history of Central Europe."}, "factsAdvanced": {"de": ["Das Schloss beherbergt das größte Széchenyi-Gedenkmuseum Ungarns.", "Die Lindenallee besteht aus über 400 Bäumen und wurde um 1750 gepflanzt.", "Im Mausoleum ruht auch der Gründer des Nationalmuseums, Ferenc Széchényi.", "Die Museumsbahn wurde 1970 eingeweiht und ist 3,6 km lang.", "Die St.-Stephans-Kirche wurde nach Plänen von Miklós Ybl erbaut.", "Nagycenk liegt an der Hauptstraße 84 Richtung Plattensee."], "hu": ["A hársfa-fasort Széchényi Antal és felesége, Barkóczy Zsuzsanna ültettette.", "A Széchenyi-kastély falai között születtek a magyar reformkor legfontosabb gondolatai.", "A mauzóleumban több mint 50 családtag nyugszik.", "A múzeumvasút gőzmozdonya, az 'András' az ország egyik legrégebbi működő gépe.", "A faluban található Széchenyi-szobrot 1897-ben állították.", "Nagycenk 2001 óta az UNESCO Világörökség része."], "ro": ["Castelul a fost reconstruit în stil neoclasic în anii 1830.", "Aleea de tei este considerată una dintre cele mai frumoase din Europa.", "István Széchenyi a introdus aici primele mașini agricole moderne în Ungaria.", "Biserica parohială a fost finanțată în mare parte de familia Széchenyi.", "Muzeul prezintă și macheta originală a Podului cu Lanțuri din Budapesta.", "Satul se află la intersecția unor importante rute turistice regionale."], "en": ["The Széchenyi Mansion museum features the family's original library and study.", "The linden alley was originally designed to connect the mansion with the lake.", "The Museum Railway features several rare narrow-gauge steam engines.", "Count István Széchenyi spent his most productive years in this estate.", "The parish church was built between 1860 and 1864 in Romanesque Revival style.", "The village is a key hub for cultural tourism in Western Hungary."]}, "faq": {"de": [{"q": "Ist das Museum montags geöffnet?", "a": "Die meisten ungarischen Museen, auch dieses, sind montags geschlossen."}, {"q": "Darf man in der Lindenallee spazieren gehen?", "a": "Ja, die Allee ist öffentlich zugänglich und ein beliebter Ort für Wanderungen."}], "hu": [{"q": "Mennyi időt érdemes szánni a kastélyra?", "a": "A múzeum és a park alapos megtekintése legalább 2-3 órát vesz igénybe."}, {"q": "Honnan indul a múzeumvasút?", "a": "A vasútállomás a falu szélén, a Fertőboz felé vezető út mellett található."}], "ro": [{"q": "Există ghidaj audio în castel?", "a": "Da, sunt disponibile ghiduri audio în mai multe limbi străine."}, {"q": "Este mausoleul vizitabil separat?", "a": "Da, mausoleul are program propriu, fiind situat în cimitirul de lângă biserică."}], "en": [{"q": "Can I visit the castle park for free?", "a": "The outer park is usually accessible, but the museum area requires a ticket."}, {"q": "Is Nagycenk accessible by bus from Sopron?", "a": "Yes, there are frequent bus services from Sopron bus station."}]}, "sights": {
       "hu": [
@@ -2697,6 +9707,24 @@ export const poiExtraHuV4: POI[] = [
                   "category": "religious",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A Szent Miklós-templom egy istentiszteleti hely Nagycenk településen.",
+                  "category": "religious",
+                  "coords": [
+                        16.728951,
+                        47.595386
+                  ]
+            },
+            {
+                  "name": "Nagycenki hársfasor",
+                  "text": "A Nagycenki hársfasor egy természetvédelmi terület Nagycenken.",
+                  "category": "natural",
+                  "coords": [
+                        16.710271,
+                        47.619916
+                  ]
             }
       ],
       "de": [
@@ -2720,6 +9748,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.705711,
                         47.610725
+                  ]
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Die Szent Miklós-templom ist ein lokales Gotteshaus in Nagycenk.",
+                  "category": "religious",
+                  "coords": [
+                        16.728951,
+                        47.595386
+                  ]
+            },
+            {
+                  "name": "Nagycenki hársfasor",
+                  "text": "Nagycenki hársfasor ist ein Naturschutzgebiet in der Stadt Nagycenk.",
+                  "category": "natural",
+                  "coords": [
+                        16.710271,
+                        47.619916
                   ]
             }
       ],
@@ -2745,6 +9791,24 @@ export const poiExtraHuV4: POI[] = [
                         16.705711,
                         47.610725
                   ]
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Szent Miklós-templom este un lăcaș de cult situat în Nagycenk.",
+                  "category": "religious",
+                  "coords": [
+                        16.728951,
+                        47.595386
+                  ]
+            },
+            {
+                  "name": "Nagycenki hársfasor",
+                  "text": "Nagycenki hársfasor este o rezervație naturală în Nagycenk.",
+                  "category": "natural",
+                  "coords": [
+                        16.710271,
+                        47.619916
+                  ]
             }
       ],
       "en": [
@@ -2768,6 +9832,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.705711,
                         47.610725
+                  ]
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Szent Miklós-templom is a place of worship in Nagycenk.",
+                  "category": "religious",
+                  "coords": [
+                        16.728951,
+                        47.595386
+                  ]
+            },
+            {
+                  "name": "Nagycenki hársfasor",
+                  "text": "Nagycenki hársfasor is a nature reserve located in Nagycenk.",
+                  "category": "natural",
+                  "coords": [
+                        16.710271,
+                        47.619916
                   ]
             }
       ]
@@ -2806,6 +9888,51 @@ export const poiExtraHuV4: POI[] = [
                         17.69951,
                         46.98855
                   ]
+            },
+            {
+                  "name": "Pálos kolostorrom, Tálod",
+                  "text": "Pálos kolostorrom in Tálod sind die Ruinen eines ehemaligen Paulinerklosters in Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.660815,
+                        46.97892
+                  ]
+            },
+            {
+                  "name": "Kánya-domb",
+                  "text": "Kánya-domb ist eine markante Erhebung in der Nähe von Nagyvázsony.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706244,
+                        46.958639
+                  ]
+            },
+            {
+                  "name": "kálváriadombi körpanoráma",
+                  "text": "Das kálváriadombi körpanoráma bietet einen schönen Rundblick über Nagyvázsony.",
+                  "category": "natural",
+                  "coords": [
+                        17.729466,
+                        46.970883
+                  ]
+            },
+            {
+                  "name": "Tálodi gát",
+                  "text": "Tálodi gát ist eine archäologische Stätte in der Nähe von Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.66133,
+                        46.986406
+                  ]
+            },
+            {
+                  "name": "Csepelyi templomrom",
+                  "text": "Csepelyi templomrom sind die Überreste einer alten Kirche bei Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.722573,
+                        47.004418
+                  ]
             }
       ],
       "hu": [
@@ -2840,6 +9967,51 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.69951,
                         46.98855
+                  ]
+            },
+            {
+                  "name": "Pálos kolostorrom, Tálod",
+                  "text": "A tálodi pálos kolostorrom egy egykori pálos rendi kolostor maradványa Nagyvázsonyban.",
+                  "category": "historical",
+                  "coords": [
+                        17.660815,
+                        46.97892
+                  ]
+            },
+            {
+                  "name": "Kánya-domb",
+                  "text": "A Kánya-domb egy hegycsúcs Nagyvázsony közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706244,
+                        46.958639
+                  ]
+            },
+            {
+                  "name": "kálváriadombi körpanoráma",
+                  "text": "A kálváriadombi körpanoráma gyönyörű kilátást nyújt Nagyvázsonyra és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        17.729466,
+                        46.970883
+                  ]
+            },
+            {
+                  "name": "Tálodi gát",
+                  "text": "A Tálodi gát egy régészeti lelőhely Nagyvázsony környékén.",
+                  "category": "historical",
+                  "coords": [
+                        17.66133,
+                        46.986406
+                  ]
+            },
+            {
+                  "name": "Csepelyi templomrom",
+                  "text": "A Csepelyi templomrom egy régi templom maradványa Nagyvázsony közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.722573,
+                        47.004418
                   ]
             }
       ],
@@ -2876,6 +10048,51 @@ export const poiExtraHuV4: POI[] = [
                         17.69951,
                         46.98855
                   ]
+            },
+            {
+                  "name": "Pálos kolostorrom, Tálod",
+                  "text": "Pálos kolostorrom din Tálod sunt ruinele unei foste mănăstiri pauline din Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.660815,
+                        46.97892
+                  ]
+            },
+            {
+                  "name": "Kánya-domb",
+                  "text": "Kánya-domb este un vârf muntos situat în apropiere de Nagyvázsony.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706244,
+                        46.958639
+                  ]
+            },
+            {
+                  "name": "kálváriadombi körpanoráma",
+                  "text": "Kálváriadombi körpanoráma oferă o frumoasă priveliște panoramică asupra orașului Nagyvázsony.",
+                  "category": "natural",
+                  "coords": [
+                        17.729466,
+                        46.970883
+                  ]
+            },
+            {
+                  "name": "Tálodi gát",
+                  "text": "Tálodi gát este un sit arheologic situat în zona Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.66133,
+                        46.986406
+                  ]
+            },
+            {
+                  "name": "Csepelyi templomrom",
+                  "text": "Csepelyi templomrom sunt ruinele unei vechi biserici din apropiere de Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.722573,
+                        47.004418
+                  ]
             }
       ],
       "en": [
@@ -2910,6 +10127,51 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.69951,
                         46.98855
+                  ]
+            },
+            {
+                  "name": "Pálos kolostorrom, Tálod",
+                  "text": "Pálos kolostorrom in Tálod are the ruins of a former Pauline monastery in Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.660815,
+                        46.97892
+                  ]
+            },
+            {
+                  "name": "Kánya-domb",
+                  "text": "Kánya-domb is a prominent peak situated near Nagyvázsony.",
+                  "category": "landmark",
+                  "coords": [
+                        17.706244,
+                        46.958639
+                  ]
+            },
+            {
+                  "name": "kálváriadombi körpanoráma",
+                  "text": "The kálváriadombi körpanoráma offers a beautiful panoramic viewpoint in Nagyvázsony.",
+                  "category": "natural",
+                  "coords": [
+                        17.729466,
+                        46.970883
+                  ]
+            },
+            {
+                  "name": "Tálodi gát",
+                  "text": "Tálodi gát is an archaeological site located near Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.66133,
+                        46.986406
+                  ]
+            },
+            {
+                  "name": "Csepelyi templomrom",
+                  "text": "Csepelyi templomrom are the ruins of an old church near Nagyvázsony.",
+                  "category": "historical",
+                  "coords": [
+                        17.722573,
+                        47.004418
                   ]
             }
       ]
@@ -3019,6 +10281,42 @@ export const poiExtraHuV4: POI[] = [
                         18.140446,
                         46.146546
                   ]
+            },
+            {
+                  "name": "Vízfő-barlang",
+                  "text": "Die Vízfő-Höhle ist ein bekannter Höhleneingang in der ungarischen Gemeinde Orfű.",
+                  "category": "landmark",
+                  "coords": [
+                        18.162253,
+                        46.13907
+                  ]
+            },
+            {
+                  "name": "Spirál-barlang",
+                  "text": "Die Spirál-Höhle ist ein natürlicher Höhleneingang in der Umgebung von Orfű.",
+                  "category": "landmark",
+                  "coords": [
+                        18.177022,
+                        46.126372
+                  ]
+            },
+            {
+                  "name": "Balázs-hegyi kilátó",
+                  "text": "Der Aussichtsturm auf dem Balázs-Berg bietet einen weiten Blick über die Landschaft von Orfű.",
+                  "category": "natural",
+                  "coords": [
+                        18.147987,
+                        46.140586
+                  ]
+            },
+            {
+                  "name": "régi rakodó",
+                  "text": "Die alten Verladerampen (régi rakodó) in Orfű sind verlassene Ruinen aus der Vergangenheit.",
+                  "category": "historical",
+                  "coords": [
+                        18.176809,
+                        46.142763
+                  ]
             }
       ],
       "hu": [
@@ -3064,6 +10362,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.140446,
                         46.146546
+                  ]
+            },
+            {
+                  "name": "Vízfő-barlang",
+                  "text": "Az Orfűi Vízfő-barlang egy ismert barlangbejárat a település határában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.162253,
+                        46.13907
+                  ]
+            },
+            {
+                  "name": "Spirál-barlang",
+                  "text": "A Spirál-víznyelő vagy barlang egy természetes karsztképződmény Orfű környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.177022,
+                        46.126372
+                  ]
+            },
+            {
+                  "name": "Balázs-hegyi kilátó",
+                  "text": "A Balázs-hegyi kilátó panorámás rálátást nyújt Orfű festői tájára.",
+                  "category": "natural",
+                  "coords": [
+                        18.147987,
+                        46.140586
+                  ]
+            },
+            {
+                  "name": "régi rakodó",
+                  "text": "Az orfűi régi rakodó romjai a múlt ipari vagy mezőgazdasági emlékeit őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        18.176809,
+                        46.142763
                   ]
             }
       ],
@@ -3111,6 +10445,42 @@ export const poiExtraHuV4: POI[] = [
                         18.140446,
                         46.146546
                   ]
+            },
+            {
+                  "name": "Vízfő-barlang",
+                  "text": "Peștera Vízfő este o intrare de peșteră cunoscută situată în Orfű.",
+                  "category": "landmark",
+                  "coords": [
+                        18.162253,
+                        46.13907
+                  ]
+            },
+            {
+                  "name": "Spirál-barlang",
+                  "text": "Peștera Spirál este o intrare naturală de peșteră din apropierea localității Orfű.",
+                  "category": "landmark",
+                  "coords": [
+                        18.177022,
+                        46.126372
+                  ]
+            },
+            {
+                  "name": "Balázs-hegyi kilátó",
+                  "text": "Turnul de observație de pe muntele Balázs oferă vederi panoramice asupra peisajului din Orfű.",
+                  "category": "natural",
+                  "coords": [
+                        18.147987,
+                        46.140586
+                  ]
+            },
+            {
+                  "name": "régi rakodó",
+                  "text": "Vechile rampe de încărcare (régi rakodó) din Orfű sunt ruine abandonate din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        18.176809,
+                        46.142763
+                  ]
             }
       ],
       "en": [
@@ -3157,26 +10527,326 @@ export const poiExtraHuV4: POI[] = [
                         18.140446,
                         46.146546
                   ]
+            },
+            {
+                  "name": "Vízfő-barlang",
+                  "text": "The Vízfő-barlang is a notable cave entrance located in Orfű.",
+                  "category": "landmark",
+                  "coords": [
+                        18.162253,
+                        46.13907
+                  ]
+            },
+            {
+                  "name": "Spirál-barlang",
+                  "text": "The Spirál-barlang is a natural cave entrance situated near Orfű.",
+                  "category": "landmark",
+                  "coords": [
+                        18.177022,
+                        46.126372
+                  ]
+            },
+            {
+                  "name": "Balázs-hegyi kilátó",
+                  "text": "The Balázs-hegyi viewpoint offers panoramic views over the landscape of Orfű.",
+                  "category": "natural",
+                  "coords": [
+                        18.147987,
+                        46.140586
+                  ]
+            },
+            {
+                  "name": "régi rakodó",
+                  "text": "The old loading dock (régi rakodó) in Orfű features abandoned ruins from the past.",
+                  "category": "historical",
+                  "coords": [
+                        18.176809,
+                        46.142763
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Abaligeti-Höhle", "text": "Berühmte Tropfsteinhöhle mit heilender Wirkung.", "distance": "5 km", "category": "natural"}, {"name": "Fernsehturm Pécs", "text": "Höchster Fernsehturm Ungarns mit herrlicher Aussicht auf die Region.", "distance": "16 km", "category": "civic"}], "hu": [{"name": "Abaligeti-barlang", "text": "Gyógyhatású cseppkőbarlang és Denevérmúzeum.", "distance": "5 km", "category": "natural"}, {"name": "Pécsi tévétorony", "text": "A Misina-tetőn álló kilátó és adótorony, páratlan panorámával.", "distance": "16 km", "category": "civic"}], "ro": [{"name": "Peștera Abaliget", "text": "Peșteră curativă cu stalactite și muzeu al liliecilor.", "distance": "5 km", "category": "natural"}, {"name": "Turnul TV din Pécs", "text": "Cel mai înalt punct de belvedere din regiune, oferind o panoramă vastă.", "distance": "16 km", "category": "civic"}], "en": [{"name": "Abaliget Cave", "text": "Medicinal stalactite cave and unique Bat Museum.", "distance": "5 km", "category": "natural"}, {"name": "Pécs TV Tower", "text": "The highest structure in Hungary with a 360-degree panoramic view.", "distance": "16 km", "category": "civic"}]}, "parent": "baranya"},
   {"id": "paloznak", "type": "village", "coords": [17.9392, 46.9839], "population": 530, "name": {"de": "Paloznak", "hu": "Paloznak", "ro": "Paloznak", "en": "Paloznak"}, "descriptionAdvanced": {"de": "Paloznak ist eine der charmantesten und am besten erhaltenen Gemeinden am Nordufer des Plattensees, am Fuße des Bakony-Gebirges. Der Ort ist bekannt für seine harmonische Verbindung von traditioneller Architektur und modernem Kulturleben. Die Geschichte von Paloznak reicht bis in die Römerzeit zurück, was durch Reste antiker Villen belegt ist. Im Mittelalter gehörte das Dorf dem Bistum Veszprém und war ein bedeutendes Zentrum des Weinbaus. Das Dorfbild wird geprägt von wunderschönen, weiß getünchten Steinhäusern mit Schilfdächern, von denen viele unter Denkmalschutz stehen. Paloznak hat mehrfach Auszeichnungen für seinen gepflegten Ortskern erhalten. International bekannt wurde das Dorf in den letzten Jahren durch das 'Paloznaki Jazz Piknik', ein Festival, das Weltstars in die idyllische Umgebung der Weinberge lockt. Die hiesige Weinkultur, insbesondere der Olaszrizling, genießt einen hervorragenden Ruf und kann in den zahlreichen gemütlichen Kellern und Presshäusern verkostet werden. Die Kombination aus mediterraner Atmosphäre, exzellenten Weinen und einer tief verwurzelten Liebe zum kulturellen Erbe macht Paloznak zu einem einzigartigen Juwel in der Region Veszprém.", "hu": "Paloznak a Balaton északi partjának egyik legigényesebb és legszebb települése, amely hűen őrzi a Balaton-felvidék hagyományos faluképét. A község neve valószínűleg a szláv 'pod lozna' (szőlő alatt) kifejezésből ered, ami már évszázadokkal ezelőtt is a település legfőbb értékére, a szőlőművelésre utalt. Paloznak híres arról, hogy tudatosan és szigorúan óvja építészeti örökségét; a falu központjában álló nádtetős, fehérre meszelt kőházak, a gondosan ápolt kertek és a virágos utcák többször is elnyerték a legvirágosabb magyar falu és az európai falumegújítási díjakat. Az utóbbi években a település nevét a Paloznaki Jazz Piknik tette nemzetközileg is ismertté, ahol a szőlőhegy lábánál világsztárok adnak koncerteket a piknikező közönségnek. A falu lelki központja a 11. századi alapokra épült Árpád-kori templom, amely a falu legősibb műemléke. Paloznak nemcsak a bor és a zene faluja, hanem a nyugalom szigete is, ahol a modern turizmus és a vidéki idill tökéletes egyensúlyban van. A helyi bortermelők olaszrizlingjei a borvidék legjobbjai közé tartoznak, a falu feletti dombokról pedig páratlan kilátás nyílik a Balatonra.", "ro": "Paloznak este unul dintre cele mai fermecătoare și bine conservate sate de pe malul nordic al lacului Balaton, situat la poalele sudice ale munților Bakony. Numele localității provine probabil din limba slavă, însemnând 'sub podgorii', reflectând o ocupație care definește satul de peste un mileniu. Paloznak este renumit pentru protejarea riguroasă a patrimoniului său arhitectural; centrul satului este compus din case tradiționale din piatră cu acoperiș de stuf, străzi pline de flori și grădini impecabile, fapt pentru care a primit numeroase premii naționale și europene pentru reînnoire rurală. În ultimii ani, satul a devenit o destinație culturală de top datorită festivalului 'Jazz Piknik', care aduce artiști internaționali de renume în decorul idilic al podgoriilor. Biserica din perioada dinastiei Árpád (secolul XI), situată în inima satului, este cel mai vechi monument și un simbol al continuității istorice. Vinurile locale, în special soiul Olaszrizling, sunt apreciate pentru prospețimea și eleganța lor, putând fi degustate în cramele istorice de pe dealul satului. Paloznak oferă o atmosferă mediteraneană rară, unde liniștea rurală se împletește cu evenimente culturale de clasă mondială, fiind un refugiu perfect pentru cei care caută autenticitate și rafinament.", "en": "Paloznak is one of the most elegant and meticulously preserved villages on Lake Balaton’s northern shore, nestled between the blue waters and the lush green hills of the Bakony. Its name is believed to derive from the Slavic phrase 'under the vineyards', a fitting description for a village that has been a center of wine production since Roman times. Paloznak is widely recognized for its commitment to preserving its architectural identity; the village center features a stunning row of white-washed stone houses with thatched roofs, leading to multiple awards for rural renewal and floral decoration. In recent years, the village has gained international fame as the host of the 'Paloznak Jazz Picnic', a boutique festival where world-renowned musicians perform amidst the vineyards. The heart of the village is its small church, built on 11th-century foundations, representing its deep-rooted medieval history. Winemaking remains a cornerstone of local life, with the mineral-rich soil producing some of the region's finest Olaszrizling wines. Paloznak offers a unique blend of high culture and rural simplicity, making it a favorite for those seeking a sophisticated escape in the Balaton Uplands. The panoramic views of the lake from the hillsides, combined with the village's peaceful, historic atmosphere, make it a true hidden gem of the Veszprém region."}, "factsAdvanced": {"de": ["Mehrfacher Gewinner von Preisen zur Dorferneuerung.", "Die Kirche hat Fundamente aus dem 11. Jahrhundert.", "Heimat des berühmten 'Paloznak Jazz Piknik'.", "Der Name bedeutet slawisch 'unter den Weinreben'.", "Ein Großteil der Häuser steht unter Ensembleschutz.", "Liegt in der Weinregion Balatonfüred-Csopak."], "hu": ["Többször elnyerte a legvirágosabb magyar falu címet.", "A falu temploma Árpád-kori alapokra épült, a 11. században.", "A Jazz Piknik Magyarország egyik legnépszerűbb butikfesztiválja.", "Nevének jelentése szlávul: szőlő alatt.", "A falu teljes központja műemléki védettség alatt áll.", "Híres az olaszrizlingjéről és a Pongrácz-kastélyról."], "ro": ["Câștigător al premiului european pentru reînnoire rurală.", "Biserica locală datează din secolul al XI-lea (epoca Árpád).", "Gazda festivalului internațional Jazz Piknik.", "Numele are origine slavă (pod lozna - sub vii).", "Arhitectura este protejată integral în centrul satului.", "Este situat în județul Veszprém, lângă Balatonfüred."], "en": ["Awarded as one of the most floral villages in Europe.", "The village church has 11th-century medieval foundations.", "Home to the annually held 'Jazz Picnic' festival.", "The name refers to the ancient Slavic word for 'under the vines'.", "Famous for its strictly preserved thatched-roof stone houses.", "A key producer of premium Olaszrizling white wines."]}, "faq": {"de": [{"q": "Wann findet das Jazz-Picknick statt?", "a": "Das Festival wird normalerweise am ersten Augustwochenende abgehalten."}, {"q": "Gibt es einen Strand in Paloznak?", "a": "Paloznak hat keinen eigenen Uferabschnitt, nutzt aber die Strände der Nachbarorte Csopak oder Alsóörs."}, {"q": "Kann man die alte Kirche besichtigen?", "a": "Ja, die Kirche im Dorfzentrum ist tagsüber meist für Besucher zugänglich."}, {"q": "Ist der Ort gut für Radfahrer?", "a": "Ja, er liegt am Balaton-Radweg und bietet schöne Steigungen in die Berge."}], "hu": [{"q": "Mikor tartják a Jazz Pikniket?", "a": "Általában augusztus első hétvégéjén rendezik meg."}, {"q": "Van strandja Paloznaknak?", "a": "Paloznak nem közvetlen vízparti, a közeli Csopak vagy Alsóörs strandjai használhatók."}, {"q": "Miről nevezetes a falu építészete?", "a": "A fehér kőfalú, nádtetős házak egységes megőrzéséről és a virágos utcákról."}, {"q": "Milyen bort érdemes itt venni?", "a": "Az olaszrizling a falu meghatározó és legkiválóbb fajtája."}], "ro": [{"q": "Când are loc Jazz Piknik?", "a": "Festivalul are loc de obicei în primul weekend din luna august."}, {"q": "Există acces la lac în Paloznak?", "a": "Satul nu are mal propriu, plajele din Csopak sau Alsóörs sunt la 2-3 km distanță."}, {"q": "Ce vechime are biserica din sat?", "a": "Fundațiile sale sunt din secolul al XI-lea, fiind una dintre cele mai vechi din zonă."}, {"q": "Este Paloznak un sat aglomerat?", "a": "Este foarte liniștit, cu excepția zilelor de festival când devine foarte animat."}], "en": [{"q": "When is the best time to visit for the Jazz Picnic?", "a": "The festival is usually held in early August; booking in advance is essential."}, {"q": "What is the village known for architecturally?", "a": "Its perfectly preserved thatched-roof stone houses and flowery streets."}, {"q": "Where is the nearest beach?", "a": "The beaches of Csopak and Alsóörs are just a 5-minute drive away."}, {"q": "Are there wine cellars open to public?", "a": "Yes, several high-quality wineries offer tastings throughout the summer."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Üzenj offline",
+                  "text": "Üzenj offline ist eine lokale Sehenswürdigkeit in Paloznak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.940677,
+                        46.983404
+                  ]
+            },
+            {
+                  "name": "Lovasi Nagy Gyula Galéria",
+                  "text": "Die Lovasi Nagy Gyula Galéria ist eine Kunstgalerie in Paloznak.",
+                  "category": "museum",
+                  "coords": [
+                        17.958221,
+                        46.993203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Üzenj offline",
+                  "text": "Az Üzenj offline egy helyi látványosság Paloznakon.",
+                  "category": "landmark",
+                  "coords": [
+                        17.940677,
+                        46.983404
+                  ]
+            },
+            {
+                  "name": "Lovasi Nagy Gyula Galéria",
+                  "text": "A Lovasi Nagy Gyula Galéria egy művészeti galéria Paloznakon.",
+                  "category": "museum",
+                  "coords": [
+                        17.958221,
+                        46.993203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Üzenj offline",
+                  "text": "Üzenj offline este o atracție locală în Paloznak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.940677,
+                        46.983404
+                  ]
+            },
+            {
+                  "name": "Lovasi Nagy Gyula Galéria",
+                  "text": "Lovasi Nagy Gyula Galéria este o galerie de artă în Paloznak.",
+                  "category": "museum",
+                  "coords": [
+                        17.958221,
+                        46.993203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Üzenj offline",
+                  "text": "Üzenj offline is a local attraction in Paloznak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.940677,
+                        46.983404
+                  ]
+            },
+            {
+                  "name": "Lovasi Nagy Gyula Galéria",
+                  "text": "The Lovasi Nagy Gyula Galéria is an art gallery in Paloznak.",
+                  "category": "museum",
+                  "coords": [
+                        17.958221,
+                        46.993203
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Tihany", "text": "Historisches Dorf und Abtei auf der Halbinsel.", "distance": "12 km", "category": "historical"}, {"name": "Alsóörs Aussichtsturm", "text": "Der Somlyó-Berg Turm mit Blick auf den See.", "distance": "3 km", "category": "natural"}], "hu": [{"name": "Tihanyi Bencés Apátság", "text": "Ikonikus barokk templom a Balaton felett.", "distance": "12 km", "category": "religious"}, {"name": "Alsóörsi Somlyó-hegyi kilátó", "text": "Fából készült kilátó pazar panorámával a keleti medencére.", "distance": "3 km", "category": "natural"}], "ro": [{"name": "Peninsula Tihany", "text": "O zonă vulcanică cu o mănăstire celebră și câmpuri de lavandă.", "distance": "12 km", "category": "natural"}, {"name": "Turnul de pe Somlyó-hegy", "text": "Punct de observație din lemn situat pe dealul vecin din Alsóörs.", "distance": "3 km", "category": "natural"}], "en": [{"name": "Tihany Peninsula", "text": "A world-famous volcanic area with an abbey and lavender fields.", "distance": "12 km", "category": "natural"}, {"name": "Somlyó Hill Lookout", "text": "A wooden tower in Alsóörs offering broad views of the eastern Balaton.", "distance": "3 km", "category": "natural"}]}, "parent": "veszprem"},
   {"id": "pankasz", "type": "village", "coords": [16.5167, 46.9], "population": 435, "name": {"de": "Pankasz", "hu": "Pankasz", "ro": "Pankasz", "en": "Pankasz"}, "descriptionAdvanced": {"de": "Pankasz ist ein malerisches Dorf in der Region Őrség, im Südwesten Ungarns, das vor allem für sein herausragendes Beispiel der volkstümlichen Architektur bekannt ist: den hölzernen Glockenturm (Faharangláb). Dieser Glockenturm aus dem Jahr 1755 ist der älteste und authentischste seiner Art in der Region und wurde ohne einen einzigen Eisennagel errichtet. Die Őrség-Region selbst ist historisch als 'Wächterregion' bekannt, in der Grenzwächter lebten, was zu einer einzigartigen Siedlungsstruktur namens 'Szer' führte. Pankasz bewahrt diese Traditionen durch seine Fachwerkhäuser und die traditionelle Töpferei, die in der Gegend noch immer praktiziert wird. Die umliegende Landschaft ist geprägt von dichten Wäldern, sanften Hügeln und einer reichen Flora und Fauna, die Teil des Őrség-Nationalparks ist. Für Besucher bietet Pankasz eine Zeitreise in eine ländliche Welt, in der Handwerk und Natur im Einklang stehen. Die Ruhe und die saubere Luft machen es zu einem idealen Ort für Ökotourismus und für diejenigen, die die Seele der ungarischen Volkskultur entdecken möchten. Das Dorf ist auch ein Ausgangspunkt für Wanderungen zu den nahegelegenen Seen und Mooren der Region.", "hu": "Pankasz az Őrség egyik legősibb települése, amely Vas vármegye déli részén, a Zala folyó völgyében fekszik. A falu legfőbb büszkesége és jelképe az 1755-ben állított szoknyás faharangláb, amely az Őrség legrégebbi ilyen jellegű építménye. Ez a népi építészeti remekmű tölgyfából készült, és tetőszerkezetét rozsszalma, azaz zsupp fedi; különlegessége, hogy ácsolt szerkezete a mai napig hirdeti a régi mesterek tudását. Pankasz a történelem során a határőrizetet ellátó őrök lakhelye volt, és bár szerkezete az idők során változott, ma is hordozza a hagyományos őrségi jegyeket. A településen áthalad a Dunántúli Kéktúra útvonala is, így a természetjárók kedvelt megállóhelye. A falu környezete természeti értékekben rendkívül gazdag, a közeli erdőkben számos védett növény- és állatfaj él a Nemzeti Park oltalma alatt. Pankaszon a népi kismesterségek, különösen a fazekasság hagyományai is fellelhetők, ami szorosan kapcsolódik a szomszédos falvak kultúrájához. A csendes, nyugodt környezet kiváló lehetőséget nyújt a kikapcsolódásra és a hagyományos paraszti életmód megismerésére.", "ro": "Pankasz este un sat tradițional situat în inima regiunii Őrség, cunoscut pentru conservarea admirabilă a patrimoniului său cultural și arhitectural. Atracția principală a localității este clopotnița din lemn (faharangláb), construită în anul 1755, care este cea mai veche structură de acest tip din întreaga regiune. Aceasta impresionează prin tehnica de construcție arhaică, fiind realizată integral din lemn de stejar cu acoperiș de paie, fără elemente metalice moderne. Regiunea Őrség are o istorie fascinantă de post de pază la frontiera vestică a Ungariei, ceea ce a influențat stilul de viață și organizarea comunității. Satul Pankasz oferă o privire autentică asupra vieții rurale maghiare, cu gospodării vechi și ateliere de olărit care păstrează tehnici seculare. Împrejurimile fac parte din Parcul Național Őrség, oferind peisaje dominate de păduri de pini și poieni pline de flori sălbatice protejate. Turiștii vin aici pentru a se bucura de liniște, pentru a face drumeții pe traseele marcate și pentru a experimenta gastronomia locală bazată pe ingrediente naturale precum ciupercile de pădure și semințele de dovleac. Pankasz rămâne un bastion al culturii populare, unde timpul pare să curgă într-un ritm mult mai lent.", "en": "Pankasz is a historic village located in the Őrség region of Vas County, famous for being home to one of Hungary's most precious examples of folk architecture. The village's signature landmark is the wooden bell tower (faharangláb), erected in 1755, which stands as the oldest original belfry in the Őrség. This structure is a masterpiece of vernacular engineering, featuring a flared 'skirt' and a thatched roof made of rye straw, built using ancient carpentry techniques that avoided the use of metal nails. Pankasz was part of the 'Guard' region, where residents historically served as border defenders for the Hungarian kings. This defensive role led to a unique settlement pattern of scattered hamlets known as 'szerek'. Today, the village is a peaceful retreat within the Őrség National Park, surrounded by lush forests and rolling meadows. Visitors can explore the local traditions of pottery and weaving, or follow the hiking trails of the National Blue Circuit that passes through the area. The village provides an authentic glimpse into pre-industrial rural life, emphasizing sustainable living and the preservation of natural biodiversity. For those seeking cultural depth and natural serenity, Pankasz is a quintessential destination in Western Hungary."}, "factsAdvanced": {"de": ["Baujahr Glockenturm: 1755", "Material: Eichenholz und Stroh", "Region: Őrség Nationalpark", "Höhe: ca. 210 m", "Besonderheit: Ältester hölzerner Glockenturm der Region", "Wanderweg: Teil der Blauen Landestour"], "hu": ["Faharangláb építése: 1755", "Szerkezet: Szoknyás, zsupptetős ácsmunka", "Településtípus: Útmenti falu", "Védelmi státusz: Műemlék", "Közigazgatás: Vas vármegye", "Folyó: Zala folyó közelsége"], "ro": ["Anul construcției clopotniței: 1755", "Materiale: Lemn de stejar, paie de secară", "Parc Național: Őrség", "Localizare: Județul Vas", "Altitudine: 210 m", "Traseu: Circuitul Albastru Național"], "en": ["Wooden bell tower built: 1755", "Roofing: Rye straw thatch", "Landscape: Zala river valley", "Status: National monument", "Regional division: Őrség (The Guard)", "Population: Under 500 inhabitants"]}, "faq": {"de": [{"q": "Wo steht der Glockenturm?", "a": "Er steht auf einem kleinen Hügel im Zentrum des Dorfes."}, {"q": "Ist Pankasz gut für Radfahrer?", "a": "Ja, die Region Őrség bietet viele verkehrsarme Wege für Radtouren."}, {"q": "Gibt es Museen?", "a": "Es gibt eine lokale Sammlung zur Dorfgeschichte nahe dem Glockenturm."}, {"q": "Kann man die Glocke hören?", "a": "Ja, zu besonderen Anlässen und Gottesdiensten wird sie noch geläutet."}], "hu": [{"q": "Hol található a faharangláb?", "a": "A falu központjában, egy dombtetőn áll az út mellett."}, {"q": "Miből készült a harangláb teteje?", "a": "Hagyományos rozsszalmából, azaz zsuppból."}, {"q": "Átmegy a falun túraútvonal?", "a": "Igen, a Dunántúli Kéktúra egyik állomása."}, {"q": "Milyen messze van az Őrség központja?", "a": "Őriszentpéter kb. 8-10 km-re található."}], "ro": [{"q": "Este clopotnița deschisă vizitatorilor?", "a": "Poate fi admirată din exterior în orice moment, fiind un monument public."}, {"q": "Ce este special la construcția sa?", "a": "Este făcută fără cuie de fier, folosind îmbinări de lemn tradiționale."}, {"q": "Se poate mânca în sat?", "a": "Există pensiuni care servesc mâncăruri tradiționale din Őrség."}, {"q": "Care este cea mai apropiată gară?", "a": "Pankasz are propria haltă pe linia ferată spre Slovenia."}], "en": [{"q": "What is the main sight in Pankasz?", "a": "The historic wooden bell tower from 1755."}, {"q": "Is the bell tower still functional?", "a": "Yes, it is maintained as a historic monument and symbol of the village."}, {"q": "How can I get there?", "a": "By car or train, as the village lies on the Körmend-Hodoš railway line."}, {"q": "What region is this?", "a": "It is in the Őrség, a special cultural and nature reserve area."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Őrségi várhalom",
+                  "text": "Ein historischer Burghügel und eine ehemalige Befestigungsanlage in Pankasz.",
+                  "category": "castle",
+                  "coords": [
+                        16.535483,
+                        46.885572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Őrségi várhalom",
+                  "text": "Egy történelmi várhalom és egykori erődítmény maradványa Pankaszon.",
+                  "category": "castle",
+                  "coords": [
+                        16.535483,
+                        46.885572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Őrségi várhalom",
+                  "text": "O movilă istorică a unui castel și o fostă fortificație în Pankasz.",
+                  "category": "castle",
+                  "coords": [
+                        16.535483,
+                        46.885572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Őrségi várhalom",
+                  "text": "A historical castle mound and former fortification site in Pankasz.",
+                  "category": "castle",
+                  "coords": [
+                        16.535483,
+                        46.885572
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Őriszentpéter", "text": "Das Zentrum der Region mit einer romanischen Kirche.", "distance": "9 km", "category": "historical"}, {"name": "Vadása-See", "text": "Ein künstlicher See, ideal zum Schwimmen und Angeln.", "distance": "12 km", "category": "recreational"}], "hu": [{"name": "Őriszentpéter", "text": "Az Őrség központja, híres Árpád-kori templomával.", "distance": "9 km", "category": "historical"}, {"name": "Vadása-tó", "text": "Népszerű strandoló és horgászhely Hegyhátszentjakab határában.", "distance": "12 km", "category": "recreational"}], "ro": [{"name": "Őriszentpéter", "text": "Capitala culturală a regiunii Őrség, cu o biserică medievală superbă.", "distance": "9 km", "category": "historical"}, {"name": "Lacul Vadása", "text": "Destinație de recreere populară pentru înot și pescuit.", "distance": "12 km", "category": "recreational"}], "en": [{"name": "Őriszentpéter", "text": "The main town of the Őrség, featuring a famous Romanesque church.", "distance": "9 km", "category": "historical"}, {"name": "Lake Vadása", "text": "A scenic lake offering beach facilities and fishing spots nearby.", "distance": "12 km", "category": "recreational"}]}, "parent": "vas"},
   {"id": "paradsasvar", "type": "village", "coords": [20.0012, 47.9125], "population": 380, "name": {"de": "Parádsasvár", "hu": "Parádsasvár", "ro": "Parádsasvár", "en": "Parádsasvár"}, "descriptionAdvanced": {"de": "Parádsasvár ist ein Juwel im Herzen des Mátra-Gebirges, bekannt für seine aristokratische Vergangenheit und seine lange Tradition der Glasherstellung. Das Dorf wird von dem prachtvollen Károlyi-Schloss dominiert, einem neorenaissancistischen Meisterwerk des Architekten Miklós Ybl, das heute als eines der exklusivsten Schlosshotels Ungarns dient. Die Geschichte des Ortes ist untrennbar mit der Familie Károlyi verbunden, die hier im 19. Jahrhundert einen mondänen Rückzugsort schuf. Eine weitere weltberühmte Attraktion ist das Paráder Kutschenmuseum, das in der sogenannten 'Cifra-Stallung' (Prunkstallung) untergebracht ist. Dieses prächtige rote Backsteingebäude beherbergt eine außergewöhnliche Sammlung ungarischer Kutschen und Pferdefahrzeuge, die den Glanz der ungarischen Fahrkunst repräsentieren. Die Umgebung ist reich an Mineralwasserquellen, insbesondere dem schwefelhaltigen 'Parádi-Wasser', das für seine heilende Wirkung auf das Verdauungssystem bekannt ist. Parádsasvár ist ein Ort für Genießer, die klassische Eleganz, handwerkliche Tradition und die wohltuende Kraft der Natur in einer ruhigen Gebirgsumgebung suchen.", "hu": "Parádsasvár a Mátra egyik legelegánsabb települése, amely történelmét a Károlyi grófoknak és az üveggyártásnak köszönheti. A falu központjában magasodik a neoreneszánsz stílusú Károlyi-kastély, Ybl Miklós alkotása, amely ma luxusszállodaként működik, és a magyar kastélyépítészet egyik legszebb példája. A település másik világhírű látnivalója a Cifra-istállóban helyet kapott Kocsimúzeum. A vörös téglás, díszes épület nemcsak építészetileg lenyűgöző, hanem itt őrzik Magyarország legértékesebb főúri kocsijait és hintóit, bemutatva a magyar fogatkultúra aranykorát. Parádsasvár hagyományosan az üveggyártás központja is volt, a helyi manufaktúra kristálytermékei messze földön híresek voltak. A falu határában fakad a híres Parádi víz, amely kénes-alkalikus összetétele miatt kiváló gyógyír az emésztőszervi panaszokra. A kristálytiszta hegyi levegő, a történelmi falak és a környék bükkerdői teszik Parádsasvárt a minőségi pihenés és a nemesi hagyományok őrzőjévé a Mátra északi völgyében.", "ro": "Parádsasvár este o localitate de o eleganță aristocratică rară, situată în valea nordică a munților Mátra. Satul este dominat de Castelul Károlyi, o bijuterie arhitecturală în stil neorenascentist proiectată de faimosul Miklós Ybl, care astăzi funcționează ca un hotel de lux. Istoria localității este strâns legată de producția de cristal și de familia nobiliară Károlyi, care a transformat această zonă într-un refugiu exclusivist în secolul al XIX-lea. O atracție de neratat este Muzeul Trăsurilor, găzduit în spectaculoasa clădire 'Cifra-istálló' (Grajdul Ornat). Această construcție din cărămidă roșie adăpostește o colecție impresionantă de trăsuri nobiliare, ilustrând măiestria transportului hipic maghiar. Regiunea este celebră și pentru apele sale minerale binefăcătoare, în special apa sulfuroasă de Parád, utilizată pe scară largă în tratamentele digestive. Vizitatorii pot admira și ultimele vestigii ale meșteșugului sticlăriei locale, cristalul de Parád fiind odinioară un simbol al luxului. Parádsasvár oferă o combinație unică de istorie nobiliară, tradiții meșteșugărești și peisaje montane relaxante.", "en": "Parádsasvár is a prestigious gem in the Mátra Mountains, celebrated for its aristocratic heritage and centuries-old glassmaking traditions. The heart of the village is defined by the magnificent Károlyi Mansion, a Neo-Renaissance masterpiece designed by the legendary architect Miklós Ybl, which now serves as an elite castle hotel. The settlement's fame is further enhanced by the Carriage Museum, located in the uniquely ornate 'Cifra-stálló' (Fancy Stable). This red-brick architectural marvel houses an extraordinary collection of high-born Hungarian carriages and horse-drawn vehicles, reflecting the pinnacle of domestic coach-driving culture. Parádsasvár was historically a center for glass manufacturing, and its crystal products were sought after throughout Europe. The area is also famous for its healing mineral waters, particularly the sulfurous 'Parádi water,' renowned for its beneficial effects on the digestive system. Surrounded by dense beech forests and characterized by a tranquil, high-society atmosphere, Parádsasvár is the perfect destination for travelers seeking a blend of classic elegance, cultural history, and natural wellness."}, "factsAdvanced": {"de": ["Schlossarchitekt: Miklós Ybl", "Hauptgebäude: Károlyi-Schloss (Neorenaissance)", "Tradition: Glas- und Kristallherstellung", "Museumsstandort: Cifra-Stallung (Cifra-istálló)", "Mineralwasser: Schwefelhaltiges Parádi-Wasser", "Höhenlage: ca. 400 Meter"], "hu": ["Kastély tervezője: Ybl Miklós", "Fő látnivaló: Károlyi-kastély (szálloda)", "Helyi ipar: Kristály- és üveggyártás", "Múzeum helyszíne: Cifra-istálló épülete", "Gyógyvíz: Kénes Parádi ásványvíz", "Tengerszint feletti magasság: kb. 400 m"], "ro": ["Arhitectul castelului: Miklós Ybl", "Edificiu central: Castelul Károlyi (Hotel)", "Meșteșug tradițional: Producția de cristal", "Locația muzeului: Grajdul Cifra (Cifra-istálló)", "Apa minerală: Apa de Parád (sulfuroasă)", "Altitudine locală: aproximativ 400 metri"], "en": ["Mansion architect: Miklós Ybl", "Primary landmark: Károlyi Mansion (Hotel)", "Local heritage: Glass and crystal making", "Museum venue: Cifra Stable building", "Mineral water: Sulfurous 'Parádi water'", "Elevation: approx. 400 meters"]}, "faq": {"de": [{"q": "Kann man das Kutschenmuseum besuchen?", "a": "Ja, das Museum ist täglich für Besucher geöffnet und sehr empfehlenswert."}, {"q": "Ist das Schloss für Touristen zugänglich?", "a": "Als Hotelgast ja; externe Besucher können oft den Park oder das Restaurant besuchen."}, {"q": "Was ist das Besondere am Paráder Wasser?", "a": "Es riecht stark nach Schwefel, ist aber sehr gesund für den Magen."}, {"q": "Kann man noch lokale Glaswaren kaufen?", "a": "Ja, es gibt im Dorf noch Geschäfte, die traditionelles Schliffglas anbieten."}], "hu": [{"q": "Látogatható-e a Kocsimúzeum?", "a": "Igen, a Cifra-istálló épületében lévő kiállítás egész évben várja a látogatókat."}, {"q": "Be lehet menni a kastélyba?", "a": "A kastély szállóvendégeknek van fenntartva, de a parkja és az étterme gyakran látogatható."}, {"q": "Mire jó a Parádi kénes víz?", "a": "Elsősorban emésztési zavarok és gyomorpanaszok kezelésére kiváló."}, {"q": "Milyen ajándékot érdemes venni?", "a": "A helyi csiszolt kristály és az üvegtermékek a legnépszerűbb szuvenírek."}], "ro": [{"q": "Muzeul Trăsurilor este deschis publicului?", "a": "Da, expoziția din grajdul Cifra poate fi vizitată zilnic conform programului."}, {"q": "Se poate vizita interiorul castelului?", "a": "Interiorul este destinat oaspeților hotelului, dar parcul este adesea accesibil vizitatorilor."}, {"q": "Ce gust are apa minerală locală?", "a": "Are un gust și un miros puternic de sulf, fiind o apă minerală medicinală."}, {"q": "Mai există sticlărie în sat?", "a": "Manufactura mare s-a închis, dar există ateliere mici care vând obiecte de cristal."}], "en": [{"q": "Is the Carriage Museum open every day?", "a": "Yes, it is generally open to the public throughout the year."}, {"q": "Can I visit the Károlyi Mansion without staying there?", "a": "While it's a private hotel, visitors can usually enjoy the park and the on-site restaurant."}, {"q": "What are the benefits of the local water?", "a": "The sulfurous water is excellent for treating gastric and digestive issues."}, {"q": "Where can I buy local crystal?", "a": "There are several shops in the village center selling traditional cut glass and crystal."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Vár-hegy",
+                  "text": "Vár-hegy ist ein markanter Hügel und Gipfel in der Nähe von Parádsasvár im Komitat Heves.",
+                  "category": "landmark",
+                  "coords": [
+                        20.009517,
+                        47.918261
+                  ]
+            },
+            {
+                  "name": "Hársas-tető",
+                  "text": "Hársas-tető ist ein markanter Gipfel in der Gegend von Parádsasvár.",
+                  "category": "landmark",
+                  "coords": [
+                        20.006784,
+                        47.908646
+                  ]
+            },
+            {
+                  "name": "Parádsasvári Kristálygaléria és Kiállítóterem",
+                  "text": "Parádsasvári Kristálygaléria és Kiállítóterem ist ein Museum für Kristallkunst in Parádsasvár.",
+                  "category": "museum",
+                  "coords": [
+                        19.974528,
+                        47.911089
+                  ]
+            },
+            {
+                  "name": "Károlyi-kastély",
+                  "text": "Károlyi-kastély ist ein historisches Schloss in der Stadt Parádsasvár.",
+                  "category": "castle",
+                  "coords": [
+                        19.985654,
+                        47.911632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vár-hegy",
+                  "text": "A Vár-hegy egy kiemelkedő domb és csúcs Parádsasvár közelében, Heves vármegyében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.009517,
+                        47.918261
+                  ]
+            },
+            {
+                  "name": "Hársas-tető",
+                  "text": "A Hársas-tető egy kiemelkedő hegycsúcs Parádsasvár területén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.006784,
+                        47.908646
+                  ]
+            },
+            {
+                  "name": "Parádsasvári Kristálygaléria és Kiállítóterem",
+                  "text": "A Parádsasvári Kristálygaléria és Kiállítóterem a helyi kristályművészetet bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.974528,
+                        47.911089
+                  ]
+            },
+            {
+                  "name": "Károlyi-kastély",
+                  "text": "A Károlyi-kastély egy történelmi kastély Parádsasvár településen.",
+                  "category": "castle",
+                  "coords": [
+                        19.985654,
+                        47.911632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vár-hegy",
+                  "text": "Vár-hegy este un deal și un vârf proeminent lângă Parádsasvár din județul Heves.",
+                  "category": "landmark",
+                  "coords": [
+                        20.009517,
+                        47.918261
+                  ]
+            },
+            {
+                  "name": "Hársas-tető",
+                  "text": "Hársas-tető este un vârf montan proeminent din zona Parádsasvár.",
+                  "category": "landmark",
+                  "coords": [
+                        20.006784,
+                        47.908646
+                  ]
+            },
+            {
+                  "name": "Parádsasvári Kristálygaléria és Kiállítóterem",
+                  "text": "Parádsasvári Kristálygaléria és Kiállítóterem este un muzeu care expune artă din cristal în Parádsasvár.",
+                  "category": "museum",
+                  "coords": [
+                        19.974528,
+                        47.911089
+                  ]
+            },
+            {
+                  "name": "Károlyi-kastély",
+                  "text": "Károlyi-kastély este un castel istoric situat în orașul Parádsasvár.",
+                  "category": "castle",
+                  "coords": [
+                        19.985654,
+                        47.911632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vár-hegy",
+                  "text": "Vár-hegy is a prominent hill and peak near Parádsasvár in Heves county.",
+                  "category": "landmark",
+                  "coords": [
+                        20.009517,
+                        47.918261
+                  ]
+            },
+            {
+                  "name": "Hársas-tető",
+                  "text": "Hársas-tető is a prominent peak located in the area of Parádsasvár.",
+                  "category": "landmark",
+                  "coords": [
+                        20.006784,
+                        47.908646
+                  ]
+            },
+            {
+                  "name": "Parádsasvári Kristálygaléria és Kiállítóterem",
+                  "text": "Parádsasvári Kristálygaléria és Kiállítóterem is a museum exhibiting crystal art in Parádsasvár.",
+                  "category": "museum",
+                  "coords": [
+                        19.974528,
+                        47.911089
+                  ]
+            },
+            {
+                  "name": "Károlyi-kastély",
+                  "text": "Károlyi-kastély is a historic castle located in the town of Parádsasvár.",
+                  "category": "castle",
+                  "coords": [
+                        19.985654,
+                        47.911632
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Ilona-völgy Wasserfall", "text": "Der größte natürliche Wasserfall Ungarns in einem wunderschönen Waldtal.", "distance": "8 km", "category": "natural"}, {"name": "Recsk Gedenkstätte", "text": "Ehemaliges Arbeitslager und Museum zur Geschichte des Kommunismus.", "distance": "12 km", "category": "historical"}], "hu": [{"name": "Ilona-völgyi vízesés", "text": "Magyarország legnagyobb természetes zuhataga egy festői völgy mélyén.", "distance": "8 km", "category": "natural"}, {"name": "Recski Nemzeti Emlékpark", "text": "Az egykori kényszermunkatábor helyszíne, történelmi mementó.", "distance": "12 km", "category": "historical"}], "ro": [{"name": "Cascada din Valea Ilona", "text": "Cea mai înaltă cascadă naturală din Ungaria, situată într-un cadru forestier de poveste.", "distance": "8 km", "category": "natural"}, {"name": "Parcul Memorial din Recsk", "text": "Locul fostului lagăr de muncă forțată, transformat într-un muzeu istoric național.", "distance": "12 km", "category": "historical"}], "en": [{"name": "Ilona Valley Waterfall", "text": "The largest natural waterfall in Hungary, located at the end of a scenic hiking trail.", "distance": "8 km", "category": "natural"}, {"name": "Recsk Memorial Park", "text": "The site of a former forced labor camp, now serving as a historical museum.", "distance": "12 km", "category": "historical"}]}, "parent": "heves"},
   {"id": "pilisszentkereszt", "type": "village", "coords": [18.8922, 47.6931], "population": 2100, "name": {"de": "Pilisszentkereszt", "hu": "Pilisszentkereszt", "ro": "Pilisszentkereszt", "en": "Pilisszentkereszt"}, "descriptionAdvanced": {"de": "Pilisszentkereszt ist ein bezauberndes Bergdorf im Herzen des Pilis-Gebirges, unweit von Budapest. Der Ort ist besonders bekannt für Dobogókő, den höchsten Punkt des Visegráder Gebirges, der als Wiege des ungarischen Tourismus gilt. Von Dobogókő aus bietet sich ein spektakulärer Blick auf das Donauknie. Viele Menschen glauben, dass sich hier das 'Herzchakra' der Erde befindet, was den Ort zu einem Ziel für spirituell Suchende macht. Das Dorf selbst hat eine reiche Geschichte, die eng mit den Zisterziensern verbunden ist, die hier im 12. Jahrhundert ein bedeutendes Kloster errichteten. Die Ruinen des Klosters sind heute eine wichtige historische Stätte. Pilisszentkereszt ist zudem ein Zentrum der slowakischen Minderheit in Ungarn, was sich in der lokalen Kultur und Gastronomie widerspiegelt. Die Umgebung bietet zahlreiche Wanderwege durch tiefe Schluchten und dichte Wälder, wie die Pilis-Schlucht (Szurdok), die zu jeder Jahreszeit Naturliebhaber anzieht. Die Kombination aus alpiner Luft, spiritueller Energie und historischem Erbe macht Pilisszentkereszt zu einem einzigartigen Ausflugsziel.", "hu": "Pilisszentkereszt a Pilis hegység szívében fekvő, Pest vármegyei település, amely Magyarország egyik legmagasabban fekvő lakott helye. Legismertebb része Dobogókő, amely a magyar természetjárás bölcsője: itt épült az ország első turistaháza, és innen nyílik a legszebb kilátás a Dunakanyarra. A község történelme rendkívül gazdag, hiszen a 12. században III. Béla király ciszterci monostort alapított itt, melynek romjai ma is fontos emlékhelyek. A falu lakossága jelentős részben szlovák származású, akiknek ősei a 18. században települtek be, és máig ápolják nyelvüket és szokásaikat. Pilisszentkereszt határában található a vadregényes Szurdok, amely a Malom-patak völgyében futó, fahidakkal tarkított szurdokvölgy. A település különleges energiájáról is híres, sokan úgy tartják, Dobogókőn található a 'Föld szívcsakrája'. A tiszta hegyi levegő, a jól jelzett túraútvonalak és a helyi gasztronómiai különlegességek, mint a szlovák konyha ízei, mind hozzájárulnak a falu népszerűségéhez a kirándulók körében.", "ro": "Pilisszentkereszt este o localitate montană pitorească situată în județul Pest, în inima munților Pilis, renumită pentru atmosfera sa liniștită și peisajele naturale de excepție. Satul găzduiește celebrul punct Dobogókő, cea mai înaltă culme a munților Visegrád, considerat locul de naștere al turismului montan maghiar. De aici se poate admira o panoramă uluitoare asupra Cotului Dunării, iar conform tradițiilor ezoterice locale, aici s-ar afla 'chakra inimii' a Pământului. Istoria satului este marcată de prezența ordinului cistercian, care a ridicat o mănăstire impunătoare în secolul al XII-lea, ale cărei ruine pot fi vizitate și astăzi. Comunitatea locală păstrează vii tradițiile slovace, strămoșii lor fiind colonizați aici în secolul al XVIII-lea. Pentru amatorii de drumeții, defileul Szurdok, situat la marginea satului, oferă un traseu spectaculos prin valea pârâului Malom, cu poduri de lemn și formațiuni stâncoase impresionante. Pilisszentkereszt este o destinație ideală pentru cei care caută relaxare spirituală, aer curat de munte și o incursiune în istoria medievală și multiculturală a Ungariei.", "en": "Pilisszentkereszt is a charming high-altitude village nestled in the Pilis Mountains, a short drive from Budapest. It is world-famous for Dobogókő, a popular mountain peak that offers the most iconic panoramic views of the Danube Bend. Dobogókő is also significant as the birthplace of organized Hungarian hiking, hosting the nation's first mountain lodge. Many spiritual seekers visit the area, believing it to be the location of the Earth's 'heart chakra' due to its perceived positive energy. Historically, the village was home to a major Cistercian monastery founded in the 12th century by King Béla III; today, its ruins remain a silent witness to medieval monastic life. The village has a strong Slovak cultural identity, maintained by the descendants of 18th-century settlers. Outdoor enthusiasts are drawn to the nearby Szurdok (Gorge), a dramatic rocky valley with wooden bridges crossing the Malom stream. Pilisszentkereszt offers a unique combination of fresh mountain air, spiritual legends, and multi-layered historical heritage."}, "factsAdvanced": {"de": ["Dobogókő ist mit 700 m der höchste Punkt des Visegráder Gebirges.", "Das Zisterzienserkloster wurde 1184 gegründet.", "Die Pilis-Schlucht (Szurdok) ist ca. 1,5 km lang.", "Im Jahr 1898 wurde hier das erste ungarische Touristenhaus gebaut.", "Pilisszentkereszt ist ein zweisprachiges Dorf (Ungarisch/Slowakisch).", "Königin Gertrud von Meranien wurde 1213 hier beigesetzt."], "hu": ["Dobogókőn található az ország legrégebbi menedékháza (1898).", "A ciszterci apátság romjai között nyugodott Gertrúd királyné.", "A falu tengerszint feletti magassága 320-400 méter.", "A Pilisszentkereszti-szurdok a Malom-patak völgye.", "A település lakóinak több mint 30%-a szlovák nemzetiségű.", "A község határában több barlang is található, pl. a Pilis-barlang."], "ro": ["Dobogókő oferă vizibilitate până la munții Tatra în zilele senine.", "Mănăstirea cisterciană a fost distrusă în timpul invaziei mongole din 1241.", "Defileul Szurdok are 7 poduri de lemn peste pârâu.", "Există un muzeu dedicat istoriei minorității slovace în sat.", "Populația satului este de aproximativ 2.100 de locuitori.", "Dobogókő este considerat centrul energetic al lumii de către unii adepți."], "en": ["King Béla III brought Cistercian monks here from France.", "The first hiking trail in Hungary was marked here in 1888.", "The Dera-stream gorge (Szurdok) is a protected natural site.", "Dobogókő features a small ski resort for winter enthusiasts.", "The village name means 'Saint Cross of the Pilis'.", "Average summer temperature is significantly cooler than Budapest."]}, "faq": {"de": [{"q": "Wie komme ich nach Dobogókő?", "a": "Es gibt eine direkte Busverbindung von Pilisszentkereszt oder von Pomáz aus."}, {"q": "Gibt es Eintrittskosten für die Klosterrruinen?", "a": "Nein, die Ruinen sind frei zugänglich und liegen im Wald am Dorfrand."}, {"q": "Sind die Wanderwege im Szurdok schwierig?", "a": "Es ist eine leichte bis mittelschwere Wanderung, die auch für Familien gut geeignet ist."}, {"q": "Kann man in Dobogókő essen?", "a": "Ja, es gibt mehrere Berggasthöfe, Cafés und Imbissstände am Parkplatz."}], "hu": [{"q": "Mikor van a legtöbb turista Dobogókőn?", "a": "Hétvégenként és ünnepnapokon, érdemes korán érkezni a parkolás miatt."}, {"q": "Hol találom a Szurdok bejáratát?", "a": "A falu déli végén, a Pomáz felé vezető út mentén van a parkoló és a bejárat."}, {"q": "Látogatható a monostor romja télen is?", "a": "Igen, a romok szabadon körbejárhatók bármelyik évszakban."}, {"q": "Milyen szlovák ételeket lehet kóstolni?", "a": "Helyi éttermekben gyakran kínálnak sztrapacskát és juhtúrós galuskát."}], "ro": [{"q": "Există cazare la Dobogókő?", "a": "Da, există mai multe hoteluri, pensiuni și cabane montane disponibile."}, {"q": "Se poate vizita canionul Szurdok cu copii mici?", "a": "Da, este un traseu interactiv și sigur, foarte apreciat de copii."}, {"q": "Cât costă parcarea la Dobogókő?", "a": "Parcarea este cu plată, tariful fiind pe oră sau pe zi."}, {"q": "Unde se află 'chakra inimii'?", "a": "Simbolic, se consideră a fi în zona stâncilor de lângă platforma de belvedere."}], "en": [{"q": "How long is the hike through the gorge?", "a": "The main loop through the Szurdok takes about 1-1.5 hours."}, {"q": "Is Dobogókő accessible for disabled people?", "a": "The main viewpoints and the area around the parking lot are accessible."}, {"q": "Is there a museum in the village?", "a": "Yes, there is a Slovak Heritage House (Tájház) exhibiting local folk life."}, {"q": "Can I see the Danube Bend from the village center?", "a": "No, you need to go up to Dobogókő for the panoramic views."}]}, "sights": {
       "de": [
@@ -3200,6 +10870,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.919459,
                         47.684836
+                  ]
+            },
+            {
+                  "name": "Páduai Szent Antal-templom",
+                  "text": "Die Kirche des Heiligen Antonius von Padua ist eine Kultstätte in Pilisszentkereszt.",
+                  "category": "religious",
+                  "coords": [
+                        18.887243,
+                        47.669889
+                  ]
+            },
+            {
+                  "name": "Boldog Özséb kilátó",
+                  "text": "Dieser auf dem Pilis-tető gelegene Aussichtsturm ist nach dem seligen Eusebius von Gran benannt.",
+                  "category": "natural",
+                  "coords": [
+                        18.87292,
+                        47.688805
+                  ]
+            },
+            {
+                  "name": "Gombás-barlang",
+                  "text": "Gombás-barlang ist ein bekannter Höhleneingang in der natürlichen Umgebung von Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.865427,
+                        47.703555
+                  ]
+            },
+            {
+                  "name": "Som-hegy",
+                  "text": "Som-hegy ist ein bemerkenswerter Gipfel im Pilisgebirge, bekannt für seine malerischen Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905729,
+                        47.678843
+                  ]
+            },
+            {
+                  "name": "Pilis-barlang",
+                  "text": "Pilis-barlang ist ein zugänglicher Höhleneingang im Pilisgebirge in der Nähe von Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867687,
+                        47.70388
+                  ]
+            },
+            {
+                  "name": "Vaskapu",
+                  "text": "Vaskapu ist ein faszinierender natürlicher Höhleneingang in Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876027,
+                        47.700046
+                  ]
+            },
+            {
+                  "name": "Pilisszántói-kőfülke",
+                  "text": "Diese kleine Felsdachhöhle im Pilisgebirge ist eine wichtige archäologische und paläontologische Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        18.880762,
+                        47.679552
+                  ]
+            },
+            {
+                  "name": "Szurdok",
+                  "text": "Szurdok ist eine lokale Sehenswürdigkeit in Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917214,
+                        47.684526
                   ]
             }
       ],
@@ -3225,6 +10967,78 @@ export const poiExtraHuV4: POI[] = [
                         18.919459,
                         47.684836
                   ]
+            },
+            {
+                  "name": "Páduai Szent Antal-templom",
+                  "text": "A Páduai Szent Antal-templom egy istentiszteleti hely Pilisszentkereszten.",
+                  "category": "religious",
+                  "coords": [
+                        18.887243,
+                        47.669889
+                  ]
+            },
+            {
+                  "name": "Boldog Özséb kilátó",
+                  "text": "A Pilis-tetőn található kilátótorony Boldog Özsébről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        18.87292,
+                        47.688805
+                  ]
+            },
+            {
+                  "name": "Gombás-barlang",
+                  "text": "A Gombás-barlang egy ismert barlangbejárat Pilisszentkereszt természeti környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.865427,
+                        47.703555
+                  ]
+            },
+            {
+                  "name": "Som-hegy",
+                  "text": "A Som-hegy a Pilis-hegység jelentős csúcsa, amely festői túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905729,
+                        47.678843
+                  ]
+            },
+            {
+                  "name": "Pilis-barlang",
+                  "text": "A Pilis-barlang egy megközelíthető barlangbejárat a Pilis-hegységben, Pilisszentkereszt közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867687,
+                        47.70388
+                  ]
+            },
+            {
+                  "name": "Vaskapu",
+                  "text": "A Vaskapu egy lenyűgöző természetes barlangbejárat Pilisszentkereszten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876027,
+                        47.700046
+                  ]
+            },
+            {
+                  "name": "Pilisszántói-kőfülke",
+                  "text": "Ez a kis kőfülke a Pilisben jelentős régészeti és őslénytani lelőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        18.880762,
+                        47.679552
+                  ]
+            },
+            {
+                  "name": "Szurdok",
+                  "text": "A Szurdok egy helyi látványosság Pilisszentkereszten.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917214,
+                        47.684526
+                  ]
             }
       ],
       "ro": [
@@ -3249,6 +11063,78 @@ export const poiExtraHuV4: POI[] = [
                         18.919459,
                         47.684836
                   ]
+            },
+            {
+                  "name": "Páduai Szent Antal-templom",
+                  "text": "Biserica Sfântul Anton de Padova este un lăcaș de cult situat în Pilisszentkereszt.",
+                  "category": "religious",
+                  "coords": [
+                        18.887243,
+                        47.669889
+                  ]
+            },
+            {
+                  "name": "Boldog Özséb kilátó",
+                  "text": "Situat pe Pilis-tető, acest turn de belvedere poartă numele Fericitului Eusebiu de Esztergom.",
+                  "category": "natural",
+                  "coords": [
+                        18.87292,
+                        47.688805
+                  ]
+            },
+            {
+                  "name": "Gombás-barlang",
+                  "text": "Gombás-barlang este o intrare de peșteră cunoscută situată în împrejurimile naturale din Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.865427,
+                        47.703555
+                  ]
+            },
+            {
+                  "name": "Som-hegy",
+                  "text": "Som-hegy este un vârf notabil din Munții Pilis, cunoscut pentru traseele sale pitorești de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905729,
+                        47.678843
+                  ]
+            },
+            {
+                  "name": "Pilis-barlang",
+                  "text": "Pilis-barlang este o intrare accesibilă de peșteră situată în Munții Pilis, lângă Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867687,
+                        47.70388
+                  ]
+            },
+            {
+                  "name": "Vaskapu",
+                  "text": "Vaskapu este o intrare naturală fascinantă de peșteră situată în Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876027,
+                        47.700046
+                  ]
+            },
+            {
+                  "name": "Pilisszántói-kőfülke",
+                  "text": "Această mică peșteră adăpost de stâncă din Munții Pilis este un important sit arheologic și paleontologic.",
+                  "category": "landmark",
+                  "coords": [
+                        18.880762,
+                        47.679552
+                  ]
+            },
+            {
+                  "name": "Szurdok",
+                  "text": "Szurdok este o atracție locală situată în Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917214,
+                        47.684526
+                  ]
             }
       ],
       "en": [
@@ -3272,6 +11158,78 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         18.919459,
                         47.684836
+                  ]
+            },
+            {
+                  "name": "Páduai Szent Antal-templom",
+                  "text": "The Church of Saint Anthony of Padua is a place of worship situated in Pilisszentkereszt.",
+                  "category": "religious",
+                  "coords": [
+                        18.887243,
+                        47.669889
+                  ]
+            },
+            {
+                  "name": "Boldog Özséb kilátó",
+                  "text": "Located on Pilis-tető, this viewpoint tower is named after Blessed Eusebius of Esztergom.",
+                  "category": "natural",
+                  "coords": [
+                        18.87292,
+                        47.688805
+                  ]
+            },
+            {
+                  "name": "Gombás-barlang",
+                  "text": "Gombás-barlang is a known cave entrance located in the natural surroundings of Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.865427,
+                        47.703555
+                  ]
+            },
+            {
+                  "name": "Som-hegy",
+                  "text": "Som-hegy is a notable peak in the Pilis Mountains, known for its scenic hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905729,
+                        47.678843
+                  ]
+            },
+            {
+                  "name": "Pilis-barlang",
+                  "text": "Pilis-barlang is an accessible cave entrance located in the Pilis Mountains near Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.867687,
+                        47.70388
+                  ]
+            },
+            {
+                  "name": "Vaskapu",
+                  "text": "Vaskapu is a fascinating natural cave entrance situated in Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.876027,
+                        47.700046
+                  ]
+            },
+            {
+                  "name": "Pilisszántói-kőfülke",
+                  "text": "This small rock shelter cave in the Pilis Mountains is an important archaeological and paleontological site.",
+                  "category": "landmark",
+                  "coords": [
+                        18.880762,
+                        47.679552
+                  ]
+            },
+            {
+                  "name": "Szurdok",
+                  "text": "Szurdok is a local attraction located in Pilisszentkereszt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917214,
+                        47.684526
                   ]
             }
       ]
@@ -3299,6 +11257,42 @@ export const poiExtraHuV4: POI[] = [
                         20.658016,
                         47.642959
                   ]
+            },
+            {
+                  "name": "Hevesi Puszták Tájvédelmi Körzet",
+                  "text": "Ein Naturschutzgebiet bei Poroszló, das die einzigartige Flora und Fauna der ungarischen Graslandschaften bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        20.648061,
+                        47.670847
+                  ]
+            },
+            {
+                  "name": "Halászskanzen",
+                  "text": "Ein Freilichtmuseum, das traditionelle Fangmethoden und -werkzeuge in Poroszló zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.659506,
+                        47.645425
+                  ]
+            },
+            {
+                  "name": "Állatsimogató",
+                  "text": "Ein Streichelzoo, der interaktive Erlebnisse mit freundlichen Tieren in Poroszló bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.663275,
+                        47.647015
+                  ]
+            },
+            {
+                  "name": "Ragadozómadár röpde",
+                  "text": "Eine Voliere für Greifvögel in Poroszló.",
+                  "category": "landmark",
+                  "coords": [
+                        20.662137,
+                        47.646312
+                  ]
             }
       ],
       "hu": [
@@ -3322,6 +11316,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.658016,
                         47.642959
+                  ]
+            },
+            {
+                  "name": "Hevesi Puszták Tájvédelmi Körzet",
+                  "text": "A magyarországi füves puszták egyedülálló növény- és állatvilágát őrző tájvédelmi körzet Poroszló közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.648061,
+                        47.670847
+                  ]
+            },
+            {
+                  "name": "Halászskanzen",
+                  "text": "A hagyományos halászati módszereket és eszközöket bemutató szabadtéri múzeum Poroszlón.",
+                  "category": "museum",
+                  "coords": [
+                        20.659506,
+                        47.645425
+                  ]
+            },
+            {
+                  "name": "Állatsimogató",
+                  "text": "Barátságos állatokkal váró állatsimogató Poroszlón.",
+                  "category": "landmark",
+                  "coords": [
+                        20.663275,
+                        47.647015
+                  ]
+            },
+            {
+                  "name": "Ragadozómadár röpde",
+                  "text": "Különböző ragadozómadarakat bemutató röpde Poroszlón.",
+                  "category": "landmark",
+                  "coords": [
+                        20.662137,
+                        47.646312
                   ]
             }
       ],
@@ -3347,6 +11377,42 @@ export const poiExtraHuV4: POI[] = [
                         20.658016,
                         47.642959
                   ]
+            },
+            {
+                  "name": "Hevesi Puszták Tájvédelmi Körzet",
+                  "text": "O rezervație naturală protejată lângă Poroszló, care conservă flora și fauna unice ale pajiștilor maghiare.",
+                  "category": "natural",
+                  "coords": [
+                        20.648061,
+                        47.670847
+                  ]
+            },
+            {
+                  "name": "Halászskanzen",
+                  "text": "Un muzeu în aer liber care prezintă metode și instrumente tradiționale de pescuit în Poroszló.",
+                  "category": "museum",
+                  "coords": [
+                        20.659506,
+                        47.645425
+                  ]
+            },
+            {
+                  "name": "Állatsimogató",
+                  "text": "O grădină zoologică cu animale de companie, care oferă experiențe interactive în Poroszló.",
+                  "category": "landmark",
+                  "coords": [
+                        20.663275,
+                        47.647015
+                  ]
+            },
+            {
+                  "name": "Ragadozómadár röpde",
+                  "text": "O volieră pentru păsări de pradă situată în Poroszló.",
+                  "category": "landmark",
+                  "coords": [
+                        20.662137,
+                        47.646312
+                  ]
             }
       ],
       "en": [
@@ -3371,6 +11437,42 @@ export const poiExtraHuV4: POI[] = [
                         20.658016,
                         47.642959
                   ]
+            },
+            {
+                  "name": "Hevesi Puszták Tájvédelmi Körzet",
+                  "text": "A protected nature reserve near Poroszló, preserving the unique flora and fauna of the Hungarian grasslands.",
+                  "category": "natural",
+                  "coords": [
+                        20.648061,
+                        47.670847
+                  ]
+            },
+            {
+                  "name": "Halászskanzen",
+                  "text": "An open-air museum displaying traditional fishing methods and tools in Poroszló.",
+                  "category": "museum",
+                  "coords": [
+                        20.659506,
+                        47.645425
+                  ]
+            },
+            {
+                  "name": "Állatsimogató",
+                  "text": "A petting zoo offering hands-on experiences with friendly animals in Poroszló.",
+                  "category": "landmark",
+                  "coords": [
+                        20.663275,
+                        47.647015
+                  ]
+            },
+            {
+                  "name": "Ragadozómadár röpde",
+                  "text": "An aviary for birds of prey located in Poroszló.",
+                  "category": "landmark",
+                  "coords": [
+                        20.662137,
+                        47.646312
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Tiszafüred", "text": "Hauptstadt des Theiß-Sees mit Thermalbad und Reiterhöfen.", "distance": "9 km", "category": "recreational"}, {"name": "Sarud", "text": "Erlebnispark am Wasser mit dem größten Aquaglide in Ungarn.", "distance": "12 km", "category": "recreational"}], "hu": [{"name": "Tiszafüred", "text": "A Tisza-tó fővárosa, híres termálfürdőjéről és fazekas hagyományairól.", "distance": "9 km", "category": "recreational"}, {"name": "Sarud", "text": "Kalandpart és vízi játszótér, amely a sportkedvelők paradicsoma.", "distance": "12 km", "category": "recreational"}], "ro": [{"name": "Tiszafüred", "text": "Orașul principal de pe malul lacului, renumit pentru apele termale curative.", "distance": "9 km", "category": "recreational"}, {"name": "Sarud", "text": "Centru de agrement cu cel mai mare parc acvatic gonflabil din țară.", "distance": "12 km", "category": "recreational"}], "en": [{"name": "Tiszafüred", "text": "The cultural capital of Lake Tisza, known for its thermal baths and pottery.", "distance": "9 km", "category": "recreational"}, {"name": "Sarud", "text": "An adventure beach featuring massive inflatable water parks and sailing clubs.", "distance": "12 km", "category": "recreational"}]}, "parent": "jasz-nagykun-szolnok"},
@@ -3386,6 +11488,60 @@ export const poiExtraHuV4: POI[] = [
                         21.344367,
                         48.378654
                   ]
+            },
+            {
+                  "name": "Egykori Agrármúzeum",
+                  "text": "Egykori Agrármúzeum ist ein ehemaliges Landwirtschaftsmuseum im Dorf Regéc.",
+                  "category": "museum",
+                  "coords": [
+                        21.333252,
+                        48.373015
+                  ]
+            },
+            {
+                  "name": "Helytörténeti kiállítás",
+                  "text": "Die Helytörténeti kiállítás ist eine Museumsausstellung, die die lokale Geschichte von Regéc zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.328317,
+                        48.376888
+                  ]
+            },
+            {
+                  "name": "Rákóczi Ferenc Emlékház",
+                  "text": "Das Rákóczi Ferenc Emlékház ist ein Gedenkhaus und Museum in Regéc, das der historischen Figur Franz II. Rákóczi gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.326411,
+                        48.376216
+                  ]
+            },
+            {
+                  "name": "Kis-Zabarla",
+                  "text": "Kis-Zabarla ist ein lokaler Aussichtspunkt mit malerischen Perspektiven rund um Regéc.",
+                  "category": "natural",
+                  "coords": [
+                        21.380931,
+                        48.383691
+                  ]
+            },
+            {
+                  "name": "Bónyi-kút",
+                  "text": "Bónyi-kút ist eine bekannte natürliche Quelle und ein Rastplatz in den Wäldern von Regéc.",
+                  "category": "landmark",
+                  "coords": [
+                        21.312867,
+                        48.372817
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "Régi tűzoltókocsi ist ein historisches Feuerwehrauto, das als Attraktion in Regéc ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.345577,
+                        48.393595
+                  ]
             }
       ],
       "hu": [
@@ -3398,6 +11554,60 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.344367,
                         48.378654
+                  ]
+            },
+            {
+                  "name": "Egykori Agrármúzeum",
+                  "text": "Az Egykori Agrármúzeum a régi mezőgazdasági emlékeket bemutató múzeum Regéc településen.",
+                  "category": "museum",
+                  "coords": [
+                        21.333252,
+                        48.373015
+                  ]
+            },
+            {
+                  "name": "Helytörténeti kiállítás",
+                  "text": "A Helytörténeti kiállítás Regéc község múltját és hagyományait bemutató múzeumi tárlat.",
+                  "category": "museum",
+                  "coords": [
+                        21.328317,
+                        48.376888
+                  ]
+            },
+            {
+                  "name": "Rákóczi Ferenc Emlékház",
+                  "text": "A Rákóczi Ferenc Emlékház II. Rákóczi Ferenc történelmi alakjának emléket állító múzeum Regécen.",
+                  "category": "museum",
+                  "coords": [
+                        21.326411,
+                        48.376216
+                  ]
+            },
+            {
+                  "name": "Kis-Zabarla",
+                  "text": "A Kis-Zabarla egy festői kilátópont Regéc környékén.",
+                  "category": "natural",
+                  "coords": [
+                        21.380931,
+                        48.383691
+                  ]
+            },
+            {
+                  "name": "Bónyi-kút",
+                  "text": "A Bónyi-kút egy ismert természetes forrás és pihenőhely a regéci erdőkben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.312867,
+                        48.372817
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "A Régi tűzoltókocsi egy történelmi tűzoltó jármű, amely látványosságként tekinthető meg Regécen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.345577,
+                        48.393595
                   ]
             }
       ],
@@ -3412,6 +11622,60 @@ export const poiExtraHuV4: POI[] = [
                         21.344367,
                         48.378654
                   ]
+            },
+            {
+                  "name": "Egykori Agrármúzeum",
+                  "text": "Egykori Agrármúzeum este un fost muzeu agricol situat în satul Regéc.",
+                  "category": "museum",
+                  "coords": [
+                        21.333252,
+                        48.373015
+                  ]
+            },
+            {
+                  "name": "Helytörténeti kiállítás",
+                  "text": "Helytörténeti kiállítás este o expoziție muzeală care prezintă istoria locală a localității Regéc.",
+                  "category": "museum",
+                  "coords": [
+                        21.328317,
+                        48.376888
+                  ]
+            },
+            {
+                  "name": "Rákóczi Ferenc Emlékház",
+                  "text": "Rákóczi Ferenc Emlékház este o casă memorială și muzeu în Regéc dedicat figurii istorice Francisc Rákóczi al II-lea.",
+                  "category": "museum",
+                  "coords": [
+                        21.326411,
+                        48.376216
+                  ]
+            },
+            {
+                  "name": "Kis-Zabarla",
+                  "text": "Kis-Zabarla este un punct de belvedere local ce oferă perspective pitorești în jurul localității Regéc.",
+                  "category": "natural",
+                  "coords": [
+                        21.380931,
+                        48.383691
+                  ]
+            },
+            {
+                  "name": "Bónyi-kút",
+                  "text": "Bónyi-kút este un izvor natural notabil și un loc de odihnă situat în pădurile din Regéc.",
+                  "category": "landmark",
+                  "coords": [
+                        21.312867,
+                        48.372817
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "Régi tűzoltókocsi este o mașină de pompieri istorică expusă ca atracție în Regéc.",
+                  "category": "landmark",
+                  "coords": [
+                        21.345577,
+                        48.393595
+                  ]
             }
       ],
       "en": [
@@ -3425,15 +11689,710 @@ export const poiExtraHuV4: POI[] = [
                         21.344367,
                         48.378654
                   ]
+            },
+            {
+                  "name": "Egykori Agrármúzeum",
+                  "text": "Egykori Agrármúzeum is a former agricultural museum located in the village of Regéc.",
+                  "category": "museum",
+                  "coords": [
+                        21.333252,
+                        48.373015
+                  ]
+            },
+            {
+                  "name": "Helytörténeti kiállítás",
+                  "text": "The Helytörténeti kiállítás is a museum exhibition showcasing the local history of Regéc.",
+                  "category": "museum",
+                  "coords": [
+                        21.328317,
+                        48.376888
+                  ]
+            },
+            {
+                  "name": "Rákóczi Ferenc Emlékház",
+                  "text": "The Rákóczi Ferenc Emlékház is a memorial house and museum in Regéc dedicated to the historical figure Francis II Rákóczi.",
+                  "category": "museum",
+                  "coords": [
+                        21.326411,
+                        48.376216
+                  ]
+            },
+            {
+                  "name": "Kis-Zabarla",
+                  "text": "Kis-Zabarla is a local viewpoint offering scenic perspectives around Regéc.",
+                  "category": "natural",
+                  "coords": [
+                        21.380931,
+                        48.383691
+                  ]
+            },
+            {
+                  "name": "Bónyi-kút",
+                  "text": "Bónyi-kút is a notable natural spring and resting place located in the forests of Regéc.",
+                  "category": "landmark",
+                  "coords": [
+                        21.312867,
+                        48.372817
+                  ]
+            },
+            {
+                  "name": "Régi tűzoltókocsi",
+                  "text": "Régi tűzoltókocsi is a historic fire engine displayed as an attraction in Regéc.",
+                  "category": "landmark",
+                  "coords": [
+                        21.345577,
+                        48.393595
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Boldogkő Burg", "text": "Eine weitere prächtige Zemplén-Burg mit einem berühmten Fotomotiv.", "distance": "12 km", "category": "historical"}, {"name": "Telkibánya Goldbergbau", "text": "Historische Goldminen und ein Bergbaumuseum.", "distance": "15 km", "category": "historical"}], "hu": [{"name": "Boldogkői vár", "text": "Látványos zempléni vár, híres a sziklán kinyúló fafolyosójáról.", "distance": "12 km", "category": "historical"}, {"name": "Telkibányai ércbányászati múzeum", "text": "Az aranybányászat emlékeit bemutató kiállítás és bányajáratok.", "distance": "15 km", "category": "historical"}], "ro": [{"name": "Cetatea Boldogkő", "text": "Cetate medievală faimoasă pentru locația sa dramatică pe un pinten de stâncă.", "distance": "12 km", "category": "historical"}, {"name": "Muzeul Mineritului din Telkibánya", "text": "O incursiune în istoria extragerii aurului în munții Zemplén.", "distance": "15 km", "category": "historical"}], "en": [{"name": "Boldogkő Castle", "text": "A stunning fortress known for its long wooden walkway extending over a cliff.", "distance": "12 km", "category": "historical"}, {"name": "Telkibánya Gold Mining Museum", "text": "Historic site dedicated to the centuries-old gold and ore mining in the region.", "distance": "15 km", "category": "historical"}]}, "parent": "borsod-abauj-zemplen"},
-  {"id": "revfulop", "type": "village", "coords": [17.6322, 46.8311], "population": 1180, "name": {"de": "Révfülöp", "hu": "Révfülöp", "ro": "Révfülöp", "en": "Révfülöp"}, "descriptionAdvanced": {"de": "Révfülöp ist ein traditionsreicher Bade- und Ferienort am Nordufer des Plattensees, der für seinen wichtigen Fährhafen und seine lebendige Atmosphäre bekannt ist. Der Name leitet sich vom Wort 'Rév' (Fähre) ab, da hier seit Jahrhunderten eine der wichtigsten Überquerungsmöglichkeiten nach Balatonboglár am Südufer besteht. Die Geschichte von Révfülöp als moderner Urlaubsort begann im späten 19. Jahrhundert, als zahlreiche prächtige Villen im Stil des Eklektizismus und des Jugendstils entstanden, die noch heute das elegante Ortsbild prägen. Eine Besonderheit der lokalen Architektur ist die Verwendung des roten Sandsteins, der in den umliegenden Bergen abgebaut wurde. Révfülöp ist zudem Schauplatz des berühmten jährlichen Balaton-Durchschwimmens, bei dem tausende Sportler die 5,2 km breite Wasserfläche überqueren. Die Gemeinde bietet zwei hervorragende Strände, eine wunderschöne Promenade und ist ein idealer Ausgangspunkt für Erkundungen in das Káli-Becken. Die Mischung aus historischem Flair, sportlichen Großereignissen und der entspannten Stimmung eines typischen Balaton-Dorfes macht Révfülöp zu einem der beliebtesten Ziele für Familien und Wanderer gleichermaßen.", "hu": "Révfülöp a Balaton északi partjának egyik legkedveltebb üdülőhelye, amely központi elhelyezkedése és fontos kikötője révén a térség meghatározó központja. A település neve a 'Rév' és a 'Fülöp' (Fülöp-szállás) szavak összetételéből ered, utalva arra, hogy itt már a középkorban is fontos átkelőhely működött a tó két partja között. A 19. század végén és a 20. század elején Révfülöp a polgári nyaralókultúra fellegvárává vált; a vörös homokkőből épült elegáns villák és a rendezett parkok ma is meghatározzák a falu arculatát. A település világszerte ismertté vált a Balaton-átúszás starthelyszíneként, ahol minden évben ezrek indulnak útnak Balatonboglár felé. Révfülöp két kiváló stranddal, egy hangulatos mólóval és a Fülöp-hegyi kilátóval büszkélkedhet, ahonnan az északi part egyik legszebb panorámája nyílik a tanúhegyekre és a vízre. A község nemcsak a fürdőzésről szól, hanem kulturális eseményeknek, borfesztiváloknak és horgászversenyeknek is otthont ad. A falu felett magasodó Fülöp-hegy és a közeli Káli-medence kapuja ideális célponttá teszi a természetjárók számára is.", "ro": "Révfülöp este o stațiune istorică și un important nod de transport situat pe malul nordic al lacului Balaton. Numele său provine de la cuvântul maghiar 'Rév' (feribot), subliniind funcția sa vitală de punct de traversare către orașul Balatonboglár de pe malul sudic, o rută utilizată încă din Evul Mediu. Dezvoltarea modernă a localității a început la sfârșitul secolului al XIX-lea, când a devenit o destinație de vacanță preferată pentru clasa de mijloc înstărită, reflectată astăzi în vilele elegante construite din gresie roșie locală, un material caracteristic arhitecturii zonei. Révfülöp este renumit pe plan internațional pentru că găzduiește startul cursei anuale de înot peste Balaton, un eveniment care atrage mii de participanți care traversează cei 5,2 km ai lacului. Localitatea oferă două plaje foarte bine amenajate, o faleză fermecătoare cu vedere spre port și numeroase spații verzi. Deasupra satului se înalță dealul Fülöp, unde un turn de observație oferă o panoramă spectaculoasă asupra bazinului Tapolca și a munților martori. Atmosfera boemă, combinată cu facilitățile moderne și gastronomia locală bazată pe vinurile din regiunea Badacsony, face din Révfülöp o destinație versatilă pentru turiștii care caută atât sport, cât și relaxare.", "en": "Révfülöp is a historic resort town and a vital transportation hub on the northern shore of Lake Balaton. Its name combines 'Rév' (ferry) and 'Fülöp' (Philip), highlighting its centuries-old role as a key crossing point to Balatonboglár on the southern shore. The village underwent rapid transformation in the late 19th and early 20th centuries during the Austro-Hungarian Dual Monarchy, resulting in a beautiful array of eclectic and Art Nouveau villas built from the signature local red sandstone. Today, Révfülöp is globally recognized as the starting point for the annual Lake Balaton Cross-Swimming competition, where thousands of athletes swim 5.2 kilometers across the lake. The village boasts two excellent beaches, a scenic lakeside promenade, and a vibrant harbor area. For those seeking views, the lookout tower on Fülöp Hill provides one of the most celebrated panoramas of the Balaton Uplands and its volcanic mountains. Révfülöp serves as an ideal gateway to the Káli Basin, offering a mix of water-based activities, hiking trails, and cultural events. Its combination of historic elegance, active sports life, and natural beauty makes it a perennial favorite for visitors seeking an authentic Balaton experience."}, "factsAdvanced": {"de": ["Wichtiger Fährhafen nach Balatonboglár.", "Startpunkt des jährlichen Balaton-Durchschwimmens (5,2 km).", "Zahlreiche Villen aus rotem Sandstein aus dem 19. Jahrhundert.", "Der Aussichtsturm auf dem Fülöp-Berg bietet weite Sicht.", "Liegt in der Weinregion Badacsony.", "Zentrum für Segelsport und Angeln am Nordufer."], "hu": ["A Balaton-átúszás hagyományos rajtállomása.", "Kikötőjéből menetrend szerinti járatok indulnak Balatonboglárra.", "A 19. századi vörös homokkő építészet egyik központja.", "Két nagy strandja van: a Szigeti és a Császtai strand.", "Nevének első része a rév (átkelőhely) szóból származik.", "A Fülöp-hegyi kilátó 2001-ben épült millenniumi emlékmű."], "ro": ["Punct de plecare pentru traversarea înot a lacului Balaton.", "Portul oferă curse regulate de feribot spre Balatonboglár.", "Multe clădiri istorice sunt construite din gresie roșie locală.", "Deține două plaje mari foarte populare: Szigeti și Császtai.", "Dealul Fülöp oferă o panoramă completă asupra lacului.", "Găzduiește anual festivaluri de vin și seri de muzică în port."], "en": ["Key ferry port connecting the northern and southern shores.", "The starting line of the 5.2 km Balaton Cross-Swimming race.", "Features many elegant 19th-century red sandstone villas.", "Home to the Millennium Lookout on Fülöp Hill.", "Offers a direct train connection to Budapest.", "A gateway village to the Káli Basin nature area."]}, "faq": {"de": [{"q": "Wie oft fahren die Fähren nach Balatonboglár?", "a": "In der Hauptsaison fahren die Schiffe stündlich."}, {"q": "Wo beginnt das Balaton-Durchschwimmen?", "a": "Der Start ist am Strand von Révfülöp."}, {"q": "Ist der Aussichtsturm auf dem Fülöp-Berg zu Fuß erreichbar?", "a": "Ja, es ist ein angenehmer etwa 30-minütiger Spaziergang vom Zentrum."}, {"q": "Gibt es Campingplätze in Révfülöp?", "a": "Ja, es gibt mehrere gut ausgestattete Campingplätze direkt am Wasser."}], "hu": [{"q": "Mikor indulnak a hajók Balatonboglárra?", "a": "A főszezonban óránként járnak a személyhajók és a menetrendi járatok."}, {"q": "Melyik a jobb strand Révfülöpön?", "a": "A Szigeti strand központibb, a Császtai strand tágasabb és több a sportpálya."}, {"q": "Milyen messze van a kilátó a kikötőtől?", "a": "Körülbelül 1,5 - 2 kilométeres, emelkedő sétával érhető el."}, {"q": "Lehet-e horgászni a kikötőben?", "a": "A móló kijelölt részein engedéllyel szabad horgászni."}], "ro": [{"q": "Cât durează traversarea cu feribotul spre Balatonboglár?", "a": "Călătoria durează aproximativ 25-30 de minute cu vasul de pasageri."}, {"q": "Este greu de urcat la turnul de observație?", "a": "Este o urcare moderată, accesibilă majorității turiștilor pe jos."}, {"q": "Se poate înota în port?", "a": "Nu, înotul este permis doar pe cele două plaje amenajate."}, {"q": "Ce fel de vinuri găsim în Révfülöp?", "a": "Sunt populare vinurile albe din zona Badacsony, servite în terasele din port."}], "en": [{"q": "When does the Balaton Cross-Swimming take place?", "a": "Usually on a Saturday in late July or early August, depending on weather."}, {"q": "Can I reach the village by train?", "a": "Yes, Révfülöp has a central railway station on the Budapest-Tapolca line."}, {"q": "Is the ferry only for passengers?", "a": "From Révfülöp, mostly passenger ships operate; the car ferry is at Tihany-Szántód."}, {"q": "Are there any medieval sites in the village?", "a": "The ruins of the Fülöp church (Fülöpi templomrom) are located near the train station."}]}, "sights": {"de": [{"name": "Révfülöp Hafen", "text": "Ein belebter Hafen mit Schiffverbindungen und einer schönen Promenade.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [17.634149, 46.826801]}, {"name": "Szigeti Strand", "text": "Zentral in Révfülöp gelegen, ist der Szigeti Strand ein äußerst beliebtes Ausflugsziel, das besonders für seine vielen Schattenbäume geschätzt wird. Das Ambiente vereint hier lokale Lebendigkeit mit dem kühlen Komfort des dichten Blätterdachs, was ihn ideal für längere Aufenthalte am Wasser macht. Die schattigen Plätze bieten den perfekten Rückzugsort während der heißesten Stunden eines Sommertages.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.633641, 46.827145]}], "hu": [{"name": "Révfülöp kikötője", "text": "Az északi part egyik legfontosabb hajóállomása, a Balaton-átúszás központja.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [17.634149, 46.826801]}, {"name": "Szigeti strand", "text": "A Révfülöp központjában található Szigeti Strand egy rendkívül népszerű úti cél, amelyet a bőséges árnyékot adó fák miatt kedvelnek. A hangulat itt egyensúlyt teremt a helyi pezsgés és a lombkorona hűvös kényelme között, így kiválóan alkalmas hosszabb vízparti tartózkodásra is. Az árnyékos területek tökéletes menedéket nyújtanak a nyári napok legmelegebb óráiban.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.633641, 46.827145]}], "ro": [{"name": "Portul Révfülöp", "text": "Un port vibrant cu feriboturi regulate, restaurante și o promenadă plină de viață.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [17.634149, 46.826801]}, {"name": "Plaja Szigeti", "text": "Situată central în Révfülöp, Szigeti Strand este o destinație foarte populară, apreciată pentru abundența copacilor umbroși. Ambianta de aici echilibrează vibrația locală cu confortul răcoros al coronamentului frunzișului, fiind excelentă pentru șederi prelungite lângă apă. Zonele umbrite oferă un refugiu perfect în timpul celor mai calde părți ale zilei de vară.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.633641, 46.827145]}], "en": [{"name": "Révfülöp Harbor", "text": "A central nautical hub with regular ferry services and a picturesque pier area.", "category": "civic", "confidence": "high", "source_hint": "wiki", "coords": [17.634149, 46.826801]}, {"name": "Szigeti Beach", "text": "Situated centrally in Révfülöp, Szigeti Strand is a highly popular destination favored for its abundant shade trees. The ambiance here balances local vibrancy with the cool comfort of the leafy canopy, making it great for extended stays near the water. The shaded areas provide a perfect refuge during the warmest parts of the summer day.", "category": "recreational", "confidence": "high", "source_hint": "known", "coords": [17.633641, 46.827145]}]}, "nearbySights": {"de": [{"name": "Káli-Becken", "text": "Geschützte Naturregion mit vulkanischen Bergen.", "distance": "5 km", "category": "natural"}, {"name": "Badacsony", "text": "Berühmter Weinberg mit Weinstuben und Aussicht.", "distance": "14 km", "category": "natural"}], "hu": [{"name": "Káli-medence", "text": "A Balaton-felvidék egyik legszebb tájegysége.", "distance": "5 km", "category": "natural"}, {"name": "Badacsony-hegy", "text": "Ikonikus bazalthegy kitűnő borokkal és túrautakkal.", "distance": "14 km", "category": "natural"}], "ro": [{"name": "Bazinul Káli", "text": "O regiune protejată renumită pentru geologie și liniște.", "distance": "5 km", "category": "natural"}, {"name": "Muntele Badacsony", "text": "Cea mai faimoasă zonă viticolă de pe malul nordic.", "distance": "14 km", "category": "natural"}], "en": [{"name": "Káli Basin", "text": "A beautiful inland basin known for its tranquility and nature.", "distance": "5 km", "category": "natural"}, {"name": "Badacsony Hill", "text": "A volcanic giant famous for its vineyards and spectacular panoramas.", "distance": "14 km", "category": "natural"}]}, "parent": "veszprem"},
+  {"id": "revfulop", "type": "village", "coords": [17.6322, 46.8311], "population": 1180, "name": {"de": "Révfülöp", "hu": "Révfülöp", "ro": "Révfülöp", "en": "Révfülöp"}, "descriptionAdvanced": {"de": "Révfülöp ist ein traditionsreicher Bade- und Ferienort am Nordufer des Plattensees, der für seinen wichtigen Fährhafen und seine lebendige Atmosphäre bekannt ist. Der Name leitet sich vom Wort 'Rév' (Fähre) ab, da hier seit Jahrhunderten eine der wichtigsten Überquerungsmöglichkeiten nach Balatonboglár am Südufer besteht. Die Geschichte von Révfülöp als moderner Urlaubsort begann im späten 19. Jahrhundert, als zahlreiche prächtige Villen im Stil des Eklektizismus und des Jugendstils entstanden, die noch heute das elegante Ortsbild prägen. Eine Besonderheit der lokalen Architektur ist die Verwendung des roten Sandsteins, der in den umliegenden Bergen abgebaut wurde. Révfülöp ist zudem Schauplatz des berühmten jährlichen Balaton-Durchschwimmens, bei dem tausende Sportler die 5,2 km breite Wasserfläche überqueren. Die Gemeinde bietet zwei hervorragende Strände, eine wunderschöne Promenade und ist ein idealer Ausgangspunkt für Erkundungen in das Káli-Becken. Die Mischung aus historischem Flair, sportlichen Großereignissen und der entspannten Stimmung eines typischen Balaton-Dorfes macht Révfülöp zu einem der beliebtesten Ziele für Familien und Wanderer gleichermaßen.", "hu": "Révfülöp a Balaton északi partjának egyik legkedveltebb üdülőhelye, amely központi elhelyezkedése és fontos kikötője révén a térség meghatározó központja. A település neve a 'Rév' és a 'Fülöp' (Fülöp-szállás) szavak összetételéből ered, utalva arra, hogy itt már a középkorban is fontos átkelőhely működött a tó két partja között. A 19. század végén és a 20. század elején Révfülöp a polgári nyaralókultúra fellegvárává vált; a vörös homokkőből épült elegáns villák és a rendezett parkok ma is meghatározzák a falu arculatát. A település világszerte ismertté vált a Balaton-átúszás starthelyszíneként, ahol minden évben ezrek indulnak útnak Balatonboglár felé. Révfülöp két kiváló stranddal, egy hangulatos mólóval és a Fülöp-hegyi kilátóval büszkélkedhet, ahonnan az északi part egyik legszebb panorámája nyílik a tanúhegyekre és a vízre. A község nemcsak a fürdőzésről szól, hanem kulturális eseményeknek, borfesztiváloknak és horgászversenyeknek is otthont ad. A falu felett magasodó Fülöp-hegy és a közeli Káli-medence kapuja ideális célponttá teszi a természetjárók számára is.", "ro": "Révfülöp este o stațiune istorică și un important nod de transport situat pe malul nordic al lacului Balaton. Numele său provine de la cuvântul maghiar 'Rév' (feribot), subliniind funcția sa vitală de punct de traversare către orașul Balatonboglár de pe malul sudic, o rută utilizată încă din Evul Mediu. Dezvoltarea modernă a localității a început la sfârșitul secolului al XIX-lea, când a devenit o destinație de vacanță preferată pentru clasa de mijloc înstărită, reflectată astăzi în vilele elegante construite din gresie roșie locală, un material caracteristic arhitecturii zonei. Révfülöp este renumit pe plan internațional pentru că găzduiește startul cursei anuale de înot peste Balaton, un eveniment care atrage mii de participanți care traversează cei 5,2 km ai lacului. Localitatea oferă două plaje foarte bine amenajate, o faleză fermecătoare cu vedere spre port și numeroase spații verzi. Deasupra satului se înalță dealul Fülöp, unde un turn de observație oferă o panoramă spectaculoasă asupra bazinului Tapolca și a munților martori. Atmosfera boemă, combinată cu facilitățile moderne și gastronomia locală bazată pe vinurile din regiunea Badacsony, face din Révfülöp o destinație versatilă pentru turiștii care caută atât sport, cât și relaxare.", "en": "Révfülöp is a historic resort town and a vital transportation hub on the northern shore of Lake Balaton. Its name combines 'Rév' (ferry) and 'Fülöp' (Philip), highlighting its centuries-old role as a key crossing point to Balatonboglár on the southern shore. The village underwent rapid transformation in the late 19th and early 20th centuries during the Austro-Hungarian Dual Monarchy, resulting in a beautiful array of eclectic and Art Nouveau villas built from the signature local red sandstone. Today, Révfülöp is globally recognized as the starting point for the annual Lake Balaton Cross-Swimming competition, where thousands of athletes swim 5.2 kilometers across the lake. The village boasts two excellent beaches, a scenic lakeside promenade, and a vibrant harbor area. For those seeking views, the lookout tower on Fülöp Hill provides one of the most celebrated panoramas of the Balaton Uplands and its volcanic mountains. Révfülöp serves as an ideal gateway to the Káli Basin, offering a mix of water-based activities, hiking trails, and cultural events. Its combination of historic elegance, active sports life, and natural beauty makes it a perennial favorite for visitors seeking an authentic Balaton experience."}, "factsAdvanced": {"de": ["Wichtiger Fährhafen nach Balatonboglár.", "Startpunkt des jährlichen Balaton-Durchschwimmens (5,2 km).", "Zahlreiche Villen aus rotem Sandstein aus dem 19. Jahrhundert.", "Der Aussichtsturm auf dem Fülöp-Berg bietet weite Sicht.", "Liegt in der Weinregion Badacsony.", "Zentrum für Segelsport und Angeln am Nordufer."], "hu": ["A Balaton-átúszás hagyományos rajtállomása.", "Kikötőjéből menetrend szerinti járatok indulnak Balatonboglárra.", "A 19. századi vörös homokkő építészet egyik központja.", "Két nagy strandja van: a Szigeti és a Császtai strand.", "Nevének első része a rév (átkelőhely) szóból származik.", "A Fülöp-hegyi kilátó 2001-ben épült millenniumi emlékmű."], "ro": ["Punct de plecare pentru traversarea înot a lacului Balaton.", "Portul oferă curse regulate de feribot spre Balatonboglár.", "Multe clădiri istorice sunt construite din gresie roșie locală.", "Deține două plaje mari foarte populare: Szigeti și Császtai.", "Dealul Fülöp oferă o panoramă completă asupra lacului.", "Găzduiește anual festivaluri de vin și seri de muzică în port."], "en": ["Key ferry port connecting the northern and southern shores.", "The starting line of the 5.2 km Balaton Cross-Swimming race.", "Features many elegant 19th-century red sandstone villas.", "Home to the Millennium Lookout on Fülöp Hill.", "Offers a direct train connection to Budapest.", "A gateway village to the Káli Basin nature area."]}, "faq": {"de": [{"q": "Wie oft fahren die Fähren nach Balatonboglár?", "a": "In der Hauptsaison fahren die Schiffe stündlich."}, {"q": "Wo beginnt das Balaton-Durchschwimmen?", "a": "Der Start ist am Strand von Révfülöp."}, {"q": "Ist der Aussichtsturm auf dem Fülöp-Berg zu Fuß erreichbar?", "a": "Ja, es ist ein angenehmer etwa 30-minütiger Spaziergang vom Zentrum."}, {"q": "Gibt es Campingplätze in Révfülöp?", "a": "Ja, es gibt mehrere gut ausgestattete Campingplätze direkt am Wasser."}], "hu": [{"q": "Mikor indulnak a hajók Balatonboglárra?", "a": "A főszezonban óránként járnak a személyhajók és a menetrendi járatok."}, {"q": "Melyik a jobb strand Révfülöpön?", "a": "A Szigeti strand központibb, a Császtai strand tágasabb és több a sportpálya."}, {"q": "Milyen messze van a kilátó a kikötőtől?", "a": "Körülbelül 1,5 - 2 kilométeres, emelkedő sétával érhető el."}, {"q": "Lehet-e horgászni a kikötőben?", "a": "A móló kijelölt részein engedéllyel szabad horgászni."}], "ro": [{"q": "Cât durează traversarea cu feribotul spre Balatonboglár?", "a": "Călătoria durează aproximativ 25-30 de minute cu vasul de pasageri."}, {"q": "Este greu de urcat la turnul de observație?", "a": "Este o urcare moderată, accesibilă majorității turiștilor pe jos."}, {"q": "Se poate înota în port?", "a": "Nu, înotul este permis doar pe cele două plaje amenajate."}, {"q": "Ce fel de vinuri găsim în Révfülöp?", "a": "Sunt populare vinurile albe din zona Badacsony, servite în terasele din port."}], "en": [{"q": "When does the Balaton Cross-Swimming take place?", "a": "Usually on a Saturday in late July or early August, depending on weather."}, {"q": "Can I reach the village by train?", "a": "Yes, Révfülöp has a central railway station on the Budapest-Tapolca line."}, {"q": "Is the ferry only for passengers?", "a": "From Révfülöp, mostly passenger ships operate; the car ferry is at Tihany-Szántód."}, {"q": "Are there any medieval sites in the village?", "a": "The ruins of the Fülöp church (Fülöpi templomrom) are located near the train station."}]}, "sights": {
+      "de": [
+            {
+                  "name": "Révfülöp Hafen",
+                  "text": "Ein belebter Hafen mit Schiffverbindungen und einer schönen Promenade.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.634149,
+                        46.826801
+                  ]
+            },
+            {
+                  "name": "Szigeti Strand",
+                  "text": "Zentral in Révfülöp gelegen, ist der Szigeti Strand ein äußerst beliebtes Ausflugsziel, das besonders für seine vielen Schattenbäume geschätzt wird. Das Ambiente vereint hier lokale Lebendigkeit mit dem kühlen Komfort des dichten Blätterdachs, was ihn ideal für längere Aufenthalte am Wasser macht. Die schattigen Plätze bieten den perfekten Rückzugsort während der heißesten Stunden eines Sommertages.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.633641,
+                        46.827145
+                  ]
+            },
+            {
+                  "name": "Ecséri templomrom",
+                  "text": "Die Ruinen der Kirche von Ecsér, eine historische Sehenswürdigkeit in Révfülöp.",
+                  "category": "landmark",
+                  "coords": [
+                        17.607799,
+                        46.831328
+                  ]
+            },
+            {
+                  "name": "Fülöphegyi kilátó",
+                  "text": "Ein beliebter Aussichtspunkt auf dem Fülöp-Berg mit Panoramablick über Révfülöp.",
+                  "category": "natural",
+                  "coords": [
+                        17.621278,
+                        46.835924
+                  ]
+            },
+            {
+                  "name": "Pincekiállítás",
+                  "text": "Eine lokale Kellerausstellung, die als Museum in Révfülöp dient.",
+                  "category": "museum",
+                  "coords": [
+                        17.626658,
+                        46.829296
+                  ]
+            },
+            {
+                  "name": "Kőtenger Ásvány és Ősmaradvány Múzeum",
+                  "text": "Ein Museum in Révfülöp, das Mineralien und antiken Fossilien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.603408,
+                        46.84545
+                  ]
+            },
+            {
+                  "name": "Fülöpfalui templomrom",
+                  "text": "Die historischen Ruinen der alten Dorfkirche in Révfülöp.",
+                  "category": "historical",
+                  "coords": [
+                        17.633916,
+                        46.829328
+                  ]
+            },
+            {
+                  "name": "Csónakház",
+                  "text": "Das Csónakház (Bootshaus) dient als Kunstzentrum in der Stadt Révfülöp.",
+                  "category": "cultural",
+                  "coords": [
+                        17.661074,
+                        46.849247
+                  ]
+            },
+            {
+                  "name": "Sebestyén-kastély",
+                  "text": "Das Anwesen Sebestyén ist ein historisches Herrenhaus in Révfülöp.",
+                  "category": "historical",
+                  "coords": [
+                        17.645775,
+                        46.83975
+                  ]
+            },
+            {
+                  "name": "Révfülöpi Szabadtéri Színpad",
+                  "text": "Die Freilichtbühne in Révfülöp, auf der verschiedene Theatervorstellungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628592,
+                        46.826928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Révfülöp kikötője",
+                  "text": "Az északi part egyik legfontosabb hajóállomása, a Balaton-átúszás központja.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.634149,
+                        46.826801
+                  ]
+            },
+            {
+                  "name": "Szigeti strand",
+                  "text": "A Révfülöp központjában található Szigeti Strand egy rendkívül népszerű úti cél, amelyet a bőséges árnyékot adó fák miatt kedvelnek. A hangulat itt egyensúlyt teremt a helyi pezsgés és a lombkorona hűvös kényelme között, így kiválóan alkalmas hosszabb vízparti tartózkodásra is. Az árnyékos területek tökéletes menedéket nyújtanak a nyári napok legmelegebb óráiban.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.633641,
+                        46.827145
+                  ]
+            },
+            {
+                  "name": "Ecséri templomrom",
+                  "text": "Az ecséri templomrom, amely történelmi látványosság Révfülöpön.",
+                  "category": "landmark",
+                  "coords": [
+                        17.607799,
+                        46.831328
+                  ]
+            },
+            {
+                  "name": "Fülöphegyi kilátó",
+                  "text": "A Fülöp-hegyi kilátó, amely panorámás kilátást nyújt Révfülöpre.",
+                  "category": "natural",
+                  "coords": [
+                        17.621278,
+                        46.835924
+                  ]
+            },
+            {
+                  "name": "Pincekiállítás",
+                  "text": "Helyi pincekiállítás, amely múzeumként működik Révfülöpön.",
+                  "category": "museum",
+                  "coords": [
+                        17.626658,
+                        46.829296
+                  ]
+            },
+            {
+                  "name": "Kőtenger Ásvány és Ősmaradvány Múzeum",
+                  "text": "Ásványokat és ősmaradványokat bemutató múzeum Révfülöpön.",
+                  "category": "museum",
+                  "coords": [
+                        17.603408,
+                        46.84545
+                  ]
+            },
+            {
+                  "name": "Fülöpfalui templomrom",
+                  "text": "A régi fülöpfalui templom történelmi romjai Révfülöpön.",
+                  "category": "historical",
+                  "coords": [
+                        17.633916,
+                        46.829328
+                  ]
+            },
+            {
+                  "name": "Csónakház",
+                  "text": "A Csónakház egy kulturális és művészeti központ Révfülöpön.",
+                  "category": "cultural",
+                  "coords": [
+                        17.661074,
+                        46.849247
+                  ]
+            },
+            {
+                  "name": "Sebestyén-kastély",
+                  "text": "A Sebestyén-kastély egy történelmi kúria Révfülöp településén.",
+                  "category": "historical",
+                  "coords": [
+                        17.645775,
+                        46.83975
+                  ]
+            },
+            {
+                  "name": "Révfülöpi Szabadtéri Színpad",
+                  "text": "A révfülöpi szabadtéri színpad, amely színházi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628592,
+                        46.826928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portul Révfülöp",
+                  "text": "Un port vibrant cu feriboturi regulate, restaurante și o promenadă plină de viață.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.634149,
+                        46.826801
+                  ]
+            },
+            {
+                  "name": "Plaja Szigeti",
+                  "text": "Situată central în Révfülöp, Szigeti Strand este o destinație foarte populară, apreciată pentru abundența copacilor umbroși. Ambianta de aici echilibrează vibrația locală cu confortul răcoros al coronamentului frunzișului, fiind excelentă pentru șederi prelungite lângă apă. Zonele umbrite oferă un refugiu perfect în timpul celor mai calde părți ale zilei de vară.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.633641,
+                        46.827145
+                  ]
+            },
+            {
+                  "name": "Ecséri templomrom",
+                  "text": "Ruinele bisericii Ecsér, o atracție istorică din Révfülöp.",
+                  "category": "landmark",
+                  "coords": [
+                        17.607799,
+                        46.831328
+                  ]
+            },
+            {
+                  "name": "Fülöphegyi kilátó",
+                  "text": "Un punct de belvedere popular pe dealul Fülöp, oferind vederi panoramice asupra orașului Révfülöp.",
+                  "category": "natural",
+                  "coords": [
+                        17.621278,
+                        46.835924
+                  ]
+            },
+            {
+                  "name": "Pincekiállítás",
+                  "text": "O expoziție locală într-o pivniță, care funcționează ca muzeu în Révfülöp.",
+                  "category": "museum",
+                  "coords": [
+                        17.626658,
+                        46.829296
+                  ]
+            },
+            {
+                  "name": "Kőtenger Ásvány és Ősmaradvány Múzeum",
+                  "text": "Un muzeu din Révfülöp dedicat mineralelor și fosilelor antice.",
+                  "category": "museum",
+                  "coords": [
+                        17.603408,
+                        46.84545
+                  ]
+            },
+            {
+                  "name": "Fülöpfalui templomrom",
+                  "text": "Ruinele istorice ale vechii biserici a satului, situate în Révfülöp.",
+                  "category": "historical",
+                  "coords": [
+                        17.633916,
+                        46.829328
+                  ]
+            },
+            {
+                  "name": "Csónakház",
+                  "text": "Csónakház (Casa bărcilor) funcționează ca un centru de arte în orașul Révfülöp.",
+                  "category": "cultural",
+                  "coords": [
+                        17.661074,
+                        46.849247
+                  ]
+            },
+            {
+                  "name": "Sebestyén-kastély",
+                  "text": "Conacul Sebestyén este un conac istoric situat în Révfülöp.",
+                  "category": "historical",
+                  "coords": [
+                        17.645775,
+                        46.83975
+                  ]
+            },
+            {
+                  "name": "Révfülöpi Szabadtéri Színpad",
+                  "text": "Scena în aer liber din Révfülöp, care găzduiește diverse spectacole teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628592,
+                        46.826928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Révfülöp Harbor",
+                  "text": "A central nautical hub with regular ferry services and a picturesque pier area.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "source_hint": "wiki",
+                  "coords": [
+                        17.634149,
+                        46.826801
+                  ]
+            },
+            {
+                  "name": "Szigeti Beach",
+                  "text": "Situated centrally in Révfülöp, Szigeti Strand is a highly popular destination favored for its abundant shade trees. The ambiance here balances local vibrancy with the cool comfort of the leafy canopy, making it great for extended stays near the water. The shaded areas provide a perfect refuge during the warmest parts of the summer day.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "source_hint": "known",
+                  "coords": [
+                        17.633641,
+                        46.827145
+                  ]
+            },
+            {
+                  "name": "Ecséri templomrom",
+                  "text": "The ruins of the Ecsér church, serving as a historical attraction in Révfülöp.",
+                  "category": "landmark",
+                  "coords": [
+                        17.607799,
+                        46.831328
+                  ]
+            },
+            {
+                  "name": "Fülöphegyi kilátó",
+                  "text": "A popular viewpoint on Fülöp Hill offering scenic views over Révfülöp.",
+                  "category": "natural",
+                  "coords": [
+                        17.621278,
+                        46.835924
+                  ]
+            },
+            {
+                  "name": "Pincekiállítás",
+                  "text": "A local cellar exhibition functioning as a museum in Révfülöp.",
+                  "category": "museum",
+                  "coords": [
+                        17.626658,
+                        46.829296
+                  ]
+            },
+            {
+                  "name": "Kőtenger Ásvány és Ősmaradvány Múzeum",
+                  "text": "A museum in Révfülöp dedicated to minerals and ancient fossils.",
+                  "category": "museum",
+                  "coords": [
+                        17.603408,
+                        46.84545
+                  ]
+            },
+            {
+                  "name": "Fülöpfalui templomrom",
+                  "text": "The historic ruins of the old village church located in Révfülöp.",
+                  "category": "historical",
+                  "coords": [
+                        17.633916,
+                        46.829328
+                  ]
+            },
+            {
+                  "name": "Csónakház",
+                  "text": "The Csónakház (Boathouse) serves as an arts centre in the town of Révfülöp.",
+                  "category": "cultural",
+                  "coords": [
+                        17.661074,
+                        46.849247
+                  ]
+            },
+            {
+                  "name": "Sebestyén-kastély",
+                  "text": "The Sebestyén mansion is an historic manor located in Révfülöp.",
+                  "category": "historical",
+                  "coords": [
+                        17.645775,
+                        46.83975
+                  ]
+            },
+            {
+                  "name": "Révfülöpi Szabadtéri Színpad",
+                  "text": "The open-air stage in Révfülöp hosting various theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628592,
+                        46.826928
+                  ]
+            }
+      ]
+}, "nearbySights": {"de": [{"name": "Káli-Becken", "text": "Geschützte Naturregion mit vulkanischen Bergen.", "distance": "5 km", "category": "natural"}, {"name": "Badacsony", "text": "Berühmter Weinberg mit Weinstuben und Aussicht.", "distance": "14 km", "category": "natural"}], "hu": [{"name": "Káli-medence", "text": "A Balaton-felvidék egyik legszebb tájegysége.", "distance": "5 km", "category": "natural"}, {"name": "Badacsony-hegy", "text": "Ikonikus bazalthegy kitűnő borokkal és túrautakkal.", "distance": "14 km", "category": "natural"}], "ro": [{"name": "Bazinul Káli", "text": "O regiune protejată renumită pentru geologie și liniște.", "distance": "5 km", "category": "natural"}, {"name": "Muntele Badacsony", "text": "Cea mai faimoasă zonă viticolă de pe malul nordic.", "distance": "14 km", "category": "natural"}], "en": [{"name": "Káli Basin", "text": "A beautiful inland basin known for its tranquility and nature.", "distance": "5 km", "category": "natural"}, {"name": "Badacsony Hill", "text": "A volcanic giant famous for its vineyards and spectacular panoramas.", "distance": "14 km", "category": "natural"}]}, "parent": "veszprem"},
   {"id": "rudabanya", "type": "town", "coords": [20.6211, 48.3844], "population": 2300, "name": {"de": "Rudabánya", "hu": "Rudabánya", "ro": "Rudabánya", "en": "Rudabánya"}, "descriptionAdvanced": {"de": "Rudabánya ist eine Kleinstadt im Norden Ungarns, die für ihre außergewöhnliche geologische und paläontologische Bedeutung weltberühmt ist. Die Stadt blickt auf eine jahrhundertelange Bergbautradition zurück, in der vor allem Eisenerz abgebaut wurde. Eine der spektakulärsten Folgen dieses Bergbaus ist der Rudabánya-See, ein künstlicher See in einem ehemaligen Tagebau, der mit seiner türkisen Farbe und einer Tiefe von bis zu 60 Metern beeindruckt. Er gilt als einer der tiefsten und schönsten Standgewässer Ungarns. Noch bedeutender für die Wissenschaft ist jedoch der Fund des 'Rudapithecus hungaricus' im Jahr 1967 – ein etwa 10 Millionen Jahre alter Urahn der Menschen und Menschenaffen. Diese Entdeckung machte Rudabánya zu einem globalen Fixpunkt der Evolutionsforschung. Das lokale Bergbaumuseum und der paläontologische Schaupark bieten tiefe Einblicke in die Erdgeschichte und die technische Vergangenheit der Region. Die Architektur der Stadt spiegelt die Blütezeit des Bergbaus im 20. Jahrhundert wider, während die mittelalterliche reformierte Kirche mit ihrer bemalten Decke auf die weit zurückreichenden Wurzeln der Siedlung hinweist. Rudabánya ist heute ein faszinierender Ort, der Industriegeschichte, prähistorische Sensationen und atemberaubende Naturwunder miteinander verbindet.", "hu": "Rudabánya Borsod-Abaúj-Zemplén vármegye egyik legkülönlegesebb múltú települése, amely az évszázados bányászatnak és egy világhírű őslénytani felfedezésnek köszönheti hírnevét. A kisváros az ország egyik legfontosabb vasérclelőhelye volt, a bányászat leállása után pedig egy különleges természeti képződmény, a Rudabányai-tó jött létre az egykori külszíni fejtés helyén. A tó türkizkék vize és a környező vöröses sziklák drámai látványt nyújtanak, 60 méteres mélységével pedig Magyarország legmélyebb állóvizeként tartják számon. A település tudományos világhíre 1967-re nyúlik vissza, amikor itt találták meg a Rudapithecus hungaricus névre keresztelt, 10 millió éves emberelőd maradványait, ami alapjaiban változtatta meg az emberi evolúcióról alkotott képünket. A városban működő Bányászati Múzeum és az Ősállat-park interaktív módon mutatja be a földtörténeti és ipari örökséget. Rudabánya középkori református temploma a település ősi gyökereiről tanúskodik, különleges belső díszítésével a környék építészeti gyöngyszeme. A látogatók számára a bányató misztikus látványa és a 10 millió éves történelem felfedezése felejthetetlen élményt kínál az Aggteleki-karszt szomszédságában.", "ro": "Rudabánya este un oraș din nordul Ungariei, celebru la nivel mondial pentru importanța sa geologică și paleontologică excepțională. Localitatea are o tradiție minieră multiseculară, fiind unul dintre principalele centre de extracție a minereului de fier din regiune. Închiderea minelor a dus la formarea Lacului Rudabánya, o întindere de apă de o culoare turcoaz ireală situată într-o fostă carieră de suprafață. Cu o adâncime ce atinge 60 de metri, acesta este considerat cel mai adânc lac din Ungaria, oferind un peisaj spectaculos ce amintește de canioanele americane. În anul 1967, Rudabánya a intrat în atenția comunității științifice globale după descoperirea fosilelor 'Rudapithecus hungaricus', o primată hominidă veche de 10 milioane de ani, considerată un strămoș îndepărtat al omului. Muzeul Mineritului și parcul paleontologic local oferă vizitatorilor o incursiune fascinantă în istoria pământului și în trecutul industrial al orașului. Patrimoniul arhitectural include o biserică reformată medievală cu un interior pictat valoros. Astăzi, Rudabánya atrage deopotrivă cercetători, turiști pasionați de fotografie și iubitori de natură, oferind o combinație unică între patrimoniul industrial, descoperiri preistorice de senzație și frumusețea sălbatică a peisajului post-industrial.", "en": "Rudabánya is a small town in Northern Hungary that boasts extraordinary geological and paleontological significance. Historically one of the country's major iron ore mining centers, its legacy took a dramatic turn after the mines closed, leading to the formation of Lake Rudabánya. This turquoise-colored lake, nestled in a former open-cast mine, reaches a depth of 60 meters, making it the deepest standing body of water in Hungary and a breathtaking natural site. Scientifically, Rudabánya gained worldwide fame in 1967 with the discovery of 'Rudapithecus hungaricus,' a 10-million-year-old primate fossil that is a crucial link in human and ape evolution. This find turned the town into a global hub for evolutionary research. The local Mining Museum and the Paleontological Park allow visitors to explore these prehistoric finds and learn about the arduous life of miners in past centuries. The town's historic Reformed Church, dating back to the Middle Ages and featuring a unique painted ceiling, serves as a reminder of the settlement's deep historical roots. Rudabánya offers a unique experience where industrial heritage, prehistoric sensations, and a stunning turquoise lake converge, situated just south of the Aggtelek Karst region. It is a destination that captures the imagination of history buffs, nature lovers, and scientists alike."}, "factsAdvanced": {"de": ["Der Rudabánya-See ist mit 60 Metern der tiefste See Ungarns.", "Der Rudapithecus hungaricus ist etwa 10 Millionen Jahre alt.", "Rudabánya war bereits im 14. Jahrhundert eine bedeutende Bergstadt.", "Das Bergbaumuseum zeigt eine der größten Mineraliensammlungen des Landes.", "Die Farbe des Sees wechselt je nach Lichteinfall von Blau zu Smaragdgrün.", "Das Gelände des ehemaligen Tagebaus ist heute ein Naturschutzgebiet."], "hu": ["A Rudabányai-tó az ország legmélyebb állóvize (kb. 60 méter).", "Gábori Miklós és Kretzoi Miklós vezették az első sikeres őslénytani ásatásokat.", "A Rudapithecus maradványait egy 'Ruda' nevű lelőhelyen találták meg.", "A településen 1985-ben nyílt meg a bányászati múzeum.", "A vasércbányászat Rudabányán egészen 1985-ig tartott.", "A település református temploma 14. századi gótikus stílusú."], "ro": ["Lacul Rudabánya are o lungime de 300 de metri și o lățime medie de 80 de metri.", "Fosila Rudapithecus este considerată una dintre cele mai complete din lume.", "Biserica reformată păstrează o placă funerară din epoca fierului refolosită.", "Apele lacului sunt extrem de curate, dar scăldatul este strict interzis din cauza pericolului.", "Muzeul mineritului expune machete ale galeriilor subterane istorice.", "Regiunea face parte din geoparkul Novohrad-Nógrád."], "en": ["Lake Rudabánya was formed between 1985 and the early 1990s.", "Rudapithecus fossils were first identified by paleontologist Miklós Kretzoi.", "The town was granted Royal Mining City status in the Middle Ages.", "The mining museum contains over 5,000 mineral and rock samples.", "The lake's steep, unstable walls make the surrounding area dangerous for hikers.", "Excavations at the primate site are still ongoing and yield new finds regularly."]}, "faq": {"de": [{"q": "Kann man im Rudabánya-See schwimmen?", "a": "Nein, das Schwimmen ist aufgrund der extremen Tiefe und Erdrutschgefahr lebensgefährlich und verboten."}, {"q": "Wo kann man die Rudapithecus-Funde sehen?", "a": "Einige Funde sind im örtlichen Museum, die wichtigsten im Nationalmuseum in Budapest."}, {"q": "Ist der See leicht zugänglich?", "a": "Es gibt einen markierten Pfad, aber die steilen Hänge sind gesperrt."}, {"q": "Gibt es Führungen im Museum?", "a": "Ja, das Museum bietet fachkundige Führungen zur Bergbaugeschichte an."}], "hu": [{"q": "Szabad-e fürödni a tóban?", "a": "Szigorúan tilos és életveszélyes a hirtelen mélyülő víz és a suvadásveszély miatt."}, {"q": "Mikor van nyitva az Ősállat-park?", "a": "A park és a múzeum általában naponta nyitva tart, de télen érdemes egyeztetni."}, {"q": "Látogatható-e a lelőhely, ahol a majmot találták?", "a": "Igen, az Ősállat-park részeként megtekinthető a híres lelőhely."}, {"q": "Milyen messze van a tó a várostól?", "a": "A tó a város szélén, az egykori bányaterületen található, gyalogosan is elérhető."}], "ro": [{"q": "Este sigur să vizităm lacul cu copiii?", "a": "Da, dar copiii trebuie supravegheați strict pentru a nu se apropia de marginile abrupte."}, {"q": "Ce este Rudapithecus?", "a": "Este o specie de hominid preistoric, un strămoș al omului și al maimuțelor mari."}, {"q": "Există ghizi care vorbesc engleză?", "a": "În muzeu există materiale informative în engleză, ghidajul fiind în principal în maghiară."}, {"q": "Pot face poze la lac?", "a": "Da, zona este extrem de fotogenică și populară pentru peisajele sale."}], "en": [{"q": "Why is the water turquoise?", "a": "The color is due to the depth and the minerals (dissolved iron and others) in the water."}, {"q": "Are there any fish in the lake?", "a": "Yes, but due to the cold, deep water, the fish population is limited."}, {"q": "How long should a visit to the town take?", "a": "A typical visit to the museum and the lake takes about 3-4 hours."}, {"q": "Can I reach Rudabánya by train?", "a": "No, there is no direct train service; bus connections from Kazincbarcika or Miskolc are better."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Bányászmúzeum",
+                  "text": "Bergbaumuseum in Rudabánya, das das reiche industrielle Erbe der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        20.6239,
+                        48.37145
+                  ]
+            },
+            {
+                  "name": "Református templom",
+                  "text": "Die reformierte Kirche in Rudabánya ist ein wichtiges Gotteshaus und historisches Denkmal.",
+                  "category": "religious",
+                  "coords": [
+                        20.621087,
+                        48.381979
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Traditionelles Heimatmuseum in Rudabánya, das lokales Volkserbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.623371,
+                        48.379936
+                  ]
+            },
+            {
+                  "name": "Rudapithecus lelőhely",
+                  "text": "Archäologisches Museum und Fundstätte in Rudabánya, wo Überreste des Rudapithecus entdeckt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        20.644331,
+                        48.394521
+                  ]
+            },
+            {
+                  "name": "Tanösvény \"C\" kilátópont",
+                  "text": "Aussichtspunkt entlang des Lehrpfades in Rudabánya.",
+                  "category": "natural",
+                  "coords": [
+                        20.640767,
+                        48.395735
+                  ]
+            },
+            {
+                  "name": "Fotó pont",
+                  "text": "Ein ausgewiesener Foto-Aussichtspunkt in Rudabánya.",
+                  "category": "natural",
+                  "coords": [
+                        20.63508,
+                        48.390518
+                  ]
+            },
+            {
+                  "name": "Rudapithecus Látogatóközpont",
+                  "text": "Besucherzentrum und Museum in Rudabánya, das dem prähistorischen Rudapithecus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.616826,
+                        48.372422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bányászmúzeum",
+                  "text": "A rudabányai Bányászattörténeti Múzeum a környék gazdag ipari örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        20.6239,
+                        48.37145
+                  ]
+            },
+            {
+                  "name": "Református templom",
+                  "text": "A rudabányai református templom jelentős műemlék és hitéleti központ.",
+                  "category": "religious",
+                  "coords": [
+                        20.621087,
+                        48.381979
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A helyi népi örökséget bemutató tájház Rudabányán.",
+                  "category": "museum",
+                  "coords": [
+                        20.623371,
+                        48.379936
+                  ]
+            },
+            {
+                  "name": "Rudapithecus lelőhely",
+                  "text": "Régészeti múzeum és lelőhely Rudabányán, a Rudapithecus ősmajom felfedezésének helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        20.644331,
+                        48.394521
+                  ]
+            },
+            {
+                  "name": "Tanösvény \"C\" kilátópont",
+                  "text": "Kilátópont a rudabányai tanösvény mentén.",
+                  "category": "natural",
+                  "coords": [
+                        20.640767,
+                        48.395735
+                  ]
+            },
+            {
+                  "name": "Fotó pont",
+                  "text": "Kijelölt fotópont és kilátóhely Rudabányán.",
+                  "category": "natural",
+                  "coords": [
+                        20.63508,
+                        48.390518
+                  ]
+            },
+            {
+                  "name": "Rudapithecus Látogatóközpont",
+                  "text": "A történelem előtti Rudapithecusnak szentelt látogatóközpont és múzeum Rudabányán.",
+                  "category": "museum",
+                  "coords": [
+                        20.616826,
+                        48.372422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bányászmúzeum",
+                  "text": "Muzeul de Istorie a Mineritului din Rudabánya, care păstrează bogatul patrimoniu industrial al zonei.",
+                  "category": "museum",
+                  "coords": [
+                        20.6239,
+                        48.37145
+                  ]
+            },
+            {
+                  "name": "Református templom",
+                  "text": "Biserica reformată din Rudabánya este un lăcaș de cult important și un monument istoric notabil.",
+                  "category": "religious",
+                  "coords": [
+                        20.621087,
+                        48.381979
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Muzeu tradițional al satului care prezintă patrimoniul folcloric local în Rudabánya.",
+                  "category": "museum",
+                  "coords": [
+                        20.623371,
+                        48.379936
+                  ]
+            },
+            {
+                  "name": "Rudapithecus lelőhely",
+                  "text": "Muzeu și sit arheologic în Rudabánya, care prezintă rămășițele primatului Rudapithecus.",
+                  "category": "museum",
+                  "coords": [
+                        20.644331,
+                        48.394521
+                  ]
+            },
+            {
+                  "name": "Tanösvény \"C\" kilátópont",
+                  "text": "Punct de belvedere de-a lungul traseului educațional din Rudabánya.",
+                  "category": "natural",
+                  "coords": [
+                        20.640767,
+                        48.395735
+                  ]
+            },
+            {
+                  "name": "Fotó pont",
+                  "text": "Un punct de observație special amenajat pentru fotografii în Rudabánya.",
+                  "category": "natural",
+                  "coords": [
+                        20.63508,
+                        48.390518
+                  ]
+            },
+            {
+                  "name": "Rudapithecus Látogatóközpont",
+                  "text": "Centru de vizitatori și muzeu în Rudabánya dedicat primatului preistoric Rudapithecus.",
+                  "category": "museum",
+                  "coords": [
+                        20.616826,
+                        48.372422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bányászmúzeum",
+                  "text": "Mining History Museum in Rudabánya, preserving the rich industrial heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        20.6239,
+                        48.37145
+                  ]
+            },
+            {
+                  "name": "Református templom",
+                  "text": "The Reformed church in Rudabánya is an important place of worship and a notable historical monument.",
+                  "category": "religious",
+                  "coords": [
+                        20.621087,
+                        48.381979
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Traditional country house museum presenting local folk heritage in Rudabánya.",
+                  "category": "museum",
+                  "coords": [
+                        20.623371,
+                        48.379936
+                  ]
+            },
+            {
+                  "name": "Rudapithecus lelőhely",
+                  "text": "Archaeological museum and site in Rudabánya showcasing the Rudapithecus primate remains.",
+                  "category": "museum",
+                  "coords": [
+                        20.644331,
+                        48.394521
+                  ]
+            },
+            {
+                  "name": "Tanösvény \"C\" kilátópont",
+                  "text": "Viewpoint along the educational trail in Rudabánya.",
+                  "category": "natural",
+                  "coords": [
+                        20.640767,
+                        48.395735
+                  ]
+            },
+            {
+                  "name": "Fotó pont",
+                  "text": "A designated photo viewpoint in Rudabánya.",
+                  "category": "natural",
+                  "coords": [
+                        20.63508,
+                        48.390518
+                  ]
+            },
+            {
+                  "name": "Rudapithecus Látogatóközpont",
+                  "text": "Visitor center and museum in Rudabánya dedicated to the prehistoric Rudapithecus.",
+                  "category": "museum",
+                  "coords": [
+                        20.616826,
+                        48.372422
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Schloss Edelény", "text": "Ein prachtvolles Barockschloss mit einzigartigen Wandmalereien.", "distance": "15 km", "category": "historical"}, {"name": "Aggtelek-Höhle", "text": "Weltbekanntes Höhlensystem und Nationalpark.", "distance": "30 km", "category": "natural"}], "hu": [{"name": "Edelényi L’Huillier-Coburg-kastély", "text": "Magyarország egyik legjelentősebb barokk kastélya, hatalmas angolparkkal.", "distance": "15 km", "category": "historical"}, {"name": "Aggteleki Baradla-barlang", "text": "Világörökségi barlangrendszer és nemzeti park.", "distance": "30 km", "category": "natural"}], "ro": [{"name": "Castelul din Edelény", "text": "Un superb edificiu baroc cu fresce spectaculoase și parc dendrologic.", "distance": "15 km", "category": "historical"}, {"name": "Peștera Aggtelek", "text": "Monument natural UNESCO, renumit pentru formațiunile sale calcaroase.", "distance": "30 km", "category": "natural"}], "en": [{"name": "Edelény Palace", "text": "A massive Baroque palace featuring unique interior paintings and gardens.", "distance": "15 km", "category": "historical"}, {"name": "Aggtelek Caves", "text": "A world-renowned cave system and UNESCO World Heritage site.", "distance": "30 km", "category": "natural"}]}, "parent": "borsod-abauj-zemplen"},
   {"id": "salfold", "type": "village", "coords": [17.5487, 46.8375], "population": 72, "name": {"de": "Salföld", "hu": "Salföld", "ro": "Salföld", "en": "Salföld"}, "descriptionAdvanced": {"de": "Salföld ist ein außergewöhnliches Architekturjuwel im Herzen des Káli-Beckens, das zum Nationalpark Balaton-Oberland gehört. Das Dorf hat sein ursprüngliches Siedlungsbild aus dem 18. und 19. Jahrhundert fast vollständig bewahrt, weshalb es heute unter Denkmalschutz steht. Die weiß getünchten Bauernhäuser mit ihren charakteristischen Giebeln und Steinmauern ziehen Liebhaber der traditionellen ländlichen Kultur an. In der Umgebung finden sich bedeutende geologische Formationen, darunter die Reste der Basaltlava-Aktivität und die berühmten Sanddünen der Region. Besonders hervorzuheben ist das örtliche Gutshof-Zentrum (Majorság), wo einheimische ungarische Haustierrassen wie das Zackelschaf und das Graurind in ihrer natürlichen Umgebung bewundert werden können. Die Geschichte des Ortes reicht bis in die Römerzeit zurück, was durch zahlreiche archäologische Funde in der Gemarkung belegt ist. Heute fungiert Salföld als kulturelles Zentrum der Region, in dem Ausstellungen, Kunsthandwerksmärkte und Reiterveranstaltungen stattfinden, die die Identität des Balaton-Oberlandes stärken.", "hu": "Salföld a Káli-medence délnyugati kapuja, Veszprém vármegye egyik legvonzóbb és legjobban megőrzött műemléki települése. A falu szerkezete és építészeti öröksége hűen tükrözi a 18-19. századi Balaton-felvidéki paraszti kultúrát; a fehérre meszelt, nádfedeles és kőkeretes házak egységes utcaképet alkotnak. A település határában található a Nemzeti Park által fenntartott Salföldi Majorság, amely génmegőrző központként mutatja be az őshonos magyar állatfajokat, például a rackajuhot, a bivalyt és a szürkemarhát. A történelem kedvelői számára a közeli erdőben rejtőző pálos kolostorrom nyújt felejthetetlen látványt, amely a 13. században épült, és a magyar alapítású szerzetesrend egyik legfontosabb vidéki központja volt. A falu határában húzódó homokbánya és a környező bazaltkő-formációk a vidék izgalmas geológiai múltjáról tanúskodnak. Salföld ma nemcsak turisztikai célpont, hanem az értelmiség és a művészek kedvelt pihenőhelye is, ahol a nyugalom és a természet közelsége inspirálja az ide látogatókat és a helyben élőket egyaránt.", "ro": "Salföld este o localitate pitorească situată în bazinul Káli din regiunea Transdanubia, fiind renumită pentru conservarea patrimoniului arhitectural rural maghiar. Satul este considerat un monument în aer liber, unde structura originală a străzilor și fațadele caselor din piatră de var au fost păstrate cu strictețe. Economia locală s-a transformat dintr-una pur agricolă într-una bazată pe turism ecologic și cultural, menținând totodată tradițiile creșterii animalelor indigene în cadrul Fermei Salföld. Vizitatorii pot explora ruinele mănăstirii pauline din secolul al XIII-lea, situată în pădurea învecinată, un sit istoric care reflectă spiritualitatea medievală a regiunii. Geografic, zona este marcată de trecerea de la bazaltul vulcanic la depozitele de nisip cuarțos, oferind un peisaj diversificat propice drumețiilor. Importanța culturală a satului este subliniată de numeroasele galerii de artă și ateliere meșteșugărești care s-au stabilit aici în ultimele decenii, transformând Salföld într-un punct nodal pentru cei care caută o experiență autentică în apropierea lacului Balaton, departe de agitația stațiunilor comerciale.", "en": "Salföld is a masterfully preserved heritage village located within the Káli Basin, often referred to as the 'Hungarian Tuscany' due to its Mediterranean-like microclimate and scenic rolling hills. The village is an architectural treasure, featuring traditional houses built from local limestone with ornate gables and porches that follow the strict 19th-century stylistic canons of the Balaton Uplands. A key attraction is the Salföld Manor, an educational farm managed by the National Park that serves as a sanctuary for ancient Hungarian livestock breeds, including mangalica pigs and nonius horses. Historically, the area was a significant site for the Order of Saint Paul the First Hermit, whose 13th-century monastery ruins remain hidden in the dense woods nearby, offering a mystical glimpse into medieval monastic life. The village's geology is equally fascinating, characterized by post-volcanic basalt formations and white sand fields. Today, Salföld has evolved into a sophisticated cultural hub, attracting intellectuals and artists who organize high-quality exhibitions and equestrian shows, making it a premier destination for slow tourism and ecological education in Western Hungary."}, "factsAdvanced": {"de": ["Salföld wurde erstmals im Jahr 1307 urkundlich unter dem Namen Salsfölde erwähnt.", "Der Ort liegt auf einer durchschnittlichen Höhe von 155 Metern über dem Meeresspiegel.", "Die Ruinen des Paulinerklosters stammen aus der Regierungszeit von König Béla IV.", "Das Salfölder Gut (Majorság) beherbergt über 10 verschiedene indigene Nutztierrassen.", "Die Siedlungsfläche umfasst insgesamt etwa 8,84 Quadratkilometer Land.", "In den 1970er Jahren wurde das Dorf aufgrund seiner Architektur unter Ensembleschutz gestellt."], "hu": ["A falu első írásos említése 1307-ből származik, Salsfölde néven.", "A salföldi pálos kolostort az 1260-as években alapította az Atyusz nemzetség.", "A település tengerszint feletti magassága átlagosan 155 méter.", "A Salföldi Majorság területe több mint 5 hektáron mutatja be az élővilágot.", "A község teljes közigazgatási területe 884 hektárt tesz ki.", "A falu lakossága a 20. század közepén még meghaladta a 300 főt."], "ro": ["Prima mențiune documentară a satului datează din anul 1307 sub numele Salsfölde.", "Altitudinea medie a localității este de aproximativ 155 de metri deasupra mării.", "Mănăstirea paulină Sfânta Maria a fost fondată în jurul anului 1263.", "Ferma Salföld (Majorság) face parte integrantă din Parcul Național Balaton-Felvidék.", "Suprafața totală a unității administrative este de 8,84 kilometri pătrați.", "Satul se află la o distanță de aproximativ 15 km de malul lacului Balaton."], "en": ["The first written record of the village dates back to 1307 as 'Salsfölde'.", "The Pauline monastery ruins are located approximately 1 km south of the village.", "Salföld sits at an average elevation of 155 meters (509 feet) above sea level.", "The village territory covers a total area of 8.84 square kilometers.", "Salföld was one of the first Hungarian villages to receive strict heritage protection.", "The Salföld Manor was established as a genetic bank for indigenous breeds in 1997."]}, "faq": {"de": [{"q": "Gibt es im Dorf Übernachtungsmöglichkeiten?", "a": "Ja, mehrere Bauernhäuser fungieren als Gästehäuser im Stil des Dorftourismus."}, {"q": "Kann man die Majorság das ganze Jahr über besuchen?", "a": "Die Majorság ist saisonal geöffnet, meist von Frühling bis Spätherbst."}, {"q": "Ist das Paulinerkloster mit dem Auto erreichbar?", "a": "Nein, es ist nur über einen Waldwanderweg zu Fuß oder mit dem Fahrrad erreichbar."}, {"q": "Gibt es in Salföld ein Restaurant?", "a": "Es gibt kleine Buffets und saisonale Gaststätten, die lokale Spezialitäten anbieten."}], "hu": [{"q": "Lehet-e lovagolni a településen?", "a": "Igen, a Majorságban és a környékbeli lovasudvarokban rendszeresek a lovas programok."}, {"q": "Milyen messze van Salföld a Balatontól?", "a": "A legközelebbi strand Ábrahámhegyen található, körülbelül 5-6 kilométerre."}, {"q": "Látogatható-e a pálos kolostorrom ingyenesen?", "a": "Igen, a romok szabadon és ingyenesen látogathatók az erdőben."}, {"q": "Van-e élelmiszerbolt a faluban?", "a": "A faluban csak korlátozott vásárlási lehetőség van, érdemes a környező nagyobb falvakban vásárolni."}], "ro": [{"q": "Se pot vedea animale la ferma din sat?", "a": "Da, Ferma Salföld prezintă bivoli, oi racka și alte specii tradiționale maghiare."}, {"q": "Există trasee de drumeție marcate?", "a": "Da, satul este un punct important pe traseele turistice din bazinul Káli."}, {"q": "Este permis accesul cu câini în Majorság?", "a": "Accesul este permis doar în condiții stricte, fiind o zonă cu animale domestice."}, {"q": "Cât timp durează vizitarea ruinelor mănăstirii?", "a": "Plimbarea dus-întors și vizitarea ruinelor durează aproximativ 60-90 de minute."}], "en": [{"q": "Can I buy local products in Salföld?", "a": "Yes, local cheeses, wines, and handicrafts are often available at the Manor or local houses."}, {"q": "Is the village accessible by public transport?", "a": "Yes, there are bus connections from Tapolca and Ábrahámhegy, but they are infrequent."}, {"q": "What is the best time to visit Salföld?", "a": "Late spring and early autumn offer the best weather for exploring the nature trails."}, {"q": "Are there guided tours in the Pauline monastery?", "a": "Usually no, but there are informative plaques explaining the history of the ruins."}]}, "sights": {
       "de": [
@@ -3453,6 +12412,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.550099,
                         46.838354
+                  ]
+            },
+            {
+                  "name": "Bökk-hegyi kilátó",
+                  "text": "Der Aussichtspunkt Bökk-hegy bietet weite Ausblicke über Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.565556,
+                        46.813469
+                  ]
+            },
+            {
+                  "name": "Csönge-hegyi kilátó",
+                  "text": "Der Aussichtspunkt Csönge-hegy liegt bei Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.545993,
+                        46.832758
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Das Tájház ist ein Museum im Dorf Salföld.",
+                  "category": "museum",
+                  "coords": [
+                        17.557069,
+                        46.848205
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Dieses streng geschützte Naturschutzgebiet befindet sich in Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.540487,
+                        46.818555
                   ]
             }
       ],
@@ -3474,6 +12469,42 @@ export const poiExtraHuV4: POI[] = [
                         17.550099,
                         46.838354
                   ]
+            },
+            {
+                  "name": "Bökk-hegyi kilátó",
+                  "text": "A Bökk-hegyi kilátó gyönyörű panorámát kínál Salföld környékére.",
+                  "category": "natural",
+                  "coords": [
+                        17.565556,
+                        46.813469
+                  ]
+            },
+            {
+                  "name": "Csönge-hegyi kilátó",
+                  "text": "A Csönge-hegyi kilátó egy természetes kilátópont Salföld közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.545993,
+                        46.832758
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A Tájház egy múzeum Salföld településén.",
+                  "category": "museum",
+                  "coords": [
+                        17.557069,
+                        46.848205
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Ez a fokozottan védett természetvédelmi terület Salföldön található.",
+                  "category": "natural",
+                  "coords": [
+                        17.540487,
+                        46.818555
+                  ]
             }
       ],
       "ro": [
@@ -3487,6 +12518,42 @@ export const poiExtraHuV4: POI[] = [
                         17.550099,
                         46.838354
                   ]
+            },
+            {
+                  "name": "Bökk-hegyi kilátó",
+                  "text": "Punctul de belvedere Bökk-hegy oferă o priveliște panoramică asupra orașului Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.565556,
+                        46.813469
+                  ]
+            },
+            {
+                  "name": "Csönge-hegyi kilátó",
+                  "text": "Punctul de belvedere Csönge-hegy este situat în Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.545993,
+                        46.832758
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Tájház este un muzeu situat în satul Salföld.",
+                  "category": "museum",
+                  "coords": [
+                        17.557069,
+                        46.848205
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Această rezervație naturală strict protejată este situată în Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.540487,
+                        46.818555
+                  ]
             }
       ],
       "en": [
@@ -3499,6 +12566,42 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.550099,
                         46.838354
+                  ]
+            },
+            {
+                  "name": "Bökk-hegyi kilátó",
+                  "text": "The Bökk-hegy viewpoint offers panoramic views over Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.565556,
+                        46.813469
+                  ]
+            },
+            {
+                  "name": "Csönge-hegyi kilátó",
+                  "text": "The Csönge-hegy viewpoint is located near Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.545993,
+                        46.832758
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "The Tájház is a museum located in the village of Salföld.",
+                  "category": "museum",
+                  "coords": [
+                        17.557069,
+                        46.848205
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "This highly protected nature reserve is situated in Salföld.",
+                  "category": "natural",
+                  "coords": [
+                        17.540487,
+                        46.818555
                   ]
             }
       ]
@@ -3529,6 +12632,24 @@ export const poiExtraHuV4: POI[] = [
                   "category": "natural",
                   "confidence": "medium",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Látogatóközpont",
+                  "text": "Látogatóközpont és múzeum Sarródon.",
+                  "category": "museum",
+                  "coords": [
+                        16.851256,
+                        47.667207
+                  ]
+            },
+            {
+                  "name": "Bemutató majorság",
+                  "text": "Egy bemutató majorság és állatkiállítás Sarródon.",
+                  "category": "recreational",
+                  "coords": [
+                        16.849041,
+                        47.667178
+                  ]
             }
       ],
       "de": [
@@ -3541,6 +12662,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.739,
                         47.660806
+                  ]
+            },
+            {
+                  "name": "Látogatóközpont",
+                  "text": "Ein Besucherzentrum und Museum in Sarród.",
+                  "category": "museum",
+                  "coords": [
+                        16.851256,
+                        47.667207
+                  ]
+            },
+            {
+                  "name": "Bemutató majorság",
+                  "text": "Ein Vorführhof und eine Tierausstellung in Sarród.",
+                  "category": "recreational",
+                  "coords": [
+                        16.849041,
+                        47.667178
                   ]
             }
       ],
@@ -3555,6 +12694,24 @@ export const poiExtraHuV4: POI[] = [
                         16.739,
                         47.660806
                   ]
+            },
+            {
+                  "name": "Látogatóközpont",
+                  "text": "Un centru de vizitare și muzeu situat în Sarród.",
+                  "category": "museum",
+                  "coords": [
+                        16.851256,
+                        47.667207
+                  ]
+            },
+            {
+                  "name": "Bemutató majorság",
+                  "text": "O fermă demonstrativă și expoziție de animale în Sarród.",
+                  "category": "recreational",
+                  "coords": [
+                        16.849041,
+                        47.667178
+                  ]
             }
       ],
       "en": [
@@ -3567,6 +12724,24 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.739,
                         47.660806
+                  ]
+            },
+            {
+                  "name": "Látogatóközpont",
+                  "text": "A visitor center and museum situated in Sarród.",
+                  "category": "museum",
+                  "coords": [
+                        16.851256,
+                        47.667207
+                  ]
+            },
+            {
+                  "name": "Bemutató majorság",
+                  "text": "A demonstration farm and animal exhibition in Sarród.",
+                  "category": "recreational",
+                  "coords": [
+                        16.849041,
+                        47.667178
                   ]
             }
       ]
@@ -3601,6 +12776,51 @@ export const poiExtraHuV4: POI[] = [
                         17.376937,
                         47.142842
                   ]
+            },
+            {
+                  "name": "Giants' Steps",
+                  "text": "Die Giants' Steps sind ein markanter Aussichtspunkt in Somlóvásárhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.377266,
+                        47.140897
+                  ]
+            },
+            {
+                  "name": "Somlóvásárhelyi Holt-tó Természetvédelmi terület",
+                  "text": "Das Naturschutzgebiet Somlóvásárhelyi Holt-tó ist ein geschützter Lebensraum in Somlóvásárhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.385649,
+                        47.098922
+                  ]
+            },
+            {
+                  "name": "Taposó kút",
+                  "text": "Der Taposó kút ist ein traditioneller Tretbrunnen in Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.370125,
+                        47.139822
+                  ]
+            },
+            {
+                  "name": "Kőkonyha",
+                  "text": "Kőkonyha ist eine interessante Naturattraktion in Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.372048,
+                        47.142208
+                  ]
+            },
+            {
+                  "name": "Celli Pince",
+                  "text": "Celli Pince ist eine lokale Sehenswürdigkeit in Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.369838,
+                        47.141335
+                  ]
             }
       ],
       "hu": [
@@ -3624,6 +12844,51 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.376937,
                         47.142842
+                  ]
+            },
+            {
+                  "name": "Giants' Steps",
+                  "text": "Az Óriások lépcsője egy természetes kilátópont Somlóvásárhelyen.",
+                  "category": "natural",
+                  "coords": [
+                        17.377266,
+                        47.140897
+                  ]
+            },
+            {
+                  "name": "Somlóvásárhelyi Holt-tó Természetvédelmi terület",
+                  "text": "A Somlóvásárhelyi Holt-tó Természetvédelmi terület egy védett természeti övezet.",
+                  "category": "natural",
+                  "coords": [
+                        17.385649,
+                        47.098922
+                  ]
+            },
+            {
+                  "name": "Taposó kút",
+                  "text": "A Taposó kút egy hagyományos és egyedi látványosság Somlóvásárhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.370125,
+                        47.139822
+                  ]
+            },
+            {
+                  "name": "Kőkonyha",
+                  "text": "A Kőkonyha egy különleges természeti látványosság Somlóvásárhely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.372048,
+                        47.142208
+                  ]
+            },
+            {
+                  "name": "Celli Pince",
+                  "text": "A Celli Pince egy helyi látványosság Somlóvásárhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.369838,
+                        47.141335
                   ]
             }
       ],
@@ -3649,6 +12914,51 @@ export const poiExtraHuV4: POI[] = [
                         17.376937,
                         47.142842
                   ]
+            },
+            {
+                  "name": "Giants' Steps",
+                  "text": "Treptelor Uriașilor reprezintă un punct de belvedere situat în Somlóvásárhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.377266,
+                        47.140897
+                  ]
+            },
+            {
+                  "name": "Somlóvásárhelyi Holt-tó Természetvédelmi terület",
+                  "text": "Rezervația naturală Somlóvásárhelyi Holt-tó este o arie protejată din Somlóvásárhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.385649,
+                        47.098922
+                  ]
+            },
+            {
+                  "name": "Taposó kút",
+                  "text": "Taposó kút este o atracție tradițională tip fântână în Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.370125,
+                        47.139822
+                  ]
+            },
+            {
+                  "name": "Kőkonyha",
+                  "text": "Kőkonyha este o atracție naturală interesantă din Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.372048,
+                        47.142208
+                  ]
+            },
+            {
+                  "name": "Celli Pince",
+                  "text": "Celli Pince este o atracție locală situată în Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.369838,
+                        47.141335
+                  ]
             }
       ],
       "en": [
@@ -3673,14 +12983,207 @@ export const poiExtraHuV4: POI[] = [
                         17.376937,
                         47.142842
                   ]
+            },
+            {
+                  "name": "Giants' Steps",
+                  "text": "The Giants' Steps is a prominent viewpoint located in Somlóvásárhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.377266,
+                        47.140897
+                  ]
+            },
+            {
+                  "name": "Somlóvásárhelyi Holt-tó Természetvédelmi terület",
+                  "text": "The Somlóvásárhelyi Holt-tó Nature Reserve is a protected habitat in Somlóvásárhely.",
+                  "category": "natural",
+                  "coords": [
+                        17.385649,
+                        47.098922
+                  ]
+            },
+            {
+                  "name": "Taposó kút",
+                  "text": "Taposó kút is a traditional treadmill well attraction in Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.370125,
+                        47.139822
+                  ]
+            },
+            {
+                  "name": "Kőkonyha",
+                  "text": "Kőkonyha is an interesting natural attraction in Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.372048,
+                        47.142208
+                  ]
+            },
+            {
+                  "name": "Celli Pince",
+                  "text": "Celli Pince is a local attraction located in Somlóvásárhely.",
+                  "category": "landmark",
+                  "coords": [
+                        17.369838,
+                        47.141335
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Burg Devecser", "text": "Eine renovierte spätgotische Wasserburg im nahen Devecser.", "distance": "8 km", "category": "historical"}, {"name": "Ajka Glashütte", "text": "Berühmte Kristallglasmanufaktur mit Werksverkauf und Museum.", "distance": "15 km", "category": "industry"}], "hu": [{"name": "Devecseri vár", "text": "Középkori eredetű, felújított várkastély könyvtárral és kiállításokkal.", "distance": "8 km", "category": "historical"}, {"name": "Doba - Erdődy-kastély", "text": "A Somló túloldalán fekvő klasszicista kastély és gyönyörű angolparkja.", "distance": "12 km", "category": "historical"}], "ro": [{"name": "Orașul Ajka", "text": "Centru industrial și minier cu o istorie bogată în producția de sticlă.", "distance": "15 km", "category": "civic"}, {"name": "Parcul de Aventură Sobri Jóska", "text": "Un complex de recreere popular situat în apropiere de Kislőd.", "distance": "20 km", "category": "recreational"}], "en": [{"name": "Devecser Castle", "text": "A historic fortress in the neighboring town with cultural exhibitions.", "distance": "8 km", "category": "historical"}, {"name": "Sümeg Castle", "text": "One of Hungary's best-preserved medieval hilltop fortresses.", "distance": "25 km", "category": "historical"}]}, "parent": "veszprem"},
   {"id": "szalafo", "type": "village", "coords": [16.35, 46.8667], "population": 225, "name": {"de": "Szalafő", "hu": "Szalafő", "ro": "Szalafő", "en": "Szalafő"}, "descriptionAdvanced": {"de": "Szalafő gilt als das archaischste und am besten erhaltene Dorf in der ungarischen Region Őrség. Die Siedlungsstruktur besteht aus sieben sogenannten 'Szerek' (Weilern), die auf Hügeln verstreut liegen, um Schutz vor feindlichen Angriffen und Überschwemmungen zu bieten. Der bekannteste Weiler ist Pityerszer, der heute als Freilichtmuseum dient und die ursprüngliche Lebensweise der Grenzwächter zeigt. Hier können Besucher die typischen 'Eingezäunten Höfe' bewundern, bei denen Wohn- und Wirtschaftsgebäude einen geschlossenen Innenhof bilden, um das Vieh vor Raubtieren zu schützen. Die Gebäude sind meist aus Holz gebaut und mit Stroh gedeckt, was ihnen ein märchenhaftes Aussehen verleiht. Szalafő liegt direkt an der Grenze zu Slowenien und ist von dichten Nadel- und Laubwäldern umgeben, in denen heute wieder Wisente angesiedelt wurden. Die Region ist ein Paradies für Naturliebhaber, die Ruhe, saubere Luft und authentische Handwerkskunst suchen. Die lokale Gastronomie, geprägt von Kürbiskernöl, Pilzgerichten und dem traditionellen 'Dödölle', ist ein weiteres Highlight für jeden Besucher. Szalafő ist nicht nur ein Ort der Geschichte, sondern ein lebendiges Beispiel für ökologische Nachhaltigkeit und den Erhalt kultureller Wurzeln.", "hu": "Szalafő az Őrség egyik legkülönlegesebb, legarchaikusabb települése, amely nevét a Zala folyó (itt Szala) forrásvidékéről kapta. A falu hét, dombtetőkre épült településrészből, úgynevezett 'szerből' áll: Alsószer, Felszer, Pityerszer, Csertánszer, Papszer, Gyöngyösszer és Templomszer alkotja a közösséget. A legjelentősebb látnivaló a Pityerszeri Népi Műemlékegyüttes, ahol az eredeti helyszínen maradtak fenn a 18-19. századi népi építészet remekei, köztük a különleges 'kerített házak'. Ez az épülettípus a védekezést és a gazdálkodást szolgálta, ahol a ház és a gazdasági épületek négyszöget alkotva zárt udvart hoztak létre. Szalafő határában található az őrségi bölényrezervátum is, ahol az európai bölényeket természetes környezetükben láthatják a kirándulók. A falu az Őrségi Nemzeti Park része, így a környező fenyvesek és láprétek szigorú védelem alatt állnak. A település híres a tökmagolajütés hagyományáról és a vendégszeretetéről, a látogatók számos falusi vendégházban élvezhetik a csendet és a tradicionális őrségi konyha ízeit, mint a vasi pecsenyét vagy a hajdinaételeket. Szalafő a mai napig hűen őrzi a középkori határőrvidék szellemiségét.", "ro": "Szalafő este considerat cel mai arhaic și autentic sat din regiunea Őrség, situat la granița triplă dintre Ungaria, Slovenia și Austria. Localitatea este structurată în șapte cătune împrăștiate pe dealuri, numite în maghiară 'szerek', o formă de așezare medievală păstrată până astăzi. Cel mai faimos dintre acestea este Pityerszer, unde funcționează un muzeu etnografic în aer liber ce cuprinde case monument istoric. Aici se pot vedea 'casele fortificate' (kerített ház), o soluție arhitecturală unică prin care locuința și anexele gospodărești formau o curte închisă pentru a proteja animalele de lupi și hoți. Casele sunt construite din bârne de lemn cu acoperișuri masive de paie, reflectând resursele naturale ale zonei. Natura înconjurătoare este de o frumusețe rară, făcând parte din Parcul Național Őrség, unde vizitatorii pot vedea o rezervație de zimbri europeni și cai sălbatici. Gastronomia locală este un alt punct de atracție, uleiul de dovleac presat la rece și mâncărurile pe bază de hrișcă fiind specialități obligatorii de gustat. Szalafő oferă o experiență de călătorie în timp, fiind destinația ideală pentru ecoturism și pentru cei care vor să înțeleagă rădăcinile civilizației rurale din bazinul carpatic.", "en": "Szalafő is the most archaic and culturally significant village in the Őrség region, located near the headwaters of the Zala (Szala) River. The village is unique for its layout consisting of seven distinct hilltop hamlets called 'szerek', a medieval settlement pattern designed for defense and efficient farming. The most famous hamlet is Pityerszer, which houses a national folk monument complex. Here, visitors can admire the 'enclosed houses' (kerített ház), where the living quarters and farm buildings form a protective rectangle around a central courtyard—a design once essential for shielding livestock from predators. These timber-frame structures with thick rye-straw thatch are masterpieces of sustainable architecture. Szalafő is also home to a European bison and wild horse reserve, reflecting the biodiversity of the surrounding Őrség National Park. The area's dense pine forests and boggy meadows offer a sanctuary for rare flora and fauna. Culturally, the village is a hub for traditional crafts and authentic gastronomy, famous for its premium cold-pressed pumpkin seed oil and hearty buckwheat dishes. As a living museum, Szalafő provides an unparalleled window into the ancient life of the royal border guards who have protected this frontier for over a millennium."}, "factsAdvanced": {"de": ["Siedlungsform: 7 Weiler (Szerek)", "Attraktion: Pityerszer Freilichtmuseum", "Fauna: Wisentreservat (Bison bonasus)", "Region: Őrség Nationalpark", "Wirtschaft: Kürbiskernölproduktion", "Baustil: Kerített ház (geschlossene Höfe)"], "hu": ["Településszerkezet: 7 szerből áll", "Fő látnivaló: Pityerszeri skanzen", "Állatvilág: Bölény- és vadlórezervátum", "Folyó: Zala (Szala) forrásvidéke", "Gasztronómia: Tökmagolaj, dödölle", "Építészet: Kerített házak, zsupptető"], "ro": ["Structură: 7 cătune (szerek)", "Monument: Muzeul în aer liber Pityerszer", "Rezervație: Zimbri și cai sălbatici", "Parc Național: Őrség", "Gastronomie: Ulei de semințe de dovleac", "Arhitectură: Case cu curte închisă"], "en": ["Layout: 7 separate hamlets (szerek)", "Main site: Pityerszer Folk Monument Complex", "Wildlife: European bison reserve", "Location: Headwaters of the Szala River", "Famous for: Cold-pressed pumpkin seed oil", "Style: Timber-frame thatched houses"]}, "faq": {"de": [{"q": "Was bedeutet 'Szer'?", "a": "Es bezeichnet die für die Őrség typischen kleinen Weiler auf den Hügelkuppen."}, {"q": "Wo kann man Wisente sehen?", "a": "Im Wisentreservat am Rande des Dorfes in Richtung Slowenien."}, {"q": "Gibt es geführte Touren?", "a": "Im Pityerszer-Museum werden regelmäßig Führungen zur Volkskunde angeboten."}, {"q": "Was ist das typische Souvenir?", "a": "Das schwarze Gold der Őrség: das Kürbiskernöl."}], "hu": [{"q": "Hány szerből áll Szalafő?", "a": "Összesen hét szer alkotja a települést."}, {"q": "Mi az a kerített ház?", "a": "Egy olyan őrségi épülettípus, ahol a ház és a pajták zárt udvart fognak körbe."}, {"q": "Láthatók bölények a faluban?", "a": "Igen, a falu határában lévő rezervátumban élnek bölények."}, {"q": "Mikor van nyitva a Pityerszeri skanzen?", "a": "Általában áprilistól októberig látogatható naponta."}], "ro": [{"q": "Unde se află muzeul în aer liber?", "a": "În cătunul Pityerszer, la marginea vestică a satului."}, {"q": "Ce animale pot fi văzute în rezervație?", "a": "Zimbri europeni și cai din rasa Eurazian."}, {"q": "Se poate ajunge în Slovenia de aici?", "a": "Da, există drumuri forestiere și rurale care trec granița."}, {"q": "Care este mâncarea specifică?", "a": "Dödölle (găluște de cartofi) și supa de ciuperci cu smântână."}], "en": [{"q": "What is Pityerszer?", "a": "A protected historic hamlet in Szalafő showing original 18th-century farmsteads."}, {"q": "Are there bison in Hungary?", "a": "Yes, Szalafő hosts one of the largest bison reserves in the country."}, {"q": "Is Szalafő good for families?", "a": "Yes, children love the animals and the wide-open spaces of the skanzen."}, {"q": "What is the 'Szala'?", "a": "It is the local name for the upper reaches of the Zala River."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Szalafői halomsírok",
+                  "text": "Szalafői halomsírok ist eine archäologische Stätte mit antiken Grabhügeln in Szalafő.",
+                  "category": "historical",
+                  "coords": [
+                        16.324804,
+                        46.880184
+                  ]
+            },
+            {
+                  "name": "Sportmez és sportzászló kiállítás",
+                  "text": "Ein Museum in Szalafő, das Sporttrikots und Sportfahnen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        16.363847,
+                        46.865267
+                  ]
+            },
+            {
+                  "name": "Szalafő Helytörténeti Kiállítás",
+                  "text": "Heimatmuseum in Szalafő mit Ausstellungen zur lokalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        16.340311,
+                        46.864715
+                  ]
+            },
+            {
+                  "name": "Szalafői bemutatóterület (Őrségi Nemzeti Park Igazgatóság)",
+                  "text": "Naturschutzgebiet und Vorführbereich des Nationalparks Őrség in Szalafő.",
+                  "category": "natural",
+                  "coords": [
+                        16.332305,
+                        46.864938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szalafői halomsírok",
+                  "text": "A Szalafői halomsírok egy ősi halomsírokat magába foglaló régészeti lelőhely Szalafő térségében.",
+                  "category": "historical",
+                  "coords": [
+                        16.324804,
+                        46.880184
+                  ]
+            },
+            {
+                  "name": "Sportmez és sportzászló kiállítás",
+                  "text": "Sportmezeket és sportzászlókat bemutató múzeum Szalafőn.",
+                  "category": "museum",
+                  "coords": [
+                        16.363847,
+                        46.865267
+                  ]
+            },
+            {
+                  "name": "Szalafő Helytörténeti Kiállítás",
+                  "text": "Helytörténeti kiállítás Szalafőn, amely bemutatja a település múltját.",
+                  "category": "museum",
+                  "coords": [
+                        16.340311,
+                        46.864715
+                  ]
+            },
+            {
+                  "name": "Szalafői bemutatóterület (Őrségi Nemzeti Park Igazgatóság)",
+                  "text": "Az Őrségi Nemzeti Park természetvédelmi bemutatóterülete Szalafőn.",
+                  "category": "natural",
+                  "coords": [
+                        16.332305,
+                        46.864938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Szalafői halomsírok",
+                  "text": "Szalafői halomsírok este un sit arheologic ce prezintă tumuli funerari antici în Szalafő.",
+                  "category": "historical",
+                  "coords": [
+                        16.324804,
+                        46.880184
+                  ]
+            },
+            {
+                  "name": "Sportmez és sportzászló kiállítás",
+                  "text": "Un muzeu în Szalafő care expune tricouri și steaguri sportive.",
+                  "category": "museum",
+                  "coords": [
+                        16.363847,
+                        46.865267
+                  ]
+            },
+            {
+                  "name": "Szalafő Helytörténeti Kiállítás",
+                  "text": "Expoziție de istorie locală situată în Szalafő.",
+                  "category": "museum",
+                  "coords": [
+                        16.340311,
+                        46.864715
+                  ]
+            },
+            {
+                  "name": "Szalafői bemutatóterület (Őrségi Nemzeti Park Igazgatóság)",
+                  "text": "Rezervație naturală și zonă de demonstrație a Parcului Național Őrség în Szalafő.",
+                  "category": "natural",
+                  "coords": [
+                        16.332305,
+                        46.864938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Szalafői halomsírok",
+                  "text": "Szalafői halomsírok is an archaeological site featuring ancient burial mounds in Szalafő.",
+                  "category": "historical",
+                  "coords": [
+                        16.324804,
+                        46.880184
+                  ]
+            },
+            {
+                  "name": "Sportmez és sportzászló kiállítás",
+                  "text": "Museum in Szalafő exhibiting sports jerseys and flags.",
+                  "category": "museum",
+                  "coords": [
+                        16.363847,
+                        46.865267
+                  ]
+            },
+            {
+                  "name": "Szalafő Helytörténeti Kiállítás",
+                  "text": "Local history exhibition located in Szalafő.",
+                  "category": "museum",
+                  "coords": [
+                        16.340311,
+                        46.864715
+                  ]
+            },
+            {
+                  "name": "Szalafői bemutatóterület (Őrségi Nemzeti Park Igazgatóság)",
+                  "text": "Nature reserve and demonstration area of the Őrség National Park in Szalafő.",
+                  "category": "natural",
+                  "coords": [
+                        16.332305,
+                        46.864938
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Őriszentpéter", "text": "Die Hauptstadt der Őrség mit einer romanischen Kirche.", "distance": "8 km", "category": "historical"}, {"name": "Kétvölgy Aussichtsturm", "text": "Bietet einen Panoramablick über die ungarisch-slowenische Grenze.", "distance": "12 km", "category": "natural"}], "hu": [{"name": "Őriszentpéter", "text": "Az Őrség központja, híres Árpád-kori templomáról és fesztiváljairól.", "distance": "8 km", "category": "historical"}, {"name": "Kétvölgy kilátó", "text": "Lenyűgöző panorámát nyújtó torony a szlovén határ mentén.", "distance": "12 km", "category": "natural"}], "ro": [{"name": "Őriszentpéter", "text": "Principalul oraș din Őrség, cunoscut pentru biserica Sfântul Petru.", "distance": "8 km", "category": "historical"}, {"name": "Turnul de belvedere Kétvölgy", "text": "Ofertă o vedere panoramică asupra dealurilor din Slovenia și Ungaria.", "distance": "12 km", "category": "natural"}], "en": [{"name": "Őriszentpéter", "text": "The cultural capital of the Őrség region with a medieval church.", "distance": "8 km", "category": "historical"}, {"name": "Kétvölgy Lookout Tower", "text": "Provides stunning views of the border region's rolling hills.", "distance": "12 km", "category": "natural"}]}, "parent": "vas"},
   {"id": "szentbekkalla", "type": "village", "coords": [17.5623, 46.8904], "population": 182, "name": {"de": "Szentbékkálla", "hu": "Szentbékkálla", "ro": "Szentbékkálla", "en": "Szentbékkálla"}, "descriptionAdvanced": {"de": "Szentbékkálla ist eines der stimmungsvollsten Dörfer im Káli-Becken, eingebettet in die sanften Hügel des Balaton-Oberlandes. Das Dorf ist weltberühmt für sein 'Kőtenger' (Steinmeer), eine außergewöhnliche geologische Formation aus riesigen Sandsteinblöcken, die durch die Verfestigung von postvulkanischen Sedimenten und die anschließende Erosion durch Wind und Wasser entstanden sind. Besonders faszinierend ist der 'Wackelstein', ein massiver Felsblock, der trotz seines Gewichts von mehreren Tonnen durch menschliche Kraft leicht in Bewegung gesetzt werden kann. Die Architektur des Dorfes spiegelt den Wohlstand der ehemaligen Weinbauern wider, mit prächtigen Steinhäusern und gepflegten Gärten, die heute oft als Ferienresidenzen dienen. In der Umgebung finden sich die Ruinen der mittelalterlichen Siedlung Töttöskál, deren erhaltene Kirchenwand ein beliebtes Fotomotiv und ein Ort der Stille ist. Die Region ist auch für ihre Gastronomie bekannt; lokale Weingüter produzieren hervorragende Weißweine aus den Sorten Welschriesling und Furmint, die den vulkanischen Charakter des Bodens widerspiegeln. Szentbékkálla bietet eine perfekte Mischung aus Naturerlebnis, Geschichte und ländlicher Eleganz.", "hu": "Szentbékkálla a Káli-medence északi peremén fekvő ékszerdoboz, amely Veszprém vármegye egyik legkedveltebb kirándulóhelye. A település neve országosan összeforrt a híres szentbékkállai kőtengerrel, amely Európa-szerte ritka geológiai képződmény: a Pannon-tenger üledékéből keletkezett homokkő tömbök a szél és a víz eróziója nyomán nyerték el mai, bizarr formájukat. A kőtenger legizgalmasabb látnivalója az Ingókő, egy hatalmas kőlap, amely egyetlen ponton támaszkodik, így könnyedén kimozdítható egyensúlyából. A falu maga is építészeti kincs; a girbegurba utcák, a rendezett porták és a Veléte-palota romjai a középkori nemesi múltat idézik. A határban fekvő Töttöskál templomrom a vidék egyik legvonzóbb szakrális emléke, ahol a magányos fal a Balaton-felvidék jelképévé vált. Szentbékkálla nemcsak a látnivalók, hanem a pezsgő kulturális élet és a kiváló borászatok miatt is vonzó; a medence mikroklímája és a bazaltos-homokos talaj egyedi ízvilágú borokat terem. A falu ideális kiindulópont a Káli-medence gyalogos vagy kerékpáros felfedezéséhez.", "ro": "Szentbékkálla este un sat idilic situat în inima bazinului Káli, renumit pentru fenomenele sale geologice unice și arhitectura rurală tradițională. Atracția principală a localității este 'Marea de Piatră' (Kőtenger), o rezervație naturală unde mase imense de gresie au fost sculptate de natură în forme spectaculoase. Printre acestea se remarcă 'Piatra Balansată', un bloc de piatră uriaș care se mișcă la o simplă apăsare, atrăgând anual mii de curioși. Istoria satului este strâns legată de nobilii locali și de cultivarea viței-de-vie, dovezi ale acestei perioade fiind ruinele palatului Veléte și casele impozante din piatră. În împrejurimi se află ruinele bisericii Töttöskál, un sit medieval melancolic care oferă o perspectivă asupra vechilor așezări abandonate din perioada otomană. Peisajul este completat de dealurile vulcanice acoperite de vii, unde se produc vinuri albe de o calitate excepțională, apreciate pentru mineralitatea lor. Szentbékkálla a reușit să își păstreze atmosfera liniștită, devenind un refugiu pentru artiști și turiști care caută comuniunea cu natura și respectul pentru tradiție în una dintre cele mai frumoase regiuni ale Ungariei.", "en": "Szentbékkálla is a picturesque village nestled in the northern part of the Káli Basin, often celebrated for its unique geological wonders and aristocratic rural charm. The village is most famous for its 'Sea of Stones' (Kőtenger), a sprawling collection of massive sandstone boulders formed millions of years ago from the sediments of the ancient Pannonian Sea. The most iconic feature is the 'Rocking Stone', a massive slab balanced so perfectly that it can be swayed by hand. The settlement's history is reflected in its architecture, with narrow winding streets and the remains of the Veléte Palace, a medieval residential tower. Just outside the village lies the Töttöskál church ruin, a poignant 13th-century landmark that stands as a lone sentinel overlooking the basin. The area's volcanic soil and sunny slopes are ideal for viticulture, particularly for Olaszrizling and Furmint varieties, which visitors can taste in local family-run cellars. Szentbékkálla serves as a perfect hub for slow travel, offering a mix of hiking trails, historical sites, and high-quality local gastronomy, making it a cornerstone of the Balaton Uplands experience."}, "factsAdvanced": {"de": ["Das Steinmeer von Szentbékkálla ist Teil des Bakony-Balaton Geoparks.", "Die Gemeinde wurde erstmals im Jahr 1273 urkundlich erwähnt.", "Der 'Ingókő' (Wackelstein) ist der bekannteste Fels der Region.", "Die Kirchenruine Töttöskál liegt etwa 2 km östlich des Dorfzentrums.", "Das Dorf liegt auf einer Höhe von etwa 160 Metern am Fuße des Fekete-Berges.", "Szentbékkálla hat eine der niedrigsten Bevölkerungsdichten im Komitat Veszprém."], "hu": ["A szentbékkállai kőtenger a Pannon-tengerből lerakódott homokkőből alakult ki.", "A falu első írásos említése 1273-ból származik.", "Az Ingókő nevű szikla súlya több tonna, mégis kézzel mozgatható.", "A Veléte-palota a 14-15. században épült nemesi lakótorony volt.", "A település a Káli-medence egyik legmagasabb pontján fekszik.", "A falu környékén számos védett növényfaj, például az árvalányhaj is megtalálható."], "ro": ["Marea de Piatră este protejată ca monument natural național.", "Localitatea a fost menționată documentar pentru prima dată în secolul al XIII-lea.", "Piatra Balansată (Ingókő) este formată dintr-un strat de gresie cimentată cu silice.", "Ruina bisericii Töttöskál datează din secolul al XII-lea sau al XIII-lea.", "Satul are o suprafață administrativă de 11 kilometri pătrați.", "Regiunea este cunoscută pentru festivalurile sale de vin din timpul verii."], "en": ["The Sea of Stones was formed from the sand and gravel of the Pannonian Sea.", "Szentbékkálla was first documented in 1273 AD.", "The Rocking Stone is a natural balance-experiment made of hard sandstone.", "The Veléte tower is one of the few surviving medieval residential ruins in the region.", "The village is located at the foot of the 363-meter-high Fekete-hegy.", "The local soils are a mix of volcanic basalt and Pannonian sandstone."]}, "faq": {"de": [{"q": "Ist das Steinmeer frei zugänglich?", "a": "Ja, das Kőtenger ist jederzeit kostenlos und ohne Eintrittskarte besuchbar."}, {"q": "Gibt es Parkplätze in der Nähe der Felsformationen?", "a": "Ja, es gibt einen ausgewiesenen Parkplatz am Rand des Steinmeeres."}, {"q": "Kann man auf die Felsen klettern?", "a": "Ja, vorsichtiges Erklimmen der Steine ist erlaubt und bei Kindern sehr beliebt."}, {"q": "Wie weit ist es bis zum Balaton?", "a": "Der See ist etwa 10 Kilometer entfernt, etwa 15 Minuten mit dem Auto."}], "hu": [{"q": "Milyen nehéz a terep a kőtengernél?", "a": "A terep könnyű, kényelmes sétával bejárható, de zárt cipő ajánlott."}, {"q": "Van-e étterem a faluban?", "a": "Igen, több kiváló, helyi alapanyagokkal dolgozó étterem és borozó található."}, {"q": "Mikor érdemes látogatni a Töttöskáli templomromot?", "a": "Naplemente idején a legszebb, amikor a fények megvilágítják a régi falakat."}, {"q": "Lehet-e kutyát vinni a kőtengerbe?", "a": "Igen, pórázon vezetve a kutyák is élvezhetik a területet."}], "ro": [{"q": "Este nevoie de ghid pentru a vizita satul?", "a": "Nu, obiectivele sunt bine marcate și pot fi explorate individual."}, {"q": "Se pot cumpăra vinuri locale?", "a": "Da, majoritatea caselor cu pivniță oferă degustări și vânzare directă."}, {"q": "Cât durează vizita la Marea de Piatră?", "a": "O explorare relaxată durează între 45 de minute și o oră."}, {"q": "Există bancomat în sat?", "a": "Nu, cel mai apropiat bancomat se află în localitatea Köveskál sau Tapolca."}], "en": [{"q": "Is the Rocking Stone safe to move?", "a": "Yes, it is structurally stable despite its ability to sway slightly."}, {"q": "Are there hiking trails starting from the village?", "a": "Yes, the Blue Trail (Országos Kéktúra) passes through Szentbékkálla."}, {"q": "Is the village bike-friendly?", "a": "Very much so, although some streets are steep and paved with cobblestones."}, {"q": "Can I visit the Veléte tower inside?", "a": "The tower is a ruin, so it can only be viewed from the outside for safety reasons."}]}, "sights": {
       "de": [
@@ -3693,6 +13196,87 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.587452,
                         46.897306
+                  ]
+            },
+            {
+                  "name": "Eötvös Károly kilátó",
+                  "text": "Der Eötvös Károly Aussichtsturm bietet weite Blicke über die Region um Szentbékkálla.",
+                  "category": "natural",
+                  "coords": [
+                        17.586106,
+                        46.894938
+                  ]
+            },
+            {
+                  "name": "Szentbékkállai kőtenger",
+                  "text": "Das Steinmeer von Szentbékkálla ist eine faszinierende geologische Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        17.555819,
+                        46.890348
+                  ]
+            },
+            {
+                  "name": "Öreg hegyi kút",
+                  "text": "Der Öreg hegyi kút ist eine natürliche Quelle in der Nähe von Szentbékkálla.",
+                  "category": "landmark",
+                  "coords": [
+                        17.577716,
+                        46.893036
+                  ]
+            },
+            {
+                  "name": "Mátés-hegy",
+                  "text": "Der Mátés-hegy ist ein lokaler Gipfel bei Szentbékkálla, der sich gut für Wanderungen eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.55506,
+                        46.89584
+                  ]
+            },
+            {
+                  "name": "Sátorma-hegy",
+                  "text": "Der Sátorma-hegy ist ein markanter Berg und natürlicher Aussichtspunkt bei Szentbékkálla.",
+                  "category": "landmark",
+                  "coords": [
+                        17.543703,
+                        46.90072
+                  ]
+            },
+            {
+                  "name": "Keleményes-kő",
+                  "text": "Der Keleményes-kő ist ein Aussichtspunkt mit beeindruckender Sicht über Szentbékkálla.",
+                  "category": "natural",
+                  "coords": [
+                        17.578244,
+                        46.898161
+                  ]
+            },
+            {
+                  "name": "Kerekikáli templomrom",
+                  "text": "Die Kirchenruine Kerekikáli zeugt von der mittelalterlichen Geschichte in Szentbékkálla.",
+                  "category": "historical",
+                  "coords": [
+                        17.565821,
+                        46.873557
+                  ]
+            },
+            {
+                  "name": "Kisfaludi Templomrom",
+                  "text": "Die Kisfaludi-Kirchenruine ist ein historisches Überbleibsel nahe Szentbékkálla.",
+                  "category": "historical",
+                  "coords": [
+                        17.54901,
+                        46.875311
+                  ]
+            },
+            {
+                  "name": "Pajtamúzeum",
+                  "text": "Das Pajtamúzeum (Scheunenmuseum) in Szentbékkálla zeigt lokale landwirtschaftliche Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        17.564045,
+                        46.886687
                   ]
             }
       ],
@@ -3707,6 +13291,87 @@ export const poiExtraHuV4: POI[] = [
                         17.587452,
                         46.897306
                   ]
+            },
+            {
+                  "name": "Eötvös Károly kilátó",
+                  "text": "Az Eötvös Károly kilátó pazar panorámát biztosít a Káli-medencére Szentbékkálla közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.586106,
+                        46.894938
+                  ]
+            },
+            {
+                  "name": "Szentbékkállai kőtenger",
+                  "text": "A szentbékkállai kőtenger egyedülálló geológiai képződmény és népszerű látványosság a Káli-medencében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.555819,
+                        46.890348
+                  ]
+            },
+            {
+                  "name": "Öreg hegyi kút",
+                  "text": "Az Öreg hegyi kút egy hagyományos természetes forrás Szentbékkálla külterületén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.577716,
+                        46.893036
+                  ]
+            },
+            {
+                  "name": "Mátés-hegy",
+                  "text": "A Mátés-hegy egy túrázásra alkalmas magaslat Szentbékkálla közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.55506,
+                        46.89584
+                  ]
+            },
+            {
+                  "name": "Sátorma-hegy",
+                  "text": "A Sátorma-hegy egy jellegzetes csúcs és kirándulóhely Szentbékkálla vonzáskörzetében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.543703,
+                        46.90072
+                  ]
+            },
+            {
+                  "name": "Keleményes-kő",
+                  "text": "A Keleményes-kő egy kiváló panorámát nyújtó kilátópont Szentbékkállánál.",
+                  "category": "natural",
+                  "coords": [
+                        17.578244,
+                        46.898161
+                  ]
+            },
+            {
+                  "name": "Kerekikáli templomrom",
+                  "text": "A kerekikáli templomrom a középkori építészet mementója Szentbékkálla határában.",
+                  "category": "historical",
+                  "coords": [
+                        17.565821,
+                        46.873557
+                  ]
+            },
+            {
+                  "name": "Kisfaludi Templomrom",
+                  "text": "A kisfaludi templomrom egy történelmi egyházi épület maradványa Szentbékkállán.",
+                  "category": "historical",
+                  "coords": [
+                        17.54901,
+                        46.875311
+                  ]
+            },
+            {
+                  "name": "Pajtamúzeum",
+                  "text": "A szentbékkállai Pajtamúzeum a helyi paraszti és mezőgazdasági múltat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.564045,
+                        46.886687
+                  ]
             }
       ],
       "ro": [
@@ -3720,6 +13385,87 @@ export const poiExtraHuV4: POI[] = [
                         17.587452,
                         46.897306
                   ]
+            },
+            {
+                  "name": "Eötvös Károly kilátó",
+                  "text": "Punctul de belvedere Eötvös Károly oferă panorame frumoase asupra regiunii din jurul orașului Szentbékkálla.",
+                  "category": "natural",
+                  "coords": [
+                        17.586106,
+                        46.894938
+                  ]
+            },
+            {
+                  "name": "Szentbékkállai kőtenger",
+                  "text": "Marea de pietre din Szentbékkálla este o atracție geologică unică și fascinantă.",
+                  "category": "landmark",
+                  "coords": [
+                        17.555819,
+                        46.890348
+                  ]
+            },
+            {
+                  "name": "Öreg hegyi kút",
+                  "text": "Öreg hegyi kút este un izvor natural situat în apropiere de Szentbékkálla.",
+                  "category": "landmark",
+                  "coords": [
+                        17.577716,
+                        46.893036
+                  ]
+            },
+            {
+                  "name": "Mátés-hegy",
+                  "text": "Mátés-hegy este un vârf montan local ideal pentru drumeții lângă Szentbékkálla.",
+                  "category": "landmark",
+                  "coords": [
+                        17.55506,
+                        46.89584
+                  ]
+            },
+            {
+                  "name": "Sátorma-hegy",
+                  "text": "Sátorma-hegy este un vârf proeminent situat în vecinătatea orașului Szentbékkálla.",
+                  "category": "landmark",
+                  "coords": [
+                        17.543703,
+                        46.90072
+                  ]
+            },
+            {
+                  "name": "Keleményes-kő",
+                  "text": "Keleményes-kő este un punct de belvedere cu o vedere excelentă lângă Szentbékkálla.",
+                  "category": "natural",
+                  "coords": [
+                        17.578244,
+                        46.898161
+                  ]
+            },
+            {
+                  "name": "Kerekikáli templomrom",
+                  "text": "Ruinele bisericii Kerekikáli sunt o mărturie a istoriei medievale din Szentbékkálla.",
+                  "category": "historical",
+                  "coords": [
+                        17.565821,
+                        46.873557
+                  ]
+            },
+            {
+                  "name": "Kisfaludi Templomrom",
+                  "text": "Ruinele bisericii Kisfaludi reprezintă un vestigiu istoric în apropiere de Szentbékkálla.",
+                  "category": "historical",
+                  "coords": [
+                        17.54901,
+                        46.875311
+                  ]
+            },
+            {
+                  "name": "Pajtamúzeum",
+                  "text": "Muzeul Hambarului (Pajtamúzeum) din Szentbékkálla prezintă istoria agricolă locală.",
+                  "category": "museum",
+                  "coords": [
+                        17.564045,
+                        46.886687
+                  ]
             }
       ],
       "en": [
@@ -3732,6 +13478,87 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.587452,
                         46.897306
+                  ]
+            },
+            {
+                  "name": "Eötvös Károly kilátó",
+                  "text": "The Eötvös Károly viewpoint offers beautiful panoramas over the region around Szentbékkálla.",
+                  "category": "natural",
+                  "coords": [
+                        17.586106,
+                        46.894938
+                  ]
+            },
+            {
+                  "name": "Szentbékkállai kőtenger",
+                  "text": "The Sea of Stones in Szentbékkálla is a unique and fascinating geological attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        17.555819,
+                        46.890348
+                  ]
+            },
+            {
+                  "name": "Öreg hegyi kút",
+                  "text": "The Öreg hegyi kút is a natural spring located on the outskirts of Szentbékkálla.",
+                  "category": "landmark",
+                  "coords": [
+                        17.577716,
+                        46.893036
+                  ]
+            },
+            {
+                  "name": "Mátés-hegy",
+                  "text": "Mátés-hegy is a local peak near Szentbékkálla, suitable for hiking and nature walks.",
+                  "category": "landmark",
+                  "coords": [
+                        17.55506,
+                        46.89584
+                  ]
+            },
+            {
+                  "name": "Sátorma-hegy",
+                  "text": "Sátorma-hegy is a prominent peak and hiking spot in the vicinity of Szentbékkálla.",
+                  "category": "landmark",
+                  "coords": [
+                        17.543703,
+                        46.90072
+                  ]
+            },
+            {
+                  "name": "Keleményes-kő",
+                  "text": "Keleményes-kő is a scenic viewpoint offering excellent views over the Szentbékkálla area.",
+                  "category": "natural",
+                  "coords": [
+                        17.578244,
+                        46.898161
+                  ]
+            },
+            {
+                  "name": "Kerekikáli templomrom",
+                  "text": "The Kerekikáli church ruins are a remnant of medieval architecture near Szentbékkálla.",
+                  "category": "historical",
+                  "coords": [
+                        17.565821,
+                        46.873557
+                  ]
+            },
+            {
+                  "name": "Kisfaludi Templomrom",
+                  "text": "The Kisfaludi church ruins are historic remains of a former church near Szentbékkálla.",
+                  "category": "historical",
+                  "coords": [
+                        17.54901,
+                        46.875311
+                  ]
+            },
+            {
+                  "name": "Pajtamúzeum",
+                  "text": "The Barn Museum (Pajtamúzeum) in Szentbékkálla showcases the local agricultural history.",
+                  "category": "museum",
+                  "coords": [
+                        17.564045,
+                        46.886687
                   ]
             }
       ]
@@ -3781,6 +13608,51 @@ export const poiExtraHuV4: POI[] = [
                         20.390069,
                         48.106923
                   ]
+            },
+            {
+                  "name": "Millenniumi kilátó",
+                  "text": "Der Millenniums-Aussichtsturm, auch bekannt als Kalapat-hegyi kilátó, ist ein malerischer Aussichtspunkt in Szilvásvárad.",
+                  "category": "natural",
+                  "coords": [
+                        20.404232,
+                        48.096078
+                  ]
+            },
+            {
+                  "name": "Szikla-forrás",
+                  "text": "Szikla-forrás ist eine natürliche Quelle in der malerischen Gegend von Szilvásvárad.",
+                  "category": "landmark",
+                  "coords": [
+                        20.407958,
+                        48.078092
+                  ]
+            },
+            {
+                  "name": "Éleskővár",
+                  "text": "Éleskővár ist eine historische Attraktion und Burgruine in Szilvásvárad.",
+                  "category": "landmark",
+                  "coords": [
+                        20.417658,
+                        48.084734
+                  ]
+            },
+            {
+                  "name": "Kocsikiállítás",
+                  "text": "Die Kutschenausstellung ist ein Museum in Szilvásvárad, das historischen Kutschen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.384516,
+                        48.103248
+                  ]
+            },
+            {
+                  "name": "Lipizzaner historical museum",
+                  "text": "Das historische Lipizzaner-Museum in Szilvásvárad zeigt die Geschichte dieser Pferderasse.",
+                  "category": "museum",
+                  "coords": [
+                        20.39323,
+                        48.103876
+                  ]
             }
       ],
       "hu": [
@@ -3826,6 +13698,51 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.390069,
                         48.106923
+                  ]
+            },
+            {
+                  "name": "Millenniumi kilátó",
+                  "text": "A Millenniumi kilátó (Kalapat-hegyi kilátó) egy festői kilátópont Szilvásváradon.",
+                  "category": "natural",
+                  "coords": [
+                        20.404232,
+                        48.096078
+                  ]
+            },
+            {
+                  "name": "Szikla-forrás",
+                  "text": "A Szikla-forrás egy természetes forrás Szilvásvárad festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.407958,
+                        48.078092
+                  ]
+            },
+            {
+                  "name": "Éleskővár",
+                  "text": "Éleskővár egy történelmi látványosság és várrom Szilvásváradon.",
+                  "category": "landmark",
+                  "coords": [
+                        20.417658,
+                        48.084734
+                  ]
+            },
+            {
+                  "name": "Kocsikiállítás",
+                  "text": "A Kocsikiállítás egy történelmi kocsikat bemutató múzeum Szilvásváradon.",
+                  "category": "museum",
+                  "coords": [
+                        20.384516,
+                        48.103248
+                  ]
+            },
+            {
+                  "name": "Lipizzaner historical museum",
+                  "text": "A lipicai lótenyésztés történetét bemutató múzeum Szilvásváradon található.",
+                  "category": "museum",
+                  "coords": [
+                        20.39323,
+                        48.103876
                   ]
             }
       ],
@@ -3873,6 +13790,51 @@ export const poiExtraHuV4: POI[] = [
                         20.390069,
                         48.106923
                   ]
+            },
+            {
+                  "name": "Millenniumi kilátó",
+                  "text": "Punctul de belvedere Millennium, cunoscut și sub numele de Kalapat-hegyi kilátó, este un punct de observație pitoresc în Szilvásvárad.",
+                  "category": "natural",
+                  "coords": [
+                        20.404232,
+                        48.096078
+                  ]
+            },
+            {
+                  "name": "Szikla-forrás",
+                  "text": "Szikla-forrás este un izvor natural situat în zona pitorească Szilvásvárad.",
+                  "category": "landmark",
+                  "coords": [
+                        20.407958,
+                        48.078092
+                  ]
+            },
+            {
+                  "name": "Éleskővár",
+                  "text": "Éleskővár este o atracție istorică și o ruină de castel situată în Szilvásvárad.",
+                  "category": "landmark",
+                  "coords": [
+                        20.417658,
+                        48.084734
+                  ]
+            },
+            {
+                  "name": "Kocsikiállítás",
+                  "text": "Expoziția de trăsuri este un muzeu din Szilvásvárad dedicat trăsurilor istorice.",
+                  "category": "museum",
+                  "coords": [
+                        20.384516,
+                        48.103248
+                  ]
+            },
+            {
+                  "name": "Lipizzaner historical museum",
+                  "text": "Muzeul istoric al cailor lipițani este situat în Szilvásvárad, prezentând istoria acestei rase de cai.",
+                  "category": "museum",
+                  "coords": [
+                        20.39323,
+                        48.103876
+                  ]
             }
       ],
       "en": [
@@ -3918,6 +13880,51 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         20.390069,
                         48.106923
+                  ]
+            },
+            {
+                  "name": "Millenniumi kilátó",
+                  "text": "The Millennium Lookout, also known as Kalapat-hegyi kilátó, is a scenic viewpoint in Szilvásvárad.",
+                  "category": "natural",
+                  "coords": [
+                        20.404232,
+                        48.096078
+                  ]
+            },
+            {
+                  "name": "Szikla-forrás",
+                  "text": "Szikla-forrás is a natural spring located in the scenic area of Szilvásvárad.",
+                  "category": "landmark",
+                  "coords": [
+                        20.407958,
+                        48.078092
+                  ]
+            },
+            {
+                  "name": "Éleskővár",
+                  "text": "Éleskővár is a historic attraction and castle ruins located in Szilvásvárad.",
+                  "category": "landmark",
+                  "coords": [
+                        20.417658,
+                        48.084734
+                  ]
+            },
+            {
+                  "name": "Kocsikiállítás",
+                  "text": "The Carriage Exhibition is a museum in Szilvásvárad dedicated to historic carriages.",
+                  "category": "museum",
+                  "coords": [
+                        20.384516,
+                        48.103248
+                  ]
+            },
+            {
+                  "name": "Lipizzaner historical museum",
+                  "text": "The Lipizzaner historical museum is located in Szilvásvárad, showcasing the history of this horse breed.",
+                  "category": "museum",
+                  "coords": [
+                        20.39323,
+                        48.103876
                   ]
             }
       ]
@@ -4060,6 +14067,15 @@ export const poiExtraHuV4: POI[] = [
                   "category": "historical",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Tiberius Aréna",
+                  "text": "A Tiberius Aréna színház Tarcalon.",
+                  "category": "cultural",
+                  "coords": [
+                        21.353742,
+                        48.127894
+                  ]
             }
       ],
       "de": [
@@ -4072,6 +14088,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         21.347921,
                         48.128145
+                  ]
+            },
+            {
+                  "name": "Tiberius Aréna",
+                  "text": "Das Tiberius Aréna Theater in Tarcal.",
+                  "category": "cultural",
+                  "coords": [
+                        21.353742,
+                        48.127894
                   ]
             }
       ],
@@ -4086,6 +14111,15 @@ export const poiExtraHuV4: POI[] = [
                         21.347921,
                         48.128145
                   ]
+            },
+            {
+                  "name": "Tiberius Aréna",
+                  "text": "Teatrul Tiberius Aréna din Tarcal.",
+                  "category": "cultural",
+                  "coords": [
+                        21.353742,
+                        48.127894
+                  ]
             }
       ],
       "en": [
@@ -4099,14 +14133,63 @@ export const poiExtraHuV4: POI[] = [
                         21.347921,
                         48.128145
                   ]
+            },
+            {
+                  "name": "Tiberius Aréna",
+                  "text": "The Tiberius Aréna theatre situated in Tarcal.",
+                  "category": "cultural",
+                  "coords": [
+                        21.353742,
+                        48.127894
+                  ]
             }
       ]
 }, "nearbySights": {"hu": [{"name": "Tokaji Rákóczi-pince", "text": "Világhírű pincerendszer Tokaj szívében.", "distance": "7 km", "category": "historical"}, {"name": "Bodrogkeresztúri kilátó", "text": "Modern kilátópont a Bodrog-menti tájra.", "distance": "6 km", "category": "natural"}], "de": [{"name": "Rákóczi-Keller in Tokaj", "text": "Berühmte Weinkeller im Zentrum der Stadt Tokaj.", "distance": "7 km", "category": "historical"}, {"name": "Bodrogkeresztúr", "text": "Ein Dorf bekannt für seine jüdische Pilgerstätte.", "distance": "6 km", "category": "historical"}], "ro": [{"name": "Crama Rákóczi din Tokaj", "text": "O cramă istorică celebră situată în centrul orașului Tokaj.", "distance": "7 km", "category": "historical"}, {"name": "Rezervația naturală Bodrogzug", "text": "Zonă umedă protejată de-a lungul râului Bodrog.", "distance": "8 km", "category": "natural"}], "en": [{"name": "Rákóczi Cellar in Tokaj", "text": "World-famous historical wine cellar in Tokaj town.", "distance": "7 km", "category": "historical"}, {"name": "Bodrogkeresztúr Lookout", "text": "Contemporary observation deck with river views.", "distance": "6 km", "category": "natural"}]}, "parent": "borsod-abauj-zemplen"},
   {"id": "tarnaszentmaria", "type": "village", "coords": [20.2032, 47.8812], "population": 210, "name": {"de": "Tarnaszentmária", "hu": "Tarnaszentmária", "ro": "Tarnaszentmária", "en": "Tarnaszentmária"}, "descriptionAdvanced": {"de": "Tarnaszentmária ist eines der kleinsten und friedlichsten Dörfer im Komitat Heves, doch es birgt einen architektonischen Schatz von unschätzbarem Wert. Das Dorf liegt im malerischen Tal des Flusses Tarna, umgeben von sanften Hügeln. Das Kronjuwel der Gemeinde ist die Marienkirche, die als die kleinste intakte mittelalterliche Kirche Ungarns gilt. Ihre Ursprünge reichen bis in das 10. oder frühe 11. Jahrhundert zurück, was sie zu einem der ältesten Sakralbauten des Landes macht. Die Architektur der Kirche ist einzigartig; sie weist sowohl byzantinische als auch kaukasische Einflüsse auf, was Historikern wichtige Hinweise auf die frühe christliche Kunst der Magyaren gibt. Besonders faszinierend sind die ornamentalen Steinmetzarbeiten im Inneren, die an orientalische Motive erinnern. Trotz ihrer bescheidenen Größe strahlt das Gebäude eine monumentale Würde aus. Das Dorf selbst hat seinen authentischen ländlichen Charakter bewahrt, mit nur wenigen hundert Einwohnern, was es zu einem idealen Ziel für Kulturtouristen macht, die Stille und echte historische Tiefe suchen.", "hu": "Tarnaszentmária Heves vármegye egyik legkisebb, de történelmi szempontból legizgalmasabb települése a Tarna völgyében. A falu fő nevezetessége a Sarlós Boldogasszony-templom, amely Magyarország legkisebb műemléktemploma, és egyben az egyik legrégebbi is. Az épület magját a 10-11. században emelték, építészeti stílusa pedig egyedülálló az egész Kárpát-medencében. A templom belsejében található faragott kőoszlopok és a szentély kialakítása kaukázusi és bizánci hatásokat mutat, ami különleges bepillantást enged a honfoglalás kori és az Árpád-kori keresztény művészet világába. A templom falai között sétálva tapinthatóvá válik az ezeréves történelem. A község nyugalma, a táj érintetlensége és a templom spirituális ereje vonzza a látogatókat. Tarnaszentmária nem a tömegturizmusról, hanem az elcsendesedésről és a magyar múlt legősibb rétegeinek felfedezéséről szól. A falu mérete ellenére büszkén őrzi kulturális örökségét, amely messze túlmutat a régió határain.", "ro": "Tarnaszentmária este un sat mic și liniștit din județul Heves, situat în pitoreasca vale a râului Tarna, dar care ascunde o comoară arhitecturală de o valoare inestimabilă. Localitatea este faimoasă pentru Biserica Vizita Fecioarei Maria, considerată cea mai mică biserică medievală intactă din Ungaria. Construită în secolul al X-lea sau începutul secolului al XI-lea, aceasta reprezintă unul dintre cele mai vechi lăcașuri de cult creștine din țară. Arhitectura sa este absolut unică, prezentând influențe orientale, caucaziene și bizantine, ceea ce o face un subiect fascinant de studiu pentru istoricii de artă. Decorațiunile sculptate în piatră din interior amintesc de motivele artei creștine timpurii. Satul, cu o populație de puțin peste 200 de locuitori, oferă o atmosferă de calm absolut, departe de zgomotul marilor orașe. Este destinația perfectă pentru cei care apreciază arta medievală pură și doresc să descopere rădăcinile spirituale ale Ungariei într-un cadru natural nealterat. Biserica rămâne o dovadă vie a rezilienței culturale și a credinței de peste un mileniu.", "en": "Tarnaszentmária is one of the smallest yet most historically intriguing villages in Heves County, located in the serene Tarna Valley. Despite its tiny population, it is home to an architectural wonder: the Visitation Church, officially the smallest medieval monument church in Hungary. Its origins date back to the 10th or early 11th century, making it one of the nation's oldest standing religious structures. The church is famous for its unique architectural features that exhibit strong Caucasian and Byzantine influences, a rarity in Central Europe that hints at the diverse cultural connections of the early Magyars. The interior stone carvings and the layout of the sanctuary reflect a deep, ancient Christian artistry. The village itself has successfully preserved its authentic rural character, offering a peaceful retreat for history enthusiasts and spiritual seekers alike. Walking through the doors of this thousand-year-old sanctuary is like stepping back into the era of the Hungarian state's foundation. Tarnaszentmária is a site where monumental history is preserved within a humble, intimate scale."}, "factsAdvanced": {"de": ["Status: Kleinste mittelalterliche Kirche Ungarns", "Alter: Über 1000 Jahre (10.-11. Jh.)", "Baustil: Romanisch mit orientalischen Zügen", "Lage: Im Tal der Tarna", "Einwohnerzahl: ca. 210 Personen", "Patrozinium: Mariä Heimsuchung"], "hu": ["Rang: Magyarország legkisebb műemléktemploma", "Kora: Több mint 1000 éves (10-11. század)", "Stílus: Román kori, kaukázusi hatásokkal", "Fekvése: A Tarna folyó völgyében", "Lakosság: kb. 210 fő", "Védőszentje: Sarlós Boldogasszony"], "ro": ["Record: Cea mai mică biserică medievală din țară", "Vechime: Secolul X-XI (peste 1000 de ani)", "Stil: Romanic timpuriu cu motive caucaziene", "Locație: Valea râului Tarna", "Populație: aproximativ 210 locuitori", "Hram: Vizita Fecioarei Maria"], "en": ["Record: Smallest medieval monument church in Hungary", "Age: Over 1,000 years old (10th-11th century)", "Style: Early Romanesque with Caucasian influences", "Location: In the scenic Tarna Valley", "Population: approx. 210 people", "Patron: Visitation of the Blessed Virgin Mary"]}, "faq": {"de": [{"q": "Ist die kleine Kirche für Besucher offen?", "a": "Ja, sie kann besichtigt werden; oft muss man den Schlüssel im Nachbarhaus erfragen."}, {"q": "Gibt es geführte Touren?", "a": "In der Regel nicht, aber die Informationstafeln vor Ort erklären die Geschichte gut."}, {"q": "Wie groß ist die Kirche?", "a": "Sie ist extrem klein, nur wenige Meter lang, bietet aber Platz für eine kleine Gemeinde."}, {"q": "Ist der Ort gut mit dem Auto erreichbar?", "a": "Ja, Tarnaszentmária liegt an der Landstraße zwischen Eger und Verpelét."}], "hu": [{"q": "Hogyan látogatható a templom?", "a": "A templom kulcsa a szomszédos plébánián vagy kijelölt gondnoknál érhető el."}, {"q": "Milyen különleges díszítések vannak belül?", "a": "Egyedülálló faragott kőoszlopok és egy ősi keresztelőmedence látható."}, {"q": "Van-e mise a templomban?", "a": "Igen, alkalmanként és ünnepnapokon tartanak benne istentiszteletet."}, {"q": "Milyen messze van Egertől?", "a": "Eger városától körülbelül 15-20 kilométerre fekszik nyugati irányban."}], "ro": [{"q": "Biserica este deschisă turiștilor?", "a": "Da, poate fi vizitată, de obicei cheia fiind păstrată de un localnic desemnat."}, {"q": "Ce dimensiuni are biserica?", "a": "Este extrem de mică, având un interior intim de doar câțiva metri lungime."}, {"q": "Se pot face fotografii în interior?", "a": "De obicei este permis, dar se recomandă respectarea locului sacru."}, {"q": "Cum se ajunge la sat din Eger?", "a": "Satul este situat la o scurtă călătorie cu mașina spre vest, prin localitatea Verpelét."}], "en": [{"q": "How can I visit the small church?", "a": "The key is usually kept at a nearby house; signs on the door direct visitors."}, {"q": "What makes the architecture unique?", "a": "The sanctuary's design and stone pillars show rare Eastern Christian influences."}, {"q": "Are there regular services?", "a": "Services are held occasionally, especially on religious holidays."}, {"q": "Is it a good spot for quiet reflection?", "a": "Absolutely, it is one of the most peaceful and spiritual historical sites in Hungary."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Verpeléti földvár",
+                  "text": "Verpeléti földvár ist eine archäologische Stätte in der Nähe von Tarnaszentmária.",
+                  "category": "historical",
+                  "coords": [
+                        20.192363,
+                        47.861052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Verpeléti földvár",
+                  "text": "A Verpeléti földvár egy régészeti lelőhely Tarnaszentmária közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.192363,
+                        47.861052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Verpeléti földvár",
+                  "text": "Verpeléti földvár este un sit arheologic situat lângă Tarnaszentmária.",
+                  "category": "historical",
+                  "coords": [
+                        20.192363,
+                        47.861052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Verpeléti földvár",
+                  "text": "Verpeléti földvár is an archaeological site located near Tarnaszentmária.",
+                  "category": "historical",
+                  "coords": [
+                        20.192363,
+                        47.861052
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Verpelét Vulkankegel", "text": "Ein seltener, erloschener Vulkankegel mit großartiger Aussicht.", "distance": "5 km", "category": "natural"}, {"name": "Sirok Felsenburg", "text": "Eine imposante Burgruine auf einem steilen Tuffsteinfelsen.", "distance": "12 km", "category": "historical"}], "hu": [{"name": "Verpeléti vulkáni kúp", "text": "Európa-hírű geológiai látványosság, egy épen maradt parazitavulkán.", "distance": "5 km", "category": "natural"}, {"name": "Siroki vár", "text": "Sziklába vájt kazamatarendszerrel rendelkező lenyűgöző középkori vár.", "distance": "12 km", "category": "historical"}], "ro": [{"name": "Conul vulcanic din Verpelét", "text": "Un monument geologic rar, reprezentând un vulcan stins bine conservat.", "distance": "5 km", "category": "natural"}, {"name": "Cetatea Sirok", "text": "O fortăreață medievală fascinantă cu numeroase încăperi săpate direct în stâncă.", "distance": "12 km", "category": "historical"}], "en": [{"name": "Verpelét Volcano Cone", "text": "A rare geological formation of an intact volcanic parasitic cone.", "distance": "5 km", "category": "natural"}, {"name": "Sirok Castle", "text": "A spectacular cliffside fortress with a unique system of rock-hewn rooms.", "distance": "12 km", "category": "historical"}]}, "parent": "heves"},
   {"id": "tarpa", "type": "village", "coords": [22.5312, 48.111], "population": 2250, "name": {"de": "Tarpa", "hu": "Tarpa", "ro": "Tarpa", "en": "Tarpa"}, "descriptionAdvanced": {"de": "Tarpa ist eine historisch bedeutsame Gemeinde in der Region Bereg im Nordosten Ungarns, die eng mit den Freiheitskämpfen der Nation verbunden ist. Der Ort ist die Geburtsstätte von Tamás Esze, dem Anführer des Rákóczi-Freiheitskampfes, dessen Andenken im Dorf an vielen Stellen gepflegt wird. Ein einzigartiges technisches Denkmal in Tarpa ist die Trockenmühle (szárazmalom), eine pferdebetriebene Mühle aus dem 19. Jahrhundert, die als eine der besterhaltenen ihrer Art in Mitteleuropa gilt. Das Dorf ist zudem weit über die Grenzen für seine exzellente Gastronomie bekannt, insbesondere für den Tarpaischen Pflaumenschnaps (Szilvapálinka), der aus den kleinen, hocharomatischen 'Nemtudom'-Pflaumen gewonnen wird. Die Architektur des Dorfes ist geprägt von den typischen beregischen Bauernhäusern und der gotischen reformierten Kirche mit ihrem prachtvollen Innenraum. Umgeben von den fruchtbaren Auen der Theiß, bietet Tarpa eine malerische Landschaft, die zum Wandern und Entdecken der ländlichen Traditionen einlädt. Die jährlichen Feste, wie das Pflaumenfest, ziehen zahlreiche Besucher an, die die authentische ungarische Landkultur erleben möchten.", "hu": "Tarpa a Beregi-síkság egyik legjelentősebb és legpatinásabb települése, amelynek neve összefonódott a magyar szabadságharcokkal. Itt született Esze Tamás, a Rákóczi-szabadságharc legendás kuruc vezére, akinek emlékét szobrok és emléktáblák őrizik a faluban. A település legkülönlegesebb látnivalója a Tarpa szárazmalom, amely az ország egyik legépebben maradt, 19. századi lóvontatású malma, igazi ipartörténeti ritkaság. Tarpa világhírét azonban nemcsak történelmének, hanem gasztronómiájának, különösen a tarpai szilvapálinkának köszönheti, amely a térségben termő „nemtudom” szilvából készül, és uniós oltalmat élvez. A falu képét a hagyományos beregi építészet határozza meg, központjában a 15. századi, gótikus stílusú református templom áll, amelynek belső tere lenyűgöző. A Tisza közelsége, a környező ártéri erdők és a híres tarpai szőlőhegy kiváló lehetőséget nyújtanak a természetjárásra és a minőségi kikapcsolódásra. Az évente megrendezett Szilvanapok a környék egyik legnagyobb kulturális eseménye, ahol a hagyományok és az ízek találkoznak.", "ro": "Tarpa este o localitate istorică de referință din regiunea Bereg, fiind profund legată de luptele pentru libertate ale poporului maghiar. Satul este locul de naștere al lui Tamás Esze, legendarul lider curuț din timpul răscoalei lui Rákóczi, a cărui memorie este cinstită printr-un monument central. Cea mai valoroasă atracție turistică este Moara Uscată (szárazmalom) din Tarpa, un monument industrial de o raritate excepțională, fiind una dintre puținele mori acționate de cai păstrate în stare originală în Europa Centrală. Tarpa este celebră și pentru producția de pălincă de prune, în special faimoasa „pălincă de Tarpa”, realizată din soiuri locale de prune protejate prin denumire de origine. Arhitectura satului reflectă stilul tradițional din zona Bereg, cu biserica reformată gotică din secolul XV dominând peisajul urban. Situată în apropierea râului Tisa, localitatea beneficiază de păduri de luncă bogate și dealuri acoperite de vii, oferind condiții ideale pentru turismul rural și degustări de produse tradiționale. Festivalul Prunelor, organizat anual, atrage mii de vizitatori dornici să descopere gastronomia și folclorul local.", "en": "Tarpa is a historically significant village in the Bereg region of northeastern Hungary, famously known as the birthplace of Tamás Esze, the prominent leader of the Rákóczi War of Independence. His legacy is deeply embedded in the village's identity, commemorated by several monuments and historical sites. One of the most remarkable sights is the Tarpa Dry Mill, a horse-drawn mill dating from the 19th century, which is one of the best-preserved industrial monuments of its kind in Europe. Tarpa is also internationally recognized for its gastronomy, particularly the 'Tarpa Plum Pálinka', a high-quality fruit brandy made from the local 'Nemtudom' plums, which holds a protected designation of origin. The village's skyline is dominated by a 15th-century Gothic Reformed Church, featuring a stunning interior and a separate wooden bell tower. Surrounded by the fertile floodplains of the Tisza river and scenic vineyards on the Tarpa hill, the village offers a wealth of natural beauty and outdoor activities. The annual Plum Festival is a major cultural highlight, celebrating the local traditions, crafts, and flavors that make Tarpa a unique destination in Hungary."}, "factsAdvanced": {"de": ["Geburtsort von Tamás Esze (1666).", "Die Trockenmühle wurde ohne Eisenbeschläge gebaut.", "Der Tarpaische Pflaumenschnaps ist eine geschützte Marke.", "Die reformierte Kirche stammt aus der Spätgotik.", "Tarpa war einst eine privilegierte Haiduckenstadt.", "Im Dorf gibt es eine traditionelle Marmeladenküche."], "hu": ["Esze Tamás, a kuruc vezér szülőhelye.", "A szárazmalom 19. századi, fából készült szerkezet.", "A tarpai szilvapálinka eredetvédett hungarikum.", "A református templom gótikus stílusú, 15. századi.", "Tarpa hajdúvárosi kiváltságokkal rendelkezett.", "Itt készítik a híres szatmári szilvalekvárt is."], "ro": ["Locul de naștere al lui Tamás Esze (liderul curuților).", "Moara uscată datează din secolul XIX și este construită din lemn.", "Pălinca de prune de Tarpa este marcă protejată în UE.", "Biserica reformată datează din secolul al XV-lea în stil gotic.", "Tarpa a fost odată un oraș cu privilegii de hajdu.", "Localitatea este celebră pentru producția tradițională de magiun."], "en": ["Birthplace of the legendary Kuruc leader Tamás Esze.", "The Dry Mill is a 19th-century wooden industrial masterpiece.", "Tarpa Plum Pálinka is a protected Hungarian specialty (Hungarikum).", "The Reformed Church is a fine example of 15th-century Gothic architecture.", "Tarpa once held the privileges of a Hajduk town.", "The village is famous for traditional plum jam making (lekvár)."]}, "faq": {"de": [{"q": "Kann man die Trockenmühle in Aktion sehen?", "a": "Ja, bei besonderen Anlässen oder nach Voranmeldung wird sie vorgeführt."}, {"q": "Wo kann man Tarpaischen Schnaps kaufen?", "a": "In der lokalen Brennerei und bei verschiedenen Manufakturen im Dorf."}, {"q": "Gibt es Übernachtungsmöglichkeiten?", "a": "Es gibt mehrere Gästehäuser, die auf Dorftourismus spezialisiert sind."}, {"q": "Wann findet das Pflaumenfest statt?", "a": "Das Fest wird in der Regel Ende September gefeiert."}], "hu": [{"q": "Működés közben is látható a szárazmalom?", "a": "Igen, ünnepi alkalmakkor vagy előzetes kérésre bemutatják a működését."}, {"q": "Hol lehet megkóstolni a tarpai pálinkát?", "a": "A helyi pálinkafőzdében és a falusi vendégasztaloknál."}, {"q": "Milyen szálláslehetőségek vannak?", "a": "Több, a falusi turizmusra szakosodott vendégház várja a látogatókat."}, {"q": "Mikor tartják a Tarpai Szilvanapokat?", "a": "Általában szeptember utolsó hétvégéjén rendezik meg."}], "ro": [{"q": "Moara poate fi văzută funcționând?", "a": "Da, cu ocazia unor sărbători sau la cerere prealabilă pentru grupuri."}, {"q": "Unde pot degusta pălinca de Tarpa?", "a": "La distileria locală și în gospodăriile autorizate pentru turiști."}, {"q": "Există locuri de cazare în sat?", "a": "Da, Tarpa are o rețea dezvoltată de pensiuni de tip agroturism."}, {"q": "Când are loc Festivalul Prunelor?", "a": "Festivalul se organizează de obicei la sfârșitul lunii septembrie."}], "en": [{"q": "Can the dry mill be seen in operation?", "a": "Yes, during festivals or by prior arrangement for visitors."}, {"q": "Where can I buy local plum brandy?", "a": "At the local distillery and various craft shops in the village."}, {"q": "Are there places to stay in Tarpa?", "a": "Yes, there are several rural guesthouses offering authentic experiences."}, {"q": "When is the Plum Festival held?", "a": "It is typically organized on the last weekend of September."}]}, "sights": {
       "de": [
@@ -4141,6 +14224,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         22.547919,
                         48.129738
+                  ]
+            },
+            {
+                  "name": "Kockásliliom élőhelye",
+                  "text": "Kockásliliom élőhelye ist eine geschützte Naturattraktion, die die lokale Flora in Tarpa zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.52023,
+                        48.13467
                   ]
             }
       ],
@@ -4177,6 +14269,15 @@ export const poiExtraHuV4: POI[] = [
                         22.547919,
                         48.129738
                   ]
+            },
+            {
+                  "name": "Kockásliliom élőhelye",
+                  "text": "A Kockásliliom élőhelye egy védett természeti látványosság, amely a helyi flórát mutatja be Tarpán.",
+                  "category": "landmark",
+                  "coords": [
+                        22.52023,
+                        48.13467
+                  ]
             }
       ],
       "ro": [
@@ -4211,6 +14312,15 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         22.547919,
                         48.129738
+                  ]
+            },
+            {
+                  "name": "Kockásliliom élőhelye",
+                  "text": "Kockásliliom élőhelye este o atracție naturală protejată care prezintă flora locală din Tarpa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.52023,
+                        48.13467
                   ]
             }
       ],
@@ -4247,6 +14357,15 @@ export const poiExtraHuV4: POI[] = [
                         22.547919,
                         48.129738
                   ]
+            },
+            {
+                  "name": "Kockásliliom élőhelye",
+                  "text": "Kockásliliom élőhelye is a protected natural attraction showcasing local flora in Tarpa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.52023,
+                        48.13467
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Túristvándi (Wassermühle)", "text": "Eine wunderschöne funktionierende Wassermühle am Túr-Fluss.", "distance": "16 km", "category": "landmark"}, {"name": "Csaroda (Kirche)", "text": "Die berühmte Kirche mit den 'lächelnden Heiligen'.", "distance": "14 km", "category": "historical"}], "hu": [{"name": "Túristvándi vízimalom", "text": "A Túr folyó partján álló, ma is működőképes, látványos fa vízimalom.", "distance": "16 km", "category": "landmark"}, {"name": "Csarodai templom", "text": "A híres román kori templom a mosolygó szentek freskóival.", "distance": "14 km", "category": "historical"}], "ro": [{"name": "Moara de apă din Túristvándi", "text": "O moară de apă monumentală pe râul Túr, celebră pentru arhitectura sa din lemn.", "distance": "16 km", "category": "landmark"}, {"name": "Biserica din Csaroda", "text": "Faimoasa biserică medievală cu fresce unice reprezentând sfinți zâmbitori.", "distance": "14 km", "category": "historical"}], "en": [{"name": "Túristvándi Watermill", "text": "A spectacular wooden watermill on the Túr river, still in functional condition.", "distance": "16 km", "category": "landmark"}, {"name": "Csaroda Church", "text": "The famous Romanesque church featuring the unique 'smiling saints' frescoes.", "distance": "14 km", "category": "historical"}]}, "parent": "szabolcs-szatmar-bereg"},
@@ -4265,11 +14384,266 @@ export const poiExtraHuV4: POI[] = [
                   "category": "religious",
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Bormúzeum",
+                  "text": "A tolcsvai borkészítés gazdag hagyományait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.449214,
+                        48.284442
+                  ]
+            },
+            {
+                  "name": "Királyudvar",
+                  "text": "Múzeumként és történelmi emlékhelyként funkcionáló épület Tolcsván.",
+                  "category": "museum",
+                  "coords": [
+                        21.445633,
+                        48.287998
+                  ]
+            },
+            {
+                  "name": "Szirmay-Waldbott-kastély",
+                  "text": "Történelmi kastélyépület Tolcsván, amely bepillantást enged a nemesi életmódba.",
+                  "category": "castle",
+                  "coords": [
+                        21.446549,
+                        48.285586
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "Tolcsva kulturális örökségét és múltját bemutató helytörténeti gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        21.455744,
+                        48.256249
+                  ]
+            },
+            {
+                  "name": "Oremus-kastély",
+                  "text": "Tolcsva bortermelő településén található nemesi kastélybirtok.",
+                  "category": "castle",
+                  "coords": [
+                        21.444725,
+                        48.286605
+                  ]
+            },
+            {
+                  "name": "Tolcsvai bormúzeum pincéi",
+                  "text": "A tolcsvai bormúzeum történelmi pincéi, amelyek a hagyományos szőlőkultúrát mutatják be.",
+                  "category": "museum",
+                  "coords": [
+                        21.444533,
+                        48.288836
+                  ]
+            },
+            {
+                  "name": "Oremus pince",
+                  "text": "Hagyományos borospince és turisztikai látványosság Tolcsván.",
+                  "category": "landmark",
+                  "coords": [
+                        21.442332,
+                        48.287328
+                  ]
             }
       ],
-      "de": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Bormúzeum",
+                  "text": "Ein Museum, das den reichen Weinbautraditionen von Tolcsva gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.449214,
+                        48.284442
+                  ]
+            },
+            {
+                  "name": "Királyudvar",
+                  "text": "Ein Museum und historisches Gebäude in Tolcsva.",
+                  "category": "museum",
+                  "coords": [
+                        21.445633,
+                        48.287998
+                  ]
+            },
+            {
+                  "name": "Szirmay-Waldbott-kastély",
+                  "text": "Ein historisches Herrenhaus, das Einblicke in das adelige Leben in Tolcsva bietet.",
+                  "category": "castle",
+                  "coords": [
+                        21.446549,
+                        48.285586
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "Eine heimatkundliche Sammlung, die das kulturelle Erbe von Tolcsva bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        21.455744,
+                        48.256249
+                  ]
+            },
+            {
+                  "name": "Oremus-kastély",
+                  "text": "Ein herrschaftliches Schlossgut in der Weinstadt Tolcsva.",
+                  "category": "castle",
+                  "coords": [
+                        21.444725,
+                        48.286605
+                  ]
+            },
+            {
+                  "name": "Tolcsvai bormúzeum pincéi",
+                  "text": "Die historischen Keller des Weinmuseums Tolcsva, die den traditionellen Weinbau zeigen.",
+                  "category": "museum",
+                  "coords": [
+                        21.444533,
+                        48.288836
+                  ]
+            },
+            {
+                  "name": "Oremus pince",
+                  "text": "Eine traditionelle Weinkeller-Attraktion in Tolcsva.",
+                  "category": "landmark",
+                  "coords": [
+                        21.442332,
+                        48.287328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bormúzeum",
+                  "text": "Un muzeu dedicat tradițiilor bogate de vinificație din Tolcsva.",
+                  "category": "museum",
+                  "coords": [
+                        21.449214,
+                        48.284442
+                  ]
+            },
+            {
+                  "name": "Királyudvar",
+                  "text": "Un muzeu și o clădire istorică în Tolcsva.",
+                  "category": "museum",
+                  "coords": [
+                        21.445633,
+                        48.287998
+                  ]
+            },
+            {
+                  "name": "Szirmay-Waldbott-kastély",
+                  "text": "Un conac istoric care oferă o perspectivă asupra vieții aristocratice din Tolcsva.",
+                  "category": "castle",
+                  "coords": [
+                        21.446549,
+                        48.285586
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "O colecție de istorie locală care păstrează patrimoniul cultural din Tolcsva.",
+                  "category": "museum",
+                  "coords": [
+                        21.455744,
+                        48.256249
+                  ]
+            },
+            {
+                  "name": "Oremus-kastély",
+                  "text": "O proprietate nobiliară situată în orașul viticol Tolcsva.",
+                  "category": "castle",
+                  "coords": [
+                        21.444725,
+                        48.286605
+                  ]
+            },
+            {
+                  "name": "Tolcsvai bormúzeum pincéi",
+                  "text": "Pivnițele istorice ale Muzeului Vinului din Tolcsva, care prezintă viticultura tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        21.444533,
+                        48.288836
+                  ]
+            },
+            {
+                  "name": "Oremus pince",
+                  "text": "O cramă tradițională și atracție turistică în Tolcsva.",
+                  "category": "landmark",
+                  "coords": [
+                        21.442332,
+                        48.287328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bormúzeum",
+                  "text": "A museum dedicated to the rich wine-making traditions of Tolcsva.",
+                  "category": "museum",
+                  "coords": [
+                        21.449214,
+                        48.284442
+                  ]
+            },
+            {
+                  "name": "Királyudvar",
+                  "text": "A museum and historical building in Tolcsva.",
+                  "category": "museum",
+                  "coords": [
+                        21.445633,
+                        48.287998
+                  ]
+            },
+            {
+                  "name": "Szirmay-Waldbott-kastély",
+                  "text": "A historic manor house offering insight into aristocratic life in Tolcsva.",
+                  "category": "castle",
+                  "coords": [
+                        21.446549,
+                        48.285586
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "A local history collection preserving the cultural heritage of Tolcsva.",
+                  "category": "museum",
+                  "coords": [
+                        21.455744,
+                        48.256249
+                  ]
+            },
+            {
+                  "name": "Oremus-kastély",
+                  "text": "A noble castle estate located in the wine-producing town of Tolcsva.",
+                  "category": "castle",
+                  "coords": [
+                        21.444725,
+                        48.286605
+                  ]
+            },
+            {
+                  "name": "Tolcsvai bormúzeum pincéi",
+                  "text": "The historic cellars of the Tolcsva Wine Museum, showcasing traditional viticulture.",
+                  "category": "museum",
+                  "coords": [
+                        21.444533,
+                        48.288836
+                  ]
+            },
+            {
+                  "name": "Oremus pince",
+                  "text": "A traditional wine cellar attraction in Tolcsva.",
+                  "category": "landmark",
+                  "coords": [
+                        21.442332,
+                        48.287328
+                  ]
+            }
+      ]
 }, "nearbySights": {"hu": [{"name": "Sárospataki Rákóczi-vár", "text": "A magyarországi reneszánsz építészet legértékesebb alkotása.", "distance": "16 km", "category": "historical"}, {"name": "Erdőbénye", "text": "A kádárok és a bor városa, festői környezetben.", "distance": "8 km", "category": "historical"}], "de": [{"name": "Burg Rákóczi in Sárospatak", "text": "Die bedeutendste Renaissance-Burg in ganz Ungarn.", "distance": "16 km", "category": "historical"}, {"name": "Erdőbénye", "text": "Ein malerisches Dorf bekannt für seine Fassmacher-Tradition.", "distance": "8 km", "category": "historical"}], "ro": [{"name": "Castelul Rákóczi din Sárospatak", "text": "Cea mai importantă fortăreață renascentistă din Ungaria.", "distance": "16 km", "category": "historical"}, {"name": "Erdőbénye", "text": "Un sat viticol pitoresc cunoscut pentru meșteșugul butoaielor.", "distance": "8 km", "category": "historical"}], "en": [{"name": "Rákóczi Castle, Sárospatak", "text": "The most prestigious Renaissance fortress in Hungary.", "distance": "16 km", "category": "historical"}, {"name": "Erdőbénye", "text": "A scenic village famous for its traditional cooperage industry.", "distance": "8 km", "category": "historical"}]}, "parent": "borsod-abauj-zemplen"},
   {"id": "vacratot", "type": "village", "coords": [19.2361, 47.7083], "population": 1900, "name": {"de": "Vácrátót", "hu": "Vácrátót", "ro": "Vácrátót", "en": "Vácrátót"}, "descriptionAdvanced": {"de": "Vácrátót ist eine charmante Gemeinde im Komitat Pest, etwa 30 Kilometer nördlich von Budapest. Das Dorf ist international bekannt für den Nationalen Botanischen Garten (Nemzeti Botanikus Kert), die reichste Pflanzensammlung Ungarns. Der Garten wurde im 19. Jahrhundert als romantischer Landschaftspark im Stil eines englischen Gartens angelegt und erstreckt sich heute über 27 Hektar. Mit seinen verschlungenen Pfaden, künstlichen Wasserfällen, kleinen Teichen und einer Wassermühle bietet er zu jeder Jahreszeit eine märchenhafte Kulisse. Neben den Tausenden von Pflanzenarten beherbergt der Garten auch das Institut für Ökologie und Botanik der Ungarischen Akademie der Wissenschaften. Das Dorf selbst bewahrt eine friedliche ländliche Atmosphäre mit einer schönen katholischen Kirche und mehreren historischen Gebäuden. Vácrátót ist ein idealer Ort für Erholungssuchende, Fotografen und Naturliebhaber, die die Ruhe abseits der Großstadt genießen möchten. Die architektonische Harmonie des Gartens und die wissenschaftliche Bedeutung machen Vácrátót zu einem herausragenden kulturellen und natürlichen Schatz des Landes.", "hu": "Vácrátót Pest vármegye északi részén, a Gödöllői-dombság és a Duna-völgy találkozásánál fekvő település, amely elsősorban világhírű botanikus kertjéről ismert. A Nemzeti Botanikus Kert Magyarország leggazdagabb élőnövény-gyűjteménye, amelyet a 19. század végén Vigyázó Sándor gróf alapított romantikus tájképi kertként. A 27 hektáros területen több mint 13 000 növényfaj található meg, a kertet kanyargós utak, tavak, vízesések és egy hangulatos vízimalom teszik varázslatossá. Vácrátót nemcsak kertészeti szempontból jelentős, hanem fontos tudományos központ is, hiszen itt működik az Ökológiai Kutatóközpont. A falu maga is rendezett, barátságos település, amelynek központjában a barokk stílusú római katolikus templom áll. A település ideális célpont a természetkedvelőknek, a csendre vágyóknak és a fotózás szerelmeseinek, különösen tavasszal és ősszel, amikor a kert színei a legteljesebb pompájukban mutatkoznak meg. A botanikus kert filmes forgatási helyszínként is népszerű, számos hazai és nemzetközi produkció hátteréül szolgált már.", "ro": "Vácrátót este o localitate încântătoare situată în județul Pest, la nord de Budapesta, fiind celebră pe plan internațional pentru găzduirea Grădinii Botanice Naționale a Ungariei. Aceasta reprezintă cea mai bogată colecție de plante vii din țară, fiind amenajată la sfârșitul secolului al XIX-lea în stilul unui parc peisagistic romantic. Pe o suprafață de 27 de hectare, vizitatorii pot explora o diversitate uluitoare de peste 13.000 de specii vegetale, de la arbori seculari la plante exotice în sere moderne. Grădina este străbătută de cursuri de apă, cascade artificiale și lacuri cu nuferi, oferind un decor de poveste care a servit drept platou de filmare pentru numeroase producții cinematografice. Satul în sine are o atmosferă calmă și bine întreținută, cu biserici istorice și o comunitate mândră de patrimoniul său natural. Vácrátót nu este doar o destinație turistică de relaxare, ci și un centru de cercetare ecologică de prestigiu, fiind sediul Institutului de Ecologie și Botanică. Pentru turiști, o vizită aici reprezintă o oportunitate rară de a se reconecta cu natura și de a admira măiestria arhitecturii peisagistice într-un cadru autentic maghiar.", "en": "Vácrátót is a serene village in Pest County, located about 30 kilometers north of Budapest, renowned for being home to the National Botanical Garden of Hungary. This 27-hectare botanical treasure is the largest and richest of its kind in the country, established in the late 19th century as a romantic English-style landscape park. It features over 13,000 plant species, winding trails, picturesque lakes, artificial waterfalls, and an old watermill, creating an enchanting atmosphere for visitors year-round. The garden also serves as a high-level research facility for the Centre for Ecological Research of the Hungarian Academy of Sciences. The village itself maintains a tidy, welcoming appearance with its Baroque Catholic church and peaceful streets. Vácrátót is a favorite destination for nature photographers, families, and those seeking a quiet escape into a lush, green environment. Its unique blend of scientific importance and romantic landscape design makes it one of the most significant cultural and natural landmarks in the Danube-Ipoly region."}, "factsAdvanced": {"de": ["Der Botanische Garten erstreckt sich über 27 Hektar.", "Gegründet wurde der Park in den 1870er Jahren von Graf Sándor Vigyázó.", "Es gibt über 13.000 verschiedene Pflanzenarten im Garten.", "Der Garten ist seit 1952 im Besitz der Akademie der Wissenschaften.", "Vácrátót liegt am Zusammenfluss von Hügelland und Donautal.", "Die Wassermühle im Garten stammt aus dem 19. Jahrhundert."], "hu": ["A kertben található Magyarország legnagyobb sziklakertje.", "A Nemzeti Botanikus Kertben több mint 3000 fa- és cserjeféle él.", "A Vigyázó-kastély sajnos a háborúban elpusztult, csak a kert maradt meg.", "Itt forgatták 'A Pál utcai fiúk' több jelenetét is.", "A község katolikus templomát 1745-ben építették.", "Évente több mint 100 000 látogató keresi fel a kertet."], "ro": ["Grădina dispune de sere tropicale cu nuferi uriași (Victoria amazonica).", "Colecția de arțari este una dintre cele mai variate din Europa.", "Vácrátót a fost menționat documentar prima dată în secolul al XIV-lea.", "Parcul a fost proiectat de celebrul peisagist Vilmos Jámbor.", "Grădina este arie protejată de interes național din 1961.", "Satul are o populație de aproximativ 1.900 de locuitori."], "en": ["The garden hosts the most diverse living plant collection in Hungary.", "The stone mill in the garden was built in 1890 in romantic style.", "Vácrátót is part of the Gödöllő Hills ecological corridor.", "The park features a dedicated collection of traditional Hungarian grapes.", "Many international films use the garden as a stand-in for jungle or forest.", "Located 210 meters above sea level."]}, "faq": {"de": [{"q": "Wann blühen die meisten Blumen im Botanischen Garten?", "a": "Die Hauptblütezeit ist im Mai und Juni, aber auch die Herbstfärbung im Oktober ist sehenswert."}, {"q": "Darf man im Garten picknicken?", "a": "Picknicken ist auf den Wiesen nicht erlaubt, es gibt aber ausgewiesene Ruhezonen."}, {"q": "Gibt es Führungen durch den Garten?", "a": "Ja, thematische Führungen können vorab für Gruppen gebucht werden."}, {"q": "Ist der Garten barrierefrei?", "a": "Die meisten Hauptwege sind eben und für Kinderwagen sowie Rollstühle gut befahrbar."}], "hu": [{"q": "Mennyibe kerül a belépő a botanikus kertbe?", "a": "Vannak kedvezményes diák, nyugdíjas és családi jegyek is, az árak mérsékeltek."}, {"q": "Lehet-e kutyát bevinni a kertbe?", "a": "Sajnos a botanikus kert területére kutyát vagy más háziállatot tilos bevinni."}, {"q": "Mikor van nyitva a kert?", "a": "Egész évben nyitva tart, főszezonban reggel 8-tól este 6-ig."}, {"q": "Van parkoló a bejáratnál?", "a": "Igen, a kert bejárata előtt ingyenes parkoló várja az autóval érkezőket."}], "ro": [{"q": "Grădina este deschisă și iarna?", "a": "Da, grădina poate fi vizitată tot anul, serele fiind atracția principală iarna."}, {"q": "Există toalete și cafenele în interior?", "a": "Da, există facilități moderne și o mică cafenea la intrare."}, {"q": "Se pot face ședințe foto profesionale?", "a": "Da, dar este necesară plata unei taxe suplimentare pentru fotografii comerciale sau nunți."}, {"q": "Cât timp durează parcurgerea întregii grădini?", "a": "O plimbare relaxată durează între 2 și 3 ore."}], "en": [{"q": "Is the botanical garden part of UNESCO?", "a": "No, but it is a highly protected National Monument of Hungary."}, {"q": "Can I reach Vácrátót by train?", "a": "The village has a railway stop on the Vác-Aszód line, about 15 mins walk from the garden."}, {"q": "What is the most famous plant in the greenhouse?", "a": "The giant water lilies and the tropical palm collection are the highlights."}, {"q": "Are there educational programs for children?", "a": "Yes, there is an 'ecological trail' specifically designed for school groups and kids."}]}, "sights": {
       "de": [
@@ -4282,6 +14656,60 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.233751,
                         47.709049
+                  ]
+            },
+            {
+                  "name": "Alsó-Tecze",
+                  "text": "Alsó-Tecze ist ein gesetzlich geschütztes Naturschutzgebiet in Vácrátót.",
+                  "category": "natural",
+                  "coords": [
+                        19.241851,
+                        47.682611
+                  ]
+            },
+            {
+                  "name": "Vácrátóti Botanikus Kert",
+                  "text": "Vácrátóti Botanikus Kert ist der renommierte Nationale Botanische Garten in Vácrátót.",
+                  "category": "park",
+                  "coords": [
+                        19.231728,
+                        47.707394
+                  ]
+            },
+            {
+                  "name": "Műromok",
+                  "text": "Műromok ist eine Sammlung künstlicher Ruinen, die als architektonisches Merkmal in Vácrátót dienen.",
+                  "category": "historical",
+                  "coords": [
+                        19.231746,
+                        47.708589
+                  ]
+            },
+            {
+                  "name": "Rudnay-kastély",
+                  "text": "Rudnay-kastély ist ein historisches Schloss in der Stadt Vácrátót.",
+                  "category": "castle",
+                  "coords": [
+                        19.260994,
+                        47.720879
+                  ]
+            },
+            {
+                  "name": "Gosztonyi-kastély",
+                  "text": "Gosztonyi-kastély ist ein lokales historisches Schloss in Vácrátót.",
+                  "category": "castle",
+                  "coords": [
+                        19.261849,
+                        47.724034
+                  ]
+            },
+            {
+                  "name": "Trópusi- és pálmaház",
+                  "text": "Trópusi- und pálmaház ist ein tropisches Palmenhaus und eine Attraktion in Vácrátót.",
+                  "category": "landmark",
+                  "coords": [
+                        19.229184,
+                        47.709873
                   ]
             }
       ],
@@ -4296,6 +14724,60 @@ export const poiExtraHuV4: POI[] = [
                         19.233751,
                         47.709049
                   ]
+            },
+            {
+                  "name": "Alsó-Tecze",
+                  "text": "Az Alsó-Tecze egy törvényileg védett természetvédelmi terület Vácrátóton.",
+                  "category": "natural",
+                  "coords": [
+                        19.241851,
+                        47.682611
+                  ]
+            },
+            {
+                  "name": "Vácrátóti Botanikus Kert",
+                  "text": "A Vácrátóti Botanikus Kert a híres Nemzeti Botanikus Kert Vácrátóton.",
+                  "category": "park",
+                  "coords": [
+                        19.231728,
+                        47.707394
+                  ]
+            },
+            {
+                  "name": "Műromok",
+                  "text": "A Műromok mesterséges romok gyűjteménye, amely építészeti látványosság Vácrátóton.",
+                  "category": "historical",
+                  "coords": [
+                        19.231746,
+                        47.708589
+                  ]
+            },
+            {
+                  "name": "Rudnay-kastély",
+                  "text": "A Rudnay-kastély egy történelmi kastély Vácrátót településén.",
+                  "category": "castle",
+                  "coords": [
+                        19.260994,
+                        47.720879
+                  ]
+            },
+            {
+                  "name": "Gosztonyi-kastély",
+                  "text": "A Gosztonyi-kastély egy helyi történelmi kastély Vácrátóton.",
+                  "category": "castle",
+                  "coords": [
+                        19.261849,
+                        47.724034
+                  ]
+            },
+            {
+                  "name": "Trópusi- és pálmaház",
+                  "text": "A Trópusi- és pálmaház egy trópusi pálmaház és látványosság Vácrátóton.",
+                  "category": "landmark",
+                  "coords": [
+                        19.229184,
+                        47.709873
+                  ]
             }
       ],
       "ro": [
@@ -4309,6 +14791,60 @@ export const poiExtraHuV4: POI[] = [
                         19.233751,
                         47.709049
                   ]
+            },
+            {
+                  "name": "Alsó-Tecze",
+                  "text": "Alsó-Tecze este o rezervație naturală protejată prin lege situată în Vácrátót.",
+                  "category": "natural",
+                  "coords": [
+                        19.241851,
+                        47.682611
+                  ]
+            },
+            {
+                  "name": "Vácrátóti Botanikus Kert",
+                  "text": "Vácrátóti Botanikus Kert este renumita Grădină Botanică Națională din Vácrátót.",
+                  "category": "park",
+                  "coords": [
+                        19.231728,
+                        47.707394
+                  ]
+            },
+            {
+                  "name": "Műromok",
+                  "text": "Műromok este o colecție de ruine artificiale care servesc ca element arhitectural în Vácrátót.",
+                  "category": "historical",
+                  "coords": [
+                        19.231746,
+                        47.708589
+                  ]
+            },
+            {
+                  "name": "Rudnay-kastély",
+                  "text": "Rudnay-kastély este un castel istoric situat în orașul Vácrátót.",
+                  "category": "castle",
+                  "coords": [
+                        19.260994,
+                        47.720879
+                  ]
+            },
+            {
+                  "name": "Gosztonyi-kastély",
+                  "text": "Gosztonyi-kastély este un castel istoric local situat în Vácrátót.",
+                  "category": "castle",
+                  "coords": [
+                        19.261849,
+                        47.724034
+                  ]
+            },
+            {
+                  "name": "Trópusi- és pálmaház",
+                  "text": "Trópusi- és pálmaház este o casă tropicală de palmieri și o atracție în Vácrátót.",
+                  "category": "landmark",
+                  "coords": [
+                        19.229184,
+                        47.709873
+                  ]
             }
       ],
       "en": [
@@ -4321,6 +14857,60 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         19.233751,
                         47.709049
+                  ]
+            },
+            {
+                  "name": "Alsó-Tecze",
+                  "text": "Alsó-Tecze is a legally protected nature reserve situated in Vácrátót.",
+                  "category": "natural",
+                  "coords": [
+                        19.241851,
+                        47.682611
+                  ]
+            },
+            {
+                  "name": "Vácrátóti Botanikus Kert",
+                  "text": "Vácrátóti Botanikus Kert is the renowned National Botanical Garden located in Vácrátót.",
+                  "category": "park",
+                  "coords": [
+                        19.231728,
+                        47.707394
+                  ]
+            },
+            {
+                  "name": "Műromok",
+                  "text": "Műromok is a collection of artificial ruins serving as an architectural feature in Vácrátót.",
+                  "category": "historical",
+                  "coords": [
+                        19.231746,
+                        47.708589
+                  ]
+            },
+            {
+                  "name": "Rudnay-kastély",
+                  "text": "Rudnay-kastély is a historical castle located in the town of Vácrátót.",
+                  "category": "castle",
+                  "coords": [
+                        19.260994,
+                        47.720879
+                  ]
+            },
+            {
+                  "name": "Gosztonyi-kastély",
+                  "text": "Gosztonyi-kastély is a local historical castle situated in Vácrátót.",
+                  "category": "castle",
+                  "coords": [
+                        19.261849,
+                        47.724034
+                  ]
+            },
+            {
+                  "name": "Trópusi- és pálmaház",
+                  "text": "Trópusi- és pálmaház is a tropical palm house and attraction in Vácrátót.",
+                  "category": "landmark",
+                  "coords": [
+                        19.229184,
+                        47.709873
                   ]
             }
       ]
@@ -4337,6 +14927,87 @@ export const poiExtraHuV4: POI[] = [
                         16.478647,
                         47.350865
                   ]
+            },
+            {
+                  "name": "Sibrik-kastély",
+                  "text": "Das Sibrik-Schloss, auch als Burg bekannt, ist ein historisches Bauwerk in Velem.",
+                  "category": "castle",
+                  "coords": [
+                        16.491952,
+                        47.329923
+                  ]
+            },
+            {
+                  "name": "Hörmann-forrás",
+                  "text": "Die Hörmann-Quelle ist eine natürliche Wasserquelle in der Nähe von Velem.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45939,
+                        47.358905
+                  ]
+            },
+            {
+                  "name": "Szent Vid-hegy",
+                  "text": "Der Szent Vid-hegy ist ein markanter Gipfel und ein beliebtes Wanderziel in Velem.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47732,
+                        47.351862
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "Die St.-Anna-Kirche ist ein friedliches Gotteshaus in Velem.",
+                  "category": "religious",
+                  "coords": [
+                        16.491883,
+                        47.325911
+                  ]
+            },
+            {
+                  "name": "Mindenszentek-templom",
+                  "text": "Die Allerheiligenkirche ist eine religiöse Stätte im Dorf Velem.",
+                  "category": "religious",
+                  "coords": [
+                        16.514589,
+                        47.340328
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "Der Aussichtspunkt Szépkilátó bietet einen Panoramablick auf die Landschaft um Velem.",
+                  "category": "natural",
+                  "coords": [
+                        16.477769,
+                        47.355188
+                  ]
+            },
+            {
+                  "name": "Bozsoki Borház",
+                  "text": "Das Bozsoki Borház ist ein Museum und Weinhaus in der Umgebung von Velem.",
+                  "category": "museum",
+                  "coords": [
+                        16.489804,
+                        47.32406
+                  ]
+            },
+            {
+                  "name": "Őskori sánc bejárat",
+                  "text": "Der prähistorische Wallzugang ist eine archäologische Stätte in Velem.",
+                  "category": "historical",
+                  "coords": [
+                        16.483443,
+                        47.349719
+                  ]
+            },
+            {
+                  "name": "Bozsok-puszta (várhely)",
+                  "text": "Bozsok-puszta ist der Standort einer ehemaligen Burg und eine archäologische Stätte bei Velem.",
+                  "category": "historical",
+                  "coords": [
+                        16.493556,
+                        47.325782
+                  ]
             }
       ],
       "hu": [
@@ -4349,6 +15020,87 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.478647,
                         47.350865
+                  ]
+            },
+            {
+                  "name": "Sibrik-kastély",
+                  "text": "A velemi Sibrik-vár egy egykori történelmi erődítmény és kastély a településen.",
+                  "category": "castle",
+                  "coords": [
+                        16.491952,
+                        47.329923
+                  ]
+            },
+            {
+                  "name": "Hörmann-forrás",
+                  "text": "A Hörmann-forrás egy népszerű és történelmi jelentőségű természetes forrás Velem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45939,
+                        47.358905
+                  ]
+            },
+            {
+                  "name": "Szent Vid-hegy",
+                  "text": "A Szent Vid-hegy egy jellegzetes hegycsúcs és kedvelt túracélpont Velem felett.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47732,
+                        47.351862
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "A Szent Anna-templom egy békés vallási épület és istentiszteleti hely Velemben.",
+                  "category": "religious",
+                  "coords": [
+                        16.491883,
+                        47.325911
+                  ]
+            },
+            {
+                  "name": "Mindenszentek-templom",
+                  "text": "A Mindenszentek temploma a velemi hívők egyik vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        16.514589,
+                        47.340328
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "A Szépkilátó gyönyörű panorámát nyújt Velem és a környező táj felett.",
+                  "category": "natural",
+                  "coords": [
+                        16.477769,
+                        47.355188
+                  ]
+            },
+            {
+                  "name": "Bozsoki Borház",
+                  "text": "A Bozsoki Borház egy helyi múzeum, amely a térség borkultúráját mutatja be Velem közelében.",
+                  "category": "museum",
+                  "coords": [
+                        16.489804,
+                        47.32406
+                  ]
+            },
+            {
+                  "name": "Őskori sánc bejárat",
+                  "text": "Az őskori sánc bejárata egy ősi védmű maradványa és régészeti lelőhely Velemben.",
+                  "category": "historical",
+                  "coords": [
+                        16.483443,
+                        47.349719
+                  ]
+            },
+            {
+                  "name": "Bozsok-puszta (várhely)",
+                  "text": "A Bozsok-puszta várhely egy történelmi emlékeket őrző régészeti lelőhely Velem határában.",
+                  "category": "historical",
+                  "coords": [
+                        16.493556,
+                        47.325782
                   ]
             }
       ],
@@ -4363,6 +15115,87 @@ export const poiExtraHuV4: POI[] = [
                         16.478647,
                         47.350865
                   ]
+            },
+            {
+                  "name": "Sibrik-kastély",
+                  "text": "Castelul Sibrik este o fortificație istorică și un monument situat în Velem.",
+                  "category": "castle",
+                  "coords": [
+                        16.491952,
+                        47.329923
+                  ]
+            },
+            {
+                  "name": "Hörmann-forrás",
+                  "text": "Izvorul Hörmann este o sursă naturală de apă situată în apropiere de Velem.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45939,
+                        47.358905
+                  ]
+            },
+            {
+                  "name": "Szent Vid-hegy",
+                  "text": "Szent Vid-hegy este un vârf proeminent și o destinație de drumeții populară în Velem.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47732,
+                        47.351862
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "Biserica Sfânta Ana este un lăcaș de cult liniștit din localitatea Velem.",
+                  "category": "religious",
+                  "coords": [
+                        16.491883,
+                        47.325911
+                  ]
+            },
+            {
+                  "name": "Mindenszentek-templom",
+                  "text": "Biserica Tuturor Sfinților este un edificiu religios situat în Velem.",
+                  "category": "religious",
+                  "coords": [
+                        16.514589,
+                        47.340328
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "Szépkilátó este un punct de belvedere ce oferă priveliști panoramice asupra împrejurimilor din Velem.",
+                  "category": "natural",
+                  "coords": [
+                        16.477769,
+                        47.355188
+                  ]
+            },
+            {
+                  "name": "Bozsoki Borház",
+                  "text": "Bozsoki Borház este un muzeu local dedicat culturii vinului, în apropiere de Velem.",
+                  "category": "museum",
+                  "coords": [
+                        16.489804,
+                        47.32406
+                  ]
+            },
+            {
+                  "name": "Őskori sánc bejárat",
+                  "text": "Intrarea în meterezul preistoric este un sit arheologic interesant din Velem.",
+                  "category": "historical",
+                  "coords": [
+                        16.483443,
+                        47.349719
+                  ]
+            },
+            {
+                  "name": "Bozsok-puszta (várhely)",
+                  "text": "Bozsok-puszta este locul unui fost castel și un sit arheologic situat lângă Velem.",
+                  "category": "historical",
+                  "coords": [
+                        16.493556,
+                        47.325782
+                  ]
             }
       ],
       "en": [
@@ -4376,14 +15209,459 @@ export const poiExtraHuV4: POI[] = [
                         16.478647,
                         47.350865
                   ]
+            },
+            {
+                  "name": "Sibrik-kastély",
+                  "text": "Sibrik Castle is a historic fortification and landmark located in Velem.",
+                  "category": "castle",
+                  "coords": [
+                        16.491952,
+                        47.329923
+                  ]
+            },
+            {
+                  "name": "Hörmann-forrás",
+                  "text": "The Hörmann Spring is a natural water source and popular nature spot near Velem.",
+                  "category": "landmark",
+                  "coords": [
+                        16.45939,
+                        47.358905
+                  ]
+            },
+            {
+                  "name": "Szent Vid-hegy",
+                  "text": "Szent Vid-hegy is a prominent peak and a popular hiking destination in Velem.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47732,
+                        47.351862
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "St. Anna Church is a peaceful place of worship located in Velem.",
+                  "category": "religious",
+                  "coords": [
+                        16.491883,
+                        47.325911
+                  ]
+            },
+            {
+                  "name": "Mindenszentek-templom",
+                  "text": "The All Saints Church is a religious building and place of worship in Velem.",
+                  "category": "religious",
+                  "coords": [
+                        16.514589,
+                        47.340328
+                  ]
+            },
+            {
+                  "name": "Szépkilátó",
+                  "text": "Szépkilátó is a scenic viewpoint offering panoramic vistas of the landscape around Velem.",
+                  "category": "natural",
+                  "coords": [
+                        16.477769,
+                        47.355188
+                  ]
+            },
+            {
+                  "name": "Bozsoki Borház",
+                  "text": "Bozsoki Borház is a local museum showcasing the region's wine culture near Velem.",
+                  "category": "museum",
+                  "coords": [
+                        16.489804,
+                        47.32406
+                  ]
+            },
+            {
+                  "name": "Őskori sánc bejárat",
+                  "text": "The prehistoric rampart entrance is an ancient defensive archaeological site in Velem.",
+                  "category": "historical",
+                  "coords": [
+                        16.483443,
+                        47.349719
+                  ]
+            },
+            {
+                  "name": "Bozsok-puszta (várhely)",
+                  "text": "Bozsok-puszta is the site of a former castle and an archaeological location near Velem.",
+                  "category": "historical",
+                  "coords": [
+                        16.493556,
+                        47.325782
+                  ]
             }
       ]
 }, "nearbySights": {"de": [{"name": "Írott-kő", "text": "Der höchste Berg Westungarns mit einem Aussichtsturm auf der Grenze.", "distance": "8 km", "category": "natural"}, {"name": "Kőszeg Altstadt", "text": "Ein mittelalterliches Juwel mit gut erhaltenen Gebäuden.", "distance": "7 km", "category": "historical"}], "hu": [{"name": "Írott-kő", "text": "A Dunántúl legmagasabb pontja, határkővel és kilátóval.", "distance": "8 km", "category": "natural"}, {"name": "Kőszegi belváros", "text": "Középkori hangulatú városmag a Jurisics-várral.", "distance": "7 km", "category": "historical"}], "ro": [{"name": "Vârful Írott-kő", "text": "Cel mai înalt punct din Ungaria de Vest, cu belvedere la graniță.", "distance": "8 km", "category": "natural"}, {"name": "Orașul Kőszeg", "text": "Centru istoric medieval foarte bine conservat.", "distance": "7 km", "category": "historical"}], "en": [{"name": "Írott-kő Peak", "text": "The highest peak in Transdanubia with a tower split by the border.", "distance": "8 km", "category": "natural"}, {"name": "Kőszeg Old Town", "text": "A stunning medieval town center with a rich military history.", "distance": "7 km", "category": "historical"}]}, "parent": "vas"},
   {"id": "vertesszolos", "type": "village", "coords": [18.3847, 47.6256], "population": 3200, "name": {"de": "Vértesszőlős", "hu": "Vértesszőlős", "ro": "Vértesszőlős", "en": "Vértesszőlős"}, "descriptionAdvanced": {"de": "Vértesszőlős ist eine weltweit bekannte Gemeinde im Komitat Komárom-Esztergom, am Fuße des Gerecse-Gebirges. Ihre internationale Berühmtheit verdankt sie der Entdeckung einer der ältesten paläolithischen Fundstätten Europas. Im Jahr 1965 fand der Archäologe László Vértes hier ein Hinterhauptbein eines Urmenschen, der heute liebevoll 'Samu' genannt wird und auf ein Alter von etwa 350.000 Jahren geschätzt wird. Die Fundstelle ist heute ein bedeutendes Freilichtmuseum, in dem Besucher nicht nur die Überreste der Siedlung, sondern auch versteinerte Fußabdrücke prähistorischer Tiere sehen können. Neben dieser archäologischen Sensation bietet das Dorf eine malerische Umgebung mit sanften Hügeln, die ideal für Wanderungen und Naturerkundungen sind. Die Architektur des Ortes ist typisch für die Region Transdanubien, mit gepflegten Gärten und einer historischen Barockkirche im Zentrum. Vértesszőlős liegt verkehrsgünstig an der Autobahn M1 und der Bahnlinie Budapest-Wien, was es zu einem beliebten Ziel für Tagesausflügler macht, die Geschichte und Natur verbinden möchten.", "hu": "Vértesszőlős a Gerecse hegység lábánál fekvő Komárom-Esztergom vármegyei település, amely világhírnevét az itt talált őskőkori leleteknek köszönheti. 1965-ben, Sámuel napján bukkantak rá egy körülbelül 350 ezer éves Homo erectus tarkócsontjára, akit a népnyelv azóta is 'Samu'-ként emleget. Ez a lelet az európai emberi fejlődéstörténet egyik legfontosabb bizonyítéka, és a köré épült bemutatóhely ma a Magyar Nemzeti Múzeum filiáléjaként működik. A lelőhelyen nemcsak az ősember maradványait, hanem állati lábnyomokat és különleges mésztufa-formációkat is láthatunk, amelyek az egykori hévizes források környezetében konzerválódtak. A község azonban nemcsak a múlté: dinamikusan fejlődő kertvárosi jellegű település, amely Tatabánya és Tata közvetlen szomszédságában fekszik. A falu határában húzódó túraútvonalak a Gerecse érintetlen erdőibe vezetnek, ahol a kirándulók ritka növényfajokkal és lenyűgöző panorámával találkozhatnak. A helyi közösség aktívan ápolja hagyományait, a falunapok és kulturális rendezvények vonzzák a környék lakóit is.", "ro": "Vértesszőlős este o comună situată în județul Komárom-Esztergom, la poalele munților Gerecse, celebră pe plan mondial pentru situl arheologic paleolitic descoperit aici. În anul 1965, arheologii au scos la lumină un fragment de os occipital aparținând unui precursor al omului modern, supranumit 'Samu', a cărui vechime este estimată la aproximativ 350.000 de ani. Acest sit reprezintă una dintre cele mai timpurii dovezi ale locuirii umane în Europa Centrală și este protejat în cadrul unui muzeu în aer liber deosebit. Vizitatorii pot admira nu doar fosilele umane, ci și urme de pași pietrificate ale animalelor preistorice care s-au păstrat în straturile de travertin. Pe lângă valoarea sa istorică, localitatea beneficiază de o poziție geografică privilegiată, fiind un punct de plecare ideal pentru drumeții în pădurile de foioase din regiune. Localitatea a reușit să își păstreze caracterul rural autentic, în ciuda apropierii de centre industriale precum Tatabánya. Pentru turiștii pasionați de preistorie și geologie, Vértesszőlős este o destinație obligatorie, oferind o lecție vie despre evoluția vieții pe pământ într-un cadru natural relaxant.", "en": "Vértesszőlős is a globally significant archaeological site located in Komárom-Esztergom County, nestled between the Gerecse Mountains and the Tata basin. It gained international fame in the mid-1960s when fragments of a Homo erectus skull were unearthed, belonging to an early human nicknamed 'Samu' (Samuel). Dating back approximately 350,000 years, this site provides crucial evidence of early human activity in the Carpathian Basin. Today, the location functions as an open-air museum under the supervision of the Hungarian National Museum, where visitors can see ancient fire pits, tool-making areas, and petrified footprints of prehistoric animals preserved in freshwater limestone. The village itself is a peaceful settlement with a rich cultural life, balancing its prehistoric heritage with modern development. Its location near the M1 highway and the main railway line connecting Budapest and Vienna makes it easily accessible for international travelers. The surrounding Gerecse hills offer numerous hiking trails, scenic viewpoints, and a chance to explore the unique geological formations typical of Central Transdanubia."}, "factsAdvanced": {"de": ["Samu lebte vor etwa 350.000 Jahren.", "Die Fundstelle wurde beim Abbau von Süßwasserkalk entdeckt.", "Samu gehört zur Spezies Homo erectus seu sapiens.", "Es wurden über 100 Tierfußabdrücke im Travertin gefunden.", "Das Freilichtmuseum ist Teil des Ungarischen Nationalmuseums.", "Die Gemeinde liegt auf einer Höhe von 150-200 Metern."], "hu": ["A leleteket 1965. augusztus 21-én találták meg.", "Samu tarkócsontja mellett két gyerektagú tejfogat is találtak.", "A lelőhelyen 20 különböző emlősfaj lábnyoma azonosítható.", "A terület eredetileg egy mésztufa-bánya volt.", "A múzeum parkjában egy életnagyságú Samu-szobor is látható.", "Vértesszőlős területe már a római korban is lakott volt."], "ro": ["Situl arheologic este inclus pe lista indicativă UNESCO.", "Numele 'Samu' vine de la ziua Sfântului Samuel, data descoperirii.", "Grosimea stratului de travertin atinge în unele locuri 10 metri.", "Urmele de pași includ specii de rinoceri și urși de peșteră.", "Satul are o populație de aproximativ 3.200 de locuitori.", "Distanța până la Budapesta este de circa 55 de kilometri."], "en": ["Samu's skull fragment is one of the oldest human remains in Europe.", "The site features one of the world's best-preserved prehistoric fireplaces.", "The museum building was designed specifically to protect the calcified layers.", "Average annual temperature in the area is 10.2°C.", "The village name refers to the historical viticulture of the Vértes region.", "Over 3,000 stone tools were found at the excavation site."]}, "faq": {"de": [{"q": "Kann man die echten Knochen von Samu sehen?", "a": "Im Museum vor Ort sind hochwertige Repliken ausgestellt, die Originale befinden sich im Nationalmuseum."}, {"q": "Ist die Fundstelle ganzjährig geöffnet?", "a": "Nein, das Freilichtmuseum hat meist von April bis Oktober Saison."}, {"q": "Gibt es Führungen in deutscher Sprache?", "a": "Es gibt Informationstafeln in mehreren Sprachen, persönliche Führungen sollten vorab gebucht werden."}, {"q": "Wie weit ist es von Tatabánya entfernt?", "a": "Vértesszőlős grenzt direkt an Tatabánya, es sind nur ca. 5 Minuten mit dem Auto."}], "hu": [{"q": "Hol található pontosan az ősember-lelőhely?", "a": "A falu északi szélén, a 1-es főút mellett táblák jelzik a bejáratot."}, {"q": "Gyerekeknek érdekes a kiállítás?", "a": "Igen, a lábnyomok és az életnagyságú szobrok nagyon látványosak a kisebbeknek is."}, {"q": "Lehet fotózni a múzeumban?", "a": "Igen, vaku használata nélkül szabad felvételeket készíteni."}, {"q": "Van parkoló a bejáratnál?", "a": "Igen, ingyenes parkoló áll a látogatók rendelkezésére."}], "ro": [{"q": "Cât durează vizitarea sitului arheologic?", "a": "O vizită completă durează aproximativ 60-90 de minute."}, {"q": "Se pot cumpăra suveniruri?", "a": "Da, există un mic magazin la recepția muzeului cu replici și cărți poștale."}, {"q": "Este accesibil situl persoanelor cu mobilitate redusă?", "a": "Parțial, deoarece unele secțiuni au trepte naturale în teren."}, {"q": "Există restaurante în sat?", "a": "Da, există câteva restaurante și cafenele de-a lungul drumului principal."}], "en": [{"q": "What species did Samu belong to?", "a": "He is classified as Homo erectus (with some transitional features towards Homo sapiens)."}, {"q": "Is the site located outdoors?", "a": "Much of it is under protective pavilions, but it is an open-air complex."}, {"q": "Can I visit Samu's site by train?", "a": "Yes, there is a railway stop in the village, about 15 minutes walk from the site."}, {"q": "Why are there footprints in the stone?", "a": "The animals walked in soft mud around thermal springs which later calcified into stone."}]}, "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Vértesszőlősi előembertelep",
+                  "text": "Vértesszőlősi előembertelep ist ein wichtiges prähistorisches Siedlungsmuseum in Vértesszőlős.",
+                  "category": "museum",
+                  "coords": [
+                        18.383836,
+                        47.624146
+                  ]
+            },
+            {
+                  "name": "Kereszt-hát",
+                  "text": "Kereszt-hát ist ein markanter lokaler Gipfel in Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.407109,
+                        47.647655
+                  ]
+            },
+            {
+                  "name": "Szent Péter-rotunda",
+                  "text": "Szent Péter-rotunda umfasst die historischen Ruinen einer Rotunde in Vértesszőlős.",
+                  "category": "historical",
+                  "coords": [
+                        18.409585,
+                        47.64456
+                  ]
+            },
+            {
+                  "name": "Siklóernyős starthely (Ny)",
+                  "text": "Siklóernyős starthely (Ny) dient als westlicher Start-Aussichtspunkt für Gleitschirmflieger in Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.4083,
+                        47.6191
+                  ]
+            },
+            {
+                  "name": "Toli-pihenő",
+                  "text": "Toli-pihenő ist ein entspannender malerischer Aussichtspunkt in der Gegend von Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.393088,
+                        47.635338
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett természeti terület",
+                  "text": "Fokozottan védett természeti terület ist ein streng geschütztes Naturschutzgebiet in Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.388264,
+                        47.647057
+                  ]
+            },
+            {
+                  "name": "Vértesszőlősi előembertelep TT",
+                  "text": "Vértesszőlősi előembertelep TT ist ein ausgewiesenes Naturschutzgebiet um die prähistorische Siedlung in Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.386762,
+                        47.626163
+                  ]
+            },
+            {
+                  "name": "Kisboldogasszony-templom",
+                  "text": "Die Kisboldogasszony-templom ist ein denkmalgeschütztes Kirchengebäude in Vértesszőlős.",
+                  "category": "historical",
+                  "coords": [
+                        18.381723,
+                        47.619506
+                  ]
+            },
+            {
+                  "name": "harckocsi",
+                  "text": "Dieser Panzer ist eine lokale militärische Attraktion in Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.357404,
+                        47.644627
+                  ]
+            },
+            {
+                  "name": "Jézus lábnyoma-kő",
+                  "text": "Der Fußabdruck Jesu-Stein ist eine lokale Attraktion in Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.40804,
+                        47.615069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vértesszőlősi előembertelep",
+                  "text": "A Vértesszőlősi előembertelep egy fontos őskori települést bemutató múzeum Vértesszőlősön.",
+                  "category": "museum",
+                  "coords": [
+                        18.383836,
+                        47.624146
+                  ]
+            },
+            {
+                  "name": "Kereszt-hát",
+                  "text": "A Kereszt-hát egy kiemelkedő helyi hegycsúcs Vértesszőlősön.",
+                  "category": "landmark",
+                  "coords": [
+                        18.407109,
+                        47.647655
+                  ]
+            },
+            {
+                  "name": "Szent Péter-rotunda",
+                  "text": "A Szent Péter-rotunda egy történelmi rotunda romjait mutatja be Vértesszőlősön.",
+                  "category": "historical",
+                  "coords": [
+                        18.409585,
+                        47.64456
+                  ]
+            },
+            {
+                  "name": "Siklóernyős starthely (Ny)",
+                  "text": "A Siklóernyős starthely (Ny) egy nyugati siklóernyős starthely és kilátó Vértesszőlősön.",
+                  "category": "natural",
+                  "coords": [
+                        18.4083,
+                        47.6191
+                  ]
+            },
+            {
+                  "name": "Toli-pihenő",
+                  "text": "A Toli-pihenő egy pihentető, festői kilátó Vértesszőlős környékén.",
+                  "category": "natural",
+                  "coords": [
+                        18.393088,
+                        47.635338
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett természeti terület",
+                  "text": "A Fokozottan védett természeti terület egy kiemelten védett természetvédelmi régió Vértesszőlősön.",
+                  "category": "natural",
+                  "coords": [
+                        18.388264,
+                        47.647057
+                  ]
+            },
+            {
+                  "name": "Vértesszőlősi előembertelep TT",
+                  "text": "A Vértesszőlősi előembertelep TT a vértesszőlősi őstelepet körülvevő kijelölt természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        18.386762,
+                        47.626163
+                  ]
+            },
+            {
+                  "name": "Kisboldogasszony-templom",
+                  "text": "A Kisboldogasszony-templom egy műemléki védelem alatt álló épület Vértesszőlősön.",
+                  "category": "historical",
+                  "coords": [
+                        18.381723,
+                        47.619506
+                  ]
+            },
+            {
+                  "name": "harckocsi",
+                  "text": "Ez a harckocsi egy helyi katonai látványosság Vértesszőlősön.",
+                  "category": "landmark",
+                  "coords": [
+                        18.357404,
+                        47.644627
+                  ]
+            },
+            {
+                  "name": "Jézus lábnyoma-kő",
+                  "text": "A Jézus lábnyoma-kő egy érdekes helyi látványosság Vértesszőlősön.",
+                  "category": "landmark",
+                  "coords": [
+                        18.40804,
+                        47.615069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vértesszőlősi előembertelep",
+                  "text": "Vértesszőlősi előembertelep este un important muzeu al unei așezări preistorice din Vértesszőlős.",
+                  "category": "museum",
+                  "coords": [
+                        18.383836,
+                        47.624146
+                  ]
+            },
+            {
+                  "name": "Kereszt-hát",
+                  "text": "Kereszt-hát este un vârf local proeminent situat în Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.407109,
+                        47.647655
+                  ]
+            },
+            {
+                  "name": "Szent Péter-rotunda",
+                  "text": "Szent Péter-rotunda prezintă ruinele istorice ale unei rotunde în Vértesszőlős.",
+                  "category": "historical",
+                  "coords": [
+                        18.409585,
+                        47.64456
+                  ]
+            },
+            {
+                  "name": "Siklóernyős starthely (Ny)",
+                  "text": "Siklóernyős starthely (Ny) servește drept punct de pornire vestic pentru parapantism în Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.4083,
+                        47.6191
+                  ]
+            },
+            {
+                  "name": "Toli-pihenő",
+                  "text": "Toli-pihenő este un punct de belvedere relaxant situat în zona Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.393088,
+                        47.635338
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett természeti terület",
+                  "text": "Fokozottan védett természeti terület este o rezervație naturală strict protejată în Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.388264,
+                        47.647057
+                  ]
+            },
+            {
+                  "name": "Vértesszőlősi előembertelep TT",
+                  "text": "Vértesszőlősi előembertelep TT este o rezervație naturală desemnată care înconjoară așezarea preistorică din Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.386762,
+                        47.626163
+                  ]
+            },
+            {
+                  "name": "Kisboldogasszony-templom",
+                  "text": "Kisboldogasszony-templom este un monument istoric și religios situat în Vértesszőlős.",
+                  "category": "historical",
+                  "coords": [
+                        18.381723,
+                        47.619506
+                  ]
+            },
+            {
+                  "name": "harckocsi",
+                  "text": "Acest tanc este o atracție militară locală situată în Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.357404,
+                        47.644627
+                  ]
+            },
+            {
+                  "name": "Jézus lábnyoma-kő",
+                  "text": "Piatra cu amprenta lui Iisus este o atracție locală interesantă din Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.40804,
+                        47.615069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vértesszőlősi előembertelep",
+                  "text": "Vértesszőlősi előembertelep is an important prehistoric settlement museum in Vértesszőlős.",
+                  "category": "museum",
+                  "coords": [
+                        18.383836,
+                        47.624146
+                  ]
+            },
+            {
+                  "name": "Kereszt-hát",
+                  "text": "Kereszt-hát is a prominent local peak situated in Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.407109,
+                        47.647655
+                  ]
+            },
+            {
+                  "name": "Szent Péter-rotunda",
+                  "text": "Szent Péter-rotunda features the historical ruins of a rotunda in Vértesszőlős.",
+                  "category": "historical",
+                  "coords": [
+                        18.409585,
+                        47.64456
+                  ]
+            },
+            {
+                  "name": "Siklóernyős starthely (Ny)",
+                  "text": "Siklóernyős starthely (Ny) serves as a western starting viewpoint for paragliding in Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.4083,
+                        47.6191
+                  ]
+            },
+            {
+                  "name": "Toli-pihenő",
+                  "text": "Toli-pihenő is a relaxing scenic viewpoint located in the Vértesszőlős area.",
+                  "category": "natural",
+                  "coords": [
+                        18.393088,
+                        47.635338
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett természeti terület",
+                  "text": "Fokozottan védett természeti terület is a highly protected nature reserve in Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.388264,
+                        47.647057
+                  ]
+            },
+            {
+                  "name": "Vértesszőlősi előembertelep TT",
+                  "text": "Vértesszőlősi előembertelep TT is a designated nature reserve surrounding the prehistoric settlement in Vértesszőlős.",
+                  "category": "natural",
+                  "coords": [
+                        18.386762,
+                        47.626163
+                  ]
+            },
+            {
+                  "name": "Kisboldogasszony-templom",
+                  "text": "The Kisboldogasszony-templom is a historical monument located in Vértesszőlős.",
+                  "category": "historical",
+                  "coords": [
+                        18.381723,
+                        47.619506
+                  ]
+            },
+            {
+                  "name": "harckocsi",
+                  "text": "This tank is a local military attraction situated in Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.357404,
+                        47.644627
+                  ]
+            },
+            {
+                  "name": "Jézus lábnyoma-kő",
+                  "text": "The Jesus' footprint stone is an intriguing local attraction in Vértesszőlős.",
+                  "category": "landmark",
+                  "coords": [
+                        18.40804,
+                        47.615069
+                  ]
+            }
+      ]
 }, "nearbySights": {"de": [{"name": "Tata", "text": "Die Stadt der Gewässer mit einer mittelalterlichen Burg und dem Öreg-See.", "distance": "7 km", "category": "historical"}, {"name": "Turul-Denkmal", "text": "Das größte Vogeldenkmal Europas auf dem Bergkamm oberhalb von Tatabánya.", "distance": "5 km", "category": "civic"}], "hu": [{"name": "Tata", "text": "A vizek városa, ahol a vár és az Öreg-tó nyújt kikapcsolódást.", "distance": "7 km", "category": "historical"}, {"name": "Turul-emlékmű", "text": "Európa egyik legnagyobb madárszobra a Kő-hegy tetején, lenyűgöző kilátással.", "distance": "5 km", "category": "civic"}], "ro": [{"name": "Tata", "text": "Un oraș superb cu un castel medieval și un lac natural imens în centru.", "distance": "7 km", "category": "historical"}, {"name": "Monumentul Turul", "text": "O statuie gigantică de bronz a unei păsări mitice, oferind o panoramă asupra orașului Tatabánya.", "distance": "5 km", "category": "civic"}], "en": [{"name": "Tata", "text": "Known as the City of Waters, featuring a medieval castle on the lakeshore.", "distance": "7 km", "category": "historical"}, {"name": "Turul Monument", "text": "A colossal bronze statue of a mythical bird overlooking the region from Tatabánya cliff.", "distance": "5 km", "category": "civic"}]}, "parent": "komarom-esztergom"},
   {"id": "zalavar", "type": "village", "coords": [17.1645, 46.666], "population": 842, "name": {"de": "Zalavár", "hu": "Zalavár", "ro": "Zalavár", "en": "Zalavár"}, "descriptionAdvanced": {"de": "Zalavár ist ein Ort von herausragender historischer und ökologischer Bedeutung im Südwesten Ungarns, gelegen am Ufer des Kis-Balaton (Kleiner Plattensee). Historisch gesehen war Zalavár im 9. Jahrhundert unter dem Namen Mosaburg das Zentrum des Plattensee-Fürstentums und ein bedeutender Vorposten des Christentums in Zentraleuropa. Hier wirkten die heiligen Brüder Kyrill und Method, die als Slawenapostel bekannt sind, und legten den Grundstein für die slawische Schrift. Die archäologischen Ausgrabungen auf der sogenannten Burginsel (Vársziget) haben die Fundamente der St.-Adrian-Basilika und andere mittelalterliche Bauten freigelegt, die heute Teil eines historischen Gedenkparks sind. Ökologisch gesehen ist Zalavár das Tor zum Kis-Balaton-Naturschutzgebiet, einem der bedeutendsten Feuchtgebiete Europas nach der Ramsar-Konvention. Das Kis-Balaton-Haus fungiert als Besucherzentrum und bietet interaktive Ausstellungen über die Flora und Fauna der Region, insbesondere über die reiche Vogelwelt. Die Gemeinde ist ein ideales Ziel für Geschichtsinteressierte und Naturliebhaber gleichermaßen, da sie die spirituelle Erbschaft des Mittelalters mit der wilden Schönheit einer unberührten Sumpflandschaft verbindet.", "hu": "Zalavár Zala vármegye keleti szélén, a Kis-Balaton közvetlen szomszédságában fekvő település, amely Magyarország egyik legfontosabb történelmi és természeti emlékhelye. A 9. században Mosaburg néven a Dunántúl egyik legjelentősebb központja, a Pannóniai Fejedelemség székhelye volt. Itt tevékenykedett Cirill és Metód, a szláv írásbeliség megteremtői, és itt épült fel Szent Adorján mártír bazilikája is, amelynek alapjait a régészeti feltárások során az úgynevezett Várszigeten találták meg. A Zalavári Történelmi Emlékpark bemutatja a település középkori dicsőségét, beleértve a bazilika rekonstruált alapjait és a Makovecz Imre által tervezett emlékhelyet. A falu ma a Kis-Balaton természetvédelmi területének kapuja; a Kis-Balaton Ház modern látogatóközpontként várja az érdeklődőket, ahol interaktív módon ismerhető meg a vidék különleges mocsárvilága, halállománya és gazdag madárfaunája. Zalavár ideális kiindulópont a természetfotósok és a madárfigyelők számára, miközben a falu kulturális rendezvényei a múlt tiszteletére és a közösség összetartására épülnek. A vidék nyugalma és a mocsári táj misztikus hangulata minden látogatót magával ragad.", "ro": "Zalavár este o localitate cu o rezonanță istorică și ecologică profundă, situată la marginea rezervației naturale Kis-Balaton din vestul Ungariei. În secolul al IX-lea, sub numele de Mosaburg, a fost capitala Principatului Panoniei și un centru spiritual major unde Sfinții Chiril și Metodiu au desfășurat o activitate misionară crucială pentru popoarele slave. Astăzi, Parcul Memorial Istoric din Zalavár adăpostește fundațiile bazilicii Sfântul Adrian și monumente dedicate apostolilor slavilor, fiind un loc de pelerinaj cultural și religios. Din punct de vedere natural, localitatea servește ca poartă principală către zona umedă protejată Kis-Balaton, inclusă în convenția Ramsar datorită importanței sale internaționale pentru păsările migratoare. Casa Kis-Balaton este centrul de vizitare principal, oferind expoziții moderne despre reconstrucția ecologică a zonei și despre speciile rare care trăiesc în stufărișurile din jur. Peisajul este marcat de întinderi mari de apă, mlaștini și păduri inundabile, oferind condiții spectaculoase pentru ecoturism. Zalavár reușește să combine moștenirea milenară a primelor state creștine din Europa Centrală cu eforturile moderne de conservare a naturii, fiind o destinație esențială pentru înțelegerea istoriei bazinului panonic.", "en": "Zalavár is a site of immense historical and ecological significance located on the edge of the Kis-Balaton (Little Balaton) wetland in southwestern Hungary. In the 9th century, known as Mosaburg, it served as the capital of the Principality of Lower Pannonia and a major European cultural hub where Saints Cyril and Methodius preached and refined the Glagolitic script. The Historical Memorial Park on the Castle Island (Vársziget) features the excavated foundations of the St. Adrian Basilica and other significant medieval structures, serving as a testament to the region's early Christian heritage. Geographically, Zalavár is the gateway to the Kis-Balaton nature reserve, a Ramsar-protected wetland vital for continental bird migration. The Kis-Balaton House acts as a modern visitor center, offering interactive exhibits on the complex ecosystem, local history, and the unique flora of the marshes. The village is a destination of choice for birdwatchers and history enthusiasts, offering a blend of archaeological discovery and serene nature walks. Zalavár's unique atmosphere stems from its position at the intersection of a thousand-year-old spiritual legacy and one of Central Europe's most important wildlife sanctuaries."}, "factsAdvanced": {"de": ["Zalavár war im 9. Jahrhundert unter dem Namen Mosaburg bekannt.", "Die St.-Adrian-Basilika war einst eines der größten Gotteshäuser Zentraleuropas.", "Das Kis-Balaton-Haus bietet 400 Quadratmeter Ausstellungsfläche.", "Zalavár liegt im Einzugsgebiet des Flusses Zala.", "Die archäologischen Grabungen auf der Vársziget begannen bereits 1948.", "Die Gemeinde gehört zum Nationalpark Balaton-Oberland."], "hu": ["A 9. században Mosaburg a Pannóniai Fejedelemség székhelye volt.", "Szent Adorján bazilikájának alapjai ma is láthatók a Várszigeten.", "Cirill és Metód 867-ben több hónapot töltött Zalaváron.", "A Kis-Balaton Ház 2000-ben nyitotta meg kapuit a látogatók előtt.", "A település területe 31,06 négyzetkilométer.", "A Kis-Balaton területe nemzetközi jelentőségű vizes élőhely."], "ro": ["Zalavár a fost menționată în izvoarele carolingiene ca Mosapurc.", "Bazilica Sf. Adrian a fost sfințită în jurul anului 850 d.Hr.", "Localitatea găzduiește o stație meteorologică și hidrologică importantă.", "Parcul Memorial cuprinde sculpturi moderne și fundații medievale.", "Zalavár se află la aproximativ 10 km sud-vest de lacul Balaton.", "Fauna din jur include peste 250 de specii de păsări înregistrate."], "en": ["In the 9th century, Mosaburg was the political center of Transdanubia.", "The foundations of St. Adrian's Basilica are preserved in the Memorial Park.", "Saints Cyril and Methodius translated liturgy here during their stay in 867 AD.", "The Kis-Balaton House features an interactive model of the wetland area.", "Zalavár has a total area of 31.06 square kilometers.", "The settlement is a key location for the regional ecological restoration project."]}, "faq": {"de": [{"q": "Ist der Eintritt in den Gedenkpark frei?", "a": "Ja, der Außenbereich des Gedenkparks ist frei zugänglich."}, {"q": "Können Kinder das Kis-Balaton-Haus besuchen?", "a": "Ja, das Haus ist sehr kinderfreundlich mit vielen interaktiven Elementen."}, {"q": "Gibt es geführte Bootstouren im Kis-Balaton?", "a": "Ab Zalavár gibt es begrenzte Angebote, meist starten Touren in Kányavár."}, {"q": "Gibt es im Dorf Restaurants?", "a": "Es gibt kleine Gasthöfe und Buffets in der Nähe des Besucherzentrums."}], "hu": [{"q": "Mikor van nyitva a Kis-Balaton Ház?", "a": "Általában márciustól novemberig, délelőtt 9-től délután 5-ig várja a vendégeket."}, {"q": "Látogatható-e a Vársziget kutyával?", "a": "Igen, pórázon vezetve a Gedenkpark területére bevihetők a háziállatok."}, {"q": "Vannak-e kerékpárutak a környéken?", "a": "Igen, Zalavár érintett több regionális kerékpáros túraútvonalban is."}, {"q": "Milyen messze van a sármelléki repülőtér?", "a": "A Hévíz-Balaton Airport mindössze 5 kilométerre található."}], "ro": [{"q": "Există ghidaj în limba engleză la muzeu?", "a": "Majoritatea panourilor informative din Parcul Memorial sunt bilingve."}, {"q": "Se pot vedea păsări de pe mal?", "a": "Da, există puncte de observație special amenajate în apropierea satului."}, {"q": "Este permis pescuitul în Kis-Balaton?", "a": "Doar în zonele desemnate și cu permise speciale, fiind o arie strict protejată."}, {"q": "Există locuri de campare în Zalavár?", "a": "Există câteva opțiuni de cazare rurală, dar campingurile mari sunt spre Balaton."}], "en": [{"q": "What is the best time for birdwatching?", "a": "Early morning in spring or late afternoon in autumn during migration periods."}, {"q": "Is the Memorial Park wheelchair accessible?", "a": "The main paths are mostly flat and accessible for visitors with limited mobility."}, {"q": "How can I reach the ruins from the village?", "a": "They are located about 1 km from the center, easily reached by a paved road."}, {"q": "Is photography allowed in the Kis-Balaton House?", "a": "Yes, photography is permitted for personal use inside the visitor center."}]}, "sights": {
       "de": [
@@ -4396,6 +15674,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.137413,
                         46.661476
+                  ]
+            },
+            {
+                  "name": "Zsilip kilátó",
+                  "text": "Der Aussichtspunkt Zsilip in Zalavár.",
+                  "category": "natural",
+                  "coords": [
+                        17.155311,
+                        46.646162
+                  ]
+            },
+            {
+                  "name": "Récéskúti bazilika",
+                  "text": "Die Ruinen der Basilika Récéskút in Zalavár.",
+                  "category": "historical",
+                  "coords": [
+                        17.141998,
+                        46.666607
+                  ]
+            },
+            {
+                  "name": "Közösségi színtér",
+                  "text": "Ein Gemeinschaftstheater in Zalavár.",
+                  "category": "cultural",
+                  "coords": [
+                        17.154062,
+                        46.668576
                   ]
             }
       ],
@@ -4410,6 +15715,33 @@ export const poiExtraHuV4: POI[] = [
                         17.137413,
                         46.661476
                   ]
+            },
+            {
+                  "name": "Zsilip kilátó",
+                  "text": "A Zsilip kilátó Zalaváron.",
+                  "category": "natural",
+                  "coords": [
+                        17.155311,
+                        46.646162
+                  ]
+            },
+            {
+                  "name": "Récéskúti bazilika",
+                  "text": "A Récéskúti bazilika romjai Zalaváron.",
+                  "category": "historical",
+                  "coords": [
+                        17.141998,
+                        46.666607
+                  ]
+            },
+            {
+                  "name": "Közösségi színtér",
+                  "text": "Közösségi színtér Zalaváron.",
+                  "category": "cultural",
+                  "coords": [
+                        17.154062,
+                        46.668576
+                  ]
             }
       ],
       "ro": [
@@ -4423,6 +15755,33 @@ export const poiExtraHuV4: POI[] = [
                         17.137413,
                         46.661476
                   ]
+            },
+            {
+                  "name": "Zsilip kilátó",
+                  "text": "Punctul de belvedere Zsilip din Zalavár.",
+                  "category": "natural",
+                  "coords": [
+                        17.155311,
+                        46.646162
+                  ]
+            },
+            {
+                  "name": "Récéskúti bazilika",
+                  "text": "Ruinele bazilicii Récéskút din Zalavár.",
+                  "category": "historical",
+                  "coords": [
+                        17.141998,
+                        46.666607
+                  ]
+            },
+            {
+                  "name": "Közösségi színtér",
+                  "text": "Un teatru comunitar în Zalavár.",
+                  "category": "cultural",
+                  "coords": [
+                        17.154062,
+                        46.668576
+                  ]
             }
       ],
       "en": [
@@ -4435,6 +15794,33 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         17.137413,
                         46.661476
+                  ]
+            },
+            {
+                  "name": "Zsilip kilátó",
+                  "text": "The Zsilip viewpoint in Zalavár.",
+                  "category": "natural",
+                  "coords": [
+                        17.155311,
+                        46.646162
+                  ]
+            },
+            {
+                  "name": "Récéskúti bazilika",
+                  "text": "The ruins of the Récéskút basilica in Zalavár.",
+                  "category": "historical",
+                  "coords": [
+                        17.141998,
+                        46.666607
+                  ]
+            },
+            {
+                  "name": "Közösségi színtér",
+                  "text": "A community theatre space in Zalavár.",
+                  "category": "cultural",
+                  "coords": [
+                        17.154062,
+                        46.668576
                   ]
             }
       ]

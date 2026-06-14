@@ -1143,7 +1143,232 @@ export const franceHistoryV2: POI[] = [
 }
   },
   {
-    id: "france-domremy-history-v2",
+    id: "france-domremy-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Église Notre-Dame ist eine Kultstätte in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.682349,
+                        48.408887
+                  ]
+            },
+            {
+                  "name": "Basilique Sainte-Jeanne d'Arc",
+                  "text": "Die Basilique Sainte-Jeanne d'Arc ist eine bedeutende Kultstätte in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.669491,
+                        48.428074
+                  ]
+            },
+            {
+                  "name": "Joan of Arc Birthplace",
+                  "text": "Das Geburtshaus von Jeanne d'Arc ist eine bemerkenswerte historische Sehenswürdigkeit in Domrémy-la-Pucelle.",
+                  "category": "landmark",
+                  "coords": [
+                        5.674525,
+                        48.442104
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice",
+                  "text": "Église Saint-Maurice ist eine lokale Kultstätte in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.676396,
+                        48.449844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Valère",
+                  "text": "Église Saint-Valère ist eine Kultstätte in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.703471,
+                        48.417067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Église Saint-Michel ist eine Kultstätte in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.70099,
+                        48.420915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Az Église Notre-Dame egy istentiszteleti hely Domrémy-la-Pucelle-ben.",
+                  "category": "religious",
+                  "coords": [
+                        5.682349,
+                        48.408887
+                  ]
+            },
+            {
+                  "name": "Basilique Sainte-Jeanne d'Arc",
+                  "text": "A Basilique Sainte-Jeanne d'Arc egy jelentős istentiszteleti hely Domrémy-la-Pucelle-ben.",
+                  "category": "religious",
+                  "coords": [
+                        5.669491,
+                        48.428074
+                  ]
+            },
+            {
+                  "name": "Joan of Arc Birthplace",
+                  "text": "Jeanne d'Arc szülőháza egy nevezetes történelmi látványosság Domrémy-la-Pucelle-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.674525,
+                        48.442104
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice",
+                  "text": "Az Église Saint-Maurice egy helyi istentiszteleti hely Domrémy-la-Pucelle-ben.",
+                  "category": "religious",
+                  "coords": [
+                        5.676396,
+                        48.449844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Valère",
+                  "text": "Az Église Saint-Valère egy istentiszteleti hely Domrémy-la-Pucelle-ben.",
+                  "category": "religious",
+                  "coords": [
+                        5.703471,
+                        48.417067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Az Église Saint-Michel egy istentiszteleti hely Domrémy-la-Pucelle-ben.",
+                  "category": "religious",
+                  "coords": [
+                        5.70099,
+                        48.420915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Église Notre-Dame este un lăcaș de cult din Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.682349,
+                        48.408887
+                  ]
+            },
+            {
+                  "name": "Basilique Sainte-Jeanne d'Arc",
+                  "text": "Basilique Sainte-Jeanne d'Arc este un important lăcaș de cult din Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.669491,
+                        48.428074
+                  ]
+            },
+            {
+                  "name": "Joan of Arc Birthplace",
+                  "text": "Casa natală a Ioanei d'Arc este o atracție istorică notabilă din Domrémy-la-Pucelle.",
+                  "category": "landmark",
+                  "coords": [
+                        5.674525,
+                        48.442104
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice",
+                  "text": "Église Saint-Maurice este un lăcaș de cult din Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.676396,
+                        48.449844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Valère",
+                  "text": "Église Saint-Valère este un lăcaș de cult situat în Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.703471,
+                        48.417067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Église Saint-Michel este un lăcaș de cult aflat în Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.70099,
+                        48.420915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Église Notre-Dame is a place of worship in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.682349,
+                        48.408887
+                  ]
+            },
+            {
+                  "name": "Basilique Sainte-Jeanne d'Arc",
+                  "text": "The Basilique Sainte-Jeanne d'Arc is a prominent place of worship in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.669491,
+                        48.428074
+                  ]
+            },
+            {
+                  "name": "Joan of Arc Birthplace",
+                  "text": "The Joan of Arc Birthplace is a notable historic attraction in Domrémy-la-Pucelle.",
+                  "category": "landmark",
+                  "coords": [
+                        5.674525,
+                        48.442104
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice",
+                  "text": "Église Saint-Maurice is a local place of worship in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.676396,
+                        48.449844
+                  ]
+            },
+            {
+                  "name": "Église Saint-Valère",
+                  "text": "Église Saint-Valère is a place of worship situated in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.703471,
+                        48.417067
+                  ]
+            },
+            {
+                  "name": "Église Saint-Michel",
+                  "text": "Église Saint-Michel is a place of worship located in Domrémy-la-Pucelle.",
+                  "category": "religious",
+                  "coords": [
+                        5.70099,
+                        48.420915
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "FR",
     name: { de: "Domrémy-la-Pucelle", hu: "Domrémy-la-Pucelle", ro: "Domrémy-la-Pucelle", en: "Domrémy-la-Pucelle" },
@@ -1233,7 +1458,160 @@ export const franceHistoryV2: POI[] = [
     image: "/poi-images/france-carmes-toulouse-history-v2.webp",
   },
   {
-    id: "france-rocamadour-history-v2",
+    id: "france-rocamadour-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruines de l'ancien hôpital",
+                  "text": "Die Ruines de l'ancien hôpital sind die historischen Überreste eines alten Krankenhauses in Rocamadour.",
+                  "category": "historical",
+                  "coords": [
+                        1.625898,
+                        44.804445
+                  ]
+            },
+            {
+                  "name": "Château de Rocamadour",
+                  "text": "Das Château de Rocamadour ist eine Burg, die über der Stadt Rocamadour thront.",
+                  "category": "castle",
+                  "coords": [
+                        1.617229,
+                        44.799427
+                  ]
+            },
+            {
+                  "name": "Grotte du Saint-Sépulcre",
+                  "text": "Die Grotte du Saint-Sépulcre ist ein bekannter Höhleneingang in Rocamadour.",
+                  "category": "landmark",
+                  "coords": [
+                        1.616713,
+                        44.800472
+                  ]
+            },
+            {
+                  "name": "Moulin de Tournefeuille",
+                  "text": "Die Moulin de Tournefeuille sind die Ruinen einer alten Mühle in Rocamadour.",
+                  "category": "historical",
+                  "coords": [
+                        1.662049,
+                        44.796626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruines de l'ancien hôpital",
+                  "text": "A Ruines de l'ancien hôpital egy régi kórház történelmi romjai Rocamadourban.",
+                  "category": "historical",
+                  "coords": [
+                        1.625898,
+                        44.804445
+                  ]
+            },
+            {
+                  "name": "Château de Rocamadour",
+                  "text": "A Château de Rocamadour egy történelmi kastély, amely a város fölé magasodik Rocamadourban.",
+                  "category": "castle",
+                  "coords": [
+                        1.617229,
+                        44.799427
+                  ]
+            },
+            {
+                  "name": "Grotte du Saint-Sépulcre",
+                  "text": "A Grotte du Saint-Sépulcre egy barlangbejárat Rocamadourban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.616713,
+                        44.800472
+                  ]
+            },
+            {
+                  "name": "Moulin de Tournefeuille",
+                  "text": "A Moulin de Tournefeuille egy régi malom romja Rocamadourban.",
+                  "category": "historical",
+                  "coords": [
+                        1.662049,
+                        44.796626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruines de l'ancien hôpital",
+                  "text": "Ruines de l'ancien hôpital sunt rămășițele istorice ale unui vechi spital din Rocamadour.",
+                  "category": "historical",
+                  "coords": [
+                        1.625898,
+                        44.804445
+                  ]
+            },
+            {
+                  "name": "Château de Rocamadour",
+                  "text": "Château de Rocamadour este un castel istoric ce domină orașul Rocamadour.",
+                  "category": "castle",
+                  "coords": [
+                        1.617229,
+                        44.799427
+                  ]
+            },
+            {
+                  "name": "Grotte du Saint-Sépulcre",
+                  "text": "Grotte du Saint-Sépulcre este o intrare într-o peșteră localizată în Rocamadour.",
+                  "category": "landmark",
+                  "coords": [
+                        1.616713,
+                        44.800472
+                  ]
+            },
+            {
+                  "name": "Moulin de Tournefeuille",
+                  "text": "Moulin de Tournefeuille reprezintă ruinele unei vechi mori din Rocamadour.",
+                  "category": "historical",
+                  "coords": [
+                        1.662049,
+                        44.796626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruines de l'ancien hôpital",
+                  "text": "The Ruines de l'ancien hôpital are the historic remains of an old hospital in Rocamadour.",
+                  "category": "historical",
+                  "coords": [
+                        1.625898,
+                        44.804445
+                  ]
+            },
+            {
+                  "name": "Château de Rocamadour",
+                  "text": "The Château de Rocamadour is a historic castle in Rocamadour.",
+                  "category": "castle",
+                  "coords": [
+                        1.617229,
+                        44.799427
+                  ]
+            },
+            {
+                  "name": "Grotte du Saint-Sépulcre",
+                  "text": "Grotte du Saint-Sépulcre is a notable cave entrance located in Rocamadour.",
+                  "category": "landmark",
+                  "coords": [
+                        1.616713,
+                        44.800472
+                  ]
+            },
+            {
+                  "name": "Moulin de Tournefeuille",
+                  "text": "Moulin de Tournefeuille features the historic ruins of a mill in Rocamadour.",
+                  "category": "historical",
+                  "coords": [
+                        1.662049,
+                        44.796626
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "FR",
     name: { de: "Rocamadour", hu: "Rocamadour", ro: "Rocamadour", en: "Rocamadour" },
@@ -1278,7 +1656,88 @@ export const franceHistoryV2: POI[] = [
     image: "/poi-images/france-rocamadour-history-v2.webp",
   },
   {
-    id: "france-aigues-mortes-history-v2",
+    id: "france-aigues-mortes-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Notre-Dame-des-Sablons",
+                  "text": "Die Église Notre-Dame-des-Sablons ist eine historische Kirche und eine bekannte Sehenswürdigkeit in Aigues-Mortes.",
+                  "category": "landmark",
+                  "coords": [
+                        4.190519,
+                        43.566889
+                  ]
+            },
+            {
+                  "name": "Tour de Constance",
+                  "text": "Die Tour de Constance ist ein historischer Festungsturm und eine Hauptattraktion in Aigues-Mortes.",
+                  "category": "landmark",
+                  "coords": [
+                        4.189704,
+                        43.568481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Notre-Dame-des-Sablons",
+                  "text": "Az Église Notre-Dame-des-Sablons egy történelmi templom és jelentős látványosság Aigues-Mortes városában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.190519,
+                        43.566889
+                  ]
+            },
+            {
+                  "name": "Tour de Constance",
+                  "text": "A Tour de Constance egy történelmi erődítmény és kiemelkedő látványosság Aigues-Mortes-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        4.189704,
+                        43.568481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Notre-Dame-des-Sablons",
+                  "text": "Église Notre-Dame-des-Sablons este o biserică istorică și o atracție importantă în Aigues-Mortes.",
+                  "category": "landmark",
+                  "coords": [
+                        4.190519,
+                        43.566889
+                  ]
+            },
+            {
+                  "name": "Tour de Constance",
+                  "text": "Tour de Constance este un turn fortificat istoric care reprezintă o atracție majoră în Aigues-Mortes.",
+                  "category": "landmark",
+                  "coords": [
+                        4.189704,
+                        43.568481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Notre-Dame-des-Sablons",
+                  "text": "The Église Notre-Dame-des-Sablons is a historic church and prominent attraction located in Aigues-Mortes.",
+                  "category": "landmark",
+                  "coords": [
+                        4.190519,
+                        43.566889
+                  ]
+            },
+            {
+                  "name": "Tour de Constance",
+                  "text": "The Tour de Constance is a historic fortified tower that serves as a major attraction in Aigues-Mortes.",
+                  "category": "landmark",
+                  "coords": [
+                        4.189704,
+                        43.568481
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "FR",
     name: { de: "Aigues-Mortes", hu: "Aigues-Mortes", ro: "Aigues-Mortes", en: "Aigues-Mortes" },
@@ -1458,7 +1917,160 @@ export const franceHistoryV2: POI[] = [
     image: "/poi-images/france-corvey-abbey-history-v2.webp",
   },
   {
-    id: "france-conques-history-v2",
+    id: "france-conques-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancienne abbaye Sainte-Foy",
+                  "text": "Die Ancienne abbaye Sainte-Foy ist ein historisches Kloster in Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.39789,
+                        44.598907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste ist eine Kultstätte in Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.376339,
+                        44.56523
+                  ]
+            },
+            {
+                  "name": "Chapelle du Cimetière",
+                  "text": "Chapelle du Cimetière ist eine Friedhofskapelle und Kultstätte in Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.399123,
+                        44.598571
+                  ]
+            },
+            {
+                  "name": "Porte de la Vinzelle",
+                  "text": "Porte de la Vinzelle ist ein historisches Stadttor in Conques.",
+                  "category": "fortress",
+                  "coords": [
+                        2.39646,
+                        44.59973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancienne abbaye Sainte-Foy",
+                  "text": "Az Ancienne abbaye Sainte-Foy egy történelmi kolostor Conques-ban.",
+                  "category": "religious",
+                  "coords": [
+                        2.39789,
+                        44.598907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Az Église Saint-Jean-Baptiste egy istentiszteleti hely Conques-ban.",
+                  "category": "religious",
+                  "coords": [
+                        2.376339,
+                        44.56523
+                  ]
+            },
+            {
+                  "name": "Chapelle du Cimetière",
+                  "text": "A Chapelle du Cimetière egy temetőkápolna és istentiszteleti hely Conques-ban.",
+                  "category": "religious",
+                  "coords": [
+                        2.399123,
+                        44.598571
+                  ]
+            },
+            {
+                  "name": "Porte de la Vinzelle",
+                  "text": "A Porte de la Vinzelle egy történelmi városkapu Conques-ban.",
+                  "category": "fortress",
+                  "coords": [
+                        2.39646,
+                        44.59973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancienne abbaye Sainte-Foy",
+                  "text": "Ancienne abbaye Sainte-Foy este o mănăstire istorică situată în Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.39789,
+                        44.598907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste este un lăcaș de cult din Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.376339,
+                        44.56523
+                  ]
+            },
+            {
+                  "name": "Chapelle du Cimetière",
+                  "text": "Chapelle du Cimetière este o capelă de cimitir și lăcaș de cult din Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.399123,
+                        44.598571
+                  ]
+            },
+            {
+                  "name": "Porte de la Vinzelle",
+                  "text": "Porte de la Vinzelle este o poartă istorică a orașului Conques.",
+                  "category": "fortress",
+                  "coords": [
+                        2.39646,
+                        44.59973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancienne abbaye Sainte-Foy",
+                  "text": "Ancienne abbaye Sainte-Foy is a historic monastery situated in Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.39789,
+                        44.598907
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste is a place of worship found in Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.376339,
+                        44.56523
+                  ]
+            },
+            {
+                  "name": "Chapelle du Cimetière",
+                  "text": "Chapelle du Cimetière is a cemetery chapel and place of worship in Conques.",
+                  "category": "religious",
+                  "coords": [
+                        2.399123,
+                        44.598571
+                  ]
+            },
+            {
+                  "name": "Porte de la Vinzelle",
+                  "text": "Porte de la Vinzelle is a historic city gate located in Conques.",
+                  "category": "fortress",
+                  "coords": [
+                        2.39646,
+                        44.59973
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "FR",
     name: { de: "Conques", hu: "Conques", ro: "Conques", en: "Conques" },
@@ -2609,6 +3221,33 @@ export const franceHistoryV2: POI[] = [
                         -1.069487,
                         45.868221
                   ]
+            },
+            {
+                  "name": "Église Saint-Hilaire",
+                  "text": "Die Église Saint-Hilaire ist ein Gotteshaus in Brouage.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077132,
+                        45.84823
+                  ]
+            },
+            {
+                  "name": "Maison du Québec",
+                  "text": "Die Maison du Québec ist ein Museum in Brouage.",
+                  "category": "museum",
+                  "coords": [
+                        -1.071406,
+                        45.867374
+                  ]
+            },
+            {
+                  "name": "La Halle aux Vivres",
+                  "text": "La Halle aux Vivres ist ein Museum in Brouage. Es befindet sich in einem historischen ehemaligen Lebensmittellager.",
+                  "category": "museum",
+                  "coords": [
+                        -1.067988,
+                        45.867277
+                  ]
             }
       ],
       "hu": [
@@ -2650,6 +3289,33 @@ export const franceHistoryV2: POI[] = [
                   "coords": [
                         -1.069487,
                         45.868221
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hilaire",
+                  "text": "Az Église Saint-Hilaire egy istentiszteleti hely Brouage-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077132,
+                        45.84823
+                  ]
+            },
+            {
+                  "name": "Maison du Québec",
+                  "text": "A Maison du Québec egy múzeum Brouage-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -1.071406,
+                        45.867374
+                  ]
+            },
+            {
+                  "name": "La Halle aux Vivres",
+                  "text": "A La Halle aux Vivres egy múzeum Brouage-ban. Egy történelmi egykori élelmiszerraktárban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -1.067988,
+                        45.867277
                   ]
             }
       ],
@@ -2693,6 +3359,33 @@ export const franceHistoryV2: POI[] = [
                         -1.069487,
                         45.868221
                   ]
+            },
+            {
+                  "name": "Église Saint-Hilaire",
+                  "text": "Église Saint-Hilaire este un lăcaș de cult din Brouage.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077132,
+                        45.84823
+                  ]
+            },
+            {
+                  "name": "Maison du Québec",
+                  "text": "Maison du Québec este un muzeu situat în Brouage.",
+                  "category": "museum",
+                  "coords": [
+                        -1.071406,
+                        45.867374
+                  ]
+            },
+            {
+                  "name": "La Halle aux Vivres",
+                  "text": "La Halle aux Vivres este un muzeu în Brouage. Acesta este găzduit într-un fost depozit de alimente istoric.",
+                  "category": "museum",
+                  "coords": [
+                        -1.067988,
+                        45.867277
+                  ]
             }
       ],
       "en": [
@@ -2734,6 +3427,33 @@ export const franceHistoryV2: POI[] = [
                   "coords": [
                         -1.069487,
                         45.868221
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hilaire",
+                  "text": "Église Saint-Hilaire is a place of worship in Brouage.",
+                  "category": "religious",
+                  "coords": [
+                        -1.077132,
+                        45.84823
+                  ]
+            },
+            {
+                  "name": "Maison du Québec",
+                  "text": "Maison du Québec is a museum located in Brouage.",
+                  "category": "museum",
+                  "coords": [
+                        -1.071406,
+                        45.867374
+                  ]
+            },
+            {
+                  "name": "La Halle aux Vivres",
+                  "text": "La Halle aux Vivres is a museum in Brouage. It is housed in a historic former food storehouse.",
+                  "category": "museum",
+                  "coords": [
+                        -1.067988,
+                        45.867277
                   ]
             }
       ]
@@ -2814,6 +3534,42 @@ export const franceHistoryV2: POI[] = [
                         1.776811,
                         44.238898
                   ]
+            },
+            {
+                  "name": "Église Saint-Amans-le-Vieux",
+                  "text": "Église Saint-Amans-le-Vieux ist eine historische Kultstätte in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.772794,
+                        44.221085
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Résurrection",
+                  "text": "Notre-Dame de la Résurrection ist eine Kultstätte in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.775419,
+                        44.249135
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin ist eine lokale Kultstätte in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.794596,
+                        44.225919
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Livron",
+                  "text": "Notre-Dame de Livron ist eine religiöse Stätte in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.765408,
+                        44.251129
+                  ]
             }
       ],
       "hu": [
@@ -2845,6 +3601,42 @@ export const franceHistoryV2: POI[] = [
                   "coords": [
                         1.776811,
                         44.238898
+                  ]
+            },
+            {
+                  "name": "Église Saint-Amans-le-Vieux",
+                  "text": "Az Église Saint-Amans-le-Vieux egy történelmi istentiszteleti hely Caylusban.",
+                  "category": "religious",
+                  "coords": [
+                        1.772794,
+                        44.221085
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Résurrection",
+                  "text": "A Notre-Dame de la Résurrection egy istentiszteleti hely Caylusban.",
+                  "category": "religious",
+                  "coords": [
+                        1.775419,
+                        44.249135
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Az Église Saint-Martin egy helyi istentiszteleti hely Caylusban.",
+                  "category": "religious",
+                  "coords": [
+                        1.794596,
+                        44.225919
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Livron",
+                  "text": "A Notre-Dame de Livron egy vallási helyszín Caylusban.",
+                  "category": "religious",
+                  "coords": [
+                        1.765408,
+                        44.251129
                   ]
             }
       ],
@@ -2878,6 +3670,42 @@ export const franceHistoryV2: POI[] = [
                         1.776811,
                         44.238898
                   ]
+            },
+            {
+                  "name": "Église Saint-Amans-le-Vieux",
+                  "text": "Église Saint-Amans-le-Vieux este un lăcaș de cult istoric situat în Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.772794,
+                        44.221085
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Résurrection",
+                  "text": "Notre-Dame de la Résurrection este un lăcaș de cult situat în Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.775419,
+                        44.249135
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin este un lăcaș de cult local situat în Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.794596,
+                        44.225919
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Livron",
+                  "text": "Notre-Dame de Livron este un lăcaș de cult în Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.765408,
+                        44.251129
+                  ]
             }
       ],
       "en": [
@@ -2909,6 +3737,42 @@ export const franceHistoryV2: POI[] = [
                   "coords": [
                         1.776811,
                         44.238898
+                  ]
+            },
+            {
+                  "name": "Église Saint-Amans-le-Vieux",
+                  "text": "Église Saint-Amans-le-Vieux is a historic place of worship located in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.772794,
+                        44.221085
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de la Résurrection",
+                  "text": "Notre-Dame de la Résurrection is a place of worship situated in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.775419,
+                        44.249135
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin is a local place of worship located in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.794596,
+                        44.225919
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Livron",
+                  "text": "Notre-Dame de Livron is a place of worship located in Caylus.",
+                  "category": "religious",
+                  "coords": [
+                        1.765408,
+                        44.251129
                   ]
             }
       ]
@@ -2979,6 +3843,69 @@ export const franceHistoryV2: POI[] = [
                         0.886869,
                         47.741885
                   ]
+            },
+            {
+                  "name": "Montoire Castle",
+                  "text": "Montoire Castle ist eine historische Burg in Lavardin.",
+                  "category": "castle",
+                  "coords": [
+                        0.857054,
+                        47.749971
+                  ]
+            },
+            {
+                  "name": "Gare historique",
+                  "text": "Die Gare historique ist ein örtliches Museum in Lavardin.",
+                  "category": "museum",
+                  "coords": [
+                        0.86922,
+                        47.75794
+                  ]
+            },
+            {
+                  "name": "Église de la Bienheureuse-Vierge-Marie",
+                  "text": "Die Église de la Bienheureuse-Vierge-Marie ist eine Kultstätte in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.904873,
+                        47.758408
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Gilles",
+                  "text": "Die Chapelle Saint-Gilles ist ein bemerkenswertes Gebäude in Lavardin.",
+                  "category": "landmark",
+                  "coords": [
+                        0.858244,
+                        47.751638
+                  ]
+            },
+            {
+                  "name": "Église Saint-Almyr",
+                  "text": "Die Église Saint-Almyr ist eine lokale Kultstätte in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.890726,
+                        47.775751
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "Die Chapelle Saint-Laurent ist eine Kultstätte in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.865365,
+                        47.749056
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Die Église Saint-Laurent ist eine religiöse Stätte in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.862361,
+                        47.753397
+                  ]
             }
       ],
       "hu": [
@@ -3000,6 +3927,69 @@ export const franceHistoryV2: POI[] = [
                   "coords": [
                         0.886869,
                         47.741885
+                  ]
+            },
+            {
+                  "name": "Montoire Castle",
+                  "text": "A Montoire-kastély egy történelmi kastély Lavardinben.",
+                  "category": "castle",
+                  "coords": [
+                        0.857054,
+                        47.749971
+                  ]
+            },
+            {
+                  "name": "Gare historique",
+                  "text": "A Gare historique egy helyi múzeum Lavardinben.",
+                  "category": "museum",
+                  "coords": [
+                        0.86922,
+                        47.75794
+                  ]
+            },
+            {
+                  "name": "Église de la Bienheureuse-Vierge-Marie",
+                  "text": "Az Église de la Bienheureuse-Vierge-Marie egy istentiszteleti hely Lavardinben.",
+                  "category": "religious",
+                  "coords": [
+                        0.904873,
+                        47.758408
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Gilles",
+                  "text": "A Chapelle Saint-Gilles egy figyelemre méltó épület Lavardinben.",
+                  "category": "landmark",
+                  "coords": [
+                        0.858244,
+                        47.751638
+                  ]
+            },
+            {
+                  "name": "Église Saint-Almyr",
+                  "text": "Az Église Saint-Almyr egy helyi istentiszteleti hely Lavardinben.",
+                  "category": "religious",
+                  "coords": [
+                        0.890726,
+                        47.775751
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "A Chapelle Saint-Laurent egy istentiszteleti hely Lavardinben.",
+                  "category": "religious",
+                  "coords": [
+                        0.865365,
+                        47.749056
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Az Église Saint-Laurent egy vallási helyszín Lavardinben.",
+                  "category": "religious",
+                  "coords": [
+                        0.862361,
+                        47.753397
                   ]
             }
       ],
@@ -3023,6 +4013,69 @@ export const franceHistoryV2: POI[] = [
                         0.886869,
                         47.741885
                   ]
+            },
+            {
+                  "name": "Montoire Castle",
+                  "text": "Castelul Montoire este un castel istoric din Lavardin.",
+                  "category": "castle",
+                  "coords": [
+                        0.857054,
+                        47.749971
+                  ]
+            },
+            {
+                  "name": "Gare historique",
+                  "text": "Gare historique este un muzeu local din Lavardin.",
+                  "category": "museum",
+                  "coords": [
+                        0.86922,
+                        47.75794
+                  ]
+            },
+            {
+                  "name": "Église de la Bienheureuse-Vierge-Marie",
+                  "text": "Église de la Bienheureuse-Vierge-Marie este un lăcaș de cult din Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.904873,
+                        47.758408
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Gilles",
+                  "text": "Chapelle Saint-Gilles este o clădire notabilă din Lavardin.",
+                  "category": "landmark",
+                  "coords": [
+                        0.858244,
+                        47.751638
+                  ]
+            },
+            {
+                  "name": "Église Saint-Almyr",
+                  "text": "Église Saint-Almyr este un lăcaș de cult local din Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.890726,
+                        47.775751
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "Chapelle Saint-Laurent este un lăcaș de cult din Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.865365,
+                        47.749056
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Église Saint-Laurent este un sit religios din Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.862361,
+                        47.753397
+                  ]
             }
       ],
       "en": [
@@ -3044,6 +4097,69 @@ export const franceHistoryV2: POI[] = [
                   "coords": [
                         0.886869,
                         47.741885
+                  ]
+            },
+            {
+                  "name": "Montoire Castle",
+                  "text": "Montoire Castle is a historic castle in Lavardin.",
+                  "category": "castle",
+                  "coords": [
+                        0.857054,
+                        47.749971
+                  ]
+            },
+            {
+                  "name": "Gare historique",
+                  "text": "Gare historique is a local museum in Lavardin.",
+                  "category": "museum",
+                  "coords": [
+                        0.86922,
+                        47.75794
+                  ]
+            },
+            {
+                  "name": "Église de la Bienheureuse-Vierge-Marie",
+                  "text": "Église de la Bienheureuse-Vierge-Marie is a place of worship in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.904873,
+                        47.758408
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Gilles",
+                  "text": "Chapelle Saint-Gilles is a notable building in Lavardin.",
+                  "category": "landmark",
+                  "coords": [
+                        0.858244,
+                        47.751638
+                  ]
+            },
+            {
+                  "name": "Église Saint-Almyr",
+                  "text": "Église Saint-Almyr is a local place of worship in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.890726,
+                        47.775751
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Laurent",
+                  "text": "Chapelle Saint-Laurent is a place of worship in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.865365,
+                        47.749056
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Église Saint-Laurent is a religious site in Lavardin.",
+                  "category": "religious",
+                  "coords": [
+                        0.862361,
+                        47.753397
                   ]
             }
       ]

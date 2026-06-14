@@ -1063,6 +1063,15 @@ export const poiExtraHrV3: POI[] = [
                         14.51274,
                         45.29901
                   ]
+            },
+            {
+                  "name": "Bakarski kaštel",
+                  "text": "Das Bakarski kaštel ist ein historisches Schloss in der Küstenstadt Bakar.",
+                  "category": "castle",
+                  "coords": [
+                        14.532644,
+                        45.307583
+                  ]
             }
       ],
       "hu": [
@@ -1100,6 +1109,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.51274,
                         45.29901
+                  ]
+            },
+            {
+                  "name": "Bakarski kaštel",
+                  "text": "A Bakarski kaštel egy történelmi kastély Bakar tengerparti városában.",
+                  "category": "castle",
+                  "coords": [
+                        14.532644,
+                        45.307583
                   ]
             }
       ],
@@ -1139,6 +1157,15 @@ export const poiExtraHrV3: POI[] = [
                         14.51274,
                         45.29901
                   ]
+            },
+            {
+                  "name": "Bakarski kaštel",
+                  "text": "Bakarski kaštel este un castel istoric situat în orașul de coastă Bakar.",
+                  "category": "castle",
+                  "coords": [
+                        14.532644,
+                        45.307583
+                  ]
             }
       ],
       "en": [
@@ -1176,6 +1203,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.51274,
                         45.29901
+                  ]
+            },
+            {
+                  "name": "Bakarski kaštel",
+                  "text": "Bakarski kaštel is a historic castle situated in the coastal town of Bakar.",
+                  "category": "castle",
+                  "coords": [
+                        14.532644,
+                        45.307583
                   ]
             }
       ],
@@ -2511,6 +2547,15 @@ export const poiExtraHrV3: POI[] = [
                         16.383813,
                         43.568412
                   ]
+            },
+            {
+                  "name": "Biranj",
+                  "text": "Eine archäologische Stätte auf einem Hügel über Kaštel Lukšić, bekannt für ihre antiken Ruinen und eine kleine historische Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        16.351469,
+                        43.578856
+                  ]
             }
       ],
       "hu": [
@@ -2548,6 +2593,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.383813,
                         43.568412
+                  ]
+            },
+            {
+                  "name": "Biranj",
+                  "text": "A Kaštel Lukšić feletti dombon található régészeti lelőhely, amely ősi romjairól és kis történelmi templomáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        16.351469,
+                        43.578856
                   ]
             }
       ],
@@ -2587,6 +2641,15 @@ export const poiExtraHrV3: POI[] = [
                         16.383813,
                         43.568412
                   ]
+            },
+            {
+                  "name": "Biranj",
+                  "text": "Un sit arheologic pe un deal deasupra orașului Kaštel Lukšić, cunoscut pentru ruinele sale antice și o mică biserică istorică.",
+                  "category": "historical",
+                  "coords": [
+                        16.351469,
+                        43.578856
+                  ]
             }
       ],
       "en": [
@@ -2624,6 +2687,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.383813,
                         43.568412
+                  ]
+            },
+            {
+                  "name": "Biranj",
+                  "text": "An archaeological site on a hill above Kaštel Lukšić, known for its ancient ruins and a small historic church.",
+                  "category": "historical",
+                  "coords": [
+                        16.351469,
+                        43.578856
                   ]
             }
       ],
@@ -8756,6 +8828,15 @@ export const poiExtraHrV3: POI[] = [
                         16.59628,
                         43.64944
                   ]
+            },
+            {
+                  "name": "83-181",
+                  "text": "83-181 ist eine Attraktion in der Stadt Dicmo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.596616,
+                        43.637248
+                  ]
             }
       ],
       "hu": [
@@ -8766,6 +8847,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.59628,
                         43.64944
+                  ]
+            },
+            {
+                  "name": "83-181",
+                  "text": "A 83-181 egy látványosság Dicmo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.596616,
+                        43.637248
                   ]
             }
       ],
@@ -8778,6 +8868,15 @@ export const poiExtraHrV3: POI[] = [
                         16.59628,
                         43.64944
                   ]
+            },
+            {
+                  "name": "83-181",
+                  "text": "83-181 este o atracție din orașul Dicmo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.596616,
+                        43.637248
+                  ]
             }
       ],
       "en": [
@@ -8788,6 +8887,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.59628,
                         43.64944
+                  ]
+            },
+            {
+                  "name": "83-181",
+                  "text": "83-181 is an attraction in the town of Dicmo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.596616,
+                        43.637248
                   ]
             }
       ],
@@ -9879,6 +9987,15 @@ export const poiExtraHrV3: POI[] = [
                         15.119787,
                         45.009855
                   ]
+            },
+            {
+                  "name": "Most preko potoka Radetića",
+                  "text": "Die Brücke über den Radetić-Bach ist ein Bauwerk in Brinje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131072,
+                        44.999774
+                  ]
             }
       ],
       "hu": [
@@ -9907,6 +10024,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.119787,
                         45.009855
+                  ]
+            },
+            {
+                  "name": "Most preko potoka Radetića",
+                  "text": "A Radetić-patakon átívelő híd egy építmény Brinjében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131072,
+                        44.999774
                   ]
             }
       ],
@@ -9937,6 +10063,15 @@ export const poiExtraHrV3: POI[] = [
                         15.119787,
                         45.009855
                   ]
+            },
+            {
+                  "name": "Most preko potoka Radetića",
+                  "text": "Podul peste pârâul Radetić este o structură situată în Brinje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131072,
+                        44.999774
+                  ]
             }
       ],
       "en": [
@@ -9965,6 +10100,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.119787,
                         45.009855
+                  ]
+            },
+            {
+                  "name": "Most preko potoka Radetića",
+                  "text": "The bridge over the Radetić stream is a structure located in Brinje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.131072,
+                        44.999774
                   ]
             }
       ],
@@ -10210,6 +10354,15 @@ export const poiExtraHrV3: POI[] = [
                         15.550829,
                         44.180544
                   ]
+            },
+            {
+                  "name": "Novigrad Sea",
+                  "text": "Das Novigrader Meer ist eine bemerkenswerte Bucht in der Nähe von Novigrad (Dalmatien).",
+                  "category": "landmark",
+                  "coords": [
+                        15.536106,
+                        44.199105
+                  ]
             }
       ],
       "hu": [
@@ -10247,6 +10400,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.550829,
                         44.180544
+                  ]
+            },
+            {
+                  "name": "Novigrad Sea",
+                  "text": "A Novigradi-tenger egy jelentős öböl Novigrad (Dalmácia) közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.536106,
+                        44.199105
                   ]
             }
       ],
@@ -10286,6 +10448,15 @@ export const poiExtraHrV3: POI[] = [
                         15.550829,
                         44.180544
                   ]
+            },
+            {
+                  "name": "Novigrad Sea",
+                  "text": "Marea Novigrad este un golf notabil situat lângă Novigrad (Dalmația).",
+                  "category": "landmark",
+                  "coords": [
+                        15.536106,
+                        44.199105
+                  ]
             }
       ],
       "en": [
@@ -10323,6 +10494,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.550829,
                         44.180544
+                  ]
+            },
+            {
+                  "name": "Novigrad Sea",
+                  "text": "Novigrad Sea is a notable bay located near Novigrad (Dalmatia).",
+                  "category": "landmark",
+                  "coords": [
+                        15.536106,
+                        44.199105
                   ]
             }
       ],
@@ -16112,6 +16292,15 @@ export const poiExtraHrV3: POI[] = [
                         14.733208,
                         45.301646
                   ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "Die Bajer-Brücke ist ein wichtiges Bauwerk in Fužine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.710973,
+                        45.316669
+                  ]
             }
       ],
       "hu": [
@@ -16149,6 +16338,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.733208,
                         45.301646
+                  ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "A Bajer-híd egy alapvető átkelő építmény Fužine területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.710973,
+                        45.316669
                   ]
             }
       ],
@@ -16188,6 +16386,15 @@ export const poiExtraHrV3: POI[] = [
                         14.733208,
                         45.301646
                   ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "Podul Bajer este o structură de trecere esențială în Fužine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.710973,
+                        45.316669
+                  ]
             }
       ],
       "en": [
@@ -16225,6 +16432,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.733208,
                         45.301646
+                  ]
+            },
+            {
+                  "name": "Bajer",
+                  "text": "The Bajer Bridge is an essential crossing structure in Fužine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.710973,
+                        45.316669
                   ]
             }
       ],
@@ -17279,6 +17495,15 @@ export const poiExtraHrV3: POI[] = [
                         15.568597,
                         44.16132
                   ]
+            },
+            {
+                  "name": "crkva svetog Martina",
+                  "text": "Die Martinskirche (crkva svetog Martina) ist ein Gotteshaus in Pridraga.",
+                  "category": "religious",
+                  "coords": [
+                        15.567974,
+                        44.158673
+                  ]
             }
       ],
       "hu": [
@@ -17289,6 +17514,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.568597,
                         44.16132
+                  ]
+            },
+            {
+                  "name": "crkva svetog Martina",
+                  "text": "A Szent Márton-templom (crkva svetog Martina) egy istentiszteleti hely Pridragában.",
+                  "category": "religious",
+                  "coords": [
+                        15.567974,
+                        44.158673
                   ]
             }
       ],
@@ -17301,6 +17535,15 @@ export const poiExtraHrV3: POI[] = [
                         15.568597,
                         44.16132
                   ]
+            },
+            {
+                  "name": "crkva svetog Martina",
+                  "text": "Biserica Sfântul Martin (crkva svetog Martina) este un lăcaș de cult situat în Pridraga.",
+                  "category": "religious",
+                  "coords": [
+                        15.567974,
+                        44.158673
+                  ]
             }
       ],
       "en": [
@@ -17311,6 +17554,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.568597,
                         44.16132
+                  ]
+            },
+            {
+                  "name": "crkva svetog Martina",
+                  "text": "The Church of St. Martin (crkva svetog Martina) is a place of worship located in Pridraga.",
+                  "category": "religious",
+                  "coords": [
+                        15.567974,
+                        44.158673
                   ]
             }
       ],
@@ -17326,7 +17578,225 @@ export const poiExtraHrV3: POI[] = [
             }
       ]
 }, "imageHint": "A peaceful bay view with a small stone church near a long pebble beach and calm blue water.", "county": "HR-13"},
-  {"id": "croatia-rovinjsko-selo-cities-v2", "type": "city", "parent": "HR", "coords": [13.7156, 45.1064], "population": 1339, "name": {"de": "Rovinjsko Selo", "hu": "Rovinjsko Selo", "ro": "Rovinjsko Selo", "en": "Rovinjsko Selo"}, "description": {"de": "Ein ruhiges Dorf unweit von Rovinj, bekannt für seine traditionellen istrischen Steinhäuser und Weinberge.", "hu": "Rovinj közelében fekvő csendes falu, amely hagyományos isztriai kőházairól és szőlőültetvényeiről ismert.", "ro": "Un sat liniștit lângă Rovinj, cunoscut pentru casele tradiționale din piatră și podgoriile sale.", "en": "A peaceful village near Rovinj, known for its traditional Istrian stone houses and surrounding vineyards."}, "descriptionAdvanced": {"de": "Rovinjsko Selo liegt auf einem Hügel an der Hauptstraße nach Rovinj und bietet einen authentischen Einblick in das ländliche Istrien. Das im 16. Jahrhundert von Siedlern aus dem Hinterland gegründete Dorf hat sich heute zu einem beliebten Ausgangspunkt für Radfahrer und Wanderer entwickelt. Die Umgebung ist von Olivenhainen und Weinbergen geprägt, in denen die Rebsorten Malvazija und Teran gedeihen. Architektonisch dominieren renovierte Steinhäuser mit den typischen istrischen Brunnen (Šterna) in den Innenhöfen. Die Nähe zum Lim-Fjord macht es zu einem idealen Ort für Naturliebhaber, die die Hektik der Küste meiden möchten. Jährlich finden hier lokale Feste wie die Antonja statt, bei denen Wein- und Olivenölproduzenten ihre Erzeugnisse präsentieren.", "hu": "Rovinjsko Selo egy dombtetőn fekszik a Rovinjba vezető főút mentén, hiteles betekintést nyújtva a vidéki Isztria életébe. A falut a 16. században alapították a szárazföld belsejéből érkező telepesek, mára pedig a kerékpárosok és túrázók kedvelt bázisává vált. A környéket olajfaligetek és szőlők határozzák meg, ahol Malvazija és Teran fajtákat termesztenek. Építészetileg a felújított kőházak dominálnak, az udvarokon tipikus isztriai kutakkal (Šterna). A Lim-fjord közelsége ideálissá teszi a természetjárók számára, akik elkerülnék a tengerparti tömeget. Évente rendezik meg az Antonja fesztivált, ahol a helyi borászok és olívaolaj-termelők mutatkoznak be.", "ro": "Rovinjsko Selo este situat pe o colină de-a lungul drumului principal către Rovinj, oferind o perspectivă autentică asupra Istriei rurale. Satul a fost fondat în secolul al XVI-lea de coloniști veniți din interiorul peninsulei, iar astăzi a devenit o bază populară pentru bicicliști și drumeți. Împrejurimile sunt dominate de livezi de măslini și podgorii unde cresc soiurile Malvazija și Teran. Din punct de vedere arhitectural, predomină casele din piatră renovate, cu fântâni tipice istriene (Šterna) în curți. Proximitatea de Fiordul Lim îl face un loc ideal pentru iubitorii de natură care doresc să evite agitația de pe coastă. Anual are loc festivalul Antonja, unde producătorii locali de vin și ulei de măsline își expun marfa.", "en": "Rovinjsko Selo is situated on a hill along the main road to Rovinj, offering an authentic glimpse into rural Istria. Founded in the 16th century by settlers from the hinterland, the village has evolved into a popular base for cyclists and hikers. The area is defined by olive groves and vineyards where Malvazija and Teran grape varieties thrive. Architecturally, renovated stone houses with typical Istrian wells (Šterna) in the courtyards dominate the landscape. Its proximity to the Lim Fjord makes it an ideal spot for nature lovers who wish to avoid the coastal crowds. Every year, local festivals like Antonja take place, showcasing the products of regional wine and olive oil producers."}, "facts": {"de": ["Gegründet 1525", "Höhe: 150 m", "Nähe zum Lim-Fjord", "Traditionelle Šternen", "Radweg Limes-Trail", "Weinregion Malvazija", "Fest Antonja im Januar", "Blick auf Rovinj"], "hu": ["Alapítva 1525-ben", "Tengerszint feletti magasság: 150 m", "Lim-fjord közelsége", "Hagyományos kőkutak", "Limes kerékpárút", "Malvazija borvidék", "Antonja ünnep januárban", "Kilátás Rovinjra"], "ro": ["Fondat în 1525", "Altitudine: 150 m", "Aproape de Fiordul Lim", "Fântâni tradiționale", "Traseu biciclete Limes", "Regiune viticolă Malvazija", "Sărbătoarea Antonja în ianuarie", "Vedere spre Rovinj"], "en": ["Founded in 1525", "Elevation: 150 m", "Proximity to Lim Fjord", "Traditional stone wells", "Limes cycling trail", "Malvazija wine region", "Antonja festival in January", "View of Rovinj"]}, "sights": {"de": [{"name": "Crkva sv. Antuna Opata", "desc": "Eine kleine Kirche aus dem 16. Jahrhundert im Zentrum des Dorfes.", "coords": [13.716454, 45.108106], "text": "Die Crkva sv. Antuna Opata ist eine charmante Kirche im Dorf Rovinjsko Selo. Sie zeugt vom reichen kulturellen und spirituellen Erbe dieser istrischen Gemeinde."}, {"name": "Romualdova pećina", "text": "Eine Höhle im Lim-Kanal, die für ihre prähistorischen Funde bekannt ist.", "category": "natural", "coords": [13.737368, 45.127532]}, {"name": "Kapa", "text": "Kapa ist ein markanter Hügelgipfel in der Nähe von Rovinjsko Selo in der malerischen Landschaft Istriens.", "category": "natural", "coords": [13.688797, 45.097885]}, {"name": "Sveta Cecilija", "text": "Die Ruinen der Kirche Sveta Cecilija bei Rovinjsko Selo zeugen von der langen christlichen Tradition der Region.", "category": "historical", "coords": [13.693266, 45.092094]}], "hu": [{"name": "Crkva sv. Antuna Opata", "desc": "16. századi kis templom a falu központjában.", "coords": [13.716454, 45.108106], "text": "A Crkva sv. Antuna Opata egy bájos templom Rovinjsko Selo falujában. Az isztriai közösség gazdag kulturális és spirituális örökségét őrzi."}, {"name": "Romualdova pećina", "text": "Barlang a Lim-csatornában, amely őskori leleteiről nevezetes.", "category": "natural", "coords": [13.737368, 45.127532]}, {"name": "Kapa", "text": "A Kapa egy jellegzetes dombtető Rovinjsko Selo közelében, Isztria belső részén.", "category": "natural", "coords": [13.688797, 45.097885]}, {"name": "Sveta Cecilija", "text": "A Sveta Cecilija templom romjai Rovinjsko Selo mellett a régió keresztény hagyományait őrzik.", "category": "historical", "coords": [13.693266, 45.092094]}], "ro": [{"name": "Crkva sv. Antuna Opata", "desc": "O mică biserică din secolul al XVI-lea în centrul satului.", "coords": [13.716454, 45.108106], "text": "Crkva sv. Antuna Opata este o biserică istorică fermecătoare situată în Rovinjsko Selo. Aceasta mărturisește moștenirea culturală și spirituală bogată a comunității istriene."}, {"name": "Romualdova pećina", "text": "O peșteră în canalul Lim, cunoscută pentru descoperirile sale preistorice.", "category": "natural", "coords": [13.737368, 45.127532]}, {"name": "Kapa", "text": "Kapa este un vârf deluros proeminent situat lângă satul Rovinjsko Selo din regiunea Istria.", "category": "natural", "coords": [13.688797, 45.097885]}, {"name": "Sveta Cecilija", "text": "Ruinele bisericii Sveta Cecilija de lângă Rovinjsko Selo sunt martore ale vechii tradiții creștine din regiune.", "category": "historical", "coords": [13.693266, 45.092094]}], "en": [{"name": "Crkva sv. Antuna Opata", "desc": "A small 16th-century church located in the village center.", "coords": [13.716454, 45.108106], "text": "The Crkva sv. Antuna Opata is a charming historic church located in Rovinjsko Selo. It stands as a testament to the rich cultural and spiritual heritage of this Istrian community."}, {"name": "Romualdo Cave", "text": "A cave in the Lim Channel known for its prehistoric findings.", "category": "natural", "coords": [13.737368, 45.127532]}, {"name": "Kapa", "text": "Kapa is a prominent hill peak located near the village of Rovinjsko Selo in the heart of Istria.", "category": "natural", "coords": [13.688797, 45.097885]}, {"name": "Sveta Cecilija", "text": "The ruins of Sveta Cecilija near Rovinjsko Selo stand as a testament to the region long Christian tradition.", "category": "historical", "coords": [13.693266, 45.092094]}], "hr": [{"name": "Romualdo Cave", "text": "Pećina u Limskom kanalu nazvana po svetom Romualdu, poznata po prapovijesnim crtežima.", "category": "natural", "coords": [13.737368, 45.127532]}, {"name": "Kapa", "text": "Kapa je istaknuti brdski vrh smješten u blizini Rovinjskog Sela u unutrašnjosti Istre.", "category": "natural", "coords": [13.688797, 45.097885]}, {"name": "Sveta Cecilija", "text": "Ruševine crkve Svete Cecilije kod Rovinjskog Sela svjedoče o dugoj kršćanskoj tradiciji ovog kraja.", "category": "historical", "coords": [13.693266, 45.092094]}]}, "imageHint": "Traditional Istrian stone house with a Mediterranean garden and vineyard in Rovinjsko Selo.", "county": "HR-18",
+  {"id": "croatia-rovinjsko-selo-cities-v2", "type": "city", "parent": "HR", "coords": [13.7156, 45.1064], "population": 1339, "name": {"de": "Rovinjsko Selo", "hu": "Rovinjsko Selo", "ro": "Rovinjsko Selo", "en": "Rovinjsko Selo"}, "description": {"de": "Ein ruhiges Dorf unweit von Rovinj, bekannt für seine traditionellen istrischen Steinhäuser und Weinberge.", "hu": "Rovinj közelében fekvő csendes falu, amely hagyományos isztriai kőházairól és szőlőültetvényeiről ismert.", "ro": "Un sat liniștit lângă Rovinj, cunoscut pentru casele tradiționale din piatră și podgoriile sale.", "en": "A peaceful village near Rovinj, known for its traditional Istrian stone houses and surrounding vineyards."}, "descriptionAdvanced": {"de": "Rovinjsko Selo liegt auf einem Hügel an der Hauptstraße nach Rovinj und bietet einen authentischen Einblick in das ländliche Istrien. Das im 16. Jahrhundert von Siedlern aus dem Hinterland gegründete Dorf hat sich heute zu einem beliebten Ausgangspunkt für Radfahrer und Wanderer entwickelt. Die Umgebung ist von Olivenhainen und Weinbergen geprägt, in denen die Rebsorten Malvazija und Teran gedeihen. Architektonisch dominieren renovierte Steinhäuser mit den typischen istrischen Brunnen (Šterna) in den Innenhöfen. Die Nähe zum Lim-Fjord macht es zu einem idealen Ort für Naturliebhaber, die die Hektik der Küste meiden möchten. Jährlich finden hier lokale Feste wie die Antonja statt, bei denen Wein- und Olivenölproduzenten ihre Erzeugnisse präsentieren.", "hu": "Rovinjsko Selo egy dombtetőn fekszik a Rovinjba vezető főút mentén, hiteles betekintést nyújtva a vidéki Isztria életébe. A falut a 16. században alapították a szárazföld belsejéből érkező telepesek, mára pedig a kerékpárosok és túrázók kedvelt bázisává vált. A környéket olajfaligetek és szőlők határozzák meg, ahol Malvazija és Teran fajtákat termesztenek. Építészetileg a felújított kőházak dominálnak, az udvarokon tipikus isztriai kutakkal (Šterna). A Lim-fjord közelsége ideálissá teszi a természetjárók számára, akik elkerülnék a tengerparti tömeget. Évente rendezik meg az Antonja fesztivált, ahol a helyi borászok és olívaolaj-termelők mutatkoznak be.", "ro": "Rovinjsko Selo este situat pe o colină de-a lungul drumului principal către Rovinj, oferind o perspectivă autentică asupra Istriei rurale. Satul a fost fondat în secolul al XVI-lea de coloniști veniți din interiorul peninsulei, iar astăzi a devenit o bază populară pentru bicicliști și drumeți. Împrejurimile sunt dominate de livezi de măslini și podgorii unde cresc soiurile Malvazija și Teran. Din punct de vedere arhitectural, predomină casele din piatră renovate, cu fântâni tipice istriene (Šterna) în curți. Proximitatea de Fiordul Lim îl face un loc ideal pentru iubitorii de natură care doresc să evite agitația de pe coastă. Anual are loc festivalul Antonja, unde producătorii locali de vin și ulei de măsline își expun marfa.", "en": "Rovinjsko Selo is situated on a hill along the main road to Rovinj, offering an authentic glimpse into rural Istria. Founded in the 16th century by settlers from the hinterland, the village has evolved into a popular base for cyclists and hikers. The area is defined by olive groves and vineyards where Malvazija and Teran grape varieties thrive. Architecturally, renovated stone houses with typical Istrian wells (Šterna) in the courtyards dominate the landscape. Its proximity to the Lim Fjord makes it an ideal spot for nature lovers who wish to avoid the coastal crowds. Every year, local festivals like Antonja take place, showcasing the products of regional wine and olive oil producers."}, "facts": {"de": ["Gegründet 1525", "Höhe: 150 m", "Nähe zum Lim-Fjord", "Traditionelle Šternen", "Radweg Limes-Trail", "Weinregion Malvazija", "Fest Antonja im Januar", "Blick auf Rovinj"], "hu": ["Alapítva 1525-ben", "Tengerszint feletti magasság: 150 m", "Lim-fjord közelsége", "Hagyományos kőkutak", "Limes kerékpárút", "Malvazija borvidék", "Antonja ünnep januárban", "Kilátás Rovinjra"], "ro": ["Fondat în 1525", "Altitudine: 150 m", "Aproape de Fiordul Lim", "Fântâni tradiționale", "Traseu biciclete Limes", "Regiune viticolă Malvazija", "Sărbătoarea Antonja în ianuarie", "Vedere spre Rovinj"], "en": ["Founded in 1525", "Elevation: 150 m", "Proximity to Lim Fjord", "Traditional stone wells", "Limes cycling trail", "Malvazija wine region", "Antonja festival in January", "View of Rovinj"]}, "sights": {
+      "de": [
+            {
+                  "name": "Crkva sv. Antuna Opata",
+                  "desc": "Eine kleine Kirche aus dem 16. Jahrhundert im Zentrum des Dorfes.",
+                  "coords": [
+                        13.716454,
+                        45.108106
+                  ],
+                  "text": "Die Crkva sv. Antuna Opata ist eine charmante Kirche im Dorf Rovinjsko Selo. Sie zeugt vom reichen kulturellen und spirituellen Erbe dieser istrischen Gemeinde."
+            },
+            {
+                  "name": "Romualdova pećina",
+                  "text": "Eine Höhle im Lim-Kanal, die für ihre prähistorischen Funde bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.737368,
+                        45.127532
+                  ]
+            },
+            {
+                  "name": "Kapa",
+                  "text": "Kapa ist ein markanter Hügelgipfel in der Nähe von Rovinjsko Selo in der malerischen Landschaft Istriens.",
+                  "category": "natural",
+                  "coords": [
+                        13.688797,
+                        45.097885
+                  ]
+            },
+            {
+                  "name": "Sveta Cecilija",
+                  "text": "Die Ruinen der Kirche Sveta Cecilija bei Rovinjsko Selo zeugen von der langen christlichen Tradition der Region.",
+                  "category": "historical",
+                  "coords": [
+                        13.693266,
+                        45.092094
+                  ]
+            },
+            {
+                  "name": "Maklavun",
+                  "text": "Maklavun ist eine Stätte mit historischen Ruinen in Rovinjsko Selo.",
+                  "category": "historical",
+                  "coords": [
+                        13.752837,
+                        45.10848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crkva sv. Antuna Opata",
+                  "desc": "16. századi kis templom a falu központjában.",
+                  "coords": [
+                        13.716454,
+                        45.108106
+                  ],
+                  "text": "A Crkva sv. Antuna Opata egy bájos templom Rovinjsko Selo falujában. Az isztriai közösség gazdag kulturális és spirituális örökségét őrzi."
+            },
+            {
+                  "name": "Romualdova pećina",
+                  "text": "Barlang a Lim-csatornában, amely őskori leleteiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        13.737368,
+                        45.127532
+                  ]
+            },
+            {
+                  "name": "Kapa",
+                  "text": "A Kapa egy jellegzetes dombtető Rovinjsko Selo közelében, Isztria belső részén.",
+                  "category": "natural",
+                  "coords": [
+                        13.688797,
+                        45.097885
+                  ]
+            },
+            {
+                  "name": "Sveta Cecilija",
+                  "text": "A Sveta Cecilija templom romjai Rovinjsko Selo mellett a régió keresztény hagyományait őrzik.",
+                  "category": "historical",
+                  "coords": [
+                        13.693266,
+                        45.092094
+                  ]
+            },
+            {
+                  "name": "Maklavun",
+                  "text": "Maklavun egy történelmi romokat bemutató lelőhely Rovinjsko Selo településen.",
+                  "category": "historical",
+                  "coords": [
+                        13.752837,
+                        45.10848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crkva sv. Antuna Opata",
+                  "desc": "O mică biserică din secolul al XVI-lea în centrul satului.",
+                  "coords": [
+                        13.716454,
+                        45.108106
+                  ],
+                  "text": "Crkva sv. Antuna Opata este o biserică istorică fermecătoare situată în Rovinjsko Selo. Aceasta mărturisește moștenirea culturală și spirituală bogată a comunității istriene."
+            },
+            {
+                  "name": "Romualdova pećina",
+                  "text": "O peșteră în canalul Lim, cunoscută pentru descoperirile sale preistorice.",
+                  "category": "natural",
+                  "coords": [
+                        13.737368,
+                        45.127532
+                  ]
+            },
+            {
+                  "name": "Kapa",
+                  "text": "Kapa este un vârf deluros proeminent situat lângă satul Rovinjsko Selo din regiunea Istria.",
+                  "category": "natural",
+                  "coords": [
+                        13.688797,
+                        45.097885
+                  ]
+            },
+            {
+                  "name": "Sveta Cecilija",
+                  "text": "Ruinele bisericii Sveta Cecilija de lângă Rovinjsko Selo sunt martore ale vechii tradiții creștine din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        13.693266,
+                        45.092094
+                  ]
+            },
+            {
+                  "name": "Maklavun",
+                  "text": "Maklavun este un sit cu ruine istorice aflat în Rovinjsko Selo.",
+                  "category": "historical",
+                  "coords": [
+                        13.752837,
+                        45.10848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crkva sv. Antuna Opata",
+                  "desc": "A small 16th-century church located in the village center.",
+                  "coords": [
+                        13.716454,
+                        45.108106
+                  ],
+                  "text": "The Crkva sv. Antuna Opata is a charming historic church located in Rovinjsko Selo. It stands as a testament to the rich cultural and spiritual heritage of this Istrian community."
+            },
+            {
+                  "name": "Romualdo Cave",
+                  "text": "A cave in the Lim Channel known for its prehistoric findings.",
+                  "category": "natural",
+                  "coords": [
+                        13.737368,
+                        45.127532
+                  ]
+            },
+            {
+                  "name": "Kapa",
+                  "text": "Kapa is a prominent hill peak located near the village of Rovinjsko Selo in the heart of Istria.",
+                  "category": "natural",
+                  "coords": [
+                        13.688797,
+                        45.097885
+                  ]
+            },
+            {
+                  "name": "Sveta Cecilija",
+                  "text": "The ruins of Sveta Cecilija near Rovinjsko Selo stand as a testament to the region long Christian tradition.",
+                  "category": "historical",
+                  "coords": [
+                        13.693266,
+                        45.092094
+                  ]
+            },
+            {
+                  "name": "Maklavun",
+                  "text": "Maklavun is a site featuring historical ruins near Rovinjsko Selo.",
+                  "category": "historical",
+                  "coords": [
+                        13.752837,
+                        45.10848
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Romualdo Cave",
+                  "text": "Pećina u Limskom kanalu nazvana po svetom Romualdu, poznata po prapovijesnim crtežima.",
+                  "category": "natural",
+                  "coords": [
+                        13.737368,
+                        45.127532
+                  ]
+            },
+            {
+                  "name": "Kapa",
+                  "text": "Kapa je istaknuti brdski vrh smješten u blizini Rovinjskog Sela u unutrašnjosti Istre.",
+                  "category": "natural",
+                  "coords": [
+                        13.688797,
+                        45.097885
+                  ]
+            },
+            {
+                  "name": "Sveta Cecilija",
+                  "text": "Ruševine crkve Svete Cecilije kod Rovinjskog Sela svjedoče o dugoj kršćanskoj tradiciji ovog kraja.",
+                  "category": "historical",
+                  "coords": [
+                        13.693266,
+                        45.092094
+                  ]
+            }
+      ]
+}, "imageHint": "Traditional Istrian stone house with a Mediterranean garden and vineyard in Rovinjsko Selo.", "county": "HR-18",
     descriptionAdvanced: {
       de: "Rovinjsko Selo, am höchsten Punkt der Straße zwischen Rovinj und dem Lim-Fjord gelegen, ist die größte Siedlung im Hinterland der berühmten Küstenstadt Rovinj. Gegründet wurde der Ort im Jahr 1526 von Siedlern aus der Gegend von Zadar, die vor den vorrückenden Osmanen flohen und hier mit Erlaubnis der Venezianer neues Land urbar machten. Diese historische Herkunft spiegelt sich noch heute in der Struktur des Dorfes und der lokalen Identität wider. Rovinjsko Selo ist heute als das Zentrum der Wein- und Olivenölproduktion in der Region bekannt und beherbergt die renommierte 'Antonja', das älteste Weinfest Istriens, das jedes Jahr im Januar stattfindet. Hier werden die besten Weine der Rebsorten Malvazija und Teran prämiert, was den Ort zu einem Magneten für Önologen und Weinliebhaber macht. Die Umgebung ist geprägt von sanften Hügeln, die mit erstklassigen Olivenhainen bedeckt sind, deren Öl weltweit für seine Qualität geschätzt wird. Dank der erhöhten Lage bietet das Dorf an klaren Tagen spektakuläre Ausblicke auf das Adriatische Meer und die Silhouette von Rovinj. Für Aktivurlauber ist Rovinjsko Selo ein idealer Ausgangspunkt, da zahlreiche Rad- und Wanderwege durch die unberührte Natur direkt zum Lim-Fjord oder in die nahegelegenen Waldgebiete führen. Die architektonische Entwicklung des Ortes verbindet traditionelle Bauernhäuser mit modernen Ferienvillen, was Rovinjsko Selo zu einem beliebten Wohn- und Urlaubsort macht, der die Ruhe des Landlebens mit der Nähe zum pulsierenden Rovinj vereint.",
       hu: "Rovinjsko Selo az Isztriai-félsziget nyugati részén, Rovinj városától alig néhány kilométerre fekszik egy magaslaton, ahonnan pazar kilátás nyílik az Adriai-tengerre. A települést 1526-ban alapították a dalmáciai Zadar környékéről érkező menekültek, akik a török hódítás elől kerestek menedéket a Velencei Köztársaság fennhatósága alatt álló területen. A falu mára a régió borászatának és olívaolaj-termelésének központjává nőtte ki magát, itt rendezik meg minden év januárjában az 'Antonja' fesztivált, amely Isztria legrégebbi bor- és olívaolaj-kiállítása. Ez a rendezvény nemcsak a helyi termelők versenye, hanem a gasztronómiai kultúra ünnepe is, ahol a Malvazija és Teran fajták legkiválóbb tételei kerülnek bemutatásra. Rovinjsko Selo környéke sűrűn átszőtt kerékpárutakkal és gyalogösvényekkel, amelyek közvetlen összeköttetést biztosítanak a Lim-fjord természetvédelmi területével és a tengerparttal. A település építészete az utóbbi évtizedekben jelentős változáson ment keresztül: a régi kőházak mellé modern luxusvillák épültek, de a falu megőrizte mezőgazdasági jellegét is. A látogatók számára ez a hely tökéletes egyensúlyt kínál a vidéki nyugalom és Rovinj kozmopolita vonzereje között. A helyi gazdaság alapját továbbra is a minőségi mezőgazdaság adja, amelynek gyümölcseit a falu körüli gondosan művelt parcellákon bárki megcsodálhatja.",
@@ -22494,6 +22964,15 @@ export const poiExtraHrV3: POI[] = [
                         43.509824
                   ],
                   "text": "Die Crkva Hrvatskih mučenika ist eine Kirche im malerischen Ort Seget Vranjica. Als Ort der Stille und Besinnung lädt das Gebäude dazu ein, einen Moment der Ruhe im Küstendorf zu genießen."
+            },
+            {
+                  "name": "Trogir bay",
+                  "text": "Die Trogir-Bucht ist eine bedeutende Bucht in der Nähe von Seget Vranjica.",
+                  "category": "landmark",
+                  "coords": [
+                        16.196815,
+                        43.504827
+                  ]
             }
       ],
       "hu": [
@@ -22505,6 +22984,15 @@ export const poiExtraHrV3: POI[] = [
                         43.509824
                   ],
                   "text": "A Crkva Hrvatskih mučenika egy templom a festői Seget Vranjica településen. Ez az elmélkedésre szolgáló épület békés perceket kínál a tengerparti falu központjában."
+            },
+            {
+                  "name": "Trogir bay",
+                  "text": "A Trogir-öböl egy jelentős öböl Seget Vranjica közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.196815,
+                        43.504827
+                  ]
             }
       ],
       "ro": [
@@ -22516,6 +23004,15 @@ export const poiExtraHrV3: POI[] = [
                         43.509824
                   ],
                   "text": "Crkva Hrvatskih mučenika este o biserică din așezarea pitorească Seget Vranjica. Fiind un loc de reculegere, clădirea oferă vizitatorilor un moment de liniște în centrul acestui sat de coastă."
+            },
+            {
+                  "name": "Trogir bay",
+                  "text": "Golful Trogir este un golf notabil situat lângă Seget Vranjica.",
+                  "category": "landmark",
+                  "coords": [
+                        16.196815,
+                        43.504827
+                  ]
             }
       ],
       "en": [
@@ -22527,6 +23024,15 @@ export const poiExtraHrV3: POI[] = [
                         43.509824
                   ],
                   "text": "Crkva Hrvatskih mučenika is a church set within the picturesque village of Seget Vranjica. Serving as a place of reflection, the building provides visitors with a quiet moment in the heart of the coastal town."
+            },
+            {
+                  "name": "Trogir bay",
+                  "text": "The Trogir bay is a notable bay situated near Seget Vranjica.",
+                  "category": "landmark",
+                  "coords": [
+                        16.196815,
+                        43.504827
+                  ]
             }
       ],
       "hr": []
@@ -23521,6 +24027,15 @@ export const poiExtraHrV3: POI[] = [
                         14.590871,
                         45.238725
                   ]
+            },
+            {
+                  "name": "Krk Bridge",
+                  "text": "Die Krk-Brücke ist ein beeindruckendes Brückenbauwerk in der Nähe von Šmrika.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56923,
+                        45.246552
+                  ]
             }
       ],
       "hu": [
@@ -23540,6 +24055,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.590871,
                         45.238725
+                  ]
+            },
+            {
+                  "name": "Krk Bridge",
+                  "text": "A Krk-híd egy lenyűgöző hídépítmény Šmrika közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56923,
+                        45.246552
                   ]
             }
       ],
@@ -23561,6 +24085,15 @@ export const poiExtraHrV3: POI[] = [
                         14.590871,
                         45.238725
                   ]
+            },
+            {
+                  "name": "Krk Bridge",
+                  "text": "Podul Krk este un pod impresionant situat lângă Šmrika.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56923,
+                        45.246552
+                  ]
             }
       ],
       "en": [
@@ -23580,6 +24113,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.590871,
                         45.238725
+                  ]
+            },
+            {
+                  "name": "Krk Bridge",
+                  "text": "The Krk Bridge is an impressive bridge infrastructure situated near Šmrika.",
+                  "category": "landmark",
+                  "coords": [
+                        14.56923,
+                        45.246552
                   ]
             }
       ],
@@ -28223,6 +28765,15 @@ export const poiExtraHrV3: POI[] = [
                         14.270951,
                         45.355493
                   ]
+            },
+            {
+                  "name": "Risnjak",
+                  "text": "Risnjak ist ein lokaler Aussichtspunkt, der malerische Ausblicke in Rukavac bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.266806,
+                        45.361746
+                  ]
             }
       ],
       "hu": [
@@ -28242,6 +28793,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.270951,
                         45.355493
+                  ]
+            },
+            {
+                  "name": "Risnjak",
+                  "text": "A Risnjak egy festői kilátást nyújtó kilátópont Rukavac területén.",
+                  "category": "natural",
+                  "coords": [
+                        14.266806,
+                        45.361746
                   ]
             }
       ],
@@ -28263,6 +28823,15 @@ export const poiExtraHrV3: POI[] = [
                         14.270951,
                         45.355493
                   ]
+            },
+            {
+                  "name": "Risnjak",
+                  "text": "Risnjak este un punct de belvedere care oferă priveliști pitorești în Rukavac.",
+                  "category": "natural",
+                  "coords": [
+                        14.266806,
+                        45.361746
+                  ]
             }
       ],
       "en": [
@@ -28282,6 +28851,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.270951,
                         45.355493
+                  ]
+            },
+            {
+                  "name": "Risnjak",
+                  "text": "Risnjak is a local viewpoint offering scenic vistas in Rukavac.",
+                  "category": "natural",
+                  "coords": [
+                        14.266806,
+                        45.361746
                   ]
             }
       ],
@@ -28537,6 +29115,15 @@ export const poiExtraHrV3: POI[] = [
                         15.619996,
                         44.155021
                   ]
+            },
+            {
+                  "name": "Karin Sea",
+                  "text": "Das Kariner Meer ist eine fast geschlossene Bucht der Adria bei Gornji Karin.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614546,
+                        44.145499
+                  ]
             }
       ],
       "hu": [
@@ -28574,6 +29161,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.619996,
                         44.155021
+                  ]
+            },
+            {
+                  "name": "Karin Sea",
+                  "text": "A Karini-tenger egy szinte zárt öböl az Adriai-tengerben, Gornji Karin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614546,
+                        44.145499
                   ]
             }
       ],
@@ -28613,6 +29209,15 @@ export const poiExtraHrV3: POI[] = [
                         15.619996,
                         44.155021
                   ]
+            },
+            {
+                  "name": "Karin Sea",
+                  "text": "Marea Karin este un golf închis în Marea Adriatică, situat lângă Gornji Karin.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614546,
+                        44.145499
+                  ]
             }
       ],
       "en": [
@@ -28650,6 +29255,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.619996,
                         44.155021
+                  ]
+            },
+            {
+                  "name": "Karin Sea",
+                  "text": "The Karin Sea is an enclosed bay in the Adriatic Sea, situated near Gornji Karin.",
+                  "category": "landmark",
+                  "coords": [
+                        15.614546,
+                        44.145499
                   ]
             }
       ],
@@ -29925,6 +30539,15 @@ export const poiExtraHrV3: POI[] = [
                         15.577373,
                         43.947017
                   ]
+            },
+            {
+                  "name": "Vrana",
+                  "text": "Vrana ist ein lokaler Aussichtspunkt, der malerische Ausblicke in der Gegend von Vrana bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.557965,
+                        43.958321
+                  ]
             }
       ],
       "hu": [
@@ -29962,6 +30585,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.577373,
                         43.947017
+                  ]
+            },
+            {
+                  "name": "Vrana",
+                  "text": "A Vrana nevű kilátóhely festői panorámát kínál Vrana településen.",
+                  "category": "natural",
+                  "coords": [
+                        15.557965,
+                        43.958321
                   ]
             }
       ],
@@ -30001,6 +30633,15 @@ export const poiExtraHrV3: POI[] = [
                         15.577373,
                         43.947017
                   ]
+            },
+            {
+                  "name": "Vrana",
+                  "text": "Vrana este un punct de belvedere local care oferă priveliști pitorești în zona Vrana.",
+                  "category": "natural",
+                  "coords": [
+                        15.557965,
+                        43.958321
+                  ]
             }
       ],
       "en": [
@@ -30038,6 +30679,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.577373,
                         43.947017
+                  ]
+            },
+            {
+                  "name": "Vrana",
+                  "text": "Vrana is a local viewpoint offering scenic vistas in the area of Vrana.",
+                  "category": "natural",
+                  "coords": [
+                        15.557965,
+                        43.958321
                   ]
             }
       ],
@@ -31298,6 +31948,15 @@ export const poiExtraHrV3: POI[] = [
                         16.112094,
                         43.51249
                   ]
+            },
+            {
+                  "name": "Zaljev Marina",
+                  "text": "Die Marina-Bucht ist eine markante Bucht in der Nähe von Poljica.",
+                  "category": "landmark",
+                  "coords": [
+                        16.151386,
+                        43.509901
+                  ]
             }
       ],
       "hu": [
@@ -31308,6 +31967,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.112094,
                         43.51249
+                  ]
+            },
+            {
+                  "name": "Zaljev Marina",
+                  "text": "A Marina-öböl egy jelentős tengeröböl Poljica közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.151386,
+                        43.509901
                   ]
             }
       ],
@@ -31320,6 +31988,15 @@ export const poiExtraHrV3: POI[] = [
                         16.112094,
                         43.51249
                   ]
+            },
+            {
+                  "name": "Zaljev Marina",
+                  "text": "Golful Marina este un golf proeminent situat lângă Poljica.",
+                  "category": "landmark",
+                  "coords": [
+                        16.151386,
+                        43.509901
+                  ]
             }
       ],
       "en": [
@@ -31330,6 +32007,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.112094,
                         43.51249
+                  ]
+            },
+            {
+                  "name": "Zaljev Marina",
+                  "text": "Zaljev Marina is a prominent bay located near Poljica.",
+                  "category": "landmark",
+                  "coords": [
+                        16.151386,
+                        43.509901
                   ]
             }
       ],
@@ -36020,10 +36706,50 @@ export const poiExtraHrV3: POI[] = [
       ]
 }, "type": "city", "parent": "HR", "coords": [14.2696, 45.4249], "population": 533, "name": {"de": "Veli Brgud", "hu": "Veli Brgud", "ro": "Veli Brgud", "en": "Veli Brgud"}, "description": {"de": "Ein idyllisches Bergdorf im Hinterland von Opatija, bekannt für seine Karnevalstraditionen und frische Waldluft.", "hu": "Idilli hegyi falu Opatija hátországában, amely karneváli hagyományairól és friss erdei levegőjéről ismert.", "ro": "Un sat montan idilic din interiorul localității Opatija, cunoscut pentru tradițiile sale de carnaval și aerul curat de pădure.", "en": "An idyllic mountain village in the Opatija hinterland, known for its carnival traditions and fresh forest air."}, "descriptionAdvanced": {"de": "Veli Brgud liegt in der Gemeinde Matulji, eingebettet in die bewaldeten Hügel des Kvarner-Hinterlandes. Das Dorf ist weit über die regionalen Grenzen hinaus für seine lebendigen Faschingstraditionen bekannt. Die 'Brgujski zvončari' (Glockenläuter) sind eine der ältesten und authentischsten Gruppen dieser Art, deren maskierte Umzüge zum UNESCO-Kulturerbe gehören und im Winter zahlreiche Besucher anlocken.\n\nAbseits der Karnevalszeit ist Veli Brgud ein Paradies für Naturliebhaber. Die dichten Wälder der Umgebung bieten hervorragende Möglichkeiten zum Wandern, Pilzesammeln und Mountainbiken. Durch die Höhenlage ist das Klima auch im Hochsommer angenehm kühl, was den Ort zu einem beliebten Rückzugsort vor der Hitze der Küste macht. Die lokale Küche ist rustikal und bietet Spezialitäten wie Wildgerichte, hausgemachte Pasta und Waldfrüchte.\n\nIn etwa 20 Minuten erreicht man die berühmte Opatija-Riviera mit ihren prachtvollen Villen aus der K.u.K.-Zeit und gepflegten Stränden. Veli Brgud bietet somit eine ruhige Basis für Erkundungen sowohl des Gorski Kotar Gebirges als auch der Adriaküste. Der Ort hat sich seinen ursprünglichen Charakter und die enge Verbundenheit mit der Natur bewahrt.", "hu": "Veli Brgud Matulji községben található, a Kvarner-öböl hátországának erdős dombjai között. A falu messze földön híres élő farsangi hagyományairól. A 'Brgujski zvončari' (kolomposok) az egyik legrégebbi és leghitelesebb ilyen csoport, akiknek maszkos felvonulásai az UNESCO szellemi kulturális örökségének részét képezik, és télen számos látogatót vonzanak.\n\nA karneváli szezonon kívül Veli Brgud a természetbarátok paradicsoma. A környék sűrű erdői kiváló lehetőséget nyújtanak túrázásra, gombászásra és hegyi kerékpározásra. A magassági elhelyezkedésnek köszönhetően a klíma még a nyári hőségben is kellemesen hűvös, így a falu népszerű menedék a tengerparti forróság elől. A helyi konyha rusztikus, olyan specialitásokkal, mint a vadhúsételek, a házi tészta és az erdei gyümölcsök.\n\nKörülbelül 20 perc alatt elérhető a híres Opatija-riviéra a monarchia korabeli villáival és gondozott strandjaival. Veli Brgud így nyugodt bázist kínál mind a Gorski Kotar-hegység, mind az adriai partvidék felfedezéséhez. A település megőrizte eredeti karakterét és a természettel való szoros kapcsolatát.", "ro": "Veli Brgud este situat în comuna Matulji, fiind cuibărit în dealurile împădurite din hinterlandul Golfului Kvarner. Satul este renumit în întreaga regiune pentru tradițiile sale vii de carnaval. 'Brgujski zvončari' (sunătorii din clopote) reprezintă unul dintre cele mai vechi și autentice grupuri de acest gen, ale căror defilări cu măști fac parte din patrimoniul cultural UNESCO și atrag numeroși vizitatori iarna.\n\nÎn afara sezonului de carnaval, Veli Brgud este un paradis pentru iubitorii de natură. Pădurile dese din împrejurimi oferă oportunități excelente pentru drumeții, cules de ciuperci și mountain biking. Datorită altitudinii, climatul este plăcut răcoros chiar și în mijlocul verii, transformând satul într-un refugiu popular împotriva căldurii de pe coastă. Bucătăria locală este rustică, oferind specialități precum preparate din vânat, paste de casă și fructe de pădure.\n\nÎn aproximativ 20 de minute se poate ajunge pe celebra Rivieră Opatija, cu vilele sale splendide din perioada austro-ungară și plajele bine întreținute. Veli Brgud oferă astfel o bază liniștită pentru explorarea atât a munților Gorski Kotar, cât și a coastei Adriatice. Localitatea și-a păstrat caracterul original și legătura strânsă cu natura.", "en": "Veli Brgud is located in the Matulji municipality, nestled in the forested hills of the Kvarner hinterland. The village is well-known throughout the region for its vibrant carnival traditions. The 'Brgujski zvončari' (bell ringers) are among the oldest and most authentic groups of their kind; their masked processions are part of UNESCO's intangible cultural heritage and draw many visitors in winter.\n\nOutside the carnival season, Veli Brgud is a paradise for nature lovers. The surrounding dense forests offer excellent opportunities for hiking, mushroom picking, and mountain biking. Thanks to its elevation, the climate remains pleasantly cool even in the height of summer, making the village a popular retreat from the coastal heat. Local cuisine is rustic, featuring specialties like game dishes, homemade pasta, and forest fruits.\n\nIn about 20 minutes, you can reach the famous Opatija Riviera with its grand villas from the Austro-Hungarian era and well-kept beaches. Veli Brgud thus provides a quiet base for exploring both the Gorski Kotar mountains and the Adriatic coast. The village has maintained its original character and strong connection to nature."}, "facts": {"de": ["Gemeinde Matulji", "Kvarner Hinterland", "UNESCO Zvončari Tradition", "Höhenlage Bergdorf", "Dichte Wälder", "Frisches Gebirgsklima", "20 min bis Opatija", "Rustikale Küche"], "hu": ["Matulji község", "Kvarner hátország", "UNESCO Zvončari hagyomány", "Hegyi település", "Sűrű erdők", "Friss hegyi klíma", "20 percre Opatijától", "Rusztikus konyha"], "ro": ["Comuna Matulji", "Hinterlandul Kvarner", "Tradiție UNESCO Zvončari", "Sat montan la altitudine", "Păduri dese", "Climat montan proaspăt", "20 min până la Opatija", "Bucătărie rustică"], "en": ["Matulji municipality", "Kvarner hinterland", "UNESCO Zvončari tradition", "Elevated mountain village", "Dense forests", "Fresh mountain climate", "20 min to Opatija", "Rustic local cuisine"]}, "imageHint": "A traditional carnival procession with bell ringers in sheepskins and masks in a mountain village square.", "county": "HR-08"},
   {"id": "croatia-praputnjak-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": [],
+      "de": [
+            {
+                  "name": "Bay of Bakar",
+                  "text": "Die Bucht von Bakar ist eine markante Meeresbucht in der Nähe von Praputnjak.",
+                  "category": "landmark",
+                  "coords": [
+                        14.559962,
+                        45.291625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bay of Bakar",
+                  "text": "A Bakari-öböl egy figyelemre méltó tengerparti öböl Praputnjak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.559962,
+                        45.291625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bay of Bakar",
+                  "text": "Golful Bakar este un golf de coastă notabil din apropiere de Praputnjak.",
+                  "category": "landmark",
+                  "coords": [
+                        14.559962,
+                        45.291625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bay of Bakar",
+                  "text": "The Bay of Bakar is a notable coastal bay area near Praputnjak.",
+                  "category": "landmark",
+                  "coords": [
+                        14.559962,
+                        45.291625
+                  ]
+            }
+      ],
       "hr": []
 }, "type": "city", "parent": "HR", "coords": [14.574, 45.299], "population": 532, "name": {"de": "Praputnjak", "hu": "Praputnjak", "ro": "Praputnjak", "en": "Praputnjak"}, "description": {"de": "Ein geschichtsträchtiges Dorf oberhalb der Bucht von Bakar, berühmt für seine terrassierten Weingärten und die historische Karolina-Straße.", "hu": "Történelmi falu a Bakari-öböl felett, amely teraszos szőlőültetvényeiről és a történelmi Karolina-útról híres.", "ro": "Un sat istoric deasupra golfului Bakar, faimos pentru podgoriile sale terasate și drumul istoric Karolina.", "en": "A historic village above Bakar Bay, famous for its terraced vineyards and the historic Karolina road."}, "descriptionAdvanced": {"de": "Praputnjak liegt an den steilen Hängen oberhalb der Bucht von Bakar und ist ein bedeutendes Denkmal der kroatischen Weinbaugeschichte. Bekannt ist der Ort vor allem für die 'Bakarska vodica', einen Schaumwein, der auf den beeindruckenden Trockenmauer-Terrassen, den sogenannten Takala, angebaut wird. Diese terrassierten Weingärten sind als geschütztes Kulturgut eingestuft und zeugen vom harten Kampf der Bauern gegen den Karstboden.\n\nDurch das Dorf führt die historische Karolina-Straße, die im 18. Jahrhundert Wien mit der Adria verband. Die Architektur von Praputnjak spiegelt den Wohlstand wider, den der Weinhandel und die Schifffahrt einst brachten. Die Pfarrkirche St. Josef bildet das Zentrum des Ortes. Von Praputnjak aus bieten sich spektakuläre Ausblicke auf die Adria und die gegenüberliegende Insel Krk.\n\nIn der Umgebung finden Wanderer Wege durch das Karstgebiet, die oft an alten Zisternen und Steinmauern vorbeiführen. Kulinarisch sollte man unbedingt den lokalen Wein und hausgemachte Fleischspezialitäten probieren. Trotz der Nähe zur Hafenstadt Rijeka hat Praputnjak seinen friedlichen, traditionellen Charakter bewahrt und bietet einen tiefen Einblick in das kulturelle Erbe des Kvarners.", "hu": "Praputnjak a Bakari-öböl feletti meredek lejtőkön fekszik, és a horvát borászat történetének kiemelkedő emléke. A település leginkább a 'Bakarska vodica' nevű pezsgőről ismert, amelyet a lenyűgöző szárazon rakott kőfalas teraszokon, az úgynevezett Takalán termelnek. Ezek a teraszos szőlők védett kulturális tájnak minősülnek, és a földművesek karszttal vívott kemény harcának emlékei.\n\nA falun keresztül halad a történelmi Karolina-út, amely a 18. században kötötte össze Bécset az Adriával. Praputnjak építészete tükrözi azt a jólétet, amelyet egykor a borkereskedelem és a hajózás biztosított. A Szent József plébániatemplom alkotja a falu központját, ahonnan látványos kilátás nyílik az Adriai-tengerre és a szemközti Krk-szigetre.\n\nA környéken túraútvonalak vezetnek a karsztvidéken, gyakran régi ciszternek és kőfalak mentén. A gasztronómia kedvelői számára kötelező a helyi bor és a házi húsételek kóstolása. Fiume (Rijeka) közelsége ellenére Praputnjak megőrizte békés, hagyományos jellegét, mély betekintést nyújtva a Kvarner-vidék kulturális örökségébe.", "ro": "Praputnjak este situat pe pantele abrupte deasupra golfului Bakar și este un monument important al istoriei viticulturii croate. Localitatea este cunoscută în special pentru vinul spumant 'Bakarska vodica', produs pe impresionantele terase cu ziduri din piatră uscată, numite Takala. Aceste podgorii terasate sunt clasificate ca peisaj cultural protejat, fiind mărturia luptei grele a țăranilor cu solul carstic.\n\nPrin sat trece drumul istoric Karolina, care în secolul al XVIII-lea lega Viena de Marea Adriatică. Arhitectura din Praputnjak reflectă prosperitatea adusă odinioară de comerțul cu vin și navigație. Biserica parohială Sfântul Iosif formează centrul satului, oferind vederi spectaculoase asupra mării și insulei Krk din apropiere.\n\nÎn împrejurimi, drumeții pot găsi trasee prin zona carstică, ce trec adesea pe lângă cisterne vechi și ziduri de piatră. Din punct de vedere culinar, trebuie neapărat degustat vinul local și specialitățile de carne de casă. În ciuda proximității față de orașul-port Rijeka, Praputnjak și-a păstrat caracterul pașnic și tradițional, oferind o perspectivă profundă asupra moștenirii culturale a regiunii Kvarner.", "en": "Praputnjak is perched on the steep slopes above Bakar Bay and serves as a significant monument to Croatian viticultural history. The village is most famous for 'Bakarska vodica,' a sparkling wine produced on the impressive dry-stone walled terraces known as Takala. These terraced vineyards are designated as a protected cultural landscape, testifying to the hard struggle of local farmers against the karst terrain.\n\nThe historic Karolina road, which connected Vienna to the Adriatic in the 18th century, passes directly through the village. The architecture of Praputnjak reflects the prosperity once brought by the wine trade and maritime shipping. The Parish Church of St. Joseph stands at the village center, offering spectacular views of the Adriatic and the nearby Krk Island.\n\nIn the surrounding area, hikers can explore trails through the karst landscape, often passing old cisterns and stone walls. Culinary-wise, visitors should definitely try the local wine and homemade meat specialties. Despite its proximity to the port city of Rijeka, Praputnjak has maintained its peaceful, traditional character, offering deep insights into the Kvarner region's cultural heritage."}, "facts": {"de": ["Blick auf die Bucht von Bakar", "Terrassen-Weinbau Takala", "Bakarska vodica Schaumwein", "Historische Karolina-Straße", "Kulturerbe Trockenmauern", "Kirche St. Josef", "Nahe Rijeka gelegen", "Schifffahrtstradition"], "hu": ["Kilátás a Bakari-öbölre", "Takala teraszos szőlők", "Bakarska vodica pezsgő", "Történelmi Karolina-út", "Védett kőfalas teraszok", "Szent József templom", "Rijeka közelében", "Hajózási hagyományok"], "ro": ["Vedere spre golful Bakar", "Viticultură terasată Takala", "Vin spumant Bakarska vodica", "Drumul istoric Karolina", "Patrimoniu ziduri de piatră", "Biserica Sfântul Iosif", "Lângă orașul Rijeka", "Tradiție de navigație"], "en": ["View over Bakar Bay", "Takala terraced vineyards", "Bakarska vodica sparkling wine", "Historic Karolina road", "Dry-stone wall heritage", "Church of St. Joseph", "Located near Rijeka", "Maritime shipping history"]}, "imageHint": "Terraced vineyards with dry-stone walls overlooking a deep blue bay with a small town at the bottom.", "county": "HR-08"},
   {"id": "croatia-potravlje-cities-v2", "sights": {
@@ -42514,6 +43240,15 @@ export const poiExtraHrV3: POI[] = [
                         14.398672,
                         44.660391
                   ]
+            },
+            {
+                  "name": "Počivalice",
+                  "text": "Počivalice ist ein malerischer Aussichtspunkt in Nerezine.",
+                  "category": "natural",
+                  "coords": [
+                        14.37657,
+                        44.649315
+                  ]
             }
       ],
       "hu": [
@@ -42542,6 +43277,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.398672,
                         44.660391
+                  ]
+            },
+            {
+                  "name": "Počivalice",
+                  "text": "A Počivalice egy festői kilátópont Nerezine városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.37657,
+                        44.649315
                   ]
             }
       ],
@@ -42572,6 +43316,15 @@ export const poiExtraHrV3: POI[] = [
                         14.398672,
                         44.660391
                   ]
+            },
+            {
+                  "name": "Počivalice",
+                  "text": "Počivalice este un punct de belvedere pitoresc în Nerezine.",
+                  "category": "natural",
+                  "coords": [
+                        14.37657,
+                        44.649315
+                  ]
             }
       ],
       "en": [
@@ -42600,6 +43353,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.398672,
                         44.660391
+                  ]
+            },
+            {
+                  "name": "Počivalice",
+                  "text": "Počivalice is a scenic viewpoint in Nerezine.",
+                  "category": "natural",
+                  "coords": [
+                        14.37657,
+                        44.649315
                   ]
             }
       ],
@@ -42881,6 +43643,15 @@ export const poiExtraHrV3: POI[] = [
                         14.018505,
                         44.973063
                   ]
+            },
+            {
+                  "name": "Raša gulf",
+                  "text": "Die Raša-Bucht ist eine malerische Bucht in der Nähe von Rakalj.",
+                  "category": "landmark",
+                  "coords": [
+                        14.063686,
+                        44.987959
+                  ]
             }
       ],
       "hu": [
@@ -42918,6 +43689,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.018505,
                         44.973063
+                  ]
+            },
+            {
+                  "name": "Raša gulf",
+                  "text": "A Raša-öböl egy festői tengeröböl Rakalj közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.063686,
+                        44.987959
                   ]
             }
       ],
@@ -42957,6 +43737,15 @@ export const poiExtraHrV3: POI[] = [
                         14.018505,
                         44.973063
                   ]
+            },
+            {
+                  "name": "Raša gulf",
+                  "text": "Golful Raša este un golf pitoresc situat în apropiere de Rakalj.",
+                  "category": "landmark",
+                  "coords": [
+                        14.063686,
+                        44.987959
+                  ]
             }
       ],
       "en": [
@@ -42994,6 +43783,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.018505,
                         44.973063
+                  ]
+            },
+            {
+                  "name": "Raša gulf",
+                  "text": "The Raša gulf is a picturesque bay located near Rakalj.",
+                  "category": "landmark",
+                  "coords": [
+                        14.063686,
+                        44.987959
                   ]
             }
       ],
@@ -47039,6 +47837,15 @@ export const poiExtraHrV3: POI[] = [
                         16.765399,
                         43.415737
                   ]
+            },
+            {
+                  "name": "vidikovac na Brač",
+                  "text": "Vidikovac na Brač ist ein Aussichtspunkt in Lokva Rogoznica mit Blick auf die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        16.775651,
+                        43.408192
+                  ]
             }
       ],
       "hu": [
@@ -47058,6 +47865,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.765399,
                         43.415737
+                  ]
+            },
+            {
+                  "name": "vidikovac na Brač",
+                  "text": "A Vidikovac na Brač egy kilátó Lokva Rogoznicában, amely parti kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        16.775651,
+                        43.408192
                   ]
             }
       ],
@@ -47079,6 +47895,15 @@ export const poiExtraHrV3: POI[] = [
                         16.765399,
                         43.415737
                   ]
+            },
+            {
+                  "name": "vidikovac na Brač",
+                  "text": "Vidikovac na Brač este un punct de belvedere pitoresc din Lokva Rogoznica.",
+                  "category": "natural",
+                  "coords": [
+                        16.775651,
+                        43.408192
+                  ]
             }
       ],
       "en": [
@@ -47098,6 +47923,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.765399,
                         43.415737
+                  ]
+            },
+            {
+                  "name": "vidikovac na Brač",
+                  "text": "Vidikovac na Brač is a scenic viewpoint in Lokva Rogoznica offering coastal views.",
+                  "category": "natural",
+                  "coords": [
+                        16.775651,
+                        43.408192
                   ]
             }
       ],
@@ -47143,6 +47977,15 @@ export const poiExtraHrV3: POI[] = [
                         14.674722,
                         45.241531
                   ]
+            },
+            {
+                  "name": "Gračišće",
+                  "text": "Gračišće ist eine bedeutende archäologische Stätte bei Drivenik.",
+                  "category": "historical",
+                  "coords": [
+                        14.6406,
+                        45.233044
+                  ]
             }
       ],
       "hu": [
@@ -47162,6 +48005,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.674722,
                         45.241531
+                  ]
+            },
+            {
+                  "name": "Gračišće",
+                  "text": "Gračišće egy jelentős régészeti lelőhely Drivenik közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.6406,
+                        45.233044
                   ]
             }
       ],
@@ -47183,6 +48035,15 @@ export const poiExtraHrV3: POI[] = [
                         14.674722,
                         45.241531
                   ]
+            },
+            {
+                  "name": "Gračišće",
+                  "text": "Gračišće este un sit arheologic important situat lângă Drivenik.",
+                  "category": "historical",
+                  "coords": [
+                        14.6406,
+                        45.233044
+                  ]
             }
       ],
       "en": [
@@ -47202,6 +48063,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.674722,
                         45.241531
+                  ]
+            },
+            {
+                  "name": "Gračišće",
+                  "text": "Gračišće is a significant archaeological site located near Drivenik.",
+                  "category": "historical",
+                  "coords": [
+                        14.6406,
+                        45.233044
                   ]
             }
       ],
@@ -47797,7 +48667,52 @@ export const poiExtraHrV3: POI[] = [
             }
       ]
 }, "type": "city", "parent": "HR", "coords": [15.1094, 44.0503], "population": 323, "name": {"de": "Veli Iž", "hu": "Veli Iž", "ro": "Veli Iž", "en": "Veli Iž"}, "description": {"de": "Der Hauptort der Insel Iž, bekannt für seine jahrhundertealte Töpfertradition, Seefahrerkultur und den malerischen Hafen.", "hu": "Iž-sziget központi települése, amely évszázados fazekas hagyományairól, tengerész múltjáról és festői kikötőjéről ismert.", "ro": "Localitatea principală de pe insula Iž, cunoscută pentru tradiția seculară a olăritului, cultura maritimă și portul pitoresc.", "en": "The main settlement on the island of Iž, known for its centuries-old pottery tradition, maritime culture, and picturesque harbor."}, "descriptionAdvanced": {"de": "Veli Iž liegt in einer geschützten Bucht auf der Nordostseite der Insel Iž im Zadar-Archipel. Der Ort ist einzigartig an der Adria für seine Bewahrung der „Iška keramika“, einer speziellen Töpferkunst, bei der Gefäße für den täglichen Gebrauch über offenem Feuer gebrannt werden. Im ethnografischen Museum des Ortes können Besucher diese Tradition und alte Werkzeuge bestaunen.\n\nDas Ortsbild wird durch schmale Gassen, alte Kapitänshäuser und die Pfarrkirche St. Peter und Paul geprägt. Der zentrale Platz am Hafen ist das Herzstück des sozialen Lebens, wo im Sommer das berühmte Inselfest „Iška fešta“ stattfindet, bei dem der „König von Iž“ gewählt wird – ein Brauch, der bis in die Antike zurückreicht. Die Insel ist von Olivenhainen umgeben, die ein besonders hochwertiges Öl hervorbringen.\n\nFür Segler bietet Veli Iž eine gut ausgestattete Marina und sichere Ankerplätze. Die Umgebung lädt zum Wandern auf den Berg Korinjak ein, von dem aus man einen spektakulären Blick auf die Kornaten und das Festland hat. Die lokale Gastronomie serviert fangfrischen Fisch und Lammfleisch, oft begleitet von dem berühmten lokalen Olivenöl und Wein.", "hu": "Veli Iž az Iž-sziget legnagyobb települése, a Zadar-szigetvilág egyik legautentikusabb pontja. A falu világhírét a különleges fazekasmesterségnek, az „Iška keramika”-nak köszönheti: a helyi mesterek egyedi technikával, nyílt tűzön égetik ki a cserépedényeket. Ez a hagyomány ma is él, és a település néprajzi gyűjteményében megtekinthetőek a legszebb darabok.\n\nA település szerkezete a klasszikus dalmát szigetvilágot idézi: szűk sikátorok, kőből épült kapitányi házak és a Szent Péter és Pál plébániatemplom alkotják a magvát. A nyár fénypontja az „Iška fešta”, egy többnapos mulatság, amelynek során a régi szokás szerint megválasztják „Iž királyát”. A kikötő környéke nyáron pezsgő élettel telik meg, vitorlásokkal és helyi halászhajókkal.\n\nA sziget belsejét sűrű olajfaligetek borítják, az itt készített olívaolaj az egyik legjobb Horvátországban. A túrázók számára a Korinjak-hegy megmászása ajánlott, ahonnan páratlan kilátás nyílik a Kornati Nemzeti Park szigeteire. A helyi éttermekben érdemes megkóstolni a tenger gyümölcseit és a parázson sült ételeket, amelyeket helyi borokkal kísérnek.", "ro": "Veli Iž este situat într-un golf adăpostit de pe partea de nord-est a insulei Iž, în arhipelagul Zadar. Localitatea este faimoasă în toată Croația pentru „Iška keramika”, o formă unică de olărit tradițional în care vasele sunt arse direct pe foc deschis. Această tehnică străveche este păstrată vie de câțiva meșteri locali, iar lucrările lor sunt expuse în muzeul etnografic din centrul satului.\n\nArhitectura locală este definită de casele impunătoare ale foștilor căpitani de navă și de biserica parohială Sfântul Petru și Pavel. În fiecare vară, aici are loc „Iška fešta”, un festival în cadrul căruia este ales „Regele de Iž”, un ritual ce datează din timpuri medievale. Portul este inima localității, fiind o destinație populară pentru navigatorii care caută liniște și autenticitate.\n\nInsula este acoperită de livezi de măslini seculare, producția de ulei de măsline fiind principala activitate a localnicilor alături de pescuit. Pentru pasionații de natură, dealul Korinjak oferă trasee de drumeție cu vederi panoramice asupra parcului național Kornati. Restaurantele din port servesc delicatese pescărești, pregătite simplu, cu ierburi aromatice locale și ulei de măsline de pe insulă.", "en": "Veli Iž is located in a sheltered bay on the northeastern side of Iž Island, part of the Zadar archipelago. The village is unique in the Adriatic for its preservation of the 'Iška keramika', a traditional pottery craft where vessels are fired on an open flame. This ancient technique is still practiced today, and visitors can explore its history in the local ethnographic collection.\n\nThe townscape features narrow stone streets, historic captains' houses, and the parish church of St. Peter and Paul. The waterfront is the center of social life, especially during the 'Iška fešta' in summer, where the 'King of Iž' is elected in a tradition dating back centuries. The harbor is a favorite among sailors, offering a modern marina and a tranquil atmosphere away from the mainland crowds.\n\nThe interior of the island is dominated by ancient olive groves, producing some of the region's finest olive oil. Hiking trails lead to the top of Korinjak hill, providing stunning panoramic views of the Kornati Islands and the Zadar channel. Local cuisine is centered around fresh seafood and lamb, always paired with the island's renowned olive oil and local wines."}, "facts": {"de": ["Hauptort der Insel Iž", "Einzige Töpfertradition der Adria", "Museum für Iška keramika", "Wahl des Königs von Iž", "Marina für Segler vorhanden", "Pfarrkirche St. Peter und Paul", "Berühmt für Olivenöl", "Fährverbindung nach Zadar"], "hu": ["Iž-sziget legnagyobb faluja", "Egyedi fazekas hagyomány", "Iška keramika múzeum", "Iž királyának megválasztása", "Modern vitorláskikötő", "Szent Péter és Pál templom", "Kiváló minőségű olívaolaj", "Kompösszeköttetés Zadarral"], "ro": ["Cea mai mare așezare de pe Iž", "Tradiție unică în olărit", "Colecție de ceramică locală", "Alegerea Regelui de Iž", "Marina modernă pentru iahturi", "Biserica Sf. Petru și Pavel", "Producție de ulei de măsline", "Legătură cu feribotul din Zadar"], "en": ["Main settlement on Iž Island", "Unique Adriatic pottery craft", "Iška keramika museum", "Election of the King of Iž", "Well-equipped marina", "St. Peter and Paul church", "Renowned for olive oil", "Ferry connection to Zadar"]}, "imageHint": "A charming island harbor with stone houses, fishing boats, and a church tower reflecting in the calm blue water.", "county": "HR-13"},
-  {"id": "croatia-sopot-cities-v2", "type": "city", "parent": "HR", "coords": [15.5572, 44.0139], "population": 323, "name": {"de": "Šopot", "hu": "Šopot", "ro": "Šopot", "en": "Šopot"}, "description": {"de": "Ein historisches Dorf bei Benkovac, berühmt als Fundort der Inschrift von Fürst Branimir aus dem Jahr 888, einem Eckpfeiler der kroatischen Geschichte.", "hu": "Benkovac melletti történelmi falu, amely Branimir fejedelem 888-as feliratának lelőhelyeként híres, ami a horvát történelem egyik alapköve.", "ro": "Un sat istoric lângă Benkovac, faimos ca locul unde a fost găsită inscripția prințului Branimir din 888, un pilon al istoriei croate.", "en": "A historic village near Benkovac, famous as the discovery site of Prince Branimir's inscription from 888, a cornerstone of Croatian history."}, "descriptionAdvanced": {"de": "Šopot liegt in der fruchtbaren Region Ravni Kotari, nur wenige Kilometer von der Stadt Benkovac entfernt. Das Dorf erlangte weltweite wissenschaftliche Bedeutung durch den Fund eines steinernen Balkens aus der Kirche des Heiligen Asel, auf dem der Name des kroatischen Fürsten Branimir und das Jahr 888 eingemeißelt sind. Dies ist das erste schriftliche Dokument, in dem der Name eines kroatischen Herrschers zusammen mit dem Begriff „Kroaten“ erwähnt wird.\n\nDie Landschaft um Šopot ist geprägt von Landwirtschaft, insbesondere von Weinbergen und Olivenhainen. Die traditionellen Steinhäuser zeugen von der langen Siedlungsgeschichte in dieser strategisch wichtigen Ebene zwischen dem Velebit-Gebirge und der Adriaküste. Die kleine Kirche des Heiligen Asel (Sveti Asel) steht noch heute als symbolisches Zentrum des Ortes.\n\nFür Geschichtsinteressierte ist Šopot ein obligatorischer Halt auf der Route durch das Hinterland von Zadar. In der Nähe befindet sich die Festung Kličevica, ein beeindruckendes Beispiel mittelalterlicher Militärarchitektur. Die lokale Gastronomie ist bekannt für kräftige Weine wie Maraština und fleischlastige Gerichte, die die bäuerliche Tradition der Region widerspiegeln.", "hu": "Šopot a termékeny Ravni Kotari síkságon fekszik, Benkovac közvetlen közelében. A település nevét minden horvát iskolás ismeri, ugyanis itt találták meg a Szent Asel-templom romjai között azt a kőgerendát, amelyen Branimir fejedelem neve és a 888-as évszám szerepel. Ez az első olyan kőbe vésett emlék, amely egyszerre említi a horvát uralkodót és a horvát népnevet.\n\nA falu képe a mezőgazdasági hagyományokat tükrözi: a házakat tágas udvarok és kertek veszik körül, ahol szőlőt és fügét termesztenek. A tájképet a vörös föld (terra rossa) és a fehér mészkő falak kontrasztja határozza meg. Bár a település kicsi, történelmi jelentősége messze túlmutat határain, és fontos állomása a zadari hátország kulturális útvonalainak.\n\nA látogatók számára a környék remek lehetőséget nyújt a kerékpározásra és a helyi borászatok felkeresésére. A közeli Kličevica várrom és a természeti ösvények ideálisak egy délutáni kiránduláshoz. A gasztronómia alapját a helyi juhsajt, a sült bárány és a testes vörösborok adják, amelyeket a helyiek büszkén kínálnak az ideérkezőknek.", "ro": "Šopot este situat în inima regiunii Ravni Kotari, aproape de orașul Benkovac. Satul deține o importanță istorică imensă pentru Croația, deoarece aici a fost descoperit în secolul al XIX-lea pragul de piatră al bisericii Sfântul Asel, care poartă numele principelui Branimir și data de 888. Această descoperire este considerată „certificatul de naștere” al statului croat medieval în formă scrisă.\n\nPeisajul rural este tipic pentru câmpia dalmată, cu sol fertil de culoare roșiatică, ideal pentru viticultură și livezi de migdali. Casele tradiționale sunt construite din piatră locală, reflectând un stil de viață legat strâns de pământ. Biserica Sfântul Asel, deși modestă ca dimensiuni, rămâne un simbol spiritual și istoric puternic pentru întreaga națiune.\n\nVizitatorii interesați de arheologie pot explora situl unde a fost găsită inscripția (originalul se află în Muzeul Monumentelor Arheologice Croate din Split). În vecinătate se află cetatea medievală Kličevica, care oferă o perspectivă asupra fortificațiilor de apărare împotriva otomanilor. Zona este renumită pentru vinurile sale autohtone și pentru ospitalitatea localnicilor, care păstrează vii rețetele culinare tradiționale.", "en": "Šopot is located in the fertile Ravni Kotari plain, just a few kilometers from Benkovac. The village gained immense historical significance when a stone lintel from the Church of St. Asel was discovered, bearing the name of the Croatian Prince Branimir and the year 888. This inscription is one of the most important archaeological finds in Croatia, as it is the first to mention the name 'Croat' alongside a ruler's title.\n\nThe village environment is predominantly agricultural, with vast vineyards and olive groves stretching across the red soil of the hinterland. Traditional stone architecture still characterizes many parts of the settlement, showcasing the long history of habitation in this strategic region between the mountains and the sea. The Church of St. Asel continues to stand as a landmark of spiritual and national identity.\n\nFor history buffs, Šopot is an essential stop while exploring the Zadar hinterland. Nearby, the medieval Kličevica fortress offers a glimpse into the region's defensive past. Visitors can enjoy local wine tastings and traditional Dalmatian meals in nearby rural households, featuring specialties like roasted lamb and local sheep cheese."}, "facts": {"de": ["Fundort der Branimir-Inschrift", "Datiert auf das Jahr 888", "In der Region Ravni Kotari", "Nahe der Stadt Benkovac", "Kirche des Heiligen Asel", "Wichtiges nationales Denkmal", "Traditioneller Weinbau", "Nahe der Festung Kličevica"], "hu": ["Branimir-felirat lelőhelye", "A felirat dátuma: 888", "Ravni Kotari síkságon", "Benkovac városa mellett", "Szent Asel-templom", "Nemzeti történelmi emlékhely", "Hagyományos borvidék", "Kličevica vár a közelben"], "ro": ["Locul inscripției lui Branimir", "Datată în anul 888", "În regiunea Ravni Kotari", "Lângă orașul Benkovac", "Biserica Sfântul Asel", "Monument istoric național", "Tradiție viticolă veche", "Cetatea Kličevica în apropiere"], "en": ["Site of Prince Branimir inscription", "Dated to the year 888", "In the Ravni Kotari plain", "Near the town of Benkovac", "Church of St. Asel", "Key national historic site", "Traditional wine region", "Near Kličevica fortress"]}, "imageHint": "An archaeological site with stone ruins and a small chapel in a rural landscape with vineyards and olive trees.", "county": "HR-13"},
+  {"id": "croatia-sopot-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kličevica",
+                  "text": "Kličevica ist eine historische Festung in Šopot.",
+                  "category": "fortress",
+                  "coords": [
+                        15.567625,
+                        44.03353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kličevica",
+                  "text": "A Kličevica egy történelmi erődítmény Šopotban.",
+                  "category": "fortress",
+                  "coords": [
+                        15.567625,
+                        44.03353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kličevica",
+                  "text": "Kličevica este un fort istoric situat în Šopot.",
+                  "category": "fortress",
+                  "coords": [
+                        15.567625,
+                        44.03353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kličevica",
+                  "text": "Kličevica is a historic fort located in Šopot.",
+                  "category": "fortress",
+                  "coords": [
+                        15.567625,
+                        44.03353
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "HR", "coords": [15.5572, 44.0139], "population": 323, "name": {"de": "Šopot", "hu": "Šopot", "ro": "Šopot", "en": "Šopot"}, "description": {"de": "Ein historisches Dorf bei Benkovac, berühmt als Fundort der Inschrift von Fürst Branimir aus dem Jahr 888, einem Eckpfeiler der kroatischen Geschichte.", "hu": "Benkovac melletti történelmi falu, amely Branimir fejedelem 888-as feliratának lelőhelyeként híres, ami a horvát történelem egyik alapköve.", "ro": "Un sat istoric lângă Benkovac, faimos ca locul unde a fost găsită inscripția prințului Branimir din 888, un pilon al istoriei croate.", "en": "A historic village near Benkovac, famous as the discovery site of Prince Branimir's inscription from 888, a cornerstone of Croatian history."}, "descriptionAdvanced": {"de": "Šopot liegt in der fruchtbaren Region Ravni Kotari, nur wenige Kilometer von der Stadt Benkovac entfernt. Das Dorf erlangte weltweite wissenschaftliche Bedeutung durch den Fund eines steinernen Balkens aus der Kirche des Heiligen Asel, auf dem der Name des kroatischen Fürsten Branimir und das Jahr 888 eingemeißelt sind. Dies ist das erste schriftliche Dokument, in dem der Name eines kroatischen Herrschers zusammen mit dem Begriff „Kroaten“ erwähnt wird.\n\nDie Landschaft um Šopot ist geprägt von Landwirtschaft, insbesondere von Weinbergen und Olivenhainen. Die traditionellen Steinhäuser zeugen von der langen Siedlungsgeschichte in dieser strategisch wichtigen Ebene zwischen dem Velebit-Gebirge und der Adriaküste. Die kleine Kirche des Heiligen Asel (Sveti Asel) steht noch heute als symbolisches Zentrum des Ortes.\n\nFür Geschichtsinteressierte ist Šopot ein obligatorischer Halt auf der Route durch das Hinterland von Zadar. In der Nähe befindet sich die Festung Kličevica, ein beeindruckendes Beispiel mittelalterlicher Militärarchitektur. Die lokale Gastronomie ist bekannt für kräftige Weine wie Maraština und fleischlastige Gerichte, die die bäuerliche Tradition der Region widerspiegeln.", "hu": "Šopot a termékeny Ravni Kotari síkságon fekszik, Benkovac közvetlen közelében. A település nevét minden horvát iskolás ismeri, ugyanis itt találták meg a Szent Asel-templom romjai között azt a kőgerendát, amelyen Branimir fejedelem neve és a 888-as évszám szerepel. Ez az első olyan kőbe vésett emlék, amely egyszerre említi a horvát uralkodót és a horvát népnevet.\n\nA falu képe a mezőgazdasági hagyományokat tükrözi: a házakat tágas udvarok és kertek veszik körül, ahol szőlőt és fügét termesztenek. A tájképet a vörös föld (terra rossa) és a fehér mészkő falak kontrasztja határozza meg. Bár a település kicsi, történelmi jelentősége messze túlmutat határain, és fontos állomása a zadari hátország kulturális útvonalainak.\n\nA látogatók számára a környék remek lehetőséget nyújt a kerékpározásra és a helyi borászatok felkeresésére. A közeli Kličevica várrom és a természeti ösvények ideálisak egy délutáni kiránduláshoz. A gasztronómia alapját a helyi juhsajt, a sült bárány és a testes vörösborok adják, amelyeket a helyiek büszkén kínálnak az ideérkezőknek.", "ro": "Šopot este situat în inima regiunii Ravni Kotari, aproape de orașul Benkovac. Satul deține o importanță istorică imensă pentru Croația, deoarece aici a fost descoperit în secolul al XIX-lea pragul de piatră al bisericii Sfântul Asel, care poartă numele principelui Branimir și data de 888. Această descoperire este considerată „certificatul de naștere” al statului croat medieval în formă scrisă.\n\nPeisajul rural este tipic pentru câmpia dalmată, cu sol fertil de culoare roșiatică, ideal pentru viticultură și livezi de migdali. Casele tradiționale sunt construite din piatră locală, reflectând un stil de viață legat strâns de pământ. Biserica Sfântul Asel, deși modestă ca dimensiuni, rămâne un simbol spiritual și istoric puternic pentru întreaga națiune.\n\nVizitatorii interesați de arheologie pot explora situl unde a fost găsită inscripția (originalul se află în Muzeul Monumentelor Arheologice Croate din Split). În vecinătate se află cetatea medievală Kličevica, care oferă o perspectivă asupra fortificațiilor de apărare împotriva otomanilor. Zona este renumită pentru vinurile sale autohtone și pentru ospitalitatea localnicilor, care păstrează vii rețetele culinare tradiționale.", "en": "Šopot is located in the fertile Ravni Kotari plain, just a few kilometers from Benkovac. The village gained immense historical significance when a stone lintel from the Church of St. Asel was discovered, bearing the name of the Croatian Prince Branimir and the year 888. This inscription is one of the most important archaeological finds in Croatia, as it is the first to mention the name 'Croat' alongside a ruler's title.\n\nThe village environment is predominantly agricultural, with vast vineyards and olive groves stretching across the red soil of the hinterland. Traditional stone architecture still characterizes many parts of the settlement, showcasing the long history of habitation in this strategic region between the mountains and the sea. The Church of St. Asel continues to stand as a landmark of spiritual and national identity.\n\nFor history buffs, Šopot is an essential stop while exploring the Zadar hinterland. Nearby, the medieval Kličevica fortress offers a glimpse into the region's defensive past. Visitors can enjoy local wine tastings and traditional Dalmatian meals in nearby rural households, featuring specialties like roasted lamb and local sheep cheese."}, "facts": {"de": ["Fundort der Branimir-Inschrift", "Datiert auf das Jahr 888", "In der Region Ravni Kotari", "Nahe der Stadt Benkovac", "Kirche des Heiligen Asel", "Wichtiges nationales Denkmal", "Traditioneller Weinbau", "Nahe der Festung Kličevica"], "hu": ["Branimir-felirat lelőhelye", "A felirat dátuma: 888", "Ravni Kotari síkságon", "Benkovac városa mellett", "Szent Asel-templom", "Nemzeti történelmi emlékhely", "Hagyományos borvidék", "Kličevica vár a közelben"], "ro": ["Locul inscripției lui Branimir", "Datată în anul 888", "În regiunea Ravni Kotari", "Lângă orașul Benkovac", "Biserica Sfântul Asel", "Monument istoric național", "Tradiție viticolă veche", "Cetatea Kličevica în apropiere"], "en": ["Site of Prince Branimir inscription", "Dated to the year 888", "In the Ravni Kotari plain", "Near the town of Benkovac", "Church of St. Asel", "Key national historic site", "Traditional wine region", "Near Kličevica fortress"]}, "imageHint": "An archaeological site with stone ruins and a small chapel in a rural landscape with vineyards and olive trees.", "county": "HR-13"},
   {"id": "croatia-grabovac-cities-v2", "sights": {
       "de": [],
       "hu": [],
@@ -57992,10 +58907,50 @@ export const poiExtraHrV3: POI[] = [
       ]
 }, "type": "city", "parent": "HR", "coords": [14.2792, 45.4056], "population": 244, "name": {"de": "Zvoneće", "hu": "Zvoneće", "ro": "Zvoneće", "en": "Zvoneće"}, "description": {"de": "Ein Dorf im Hinterland von Opatija, bekannt für seine Zvončari-Karnevalstradition.", "hu": "Opatija hátországában fekvő falu, amely a Zvončari karneváli hagyományáról ismert.", "ro": "Un sat în hinterlandul orașului Opatija, cunoscut pentru tradiția carnavalească Zvončari.", "en": "A village in the Opatija hinterland, famous for its Zvončari carnival tradition."}, "descriptionAdvanced": {"de": "Zvoneće liegt in den waldreichen Hügeln oberhalb der Riviera von Opatija, im Gebiet der Gemeinde Matulji. Der Ort ist tief in der lokalen Kultur verwurzelt und weltweit bekannt für die 'Zvonećanski zvončari'. Diese Glockenläuter in ihren charakteristischen Kostümen gehören zum UNESCO-Weltkulturerbe und vertreiben im Winter mit ihren großen Glocken die bösen Geister.\n\nDie geografische Lage bietet ein mildes Klima, das die Frische der Berge mit der Nähe zum Meer verbindet. Wanderer schätzen die Wege, die von Zvoneće auf die umliegenden Gipfel des Učka-Gebirges führen. Die Architektur des Dorfes ist traditionell, mit vielen gut erhaltenen Steinbauten, die den Charme vergangener Zeiten versprühen.\n\nIn den lokalen Gasthäusern werden Spezialitäten der Region Kvarner serviert, wie Maronen-Gerichte im Herbst oder Speisen mit Waldpilzen. Durch die Nähe zu Matulji und Opatija ist Zvoneće ein idealer Ausgangspunkt für Gäste, die tagsüber die Strände der Adria genießen und nachts in der kühlen Ruhe der Hügel schlafen möchten.", "hu": "Zvoneće az Opatija-riviéra feletti erdős dombokon fekszik, Matulji község területén. A település kulturális jelentősége kiemelkedő: innen származnak a 'Zvonećanski zvončari' néven ismert kolomposok. Ez a különleges, maszkos felvonulás az UNESCO szellemi világörökségének része, célja pedig a téli gonosz szellemek elűzése hatalmas kolompok rázásával.\n\nA falu fekvése különleges: egyesíti a hegyi levegő frissességét a tenger közelségével. A túrázók kedvelt célpontja, hiszen számos ösvény vezet innen az Učka-hegység vonulatai felé. A település építészete hagyományos karsztvidéki stílusú, szűk utcákkal és masszív kőfalakkal, amelyek hűvösen tartják a házakat a nyári melegben is.\n\nA helyi konyha a Kvarner-öböl hátországának kincseire épül: ősszel a gesztenyés ételek (marunada), év közben pedig a vadhúsok és gombák dominálnak. Zvoneće kiváló választás azoknak, akik autentikus környezetben, a természethez közel szeretnének megszállni, de fél órán belül el szeretnék érni a tengerparti strandokat.", "ro": "Zvoneće este situat în dealurile împădurite de deasupra Rivierei Opatija, pe teritoriul comunei Matulji. Satul este un centru cultural important, fiind faimos pentru grupul 'Zvonećanski zvončari'. Acești colindători cu talăngi, costumați tradițional, fac parte din patrimoniul mondial UNESCO și reprezintă un ritual străvechi de alungare a spiritelor iernii prin sunetul clopotelor grele.\n\nPoziția geografică oferă un climat plăcut, unde aerul proaspăt de munte se întâlnește cu briza mării. Iubitorii de mișcare pot explora numeroasele trasee forestiere care fac legătura între sat și parcul natural Učka. Satul păstrează o structură arhitecturală veche, cu case de piatră care evocă istoria rurală a regiunii Kvarner.\n\nGastronomia locală pune accent pe produsele pădurii, fiind renumită pentru preparatele cu castane (maruni) și ciuperci sălbatice. Datorită accesului facil către Matulji și autostradă, Zvoneće este o bază perfectă pentru turiștii care doresc să combine relaxarea în natură cu vizite la plajele din Opatija sau Volosko.", "en": "Zvoneće is nestled in the forested hills above the Opatija Riviera, within the municipality of Matulji. The village is culturally significant as the home of the 'Zvonećanski zvončari' (bell ringers). This masked carnival parade is part of UNESCO's Intangible Cultural Heritage, representing an ancient ritual where men dressed in animal skins and carrying heavy bells drive away winter spirits.\n\nThe location offers a unique microclimate, blending mountain freshness with coastal proximity. Hikers enjoy the network of trails leading from Zvoneće toward the Učka mountain range. The village architecture is traditional Karst style, featuring solid stone buildings and narrow lanes that have remained largely unchanged for decades.\n\nLocal cuisine focuses on the bounties of the hinterland, particularly famous for chestnut-based dishes (maruni) in autumn and wild game specialties. Zvoneće is an excellent choice for visitors seeking an authentic experience close to nature, providing a peaceful retreat just a short drive away from the vibrant beaches of Opatija and the Kvarner Gulf."}, "facts": {"de": ["UNESCO-Erbe", "Zvoncari-Tradition", "Opatija-Hinterland", "Matulji-Gemeinde", "Učka-Nähe", "Karnevalskultur", "Waldreiches Gebiet", "Milde Bergluft"], "hu": ["UNESCO örökség", "Zvončari hagyomány", "Opatija hátországa", "Matulji község", "Učka közelsége", "Karneváli kultúra", "Erdős vidék", "Friss levegő"], "ro": ["Patrimoniu UNESCO", "Tradiția Zvončari", "Hinterland Opatija", "Comuna Matulji", "Lângă muntele Učka", "Cultură carnavalescă", "Zonă împădurită", "Aer curat"], "en": ["UNESCO Heritage", "Zvončari tradition", "Opatija hinterland", "Matulji municipality", "Near Mt. Učka", "Carnival culture", "Forested area", "Fresh air"]}, "imageHint": "Traditional stone houses in a green hill region with views toward the forested peaks of the Učka mountain.", "county": "HR-08"},
   {"id": "croatia-donje-obuljeno-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": [],
+      "de": [
+            {
+                  "name": "Rijeka dubrovačka",
+                  "text": "Rijeka dubrovačka ist eine wunderschöne Bucht und Ria in der Nähe von Donje Obuljeno.",
+                  "category": "landmark",
+                  "coords": [
+                        18.10124,
+                        42.671247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rijeka dubrovačka",
+                  "text": "A Rijeka dubrovačka egy gyönyörű öböl és ria Donje Obuljeno közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.10124,
+                        42.671247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rijeka dubrovačka",
+                  "text": "Rijeka dubrovačka este un golf și o ria frumoasă situată lângă Donje Obuljeno.",
+                  "category": "landmark",
+                  "coords": [
+                        18.10124,
+                        42.671247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rijeka dubrovačka",
+                  "text": "Rijeka dubrovačka is a beautiful bay and ria located near Donje Obuljeno.",
+                  "category": "landmark",
+                  "coords": [
+                        18.10124,
+                        42.671247
+                  ]
+            }
+      ],
       "hr": []
 }, "type": "city", "parent": "HR", "coords": [18.1055, 42.6739], "population": 243, "name": {"de": "Donje Obuljeno", "hu": "Donje Obuljeno", "ro": "Donje Obuljeno", "en": "Donje Obuljeno"}, "description": {"de": "Ein Ortsteil von Dubrovnik an der Mündung der Ombla, nahe dem Jachthafen ACI Marina.", "hu": "Dubrovnik egyik városrésze az Ombla-folyó torkolatánál, az ACI kikötő közelében.", "ro": "Un cartier al Dubrovnikului la gura de vărsare a râului Ombla, lângă portul ACI Marina.", "en": "A district of Dubrovnik at the mouth of the Ombla river, near the ACI Marina."}, "descriptionAdvanced": {"de": "Donje Obuljeno ist eine Siedlung am nördlichen Ufer der Bucht Rijeka Dubrovačka, unweit des Zentrums von Dubrovnik. Die Lage ist privilegiert durch die Nähe zur Quelle der Ombla, einem der kürzesten Flüsse der Welt. Historisch war diese Gegend ein beliebter Ort für die Sommerresidenzen des Dubrovniker Adels, von denen einige Ruinen und Gärten noch heute sichtbar sind.\n\nFür nautische Touristen ist der Ort von strategischer Bedeutung, da er direkt an die ACI Marina Dubrovnik grenzt, einen der sichersten und schönsten Jachthäfen der Adria. Entlang der Bucht gibt es eine schöne Promenade, die ideal für Abendspaziergänge ist. Der Ort bietet eine ruhigere Atmosphäre als die Altstadt, ist aber durch regelmäßige Buslinien bestens angebunden.\n\nGastronomisch findet man hier exzellente Restaurants, die frischen Fisch und Meeresfrüchte aus der Region anbieten. Von Donje Obuljeno aus lassen sich leicht Ausflüge zu den Elafiti-Inseln oder in das nahe gelegene Konavle-Tal unternehmen.", "hu": "Donje Obuljeno Dubrovnik közvetlen szomszédságában, a Rijeka Dubrovačka-öböl északi partján található. A terület különlegessége az Ombla-folyó közelsége, amely a világ egyik legrövidebb folyójaként közvetlenül itt ömlik az Adriába. A falu és környéke egykor a dubrovniki nemesség kedvelt nyári lakhelye volt, számos régi kúria és kert maradványa ma is látható.\n\nA település gazdasági és turisztikai motorja az ACI Marina Dubrovnik kikötő, amely közvetlenül mellette fekszik. Ez az egyik legvédettebb jachtkikötő az Adrián, így az utcaképben gyakran látni vitorlásokat. Az öböl mentén kiépített sétány kiválóan alkalmas kocogásra vagy esti sétákra, miközben a víz tükrén megcsillannak a környező hegyek.\n\nA helyi éttermekben a dubrovniki konyha remekeit kóstolhatjuk meg, köztük a fekete rizottót és a frissen fogott tengeri halakat. Donje Obuljeno tökéletes választás azoknak, akik Dubrovnik közelében maradnának, de elkerülnék az óváros állandó tömegét, mégis élveznék a tengerparti hangulatot.", "ro": "Donje Obuljeno este o așezare situată pe malul nordic al golfului Rijeka Dubrovačka, în proximitatea imediată a orașului Dubrovnik. Zona este faimoasă pentru râul Ombla, care izvorește la mică distanță, fiind unul dintre cele mai scurte cursuri de apă din lume. Istoric, acest mal a fost ales de aristocrația din Republica Ragusa pentru construirea unor reședințe de vară spectaculoase, ale căror urme pot fi admirate și astăzi.\n\nPentru pasionații de navigație, locația este ideală, fiind situată lângă ACI Marina Dubrovnik, portul turistic principal al regiunii. Promenada lungă care șerpuiește pe malul golfului oferă un spațiu excelent pentru plimbări relaxante, oferind o perspectivă diferită asupra orașului. Accesul către centrul vechi al Dubrovnikului este facil, fiind asigurat de linii de autobuz frecvente.\n\nRestaurantele din zonă sunt renumite pentru preparatele din fructe de mare și pește proaspăt, servite într-un cadru liniștit. Donje Obuljeno combină avantajele unei zone rezidențiale calme cu proximitatea față de atracțiile mondiale ale Perlei Adriaticii.", "en": "Donje Obuljeno is a settlement on the northern shore of the Rijeka Dubrovačka bay, just a few kilometers from Dubrovnik's city center. The area is unique for its location near the source of the Ombla river, recognized as one of the shortest rivers in the world. Historically, this scenic waterfront was a favored location for the summer palaces of the Dubrovnik nobility, with several historic estates still gracing the shoreline.\n\nThe district is a hub for nautical tourism, situated right next to the prestigious ACI Marina Dubrovnik. This marina is considered one of the safest in the Adriatic, often filled with impressive yachts and sailboats. A long waterfront promenade connects the local settlements, perfect for walking or cycling while enjoying the calm waters of the inlet.\n\nDining in Donje Obuljeno offers a chance to taste authentic Dubrovnik specialties, such as black risotto and grilled seafood, in a more relaxed setting than the Old Town. It serves as an excellent base for visitors who want to be close to Dubrovnik's main attractions while staying in a quieter, water-focused neighborhood."}, "facts": {"de": ["Dubrovnik-Nähe", "Ombla-Fluss", "ACI Marina nähe", "Nautik-Zentrum", "Sommerpaläste", "Rijeka Dubrovacka", "Buchtenlage", "Gute Busanbindung"], "hu": ["Dubrovnik mellett", "Ombla-folyó", "ACI Marina közel", "Hajós központ", "Nyári paloták", "Rijeka Dubrovačka", "Öbölpart", "Buszos közlekedés"], "ro": ["Lângă Dubrovnik", "Râul Ombla", "Lângă ACI Marina", "Centru nautic", "Conace istorice", "Rijeka Dubrovačka", "Pe malul golfului", "Transport facil"], "en": ["Near Dubrovnik", "Ombla River", "Near ACI Marina", "Nautical hub", "Summer palaces", "Rijeka Dubrovačka", "Bayfront location", "Good bus links"]}, "imageHint": "Sailboats and yachts docked in a modern marina along a calm river bay with hills in the background.", "county": "HR-19"},
   {"id": "croatia-maslinica-cities-v2", "sights": {
@@ -62282,6 +63237,15 @@ export const poiExtraHrV3: POI[] = [
                         15.226812,
                         44.345884
                   ]
+            },
+            {
+                  "name": "Dinjiška bay",
+                  "text": "Die Bucht Dinjiška ist eine malerische Küstenbucht in Vlašići, Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.219685,
+                        44.336965
+                  ]
             }
       ],
       "hu": [
@@ -62301,6 +63265,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.226812,
                         44.345884
+                  ]
+            },
+            {
+                  "name": "Dinjiška bay",
+                  "text": "A Dinjiška-öböl egy festői tengerparti öböl Vlašići településen, Pag szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.219685,
+                        44.336965
                   ]
             }
       ],
@@ -62322,6 +63295,15 @@ export const poiExtraHrV3: POI[] = [
                         15.226812,
                         44.345884
                   ]
+            },
+            {
+                  "name": "Dinjiška bay",
+                  "text": "Golful Dinjiška este un golf de coastă pitoresc situat în Vlašići, Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.219685,
+                        44.336965
+                  ]
             }
       ],
       "en": [
@@ -62341,6 +63323,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.226812,
                         44.345884
+                  ]
+            },
+            {
+                  "name": "Dinjiška bay",
+                  "text": "Dinjiška bay is a scenic coastal bay situated in Vlašići, Pag.",
+                  "category": "landmark",
+                  "coords": [
+                        15.219685,
+                        44.336965
                   ]
             }
       ],
@@ -64808,6 +65799,15 @@ export const poiExtraHrV3: POI[] = [
                         15.131512,
                         44.032845
                   ]
+            },
+            {
+                  "name": "crkva svete Marije",
+                  "text": "Die Marienkirche (crkva svete Marije) ist eine Kirche in Mali Iž.",
+                  "category": "religious",
+                  "coords": [
+                        15.13298,
+                        44.02891
+                  ]
             }
       ],
       "hu": [
@@ -64818,6 +65818,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.131512,
                         44.032845
+                  ]
+            },
+            {
+                  "name": "crkva svete Marije",
+                  "text": "A Szűz Mária-templom (crkva svete Marije) egy templom Mali Iž településén.",
+                  "category": "religious",
+                  "coords": [
+                        15.13298,
+                        44.02891
                   ]
             }
       ],
@@ -64830,6 +65839,15 @@ export const poiExtraHrV3: POI[] = [
                         15.131512,
                         44.032845
                   ]
+            },
+            {
+                  "name": "crkva svete Marije",
+                  "text": "Biserica Sfânta Maria (crkva svete Marije) este o biserică situată în Mali Iž.",
+                  "category": "religious",
+                  "coords": [
+                        15.13298,
+                        44.02891
+                  ]
             }
       ],
       "en": [
@@ -64840,6 +65858,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.131512,
                         44.032845
+                  ]
+            },
+            {
+                  "name": "crkva svete Marije",
+                  "text": "The Church of St. Mary (crkva svete Marije) is a church located in Mali Iž.",
+                  "category": "religious",
+                  "coords": [
+                        15.13298,
+                        44.02891
                   ]
             }
       ],
@@ -67169,10 +68196,50 @@ export const poiExtraHrV3: POI[] = [
       ]
 }, "type": "city", "parent": "HR", "coords": [17.1094, 43.5133], "population": 179, "name": {"de": "Ričice", "hu": "Ričice", "ro": "Ričice", "en": "Ričice"}, "description": {"de": "Ein malerisches Dorf im Hinterland von Imotski, bekannt für seinen wunderschönen Stausee und die unberührte Natur.", "hu": "Imotski hátországában fekvő festői falu, amely gyönyörű víztározójáról és érintetlen természetéről ismert.", "ro": "Un sat pitoresc în hinterlandul orașului Imotski, cunoscut pentru lacul său de acumulare și natura virgină.", "en": "A picturesque village in the Imotski hinterland, known for its beautiful reservoir and untouched nature."}, "descriptionAdvanced": {"de": "Ričice liegt im westlichen Teil der Imotski-Region, nahe der Grenze zu Bosnien und Herzegowina. Das Dorf ist berühmt für den See Ričice (Zeleno jezero - Grüner See), einen künstlichen Stausee, der sich harmonisch in die raue Karstlandschaft einfügt. Das smaragdgrüne Wasser des Sees ist ein beliebtes Ziel für Fischer und Naturliebhaber. In trockenen Perioden treten die Überreste alter Brücken und Häuser aus dem Wasser hervor, was dem Ort eine fast mystische Atmosphäre verleiht.\n\nDie Umgebung von Ričice ist ideal für Outdoor-Aktivitäten wie Wandern und Mountainbiken. Die Nähe zu den berühmten Naturphänomenen von Imotski, dem Roten und dem Blauen See, macht das Dorf zu einem attraktiven Standort für Ökotourismus. Die lokale Kultur ist geprägt von alten Bräuchen, dalmatinischen Klapa-Gesängen und einer herzhaften Küche, die auf hausgemachten Produkten basiert. Ričice bietet einen authentischen Einblick in das Leben im dalmatinischen Hinterland, fernab der überfüllten Strände, mit einem angenehmen Klima durch die Höhe.", "hu": "Ričice az Imotski-régió nyugati részén fekszik, közel a bosznia-hercegovinai határhoz. A falu legfőbb vonzereje a Ričice-tó (Zeleno jezero - Zöld-tó), egy mesterséges víztározó, amely lenyűgöző módon illeszkedik a vad karszttájba. A tó smaragdzöld vize népszerű célpont a horgászok és a természetjárók körében. Szárazabb időszakokban a vízszint csökkenésével régi hidak és házak maradványai tűnnek elő a vízből, ami misztikus hangulatot kölcsönöz a helynek.\n\nRičice környéke kiválóan alkalmas szabadtéri tevékenységekre, például túrázásra és hegyi kerékpározásra. Imotski híres természeti jelenségei, a Vörös- és a Kék-tó közelsége miatt a falu vonzó helyszín az ökoturizmus számára. A helyi kultúrát ősi szokások, dalmát klapa-énekek és házias, helyi alapanyagokra épülő konyha jellemzi. Ričice az autentikus dalmát hátországi életet mutatja be, távol a zsúfolt strandoktól, kellemes hegyi levegővel és vendégszerető közösséggel.", "ro": "Ričice este situat în partea de vest a regiunii Imotski, aproape de granița cu Bosnia și Herțegovina. Satul este faimos pentru lacul Ričice (Zeleno jezero - Lacul Verde), un lac de acumulare care se integrează armonios în peisajul carstic sălbatic. Apa de culoarea smaraldului a lacului este o destinație populară pentru pescari și iubitorii de natură. În perioadele de secetă, resturile unor poduri și case vechi ies la suprafață, oferind locului o atmosferă mistică.\n\nÎmprejurimile satului Ričice sunt ideale pentru activități în aer liber, cum ar fi drumețiile și ciclismul montan. Apropierea de faimoasele fenomene naturale din Imotski, Lacul Roșu și Lacul Albastru, face din sat o locație atractivă pentru ecoturism. Cultura locală este marcată de obiceiuri vechi, cântece dalmațiene 'klapa' și o bucătărie robustă bazată pe produse de casă. Ričice oferă o perspectivă autentică asupra vieții din hinterlandul dalmațian, departe de plajele aglomerate, având un climat plăcut datorită altitudinii.", "en": "Ričice is located in the western part of the Imotski region, near the border with Bosnia and Herzegovina. The village is famous for Lake Ričice (Zeleno jezero - Green Lake), an artificial reservoir that blends harmoniously into the rugged karst landscape. The lake's emerald-green water is a popular destination for fishermen and nature enthusiasts. During dry periods, the remains of old bridges and houses emerge from the water, giving the place an almost mystical atmosphere.\n\nThe surroundings of Ričice are ideal for outdoor activities such as hiking and mountain biking. Its proximity to the famous natural phenomena of Imotski, the Red and Blue Lakes, makes the village an attractive location for ecotourism. Local culture is characterized by ancient customs, Dalmatian 'klapa' singing, and hearty cuisine based on homemade products. Ričice offers an authentic look at life in the Dalmatian hinterland, far from the crowded beaches, with a pleasant climate due to its elevation."}, "facts": {"de": ["Liegt in der Region Imotski", "Berühmt für das Grüne See (Zeleno jezero)", "Nahe der bosnischen Grenze", "Klares smaragdgrünes Wasser", "Versunkene Ruinen bei Niedrigwasser", "Region für Ökotourismus", "Angenehmes Bergklima", "Traditionelle dalmatinische Küche"], "hu": ["Az Imotski-régióban található", "A Zöld-tóról (Zeleno jezero) híres", "Bosnyák határ közelsége", "Smaragdzöld kristálytiszta víz", "Elsüllyedt romok alacsony vízállásnál", "Ökoturizmus központja", "Kellemes hegyi klíma", "Hagyományos dalmát ételek"], "ro": ["Situat în regiunea Imotski", "Faimos pentru Lacul Verde", "Aproape de granița cu Bosnia", "Apă de culoarea smaraldului", "Ruine scufundate vizibile la secetă", "Zonă pentru ecoturism", "Climat montan plăcut", "Bucătărie tradițională robustă"], "en": ["Located in the Imotski region", "Famous for the Green Lake", "Near the Bosnian border", "Emerald-green clear water", "Sunken ruins during low water", "Area for ecotourism", "Pleasant mountain climate", "Traditional Dalmatian cuisine"]}, "imageHint": "The emerald green Lake Ričice surrounded by karst mountains and green hills.", "county": "HR-17"},
   {"id": "croatia-glavica-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Kula Vrčevo",
+                  "text": "Kula Vrčevo ist eine historische Festungsanlage in der Nähe von Glavica.",
+                  "category": "fortress",
+                  "coords": [
+                        15.392579,
+                        44.032074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kula Vrčevo",
+                  "text": "A Kula Vrčevo egy történelmi erődítmény Glavica közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        15.392579,
+                        44.032074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kula Vrčevo",
+                  "text": "Kula Vrčevo este o fortificație istorică situată lângă Glavica.",
+                  "category": "fortress",
+                  "coords": [
+                        15.392579,
+                        44.032074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kula Vrčevo",
+                  "text": "Kula Vrčevo is a historic fortification structure located near Glavica.",
+                  "category": "fortress",
+                  "coords": [
+                        15.392579,
+                        44.032074
+                  ]
+            }
+      ]
 }, "type": "city", "parent": "HR", "coords": [15.3835, 44.041], "population": 178, "name": {"de": "Glavica", "hu": "Glavica", "ro": "Glavica", "en": "Glavica"}, "description": {"de": "Ein ruhiges Dorf nahe Sukošan, umgeben von Olivenhainen und Weinbergen in der Nähe von Zadar.", "hu": "Sukošan közeli csendes falu Zadar szomszédságában, olajfaligetekkel és szőlőültetvényekkel körülvéve.", "ro": "Un sat liniștit lângă Sukošan, înconjurat de livezi de măslini și podgorii în apropiere de Zadar.", "en": "A quiet village near Sukošan, surrounded by olive groves and vineyards near Zadar."}, "descriptionAdvanced": {"de": "Glavica ist ein kleiner Ort in der Gemeinde Sukošan, nur wenige Kilometer von der Adriaküste und der Stadt Zadar entfernt. Das Dorf liegt in einer fruchtbaren Ebene, die traditionell für den Anbau von Oliven, Wein und Feigen genutzt wird. Die Umgebung ist geprägt von einer sanften Hügellandschaft, die einen weiten Blick auf den Zadar-Archipel und die Insel Pašman bietet. Glavica ist ein idealer Ort für Besucher, die die Nähe zum Meer suchen, aber die Ruhe des ländlichen Lebens bevorzugen.\n\nIn unmittelbarer Nähe befindet sich die Marina Dalmacija, einer der größten Jachthäfen an der Adria, sowie die wunderschönen Strände von Sukošan. Das Dorf selbst bewahrt eine authentische dalmatinische Atmosphäre mit seinen Steinhäusern und gepflegten Gärten. Die Gastronomie der Region basiert auf frischem Olivenöl, lokalen Weinen und Meeresfrüchten. Durch die Nähe zum Flughafen Zadar und zur Autobahn ist Glavica hervorragend erreichbar und dient als perfekter Ausgangspunkt für Ausflüge in die Nationalparks Kornaten, Paklenica und Nord-Velebit.", "hu": "Glavica Sukošan község egyik kistelepülése, mindössze néhány kilométerre az adriai partoktól és Zadar városától. A falu egy termékeny síkságon fekszik, amelyet hagyományosan olajbogyó-, szőlő- és fügetermesztésre használnak. A környék dombos tája gyönyörű kilátást nyújt a zadari szigetvilágra és Pašman szigetére. Glavica tökéletes választás azoknak, akik a tenger közelségére vágynak, de a vidéki élet nyugalmát részesítik előnyben.\n\nA közvetlen közelben található a Marina Dalmacija, az Adria egyik legnagyobb jachtkikötője, valamint Sukošan hosszan elnyúló strandjai. A falu maga megőrizte az autentikus dalmát hangulatot kőházaival és gondozott kertjeivel. A régió gasztronómiája a friss olívaolajon, a helyi borokon és a tenger gyümölcsein alapul. A zadari repülőtér és az autópálya közelsége miatt Glavica kiválóan megközelíthető, és ideális kiindulópont a Kornati, Paklenica és Észak-Velebit Nemzeti Parkok felfedezéséhez.", "ro": "Glavica este o localitate mică în comuna Sukošan, la doar câțiva kilometri de coasta Adriaticii și de orașul Zadar. Satul este situat într-o câmpie fertilă, folosită tradițional pentru cultivarea măslinilor, viței de vie și smochinilor. Împrejurimile sunt caracterizate de dealuri line care oferă o vedere largă asupra arhipelagului Zadar și a insulei Pašman. Glavica este un loc ideal pentru vizitatorii care caută proximitatea mării, dar preferă liniștea vieții rurale.\n\nÎn imediata apropiere se află Marina Dalmacija, una dintre cele mai mari porturi de agrement de la Marea Adriatică, precum și plajele frumoase din Sukošan. Satul în sine păstrează o atmosferă dalmațiană autentică, cu case din piatră și grădini bine întreținute. Gastronomia regiunii se bazează pe ulei de măsline proaspăt, vinuri locale și fructe de mare. Datorită proximității de aeroportul Zadar și de autostradă, Glavica este excelent accesibilă și servește ca punct de plecare perfect pentru excursii în parcurile naționale Kornati, Paklenica și Velebitul de Nord.", "en": "Glavica is a small settlement in the municipality of Sukošan, just a few kilometers from the Adriatic coast and the city of Zadar. The village lies in a fertile plain traditionally used for cultivating olives, grapes, and figs. The surrounding landscape features gentle hills offering wide views of the Zadar archipelago and the island of Pašman. Glavica is an ideal spot for visitors seeking proximity to the sea while preferring the tranquility of rural life.\n\nIn the immediate vicinity is Marina Dalmacija, one of the largest marinas on the Adriatic, as well as the beautiful beaches of Sukošan. The village itself maintains an authentic Dalmatian atmosphere with its stone houses and well-tended gardens. The region's gastronomy is based on fresh olive oil, local wines, and seafood. Due to its proximity to Zadar Airport and the highway, Glavica is highly accessible and serves as a perfect starting point for excursions to the Kornati, Paklenica, and North Velebit National Parks."}, "facts": {"de": ["Nahe Sukošan und Zadar", "Region der Marina Dalmacija", "Bekannt für Olivenöl", "Blick auf den Zadar-Archipel", "Nahe zum Flughafen Zadar", "Traditioneller Weinbau", "Ruhige ländliche Lage", "Strategischer Punkt für Nationalparks"], "hu": ["Sukošan és Zadar közelében", "A Marina Dalmacija szomszédságában", "Híres olívaolaj-termeléséről", "Kilátás a zadari szigetvilágra", "Zadari repülőtér közelsége", "Hagyományos borászat", "Csendes vidéki környezet", "Ideális bázis a nemzeti parkokhoz"], "ro": ["Lângă Sukošan și Zadar", "În zona Marina Dalmacija", "Renumit pentru uleiul de măsline", "Vedere spre arhipelagul Zadar", "Aproape de aeroportul Zadar", "Viticultură tradițională", "Locație rurală liniștită", "Punct strategic pentru parcuri naționale"], "en": ["Near Sukošan and Zadar", "Close to Marina Dalmacija", "Famous for olive oil", "View of the Zadar archipelago", "Near Zadar Airport", "Traditional viticulture", "Quiet rural location", "Strategic point for national parks"]}, "imageHint": "A peaceful rural road in Glavica lined with olive trees and vineyards under a bright sun.", "county": "HR-13"},
   {"id": "croatia-gornji-brgat-cities-v2", "sights": {
       "de": [
@@ -67408,6 +68475,15 @@ export const poiExtraHrV3: POI[] = [
                         13.572977,
                         45.514147
                   ]
+            },
+            {
+                  "name": "Gulf of Piran",
+                  "text": "Die Bucht von Piran ist eine bedeutende Meeresbucht in der Nähe von Crveni Vrh.",
+                  "category": "landmark",
+                  "coords": [
+                        13.560886,
+                        45.503536
+                  ]
             }
       ],
       "hu": [
@@ -67436,6 +68512,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         13.572977,
                         45.514147
+                  ]
+            },
+            {
+                  "name": "Gulf of Piran",
+                  "text": "A Pirani-öböl egy jelentős tengeröböl Crveni Vrh közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.560886,
+                        45.503536
                   ]
             }
       ],
@@ -67466,6 +68551,15 @@ export const poiExtraHrV3: POI[] = [
                         13.572977,
                         45.514147
                   ]
+            },
+            {
+                  "name": "Gulf of Piran",
+                  "text": "Golful Piran este un golf de coastă important situat lângă Crveni Vrh.",
+                  "category": "landmark",
+                  "coords": [
+                        13.560886,
+                        45.503536
+                  ]
             }
       ],
       "en": [
@@ -67494,6 +68588,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         13.572977,
                         45.514147
+                  ]
+            },
+            {
+                  "name": "Gulf of Piran",
+                  "text": "The Gulf of Piran is a significant coastal bay located near Crveni Vrh.",
+                  "category": "landmark",
+                  "coords": [
+                        13.560886,
+                        45.503536
                   ]
             }
       ],
@@ -69232,10 +70335,50 @@ export const poiExtraHrV3: POI[] = [
       "en": []
 }, "type": "city", "parent": "HR", "coords": [16.4, 43.95], "population": 171, "name": {"de": "Civljane", "hu": "Civljane", "ro": "Civljane", "en": "Civljane"}, "description": {"de": "Die kleinste Gemeinde Kroatiens, im Herzen der dalmatinischen Zagora am Oberlauf der Cetina gelegen.", "hu": "Horvátország legkisebb önálló községe a dalmát hátországban, a Cetina-folyó forrásvidékén.", "ro": "Cea mai mică comună din Croația, situată în inima regiunii Dalmatinska Zagora, la izvoarele râului Cetina.", "en": "The smallest municipality in Croatia, located in the heart of the Dalmatian Zagora near the source of the Cetina river."}, "descriptionAdvanced": {"de": "Civljane liegt in der Gespanschaft Šibenik-Knin und gilt als die einwohnerstärkste kleinste Gemeinde Kroatiens. Der Ort befindet sich in einer dramatischen Karstlandschaft zwischen den Gebirgen Dinara und Svilaja. Die größte Attraktion in unmittelbarer Nähe ist die spektakuläre Quelle der Cetina (Glavaš), die oft als das 'Auge der Erde' bezeichnet wird, aufgrund ihrer tiefblauen Farbe und runden Form.\n\nDie Geschichte von Civljane ist eng mit der strategischen Lage im Landesinneren von Dalmatien verbunden. Ein bedeutendes kulturelles Denkmal ist die altkroatische Kirche des Heiligen Erlösers (sv. Spas) aus dem 9. Jahrhundert, eine der am besten erhaltenen Kirchen ihrer Art in Kroatien. Die Region ist dünn besiedelt, was sie zu einem perfekten Ziel für Reisende macht, die absolute Einsamkeit und unberührte Natur suchen.\n\nOutdoor-Aktivitäten wie Wandern am Fuße der Dinara oder Radfahren durch die weiten Täler sind hier besonders beliebt. Die lokale Wirtschaft basiert auf traditioneller Viehzucht, und Besucher können authentische Produkte wie Lammfleisch und hausgemachten Käse probieren. Civljane bietet eine fast meditative Ruhe und einen tiefen Einblick in das historische Erbe Kroatiens, weit weg von den modernen Urlaubsresorts.", "hu": "Civljane Horvátország legkisebb önálló községe, amely a Šibenik-Knin megyében, a Dinara-hegység lábánál fekszik. A település egyedülálló fekvése miatt a természet szerelmeseinek paradicsoma. Itt található a Cetina-folyó fő forrása, a Glavaš-forrás, amelyet 'a Föld szemeként' is emlegetnek kristálytiszta, türkizkék vize és különleges, kerek formája miatt.\n\nA falu történelme rendkívül gazdag: a közelben áll a 9. századi Szent Megváltó templom (crkva sv. Spasa), amely az egyik legjelentősebb kora középkori horvát műemlék. A templom mellett található óriási középkori temető a 'stećak' sírkövekkel misztikus hangulatot áraszt. Civljane területe a karsztvidék minden szépségét magában hordozza, a magas hegycsúcsoktól a mély völgyekig.\n\nA környék népszerű a túrázók körében, hiszen itt indulnak az utak a Dinara-csúcsra, Horvátország legmagasabb pontjára. A falu lakói ma is hagyományos állattenyésztéssel foglalkoznak, így az ide látogatók valódi háztáji ízekkel találkozhatnak. Civljane nem csupán egy közigazgatási érdekesség, hanem egy spirituális utazás a horvát történelem és a vad természet mélyére.", "ro": "Civljane este recunoscută oficial drept cea mai mică comună din Croația, situată în județul Šibenik-Knin, între munții Dinara și Svilaja. Peisajul este unul auster, dar fascinant, marcat de formțiuni carstice spectaculoase și de cursul superior al râului Cetina. Punctul de maxim interes este izvorul Glavaš al Cetinei, un lac adânc de o culoare albastră ireală, care atrage anual mii de fotografi.\n\nDin punct de vedere istoric, zona este extrem de prețioasă datorită bisericii Sfântul Mântuitor (sv. Spas), ridicată în secolul al IX-lea, reprezentând unul dintre cele mai importante monumente ale arhitecturii timpurii croate. Lângă biserică se află o necropolă medievală cu stećci (pietre funerare sculptate), care oferă o atmosferă solemnă și plină de mister. Localitatea oferă o liniște deplină, fiind situată departe de orice urmă de turism industrial.\n\nVizitatorii pot practica drumeții montane spre vârful Dinara, cel mai înalt punct din Croația, sau pot explora peșterile din apropiere. Bucătăria locală este simplă și robustă, bazată pe produse lactate de munte și carne de miel. Civljane este destinația ideală pentru cei care caută esența istoriei croate și frumusețea pură a naturii neatinse, într-un cadru de o liniște absolută.", "en": "Civljane is known as the smallest municipality in Croatia, located in the Šibenik-Knin County at the base of the Dinara mountains. This remote village is situated in a dramatic karst landscape and is home to one of Croatia's most famous natural wonders: the source of the Cetina river. The Glavaš spring, with its deep turquoise color, is often called 'the eye of the earth' and is a must-visit for nature enthusiasts.\n\nThe area holds immense historical value, notably featuring the 9th-century Church of the Holy Salvation (sv. Spas). This is one of the best-preserved pre-Romanesque monuments in the country, surrounded by a large medieval cemetery with unique 'stećci' tombstones. Civljane offers an authentic look into the past, where the rugged terrain has shaped the resilient lifestyle of its few inhabitants.\n\nIt is a popular base for hikers aiming for the summit of Dinara, the highest peak in Croatia. The vast, open fields and mountainous backdrop provide endless opportunities for photography and quiet contemplation. Visiting Civljane means stepping away from the modern world and immersing oneself in the raw beauty and deep history of the Dalmatian hinterland."}, "facts": {"de": ["Kleinste Gemeinde Kroatiens", "Quelle der Cetina (Glavaš)", "Kirche sv. Spas (9. Jh.)", "Am Fuße der Dinara", "Historische Stećci-Gräber", "Karstlandschaft der Zagora", "Traditionelle Viehzucht", "Einsame Naturerfahrung"], "hu": ["Horvátország legkisebb községe", "A Cetina-folyó forrása", "9. századi Szent Megváltó templom", "A Dinara-hegység lábánál", "Híres 'stećak' sírkövek", "Kristálytiszta karsztforrás", "Hagyományos állattenyésztés", "Vadregényes táj"], "ro": ["Cea mai mică comună din Croația", "Izvorul râului Cetina (Glavaš)", "Biserica Sf. Mântuitor (sec. IX)", "La baza muntelui Dinara", "Necropolă medievală cu stećci", "Peisaj carstic spectaculos", "Liniște și izolare", "Acces spre vârful Dinara"], "en": ["Smallest municipality in Croatia", "Source of Cetina river (Glavaš)", "Church of Holy Salvation (9th c.)", "At the foot of Dinara mountain", "Medieval 'stećci' tombstones", "The Eye of the Earth spring", "Authentic rural traditions", "Untouched karst nature"]}, "imageHint": "A stunning deep blue circular spring reflecting the sky, surrounded by grey limestone rocks, with an ancient 9th-century stone church standing in the background against a vast mountain range.", "county": "HR-15"},
   {"id": "croatia-jadrtovac-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": [],
+      "de": [
+            {
+                  "name": "Morinjski zaljev",
+                  "text": "Der Morinjski zaljev ist eine malerische Bucht in der Nähe von Jadrtovac.",
+                  "category": "landmark",
+                  "coords": [
+                        15.945764,
+                        43.682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morinjski zaljev",
+                  "text": "A Morinjski zaljev egy festői öböl Jadrtovac közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.945764,
+                        43.682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morinjski zaljev",
+                  "text": "Morinjski zaljev este un golf pitoresc situat în apropiere de Jadrtovac.",
+                  "category": "landmark",
+                  "coords": [
+                        15.945764,
+                        43.682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morinjski zaljev",
+                  "text": "Morinjski zaljev is a scenic bay area situated near Jadrtovac.",
+                  "category": "landmark",
+                  "coords": [
+                        15.945764,
+                        43.682
+                  ]
+            }
+      ],
       "hr": []
 }, "type": "city", "parent": "HR", "coords": [15.9503, 43.6775], "population": 171, "name": {"de": "Jadrtovac", "hu": "Jadrtovac", "ro": "Jadrtovac", "en": "Jadrtovac"}, "description": {"de": "Ein ruhiger Ort am Ufer der Morinje-Bucht, bekannt für seinen heilenden Peloid-Schlamm und die Nähe zu Šibenik.", "hu": "Csendes település a Morinje-öböl partján, amely gyógyhatású iszapjáról és Šibenik közelségéről nevezetes.", "ro": "O localitate liniștită pe malul golfului Morinje, cunoscută pentru nămolul peloid curativ și proximitatea față de Šibenik.", "en": "A peaceful settlement on the shores of Morinje Bay, famous for its medicinal peloid mud and proximity to Šibenik."}, "descriptionAdvanced": {"de": "Jadrtovac liegt etwa 10 Kilometer südlich von Šibenik in der geschützten Morinje-Bucht. Der Ort ist in der Region vor allem für seine Vorkommen an Heilschlamm (Peloid) bekannt, der seit Jahrzehnten zur Linderung von rheumatischen Beschwerden genutzt wird. Die flache Bucht sorgt für angenehm warme Wassertemperaturen und ist ein wichtiger Lebensraum für zahlreiche Vogelarten.\n\nHistorisch gesehen lassen sich Spuren bis in die römische Antike zurückverfolgen, worauf archäologische Funde in der unmittelbaren Umgebung hindeuten. Das Dorf hat seinen authentischen dalmatinischen Charakter bewahrt, mit Steinhäusern und einer entspannten Atmosphäre abseits des Massentourismus. In der Nähe befinden sich die Ruinen der barocken Burg der Familie Draganić.\n\nBesucher schätzen Jadrtovac als Ausgangspunkt für Ausflüge in den Krka-Nationalpark oder für Radtouren entlang der Küste. Die lokale Gastronomie konzentriert sich auf einfache, ehrliche Gerichte mit Fisch aus der Bucht und lokalem Olivenöl. Es ist ein idealer Ort für Reisende, die Ruhe suchen, aber dennoch die kulturellen Schätze von Šibenik in wenigen Autominuten erreichen möchten.", "hu": "Jadrtovac mintegy 10 kilométerre délre fekszik Šibeniktől, a védett Morinje-öböl partján. A település leginkább gyógyhatású iszapjáról (peloid) ismert, amelyet évtizedek óta használnak reumatikus panaszok enyhítésére. Az öböl sekély vize gyorsan felmelegszik, ideális feltételeket teremtve a fürdőzéshez és számos madárfaj élőhelyéhez.\n\nA történelmi emlékek egészen a római korig nyúlnak vissza, amiről a környéken talált régészeti leletek tanúskodnak. A falu megőrizte eredeti dalmát jellegét, kőházaival és a tömegturizmustól mentes, nyugodt légkörével. A közelben találhatók a Draganić család barokk várkastélyának romjai is.\n\nA látogatók Jadrtovacot gyakran választják kiindulópontként a Krka Nemzeti Park felfedezéséhez vagy a tengerparti kerékpártúrákhoz. A helyi gasztronómia az öbölből származó friss halakra és a környékbeli olívaolajra épít. Kiváló választás azoknak, akik kerülik a nyüzsgést, de szeretnének közel maradni Šibenik kulturális látnivalóihoz.", "ro": "Jadrtovac este situat la aproximativ 10 kilometri sud de Šibenik, în golful protejat Morinje. Localitatea este renumită în regiune pentru zăcămintele sale de nămol curativ (peloid), utilizat de decenii pentru ameliorarea afecțiunilor reumatice. Apele puțin adânci ale golfului se încălzesc rapid, oferind condiții excelente pentru baie și un habitat vital pentru numeroase specii de păsări.\n\nDin punct de vedere istoric, urmele așezării datează din epoca romană, fapt confirmat de descoperirile arheologice din împrejurimi. Satul și-a păstrat caracterul autentic dalmațian, cu case din piatră și o atmosferă relaxată, departe de turismul de masă. În apropiere se pot vedea ruinele castelului baroc al familiei Draganić.\n\nVizitatorii apreciază Jadrtovac ca punct de plecare pentru excursii în Parcul Național Krka sau pentru trasee de ciclism de-a lungul coastei. Gastronomia locală se bazează pe preparate simple și oneste, folosind pește proaspăt din golf și ulei de măsline local. Este un loc ideal pentru călătorii care caută liniște, dar doresc să rămână aproape de bogățiile culturale din Šibenik.", "en": "Jadrtovac is located about 10 kilometers south of Šibenik in the protected Morinje Bay. The settlement is best known in the region for its deposits of medicinal mud (peloid), which has been used for decades to alleviate rheumatic complaints. The shallow waters of the bay ensure pleasantly warm temperatures and serve as an important habitat for numerous bird species.\n\nHistorically, traces of the settlement date back to Roman times, as evidenced by archaeological finds in the immediate vicinity. The village has maintained its authentic Dalmatian character, featuring traditional stone houses and a relaxed atmosphere away from mass tourism. Nearby are the ruins of the Baroque castle belonging to the Draganić family.\n\nVisitors value Jadrtovac as a base for excursions to the Krka National Park or for cycling trips along the coast. Local gastronomy focuses on simple, honest dishes with fish from the bay and local olive oil. It is an ideal spot for travelers seeking peace while remaining just a short drive from the cultural treasures of Šibenik."}, "facts": {"de": ["Liegt in der Morinje-Bucht", "Bekannt für Heilschlamm", "10 km südlich von Šibenik", "Römische Siedlungsspuren", "Wichtiger Vogelrastplatz", "Ruinen der Draganić-Burg", "Warme Wassertemperaturen", "Authentisches Fischerdorf"], "hu": ["A Morinje-öbölben fekszik", "Gyógyiszapjáról híres", "Šibeniktől 10 km-re délre", "Római kori emlékek", "Fontos madárrezervátum", "A Draganić-vár romjai", "Meleg vizű öböl", "Eredeti halászfalu jelleg"], "ro": ["Situat în golful Morinje", "Faimos pentru nămolul peloid", "10 km sud de Šibenik", "Vestigii din epoca romană", "Habitat important pentru păsări", "Ruinele castelului Draganić", "Ape marine calde", "Sat pescăresc autentic"], "en": ["Located in Morinje Bay", "Famous for medicinal mud", "10 km south of Šibenik", "Roman archaeological traces", "Significant bird habitat", "Ruins of Draganić castle", "Warm water temperatures", "Authentic fishing village"]}, "imageHint": "View of the Morinje Bay in Jadrtovac with stone houses near the shallow water and medicinal mud areas.", "county": "HR-15"},
   {"id": "croatia-rumin-cities-v2", "sights": {
@@ -72863,7 +74006,234 @@ export const poiExtraHrV3: POI[] = [
             }
       ]
 }, "type": "city", "parent": "HR", "coords": [15.4167, 45.0583], "population": 164, "name": {"de": "Stajnica", "hu": "Stajnica", "ro": "Stajnica", "en": "Stajnica"}, "description": {"de": "Ein idyllisches Dorf in der Region Lika, eingebettet in das weite Gacka-Tal und umgeben von bewaldeten Bergen.", "hu": "Idilli falu Lika régióban, a tágas Gacka-völgyben, erdős hegyekkel körülvéve.", "ro": "Un sat idilic în regiunea Lika, cuibărit în valea largă Gacka și înconjurat de munți împăduriți.", "en": "An idyllic village in the Lika region, nestled in the vast Gacka Valley and surrounded by forested mountains."}, "descriptionAdvanced": {"de": "Stajnica liegt am Fuße des Mala Kapela Gebirges in der geschichtsträchtigen Region Lika. Das Dorf ist bekannt für seine saubere Luft und die unberührte Natur, die typisch für das kroatische Binnenland ist. Die Bewohner leben traditionell von der Landwirtschaft und Viehzucht, wobei besonders der lokale Käse und die Kartoffeln aus Lika geschätzt werden. In der Umgebung finden sich zahlreiche Quellen und kleine Bäche, die in den Fluss Gacka münden, der für sein kristallklares Wasser bekannt ist. Die Pfarrkirche Sveti Nikola bildet das Zentrum des Ortes und ist ein Zeugnis der tief verwurzelten Traditionen. Für Aktivurlauber bietet Stajnica Zugang zu zahlreichen Wanderwegen und Jagdrevieren. Die Region ist auch ein idealer Ausgangspunkt für Ausflüge zum Nationalpark Plitvicer Seen, der etwa eine Autostunde entfernt liegt. Hier erlebt man das echte, unverfälschte Kroatien fernab der Adriaküste.", "hu": "Stajnica a Mala Kapela-hegység lábánál fekszik a történelmi Lika régióban. A falu híres tiszta levegőjéről és az érintetlen természetről, amely jellemző a horvát belső területekre. A lakosok hagyományosan mezőgazdaságból és állattenyésztésből élnek, különösen a helyi sajtot és a likai burgonyát értékelik. A környéken számos forrás és kis patak található, amelyek a kristálytiszta vizéről ismert Gacka-folyóba torkollnak. A Sveti Nikola plébániatemplom a település központja, a mélyen gyökerező hagyományok tanúja. Az aktív kikapcsolódásra vágyók számára Stajnica számos túraútvonalhoz és vadászterülethez biztosít hozzáférést. A régió ideális kiindulópont a Plitvicei-tavak Nemzeti Park meglátogatásához is, amely körülbelül egyórás autóútra található. Itt az igazi, hamisítatlan Horvátországot tapasztalhatjuk meg, távol az adriai partoktól.", "ro": "Stajnica este situată la poalele muntelui Mala Kapela în regiunea istorică Lika. Satul este cunoscut pentru aerul curat și natura neatinsă, tipice pentru interiorul Croației. Locuitorii trăiesc tradițional din agricultură și creșterea animalelor, fiind apreciate în mod deosebit brânza locală și cartofii din Lika. În zonă se găsesc numeroase izvoare și mici pârâuri care se varsă în râul Gacka, cunoscut pentru apa sa cristalină. Biserica parohială Sveti Nikola formează centrul localității și este o mărturie a tradițiilor profund înrădăcinate. Pentru turiștii activi, Stajnica oferă acces la numeroase trasee de drumeție și domenii de vânătoare. Regiunea este, de asemenea, un punct de plecare ideal pentru excursii la Parcul Național Lacurile Plitvice, situat la aproximativ o oră de mers cu mașina. Aici se poate experimenta Croația autentică, departe de coasta Adriaticii.", "en": "Stajnica is located at the foot of the Mala Kapela mountain range in the historical Lika region. The village is known for its clean air and pristine nature, typical of the Croatian interior. Residents traditionally live off agriculture and livestock farming, with local cheese and Lika potatoes being particularly valued. The area features numerous springs and small streams that flow into the Gacka River, famous for its crystal-clear water. The Parish Church of St. Nicholas forms the center of the village and stands as a testament to deep-rooted traditions. For active travelers, Stajnica offers access to many hiking trails and hunting grounds. The region is also an ideal starting point for trips to the Plitvice Lakes National Park, located about an hour's drive away. Here, you can experience the real, unadulterated Croatia far from the Adriatic coast."}, "facts": {"de": ["Region Lika", "Mala Kapela Gebirge", "Gacka-Tal", "Traditionelle Landwirtschaft", "Sveti Nikola Kirche", "Saubere Bergluft", "Nähe zu Plitvice", "Wanderparadies"], "hu": ["Lika régió", "Mala Kapela-hegység", "Gacka-völgy", "Hagyományos mezőgazdaság", "Sveti Nikola templom", "Tiszta hegyi levegő", "Plitvice közelsége", "Túrázók paradicsoma"], "ro": ["Regiunea Lika", "Muntele Mala Kapela", "Valea Gacka", "Agricultură tradițională", "Biserica Sveti Nikola", "Aer curat de munte", "Aproape de Plitvice", "Paradisul drumețiilor"], "en": ["Lika region", "Mala Kapela mountains", "Gacka Valley", "Traditional agriculture", "St. Nicholas Church", "Clean mountain air", "Near Plitvice Lakes", "Hiking paradise"]}, "imageHint": "A green mountain valley landscape with a small village church and scattered wooden houses in the Lika region.", "county": "HR-09"},
-  {"id": "croatia-simuni-cities-v2", "sights": {"de": [{"name": "Simuni", "text": "Ein Kieselstrand im Dorf Šimuni auf der Insel Pag.", "category": "recreational", "coords": [14.959592, 44.464727]}, {"name": "Nudist beach", "text": "In die natürliche Umgebung des Campingplatzes Šimuni auf Pag eingebettet, findet sich dieser ausgewiesene FKK-Strandbereich. Wer die hüllenlose Badekultur schätzt, kann hier in privater Atmosphäre die Sonne auf der Haut spüren. Das klare Wasser der Adria ist ideal für ein erfrischendes Bad. Es ist ein friedlicher Ort, um dem Alltag während der Sommermonate zu entfliehen.", "category": "recreational", "coords": [14.955138, 44.463686]}, {"name": "Sveti Vid", "text": "Der höchste Gipfel der Insel Pag mit einer Höhe von 348 Metern.", "category": "natural", "coords": [14.994856, 44.476541]}, {"name": "Golden Beach Simuni", "text": "An der Küste von Šimuni präsentiert sich dieser gut ausgestattete Kiesstrand mit verlockend klarem Wasser. Der Strand ist ein beliebter Anlaufpunkt für entspannte Tage unter der kroatischen Sonne. Ein Spaziergang am Ufer oder ein Bad im Meer sorgen für herrliche Urlaubsstimmung. Da es im Hochsommer sehr warm wird, sollte ausreichend Sonnenschutz im Gepäck sein.", "category": "recreational", "coords": [14.969137, 44.462094]}], "hu": [{"name": "Simuni", "text": "Kavicsos strand Šimuni falujában, Pag szigetén.", "category": "recreational", "coords": [14.959592, 44.464727]}, {"name": "Nudist beach", "text": "Pag szigetén, a Šimuni kemping természetes környezetében fekszik ez a kijelölt naturista strandszakasz. Aki szereti a szabad fürdőzést, itt privát és nyugodt légkörben élvezheti a napsütést. Az Adriai-tenger tiszta vize tökéletes felfrissülést nyújt a forró napokon. Békés helyszín, ahol a nyári hónapokban igazán el lehet menekülni a hétköznapok elől.", "category": "recreational", "coords": [14.955138, 44.463686]}, {"name": "Sveti Vid", "text": "Pag szigetének legmagasabb pontja, amely 348 méteres magasságba emelkedik.", "category": "natural", "coords": [14.994856, 44.476541]}, {"name": "Golden Beach Simuni", "text": "Šimuni tengerpartján található ez a jól felszerelt kavicsos strand, amely csábítóan tiszta vízzel várja vendégeit. A strand népszerű találkozóhely a horvát napsütésben töltött pihentető napokhoz. Egy kellemes séta a parton vagy a hűsítő fürdőzés a tengerben hamar meghozza az igazi nyaralási hangulatot. Mivel a nyár közepén nagyon meleg lehet, fontos a megfelelő napvédelem.", "category": "recreational", "coords": [14.969137, 44.462094]}], "ro": [{"name": "Simuni", "text": "O plajă cu pietriș situată în localitatea Šimuni de pe insula Pag.", "category": "recreational", "coords": [14.959592, 44.464727]}, {"name": "Nudist beach", "text": "Integrată în mediul natural al campingului Šimuni de pe insula Pag, se află această zonă de plajă dedicată nudiștilor. Cei care apreciază cultura băilor naturiste pot simți soarele pe piele într-o atmosferă privată. Apele limpezi ale Adriaticii sunt ideale pentru o baie revigorantă. Este un loc liniștit pentru a evada din cotidian pe parcursul lunilor de vară.", "category": "recreational", "coords": [14.955138, 44.463686]}, {"name": "Sveti Vid", "text": "Cel mai înalt vârf de pe insula Pag, atingând o altitudine de 348 de metri.", "category": "natural", "coords": [14.994856, 44.476541]}, {"name": "Golden Beach Simuni", "text": "Pe coasta din Šimuni se află această plajă cu pietriș bine echipată, cu ape ispititor de limpezi. Această porțiune de coastă este o destinație populară pentru zilele de relaxare sub soarele croat. O plimbare de-a lungul apei sau o baie în mare creează o atmosferă minunată de vacanță. Deoarece se încălzește destul de mult în timpul verii, este recomandat să aveți protecție solară la îndemână.", "category": "recreational", "coords": [14.969137, 44.462094]}], "en": [{"name": "Simuni", "text": "A pebble beach located in the village of Šimuni on the island of Pag.", "category": "recreational", "coords": [14.959592, 44.464727]}, {"name": "Nudist beach", "text": "Nestled in the natural surroundings of the Šimuni campsite on the island of Pag, you will find this designated nudist beach area. Those who appreciate clothes-free bathing can feel the sun on their skin in a private, relaxed atmosphere. The clear waters of the Adriatic are ideal for taking a refreshing swim. It is a peaceful sanctuary to escape everyday life during the sunny summer months.", "category": "recreational", "coords": [14.955138, 44.463686]}, {"name": "Sveti Vid", "text": "The highest peak of the island of Pag, reaching an elevation of 348 meters.", "category": "natural", "coords": [14.994856, 44.476541]}, {"name": "Golden Beach Simuni", "text": "On the coast of Šimuni lies this well-equipped pebble beach, featuring invitingly clear waters. This stretch of shoreline is a popular destination for relaxing days under the bright Croatian sun. Taking a walk by the water's edge or dipping into the sea provides a wonderful vacation vibe. As the high summer months get quite warm, packing plenty of sun protection is highly advised.", "category": "recreational", "coords": [14.969137, 44.462094]}], "hr": [{"name": "Simuni", "text": "Šljunčana plaža smještena u mjestu Šimuni na otoku Pagu.", "category": "recreational", "coords": [14.959592, 44.464727]}, {"name": "Nudist beach", "text": "Uklopljen u prirodno okruženje kampa Šimuni na otoku Pagu, nalazi se ovaj označeni nudistički dio plaže. Ljubitelji slobodnog kupanja ovdje mogu osjetiti sunce na koži u ugodnoj i privatnoj atmosferi. Čisto Jadransko more savršeno je za osvježavajuće ronjenje ili plivanje. Ovo je mirno mjesto za bijeg od svakodnevice tijekom toplih ljetnih mjeseci.", "category": "recreational", "coords": [14.955138, 44.463686]}, {"name": "Sveti Vid", "text": "Najviši vrh otoka Paga koji se uzdiže na 348 metara nadmorske visine.", "category": "natural", "coords": [14.994856, 44.476541]}, {"name": "Golden Beach Simuni", "text": "Na obali Šimuna nalazi se ova dobro opremljena šljunčana plaža s primamljivo bistrim morem. Plaža je popularno odredište za opuštene ljetne dane pod toplim hrvatskim suncem. Šetnja uz obalu ili kupanje u čistom moru osiguravaju savršeno blagdansko raspoloženje. Budući da sredinom ljeta može biti jako toplo, ne zaboravite ponijeti adekvatnu zaštitu od sunca.", "category": "recreational", "coords": [14.969137, 44.462094]}]}, "type": "city", "parent": "HR", "coords": [14.9593, 44.4691], "population": 164, "name": {"de": "Šimuni", "hu": "Šimuni", "ro": "Šimuni", "en": "Šimuni"}, "description": {"de": "Ein charmantes Fischerdorf auf der Insel Pag, bekannt für seine geschützte Bucht, den großen Campingplatz und exzellenten Fisch.", "hu": "Bájos halászfalu Pag szigetén, amely védett öbléről, hatalmas kempingjéről és kiváló halételeiről ismert.", "ro": "Un sat pitoresc de pescari pe insula Pag, cunoscut pentru golful său protejat, campingul mare și peștele excelent.", "en": "A charming fishing village on Pag Island, known for its sheltered bay, large campsite, and excellent fresh fish."}, "descriptionAdvanced": {"de": "Šimuni liegt an der Westküste der Insel Pag, genau in der Mitte zwischen der Stadt Pag und Novalja. Das Dorf hat sich seinen Charakter als traditioneller Fischerort bewahrt, obwohl es heute ein beliebtes Ziel für Camper und Nautiker ist. Die ACI Marina Šimuni bietet sicheren Schutz in einer tiefen Bucht und ist ein idealer Ausgangspunkt für Törns in den Zadar-Archipel. Entlang der Küste erstrecken sich wunderschöne Kiesstrände, die von Pinienwäldern gesäumt sind und natürlichen Schatten bieten. Besonders bekannt ist der Campingplatz Šimuni, einer der größten und am besten ausgestatteten in Kroatien. In den lokalen Konobas wird fangfrischer Fisch und die berühmte Pager Spezialität, der Pager Käse (Paški sir), serviert. Die Umgebung ist geprägt von den typischen Trockenmauern und der kargen Mondlandschaft der Insel, die einen faszinierenden Kontrast zum azurblauen Meer bildet. Šimuni ist der perfekte Ort für Familien und Ruhesuchende, die eine entspannte Atmosphäre schätzen.", "hu": "Šimuni Pag szigetének nyugati partján fekszik, pontosan félúton Pag városa és Novalja között. A falu megőrizte hagyományos halásztelepülés jellegét, bár ma már a kempingezők és hajósok kedvelt célpontja. Az ACI Marina Šimuni biztonságos menedéket nyújt egy mély öbölben, és ideális kiindulópont a zárai szigetvilág felfedezéséhez. A part mentén gyönyörű kavicsos strandok húzódnak, amelyeket fenyőerdők szegélyeznek, természetes árnyékot biztosítva. Különösen híres a Šimuni kemping, amely Horvátország egyik legnagyobb és legjobban felszerelt kempingje. A helyi konobákban frissen fogott halat és a híres pagi specialitást, a pagi sajtot (Paški sir) szolgálják fel. A környezetet a szigetre jellemző szárazon rakott kőfalak és a kopár holdszerű táj határozza meg, amely lenyűgöző kontrasztot alkot az azúrkék tengerrel. Šimuni tökéletes hely családoknak és nyugalomra vágyóknak.", "ro": "Šimuni este situat pe coasta de vest a insulei Pag, exact la jumătatea distanței dintre orașul Pag și Novalja. Satul și-a păstrat caracterul de așezare tradițională de pescari, deși astăzi este o destinație populară pentru amatorii de camping și navigație. ACI Marina Šimuni oferă adăpost sigur într-un golf adânc și este un punct de plecare ideal pentru croaziere în arhipelagul Zadar. De-a lungul coastei se întind plaje frumoase cu pietriș, mărginite de păduri de pini care oferă umbră naturală. Deosebit de cunoscut este Campingul Šimuni, unul dintre cele mai mari și mai bine echipate din Croația. În tavernele locale se servește pește proaspăt prins și celebra specialitate din Pag, brânza de Pag (Paški sir). Împrejurimile sunt marcate de zidurile tipice din piatră uscată și de peisajul lunar arid al insulei, care formează un contrast fascinant cu marea azurie. Šimuni este locul perfect pentru familii și cei care caută relaxare.", "en": "Šimuni is located on the western coast of Pag Island, exactly halfway between Pag Town and Novalja. The village has maintained its character as a traditional fishing settlement, though today it is a popular destination for campers and sailors. ACI Marina Šimuni offers safe shelter in a deep bay and serves as an ideal starting point for cruises into the Zadar archipelago. Along the coast, beautiful pebble beaches stretch out, lined with pine forests that provide natural shade. Especially famous is Camping Šimuni, one of the largest and best-equipped campsites in Croatia. Local konobas serve freshly caught fish and the famous Pag specialty, Pag cheese (Paški sir). The surroundings are defined by typical dry-stone walls and the island's barren moon-like landscape, creating a fascinating contrast with the azure sea. Šimuni is the perfect spot for families and peace-seekers who appreciate a relaxed atmosphere."}, "facts": {"de": ["Insel Pag", "Fischerdorf", "ACI Marina", "Campingplatz Šimuni", "Paški sir (Käse)", "Kiesstrände", "Pinienwälder", "Geschützte Bucht"], "hu": ["Pag-sziget", "Halászfalu", "ACI Marina", "Šimuni kemping", "Paški sir (sajt)", "Kavicsos strandok", "Fenyőerdők", "Védett öböl"], "ro": ["Insula Pag", "Sat de pescari", "ACI Marina", "Camping Šimuni", "Paški sir (brânză)", "Plaje cu pietriș", "Păduri de pini", "Golf protejat"], "en": ["Pag Island", "Fishing village", "ACI Marina", "Simuni Campsite", "Pag cheese (Paski sir)", "Pebble beaches", "Pine forests", "Sheltered bay"]}, "imageHint": "A crystal clear bay with a marina and pine trees overlooking the typical rocky landscape of Pag Island.", "county": "HR-13"},
+  {"id": "croatia-simuni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simuni",
+                  "text": "Ein Kieselstrand im Dorf Šimuni auf der Insel Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        14.959592,
+                        44.464727
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "In die natürliche Umgebung des Campingplatzes Šimuni auf Pag eingebettet, findet sich dieser ausgewiesene FKK-Strandbereich. Wer die hüllenlose Badekultur schätzt, kann hier in privater Atmosphäre die Sonne auf der Haut spüren. Das klare Wasser der Adria ist ideal für ein erfrischendes Bad. Es ist ein friedlicher Ort, um dem Alltag während der Sommermonate zu entfliehen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.955138,
+                        44.463686
+                  ]
+            },
+            {
+                  "name": "Sveti Vid",
+                  "text": "Der höchste Gipfel der Insel Pag mit einer Höhe von 348 Metern.",
+                  "category": "natural",
+                  "coords": [
+                        14.994856,
+                        44.476541
+                  ]
+            },
+            {
+                  "name": "Golden Beach Simuni",
+                  "text": "An der Küste von Šimuni präsentiert sich dieser gut ausgestattete Kiesstrand mit verlockend klarem Wasser. Der Strand ist ein beliebter Anlaufpunkt für entspannte Tage unter der kroatischen Sonne. Ein Spaziergang am Ufer oder ein Bad im Meer sorgen für herrliche Urlaubsstimmung. Da es im Hochsommer sehr warm wird, sollte ausreichend Sonnenschutz im Gepäck sein.",
+                  "category": "recreational",
+                  "coords": [
+                        14.969137,
+                        44.462094
+                  ]
+            },
+            {
+                  "name": "Luka Šimuni",
+                  "text": "Luka Šimuni ist eine natürliche Bucht mit malerischer Aussicht in Šimuni.",
+                  "category": "landmark",
+                  "coords": [
+                        14.955427,
+                        44.467392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simuni",
+                  "text": "Kavicsos strand Šimuni falujában, Pag szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.959592,
+                        44.464727
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Pag szigetén, a Šimuni kemping természetes környezetében fekszik ez a kijelölt naturista strandszakasz. Aki szereti a szabad fürdőzést, itt privát és nyugodt légkörben élvezheti a napsütést. Az Adriai-tenger tiszta vize tökéletes felfrissülést nyújt a forró napokon. Békés helyszín, ahol a nyári hónapokban igazán el lehet menekülni a hétköznapok elől.",
+                  "category": "recreational",
+                  "coords": [
+                        14.955138,
+                        44.463686
+                  ]
+            },
+            {
+                  "name": "Sveti Vid",
+                  "text": "Pag szigetének legmagasabb pontja, amely 348 méteres magasságba emelkedik.",
+                  "category": "natural",
+                  "coords": [
+                        14.994856,
+                        44.476541
+                  ]
+            },
+            {
+                  "name": "Golden Beach Simuni",
+                  "text": "Šimuni tengerpartján található ez a jól felszerelt kavicsos strand, amely csábítóan tiszta vízzel várja vendégeit. A strand népszerű találkozóhely a horvát napsütésben töltött pihentető napokhoz. Egy kellemes séta a parton vagy a hűsítő fürdőzés a tengerben hamar meghozza az igazi nyaralási hangulatot. Mivel a nyár közepén nagyon meleg lehet, fontos a megfelelő napvédelem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.969137,
+                        44.462094
+                  ]
+            },
+            {
+                  "name": "Luka Šimuni",
+                  "text": "A Luka Šimuni egy festői kilátást nyújtó természetes öböl Šimuniban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.955427,
+                        44.467392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simuni",
+                  "text": "O plajă cu pietriș situată în localitatea Šimuni de pe insula Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        14.959592,
+                        44.464727
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Integrată în mediul natural al campingului Šimuni de pe insula Pag, se află această zonă de plajă dedicată nudiștilor. Cei care apreciază cultura băilor naturiste pot simți soarele pe piele într-o atmosferă privată. Apele limpezi ale Adriaticii sunt ideale pentru o baie revigorantă. Este un loc liniștit pentru a evada din cotidian pe parcursul lunilor de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        14.955138,
+                        44.463686
+                  ]
+            },
+            {
+                  "name": "Sveti Vid",
+                  "text": "Cel mai înalt vârf de pe insula Pag, atingând o altitudine de 348 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        14.994856,
+                        44.476541
+                  ]
+            },
+            {
+                  "name": "Golden Beach Simuni",
+                  "text": "Pe coasta din Šimuni se află această plajă cu pietriș bine echipată, cu ape ispititor de limpezi. Această porțiune de coastă este o destinație populară pentru zilele de relaxare sub soarele croat. O plimbare de-a lungul apei sau o baie în mare creează o atmosferă minunată de vacanță. Deoarece se încălzește destul de mult în timpul verii, este recomandat să aveți protecție solară la îndemână.",
+                  "category": "recreational",
+                  "coords": [
+                        14.969137,
+                        44.462094
+                  ]
+            },
+            {
+                  "name": "Luka Šimuni",
+                  "text": "Luka Šimuni este un golf natural care oferă vederi pitorești în Šimuni.",
+                  "category": "landmark",
+                  "coords": [
+                        14.955427,
+                        44.467392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simuni",
+                  "text": "A pebble beach located in the village of Šimuni on the island of Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        14.959592,
+                        44.464727
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Nestled in the natural surroundings of the Šimuni campsite on the island of Pag, you will find this designated nudist beach area. Those who appreciate clothes-free bathing can feel the sun on their skin in a private, relaxed atmosphere. The clear waters of the Adriatic are ideal for taking a refreshing swim. It is a peaceful sanctuary to escape everyday life during the sunny summer months.",
+                  "category": "recreational",
+                  "coords": [
+                        14.955138,
+                        44.463686
+                  ]
+            },
+            {
+                  "name": "Sveti Vid",
+                  "text": "The highest peak of the island of Pag, reaching an elevation of 348 meters.",
+                  "category": "natural",
+                  "coords": [
+                        14.994856,
+                        44.476541
+                  ]
+            },
+            {
+                  "name": "Golden Beach Simuni",
+                  "text": "On the coast of Šimuni lies this well-equipped pebble beach, featuring invitingly clear waters. This stretch of shoreline is a popular destination for relaxing days under the bright Croatian sun. Taking a walk by the water's edge or dipping into the sea provides a wonderful vacation vibe. As the high summer months get quite warm, packing plenty of sun protection is highly advised.",
+                  "category": "recreational",
+                  "coords": [
+                        14.969137,
+                        44.462094
+                  ]
+            },
+            {
+                  "name": "Luka Šimuni",
+                  "text": "Luka Šimuni is a natural bay offering scenic views in Šimuni.",
+                  "category": "landmark",
+                  "coords": [
+                        14.955427,
+                        44.467392
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Simuni",
+                  "text": "Šljunčana plaža smještena u mjestu Šimuni na otoku Pagu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.959592,
+                        44.464727
+                  ]
+            },
+            {
+                  "name": "Nudist beach",
+                  "text": "Uklopljen u prirodno okruženje kampa Šimuni na otoku Pagu, nalazi se ovaj označeni nudistički dio plaže. Ljubitelji slobodnog kupanja ovdje mogu osjetiti sunce na koži u ugodnoj i privatnoj atmosferi. Čisto Jadransko more savršeno je za osvježavajuće ronjenje ili plivanje. Ovo je mirno mjesto za bijeg od svakodnevice tijekom toplih ljetnih mjeseci.",
+                  "category": "recreational",
+                  "coords": [
+                        14.955138,
+                        44.463686
+                  ]
+            },
+            {
+                  "name": "Sveti Vid",
+                  "text": "Najviši vrh otoka Paga koji se uzdiže na 348 metara nadmorske visine.",
+                  "category": "natural",
+                  "coords": [
+                        14.994856,
+                        44.476541
+                  ]
+            },
+            {
+                  "name": "Golden Beach Simuni",
+                  "text": "Na obali Šimuna nalazi se ova dobro opremljena šljunčana plaža s primamljivo bistrim morem. Plaža je popularno odredište za opuštene ljetne dane pod toplim hrvatskim suncem. Šetnja uz obalu ili kupanje u čistom moru osiguravaju savršeno blagdansko raspoloženje. Budući da sredinom ljeta može biti jako toplo, ne zaboravite ponijeti adekvatnu zaštitu od sunca.",
+                  "category": "recreational",
+                  "coords": [
+                        14.969137,
+                        44.462094
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "HR", "coords": [14.9593, 44.4691], "population": 164, "name": {"de": "Šimuni", "hu": "Šimuni", "ro": "Šimuni", "en": "Šimuni"}, "description": {"de": "Ein charmantes Fischerdorf auf der Insel Pag, bekannt für seine geschützte Bucht, den großen Campingplatz und exzellenten Fisch.", "hu": "Bájos halászfalu Pag szigetén, amely védett öbléről, hatalmas kempingjéről és kiváló halételeiről ismert.", "ro": "Un sat pitoresc de pescari pe insula Pag, cunoscut pentru golful său protejat, campingul mare și peștele excelent.", "en": "A charming fishing village on Pag Island, known for its sheltered bay, large campsite, and excellent fresh fish."}, "descriptionAdvanced": {"de": "Šimuni liegt an der Westküste der Insel Pag, genau in der Mitte zwischen der Stadt Pag und Novalja. Das Dorf hat sich seinen Charakter als traditioneller Fischerort bewahrt, obwohl es heute ein beliebtes Ziel für Camper und Nautiker ist. Die ACI Marina Šimuni bietet sicheren Schutz in einer tiefen Bucht und ist ein idealer Ausgangspunkt für Törns in den Zadar-Archipel. Entlang der Küste erstrecken sich wunderschöne Kiesstrände, die von Pinienwäldern gesäumt sind und natürlichen Schatten bieten. Besonders bekannt ist der Campingplatz Šimuni, einer der größten und am besten ausgestatteten in Kroatien. In den lokalen Konobas wird fangfrischer Fisch und die berühmte Pager Spezialität, der Pager Käse (Paški sir), serviert. Die Umgebung ist geprägt von den typischen Trockenmauern und der kargen Mondlandschaft der Insel, die einen faszinierenden Kontrast zum azurblauen Meer bildet. Šimuni ist der perfekte Ort für Familien und Ruhesuchende, die eine entspannte Atmosphäre schätzen.", "hu": "Šimuni Pag szigetének nyugati partján fekszik, pontosan félúton Pag városa és Novalja között. A falu megőrizte hagyományos halásztelepülés jellegét, bár ma már a kempingezők és hajósok kedvelt célpontja. Az ACI Marina Šimuni biztonságos menedéket nyújt egy mély öbölben, és ideális kiindulópont a zárai szigetvilág felfedezéséhez. A part mentén gyönyörű kavicsos strandok húzódnak, amelyeket fenyőerdők szegélyeznek, természetes árnyékot biztosítva. Különösen híres a Šimuni kemping, amely Horvátország egyik legnagyobb és legjobban felszerelt kempingje. A helyi konobákban frissen fogott halat és a híres pagi specialitást, a pagi sajtot (Paški sir) szolgálják fel. A környezetet a szigetre jellemző szárazon rakott kőfalak és a kopár holdszerű táj határozza meg, amely lenyűgöző kontrasztot alkot az azúrkék tengerrel. Šimuni tökéletes hely családoknak és nyugalomra vágyóknak.", "ro": "Šimuni este situat pe coasta de vest a insulei Pag, exact la jumătatea distanței dintre orașul Pag și Novalja. Satul și-a păstrat caracterul de așezare tradițională de pescari, deși astăzi este o destinație populară pentru amatorii de camping și navigație. ACI Marina Šimuni oferă adăpost sigur într-un golf adânc și este un punct de plecare ideal pentru croaziere în arhipelagul Zadar. De-a lungul coastei se întind plaje frumoase cu pietriș, mărginite de păduri de pini care oferă umbră naturală. Deosebit de cunoscut este Campingul Šimuni, unul dintre cele mai mari și mai bine echipate din Croația. În tavernele locale se servește pește proaspăt prins și celebra specialitate din Pag, brânza de Pag (Paški sir). Împrejurimile sunt marcate de zidurile tipice din piatră uscată și de peisajul lunar arid al insulei, care formează un contrast fascinant cu marea azurie. Šimuni este locul perfect pentru familii și cei care caută relaxare.", "en": "Šimuni is located on the western coast of Pag Island, exactly halfway between Pag Town and Novalja. The village has maintained its character as a traditional fishing settlement, though today it is a popular destination for campers and sailors. ACI Marina Šimuni offers safe shelter in a deep bay and serves as an ideal starting point for cruises into the Zadar archipelago. Along the coast, beautiful pebble beaches stretch out, lined with pine forests that provide natural shade. Especially famous is Camping Šimuni, one of the largest and best-equipped campsites in Croatia. Local konobas serve freshly caught fish and the famous Pag specialty, Pag cheese (Paški sir). The surroundings are defined by typical dry-stone walls and the island's barren moon-like landscape, creating a fascinating contrast with the azure sea. Šimuni is the perfect spot for families and peace-seekers who appreciate a relaxed atmosphere."}, "facts": {"de": ["Insel Pag", "Fischerdorf", "ACI Marina", "Campingplatz Šimuni", "Paški sir (Käse)", "Kiesstrände", "Pinienwälder", "Geschützte Bucht"], "hu": ["Pag-sziget", "Halászfalu", "ACI Marina", "Šimuni kemping", "Paški sir (sajt)", "Kavicsos strandok", "Fenyőerdők", "Védett öböl"], "ro": ["Insula Pag", "Sat de pescari", "ACI Marina", "Camping Šimuni", "Paški sir (brânză)", "Plaje cu pietriș", "Păduri de pini", "Golf protejat"], "en": ["Pag Island", "Fishing village", "ACI Marina", "Simuni Campsite", "Pag cheese (Paski sir)", "Pebble beaches", "Pine forests", "Sheltered bay"]}, "imageHint": "A crystal clear bay with a marina and pine trees overlooking the typical rocky landscape of Pag Island.", "county": "HR-13"},
   {"id": "croatia-mokro-polje-cities-v2", "sights": {
       "de": [
             {
@@ -75483,10 +76853,50 @@ export const poiExtraHrV3: POI[] = [
       ]
 }, "type": "city", "parent": "HR", "coords": [13.863, 45.03], "population": 152, "name": {"de": "Čabrunići", "hu": "Čabrunići", "ro": "Čabrunići", "en": "Čabrunići"}, "description": {"de": "Ein charmantes Dorf im südlichen Istrien, bekannt für seine Steinvillen und die Nähe zu Svetvinčenat.", "hu": "Bájos falu Isztria déli részén, kővilláiról és Svetvinčenat közelségéről ismert.", "ro": "Un sat fermecător în sudul Istriei, cunoscut pentru vilele sale de piatră și proximitatea față de Svetvinčenat.", "en": "A charming village in southern Istria, known for its stone villas and proximity to Svetvinčenat."}, "descriptionAdvanced": {"de": "Čabrunići liegt im südlichen Binnenland Istriens, in der Gemeinde Svetvinčenat. Der Ort hat sich in den letzten Jahren zu einem beliebten Ziel für gehobenen Landurlaub entwickelt, da viele der alten Bauernhäuser in luxuriöse Steinvillen mit Pools umgewandelt wurden. Die Umgebung ist geprägt von roter Erde (Terra Rossa), Olivenhainen und Weinbergen. Die Ruhe des Dorfes steht im angenehmen Kontrast zum regen Treiben an der nahegelegenen Küste.\n\nNur wenige Kilometer entfernt liegt das mittelalterliche Svetvinčenat mit seinem beeindruckenden Kastell Morosini-Grimani, das im Sommer Schauplatz vieler Ritterspiele und Festivals ist. Čabrunići ist ein hervorragender Ausgangspunkt für Radfahrer, da die Region von flachen bis hügeligen Wegen durchzogen ist. Die Gastronomie vor Ort bietet typisch istrische Spezialitäten wie Maneštra (Eintopf) und Pršut. Die Strände von Fažana oder Pula sind in etwa 20 Minuten mit dem Auto erreichbar, was den Ort ideal für Familien macht, die Privatsphäre suchen, aber nicht auf das Meer verzichten wollen. Die Atmosphäre im Dorf ist familiär und die Einheimischen sind stolz auf ihre landwirtschaftlichen Traditionen.", "hu": "Čabrunići Isztria déli belső részén, Svetvinčenat községben található. A település az utóbbi években a minőségi vidéki turizmus kedvelt célpontjává vált, mivel számos régi parasztházat luxus kővillává alakítottak át, saját medencével. A környéket a jellegzetes vörös föld (Terra Rossa), olajfaligetek és szőlőültetvények jellemzik. A falu nyugalma kellemes kontrasztot alkot a közeli tengerparti városok forgalmával.\n\nMindössze néhány kilométerre található a középkori Svetvinčenat, lenyűgöző Morosini-Grimani várával, amely nyáron számos lovagi játék és fesztivál helyszíne. Čabrunići kiváló kiindulópont a kerékpárosok számára, mivel a régiót lankás és jól kiépített utak hálózzák be. A helyi gasztronómia olyan isztriai különlegességeket kínál, mint a maneštra (zöldségleves) és a pršut (szárított sonka). Fažana vagy Pula strandjai autóval körülbelül 20 perc alatt elérhetőek, így a település ideális választás azoknak a családoknak, akik privát szférát keresnek, de a tengert is élvezni szeretnék. A falu hangulata barátságos, lakói büszkék mezőgazdasági hagyományaikra.", "ro": "Čabrunići este situat în partea de sud a interiorului Istriei, făcând parte din comuna Svetvinčenat. În ultimii ani, satul a devenit o destinație populară pentru turismul rural de lux, multe dintre casele vechi fiind transformate în vile elegante de piatră cu piscină privată. Peisajul este definit de solul roșu caracteristic (Terra Rossa), livezi de măslini și podgorii întinse. Liniștea satului oferă un contrast plăcut cu efervescența stațiunilor de pe litoralul din apropiere.\n\nLa doar câțiva kilometri se află Svetvinčenat, un oraș medieval renumit pentru castelul său Morosini-Grimani, care găzduiește festivaluri și jocuri cavalerești în timpul verii. Čabrunići este o bază excelentă pentru pasionații de ciclism, zona fiind traversată de numeroase rute care șerpuiesc prin natură. Gastronomia locală se bazează pe specialități istriene precum maneštra (supă de legume) și pršut (șuncă uscată la vânt). Plajele din Fažana sau Pula se află la o distanță de aproximativ 20 de minute cu mașina, ceea ce face din acest sat o locație ideală pentru familiile care caută intimitate fără a fi departe de mare. Atmosfera este una relaxată, specifică vieții rurale autentice.", "en": "Čabrunići is situated in the southern part of the Istrian interior, within the municipality of Svetvinčenat. Over the past few years, the village has transformed into a popular destination for high-end rural tourism, with many traditional farmhouses renovated into luxury stone villas with private pools. The surroundings are characterized by the distinctive red soil (Terra Rossa), olive groves, and sprawling vineyards. The village's tranquility provides a pleasant contrast to the busy coastal resorts nearby.\n\nJust a few kilometers away lies the medieval town of Svetvinčenat, famous for its impressive Morosini-Grimani castle, which hosts knight tournaments and cultural festivals during the summer. Čabrunići is an excellent base for cyclists, as the region features a network of trails ranging from flat paths to gentle hills. Local gastronomy highlights Istrian specialties such as maneštra (a hearty vegetable soup) and pršut (dry-cured ham). The beaches of Fažana or Pula are reachable within a 20-minute drive, making the village an ideal choice for families seeking privacy while staying close to the sea. The atmosphere in the village remains cozy and authentic, with a strong pride in its agricultural roots."}, "facts": {"de": ["Südisches Binnenistrien", "Luxuriöse Steinvillen", "Nahe Svetvinčenat", "Terra Rossa Boden", "Ruhige ländliche Lage", "Radwanderwege", "20 Min. nach Pula", "Traditionelle Landwirtschaft"], "hu": ["Dél-Isztriai belső terület", "Luxus kővillák", "Svetvinčenat közelsége", "Vörös föld vidéke", "Csendes falusi élet", "Kerékpáros útvonalak", "20 perc Pula", "Hagyományos mezőgazdaság"], "ro": ["Interiorul Istriei de Sud", "Vile de lux din piatră", "Lângă Svetvinčenat", "Sol de tip Terra Rossa", "Locație rurală liniștită", "Rute de ciclism", "20 min de Pula", "Agricultură tradițională"], "en": ["Southern Istrian interior", "Luxury stone villas", "Near Svetvinčenat", "Terra Rossa soil region", "Peaceful rural setting", "Cycling trails", "20 min to Pula", "Traditional farming"]}, "imageHint": "A renovated traditional Istrian stone villa with a swimming pool and olive trees in a quiet village setting.", "county": "HR-18"},
   {"id": "croatia-zedno-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": [],
+      "de": [
+            {
+                  "name": "Mala Draga",
+                  "text": "Mala Draga ist ein Strand in Žedno.",
+                  "category": "recreational",
+                  "coords": [
+                        16.289769,
+                        43.487176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mala Draga",
+                  "text": "A Mala Draga egy strand Žedno településén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.289769,
+                        43.487176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mala Draga",
+                  "text": "Mala Draga este o plajă situată în Žedno.",
+                  "category": "recreational",
+                  "coords": [
+                        16.289769,
+                        43.487176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mala Draga",
+                  "text": "Mala Draga is a beach situated in Žedno.",
+                  "category": "recreational",
+                  "coords": [
+                        16.289769,
+                        43.487176
+                  ]
+            }
+      ],
       "hr": []
 }, "type": "city", "parent": "HR", "coords": [16.287, 43.505], "population": 152, "name": {"de": "Žedno", "hu": "Žedno", "ro": "Žedno", "en": "Žedno"}, "description": {"de": "Ein malerisches Bergdorf auf der Insel Čiovo mit fantastischem Blick auf die Adria und die Inseln.", "hu": "Festői hegyi falu Čiovo szigetén, fantasztikus kilátással az Adriára és a környező szigetekre.", "ro": "Un sat de munte pitoresc pe insula Čiovo, cu vederi fantastice spre marea Adriatică și insule.", "en": "A picturesque mountain village on Čiovo island, with fantastic views of the Adriatic and the islands."}, "descriptionAdvanced": {"de": "Žedno liegt im erhöhten Zentrum der Insel Čiovo, oberhalb von Trogir und Okrug Gornji. Das Dorf hat sich seinen authentischen dalmatinischen Charakter bewahrt, fernab der touristischen Massen an der Küste. Von den Anhöhen rund um Žedno bietet sich ein spektakulärer Panoramablick auf den Kastela-Golf, Split und die Inseln Brač, Hvar und Šolta. Ein historisches Juwel des Ortes ist die Kirche des Heiligen Mauritius (Sveti Mavro) aus dem 4. Jahrhundert, die in einem kleinen Tal unterhalb des Dorfes liegt.\n\nDie Umgebung von Žedno ist ideal zum Wandern und Mountainbiken, mit Pfaden, die durch duftende Pinienwälder und vorbei an alten Olivenhainen führen. Trotz der Lage im Landesinneren der Insel sind die beliebten Strände von Okrug Gornji nur wenige Fahrminuten entfernt. Žedno ist bekannt für seine Ruhe und saubere Luft, was es zu einem beliebten Rückzugsort für diejenigen macht, die das Inselleben genießen wollen, ohne direkt am Wasser zu wohnen. In der Nähe befindet sich auch das Heiligtum 'Gospa od Prizidnice', das in die Klippen auf der Südseite der Insel gebaut wurde. Der Ort bietet eine perfekte Mischung aus spiritueller Geschichte und natürlicher Schönheit.", "hu": "Žedno Čiovo szigetének középső, magasabban fekvő részén található, Trogir és Okrug Gornji felett. A falu megőrizte eredeti dalmát jellegét, távol a tengerparti turistaáradattól. A Žedno környéki dombokról lenyűgöző panoráma nyílik a Kaštelai-öbölre, Splitre, valamint Brač, Hvar és Šolta szigeteire. A település történelmi ékköve a 4. századi Szent Móric (Sveti Mavro) templom, amely a falu alatti kis völgyben rejtőzik.\n\nA környék kiválóan alkalmas túrázásra és hegyi kerékpározásra, az ösvények illatos fenyőerdőkön és öreg olajfaligeteken vezetnek keresztül. Bár a falu a sziget belsejében fekszik, Okrug Gornji népszerű strandjai mindössze néhány perc alatt elérhetőek autóval. Žedno híres a nyugalmáról és tiszta levegőjéről, ami ideális menedékké teszi azok számára, akik élvezni akarják a szigeti életet, de távol a part zajától. A közelben található a 'Gospa od Prizidnice' szentély is, amely közvetlenül a sziklába épült a sziget déli oldalán. A falu a spirituális múlt és a természeti szépség tökéletes keverékét kínálja.", "ro": "Žedno este situat în centrul înalt al insulei Čiovo, deasupra localităților Trogir și Okrug Gornji. Satul și-a păstrat caracterul dalmațian autentic, fiind ferit de agitația turistică de pe malul mării. De pe înălțimile din jurul satului se deschide o panoramă spectaculoasă asupra golfului Kaštela, a orașului Split și a insulelor Brač, Hvar și Šolta. O bijuterie istorică a locului este biserica Sfântul Mauriciu (Sveti Mavro) din secolul al IV-lea, situată într-o mică vale sub sat.\n\nÎmprejurimile localității Žedno sunt ideale pentru drumeții și mountain biking, cu poteci care traversează păduri de pini parfumate și livezi vechi de măslini. Deși este o așezare de interior, plajele populare din Okrug Gornji sunt la doar câteva minute de mers cu mașina. Žedno este renumit pentru liniștea sa și aerul curat, fiind un refugiu preferat pentru cei care vor să exploreze insula în afara zonelor aglomerate. În apropiere se poate vizita și sanctuarul 'Gospa od Prizidnice', construit direct în stâncă pe partea sudică a insulei. Satul oferă un amestec perfect de istorie spirituală și frumusețe naturală mediteraneeană.", "en": "Žedno is located in the elevated center of Čiovo island, perched above the coastal towns of Trogir and Okrug Gornji. The village has managed to preserve its authentic Dalmatian character, staying well away from the tourist crowds on the shore. From the ridges surrounding Žedno, visitors are treated to spectacular panoramic views of the Kaštela Bay, the city of Split, and the islands of Brač, Hvar, and Šolta. A historical gem of the area is the 4th-century Church of St. Maurice (Sveti Mavro), nestled in a small valley below the village.\n\nThe surroundings of Žedno are perfect for hiking and mountain biking, with trails winding through fragrant pine forests and ancient olive groves. Despite its inland island position, the popular beaches of Okrug Gornji are just a few minutes' drive away. Žedno is known for its peace, quiet, and fresh air, making it a sought-after retreat for those who wish to experience island life in a more serene setting. Also nearby is the 'Gospa od Prizidnice' sanctuary, uniquely built into the cliffs on the island's southern side. The village offers a wonderful blend of spiritual heritage and pristine Mediterranean natural beauty."}, "facts": {"de": ["Zentrum der Insel Čiovo", "Panoramablick auf Split", "Kirche St. Mauritius (4. Jh.)", "Authentisches Inseldorf", "Wanderwege durch Pinien", "Nahe Trogir (5 km)", "Ruhiger Rückzugsort", "MTB-Routen vorhanden"], "hu": ["Čiovo sziget központja", "Panoráma Splitre", "Szent Móric templom (4. sz.)", "Eredeti szigeti hangulat", "Fenyőerdős túraútvonalak", "Trogir 5 km-re", "Csendes menedék", "Hegyi kerékpáros utak"], "ro": ["Centrul insulei Čiovo", "Vedere panoramică spre Split", "Biserica Sf. Mauriciu (sec. IV)", "Sat de insulă autentic", "Poteci prin păduri de pini", "5 km de Trogir", "Refugiu liniștit", "Rute pentru mountain bike"], "en": ["Center of Čiovo island", "Panoramic views of Split", "St. Maurice Church (4th c.)", "Authentic island village", "Pine forest hiking trails", "5 km from Trogir", "Peaceful retreat", "MTB trails available"]}, "imageHint": "A small stone village on top of a hill on an island with a blue sea and other islands in the far distance.", "county": "HR-17"},
   {"id": "croatia-krkovic-cities-v2", "sights": {
@@ -75539,6 +76949,24 @@ export const poiExtraHrV3: POI[] = [
                         17.675059,
                         42.852452
                   ]
+            },
+            {
+                  "name": "Uvala Bistrina",
+                  "text": "Uvala Bistrina ist eine malerische Bucht in Luka (Pelješac).",
+                  "category": "landmark",
+                  "coords": [
+                        17.705722,
+                        42.874632
+                  ]
+            },
+            {
+                  "name": "Uvala Bjejevica",
+                  "text": "Uvala Bjejevica ist eine schöne Bucht in Luka (Pelješac).",
+                  "category": "landmark",
+                  "coords": [
+                        17.653888,
+                        42.873608
+                  ]
             }
       ],
       "hu": [
@@ -75576,6 +77004,24 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         17.675059,
                         42.852452
+                  ]
+            },
+            {
+                  "name": "Uvala Bistrina",
+                  "text": "Az Uvala Bistrina egy festői parti öböl Luka (Pelješac) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.705722,
+                        42.874632
+                  ]
+            },
+            {
+                  "name": "Uvala Bjejevica",
+                  "text": "Az Uvala Bjejevica egy gyönyörű öböl Luka (Pelješac) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.653888,
+                        42.873608
                   ]
             }
       ],
@@ -75615,6 +77061,24 @@ export const poiExtraHrV3: POI[] = [
                         17.675059,
                         42.852452
                   ]
+            },
+            {
+                  "name": "Uvala Bistrina",
+                  "text": "Uvala Bistrina este un golf de coastă pitoresc situat în Luka (Pelješac).",
+                  "category": "landmark",
+                  "coords": [
+                        17.705722,
+                        42.874632
+                  ]
+            },
+            {
+                  "name": "Uvala Bjejevica",
+                  "text": "Uvala Bjejevica este un golf frumos de vizitat în Luka (Pelješac).",
+                  "category": "landmark",
+                  "coords": [
+                        17.653888,
+                        42.873608
+                  ]
             }
       ],
       "en": [
@@ -75652,6 +77116,24 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         17.675059,
                         42.852452
+                  ]
+            },
+            {
+                  "name": "Uvala Bistrina",
+                  "text": "Uvala Bistrina is a scenic coastal bay situated in Luka (Pelješac).",
+                  "category": "landmark",
+                  "coords": [
+                        17.705722,
+                        42.874632
+                  ]
+            },
+            {
+                  "name": "Uvala Bjejevica",
+                  "text": "Uvala Bjejevica is a beautiful bay to visit in Luka (Pelješac).",
+                  "category": "landmark",
+                  "coords": [
+                        17.653888,
+                        42.873608
                   ]
             }
       ],
@@ -76401,6 +77883,24 @@ export const poiExtraHrV3: POI[] = [
                         18.015143,
                         42.734204
                   ]
+            },
+            {
+                  "name": "Srednje brdo",
+                  "text": "Der Srednje brdo ist ein Berggipfel in der Nähe von Gromača.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02669,
+                        42.713804
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Gradina ist ein markanter Berggipfel in der Region Gromača.",
+                  "category": "landmark",
+                  "coords": [
+                        18.00672,
+                        42.732205
+                  ]
             }
       ],
       "hu": [
@@ -76420,6 +77920,24 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         18.015143,
                         42.734204
+                  ]
+            },
+            {
+                  "name": "Srednje brdo",
+                  "text": "A Srednje brdo egy hegycsúcs Gromača közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02669,
+                        42.713804
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "A Gradina egy kiemelkedő hegycsúcs Gromača térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.00672,
+                        42.732205
                   ]
             }
       ],
@@ -76441,6 +77959,24 @@ export const poiExtraHrV3: POI[] = [
                         18.015143,
                         42.734204
                   ]
+            },
+            {
+                  "name": "Srednje brdo",
+                  "text": "Srednje brdo este un vârf montan în apropiere de Gromača.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02669,
+                        42.713804
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Gradina este un vârf montan proeminent din zona Gromača.",
+                  "category": "landmark",
+                  "coords": [
+                        18.00672,
+                        42.732205
+                  ]
             }
       ],
       "en": [
@@ -76460,6 +77996,24 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         18.015143,
                         42.734204
+                  ]
+            },
+            {
+                  "name": "Srednje brdo",
+                  "text": "Srednje brdo is a mountain peak located near Gromača.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02669,
+                        42.713804
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Gradina is a prominent mountain peak in the Gromača area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.00672,
+                        42.732205
                   ]
             }
       ],
@@ -79475,6 +81029,15 @@ export const poiExtraHrV3: POI[] = [
                         17.352263,
                         42.777174
                   ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "Veliko jezero ist eine malerische Bucht in Goveđari auf der Insel Mljet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.362836,
+                        42.77329
+                  ]
             }
       ],
       "hu": [
@@ -79494,6 +81057,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         17.352263,
                         42.777174
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "A Veliko jezero (Nagy-tó) egy festői öböl Goveđariban, Mljet szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.362836,
+                        42.77329
                   ]
             }
       ],
@@ -79515,6 +81087,15 @@ export const poiExtraHrV3: POI[] = [
                         17.352263,
                         42.777174
                   ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "Veliko jezero este un golf pitoresc situat în Goveđari, pe insula Mljet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.362836,
+                        42.77329
+                  ]
             }
       ],
       "en": [
@@ -79534,6 +81115,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         17.352263,
                         42.777174
+                  ]
+            },
+            {
+                  "name": "Veliko jezero",
+                  "text": "Veliko jezero (Large Lake) is a scenic bay in Goveđari on the island of Mljet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.362836,
+                        42.77329
                   ]
             }
       ],
@@ -81692,10 +83282,50 @@ export const poiExtraHrV3: POI[] = [
 }, "type": "city", "parent": "HR", "coords": [15.7792, 43.8825], "population": 132, "name": {"de": "Čista Mala", "hu": "Čista Mala", "ro": "Čista Mala", "en": "Čista Mala"}, "description": {"de": "Ein ruhiges Dorf im Hinterland von Šibenik, bekannt für seine Weinbautradition und die Nähe zum Krka-Nationalpark.", "hu": "Csendes falu Šibenik hátországában, szőlőtermesztési hagyományairól és a Krka Nemzeti Park közelségéről ismert.", "ro": "Un sat liniștit în hinterlandul orașului Šibenik, cunoscut pentru tradiția sa viticolă și proximitatea față de Parcul Național Krka.", "en": "A quiet village in the Šibenik hinterland, known for its viticulture tradition and proximity to Krka National Park."}, "descriptionAdvanced": {"de": "Čista Mala liegt im dalmatinischen Hinterland, unweit der Ausfahrt der Autobahn A1, was es zu einem leicht erreichbaren Ziel macht. Die Region ist von einer karstigen Landschaft geprägt, die jedoch durch fruchtbare Felder unterbrochen wird, auf denen seit Generationen Wein und Oliven angebaut werden. Die Architektur des Dorfes ist typisch dalmatinisch mit robusten Steinhäusern, die dem starken Wind, der Bura, standhalten.\n\nDie strategische Lage von Čista Mala ermöglicht es Besuchern, einige der wichtigsten Sehenswürdigkeiten Kroatiens schnell zu erreichen. Der Nationalpark Krka mit seinen berühmten Wasserfällen ist nur eine kurze Autofahrt entfernt. Ebenso sind die historischen Städte Šibenik und Skradin bequem erreichbar. In Čista Mala selbst herrscht eine friedliche Atmosphäre, die ideal für diejenigen ist, die die authentische dalmatinische Lebensart abseits der Touristenmassen an der Küste erleben möchten.\n\nKulinarisch ist die Gegend für ihren hervorragenden Wein und den hausgemachten Schinken (Pršut) bekannt. Viele Familienbetriebe bieten Verkostungen an, bei denen man die lokalen Produkte direkt vom Erzeuger genießen kann. Wander- und Radwege durchziehen die umliegende Karstlandschaft und bieten Einblicke in eine Natur, die rau und schön zugleich ist.", "hu": "Čista Mala a dalmát hátországban fekszik, nem messze az A1-es autópálya kijáratától, ami könnyen elérhető célponttá teszi. A régiót karsztos táj jellemzi, amelyet termékeny földek szakítanak meg, ahol generációk óta szőlőt és olajbogyót termesztenek. A falu építészete tipikus dalmát, robusztus kőházakkal, amelyek ellenállnak az erős szélnek, a burának.\n\nČista Mala stratégiai elhelyezkedése lehetővé teszi a látogatók számára, hogy gyorsan elérjék Horvátország néhány legfontosabb látnivalóját. A híres vízeséseiről ismert Krka Nemzeti Park csak egy rövid autóútra van. Ugyanígy Šibenik és Skradin történelmi városai is kényelmesen megközelíthetők. Čista Malában békés légkör uralkodik, amely ideális azok számára, akik az autentikus dalmát életmódot szeretnék megtapasztalni a tengerparti turistaáradattól távol.\n\nGasztronómiai szempontból a környék kiváló borairól és házi sonkájáról (Pršut) ismert. Sok családi gazdaság kínál kóstolókat, ahol a helyi termékeket közvetlenül a termelőtől lehet élvezni. A környező karsztvidéket túra- és kerékpárutak szelik át, betekintést nyújtva a természetbe, amely egyszerre zord és gyönyörű.", "ro": "Čista Mala este situat în hinterlandul dalmat, nu departe de ieșirea de pe autostrada A1, ceea ce îl face o destinație ușor accesibilă. Regiunea este caracterizată de un peisaj carstic, întrerupt însă de câmpuri fertile unde se cultivă viță de vie și măslini de generații întregi. Arhitectura satului este tipic dalmată, cu case robuste din piatră care rezistă vântului puternic, Bura.\n\nLocația strategică a localității Čista Mala permite vizitatorilor să ajungă rapid la unele dintre cele mai importante atracții ale Croației. Parcul Național Krka, cu faimoasele sale cascade, se află la doar o scurtă distanță cu mașina. De asemenea, orașele istorice Šibenik și Skradin sunt ușor accesibile. În Čista Mala domnește o atmosferă pașnică, ideală pentru cei care doresc să experimenteze modul de viață autentic dalmat, departe de mulțimile de turiști de pe coastă.\n\nDin punct de vedere culinar, zona este cunoscută pentru vinul său excelent și șunca de casă (Pršut). Multe afaceri de familie oferă degustări unde se pot savura produsele locale direct de la producător. Traseele de drumeție și ciclism traversează peisajul carstic din jur, oferind perspective asupra unei naturi care este aspră și frumoasă în același timp.", "en": "Čista Mala is located in the Dalmatian hinterland, not far from the A1 motorway exit, making it an easily accessible destination. The region is characterized by a karst landscape interrupted by fertile fields where wine and olives have been cultivated for generations. The village architecture is typically Dalmatian, with robust stone houses built to withstand the strong Bura wind.\n\nThe strategic location of Čista Mala allows visitors to quickly reach some of Croatia's most important landmarks. Krka National Park, with its famous waterfalls, is just a short drive away. Likewise, the historical towns of Šibenik and Skradin are within easy reach. In Čista Mala itself, a peaceful atmosphere prevails, ideal for those wanting to experience the authentic Dalmatian lifestyle away from the coastal tourist crowds.\n\nCulinary-wise, the area is known for its excellent wine and homemade ham (Pršut). Many family farms offer tastings where local products can be enjoyed directly from the producer. Hiking and cycling trails crisscross the surrounding karst landscape, offering views of a nature that is both rugged and beautiful."}, "facts": {"de": ["Im Hinterland von Šibenik", "Nahe Krka-Nationalpark", "Bekannt für Weinbau", "Traditionelle Steinarchitektur", "Einfache Autobahnanbindung", "Ruhige ländliche Atmosphäre", "Dalmatinische Karstlandschaft", "Hausgemachter Pršut"], "hu": ["Šibenik hátországában", "Krka Nemzeti Park mellett", "Szőlőtermesztéséről ismert", "Hagyományos kőépítészet", "Könnyű autópályás elérhetőség", "Nyugodt vidéki légkör", "Dalmát karsztvidék", "Házi készítésű pršut"], "ro": ["În hinterlandul orașului Šibenik", "Lângă Parcul Național Krka", "Cunoscut pentru viticultură", "Arhitectură tradițională", "Acces facil la autostradă", "Atmosferă rurală liniștită", "Peisaj carstic dalmat", "Pršut de casă delicios"], "en": ["In the Šibenik hinterland", "Near Krka National Park", "Known for viticulture", "Traditional stone masonry", "Easy highway access", "Quiet rural atmosphere", "Dalmatian karst landscape", "Homemade Dalmatian ham"]}, "imageHint": "A typical Dalmatian hinterland village view with vineyards and karst limestone surroundings.", "county": "HR-15"},
   {"id": "croatia-kladnjice-cities-v2", "type": "city", "parent": "HR", "coords": [16.299, 43.6719], "population": 131, "name": {"de": "Kladnjice", "hu": "Kladnjice", "ro": "Kladnjice", "en": "Kladnjice"}, "description": {"de": "Ein authentisches Dorf in der dalmatinischen Zagora, bekannt für seine unberührte Natur und Ruhe.", "hu": "Autentikus falu a dalmát Zagorában, érintetlen természetéről és nyugalmáról ismert.", "ro": "Un sat autentic în Zagora dalmată, cunoscut pentru natura sa virgină și liniște.", "en": "An authentic village in the Dalmatian Zagora, known for its pristine nature and tranquility."}, "descriptionAdvanced": {"de": "Kladnjice liegt tief in der dalmatinischen Zagora, in der Nähe von Lećevica. Dieser Ort ist ein lebendiges Denkmal für das Leben im ländlichen Dalmatien, wie es seit Jahrhunderten existiert. Die Landschaft ist geprägt von felsigen Hügeln, mediterraner Macchia und kleinen Tälern, in denen Landwirtschaft betrieben wird. Fernab vom Lärm der Küstenstädte bietet Kladnjice eine Stille, die heute nur noch selten zu finden ist.\n\nDas Dorf ist bekannt für seine gut erhaltene Steinarchitektur. Die Häuser wurden aus lokalem Kalkstein gebaut und zeugen von der Handwerkskunst der ehemaligen Bewohner. Besucher, die den Weg hierher finden, werden mit einer Gastfreundschaft empfangen, die von Herzen kommt. Die Region ist ideal für Wanderer und Naturliebhaber, die die karge, aber faszinierende Schönheit der dalmatinischen Zagora zu Fuß erkunden möchten.\n\nIn der Umgebung von Kladnjice gibt es keine großen touristischen Attraktionen, was genau den Reiz des Ortes ausmacht. Es ist ein Ort für Meditation und Entspannung. Man kann lokale Produkte wie Ziegenkäse, Olivenöl und Wein direkt von den Bauernhöfen beziehen. Die klare Luft und der weite Sternenhimmel machen Kladnjice auch für Astrofotografen interessant. Trotz der abgelegenen Lage ist die Küste bei Kaštela oder Split in etwa 40 Minuten mit dem Auto erreichbar.", "hu": "Kladnjice mélyen a dalmát Zagorában fekszik, Lećevica közelében. Ez a település a vidéki dalmát életmód élő emlékműve, ahogyan az évszázadok óta létezik. A tájat sziklás dombok, mediterrán makis és kis völgyek jellemzik, ahol mezőgazdasági termelés folyik. Távol a tengerparti városok zajától, Kladnjice olyan csendet kínál, amely ma már ritkán található meg.\n\nA falu jól megőrzött kőépítészetéről ismert. A házak helyi mészkőből épültek, és az egykori lakók kézműves tudásáról tanúskodnak. Azok a látogatók, akik ide találnak, szívből jövő vendégszeretettel találkoznak. A régió ideális a túrázók és természetkedvelők számára, akik gyalogosan szeretnék felfedezni a dalmát Zagora kopár, de lenyűgöző szépségét.\n\nKladnjice környékén nincsenek nagy turisztikai attrakciók, ami pontosan a hely vonzerejét adja. Ez a meditáció és a kikapcsolódás helye. A helyi termékeket, mint a kecskesajt, olívaolaj és bor, közvetlenül a gazdaságoktól lehet beszerezni. A tiszta levegő és a tágas csillagos égbolt Kladnjicét az asztrofotósok számára is érdekessé teszi. Az elszigetelt fekvés ellenére a Kaštela vagy Split környéki tengerpart körülbelül 40 perc alatt elérhető autóval.", "ro": "Kladnjice este situat adânc în Zagora dalmată, lângă Lećevica. Acest loc este un monument viu al vieții rurale din Dalmația, așa cum a existat ea de secole. Peisajul este marcat de dealuri stâncoase, vegetație mediteraneană (macchia) și văi mici unde se practică agricultura. Departe de zgomotul orașelor de coastă, Kladnjice oferă o liniște care se mai găsește rar astăzi.\n\nSatul este cunoscut pentru arhitectura sa din piatră bine conservată. Casele au fost construite din calcar local și stau mărturie măiestriei foștilor locuitori. Vizitatorii care ajung aici sunt primiți cu o ospitalitate care vine din inimă. Regiunea este ideală pentru drumeții și iubitorii de natură care doresc să exploreze pe jos frumusețea aridă, dar fascinantă a Zagorei dalmate.\n\nÎn împrejurimile satului Kladnjice nu există mari atracții turistice, ceea ce constituie tocmai farmecul locului. Este un loc pentru meditație și relaxare. Se pot achiziționa produse locale precum brânza de capră, uleiul de măsline și vinul direct de la ferme. Aerul curat și cerul înstelat vast fac din Kladnjice un punct de interes și pentru astrofotografi. În ciuda locației retrase, coasta de lângă Kaštela sau Split este accesibilă în aproximativ 40 de minute cu mașina.", "en": "Kladnjice is located deep in the Dalmatian Zagora, near Lećevica. This place is a living monument to rural Dalmatian life as it has existed for centuries. The landscape is characterized by rocky hills, Mediterranean macchia, and small valleys where agriculture is practiced. Far from the noise of coastal cities, Kladnjice offers a silence that is rarely found today.\n\nThe village is known for its well-preserved stone architecture. The houses were built from local limestone and bear witness to the craftsmanship of former residents. Visitors who find their way here are welcomed with hospitality that comes from the heart. The region is ideal for hikers and nature lovers who want to explore the barren but fascinating beauty of the Dalmatian Zagora on foot.\n\nThere are no major tourist attractions around Kladnjice, which is exactly the appeal of the place. It is a place for meditation and relaxation. Local products such as goat cheese, olive oil, and wine can be obtained directly from the farms. The clear air and the vast starry sky also make Kladnjice interesting for astrophotographers. Despite its remote location, the coast at Kaštela or Split is reachable in about 40 minutes by car."}, "facts": {"de": ["Im Herzen der Zagora", "Nahe Lećevica gelegen", "Traditionelle Steinarchitektur", "Unberührte Karstlandschaft", "Oase der Ruhe", "Authentische Gastfreundschaft", "Lokale Bioprodukte", "Dunkler Himmel für Sterne"], "hu": ["Zagora szívében", "Lećevica közelében fekszik", "Hagyományos kőépítészet", "Érintetlen karszttáj", "A nyugalom oázisa", "Autentikus vendégszeretet", "Helyi biotermékek", "Sötét égbolt csillagászoknak"], "ro": ["În inima regiunii Zagora", "Situat lângă Lećevica", "Arhitectură veche din piatră", "Peisaj carstic virgin", "Oază de liniște", "Ospitalitate autentică", "Produse locale bio", "Cer înstelat spectaculos"], "en": ["In the heart of Zagora", "Located near Lećevica", "Traditional stone architecture", "Pristine karst landscape", "Oasis of tranquility", "Authentic hospitality", "Local organic products", "Dark sky for stargazing"]}, "imageHint": "A remote Dalmatian village with old dry-stone walls and rugged limestone hills in the background.", "county": "HR-17"},
   {"id": "croatia-kula-atlagic-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": [],
+      "de": [
+            {
+                  "name": "crkva svetog Nikole",
+                  "text": "Die Nikolauskirche (crkva svetog Nikole) ist ein Gotteshaus in Kula Atlagić.",
+                  "category": "religious",
+                  "coords": [
+                        15.576564,
+                        44.059399
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "crkva svetog Nikole",
+                  "text": "A Szent Miklós-templom (crkva svetog Nikole) egy istentiszteleti hely Kula Atlagić településén.",
+                  "category": "religious",
+                  "coords": [
+                        15.576564,
+                        44.059399
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "crkva svetog Nikole",
+                  "text": "Biserica Sfântul Nicolae (crkva svetog Nikole) este un lăcaș de cult din Kula Atlagić.",
+                  "category": "religious",
+                  "coords": [
+                        15.576564,
+                        44.059399
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "crkva svetog Nikole",
+                  "text": "The Church of St. Nicholas (crkva svetog Nikole) is a place of worship located in Kula Atlagić.",
+                  "category": "religious",
+                  "coords": [
+                        15.576564,
+                        44.059399
+                  ]
+            }
+      ],
       "hr": []
 }, "type": "city", "parent": "HR", "coords": [15.589, 44.059], "population": 131, "name": {"de": "Kula Atlagić", "hu": "Kula Atlagić", "ro": "Kula Atlagić", "en": "Kula Atlagić"}, "description": {"de": "Ein geschichtsträchtiges Dorf bei Benkovac, bekannt für seine historischen Wehrtürme und die Ravni Kotari Ebene.", "hu": "Történelmi falu Benkovac mellett, híres váratornyairól és a Ravni Kotari síkságról.", "ro": "Un sat încărcat de istorie lângă Benkovac, cunoscut pentru turnurile sale fortificate și câmpia Ravni Kotari.", "en": "A village rich in history near Benkovac, known for its historical fortified towers and the Ravni Kotari plain."}, "descriptionAdvanced": {"de": "Kula Atlagić liegt in der fruchtbaren Ebene von Ravni Kotari, nur zwei Kilometer von Benkovac entfernt. Der Name des Dorfes leitet sich von dem Wehrturm (Kula) ab, der einst der adeligen Familie Atlagić gehörte. Dieser Turm ist ein wichtiges Denkmal für die Zeit der Grenzkämpfe zwischen dem Osmanischen Reich und der Republik Venedig. Die Region war über Jahrhunderte ein strategisch wichtiger Punkt.\n\nDas Dorf ist reich an archäologischen Spuren, die von der Römerzeit bis ins Mittelalter reichen. Besonders sehenswert sind die Überreste der alten Festung und die sakralen Bauten, die trotz vieler Kriege teilweise erhalten geblieben sind. Die Architektur spiegelt die wechselvolle Geschichte der Ravni Kotari wider, in der sich verschiedene kulturelle Einflüsse vermischten. Heute ist das Dorf ein Ort der Landwirtschaft, insbesondere des Wein- und Olivenanbaus.\n\nDie Umgebung von Kula Atlagić ist ideal für geschichtsinteressierte Reisende und Naturliebhaber. In der Nähe befindet sich die Festung Asseria, eine bedeutende liburnisch-römische Siedlung. Die flache, aber wellige Landschaft der Ravni Kotari lädt zu Radtouren ein, die an zahlreichen Weingütern vorbeiführen. Hier kann man den berühmten Wein der Region probieren und die herzhafte ländliche Küche genießen, die für ihre Lammgerichte unter der Peka bekannt ist.", "hu": "Kula Atlagić a Ravni Kotari termékeny síkságán fekszik, mindössze két kilométerre Benkovactól. A falu neve a nemesi Atlagić családhoz tartozó váratoronyból (Kula) származik. Ez a torony fontos emlékműve az Oszmán Birodalom és a Velencei Köztársaság közötti határmenti harcok idejének. A régió évszázadokon át stratégiailag fontos pont volt.\n\nA falu gazdag régészeti leletekben, amelyek a római kortól a középkorig terjednek. Különösen érdemes megtekinteni a régi erődítmény maradványait és a szakrális építményeket, amelyek a sok háború ellenére részben fennmaradtak. Az építészet tükrözi a Ravni Kotari változatos történelmét, ahol különböző kulturális hatások keveredtek. Ma a falu a mezőgazdaság, különösen a szőlő- és olajbogyó-termesztés helyszíne.\n\nKula Atlagić környéke ideális a történelem iránt érdeklődő utazók és a természetkedvelők számára. A közelben található Asseria erődítménye, amely egy jelentős liburn-római település volt. A Ravni Kotari lapos, de hullámzó tája kerékpártúrákra csábít, amelyek számos borászat mellett vezetnek el. Itt megkóstolhatja a régió híres borait és élvezheti a kiadós vidéki konyhát, amely a peka alatt sült bárányételeiről ismert.", "ro": "Kula Atlagić se află în câmpia fertilă Ravni Kotari, la doar doi kilometri de Benkovac. Numele satului derivă de la turnul fortificat (Kula) care a aparținut odinioară familiei nobiliare Atlagić. Acest turn este un monument important din perioada luptelor de frontieră dintre Imperiul Otoman și Republica Veneția. Regiunea a fost timp de secole un punct strategic vital.\n\nSatul este bogat în urme arheologice care datează din epoca romană până în Evul Mediu. Deosebit de interesante sunt resturile vechii fortărețe și edificiile sacrale care s-au păstrat parțial în ciuda multor războaie. Arhitectura reflectă istoria zbuciumată a regiunii Ravni Kotari, unde s-au amestecat diverse influențe culturale. Astăzi, satul este un loc al agriculturii, în special al cultivării viței de vie și a măslinilor.\n\nÎmprejurimile localității Kula Atlagić sunt ideale pentru călătorii interesați de istorie și pentru iubitorii de natură. În apropiere se află fortăreața Asseria, o așezare liburno-romană semnificativă. Peisajul plat, dar ușor ondulat al Ravni Kotari invită la plimbări cu bicicleta care trec pe lângă numeroase crame. Aici se poate degusta vinul faimos al regiunii și se poate savura bucătăria rurală consistentă, cunoscută pentru preparatele din miel sub capac (peka).", "en": "Kula Atlagić is located in the fertile plain of Ravni Kotari, just two kilometers from Benkovac. The village name derives from the fortified tower (Kula) that once belonged to the noble Atlagić family. This tower is an important monument from the era of border conflicts between the Ottoman Empire and the Republic of Venice. For centuries, the region served as a vital strategic point.\n\nThe village is rich in archaeological traces ranging from Roman times to the Middle Ages. Especially noteworthy are the remains of the old fortress and sacred buildings that have partially survived despite many wars. The architecture reflects the diverse history of Ravni Kotari, where various cultural influences blended. Today, the village is focused on agriculture, particularly viticulture and olive growing.\n\nThe area surrounding Kula Atlagić is ideal for history buffs and nature lovers. Nearby is the Asseria fortress, a significant Liburnian-Roman settlement. The flat yet undulating landscape of Ravni Kotari invites cycling tours that pass by numerous wineries. Here, one can taste the famous regional wine and enjoy hearty rural cuisine, renowned for lamb dishes cooked under the peka lid."}, "facts": {"de": ["Historischer Wehrturm", "Nahe Benkovac gelegen", "Ravni Kotari Ebene", "Strategischer Grenzpunkt", "Antike römische Funde", "Traditioneller Weinbau", "Kulturelles Erbe Dalmatiens", "Lammfleisch unter der Peka"], "hu": ["Történelmi váratorony", "Benkovac közelében", "Ravni Kotari síkság", "Stratégiai határpont", "Ókori római leletek", "Hagyományos borászat", "Dalmát kulturális örökség", "Bárányhús peka alatt"], "ro": ["Turn fortificat istoric", "Situat lângă Benkovac", "Câmpia Ravni Kotari", "Punct strategic de graniță", "Vestigii romane antice", "Viticultură tradițională", "Patrimoniu cultural dalmat", "Miel la peka tradițional"], "en": ["Historical fortified tower", "Located near Benkovac", "Ravni Kotari plain", "Strategic border point", "Ancient Roman finds", "Traditional viticulture", "Dalmatian cultural heritage", "Lamb cooked under peka"]}, "imageHint": "A view of a stone fortress tower ruins in a green Dalmatian plain with hills in the distance.", "county": "HR-13"},
   {"id": "croatia-razanj-cities-v2", "sights": {
@@ -81800,6 +83430,15 @@ export const poiExtraHrV3: POI[] = [
                         14.645718,
                         45.160386
                   ]
+            },
+            {
+                  "name": "Zaljev Soline",
+                  "text": "Der Zaljev Soline ist eine malerische Bucht in der Nähe von Klimno, die für ihre schöne Küstenlandschaft bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.613215,
+                        45.160201
+                  ]
             }
       ],
       "hu": [
@@ -81837,6 +83476,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.645718,
                         45.160386
+                  ]
+            },
+            {
+                  "name": "Zaljev Soline",
+                  "text": "A Zaljev Soline egy festői öböl Klimno közelében, amely szép partvidékéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.613215,
+                        45.160201
                   ]
             }
       ],
@@ -81876,6 +83524,15 @@ export const poiExtraHrV3: POI[] = [
                         14.645718,
                         45.160386
                   ]
+            },
+            {
+                  "name": "Zaljev Soline",
+                  "text": "Zaljev Soline este un golf pitoresc cunoscut pentru mediul său de coastă de lângă Klimno.",
+                  "category": "landmark",
+                  "coords": [
+                        14.613215,
+                        45.160201
+                  ]
             }
       ],
       "en": [
@@ -81913,6 +83570,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.645718,
                         45.160386
+                  ]
+            },
+            {
+                  "name": "Zaljev Soline",
+                  "text": "Zaljev Soline is a picturesque bay known for its scenic coastal environment near Klimno.",
+                  "category": "landmark",
+                  "coords": [
+                        14.613215,
+                        45.160201
                   ]
             }
       ],
@@ -85602,6 +87268,15 @@ export const poiExtraHrV3: POI[] = [
                         16.519573,
                         43.738141
                   ]
+            },
+            {
+                  "name": "Zelovski gaji",
+                  "text": "Zelovski gaji ist ein Aussichtspunkt, der schöne Ausblicke in Zelovo bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.529885,
+                        43.762876
+                  ]
             }
       ],
       "hu": [
@@ -85621,6 +87296,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.519573,
                         43.738141
+                  ]
+            },
+            {
+                  "name": "Zelovski gaji",
+                  "text": "A Zelovski gaji egy festői kilátó, amely panorámát nyújt Zelovóban.",
+                  "category": "natural",
+                  "coords": [
+                        16.529885,
+                        43.762876
                   ]
             }
       ],
@@ -85642,6 +87326,15 @@ export const poiExtraHrV3: POI[] = [
                         16.519573,
                         43.738141
                   ]
+            },
+            {
+                  "name": "Zelovski gaji",
+                  "text": "Zelovski gaji este un punct de belvedere pitoresc care oferă perspective în Zelovo.",
+                  "category": "natural",
+                  "coords": [
+                        16.529885,
+                        43.762876
+                  ]
             }
       ],
       "en": [
@@ -85661,6 +87354,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         16.519573,
                         43.738141
+                  ]
+            },
+            {
+                  "name": "Zelovski gaji",
+                  "text": "Zelovski gaji is a scenic viewpoint offering beautiful perspectives in Zelovo.",
+                  "category": "natural",
+                  "coords": [
+                        16.529885,
+                        43.762876
                   ]
             }
       ],
@@ -85863,6 +87565,15 @@ export const poiExtraHrV3: POI[] = [
                         14.007325,
                         44.899001
                   ]
+            },
+            {
+                  "name": "Luka Vinjole",
+                  "text": "Luka Vinjole ist eine kleine und attraktive Bucht in Kavran.",
+                  "category": "landmark",
+                  "coords": [
+                        14.028419,
+                        44.917904
+                  ]
             }
       ],
       "hu": [
@@ -85882,6 +87593,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.007325,
                         44.899001
+                  ]
+            },
+            {
+                  "name": "Luka Vinjole",
+                  "text": "A Luka Vinjole egy kicsi és vonzó öböl Kavran területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.028419,
+                        44.917904
                   ]
             }
       ],
@@ -85903,6 +87623,15 @@ export const poiExtraHrV3: POI[] = [
                         14.007325,
                         44.899001
                   ]
+            },
+            {
+                  "name": "Luka Vinjole",
+                  "text": "Luka Vinjole este un golf mic și atractiv situat în Kavran.",
+                  "category": "landmark",
+                  "coords": [
+                        14.028419,
+                        44.917904
+                  ]
             }
       ],
       "en": [
@@ -85922,6 +87651,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.007325,
                         44.899001
+                  ]
+            },
+            {
+                  "name": "Luka Vinjole",
+                  "text": "Luka Vinjole is a small and attractive bay located in Kavran.",
+                  "category": "landmark",
+                  "coords": [
+                        14.028419,
+                        44.917904
                   ]
             }
       ],
@@ -88127,7 +89865,52 @@ export const poiExtraHrV3: POI[] = [
       "en": [],
       "hr": []
 }, "type": "city", "parent": "HR", "coords": [16.148, 43.8332], "population": 114, "name": {"de": "Žitnić", "hu": "Žitnić", "ro": "Žitnić", "en": "Žitnić"}, "description": {"de": "Ein geschichtsträchtiges Dorf bei Drniš, bekannt als wichtiger Bahnknotenpunkt und Tor zum Nationalpark Krka.", "hu": "Történelmi falu Drniš közelében, amely fontos vasúti csomópontként és a Krka Nemzeti Park kapujaként ismert.", "ro": "Un sat cu istorie lângă Drniš, cunoscut ca un nod feroviar important și poartă către Parcul Național Krka.", "en": "A historic village near Drniš, known as an important railway junction and gateway to the Krka National Park."}, "descriptionAdvanced": {"de": "Žitnić liegt im Herzen des dalmatinischen Binnenlandes, nur wenige Kilometer südlich der Stadt Drniš. Das Dorf ist historisch vor allem als strategischer Bahnknotenpunkt bekannt, wo sich die Strecken nach Split und Šibenik teilen. Die Eisenbahnstation von Žitnić war einst ein Symbol für den industriellen Fortschritt der Region und spielt auch heute noch eine Rolle im regionalen Verkehr.\n\nDie Landschaft um Žitnić ist geprägt von der rauen Schönheit des dalmatinischen Karsts und der Nähe zum Nationalpark Krka. Von hier aus sind es nur kurze Distanzen zu den spektakulären Wasserfällen und Klöstern des Parks. Die Region hat eine bewegte Geschichte, die bis in die Römerzeit zurückreicht, wovon Ruinen in der weiteren Umgebung zeugen. Das Dorf selbst bietet eine ruhige, ländliche Atmosphäre mit traditionellen dalmatinischen Steinhäusern.\n\nIn kulinarischer Hinsicht ist Žitnić Teil der berühmten Drniš-Region, die für ihren prämierte Pršut (Rohschinken) weltbekannt ist. Lokale Produzenten legen Wert auf traditionelle Trocknungsmethoden in der Bura, dem starken Nordostwind. Besucher können hier das authentische Leben der Zagora kennenlernen und lokale Spezialitäten direkt auf den Bauernhöfen probieren. Die Gegend eignet sich auch hervorragend für Radtouren durch das weite Petrovo polje.", "hu": "Žitnić a dalmát hátország szívében fekszik, mindössze néhány kilométerre délre Drniš városától. A falu történelmileg elsősorban stratégiai vasúti csomópontként ismert, ahol a Split és Šibenik felé tartó vonalak elválnak. Žitnić vasútállomása egykor a régió ipari fejlődésének szimbóluma volt, és ma is szerepet játszik a regionális közlekedésben.\n\nA Žitnić körüli tájat a dalmát karszt nyers szépsége és a Krka Nemzeti Park közelsége jellemzi. Innen csak rövid távolságra vannak a park látványos vízesései és kolostorai. A régió mozgalmas múlttal rendelkezik, amely egészen a római korig nyúlik vissza, amiről a tágabb környék romjai tanúskodnak. A falu maga nyugodt, vidéki légkört kínál hagyományos dalmát kőházakkal.\n\nGasztronómiai szempontból Žitnić a híres drniši régió része, amely világszerte ismert díjnyertes pršutjáról (nyers sonka). A helyi termelők nagy hangsúlyt fektetnek a hagyományos, borában (erős északkeleti szélben) történő szárítási módszerekre. A látogatók itt megismerhetik a Zagora hiteles életét, és helyi specialitásokat kóstolhatnak közvetlenül a gazdaságokban. A környék kiválóan alkalmas kerékpártúrákra is a tágas Petrovo polje mezőin keresztül.", "ro": "Žitnić se află în inima hinterlandului dalmat, la doar câțiva kilometri sud de orașul Drniš. Satul este cunoscut istoric în special ca un nod feroviar strategic, unde se despart liniile către Split și Šibenik. Gara din Žitnić a fost odată un simbol al progresului industrial al regiunii și joacă și astăzi un rol în transportul regional.\n\nPeisajul din jurul localității Žitnić este marcat de frumusețea aspră a carstului dalmat și de proximitatea Parcului Național Krka. De aici sunt doar distanțe scurte până la cascadele și mănăstirile spectaculoase ale parcului. Regiunea are o istorie zbuciumată care datează din epoca romană, mărturie stând ruinele din împrejurimi. Satul în sine oferă o atmosferă rurală liniștită, cu case tradiționale din piatră dalmată.\n\nDin punct de vedere culinar, Žitnić face parte din faimoasa regiune Drniš, cunoscută în întreaga lume pentru pršut-ul său (șuncă crudă) premiat. Producătorii locali pun preț pe metodele tradiționale de uscare la Bura, vântul puternic de nord-est. Vizitatorii pot cunoaște aici viața autentică din Zagora și pot gusta specialități locale direct la ferme. Zona este, de asemenea, excelentă pentru excursii cu bicicleta prin vasta câmpie Petrovo polje.", "en": "Žitnić is located in the heart of the Dalmatian hinterland, just a few kilometers south of the town of Drniš. Historically, the village is best known as a strategic railway junction where lines to Split and Šibenik diverge. Žitnić railway station was once a symbol of the region's industrial progress and still plays a role in regional transport today.\n\nThe landscape around Žitnić is characterized by the rugged beauty of the Dalmatian karst and its proximity to Krka National Park. Spectacular waterfalls and monasteries of the park are only a short distance away. The region has a turbulent history dating back to Roman times, evidenced by ruins in the wider area. The village itself offers a quiet, rural atmosphere with traditional Dalmatian stone houses.\n\nCulinary-wise, Žitnić is part of the famous Drniš region, world-renowned for its award-winning Pršut (cured ham). Local producers emphasize traditional drying methods using the Bura, the strong northeastern wind. Visitors can experience the authentic life of the Zagora and taste local specialties directly at the farms. The area is also excellent for cycling trips through the expansive Petrovo polje."}, "facts": {"de": ["Historischer Bahnknotenpunkt", "Tor zum NP Krka", "Berühmter Drniš-Pršut", "Traditionelle Karstarchitektur", "Blick auf das Petrovo polje", "Nahe der Stadt Drniš", "An der Bahnlinie Split-Zagreb", "Authentische Zagora-Kultur"], "hu": ["Történelmi vasúti csomópont", "Kapu a Krka Nemzeti Parkhoz", "Híres drniši pršut", "Hagyományos karszt-építészet", "Kilátás a Petrovo polje-re", "Drniš városa közelében", "A Split-Zágráb vasútvonalon", "Hiteles Zagora-kultúra"], "ro": ["Nod feroviar istoric", "Poartă spre PN Krka", "Celebrul pršut de Drniš", "Arhitectură carstică tradițională", "Vedere spre Petrovo polje", "Lângă orașul Drniš", "Pe linia ferată Split-Zagreb", "Cultură autentică Zagora"], "en": ["Historic railway junction", "Gateway to Krka NP", "Famous Drniš Pršut", "Traditional karst architecture", "View of Petrovo polje", "Near the town of Drniš", "On the Split-Zagreb rail line", "Authentic Zagora culture"]}, "imageHint": "A small historic stone railway station building in a dry, rocky karst landscape with sparse vegetation.", "county": "HR-15"},
-  {"id": "croatia-severin-na-kupi-cities-v2", "type": "city", "parent": "HR", "coords": [15.1719, 45.4189], "population": 113, "name": {"de": "Severin na Kupi", "hu": "Severin na Kupi", "ro": "Severin na Kupi", "en": "Severin na Kupi"}, "description": {"de": "Ein historisches Dorf am Fluss Kupa, bekannt für sein Schloss der Frankopanen und die malerische Flusslandschaft.", "hu": "Történelmi falu a Kupa-folyó partján, amely a Frankopán-kastélyról és a festői folyami tájról ismert.", "ro": "Un sat istoric pe malul râului Kupa, cunoscut pentru castelul Frankopanilor și peisajul fluvial pitoresc.", "en": "A historic village on the Kupa River, known for its Frankopan castle and scenic river landscape."}, "descriptionAdvanced": {"de": "Severin na Kupi liegt im Nordosten von Gorski Kotar, hoch über dem tief eingeschnittenen Tal des Flusses Kupa. Das Wahrzeichen des Ortes ist das imposante Schloss Severin, das ursprünglich im 16. Jahrhundert von den Frankopanen erbaut und später von den Zrinski erweitert wurde. Obwohl das Schloss heute renovierungsbedürftig ist, zeugt es immer noch von der strategischen und kulturellen Bedeutung, die dieser Ort als Grenzfestung und Adelssitz einst hatte.\n\nDie Lage direkt an der historischen Straße 'Lujzijana', die Karlovac mit Rijeka verbindet, machte Severin na Kupi zu einem wichtigen Rastplatz für Reisende und Händler. Unterhalb des Dorfes bietet der Fluss Kupa Möglichkeiten zum Angeln, Kanufahren und im Sommer zum Baden an natürlichen Kieselstränden. Die dichten Wälder des Gorski Kotar, die den Ort umgeben, sind ein Paradies für Wanderer und Pilzsammler.\n\nIn der lokalen Gastronomie spielen Produkte aus dem Wald und dem Fluss eine zentrale Rolle. Wildgerichte, Forellen und Beerenstrudel sind typische Spezialitäten, die in den gemütlichen Gasthöfen serviert werden. Severin na Kupi ist ein idealer Ort für Reisende, die eine Verbindung aus Geschichte und unberührter Gebirgsnatur suchen, fernab der Küstenhitze und des Massentourismus.", "hu": "Severin na Kupi Gorski Kotar északkeleti részén található, magasan a Kupa-folyó mélyen vágott völgye felett. A település jelképe az impozáns Severin-kastély, amelyet eredetileg a 16. században a Frankopánok építettek, majd később a Zrínyiek bővítettek. Bár a kastély ma felújításra szorul, még mindig tanúskodik arról a stratégiai és kulturális jelentőségről, amellyel ez a hely egykor határvárként és nemesi székhelyként rendelkezett.\n\nA Karlovacot Rijekával összekötő történelmi 'Lujzijana' út menti elhelyezkedése fontos pihenőhellyé tette a falut az utazók és kereskedők számára. A falu alatt a Kupa-folyó horgászati, kenuzási és nyáron természetes kavicsos strandokon történő fürdőzési lehetőségeket kínál. Gorski Kotar sűrű erdői, amelyek a települést körülveszik, a túrázók és gombászok paradicsoma.\n\nA helyi gasztronómiában az erdő és a folyó termékei központi szerepet játszanak. A vadhúsételek, a pisztráng és a bogyós gyümölcsökből készült rétesek tipikus specialitások, amelyeket a hangulatos vendéglőkben szolgálnak fel. Severin na Kupi ideális hely azoknak az utazóknak, akik a történelem és az érintetlen hegyi természet kombinációját keresik, távol a tengerparti hőségtől és a tömegturizmustól.", "ro": "Severin na Kupi se află în nord-estul regiunii Gorski Kotar, sus deasupra văii adânci a râului Kupa. Simbolul localității este impunătorul castel Severin, construit inițial în secolul al XVI-lea de familia Frankopan și extins ulterior de familia Zrinski. Deși castelul are nevoie astăzi de renovare, el mărturisește încă importanța strategică și culturală pe care acest loc a avut-o odinioară ca fortăreață de graniță și reședință nobiliară.\n\nLocația direct pe drumul istoric 'Lujzijana', care leagă Karlovac de Rijeka, a făcut din Severin na Kupi un loc de odihnă important pentru călători și comercianți. Sub sat, râul Kupa oferă posibilități pentru pescuit, canotaj și, vara, pentru scăldat pe plaje naturale de pietriș. Pădurile dese din Gorski Kotar care înconjoară localitatea sunt un paradis pentru excursioniști și culegători de ciuperci.\n\nÎn gastronomia locală, produsele din pădure și râu joacă un rol central. Preparatele din vânat, păstrăvul și ștrudelul cu fructe de pădure sunt specialități tipice servite în hanurile primitoare. Severin na Kupi este un loc ideal pentru călătorii care caută o combinație de istorie și natură montană virgină, departe de căldura coastei și de turismul de masă.", "en": "Severin na Kupi is located in the northeastern part of Gorski Kotar, perched high above the deep valley of the Kupa River. The landmark of the village is the imposing Severin Castle, originally built in the 16th century by the Frankopans and later expanded by the Zrinski family. Although the castle currently needs renovation, it still stands as a testament to the strategic and cultural significance this place once held as a border fortress and noble seat.\n\nIts position directly on the historic 'Lujzijana' road connecting Karlovac with Rijeka made Severin na Kupi a vital resting point for travelers and merchants. Below the village, the Kupa River offers opportunities for fishing, canoeing, and summer swimming at natural pebble spots. The dense forests of Gorski Kotar surrounding the settlement are a paradise for hikers and mushroom foragers.\n\nIn local gastronomy, forest and river products play a central role. Game dishes, trout, and berry strudels are typical specialties served in the cozy guesthouses. Severin na Kupi is an ideal spot for travelers seeking a blend of history and untouched mountain nature, far from the coastal heat and mass tourism."}, "facts": {"de": ["Frankopanen-Schloss Severin", "An der historischen Lujzijana-Straße", "Hoch über dem Fluss Kupa", "Teil der Region Gorski Kotar", "Beliebtes Kanurevier", "Wälder reich an Wild und Pilzen", "Mittelalterlicher Adelssitz", "Kühleres Bergklima"], "hu": ["Severini Frankopán-kastély", "A történelmi Lujzijana út mentén", "Magasan a Kupa-folyó felett", "Gorski Kotar régió része", "Népszerű kenu-helyszín", "Vadhúsban és gombában gazdag erdők", "Középkori nemesi székhely", "Hűvösebb hegyi klíma"], "ro": ["Castelul Frankopan Severin", "Pe drumul istoric Lujzijana", "Sus deasupra râului Kupa", "Parte a regiunii Gorski Kotar", "Zonă populară pentru canotaj", "Păduri bogate în vânat și ciuperci", "Reședință nobiliară medievală", "Climat montan mai răcoros"], "en": ["Frankopan Castle Severin", "On the historic Lujzijana road", "High above the Kupa River", "Part of Gorski Kotar region", "Popular canoeing area", "Forests rich in game and mushrooms", "Medieval noble seat", "Cooler mountain climate"]}, "imageHint": "A stone castle with towers and a courtyard standing on a cliff above a green river valley.", "county": "HR-08"},
+  {"id": "croatia-severin-na-kupi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorac Frankopan",
+                  "text": "Das Schloss Frankopan ist eine historische Burg in Severin na Kupi.",
+                  "category": "castle",
+                  "coords": [
+                        15.169119,
+                        45.421557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorac Frankopan",
+                  "text": "A Frangepán-kastély egy történelmi vár Severin na Kupiban.",
+                  "category": "castle",
+                  "coords": [
+                        15.169119,
+                        45.421557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorac Frankopan",
+                  "text": "Castelul Frankopan este un castel istoric situat în Severin na Kupi.",
+                  "category": "castle",
+                  "coords": [
+                        15.169119,
+                        45.421557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorac Frankopan",
+                  "text": "Dvorac Frankopan is a historic castle located in Severin na Kupi.",
+                  "category": "castle",
+                  "coords": [
+                        15.169119,
+                        45.421557
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "HR", "coords": [15.1719, 45.4189], "population": 113, "name": {"de": "Severin na Kupi", "hu": "Severin na Kupi", "ro": "Severin na Kupi", "en": "Severin na Kupi"}, "description": {"de": "Ein historisches Dorf am Fluss Kupa, bekannt für sein Schloss der Frankopanen und die malerische Flusslandschaft.", "hu": "Történelmi falu a Kupa-folyó partján, amely a Frankopán-kastélyról és a festői folyami tájról ismert.", "ro": "Un sat istoric pe malul râului Kupa, cunoscut pentru castelul Frankopanilor și peisajul fluvial pitoresc.", "en": "A historic village on the Kupa River, known for its Frankopan castle and scenic river landscape."}, "descriptionAdvanced": {"de": "Severin na Kupi liegt im Nordosten von Gorski Kotar, hoch über dem tief eingeschnittenen Tal des Flusses Kupa. Das Wahrzeichen des Ortes ist das imposante Schloss Severin, das ursprünglich im 16. Jahrhundert von den Frankopanen erbaut und später von den Zrinski erweitert wurde. Obwohl das Schloss heute renovierungsbedürftig ist, zeugt es immer noch von der strategischen und kulturellen Bedeutung, die dieser Ort als Grenzfestung und Adelssitz einst hatte.\n\nDie Lage direkt an der historischen Straße 'Lujzijana', die Karlovac mit Rijeka verbindet, machte Severin na Kupi zu einem wichtigen Rastplatz für Reisende und Händler. Unterhalb des Dorfes bietet der Fluss Kupa Möglichkeiten zum Angeln, Kanufahren und im Sommer zum Baden an natürlichen Kieselstränden. Die dichten Wälder des Gorski Kotar, die den Ort umgeben, sind ein Paradies für Wanderer und Pilzsammler.\n\nIn der lokalen Gastronomie spielen Produkte aus dem Wald und dem Fluss eine zentrale Rolle. Wildgerichte, Forellen und Beerenstrudel sind typische Spezialitäten, die in den gemütlichen Gasthöfen serviert werden. Severin na Kupi ist ein idealer Ort für Reisende, die eine Verbindung aus Geschichte und unberührter Gebirgsnatur suchen, fernab der Küstenhitze und des Massentourismus.", "hu": "Severin na Kupi Gorski Kotar északkeleti részén található, magasan a Kupa-folyó mélyen vágott völgye felett. A település jelképe az impozáns Severin-kastély, amelyet eredetileg a 16. században a Frankopánok építettek, majd később a Zrínyiek bővítettek. Bár a kastély ma felújításra szorul, még mindig tanúskodik arról a stratégiai és kulturális jelentőségről, amellyel ez a hely egykor határvárként és nemesi székhelyként rendelkezett.\n\nA Karlovacot Rijekával összekötő történelmi 'Lujzijana' út menti elhelyezkedése fontos pihenőhellyé tette a falut az utazók és kereskedők számára. A falu alatt a Kupa-folyó horgászati, kenuzási és nyáron természetes kavicsos strandokon történő fürdőzési lehetőségeket kínál. Gorski Kotar sűrű erdői, amelyek a települést körülveszik, a túrázók és gombászok paradicsoma.\n\nA helyi gasztronómiában az erdő és a folyó termékei központi szerepet játszanak. A vadhúsételek, a pisztráng és a bogyós gyümölcsökből készült rétesek tipikus specialitások, amelyeket a hangulatos vendéglőkben szolgálnak fel. Severin na Kupi ideális hely azoknak az utazóknak, akik a történelem és az érintetlen hegyi természet kombinációját keresik, távol a tengerparti hőségtől és a tömegturizmustól.", "ro": "Severin na Kupi se află în nord-estul regiunii Gorski Kotar, sus deasupra văii adânci a râului Kupa. Simbolul localității este impunătorul castel Severin, construit inițial în secolul al XVI-lea de familia Frankopan și extins ulterior de familia Zrinski. Deși castelul are nevoie astăzi de renovare, el mărturisește încă importanța strategică și culturală pe care acest loc a avut-o odinioară ca fortăreață de graniță și reședință nobiliară.\n\nLocația direct pe drumul istoric 'Lujzijana', care leagă Karlovac de Rijeka, a făcut din Severin na Kupi un loc de odihnă important pentru călători și comercianți. Sub sat, râul Kupa oferă posibilități pentru pescuit, canotaj și, vara, pentru scăldat pe plaje naturale de pietriș. Pădurile dese din Gorski Kotar care înconjoară localitatea sunt un paradis pentru excursioniști și culegători de ciuperci.\n\nÎn gastronomia locală, produsele din pădure și râu joacă un rol central. Preparatele din vânat, păstrăvul și ștrudelul cu fructe de pădure sunt specialități tipice servite în hanurile primitoare. Severin na Kupi este un loc ideal pentru călătorii care caută o combinație de istorie și natură montană virgină, departe de căldura coastei și de turismul de masă.", "en": "Severin na Kupi is located in the northeastern part of Gorski Kotar, perched high above the deep valley of the Kupa River. The landmark of the village is the imposing Severin Castle, originally built in the 16th century by the Frankopans and later expanded by the Zrinski family. Although the castle currently needs renovation, it still stands as a testament to the strategic and cultural significance this place once held as a border fortress and noble seat.\n\nIts position directly on the historic 'Lujzijana' road connecting Karlovac with Rijeka made Severin na Kupi a vital resting point for travelers and merchants. Below the village, the Kupa River offers opportunities for fishing, canoeing, and summer swimming at natural pebble spots. The dense forests of Gorski Kotar surrounding the settlement are a paradise for hikers and mushroom foragers.\n\nIn local gastronomy, forest and river products play a central role. Game dishes, trout, and berry strudels are typical specialties served in the cozy guesthouses. Severin na Kupi is an ideal spot for travelers seeking a blend of history and untouched mountain nature, far from the coastal heat and mass tourism."}, "facts": {"de": ["Frankopanen-Schloss Severin", "An der historischen Lujzijana-Straße", "Hoch über dem Fluss Kupa", "Teil der Region Gorski Kotar", "Beliebtes Kanurevier", "Wälder reich an Wild und Pilzen", "Mittelalterlicher Adelssitz", "Kühleres Bergklima"], "hu": ["Severini Frankopán-kastély", "A történelmi Lujzijana út mentén", "Magasan a Kupa-folyó felett", "Gorski Kotar régió része", "Népszerű kenu-helyszín", "Vadhúsban és gombában gazdag erdők", "Középkori nemesi székhely", "Hűvösebb hegyi klíma"], "ro": ["Castelul Frankopan Severin", "Pe drumul istoric Lujzijana", "Sus deasupra râului Kupa", "Parte a regiunii Gorski Kotar", "Zonă populară pentru canotaj", "Păduri bogate în vânat și ciuperci", "Reședință nobiliară medievală", "Climat montan mai răcoros"], "en": ["Frankopan Castle Severin", "On the historic Lujzijana road", "High above the Kupa River", "Part of Gorski Kotar region", "Popular canoeing area", "Forests rich in game and mushrooms", "Medieval noble seat", "Cooler mountain climate"]}, "imageHint": "A stone castle with towers and a courtyard standing on a cliff above a green river valley.", "county": "HR-08"},
   {"id": "croatia-bencici-cities-v2", "sights": {
       "de": [],
       "hu": [],

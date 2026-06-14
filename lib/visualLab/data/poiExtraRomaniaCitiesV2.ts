@@ -4464,6 +4464,15 @@ export const romaniaCitiesV2: POI[] = [
                         24.112256,
                         45.704638
                   ]
+            },
+            {
+                  "name": "1985",
+                  "text": "Das 1985 ist ein Denkmal in der Stadt Cisnădie.",
+                  "category": "historical",
+                  "coords": [
+                        24.156131,
+                        45.717802
+                  ]
             }
       ],
       "hu": [
@@ -4493,6 +4502,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.112256,
                         45.704638
+                  ]
+            },
+            {
+                  "name": "1985",
+                  "text": "Az 1985 egy emlékmű Cisnădie városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.156131,
+                        45.717802
                   ]
             }
       ],
@@ -4524,6 +4542,15 @@ export const romaniaCitiesV2: POI[] = [
                         24.112256,
                         45.704638
                   ]
+            },
+            {
+                  "name": "1985",
+                  "text": "1985 este un monument situat în orașul Cisnădie.",
+                  "category": "historical",
+                  "coords": [
+                        24.156131,
+                        45.717802
+                  ]
             }
       ],
       "en": [
@@ -4553,6 +4580,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         24.112256,
                         45.704638
+                  ]
+            },
+            {
+                  "name": "1985",
+                  "text": "The 1985 is a monument situated in the city of Cisnădie.",
+                  "category": "historical",
+                  "coords": [
+                        24.156131,
+                        45.717802
                   ]
             }
       ]
@@ -6811,6 +6847,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.025867,
                         45.016161
                   ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monumentul Eroilor ist ein lokales Denkmal zu Ehren gefallener Helden in Boldești-Scăeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.031207,
+                        45.029712
+                  ]
             }
       ],
       "hu": [
@@ -6830,6 +6875,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.025867,
                         45.016161
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "A Monumentul Eroilor egy helyi emlékmű, amely az elesett hősök előtt tiszteleg Boldești-Scăeniben.",
+                  "category": "historical",
+                  "coords": [
+                        26.031207,
+                        45.029712
                   ]
             }
       ],
@@ -6851,6 +6905,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.025867,
                         45.016161
                   ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monumentul Eroilor este un monument local care onorează eroii căzuți în Boldești-Scăeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.031207,
+                        45.029712
+                  ]
             }
       ],
       "en": [
@@ -6870,6 +6933,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.025867,
                         45.016161
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monumentul Eroilor is a local monument honoring fallen heroes in Boldești-Scăeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.031207,
+                        45.029712
                   ]
             }
       ]
@@ -12559,6 +12631,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.028795,
                         44.348366
                   ]
+            },
+            {
+                  "name": "Biserica „Sfânta Treime” - Gherman",
+                  "text": "Die Biserica „Sfânta Treime” - Gherman ist eine lokale Kultstätte in Măgurele.",
+                  "category": "religious",
+                  "coords": [
+                        26.036052,
+                        44.344271
+                  ]
             }
       ],
       "hu": [
@@ -12597,6 +12678,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.028795,
                         44.348366
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfânta Treime” - Gherman",
+                  "text": "A Biserica „Sfânta Treime” - Gherman egy helyi istentiszteleti hely Măgurele városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.036052,
+                        44.344271
                   ]
             }
       ],
@@ -12637,6 +12727,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.028795,
                         44.348366
                   ]
+            },
+            {
+                  "name": "Biserica „Sfânta Treime” - Gherman",
+                  "text": "Biserica „Sfânta Treime” - Gherman este un lăcaș de cult local din Măgurele.",
+                  "category": "religious",
+                  "coords": [
+                        26.036052,
+                        44.344271
+                  ]
             }
       ],
       "en": [
@@ -12675,6 +12774,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.028795,
                         44.348366
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfânta Treime” - Gherman",
+                  "text": "Biserica „Sfânta Treime” - Gherman is a local place of worship in Măgurele.",
+                  "category": "religious",
+                  "coords": [
+                        26.036052,
+                        44.344271
                   ]
             }
       ]
@@ -12763,6 +12871,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.937857,
                         44.567208
                   ]
+            },
+            {
+                  "name": "Domeniul Știrbey",
+                  "text": "Das Domeniul Știrbey ist ein Park in der Stadt Buftea.",
+                  "category": "park",
+                  "coords": [
+                        25.939116,
+                        44.565947
+                  ]
             }
       ],
       "hu": [
@@ -12802,6 +12919,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.937857,
                         44.567208
+                  ]
+            },
+            {
+                  "name": "Domeniul Știrbey",
+                  "text": "A Domeniul Știrbey egy park Buftea városában.",
+                  "category": "park",
+                  "coords": [
+                        25.939116,
+                        44.565947
                   ]
             }
       ],
@@ -12843,6 +12969,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.937857,
                         44.567208
                   ]
+            },
+            {
+                  "name": "Domeniul Știrbey",
+                  "text": "Domeniul Știrbey este un parc situat în orașul Buftea.",
+                  "category": "park",
+                  "coords": [
+                        25.939116,
+                        44.565947
+                  ]
             }
       ],
       "en": [
@@ -12882,6 +13017,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.937857,
                         44.567208
+                  ]
+            },
+            {
+                  "name": "Domeniul Știrbey",
+                  "text": "Domeniul Știrbey is a park located in the city of Buftea.",
+                  "category": "park",
+                  "coords": [
+                        25.939116,
+                        44.565947
                   ]
             }
       ]
@@ -14355,6 +14499,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.963398,
                         44.376592
                   ]
+            },
+            {
+                  "name": "Biserica „Sfinții Ioachim și Ana”",
+                  "text": "Die Biserica „Sfinții Ioachim și Ana” ist eine Andachtsstätte in der Stadt Bragadiru.",
+                  "category": "religious",
+                  "coords": [
+                        25.989648,
+                        44.355804
+                  ]
             }
       ],
       "hu": [
@@ -14375,6 +14528,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.963398,
                         44.376592
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Ioachim și Ana”",
+                  "text": "A Biserica „Sfinții Ioachim și Ana” egy imahely Bragadiru városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.989648,
+                        44.355804
                   ]
             }
       ],
@@ -14397,6 +14559,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.963398,
                         44.376592
                   ]
+            },
+            {
+                  "name": "Biserica „Sfinții Ioachim și Ana”",
+                  "text": "Biserica „Sfinții Ioachim și Ana” este un loc de rugăciune din orașul Bragadiru.",
+                  "category": "religious",
+                  "coords": [
+                        25.989648,
+                        44.355804
+                  ]
             }
       ],
       "en": [
@@ -14417,6 +14588,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.963398,
                         44.376592
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Ioachim și Ana”",
+                  "text": "Biserica „Sfinții Ioachim și Ana” is a place of prayer in the city of Bragadiru.",
+                  "category": "religious",
+                  "coords": [
+                        25.989648,
+                        44.355804
                   ]
             }
       ]
@@ -14796,6 +14976,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.06676,
                         44.34776
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Mierlari",
+                  "text": "Die Biserica „Adormirea Maicii Domnului” - Mierlari ist eine Kirche in Copăceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.062137,
+                        44.335181
+                  ]
             }
       ],
       "hu": [
@@ -14824,6 +15013,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.06676,
                         44.34776
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Mierlari",
+                  "text": "A Biserica „Adormirea Maicii Domnului” - Mierlari egy templom Copăceni községben.",
+                  "category": "religious",
+                  "coords": [
+                        26.062137,
+                        44.335181
                   ]
             }
       ],
@@ -14854,6 +15052,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.06676,
                         44.34776
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Mierlari",
+                  "text": "Biserica „Adormirea Maicii Domnului” - Mierlari este o biserică din comuna Copăceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.062137,
+                        44.335181
+                  ]
             }
       ],
       "en": [
@@ -14882,6 +15089,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.06676,
                         44.34776
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Mierlari",
+                  "text": "Biserica „Adormirea Maicii Domnului” - Mierlari is a church located in Copăceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.062137,
+                        44.335181
                   ]
             }
       ]
@@ -15010,6 +15226,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.075719,
                         44.264209
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru”",
+                  "text": "Die Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru” ist ein religiöses Gebäude in Vidra.",
+                  "category": "religious",
+                  "coords": [
+                        26.079806,
+                        44.271437
+                  ]
             }
       ],
       "hu": [
@@ -15038,6 +15263,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.075719,
                         44.264209
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru”",
+                  "text": "A Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru” egy vallási épület Vidra községben.",
+                  "category": "religious",
+                  "coords": [
+                        26.079806,
+                        44.271437
                   ]
             }
       ],
@@ -15068,6 +15302,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.075719,
                         44.264209
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru”",
+                  "text": "Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru” este o clădire religioasă din Vidra.",
+                  "category": "religious",
+                  "coords": [
+                        26.079806,
+                        44.271437
+                  ]
             }
       ],
       "en": [
@@ -15096,6 +15339,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.075719,
                         44.264209
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru”",
+                  "text": "Biserica „Adormirea Maicii Domnului”, „Sfântul Dumitru” is a religious building in Vidra.",
+                  "category": "religious",
+                  "coords": [
+                        26.079806,
+                        44.271437
                   ]
             }
       ]
@@ -15333,6 +15585,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.188877,
                         44.637278
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Die Biserica „Adormirea Maicii Domnului” ist eine orthodoxe Kultstätte in Dascălu.",
+                  "category": "religious",
+                  "coords": [
+                        26.222434,
+                        44.603844
+                  ]
             }
       ],
       "hu": [
@@ -15343,6 +15604,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.188877,
                         44.637278
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "A Biserica „Adormirea Maicii Domnului” egy vallási épület Dascălu városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.222434,
+                        44.603844
                   ]
             }
       ],
@@ -15355,6 +15625,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.188877,
                         44.637278
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Biserica „Adormirea Maicii Domnului” este un lăcaș de cult din Dascălu.",
+                  "category": "religious",
+                  "coords": [
+                        26.222434,
+                        44.603844
+                  ]
             }
       ],
       "en": [
@@ -15365,6 +15644,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.188877,
                         44.637278
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Biserica „Adormirea Maicii Domnului” is a place of worship located in Dascălu.",
+                  "category": "religious",
+                  "coords": [
+                        26.222434,
+                        44.603844
                   ]
             }
       ]
@@ -15435,6 +15723,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.005017,
                         44.521522
                   ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Die Biserica „Sfinții Împărați Constantin și Elena” ist eine orthodoxe Kirche in Mogoșoaia.",
+                  "category": "religious",
+                  "coords": [
+                        25.956039,
+                        44.542138
+                  ]
             }
       ],
       "hu": [
@@ -15456,6 +15753,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.005017,
                         44.521522
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "A Biserica „Sfinții Împărați Constantin și Elena” egy ortodox templom Mogoșoaia településén.",
+                  "category": "religious",
+                  "coords": [
+                        25.956039,
+                        44.542138
                   ]
             }
       ],
@@ -15479,6 +15785,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.005017,
                         44.521522
                   ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Biserica „Sfinții Împărați Constantin și Elena” este o biserică ortodoxă din Mogoșoaia.",
+                  "category": "religious",
+                  "coords": [
+                        25.956039,
+                        44.542138
+                  ]
             }
       ],
       "en": [
@@ -15500,6 +15815,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.005017,
                         44.521522
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Biserica „Sfinții Împărați Constantin și Elena” is an Orthodox church in Mogoșoaia.",
+                  "category": "religious",
+                  "coords": [
+                        25.956039,
+                        44.542138
                   ]
             }
       ]
@@ -16185,6 +16509,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.247279,
                         44.521382
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Die Biserica „Sfântul Nicolae” ist eine orthodoxe Kirche in Găneasa.",
+                  "category": "religious",
+                  "coords": [
+                        26.254253,
+                        44.492098
+                  ]
             }
       ],
       "hu": [
@@ -16205,6 +16538,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.247279,
                         44.521382
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "A Biserica „Sfântul Nicolae” egy ortodox templom Găneasa területén.",
+                  "category": "religious",
+                  "coords": [
+                        26.254253,
+                        44.492098
                   ]
             }
       ],
@@ -16227,6 +16569,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.247279,
                         44.521382
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Biserica „Sfântul Nicolae” este o biserică ortodoxă din Găneasa.",
+                  "category": "religious",
+                  "coords": [
+                        26.254253,
+                        44.492098
+                  ]
             }
       ],
       "en": [
@@ -16247,6 +16598,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.247279,
                         44.521382
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Biserica „Sfântul Nicolae” is an Orthodox church in Găneasa.",
+                  "category": "religious",
+                  "coords": [
+                        26.254253,
+                        44.492098
                   ]
             }
       ]
@@ -16564,6 +16924,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.183158,
                         44.517387
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae\"",
+                  "text": "Biserica „Sfântul Nicolae“ ist eine lokale Kultstätte in Ștefăneștii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        26.138086,
+                        44.551074
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Împărați Constantin și Elena”, „Sfântul Nicolae”",
+                  "text": "Dies ist eine bedeutende Kultstätte in Ștefăneștii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        26.184917,
+                        44.533772
+                  ]
             }
       ],
       "hu": [
@@ -16593,6 +16971,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.183158,
                         44.517387
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae\"",
+                  "text": "A „Sfântul Nicolae” templom egy helyi istentiszteleti hely Ștefăneștii de Jos-ban.",
+                  "category": "religious",
+                  "coords": [
+                        26.138086,
+                        44.551074
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Împărați Constantin și Elena”, „Sfântul Nicolae”",
+                  "text": "Ez egy jelentős istentiszteleti hely Ștefăneștii de Jos-ban.",
+                  "category": "religious",
+                  "coords": [
+                        26.184917,
+                        44.533772
                   ]
             }
       ],
@@ -16624,6 +17020,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.183158,
                         44.517387
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae\"",
+                  "text": "Biserica „Sfântul Nicolae” este un lăcaș de cult din Ștefăneștii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        26.138086,
+                        44.551074
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Împărați Constantin și Elena”, „Sfântul Nicolae”",
+                  "text": "Biserica „Sfinții Împărați Constantin și Elena”, „Sfântul Nicolae” este un lăcaș de cult din Ștefăneștii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        26.184917,
+                        44.533772
+                  ]
             }
       ],
       "en": [
@@ -16653,6 +17067,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.183158,
                         44.517387
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae\"",
+                  "text": "Biserica „Sfântul Nicolae\" is a local place of worship in Ștefăneștii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        26.138086,
+                        44.551074
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Împărați Constantin și Elena”, „Sfântul Nicolae”",
+                  "text": "This is a prominent place of worship located in Ștefăneștii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        26.184917,
+                        44.533772
                   ]
             }
       ]
@@ -17230,10 +17662,50 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-corbeanca-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Biserica „Buna Vestire”",
+                  "text": "Die Biserica „Buna Vestire” ist ein lokales Gotteshaus in Corbeanca.",
+                  "category": "religious",
+                  "coords": [
+                        26.038812,
+                        44.595841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica „Buna Vestire”",
+                  "text": "A Biserica „Buna Vestire” egy helyi istentiszteleti hely Corbeanca településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.038812,
+                        44.595841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica „Buna Vestire”",
+                  "text": "Biserica „Buna Vestire” este un lăcaș de cult din Corbeanca.",
+                  "category": "religious",
+                  "coords": [
+                        26.038812,
+                        44.595841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biserica „Buna Vestire”",
+                  "text": "Biserica „Buna Vestire” is a local place of worship in Corbeanca.",
+                  "category": "religious",
+                  "coords": [
+                        26.038812,
+                        44.595841
+                  ]
+            }
+      ]
 }
   },
   {
@@ -17596,6 +18068,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.283134,
                         44.673591
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Măxineni",
+                  "text": "Biserica „Adormirea Maicii Domnului” - Măxineni ist eine Kultstätte in Grădiștea.",
+                  "category": "religious",
+                  "coords": [
+                        26.294139,
+                        44.664571
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților”",
+                  "text": "Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților” ist eine Kultstätte in Grădiștea.",
+                  "category": "religious",
+                  "coords": [
+                        26.260697,
+                        44.673202
+                  ]
             }
       ],
       "hu": [
@@ -17625,6 +18115,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.283134,
                         44.673591
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Măxineni",
+                  "text": "A Biserica „Adormirea Maicii Domnului” - Măxineni egy istentiszteleti hely Grădiștea településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.294139,
+                        44.664571
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților”",
+                  "text": "A Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților” egy vallási épület Grădiștea településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.260697,
+                        44.673202
                   ]
             }
       ],
@@ -17656,6 +18164,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.283134,
                         44.673591
                   ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Măxineni",
+                  "text": "Biserica „Adormirea Maicii Domnului” - Măxineni este un lăcaș de cult din Grădiștea.",
+                  "category": "religious",
+                  "coords": [
+                        26.294139,
+                        44.664571
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților”",
+                  "text": "Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților” este un lăcaș de cult situat în Grădiștea.",
+                  "category": "religious",
+                  "coords": [
+                        26.260697,
+                        44.673202
+                  ]
             }
       ],
       "en": [
@@ -17685,6 +18211,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.283134,
                         44.673591
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului” - Măxineni",
+                  "text": "Biserica „Adormirea Maicii Domnului” - Măxineni is a place of worship in Grădiștea.",
+                  "category": "religious",
+                  "coords": [
+                        26.294139,
+                        44.664571
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților”",
+                  "text": "Biserica „Sfânta Varvara”, „Duminica Tuturor Sfinților” is a place of worship located in Grădiștea.",
+                  "category": "religious",
+                  "coords": [
+                        26.260697,
+                        44.673202
                   ]
             }
       ]
@@ -17735,10 +18279,86 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-nuci-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Die Biserica „Sfântul Nicolae” ist ein Kirchengebäude in Nuci.",
+                  "category": "religious",
+                  "coords": [
+                        26.317688,
+                        44.679908
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului\"",
+                  "text": "Die Biserica „Adormirea Maicii Domnului” ist eine Kirche in Nuci.",
+                  "category": "religious",
+                  "coords": [
+                        26.350847,
+                        44.673374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "A Biserica „Sfântul Nicolae” egy vallási imahely Nuci településén.",
+                  "category": "religious",
+                  "coords": [
+                        26.317688,
+                        44.679908
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului\"",
+                  "text": "A Biserica „Adormirea Maicii Domnului” egy templom Nuci községben.",
+                  "category": "religious",
+                  "coords": [
+                        26.350847,
+                        44.673374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Biserica „Sfântul Nicolae” este un lăcaș de cult situat în Nuci.",
+                  "category": "religious",
+                  "coords": [
+                        26.317688,
+                        44.679908
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului\"",
+                  "text": "Biserica „Adormirea Maicii Domnului” este o biserică din localitatea Nuci.",
+                  "category": "religious",
+                  "coords": [
+                        26.350847,
+                        44.673374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Biserica „Sfântul Nicolae” is a religious place of worship in Nuci.",
+                  "category": "religious",
+                  "coords": [
+                        26.317688,
+                        44.679908
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului\"",
+                  "text": "Biserica „Adormirea Maicii Domnului” is a church building in Nuci.",
+                  "category": "religious",
+                  "coords": [
+                        26.350847,
+                        44.673374
+                  ]
+            }
+      ]
 }
   },
   {
@@ -18592,6 +19212,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.944914,
                         44.432337
                   ]
+            },
+            {
+                  "name": "Biserica „Cuvioasa Paraschiva”",
+                  "text": "Biserica „Cuvioasa Paraschiva” ist eine Kultstätte in Domnești.",
+                  "category": "religious",
+                  "coords": [
+                        25.909923,
+                        44.399871
+                  ]
+            },
+            {
+                  "name": "Biserica „Izvorul Tămăduirii”",
+                  "text": "Biserica „Izvorul Tămăduirii” ist eine Kultstätte in der Stadt Domnești.",
+                  "category": "religious",
+                  "coords": [
+                        25.916076,
+                        44.398644
+                  ]
             }
       ],
       "hu": [
@@ -18629,6 +19267,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.944914,
                         44.432337
+                  ]
+            },
+            {
+                  "name": "Biserica „Cuvioasa Paraschiva”",
+                  "text": "A Biserica „Cuvioasa Paraschiva” egy vallási épület Domnești településen.",
+                  "category": "religious",
+                  "coords": [
+                        25.909923,
+                        44.399871
+                  ]
+            },
+            {
+                  "name": "Biserica „Izvorul Tămăduirii”",
+                  "text": "A Biserica „Izvorul Tămăduirii” egy istentiszteleti hely Domnești területén.",
+                  "category": "religious",
+                  "coords": [
+                        25.916076,
+                        44.398644
                   ]
             }
       ],
@@ -18668,6 +19324,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.944914,
                         44.432337
                   ]
+            },
+            {
+                  "name": "Biserica „Cuvioasa Paraschiva”",
+                  "text": "Biserica „Cuvioasa Paraschiva” este un lăcaș de cult important din Domnești.",
+                  "category": "religious",
+                  "coords": [
+                        25.909923,
+                        44.399871
+                  ]
+            },
+            {
+                  "name": "Biserica „Izvorul Tămăduirii”",
+                  "text": "Biserica „Izvorul Tămăduirii” este un lăcaș de cult situat în Domnești.",
+                  "category": "religious",
+                  "coords": [
+                        25.916076,
+                        44.398644
+                  ]
             }
       ],
       "en": [
@@ -18705,6 +19379,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.944914,
                         44.432337
+                  ]
+            },
+            {
+                  "name": "Biserica „Cuvioasa Paraschiva”",
+                  "text": "Biserica „Cuvioasa Paraschiva” is a place of worship located in Domnești.",
+                  "category": "religious",
+                  "coords": [
+                        25.909923,
+                        44.399871
+                  ]
+            },
+            {
+                  "name": "Biserica „Izvorul Tămăduirii”",
+                  "text": "Biserica „Izvorul Tămăduirii” is a religious place of worship situated in Domnești.",
+                  "category": "religious",
+                  "coords": [
+                        25.916076,
+                        44.398644
                   ]
             }
       ]
@@ -19886,6 +20578,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.132538,
                         44.334307
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Die Biserica „Sfântul Nicolae” ist ein wichtiges Gotteshaus in Berceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.185784,
+                        44.315779
+                  ]
             }
       ],
       "hu": [
@@ -19914,6 +20615,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.132538,
                         44.334307
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "A Biserica „Sfântul Nicolae” egy fontos istentiszteleti hely Berceniben.",
+                  "category": "religious",
+                  "coords": [
+                        26.185784,
+                        44.315779
                   ]
             }
       ],
@@ -19944,6 +20654,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.132538,
                         44.334307
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Biserica „Sfântul Nicolae” este un lăcaș de cult important din Berceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.185784,
+                        44.315779
+                  ]
             }
       ],
       "en": [
@@ -19972,6 +20691,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.132538,
                         44.334307
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Biserica „Sfântul Nicolae” is an important place of worship in Berceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.185784,
+                        44.315779
                   ]
             }
       ]

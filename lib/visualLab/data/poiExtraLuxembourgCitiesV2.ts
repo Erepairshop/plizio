@@ -338,6 +338,60 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                         5.845379,
                         49.539637
                   ]
+            },
+            {
+                  "name": "Parc Gerlache",
+                  "text": "Der Parc Gerlache ist ein öffentlicher Park mit Grünflächen in Differdange.",
+                  "category": "park",
+                  "coords": [
+                        5.89017,
+                        49.523881
+                  ]
+            },
+            {
+                  "name": "Luxembourg Science Center",
+                  "text": "Das Luxembourg Science Center in Differdange ist ein interaktives Museum für Wissenschaft und Technik.",
+                  "category": "museum",
+                  "coords": [
+                        5.894364,
+                        49.522056
+                  ]
+            },
+            {
+                  "name": "Gaalgebierg",
+                  "text": "Gaalgebierg ist ein bekannter Gipfel und ein Naturgebiet in Differdange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918378,
+                        49.511242
+                  ]
+            },
+            {
+                  "name": "Rattem",
+                  "text": "Rattem ist ein markanter Gipfel in Differdange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.901169,
+                        49.512433
+                  ]
+            },
+            {
+                  "name": "Mine Hondsbesch",
+                  "text": "Die Mine Hondsbesch in Differdange diente während des Zweiten Weltkriegs als Zufluchtsort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.884291,
+                        49.531289
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "Saints-Pierre-et-Paul ist eine historische Kirche und Kultstätte in Differdange.",
+                  "category": "religious",
+                  "coords": [
+                        5.887914,
+                        49.536544
+                  ]
             }
       ],
       "hu": [
@@ -366,6 +420,60 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                   "coords": [
                         5.845379,
                         49.539637
+                  ]
+            },
+            {
+                  "name": "Parc Gerlache",
+                  "text": "A Parc Gerlache egy nyilvános park zöldterületekkel Differdange-ban.",
+                  "category": "park",
+                  "coords": [
+                        5.89017,
+                        49.523881
+                  ]
+            },
+            {
+                  "name": "Luxembourg Science Center",
+                  "text": "A differdange-i Luxembourg Science Center egy tudománynak és technológiának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.894364,
+                        49.522056
+                  ]
+            },
+            {
+                  "name": "Gaalgebierg",
+                  "text": "A Gaalgebierg egy nevezetes hegycsúcs Differdange-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918378,
+                        49.511242
+                  ]
+            },
+            {
+                  "name": "Rattem",
+                  "text": "A Rattem egy kiemelkedő hegycsúcs Differdange környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        5.901169,
+                        49.512433
+                  ]
+            },
+            {
+                  "name": "Mine Hondsbesch",
+                  "text": "A differdange-i Hondsbesch bánya menedékhelyként szolgált a második világháború alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        5.884291,
+                        49.531289
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "A Saints-Pierre-et-Paul egy történelmi templom Differdange-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.887914,
+                        49.536544
                   ]
             }
       ],
@@ -396,6 +504,60 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                         5.845379,
                         49.539637
                   ]
+            },
+            {
+                  "name": "Parc Gerlache",
+                  "text": "Parc Gerlache este un parc public care oferă spații verzi în Differdange.",
+                  "category": "park",
+                  "coords": [
+                        5.89017,
+                        49.523881
+                  ]
+            },
+            {
+                  "name": "Luxembourg Science Center",
+                  "text": "Luxembourg Science Center din Differdange este un muzeu dedicat științei și tehnologiei.",
+                  "category": "museum",
+                  "coords": [
+                        5.894364,
+                        49.522056
+                  ]
+            },
+            {
+                  "name": "Gaalgebierg",
+                  "text": "Gaalgebierg este un vârf notabil din Differdange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918378,
+                        49.511242
+                  ]
+            },
+            {
+                  "name": "Rattem",
+                  "text": "Rattem este un vârf proeminent situat în Differdange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.901169,
+                        49.512433
+                  ]
+            },
+            {
+                  "name": "Mine Hondsbesch",
+                  "text": "Mina Hondsbesch din Differdange a servit ca refugiu în timpul celui de-al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        5.884291,
+                        49.531289
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "Saints-Pierre-et-Paul este o biserică istorică și lăcaș de cult din Differdange.",
+                  "category": "religious",
+                  "coords": [
+                        5.887914,
+                        49.536544
+                  ]
             }
       ],
       "en": [
@@ -424,6 +586,60 @@ imageHint: "Blast furnaces in Belval district of Esch-sur-Alzette",
                   "coords": [
                         5.845379,
                         49.539637
+                  ]
+            },
+            {
+                  "name": "Parc Gerlache",
+                  "text": "Parc Gerlache is a public park offering green spaces in Differdange.",
+                  "category": "park",
+                  "coords": [
+                        5.89017,
+                        49.523881
+                  ]
+            },
+            {
+                  "name": "Luxembourg Science Center",
+                  "text": "The Luxembourg Science Center in Differdange is an interactive museum dedicated to science and technology.",
+                  "category": "museum",
+                  "coords": [
+                        5.894364,
+                        49.522056
+                  ]
+            },
+            {
+                  "name": "Gaalgebierg",
+                  "text": "Gaalgebierg is a notable peak and natural area located in Differdange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.918378,
+                        49.511242
+                  ]
+            },
+            {
+                  "name": "Rattem",
+                  "text": "Rattem is a prominent peak situated in Differdange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.901169,
+                        49.512433
+                  ]
+            },
+            {
+                  "name": "Mine Hondsbesch",
+                  "text": "Mine Hondsbesch in Differdange served as a bunker and refuge during World War II.",
+                  "category": "landmark",
+                  "coords": [
+                        5.884291,
+                        49.531289
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "Saints-Pierre-et-Paul is a historic church and place of worship located in Differdange.",
+                  "category": "religious",
+                  "coords": [
+                        5.887914,
+                        49.536544
                   ]
             }
       ]
@@ -888,7 +1104,340 @@ imageHint: "City hall and central square of Dudelange",
     },
     image: "/poi-images/luxembourg-dudelange-cities-v2.webp",
 },  {
-    id: "luxembourg-petange-cities-v2",
+    id: "luxembourg-petange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Industriel et Ferroviaire du Fond-de-Gras",
+                  "text": "Der Park Fond-de-Gras in Pétange widmet sich der lokalen Eisenbahn- und Industriegeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        5.857276,
+                        49.535176
+                  ]
+            },
+            {
+                  "name": "Hall Paul Wurth",
+                  "text": "Die Halle Paul Wurth in Pétange ist ein sehenswertes Museum für Industriegeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        5.861194,
+                        49.534941
+                  ]
+            },
+            {
+                  "name": "Titelberg",
+                  "text": "Der Titelberg ist ein bemerkenswerter Gipfel bei Pétange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.859465,
+                        49.53871
+                  ]
+            },
+            {
+                  "name": "Giele Botter",
+                  "text": "Giele Botter ist ein bekannter Gipfel in der Nähe von Pétange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.879264,
+                        49.545331
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Amalberge",
+                  "text": "Die Église Sainte-Amalberge ist eine historische Kultstätte in Pétange.",
+                  "category": "religious",
+                  "coords": [
+                        5.839523,
+                        49.546106
+                  ]
+            },
+            {
+                  "name": "Sainte-Madeleine",
+                  "text": "Sainte-Madeleine ist eine lokale Kultstätte in Pétange.",
+                  "category": "religious",
+                  "coords": [
+                        5.854862,
+                        49.544957
+                  ]
+            },
+            {
+                  "name": "Panorama Kordall",
+                  "text": "Das Panorama Kordall bietet einen malerischen Aussichtspunkt in Pétange.",
+                  "category": "natural",
+                  "coords": [
+                        5.881828,
+                        49.540666
+                  ]
+            },
+            {
+                  "name": "Ancien Quai de Chargement",
+                  "text": "Der Ancien Quai de Chargement besteht aus historischen Ruinen in Pétange.",
+                  "category": "historical",
+                  "coords": [
+                        5.868963,
+                        49.541671
+                  ]
+            },
+            {
+                  "name": "Mirador de Lamadelaine",
+                  "text": "Der Mirador de Lamadelaine ist ein Aussichtspunkt in der Stadt Pétange.",
+                  "category": "natural",
+                  "coords": [
+                        5.852042,
+                        49.543833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Industriel et Ferroviaire du Fond-de-Gras",
+                  "text": "A pétange-i Fond-de-Gras park a helyi vasúti és ipari történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.857276,
+                        49.535176
+                  ]
+            },
+            {
+                  "name": "Hall Paul Wurth",
+                  "text": "A pétange-i Paul Wurth Csarnok egy figyelemre méltó ipartörténeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.861194,
+                        49.534941
+                  ]
+            },
+            {
+                  "name": "Titelberg",
+                  "text": "A Titelberg egy figyelemre méltó hegycsúcs Pétange közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.859465,
+                        49.53871
+                  ]
+            },
+            {
+                  "name": "Giele Botter",
+                  "text": "A Giele Botter egy ismert hegycsúcs Pétange közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.879264,
+                        49.545331
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Amalberge",
+                  "text": "Az Église Sainte-Amalberge egy történelmi istentiszteleti hely Pétange-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.839523,
+                        49.546106
+                  ]
+            },
+            {
+                  "name": "Sainte-Madeleine",
+                  "text": "A Sainte-Madeleine egy helyi istentiszteleti hely Pétange-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.854862,
+                        49.544957
+                  ]
+            },
+            {
+                  "name": "Panorama Kordall",
+                  "text": "A Panorama Kordall festői kilátót kínál Pétange-ban.",
+                  "category": "natural",
+                  "coords": [
+                        5.881828,
+                        49.540666
+                  ]
+            },
+            {
+                  "name": "Ancien Quai de Chargement",
+                  "text": "Az Ancien Quai de Chargement történelmi romokból áll Pétange-ban.",
+                  "category": "historical",
+                  "coords": [
+                        5.868963,
+                        49.541671
+                  ]
+            },
+            {
+                  "name": "Mirador de Lamadelaine",
+                  "text": "A Mirador de Lamadelaine egy kilátó Pétange városában.",
+                  "category": "natural",
+                  "coords": [
+                        5.852042,
+                        49.543833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Industriel et Ferroviaire du Fond-de-Gras",
+                  "text": "Parcul Fond-de-Gras din Pétange este dedicat istoriei feroviare și industriale locale.",
+                  "category": "museum",
+                  "coords": [
+                        5.857276,
+                        49.535176
+                  ]
+            },
+            {
+                  "name": "Hall Paul Wurth",
+                  "text": "Hala Paul Wurth din Pétange este un muzeu notabil dedicat istoriei industriale.",
+                  "category": "museum",
+                  "coords": [
+                        5.861194,
+                        49.534941
+                  ]
+            },
+            {
+                  "name": "Titelberg",
+                  "text": "Titelberg este un vârf notabil din apropiere de Pétange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.859465,
+                        49.53871
+                  ]
+            },
+            {
+                  "name": "Giele Botter",
+                  "text": "Giele Botter este un vârf cunoscut din apropiere de Pétange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.879264,
+                        49.545331
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Amalberge",
+                  "text": "Église Sainte-Amalberge este un lăcaș de cult istoric în Pétange.",
+                  "category": "religious",
+                  "coords": [
+                        5.839523,
+                        49.546106
+                  ]
+            },
+            {
+                  "name": "Sainte-Madeleine",
+                  "text": "Sainte-Madeleine este un lăcaș de cult local din Pétange.",
+                  "category": "religious",
+                  "coords": [
+                        5.854862,
+                        49.544957
+                  ]
+            },
+            {
+                  "name": "Panorama Kordall",
+                  "text": "Panorama Kordall oferă un punct de belvedere pitoresc în Pétange.",
+                  "category": "natural",
+                  "coords": [
+                        5.881828,
+                        49.540666
+                  ]
+            },
+            {
+                  "name": "Ancien Quai de Chargement",
+                  "text": "Ancien Quai de Chargement este format din ruine istorice în Pétange.",
+                  "category": "historical",
+                  "coords": [
+                        5.868963,
+                        49.541671
+                  ]
+            },
+            {
+                  "name": "Mirador de Lamadelaine",
+                  "text": "Mirador de Lamadelaine este un punct de belvedere în orașul Pétange.",
+                  "category": "natural",
+                  "coords": [
+                        5.852042,
+                        49.543833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Industriel et Ferroviaire du Fond-de-Gras",
+                  "text": "The Fond-de-Gras park in Pétange is dedicated to the local railway and industrial history.",
+                  "category": "museum",
+                  "coords": [
+                        5.857276,
+                        49.535176
+                  ]
+            },
+            {
+                  "name": "Hall Paul Wurth",
+                  "text": "The Hall Paul Wurth in Pétange is a notable museum dedicated to industrial history.",
+                  "category": "museum",
+                  "coords": [
+                        5.861194,
+                        49.534941
+                  ]
+            },
+            {
+                  "name": "Titelberg",
+                  "text": "Titelberg is a notable peak near Pétange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.859465,
+                        49.53871
+                  ]
+            },
+            {
+                  "name": "Giele Botter",
+                  "text": "Giele Botter is a known peak near Pétange.",
+                  "category": "landmark",
+                  "coords": [
+                        5.879264,
+                        49.545331
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Amalberge",
+                  "text": "Église Sainte-Amalberge is a historic place of worship in Pétange.",
+                  "category": "religious",
+                  "coords": [
+                        5.839523,
+                        49.546106
+                  ]
+            },
+            {
+                  "name": "Sainte-Madeleine",
+                  "text": "Sainte-Madeleine is a local place of worship in Pétange.",
+                  "category": "religious",
+                  "coords": [
+                        5.854862,
+                        49.544957
+                  ]
+            },
+            {
+                  "name": "Panorama Kordall",
+                  "text": "Panorama Kordall offers a scenic viewpoint in Pétange.",
+                  "category": "natural",
+                  "coords": [
+                        5.881828,
+                        49.540666
+                  ]
+            },
+            {
+                  "name": "Ancien Quai de Chargement",
+                  "text": "Ancien Quai de Chargement consists of historic ruins in Pétange.",
+                  "category": "historical",
+                  "coords": [
+                        5.868963,
+                        49.541671
+                  ]
+            },
+            {
+                  "name": "Mirador de Lamadelaine",
+                  "text": "Mirador de Lamadelaine is a viewpoint in the city of Pétange.",
+                  "category": "natural",
+                  "coords": [
+                        5.852042,
+                        49.543833
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Petingen", hu: "Pétange", ro: "Pétange", en: "Pétange"},
@@ -934,7 +1483,160 @@ imageHint: "Historic steam train near Pétange station",
     },
     image: "/poi-images/luxembourg-petange-cities-v2.webp",
 },  {
-    id: "luxembourg-sanem-cities-v2",
+    id: "luxembourg-sanem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zolverknapp",
+                  "text": "Der Zolverknapp ist ein lokaler Gipfel, der einen erhöhten Blick über die Stadt Sanem bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.936619,
+                        49.526296
+                  ]
+            },
+            {
+                  "name": "Saint-Nicolas",
+                  "text": "Saint-Nicolas ist eine bekannte Kultstätte in Sanem.",
+                  "category": "religious",
+                  "coords": [
+                        5.937353,
+                        49.523655
+                  ]
+            },
+            {
+                  "name": "Zolwerknapp",
+                  "text": "Zolwerknapp ist ein malerischer Aussichtspunkt mit weitem Blick auf die Umgebung von Sanem.",
+                  "category": "natural",
+                  "coords": [
+                        5.938021,
+                        49.526923
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Dreckwiss",
+                  "text": "Das Naturschutzgebiet Réserve naturelle Dreckwiss befindet sich in Sanem.",
+                  "category": "natural",
+                  "coords": [
+                        5.904304,
+                        49.54978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zolverknapp",
+                  "text": "A Zolverknapp egy helyi hegycsúcs, amelyről kilátás nyílik Sanem városára.",
+                  "category": "landmark",
+                  "coords": [
+                        5.936619,
+                        49.526296
+                  ]
+            },
+            {
+                  "name": "Saint-Nicolas",
+                  "text": "A Saint-Nicolas egy nevezetes istentiszteleti hely Sanemben.",
+                  "category": "religious",
+                  "coords": [
+                        5.937353,
+                        49.523655
+                  ]
+            },
+            {
+                  "name": "Zolwerknapp",
+                  "text": "A Zolwerknapp egy festői kilátó, ahonnan csodálatos kilátás nyílik Sanem környékére.",
+                  "category": "natural",
+                  "coords": [
+                        5.938021,
+                        49.526923
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Dreckwiss",
+                  "text": "A Réserve naturelle Dreckwiss egy védett természetvédelmi terület Sanemben.",
+                  "category": "natural",
+                  "coords": [
+                        5.904304,
+                        49.54978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zolverknapp",
+                  "text": "Zolverknapp este un vârf local care oferă vederi înalte asupra orașului Sanem.",
+                  "category": "landmark",
+                  "coords": [
+                        5.936619,
+                        49.526296
+                  ]
+            },
+            {
+                  "name": "Saint-Nicolas",
+                  "text": "Saint-Nicolas este un loc de cult notabil situat în Sanem.",
+                  "category": "religious",
+                  "coords": [
+                        5.937353,
+                        49.523655
+                  ]
+            },
+            {
+                  "name": "Zolwerknapp",
+                  "text": "Zolwerknapp este un punct de belvedere pitoresc care oferă vederi ample asupra zonei Sanem.",
+                  "category": "natural",
+                  "coords": [
+                        5.938021,
+                        49.526923
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Dreckwiss",
+                  "text": "Réserve naturelle Dreckwiss este o rezervație naturală protejată situată în Sanem.",
+                  "category": "natural",
+                  "coords": [
+                        5.904304,
+                        49.54978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zolverknapp",
+                  "text": "Zolverknapp is a local peak providing elevated views over the town of Sanem.",
+                  "category": "landmark",
+                  "coords": [
+                        5.936619,
+                        49.526296
+                  ]
+            },
+            {
+                  "name": "Saint-Nicolas",
+                  "text": "Saint-Nicolas is a notable place of worship located in Sanem.",
+                  "category": "religious",
+                  "coords": [
+                        5.937353,
+                        49.523655
+                  ]
+            },
+            {
+                  "name": "Zolwerknapp",
+                  "text": "Zolwerknapp is a scenic viewpoint offering sweeping views of the Sanem area.",
+                  "category": "natural",
+                  "coords": [
+                        5.938021,
+                        49.526923
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Dreckwiss",
+                  "text": "Réserve naturelle Dreckwiss is a protected natural reserve located in Sanem.",
+                  "category": "natural",
+                  "coords": [
+                        5.904304,
+                        49.54978
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Sassenheim", hu: "Sanem", ro: "Sanem", en: "Sanem"},
@@ -980,7 +1682,268 @@ imageHint: "Sanem Castle and its surrounding gardens",
     },
     image: "/poi-images/luxembourg-sanem-cities-v2.webp",
 },  {
-    id: "luxembourg-hesperange-cities-v2",
+    id: "luxembourg-hesperange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hesperange Castle",
+                  "text": "Die Ruinen der Burg Hesperingen sind eine bekannte historische Sehenswürdigkeit in Hesperingen.",
+                  "category": "castle",
+                  "coords": [
+                        6.154362,
+                        49.57292
+                  ]
+            },
+            {
+                  "name": "Pont Victor Bodson",
+                  "text": "Die Victor-Bodson-Brücke ist ein beeindruckendes Brückenbauwerk in Hesperingen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153059,
+                        49.579246
+                  ]
+            },
+            {
+                  "name": "Jousefskierch",
+                  "text": "Die St.-Josef-Kirche ist ein historisches Gotteshaus in der Gemeinde Hesperingen.",
+                  "category": "religious",
+                  "coords": [
+                        6.161379,
+                        49.568567
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "Die Kirche Mariä Himmelfahrt ist ein zentraler religiöser Ort in Hesperingen.",
+                  "category": "religious",
+                  "coords": [
+                        6.155395,
+                        49.57336
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "Saint-Hubert ist eine Kultstätte in Hesperange.",
+                  "category": "religious",
+                  "coords": [
+                        6.171903,
+                        49.586314
+                  ]
+            },
+            {
+                  "name": "Theatre Ouvert Luxembourg",
+                  "text": "Das Theatre Ouvert Luxembourg ist ein lokales Theater in Hesperange.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142117,
+                        49.589712
+                  ]
+            },
+            {
+                  "name": "CELO",
+                  "text": "CELO ist ein Kunstzentrum in der Gemeinde Hesperange.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159522,
+                        49.571309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hesperange Castle",
+                  "text": "A hesperange-i várrom egy ismert történelmi látványosság Hesperange városában.",
+                  "category": "castle",
+                  "coords": [
+                        6.154362,
+                        49.57292
+                  ]
+            },
+            {
+                  "name": "Pont Victor Bodson",
+                  "text": "A Victor Bodson híd egy lenyűgöző hídépítmény Hesperange-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153059,
+                        49.579246
+                  ]
+            },
+            {
+                  "name": "Jousefskierch",
+                  "text": "A Szent József-templom egy történelmi imaház Hesperange községben.",
+                  "category": "religious",
+                  "coords": [
+                        6.161379,
+                        49.568567
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "A Mária Mennybevétele templom egy központi vallási helyszín Hesperange-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.155395,
+                        49.57336
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "A Saint-Hubert egy istentiszteleti hely Hesperange városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.171903,
+                        49.586314
+                  ]
+            },
+            {
+                  "name": "Theatre Ouvert Luxembourg",
+                  "text": "A Theatre Ouvert Luxembourg egy helyi színház Hesperange-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142117,
+                        49.589712
+                  ]
+            },
+            {
+                  "name": "CELO",
+                  "text": "A CELO egy művészeti központ Hesperange községében.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159522,
+                        49.571309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hesperange Castle",
+                  "text": "Ruinele castelului Hesperange sunt o atracție istorică cunoscută în Hesperange.",
+                  "category": "castle",
+                  "coords": [
+                        6.154362,
+                        49.57292
+                  ]
+            },
+            {
+                  "name": "Pont Victor Bodson",
+                  "text": "Podul Victor Bodson este o structură de pod impresionantă din Hesperange.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153059,
+                        49.579246
+                  ]
+            },
+            {
+                  "name": "Jousefskierch",
+                  "text": "Biserica Sfântul Iosif este un lăcaș de cult istoric din comuna Hesperange.",
+                  "category": "religious",
+                  "coords": [
+                        6.161379,
+                        49.568567
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "Biserica Adormirea Maicii Domnului este un loc religios central în Hesperange.",
+                  "category": "religious",
+                  "coords": [
+                        6.155395,
+                        49.57336
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "Saint-Hubert este un lăcaș de cult situat în Hesperange.",
+                  "category": "religious",
+                  "coords": [
+                        6.171903,
+                        49.586314
+                  ]
+            },
+            {
+                  "name": "Theatre Ouvert Luxembourg",
+                  "text": "Theatre Ouvert Luxembourg este un teatru local situat în Hesperange.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142117,
+                        49.589712
+                  ]
+            },
+            {
+                  "name": "CELO",
+                  "text": "CELO este un centru de arte din comunitatea Hesperange.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159522,
+                        49.571309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hesperange Castle",
+                  "text": "The ruins of Hesperange Castle are a well-known historical attraction in Hesperange.",
+                  "category": "castle",
+                  "coords": [
+                        6.154362,
+                        49.57292
+                  ]
+            },
+            {
+                  "name": "Pont Victor Bodson",
+                  "text": "The Victor Bodson Bridge is an impressive bridge structure in Hesperange.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153059,
+                        49.579246
+                  ]
+            },
+            {
+                  "name": "Jousefskierch",
+                  "text": "St. Joseph's Church is a historical place of worship in the municipality of Hesperange.",
+                  "category": "religious",
+                  "coords": [
+                        6.161379,
+                        49.568567
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "The Church of the Assumption of the Blessed Virgin Mary is a central religious site in Hesperange.",
+                  "category": "religious",
+                  "coords": [
+                        6.155395,
+                        49.57336
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "Saint-Hubert is a place of worship located in Hesperange.",
+                  "category": "religious",
+                  "coords": [
+                        6.171903,
+                        49.586314
+                  ]
+            },
+            {
+                  "name": "Theatre Ouvert Luxembourg",
+                  "text": "Theatre Ouvert Luxembourg is a local theatre situated in Hesperange.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142117,
+                        49.589712
+                  ]
+            },
+            {
+                  "name": "CELO",
+                  "text": "CELO is an arts centre serving the community of Hesperange.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159522,
+                        49.571309
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Hesperingen", hu: "Hesperange", ro: "Hesperange", en: "Hesperange"},
@@ -4092,7 +5055,88 @@ imageHint: "Modern architecture of Les Thermes in Strassen",
     },
     image: "/poi-images/luxembourg-strassen-cities-v2.webp",
 },  {
-    id: "luxembourg-bertrange-cities-v2",
+    id: "luxembourg-bertrange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zeiwelt",
+                  "text": "Zeiwelt ist ein geschütztes Naturschutzgebiet in Bertrange.",
+                  "category": "natural",
+                  "coords": [
+                        6.044438,
+                        49.592434
+                  ]
+            },
+            {
+                  "name": "Sicona Ouest",
+                  "text": "Sicona Ouest ist ein lokales Naturschutzgebiet in Bertrange.",
+                  "category": "natural",
+                  "coords": [
+                        6.032879,
+                        49.588989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zeiwelt",
+                  "text": "A Zeiwelt egy védett természetvédelmi terület Bertrange-ban.",
+                  "category": "natural",
+                  "coords": [
+                        6.044438,
+                        49.592434
+                  ]
+            },
+            {
+                  "name": "Sicona Ouest",
+                  "text": "A Sicona Ouest egy helyi természetvédelmi terület Bertrange-ban.",
+                  "category": "natural",
+                  "coords": [
+                        6.032879,
+                        49.588989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zeiwelt",
+                  "text": "Zeiwelt este o rezervație naturală protejată situată în Bertrange.",
+                  "category": "natural",
+                  "coords": [
+                        6.044438,
+                        49.592434
+                  ]
+            },
+            {
+                  "name": "Sicona Ouest",
+                  "text": "Sicona Ouest este o rezervație naturală locală situată în Bertrange.",
+                  "category": "natural",
+                  "coords": [
+                        6.032879,
+                        49.588989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zeiwelt",
+                  "text": "Zeiwelt is a protected nature reserve located in Bertrange.",
+                  "category": "natural",
+                  "coords": [
+                        6.044438,
+                        49.592434
+                  ]
+            },
+            {
+                  "name": "Sicona Ouest",
+                  "text": "Sicona Ouest is a local nature reserve situated in Bertrange.",
+                  "category": "natural",
+                  "coords": [
+                        6.032879,
+                        49.588989
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Bartringen", hu: "Bertrange", ro: "Bertrange", en: "Bertrange"},
@@ -4913,7 +5957,340 @@ imageHint: "Walferdange Castle facade",
     },
     image: "/poi-images/luxembourg-walferdange-cities-v2.webp",
 },  {
-    id: "luxembourg-junglinster-cities-v2",
+    id: "luxembourg-junglinster-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve naturelle Weimericht",
+                  "text": "Die Réserve naturelle Weimericht ist ein anerkanntes Naturschutzgebiet in Junglinster zum Erhalt lokaler Lebensräume.",
+                  "category": "natural",
+                  "coords": [
+                        6.270451,
+                        49.709239
+                  ]
+            },
+            {
+                  "name": "Bourglinster Castle",
+                  "text": "Das Schloss Bourglinster ist eine historische Festung in Junglinster, die für ihre kulturellen Veranstaltungen bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        6.21728,
+                        49.702583
+                  ]
+            },
+            {
+                  "name": "Château de Weymerich",
+                  "text": "Das Château de Weymerich ist ein bemerkenswertes historisches Schloss in Junglinster.",
+                  "category": "castle",
+                  "coords": [
+                        6.272804,
+                        49.702693
+                  ]
+            },
+            {
+                  "name": "Mäerteskierch",
+                  "text": "Die Mäerteskierch ist eine bedeutende, dem Heiligen Martin geweihte Kirche in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.252219,
+                        49.714553
+                  ]
+            },
+            {
+                  "name": "Saint-Sébastien",
+                  "text": "Saint-Sébastien ist eine anerkannte lokale Kirche und Kultstätte in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.24981,
+                        49.694177
+                  ]
+            },
+            {
+                  "name": "Haupeschkapell",
+                  "text": "Haupeschkapell ist eine bemerkenswerte Kapelle und Kultstätte in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.21573,
+                        49.721095
+                  ]
+            },
+            {
+                  "name": "Immaculée-Conception",
+                  "text": "Immaculée-Conception ist eine markante Kirche und Kultstätte in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.219659,
+                        49.703224
+                  ]
+            },
+            {
+                  "name": "Altlinster",
+                  "text": "Altlinster bietet einen malerischen Aussichtspunkt im Gebiet von Junglinster.",
+                  "category": "natural",
+                  "coords": [
+                        6.218254,
+                        49.701649
+                  ]
+            },
+            {
+                  "name": "Scheiferei",
+                  "text": "Scheiferei ist ein lokaler Aussichtspunkt mit Panoramablick in Junglinster.",
+                  "category": "natural",
+                  "coords": [
+                        6.216231,
+                        49.702131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve naturelle Weimericht",
+                  "text": "A Réserve naturelle Weimericht egy elismert természetvédelmi terület Junglinsterben.",
+                  "category": "natural",
+                  "coords": [
+                        6.270451,
+                        49.709239
+                  ]
+            },
+            {
+                  "name": "Bourglinster Castle",
+                  "text": "A Bourglinsteri kastély egy történelmi erődítmény Junglinsterben, amely kulturális eseményekről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        6.21728,
+                        49.702583
+                  ]
+            },
+            {
+                  "name": "Château de Weymerich",
+                  "text": "A Château de Weymerich egy nevezetes történelmi kastély Junglinsterben.",
+                  "category": "castle",
+                  "coords": [
+                        6.272804,
+                        49.702693
+                  ]
+            },
+            {
+                  "name": "Mäerteskierch",
+                  "text": "A Mäerteskierch egy Szent Mártonnak szentelt jelentős templom Junglinsterben.",
+                  "category": "religious",
+                  "coords": [
+                        6.252219,
+                        49.714553
+                  ]
+            },
+            {
+                  "name": "Saint-Sébastien",
+                  "text": "A Saint-Sébastien egy elismert helyi templom és imahely Junglinsterben.",
+                  "category": "religious",
+                  "coords": [
+                        6.24981,
+                        49.694177
+                  ]
+            },
+            {
+                  "name": "Haupeschkapell",
+                  "text": "A Haupeschkapell egy nevezetes kápolna és imahely Junglinsterben.",
+                  "category": "religious",
+                  "coords": [
+                        6.21573,
+                        49.721095
+                  ]
+            },
+            {
+                  "name": "Immaculée-Conception",
+                  "text": "Az Immaculée-Conception egy kiemelkedő templom és imahely Junglinsterben.",
+                  "category": "religious",
+                  "coords": [
+                        6.219659,
+                        49.703224
+                  ]
+            },
+            {
+                  "name": "Altlinster",
+                  "text": "Altlinster egy festői kilátópontot kínál Junglinster területén.",
+                  "category": "natural",
+                  "coords": [
+                        6.218254,
+                        49.701649
+                  ]
+            },
+            {
+                  "name": "Scheiferei",
+                  "text": "A Scheiferei egy helyi kilátó, amely panorámás kilátást nyújt Junglinsterben.",
+                  "category": "natural",
+                  "coords": [
+                        6.216231,
+                        49.702131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve naturelle Weimericht",
+                  "text": "Réserve naturelle Weimericht este o rezervație naturală recunoscută din Junglinster care protejează habitatele locale.",
+                  "category": "natural",
+                  "coords": [
+                        6.270451,
+                        49.709239
+                  ]
+            },
+            {
+                  "name": "Bourglinster Castle",
+                  "text": "Castelul Bourglinster este o fortăreață istorică din Junglinster, cunoscută pentru găzduirea de evenimente culturale.",
+                  "category": "castle",
+                  "coords": [
+                        6.21728,
+                        49.702583
+                  ]
+            },
+            {
+                  "name": "Château de Weymerich",
+                  "text": "Château de Weymerich este un castel istoric notabil situat în Junglinster.",
+                  "category": "castle",
+                  "coords": [
+                        6.272804,
+                        49.702693
+                  ]
+            },
+            {
+                  "name": "Mäerteskierch",
+                  "text": "Mäerteskierch este un lăcaș de cult notabil închinat Sfântului Martin din Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.252219,
+                        49.714553
+                  ]
+            },
+            {
+                  "name": "Saint-Sébastien",
+                  "text": "Saint-Sébastien este o biserică locală recunoscută și lăcaș de cult în Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.24981,
+                        49.694177
+                  ]
+            },
+            {
+                  "name": "Haupeschkapell",
+                  "text": "Haupeschkapell este o capelă notabilă ce servește drept lăcaș de cult în Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.21573,
+                        49.721095
+                  ]
+            },
+            {
+                  "name": "Immaculée-Conception",
+                  "text": "Immaculée-Conception este o biserică proeminentă și lăcaș de cult din Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.219659,
+                        49.703224
+                  ]
+            },
+            {
+                  "name": "Altlinster",
+                  "text": "Altlinster oferă un punct de belvedere pitoresc în zona Junglinster.",
+                  "category": "natural",
+                  "coords": [
+                        6.218254,
+                        49.701649
+                  ]
+            },
+            {
+                  "name": "Scheiferei",
+                  "text": "Scheiferei este un punct de belvedere local ce oferă vederi panoramice în Junglinster.",
+                  "category": "natural",
+                  "coords": [
+                        6.216231,
+                        49.702131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve naturelle Weimericht",
+                  "text": "Réserve naturelle Weimericht is a recognized nature reserve in Junglinster that protects local habitats.",
+                  "category": "natural",
+                  "coords": [
+                        6.270451,
+                        49.709239
+                  ]
+            },
+            {
+                  "name": "Bourglinster Castle",
+                  "text": "Bourglinster Castle is a historic fortress in Junglinster known for hosting cultural events.",
+                  "category": "castle",
+                  "coords": [
+                        6.21728,
+                        49.702583
+                  ]
+            },
+            {
+                  "name": "Château de Weymerich",
+                  "text": "Château de Weymerich is a notable historic castle situated in Junglinster.",
+                  "category": "castle",
+                  "coords": [
+                        6.272804,
+                        49.702693
+                  ]
+            },
+            {
+                  "name": "Mäerteskierch",
+                  "text": "Mäerteskierch is a notable place of worship dedicated to Saint Martin in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.252219,
+                        49.714553
+                  ]
+            },
+            {
+                  "name": "Saint-Sébastien",
+                  "text": "Saint-Sébastien is a recognized local church and place of worship in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.24981,
+                        49.694177
+                  ]
+            },
+            {
+                  "name": "Haupeschkapell",
+                  "text": "Haupeschkapell is a notable chapel serving as a place of worship in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.21573,
+                        49.721095
+                  ]
+            },
+            {
+                  "name": "Immaculée-Conception",
+                  "text": "Immaculée-Conception is a prominent church and place of worship in Junglinster.",
+                  "category": "religious",
+                  "coords": [
+                        6.219659,
+                        49.703224
+                  ]
+            },
+            {
+                  "name": "Altlinster",
+                  "text": "Altlinster offers a scenic viewpoint in the Junglinster area.",
+                  "category": "natural",
+                  "coords": [
+                        6.218254,
+                        49.701649
+                  ]
+            },
+            {
+                  "name": "Scheiferei",
+                  "text": "Scheiferei is a local viewpoint providing panoramic views in Junglinster.",
+                  "category": "natural",
+                  "coords": [
+                        6.216231,
+                        49.702131
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Junglinster", hu: "Junglinster", ro: "Junglinster", en: "Junglinster"},
@@ -8260,7 +9637,196 @@ imageHint: "Rural landscape and fields near Roeser",
     },
     image: "/poi-images/luxembourg-roeser-cities-v2.webp",
 },  {
-    id: "luxembourg-steinsel-cities-v2",
+    id: "luxembourg-steinsel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Saint-Joseph ist eine Kirche und Kultstätte in Steinsel.",
+                  "category": "religious",
+                  "coords": [
+                        6.140932,
+                        49.689464
+                  ]
+            },
+            {
+                  "name": "Haupeschkierch",
+                  "text": "Haupeschkierch ist eine Kultstätte in der Stadt Steinsel.",
+                  "category": "religious",
+                  "coords": [
+                        6.129746,
+                        49.696735
+                  ]
+            },
+            {
+                  "name": "Fautefiels",
+                  "text": "Fautefiels ist ein malerischer Aussichtspunkt in Steinsel.",
+                  "category": "natural",
+                  "coords": [
+                        6.149979,
+                        49.694065
+                  ]
+            },
+            {
+                  "name": "Kohlemeiler",
+                  "text": "Kohlemeiler ist eine Attraktion in der Stadt Steinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.151977,
+                        49.69424
+                  ]
+            },
+            {
+                  "name": "Centre culturel Helmdange",
+                  "text": "Ein Kunst- und Kulturzentrum in Steinsel.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14057,
+                        49.693144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "A Saint-Joseph egy templom és istentiszteleti hely Steinselben.",
+                  "category": "religious",
+                  "coords": [
+                        6.140932,
+                        49.689464
+                  ]
+            },
+            {
+                  "name": "Haupeschkierch",
+                  "text": "A Haupeschkierch egy istentiszteleti hely Steinsel városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.129746,
+                        49.696735
+                  ]
+            },
+            {
+                  "name": "Fautefiels",
+                  "text": "A Fautefiels egy festői kilátópont Steinselben.",
+                  "category": "natural",
+                  "coords": [
+                        6.149979,
+                        49.694065
+                  ]
+            },
+            {
+                  "name": "Kohlemeiler",
+                  "text": "A Kohlemeiler egy látványosság Steinsel városában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.151977,
+                        49.69424
+                  ]
+            },
+            {
+                  "name": "Centre culturel Helmdange",
+                  "text": "Művészeti és kulturális központ Steinselben.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14057,
+                        49.693144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Saint-Joseph este o biserică și lăcaș de cult situat în Steinsel.",
+                  "category": "religious",
+                  "coords": [
+                        6.140932,
+                        49.689464
+                  ]
+            },
+            {
+                  "name": "Haupeschkierch",
+                  "text": "Haupeschkierch este un lăcaș de cult situat în orașul Steinsel.",
+                  "category": "religious",
+                  "coords": [
+                        6.129746,
+                        49.696735
+                  ]
+            },
+            {
+                  "name": "Fautefiels",
+                  "text": "Fautefiels este un punct de belvedere pitoresc situat în Steinsel.",
+                  "category": "natural",
+                  "coords": [
+                        6.149979,
+                        49.694065
+                  ]
+            },
+            {
+                  "name": "Kohlemeiler",
+                  "text": "Kohlemeiler este o atracție situată în orașul Steinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.151977,
+                        49.69424
+                  ]
+            },
+            {
+                  "name": "Centre culturel Helmdange",
+                  "text": "Un centru de arte și cultură situat în Steinsel.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14057,
+                        49.693144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Saint-Joseph is a church and place of worship located in Steinsel.",
+                  "category": "religious",
+                  "coords": [
+                        6.140932,
+                        49.689464
+                  ]
+            },
+            {
+                  "name": "Haupeschkierch",
+                  "text": "Haupeschkierch is a place of worship located in the town of Steinsel.",
+                  "category": "religious",
+                  "coords": [
+                        6.129746,
+                        49.696735
+                  ]
+            },
+            {
+                  "name": "Fautefiels",
+                  "text": "Fautefiels is a scenic viewpoint situated in Steinsel.",
+                  "category": "natural",
+                  "coords": [
+                        6.149979,
+                        49.694065
+                  ]
+            },
+            {
+                  "name": "Kohlemeiler",
+                  "text": "Kohlemeiler is an attraction located in the town of Steinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.151977,
+                        49.69424
+                  ]
+            },
+            {
+                  "name": "Centre culturel Helmdange",
+                  "text": "An arts and cultural center located in Steinsel.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14057,
+                        49.693144
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Steinsel", hu: "Steinsel", ro: "Steinsel", en: "Steinsel"},
@@ -8306,7 +9872,340 @@ imageHint: "Strawberry fields in the Alzette valley near Steinsel",
     },
     image: "/poi-images/luxembourg-steinsel-cities-v2.webp",
 },  {
-    id: "luxembourg-niederanven-cities-v2",
+    id: "luxembourg-niederanven-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint-Jean-Baptiste",
+                  "text": "Saint-Jean-Baptiste ist eine Kultstätte in der Gemeinde Niederanven.",
+                  "category": "religious",
+                  "coords": [
+                        6.232893,
+                        49.658242
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "Assomption de la Bienheureuse-Vierge-Marie ist ein katholisches Gotteshaus in Niederanven.",
+                  "category": "religious",
+                  "coords": [
+                        6.246116,
+                        49.649174
+                  ]
+            },
+            {
+                  "name": "Plane spotting",
+                  "text": "Dieser Standort bietet einen offenen Aussichtspunkt für die Flugzeugbeobachtung bei Niederanven.",
+                  "category": "natural",
+                  "coords": [
+                        6.234584,
+                        49.638067
+                  ]
+            },
+            {
+                  "name": "Plane Spotting006",
+                  "text": "Plane Spotting006 ist ein ausgewiesener Aussichtspunkt zur Beobachtung von Flugzeugen rund um Niederanven.",
+                  "category": "natural",
+                  "coords": [
+                        6.239195,
+                        49.633344
+                  ]
+            },
+            {
+                  "name": "Plane Spotting005",
+                  "text": "Plane Spotting005 ist ein lokaler Aussichtspunkt in Niederanven, der für die Flugbeobachtung beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.233708,
+                        49.631977
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Aarnescht",
+                  "text": "Die Réserve naturelle Aarnescht ist ein Naturschutzgebiet in Niederanven, das für sein besonderes Ökosystem bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.252111,
+                        49.667314
+                  ]
+            },
+            {
+                  "name": "Schlammwiss",
+                  "text": "Schlammwiss ist eine Naturattraktion von ökologischem Interesse in der Gegend von Niederanven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.274949,
+                        49.63921
+                  ]
+            },
+            {
+                  "name": "Gallierduerf",
+                  "text": "Gallierduerf ist eine historische und kulturelle Attraktion in Niederanven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.292053,
+                        49.663907
+                  ]
+            },
+            {
+                  "name": "1911",
+                  "text": "Diese kleine Wegkapelle in Niederanven bietet einen ruhigen Ort zum Nachdenken.",
+                  "category": "landmark",
+                  "coords": [
+                        6.235024,
+                        49.649511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Jean-Baptiste",
+                  "text": "A Saint-Jean-Baptiste egy istentiszteleti hely Niederanven községében.",
+                  "category": "religious",
+                  "coords": [
+                        6.232893,
+                        49.658242
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "Az Assomption de la Bienheureuse-Vierge-Marie egy katolikus istentiszteleti hely Niederanvenben.",
+                  "category": "religious",
+                  "coords": [
+                        6.246116,
+                        49.649174
+                  ]
+            },
+            {
+                  "name": "Plane spotting",
+                  "text": "Ez a hely nyitott kilátópontot kínál repülőgép-megfigyelésre Niederanven közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.234584,
+                        49.638067
+                  ]
+            },
+            {
+                  "name": "Plane Spotting006",
+                  "text": "A Plane Spotting006 egy kijelölt kilátópont repülőgépek megfigyelésére Niederanven környékén.",
+                  "category": "natural",
+                  "coords": [
+                        6.239195,
+                        49.633344
+                  ]
+            },
+            {
+                  "name": "Plane Spotting005",
+                  "text": "A Plane Spotting005 egy helyi kilátópont Niederanvenben, amelyet kedvelnek a járatok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        6.233708,
+                        49.631977
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Aarnescht",
+                  "text": "A Réserve naturelle Aarnescht egy védett természetvédelmi terület Niederanvenben, amely különleges ökoszisztémájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.252111,
+                        49.667314
+                  ]
+            },
+            {
+                  "name": "Schlammwiss",
+                  "text": "A Schlammwiss egy ökológiai érdeklődésre számot tartó természeti látványosság Niederanven környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.274949,
+                        49.63921
+                  ]
+            },
+            {
+                  "name": "Gallierduerf",
+                  "text": "A Gallierduerf egy történelmi és kulturális látványosság Niederanvenben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.292053,
+                        49.663907
+                  ]
+            },
+            {
+                  "name": "1911",
+                  "text": "Ez a kis útszéli kápolna Niederanvenben csendes helyet kínál az elmélkedésre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.235024,
+                        49.649511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint-Jean-Baptiste",
+                  "text": "Saint-Jean-Baptiste este un lăcaș de cult situat în comuna Niederanven.",
+                  "category": "religious",
+                  "coords": [
+                        6.232893,
+                        49.658242
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "Assomption de la Bienheureuse-Vierge-Marie este un lăcaș de cult catolic situat în Niederanven.",
+                  "category": "religious",
+                  "coords": [
+                        6.246116,
+                        49.649174
+                  ]
+            },
+            {
+                  "name": "Plane spotting",
+                  "text": "Această locație oferă un punct de belvedere deschis pentru observarea avioanelor lângă Niederanven.",
+                  "category": "natural",
+                  "coords": [
+                        6.234584,
+                        49.638067
+                  ]
+            },
+            {
+                  "name": "Plane Spotting006",
+                  "text": "Plane Spotting006 este un punct de belvedere desemnat pentru observarea aeronavelor din jurul Niederanven.",
+                  "category": "natural",
+                  "coords": [
+                        6.239195,
+                        49.633344
+                  ]
+            },
+            {
+                  "name": "Plane Spotting005",
+                  "text": "Plane Spotting005 este un punct de belvedere local din Niederanven favorizat pentru urmărirea zborurilor.",
+                  "category": "natural",
+                  "coords": [
+                        6.233708,
+                        49.631977
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Aarnescht",
+                  "text": "Réserve naturelle Aarnescht este o rezervație naturală protejată din Niederanven cunoscută pentru ecosistemul său distinct.",
+                  "category": "natural",
+                  "coords": [
+                        6.252111,
+                        49.667314
+                  ]
+            },
+            {
+                  "name": "Schlammwiss",
+                  "text": "Schlammwiss este o atracție naturală care oferă un interes ecologic în zona Niederanven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.274949,
+                        49.63921
+                  ]
+            },
+            {
+                  "name": "Gallierduerf",
+                  "text": "Gallierduerf este o atracție istorică și culturală situată în Niederanven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.292053,
+                        49.663907
+                  ]
+            },
+            {
+                  "name": "1911",
+                  "text": "Această mică capelă de pe marginea drumului din Niederanven oferă un loc liniștit pentru reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        6.235024,
+                        49.649511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint-Jean-Baptiste",
+                  "text": "Saint-Jean-Baptiste is a place of worship situated in the commune of Niederanven.",
+                  "category": "religious",
+                  "coords": [
+                        6.232893,
+                        49.658242
+                  ]
+            },
+            {
+                  "name": "Assomption de la Bienheureuse-Vierge-Marie",
+                  "text": "Assomption de la Bienheureuse-Vierge-Marie is a Catholic place of worship located in Niederanven.",
+                  "category": "religious",
+                  "coords": [
+                        6.246116,
+                        49.649174
+                  ]
+            },
+            {
+                  "name": "Plane spotting",
+                  "text": "This location offers an open viewpoint for plane spotting near Niederanven.",
+                  "category": "natural",
+                  "coords": [
+                        6.234584,
+                        49.638067
+                  ]
+            },
+            {
+                  "name": "Plane Spotting006",
+                  "text": "Plane Spotting006 is a designated viewpoint for observing aircraft around Niederanven.",
+                  "category": "natural",
+                  "coords": [
+                        6.239195,
+                        49.633344
+                  ]
+            },
+            {
+                  "name": "Plane Spotting005",
+                  "text": "Plane Spotting005 is a local viewpoint in Niederanven favored for watching flights.",
+                  "category": "natural",
+                  "coords": [
+                        6.233708,
+                        49.631977
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle Aarnescht",
+                  "text": "Réserve naturelle Aarnescht is a protected nature reserve in Niederanven known for its distinct ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        6.252111,
+                        49.667314
+                  ]
+            },
+            {
+                  "name": "Schlammwiss",
+                  "text": "Schlammwiss is a natural attraction offering ecological interest in the Niederanven area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.274949,
+                        49.63921
+                  ]
+            },
+            {
+                  "name": "Gallierduerf",
+                  "text": "Gallierduerf is a historical and cultural attraction located in Niederanven.",
+                  "category": "landmark",
+                  "coords": [
+                        6.292053,
+                        49.663907
+                  ]
+            },
+            {
+                  "name": "1911",
+                  "text": "This small wayside chapel in Niederanven offers a quiet place for reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        6.235024,
+                        49.649511
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Niederanven", hu: "Niederanven", ro: "Niederanven", en: "Niederanven"},
@@ -8731,7 +10630,304 @@ imageHint: "Mining cart outside the museum in Rumelange",
     },
     image: "/poi-images/luxembourg-rumelange-cities-v2.webp",
 },  {
-    id: "luxembourg-steinfort-cities-v2",
+    id: "luxembourg-steinfort-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eech zu Klengbetten",
+                  "text": "Die Eech zu Klengbetten ist eine bekannte, markante Eiche und Attraktion in Steinfort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914496,
+                        49.646693
+                  ]
+            },
+            {
+                  "name": "Saint-Antoine-l'Ermite",
+                  "text": "Saint-Antoine-l'Ermite ist eine Kultstätte und Kirche in Steinfort.",
+                  "category": "religious",
+                  "coords": [
+                        5.930564,
+                        49.648661
+                  ]
+            },
+            {
+                  "name": "Sainte-Walburge",
+                  "text": "Sainte-Walburge ist eine bekannte Kultstätte in der Gemeinde Steinfort.",
+                  "category": "religious",
+                  "coords": [
+                        5.91552,
+                        49.659288
+                  ]
+            },
+            {
+                  "name": "Steekollen",
+                  "text": "Steekollen ist ein Naturschutzgebiet bei Steinfort.",
+                  "category": "natural",
+                  "coords": [
+                        5.905815,
+                        49.666788
+                  ]
+            },
+            {
+                  "name": "Kaarlsbierg",
+                  "text": "Kaarlsbierg ist eine archäologische Stätte in Steinfort.",
+                  "category": "historical",
+                  "coords": [
+                        5.878159,
+                        49.6709
+                  ]
+            },
+            {
+                  "name": "Château des Comtes de Berlaymont",
+                  "text": "Das Château des Comtes de Berlaymont ist eine historische Burg in der Stadt Steinfort.",
+                  "category": "castle",
+                  "coords": [
+                        5.888952,
+                        49.647145
+                  ]
+            },
+            {
+                  "name": "Beech Forest",
+                  "text": "Der Beech Forest ist eine natürliche Attraktion in Steinfort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.906102,
+                        49.670312
+                  ]
+            },
+            {
+                  "name": "Administration Communale de Steinfort",
+                  "text": "Die Administration Communale de Steinfort dient als Informationszentrum für die Gemeinde.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914306,
+                        49.660026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eech zu Klengbetten",
+                  "text": "Az Eech zu Klengbetten egy nevezetes tölgyfa és látnivaló Steinfortban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914496,
+                        49.646693
+                  ]
+            },
+            {
+                  "name": "Saint-Antoine-l'Ermite",
+                  "text": "A Saint-Antoine-l'Ermite egy vallási helyszín Steinfortban.",
+                  "category": "religious",
+                  "coords": [
+                        5.930564,
+                        49.648661
+                  ]
+            },
+            {
+                  "name": "Sainte-Walburge",
+                  "text": "A Sainte-Walburge egy nevezetes istentiszteleti hely Steinfort városában.",
+                  "category": "religious",
+                  "coords": [
+                        5.91552,
+                        49.659288
+                  ]
+            },
+            {
+                  "name": "Steekollen",
+                  "text": "A Steekollen egy természetvédelmi terület Steinfort közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.905815,
+                        49.666788
+                  ]
+            },
+            {
+                  "name": "Kaarlsbierg",
+                  "text": "A Kaarlsbierg egy régészeti lelőhely Steinfortban.",
+                  "category": "historical",
+                  "coords": [
+                        5.878159,
+                        49.6709
+                  ]
+            },
+            {
+                  "name": "Château des Comtes de Berlaymont",
+                  "text": "A Château des Comtes de Berlaymont egy történelmi vár Steinfort városában.",
+                  "category": "castle",
+                  "coords": [
+                        5.888952,
+                        49.647145
+                  ]
+            },
+            {
+                  "name": "Beech Forest",
+                  "text": "A Beech Forest egy természeti látványosság Steinfort városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.906102,
+                        49.670312
+                  ]
+            },
+            {
+                  "name": "Administration Communale de Steinfort",
+                  "text": "Az Administration Communale de Steinfort információs központként szolgál a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914306,
+                        49.660026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eech zu Klengbetten",
+                  "text": "Eech zu Klengbetten este un stejar secular și o atracție notabilă din Steinfort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914496,
+                        49.646693
+                  ]
+            },
+            {
+                  "name": "Saint-Antoine-l'Ermite",
+                  "text": "Saint-Antoine-l'Ermite este o biserică situată în Steinfort.",
+                  "category": "religious",
+                  "coords": [
+                        5.930564,
+                        49.648661
+                  ]
+            },
+            {
+                  "name": "Sainte-Walburge",
+                  "text": "Sainte-Walburge este un lăcaș de cult important din Steinfort.",
+                  "category": "religious",
+                  "coords": [
+                        5.91552,
+                        49.659288
+                  ]
+            },
+            {
+                  "name": "Steekollen",
+                  "text": "Steekollen este o rezervație naturală protejată din Steinfort.",
+                  "category": "natural",
+                  "coords": [
+                        5.905815,
+                        49.666788
+                  ]
+            },
+            {
+                  "name": "Kaarlsbierg",
+                  "text": "Kaarlsbierg este un sit arheologic localizat în Steinfort.",
+                  "category": "historical",
+                  "coords": [
+                        5.878159,
+                        49.6709
+                  ]
+            },
+            {
+                  "name": "Château des Comtes de Berlaymont",
+                  "text": "Château des Comtes de Berlaymont este un castel istoric situat în orașul Steinfort.",
+                  "category": "castle",
+                  "coords": [
+                        5.888952,
+                        49.647145
+                  ]
+            },
+            {
+                  "name": "Beech Forest",
+                  "text": "Beech Forest este o atracție naturală situată în Steinfort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.906102,
+                        49.670312
+                  ]
+            },
+            {
+                  "name": "Administration Communale de Steinfort",
+                  "text": "Administration Communale de Steinfort servește drept centru de informare pentru municipalitatea din Steinfort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914306,
+                        49.660026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eech zu Klengbetten",
+                  "text": "Eech zu Klengbetten is a notable oak tree and attraction located in Steinfort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914496,
+                        49.646693
+                  ]
+            },
+            {
+                  "name": "Saint-Antoine-l'Ermite",
+                  "text": "Saint-Antoine-l'Ermite is a religious site located in Steinfort.",
+                  "category": "religious",
+                  "coords": [
+                        5.930564,
+                        49.648661
+                  ]
+            },
+            {
+                  "name": "Sainte-Walburge",
+                  "text": "Sainte-Walburge is a notable place of worship located in Steinfort.",
+                  "category": "religious",
+                  "coords": [
+                        5.91552,
+                        49.659288
+                  ]
+            },
+            {
+                  "name": "Steekollen",
+                  "text": "Steekollen is a protected nature reserve situated in Steinfort.",
+                  "category": "natural",
+                  "coords": [
+                        5.905815,
+                        49.666788
+                  ]
+            },
+            {
+                  "name": "Kaarlsbierg",
+                  "text": "Kaarlsbierg is an archaeological site found in Steinfort.",
+                  "category": "historical",
+                  "coords": [
+                        5.878159,
+                        49.6709
+                  ]
+            },
+            {
+                  "name": "Château des Comtes de Berlaymont",
+                  "text": "The Château des Comtes de Berlaymont is a historic castle located in the city of Steinfort.",
+                  "category": "castle",
+                  "coords": [
+                        5.888952,
+                        49.647145
+                  ]
+            },
+            {
+                  "name": "Beech Forest",
+                  "text": "Beech Forest is a natural attraction situated in the city of Steinfort.",
+                  "category": "landmark",
+                  "coords": [
+                        5.906102,
+                        49.670312
+                  ]
+            },
+            {
+                  "name": "Administration Communale de Steinfort",
+                  "text": "The Administration Communale de Steinfort serves as an information center for the municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        5.914306,
+                        49.660026
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "town",
     name: { de: "Steinfort", hu: "Steinfort", ro: "Steinfort", en: "Steinfort"},

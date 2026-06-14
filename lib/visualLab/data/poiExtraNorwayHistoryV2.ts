@@ -6321,7 +6321,88 @@ export const norwayHistoryV2: POI[] = [
     image: "/poi-images/norway-eidsvoll-church-history-v2.webp",
   },
   {
-    id: "norway-mosjoen-sjogata-history-v2",
+    id: "norway-mosjoen-sjogata-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vefsn bygdetun",
+                  "text": "Vefsn bygdetun ist ein Freilichtmuseum, das das lokale Erbe in Sjøgata Mosjøen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.205548,
+                        65.843894
+                  ]
+            },
+            {
+                  "name": "Galleri Stokland",
+                  "text": "Die Galleri Stokland ist eine Kunstgalerie in Sjøgata Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.188116,
+                        65.837307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vefsn bygdetun",
+                  "text": "A Vefsn bygdetun egy szabadtéri múzeum, amely a helyi örökséget mutatja be Sjøgata Mosjøenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.205548,
+                        65.843894
+                  ]
+            },
+            {
+                  "name": "Galleri Stokland",
+                  "text": "A Galleri Stokland egy művészeti galéria Sjøgata Mosjøenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.188116,
+                        65.837307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vefsn bygdetun",
+                  "text": "Vefsn bygdetun este un muzeu în aer liber care expune patrimoniul local în Sjøgata Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.205548,
+                        65.843894
+                  ]
+            },
+            {
+                  "name": "Galleri Stokland",
+                  "text": "Galleri Stokland este o galerie de artă situată în Sjøgata Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.188116,
+                        65.837307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vefsn bygdetun",
+                  "text": "Vefsn bygdetun is an open-air museum displaying local heritage in Sjøgata Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.205548,
+                        65.843894
+                  ]
+            },
+            {
+                  "name": "Galleri Stokland",
+                  "text": "Galleri Stokland is an art gallery located in Sjøgata Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.188116,
+                        65.837307
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "NO",
     name: { de: "Sjøgata Mosjøen", hu: "Mosjøeni Sjøgata", ro: "Sjøgata Mosjøen", en: "Sjøgata Mosjøen" },

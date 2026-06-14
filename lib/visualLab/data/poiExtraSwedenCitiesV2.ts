@@ -27207,7 +27207,268 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-koping-cities-v2",
+    id: "sweden-koping-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Köpings Museum",
+                  "text": "Köpings Museum ist eine lokale Einrichtung, die die Geschichte von Köping bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        16.000715,
+                        59.508403
+                  ]
+            },
+            {
+                  "name": "Ströbo hög",
+                  "text": "Ströbo hög ist eine archäologische Stätte in Köping.",
+                  "category": "historical",
+                  "coords": [
+                        15.964828,
+                        59.522217
+                  ]
+            },
+            {
+                  "name": "Köpings kyrka",
+                  "text": "Köpings kyrka ist eine bedeutende historische Kultstätte in Köping.",
+                  "category": "religious",
+                  "coords": [
+                        15.989986,
+                        59.513242
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "Gammelgården ist ein Freilichtmuseum, das das lokale Erbe in Köping bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        16.005565,
+                        59.511734
+                  ]
+            },
+            {
+                  "name": "Bil- och Teknikmuseet",
+                  "text": "Das Bil- och Teknikmuseet ist ein Museum, das Oldtimer und Technik in Köping ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        16.000458,
+                        59.51073
+                  ]
+            },
+            {
+                  "name": "Skoftesta skans",
+                  "text": "Skoftesta skans ist eine archäologische Stätte in Köping.",
+                  "category": "historical",
+                  "coords": [
+                        15.947026,
+                        59.510624
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "Das Forumteatern ist ein Theater in Köping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.992083,
+                        59.512926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Köpings Museum",
+                  "text": "A Köpings Museum Köping történelmét bemutató helyi intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        16.000715,
+                        59.508403
+                  ]
+            },
+            {
+                  "name": "Ströbo hög",
+                  "text": "A Ströbo hög egy régészeti lelőhely Köpingben.",
+                  "category": "historical",
+                  "coords": [
+                        15.964828,
+                        59.522217
+                  ]
+            },
+            {
+                  "name": "Köpings kyrka",
+                  "text": "A Köpings kyrka egy jelentős történelmi imahely Köpingben.",
+                  "category": "religious",
+                  "coords": [
+                        15.989986,
+                        59.513242
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "A Gammelgården egy szabadtéri múzeum, amely Köping helyi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        16.005565,
+                        59.511734
+                  ]
+            },
+            {
+                  "name": "Bil- och Teknikmuseet",
+                  "text": "A Bil- och Teknikmuseet régi autók és a technika történetét bemutató múzeum Köpingben.",
+                  "category": "museum",
+                  "coords": [
+                        16.000458,
+                        59.51073
+                  ]
+            },
+            {
+                  "name": "Skoftesta skans",
+                  "text": "A Skoftesta skans egy régészeti lelőhely Köping városában.",
+                  "category": "historical",
+                  "coords": [
+                        15.947026,
+                        59.510624
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "A Forumteatern egy színház Köpingben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.992083,
+                        59.512926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Köpings Museum",
+                  "text": "Köpings Museum este o instituție locală care păstrează istoria orașului Köping.",
+                  "category": "museum",
+                  "coords": [
+                        16.000715,
+                        59.508403
+                  ]
+            },
+            {
+                  "name": "Ströbo hög",
+                  "text": "Ströbo hög este un sit arheologic situat în Köping.",
+                  "category": "historical",
+                  "coords": [
+                        15.964828,
+                        59.522217
+                  ]
+            },
+            {
+                  "name": "Köpings kyrka",
+                  "text": "Köpings kyrka este un important lăcaș de cult istoric situat în Köping.",
+                  "category": "religious",
+                  "coords": [
+                        15.989986,
+                        59.513242
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "Gammelgården este un muzeu în aer liber care conservă patrimoniul local din Köping.",
+                  "category": "museum",
+                  "coords": [
+                        16.005565,
+                        59.511734
+                  ]
+            },
+            {
+                  "name": "Bil- och Teknikmuseet",
+                  "text": "Bil- och Teknikmuseet este un muzeu care expune mașini de epocă și tehnologie în Köping.",
+                  "category": "museum",
+                  "coords": [
+                        16.000458,
+                        59.51073
+                  ]
+            },
+            {
+                  "name": "Skoftesta skans",
+                  "text": "Skoftesta skans este un sit arheologic în Köping.",
+                  "category": "historical",
+                  "coords": [
+                        15.947026,
+                        59.510624
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "Forumteatern este un teatru din Köping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.992083,
+                        59.512926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Köpings Museum",
+                  "text": "Köpings Museum is a local institution preserving the history of Köping.",
+                  "category": "museum",
+                  "coords": [
+                        16.000715,
+                        59.508403
+                  ]
+            },
+            {
+                  "name": "Ströbo hög",
+                  "text": "Ströbo hög is an archaeological site located in Köping.",
+                  "category": "historical",
+                  "coords": [
+                        15.964828,
+                        59.522217
+                  ]
+            },
+            {
+                  "name": "Köpings kyrka",
+                  "text": "Köpings kyrka is a notable historic place of worship situated in Köping.",
+                  "category": "religious",
+                  "coords": [
+                        15.989986,
+                        59.513242
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "Gammelgården is an open-air museum preserving local heritage in Köping.",
+                  "category": "museum",
+                  "coords": [
+                        16.005565,
+                        59.511734
+                  ]
+            },
+            {
+                  "name": "Bil- och Teknikmuseet",
+                  "text": "Bil- och Teknikmuseet is a museum exhibiting vintage cars and technology in Köping.",
+                  "category": "museum",
+                  "coords": [
+                        16.000458,
+                        59.51073
+                  ]
+            },
+            {
+                  "name": "Skoftesta skans",
+                  "text": "Skoftesta skans is an archaeological site in Köping.",
+                  "category": "historical",
+                  "coords": [
+                        15.947026,
+                        59.510624
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "The Forumteatern is a theatre in Köping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.992083,
+                        59.512926
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Köping", hu: "Köping", ro: "Köping", en: "Köping"},
@@ -30522,7 +30783,376 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-arvika-cities-v2",
+    id: "sweden-arvika-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arvika Fordonsmuseum",
+                  "text": "Ein Museum, das eine reiche Sammlung von Oldtimern in Arvika zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.591386,
+                        59.661221
+                  ]
+            },
+            {
+                  "name": "Rackstadmuseet",
+                  "text": "Ein Kunstmuseum in Arvika, das den Werken der Rackstad-Künstlerkolonie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.611786,
+                        59.671653
+                  ]
+            },
+            {
+                  "name": "Arvika Konsthall",
+                  "text": "Eine Kunstgalerie, die zeitgenössische Ausstellungen in Arvika präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.594264,
+                        59.654325
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "Die Dreifaltigkeitskirche, ein zentrales und historisches Gotteshaus in Arvika.",
+                  "category": "religious",
+                  "coords": [
+                        12.594397,
+                        59.657992
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "Die Michaelskirche, ein bedeutendes religiöses Gebäude in Arvika.",
+                  "category": "religious",
+                  "coords": [
+                        12.569296,
+                        59.654093
+                  ]
+            },
+            {
+                  "name": "Såguddens hembygdsgård",
+                  "text": "Ein Freilichtmuseum in Arvika, das das lokale Kulturerbe bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        12.60497,
+                        59.650063
+                  ]
+            },
+            {
+                  "name": "Oppstuhage",
+                  "text": "Ein historisches Haus und Museum in Arvika, das bekanntermaßen mit dem Bildhauer Christian Eriksson verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.612461,
+                        59.67064
+                  ]
+            },
+            {
+                  "name": "Galleri pi",
+                  "text": "Eine lokale Kunstgalerie in Arvika, die verschiedene Ausstellungen bildender Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.590614,
+                        59.655695
+                  ]
+            },
+            {
+                  "name": "Hantverksmagasinet",
+                  "text": "Eine Galerie und ein Geschäft in Arvika, die regionales Kunsthandwerk und Kunst ausstellen.",
+                  "category": "museum",
+                  "coords": [
+                        12.592476,
+                        59.65224
+                  ]
+            },
+            {
+                  "name": "Storbondegården",
+                  "text": "Die Attraktion eines historischen großen Bauernhofes in Arvika.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603297,
+                        59.650766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arvika Fordonsmuseum",
+                  "text": "Gazdag veteránjármű-gyűjteményt bemutató múzeum Arvikában.",
+                  "category": "museum",
+                  "coords": [
+                        12.591386,
+                        59.661221
+                  ]
+            },
+            {
+                  "name": "Rackstadmuseet",
+                  "text": "Művészeti múzeum Arvikában, amely a Rackstad művésztelep alkotásainak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        12.611786,
+                        59.671653
+                  ]
+            },
+            {
+                  "name": "Arvika Konsthall",
+                  "text": "Kortárs kiállításokat bemutató művészeti galéria Arvikában.",
+                  "category": "museum",
+                  "coords": [
+                        12.594264,
+                        59.654325
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "A Szentháromság-templom, amely egy központi és történelmi istentiszteleti hely Arvikában.",
+                  "category": "religious",
+                  "coords": [
+                        12.594397,
+                        59.657992
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "A Szent Mihály-templom, egy jelentős vallási épület Arvikában.",
+                  "category": "religious",
+                  "coords": [
+                        12.569296,
+                        59.654093
+                  ]
+            },
+            {
+                  "name": "Såguddens hembygdsgård",
+                  "text": "A helyi kulturális örökséget őrző szabadtéri múzeum Arvikában.",
+                  "category": "museum",
+                  "coords": [
+                        12.60497,
+                        59.650063
+                  ]
+            },
+            {
+                  "name": "Oppstuhage",
+                  "text": "Történelmi otthon és múzeum Arvikában, amely híresen Christian Eriksson szobrászhoz kötődik.",
+                  "category": "museum",
+                  "coords": [
+                        12.612461,
+                        59.67064
+                  ]
+            },
+            {
+                  "name": "Galleri pi",
+                  "text": "Különböző képzőművészeti kiállításokat bemutató helyi művészeti galéria Arvikában.",
+                  "category": "museum",
+                  "coords": [
+                        12.590614,
+                        59.655695
+                  ]
+            },
+            {
+                  "name": "Hantverksmagasinet",
+                  "text": "Regionális kézműves alkotásokat és művészetet bemutató galéria és bolt Arvikában.",
+                  "category": "museum",
+                  "coords": [
+                        12.592476,
+                        59.65224
+                  ]
+            },
+            {
+                  "name": "Storbondegården",
+                  "text": "Egy történelmi, nagybirtokos gazdaságot bemutató látványosság Arvikában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603297,
+                        59.650766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arvika Fordonsmuseum",
+                  "text": "Un muzeu care expune o bogată colecție de vehicule de epocă în Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.591386,
+                        59.661221
+                  ]
+            },
+            {
+                  "name": "Rackstadmuseet",
+                  "text": "Un muzeu de artă în Arvika dedicat lucrărilor coloniei de artiști Rackstad.",
+                  "category": "museum",
+                  "coords": [
+                        12.611786,
+                        59.671653
+                  ]
+            },
+            {
+                  "name": "Arvika Konsthall",
+                  "text": "O galerie de artă care prezintă expoziții contemporane în Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.594264,
+                        59.654325
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "Biserica Sfânta Treime, un lăcaș de cult central și istoric din Arvika.",
+                  "category": "religious",
+                  "coords": [
+                        12.594397,
+                        59.657992
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "Biserica Sf. Mihail, o clădire religioasă notabilă din Arvika.",
+                  "category": "religious",
+                  "coords": [
+                        12.569296,
+                        59.654093
+                  ]
+            },
+            {
+                  "name": "Såguddens hembygdsgård",
+                  "text": "Un muzeu în aer liber care păstrează patrimoniul cultural local din Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.60497,
+                        59.650063
+                  ]
+            },
+            {
+                  "name": "Oppstuhage",
+                  "text": "O casă istorică și un muzeu din Arvika, faimos asociată cu sculptorul Christian Eriksson.",
+                  "category": "museum",
+                  "coords": [
+                        12.612461,
+                        59.67064
+                  ]
+            },
+            {
+                  "name": "Galleri pi",
+                  "text": "O galerie de artă locală care prezintă diverse expoziții de artă vizuală în Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.590614,
+                        59.655695
+                  ]
+            },
+            {
+                  "name": "Hantverksmagasinet",
+                  "text": "O galerie și un magazin în Arvika care expune obiecte de artizanat și artă regională.",
+                  "category": "museum",
+                  "coords": [
+                        12.592476,
+                        59.65224
+                  ]
+            },
+            {
+                  "name": "Storbondegården",
+                  "text": "O atracție istorică reprezentând o mare fermă agricolă în Arvika.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603297,
+                        59.650766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arvika Fordonsmuseum",
+                  "text": "A museum displaying a rich collection of vintage vehicles in Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.591386,
+                        59.661221
+                  ]
+            },
+            {
+                  "name": "Rackstadmuseet",
+                  "text": "An art museum in Arvika dedicated to the works of the Rackstad artist colony.",
+                  "category": "museum",
+                  "coords": [
+                        12.611786,
+                        59.671653
+                  ]
+            },
+            {
+                  "name": "Arvika Konsthall",
+                  "text": "An art gallery showcasing contemporary exhibitions in Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.594264,
+                        59.654325
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "The Trinity Church, a central and historic place of worship in Arvika.",
+                  "category": "religious",
+                  "coords": [
+                        12.594397,
+                        59.657992
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "St. Michael's Church, a notable religious building in Arvika.",
+                  "category": "religious",
+                  "coords": [
+                        12.569296,
+                        59.654093
+                  ]
+            },
+            {
+                  "name": "Såguddens hembygdsgård",
+                  "text": "An open-air museum preserving local cultural heritage in Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.60497,
+                        59.650063
+                  ]
+            },
+            {
+                  "name": "Oppstuhage",
+                  "text": "A historic home and museum in Arvika, famously associated with sculptor Christian Eriksson.",
+                  "category": "museum",
+                  "coords": [
+                        12.612461,
+                        59.67064
+                  ]
+            },
+            {
+                  "name": "Galleri pi",
+                  "text": "A local art gallery featuring various visual art exhibitions in Arvika.",
+                  "category": "museum",
+                  "coords": [
+                        12.590614,
+                        59.655695
+                  ]
+            },
+            {
+                  "name": "Hantverksmagasinet",
+                  "text": "A gallery and shop in Arvika exhibiting regional handicrafts and art.",
+                  "category": "museum",
+                  "coords": [
+                        12.592476,
+                        59.65224
+                  ]
+            },
+            {
+                  "name": "Storbondegården",
+                  "text": "A historical large farmer's estate attraction in Arvika.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603297,
+                        59.650766
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Arvika", hu: "Arvika", ro: "Arvika", en: "Arvika"},
@@ -30569,7 +31199,88 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-tranas-cities-v2",
+    id: "sweden-tranas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tranås kyrka",
+                  "text": "Die Tranås kyrka ist ein Kirchengebäude und eine Kultstätte in Tranås, Småland.",
+                  "category": "religious",
+                  "coords": [
+                        14.969905,
+                        58.034793
+                  ]
+            },
+            {
+                  "name": "Ekbergsparken",
+                  "text": "Ekbergsparken ist ein Naturschutzgebiet in Tranås.",
+                  "category": "natural",
+                  "coords": [
+                        14.961355,
+                        58.024358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tranås kyrka",
+                  "text": "A Tranås kyrka egy templom és vallási épület a smålandi Tranås településen.",
+                  "category": "religious",
+                  "coords": [
+                        14.969905,
+                        58.034793
+                  ]
+            },
+            {
+                  "name": "Ekbergsparken",
+                  "text": "Az Ekbergsparken egy természetvédelmi terület Tranås városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.961355,
+                        58.024358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tranås kyrka",
+                  "text": "Tranås kyrka este o biserică și un lăcaș de cult din Tranås, Småland.",
+                  "category": "religious",
+                  "coords": [
+                        14.969905,
+                        58.034793
+                  ]
+            },
+            {
+                  "name": "Ekbergsparken",
+                  "text": "Ekbergsparken este o rezervație naturală desemnată în Tranås.",
+                  "category": "natural",
+                  "coords": [
+                        14.961355,
+                        58.024358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tranås kyrka",
+                  "text": "Tranås kyrka is a church building and place of worship in Tranås, Småland.",
+                  "category": "religious",
+                  "coords": [
+                        14.969905,
+                        58.034793
+                  ]
+            },
+            {
+                  "name": "Ekbergsparken",
+                  "text": "Ekbergsparken is a designated nature reserve located in Tranås.",
+                  "category": "natural",
+                  "coords": [
+                        14.961355,
+                        58.024358
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Tranås", hu: "Tranås", ro: "Tranås", en: "Tranås"},
@@ -34001,6 +34712,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.282462,
                         56.242416
                   ]
+            },
+            {
+                  "name": "Ancient Stronghold of Hästhagen",
+                  "text": "Die alte Festung von Hästhagen ist eine historische archäologische Stätte in Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.311121,
+                        56.221638
+                  ]
+            },
+            {
+                  "name": "Ronneby Teater",
+                  "text": "Das Ronneby Teater ist ein lokales Theater in der Stadt Ronneby.",
+                  "category": "cultural",
+                  "coords": [
+                        15.281058,
+                        56.208704
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Die Church of the Holy Cross ist ein religiöses Gebäude in Ronneby.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278456,
+                        56.211777
+                  ]
+            },
+            {
+                  "name": "Gravfält Smedbacken",
+                  "text": "Gravfält Smedbacken ist eine archäologische Stätte in Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.264669,
+                        56.228317
+                  ]
+            },
+            {
+                  "name": "Flygplan 37 Viggen",
+                  "text": "Das Flygplan 37 Viggen ist ein Luftfahrtdenkmal, das in Ronneby ausgestellt ist.",
+                  "category": "historical",
+                  "coords": [
+                        15.259692,
+                        56.230521
+                  ]
+            },
+            {
+                  "name": "Möllebackagården",
+                  "text": "Möllebackagården ist ein lokales Museum in Ronneby.",
+                  "category": "museum",
+                  "coords": [
+                        15.276784,
+                        56.212546
+                  ]
             }
       ],
       "hu": [
@@ -34038,6 +34803,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.282462,
                         56.242416
+                  ]
+            },
+            {
+                  "name": "Ancient Stronghold of Hästhagen",
+                  "text": "A hästhageni ősi erődítmény egy történelmi régészeti lelőhely Ronnebyben.",
+                  "category": "historical",
+                  "coords": [
+                        15.311121,
+                        56.221638
+                  ]
+            },
+            {
+                  "name": "Ronneby Teater",
+                  "text": "A Ronneby Teater egy helyi színház Ronneby városában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.281058,
+                        56.208704
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "A Church of the Holy Cross egy vallási épület Ronnebyben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278456,
+                        56.211777
+                  ]
+            },
+            {
+                  "name": "Gravfält Smedbacken",
+                  "text": "A Gravfält Smedbacken egy régészeti lelőhely Ronnebyben.",
+                  "category": "historical",
+                  "coords": [
+                        15.264669,
+                        56.228317
+                  ]
+            },
+            {
+                  "name": "Flygplan 37 Viggen",
+                  "text": "A Flygplan 37 Viggen egy repülési emlékmű Ronnebyben.",
+                  "category": "historical",
+                  "coords": [
+                        15.259692,
+                        56.230521
+                  ]
+            },
+            {
+                  "name": "Möllebackagården",
+                  "text": "A Möllebackagården egy helyi múzeum Ronnebyben.",
+                  "category": "museum",
+                  "coords": [
+                        15.276784,
+                        56.212546
                   ]
             }
       ],
@@ -34077,6 +34896,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.282462,
                         56.242416
                   ]
+            },
+            {
+                  "name": "Ancient Stronghold of Hästhagen",
+                  "text": "Vechea fortăreață din Hästhagen este un sit arheologic istoric situat în Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.311121,
+                        56.221638
+                  ]
+            },
+            {
+                  "name": "Ronneby Teater",
+                  "text": "Ronneby Teater este un teatru local din orașul Ronneby.",
+                  "category": "cultural",
+                  "coords": [
+                        15.281058,
+                        56.208704
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Church of the Holy Cross este o clădire religioasă din Ronneby.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278456,
+                        56.211777
+                  ]
+            },
+            {
+                  "name": "Gravfält Smedbacken",
+                  "text": "Gravfält Smedbacken este un sit arheologic din Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.264669,
+                        56.228317
+                  ]
+            },
+            {
+                  "name": "Flygplan 37 Viggen",
+                  "text": "Flygplan 37 Viggen este un monument aviatic expus în Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.259692,
+                        56.230521
+                  ]
+            },
+            {
+                  "name": "Möllebackagården",
+                  "text": "Möllebackagården este un muzeu local situat în Ronneby.",
+                  "category": "museum",
+                  "coords": [
+                        15.276784,
+                        56.212546
+                  ]
             }
       ],
       "en": [
@@ -34114,6 +34987,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.282462,
                         56.242416
+                  ]
+            },
+            {
+                  "name": "Ancient Stronghold of Hästhagen",
+                  "text": "The Ancient Stronghold of Hästhagen is a historical archaeological site located in Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.311121,
+                        56.221638
+                  ]
+            },
+            {
+                  "name": "Ronneby Teater",
+                  "text": "Ronneby Teater is a local theater in the city of Ronneby.",
+                  "category": "cultural",
+                  "coords": [
+                        15.281058,
+                        56.208704
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "The Church of the Holy Cross is a religious building in Ronneby.",
+                  "category": "landmark",
+                  "coords": [
+                        15.278456,
+                        56.211777
+                  ]
+            },
+            {
+                  "name": "Gravfält Smedbacken",
+                  "text": "Gravfält Smedbacken is an archaeological site in Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.264669,
+                        56.228317
+                  ]
+            },
+            {
+                  "name": "Flygplan 37 Viggen",
+                  "text": "Flygplan 37 Viggen is an aviation monument displayed in Ronneby.",
+                  "category": "historical",
+                  "coords": [
+                        15.259692,
+                        56.230521
+                  ]
+            },
+            {
+                  "name": "Möllebackagården",
+                  "text": "Möllebackagården is a local museum situated in Ronneby.",
+                  "category": "museum",
+                  "coords": [
+                        15.276784,
+                        56.212546
                   ]
             }
       ]

@@ -5552,7 +5552,376 @@ imageHint: "Dnipro skyline and the Dnieper river",
     },
     image: "/poi-images/ukraine-dnipro-cities-v2.webp",
 },  {
-    id: "ukraine-donetsk-cities-v2",
+    id: "ukraine-donetsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument to John Hughes",
+                  "text": "Das Monument für John Hughes ist ein bemerkenswertes Denkmal in Donezk.",
+                  "category": "historical",
+                  "coords": [
+                        37.802116,
+                        48.013792
+                  ]
+            },
+            {
+                  "name": "Pushkin Boulevard",
+                  "text": "Der Puschkin-Boulevard ist ein bekannter Park und Boulevard in Donezk.",
+                  "category": "park",
+                  "coords": [
+                        37.801409,
+                        47.998841
+                  ]
+            },
+            {
+                  "name": "Square",
+                  "text": "Dieser Park bietet eine städtische Grünfläche in Donezk.",
+                  "category": "park",
+                  "coords": [
+                        37.805118,
+                        48.003267
+                  ]
+            },
+            {
+                  "name": "Park «Sokol»",
+                  "text": "Der Park «Sokol» ist ein öffentlicher Park in Donezk.",
+                  "category": "park",
+                  "coords": [
+                        37.802724,
+                        47.991911
+                  ]
+            },
+            {
+                  "name": "Forged Figures Park",
+                  "text": "Der Park der geschmiedeten Figuren ist ein einzigartiger Park in Donezk.",
+                  "category": "park",
+                  "coords": [
+                        37.800075,
+                        48.015916
+                  ]
+            },
+            {
+                  "name": "Central Park of Culture and Leisure named after Shcherbakov",
+                  "text": "Der nach Scherbakov benannte Zentrale Kultur- und Freizeitpark ist ein großer Park in Donezk.",
+                  "category": "park",
+                  "coords": [
+                        37.789368,
+                        47.994486
+                  ]
+            },
+            {
+                  "name": "City Garden",
+                  "text": "Der Stadtgarten ist ein historischer Park in Donezk.",
+                  "category": "park",
+                  "coords": [
+                        37.796732,
+                        47.992594
+                  ]
+            },
+            {
+                  "name": "Donetsk Museum",
+                  "text": "Das Donezker Museum ist ein Heimatmuseum in der Stadt Donezk.",
+                  "category": "museum",
+                  "coords": [
+                        37.804897,
+                        48.025195
+                  ]
+            },
+            {
+                  "name": "Donetsk Regional Art Museum",
+                  "text": "Das Regionale Kunstmuseum Donezk bietet Kunstausstellungen in Donezk.",
+                  "category": "museum",
+                  "coords": [
+                        37.802401,
+                        48.008395
+                  ]
+            },
+            {
+                  "name": "Square named after the 30th anniversary of the Victory",
+                  "text": "Dieser Platz ist ein Park zum 30. Jahrestag des Sieges in Donezk.",
+                  "category": "park",
+                  "coords": [
+                        37.824226,
+                        48.007783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument to John Hughes",
+                  "text": "A John Hughes-emlékmű egy figyelemre méltó műemlék Doneckben.",
+                  "category": "historical",
+                  "coords": [
+                        37.802116,
+                        48.013792
+                  ]
+            },
+            {
+                  "name": "Pushkin Boulevard",
+                  "text": "A Puskin körút egy ismert park és sugárút Doneckben.",
+                  "category": "park",
+                  "coords": [
+                        37.801409,
+                        47.998841
+                  ]
+            },
+            {
+                  "name": "Square",
+                  "text": "Ez a tér egy városi zöldterületet kínál Doneckben.",
+                  "category": "park",
+                  "coords": [
+                        37.805118,
+                        48.003267
+                  ]
+            },
+            {
+                  "name": "Park «Sokol»",
+                  "text": "A „Szokol” park egy nyilvános park Doneckben.",
+                  "category": "park",
+                  "coords": [
+                        37.802724,
+                        47.991911
+                  ]
+            },
+            {
+                  "name": "Forged Figures Park",
+                  "text": "A Kovácsolt figurák parkja egy egyedülálló park Doneckben.",
+                  "category": "park",
+                  "coords": [
+                        37.800075,
+                        48.015916
+                  ]
+            },
+            {
+                  "name": "Central Park of Culture and Leisure named after Shcherbakov",
+                  "text": "A Scserbakovról elnevezett Központi Kulturális és Szabadidőpark egy nagy park Doneckben.",
+                  "category": "park",
+                  "coords": [
+                        37.789368,
+                        47.994486
+                  ]
+            },
+            {
+                  "name": "City Garden",
+                  "text": "A Városkert egy történelmi park Doneckben.",
+                  "category": "park",
+                  "coords": [
+                        37.796732,
+                        47.992594
+                  ]
+            },
+            {
+                  "name": "Donetsk Museum",
+                  "text": "A Donecki Múzeum egy helytörténeti múzeum Doneck városában.",
+                  "category": "museum",
+                  "coords": [
+                        37.804897,
+                        48.025195
+                  ]
+            },
+            {
+                  "name": "Donetsk Regional Art Museum",
+                  "text": "A Donecki Regionális Művészeti Múzeum művészeti kiállításokat kínál Doneckben.",
+                  "category": "museum",
+                  "coords": [
+                        37.802401,
+                        48.008395
+                  ]
+            },
+            {
+                  "name": "Square named after the 30th anniversary of the Victory",
+                  "text": "Ez a tér a Győzelem 30. évfordulójának emléket állító park Doneckben.",
+                  "category": "park",
+                  "coords": [
+                        37.824226,
+                        48.007783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument to John Hughes",
+                  "text": "Monumentul lui John Hughes este un monument notabil din Donețk.",
+                  "category": "historical",
+                  "coords": [
+                        37.802116,
+                        48.013792
+                  ]
+            },
+            {
+                  "name": "Pushkin Boulevard",
+                  "text": "Bulevardul Pușkin este un parc și bulevard cunoscut din Donețk.",
+                  "category": "park",
+                  "coords": [
+                        37.801409,
+                        47.998841
+                  ]
+            },
+            {
+                  "name": "Square",
+                  "text": "Acest scuar oferă un spațiu verde urban în Donețk.",
+                  "category": "park",
+                  "coords": [
+                        37.805118,
+                        48.003267
+                  ]
+            },
+            {
+                  "name": "Park «Sokol»",
+                  "text": "Parcul «Sokol» este un parc public din Donețk.",
+                  "category": "park",
+                  "coords": [
+                        37.802724,
+                        47.991911
+                  ]
+            },
+            {
+                  "name": "Forged Figures Park",
+                  "text": "Parcul figurilor forjate este un parc unic din Donețk.",
+                  "category": "park",
+                  "coords": [
+                        37.800075,
+                        48.015916
+                  ]
+            },
+            {
+                  "name": "Central Park of Culture and Leisure named after Shcherbakov",
+                  "text": "Parcul Central de Cultură și Agrement numit după Shcherbakov este un parc mare din Donețk.",
+                  "category": "park",
+                  "coords": [
+                        37.789368,
+                        47.994486
+                  ]
+            },
+            {
+                  "name": "City Garden",
+                  "text": "Grădina Orașului este un parc istoric din Donețk.",
+                  "category": "park",
+                  "coords": [
+                        37.796732,
+                        47.992594
+                  ]
+            },
+            {
+                  "name": "Donetsk Museum",
+                  "text": "Muzeul Donețk este un muzeu de istorie locală din orașul Donețk.",
+                  "category": "museum",
+                  "coords": [
+                        37.804897,
+                        48.025195
+                  ]
+            },
+            {
+                  "name": "Donetsk Regional Art Museum",
+                  "text": "Muzeul Regional de Artă Donețk oferă expoziții de artă în Donețk.",
+                  "category": "museum",
+                  "coords": [
+                        37.802401,
+                        48.008395
+                  ]
+            },
+            {
+                  "name": "Square named after the 30th anniversary of the Victory",
+                  "text": "Acest scuar este un parc dedicat celei de-a 30-a aniversări a Victoriei în Donețk.",
+                  "category": "park",
+                  "coords": [
+                        37.824226,
+                        48.007783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to John Hughes",
+                  "text": "The Monument to John Hughes is a notable monument in Donetsk.",
+                  "category": "historical",
+                  "coords": [
+                        37.802116,
+                        48.013792
+                  ]
+            },
+            {
+                  "name": "Pushkin Boulevard",
+                  "text": "Pushkin Boulevard is a known park and boulevard in Donetsk.",
+                  "category": "park",
+                  "coords": [
+                        37.801409,
+                        47.998841
+                  ]
+            },
+            {
+                  "name": "Square",
+                  "text": "This square offers an urban green space in Donetsk.",
+                  "category": "park",
+                  "coords": [
+                        37.805118,
+                        48.003267
+                  ]
+            },
+            {
+                  "name": "Park «Sokol»",
+                  "text": "Park «Sokol» is a public park in Donetsk.",
+                  "category": "park",
+                  "coords": [
+                        37.802724,
+                        47.991911
+                  ]
+            },
+            {
+                  "name": "Forged Figures Park",
+                  "text": "Forged Figures Park is a unique park in Donetsk.",
+                  "category": "park",
+                  "coords": [
+                        37.800075,
+                        48.015916
+                  ]
+            },
+            {
+                  "name": "Central Park of Culture and Leisure named after Shcherbakov",
+                  "text": "Central Park of Culture and Leisure named after Shcherbakov is a large park in Donetsk.",
+                  "category": "park",
+                  "coords": [
+                        37.789368,
+                        47.994486
+                  ]
+            },
+            {
+                  "name": "City Garden",
+                  "text": "City Garden is a historic park in Donetsk.",
+                  "category": "park",
+                  "coords": [
+                        37.796732,
+                        47.992594
+                  ]
+            },
+            {
+                  "name": "Donetsk Museum",
+                  "text": "Donetsk Museum is a local history museum in the city of Donetsk.",
+                  "category": "museum",
+                  "coords": [
+                        37.804897,
+                        48.025195
+                  ]
+            },
+            {
+                  "name": "Donetsk Regional Art Museum",
+                  "text": "Donetsk Regional Art Museum offers art exhibitions in Donetsk.",
+                  "category": "museum",
+                  "coords": [
+                        37.802401,
+                        48.008395
+                  ]
+            },
+            {
+                  "name": "Square named after the 30th anniversary of the Victory",
+                  "text": "This square is a park dedicated to the 30th anniversary of the Victory in Donetsk.",
+                  "category": "park",
+                  "coords": [
+                        37.824226,
+                        48.007783
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Donezk", hu: "Doneck", ro: "Donețk", en: "Donetsk"},
@@ -6556,6 +6925,87 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                         31.989854,
                         46.981065
                   ]
+            },
+            {
+                  "name": "The Mykolaiv Regional Museum of Local History",
+                  "text": "Das Mykolajiwer regionale Heimatmuseum bewahrt das umfangreiche kulturelle und natürliche Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        32.006752,
+                        46.972006
+                  ]
+            },
+            {
+                  "name": "V. V. Vereschagin Art Museum",
+                  "text": "Dieses Museum in Mykolajiw bietet eine schöne Sammlung bildender Kunst, die V. V. Wereschtschagin gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        31.98603,
+                        46.973346
+                  ]
+            },
+            {
+                  "name": "Museum of Shipbuilding and Fleet",
+                  "text": "Dieses einzigartige Museum erkundet die reiche maritime Geschichte und die Schiffbautraditionen von Mykolajiw.",
+                  "category": "museum",
+                  "coords": [
+                        31.986062,
+                        46.978072
+                  ]
+            },
+            {
+                  "name": "Narodny Sad Park",
+                  "text": "Der Volkspark Narodny Sad ist eine beliebte Grünfläche zur Erholung in Mykolajiw.",
+                  "category": "park",
+                  "coords": [
+                        32.02134,
+                        46.97131
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "Der Siegespark ist ein großer öffentlicher Erholungs- und Gedenkpark in Mykolajiw.",
+                  "category": "park",
+                  "coords": [
+                        31.994559,
+                        46.985266
+                  ]
+            },
+            {
+                  "name": "St. Joseph’s Church",
+                  "text": "Die St.-Joseph-Kirche ist eine bedeutende katholische architektonische Sehenswürdigkeit in Mykolajiw.",
+                  "category": "landmark",
+                  "coords": [
+                        31.986931,
+                        46.968719
+                  ]
+            },
+            {
+                  "name": "All Saints Temple",
+                  "text": "Die Allerheiligenkirche ist ein markantes orthodoxes Gotteshaus in Mykolajiw.",
+                  "category": "religious",
+                  "coords": [
+                        32.031714,
+                        46.968332
+                  ]
+            },
+            {
+                  "name": "Observatory",
+                  "text": "Die astronomische Sternwarte ist eine bekannte Sehenswürdigkeit in Mykolajiw.",
+                  "category": "landmark",
+                  "coords": [
+                        31.972854,
+                        46.972811
+                  ]
+            },
+            {
+                  "name": "Skazka Playground",
+                  "text": "Der Themenpark Skazka ist ein beliebtes Ausflugsziel für Familien in Mykolajiw.",
+                  "category": "recreational",
+                  "coords": [
+                        31.985143,
+                        46.964573
+                  ]
             }
       ],
       "hu": [
@@ -6566,6 +7016,87 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                   "coords": [
                         31.989854,
                         46.981065
+                  ]
+            },
+            {
+                  "name": "The Mykolaiv Regional Museum of Local History",
+                  "text": "A Mikolajivi Regionális Helytörténeti Múzeum a régió kiterjedt kulturális és természeti örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        32.006752,
+                        46.972006
+                  ]
+            },
+            {
+                  "name": "V. V. Vereschagin Art Museum",
+                  "text": "Ez a mikolajivi múzeum V. V. Verescsaginnak szentelt képzőművészeti gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        31.98603,
+                        46.973346
+                  ]
+            },
+            {
+                  "name": "Museum of Shipbuilding and Fleet",
+                  "text": "Ez az egyedülálló múzeum Mikolajiv gazdag tengerészeti történelmét és hajóépítési hagyományait tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        31.986062,
+                        46.978072
+                  ]
+            },
+            {
+                  "name": "Narodny Sad Park",
+                  "text": "A Narodnij Szad Park egy népszerű zöldterület, amely kikapcsolódást nyújt Mikolajivban.",
+                  "category": "park",
+                  "coords": [
+                        32.02134,
+                        46.97131
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "A Győzelem Park egy hatalmas rekreációs és emlékpark Mikolajivban.",
+                  "category": "park",
+                  "coords": [
+                        31.994559,
+                        46.985266
+                  ]
+            },
+            {
+                  "name": "St. Joseph’s Church",
+                  "text": "A Szent József-templom egy jelentős katolikus építészeti látványosság Mikolajivban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.986931,
+                        46.968719
+                  ]
+            },
+            {
+                  "name": "All Saints Temple",
+                  "text": "A Mindenszentek-temploma egy kiemelkedő ortodox istentiszteleti hely Mikolajivban.",
+                  "category": "religious",
+                  "coords": [
+                        32.031714,
+                        46.968332
+                  ]
+            },
+            {
+                  "name": "Observatory",
+                  "text": "A csillagvizsgáló egy ismert látványosság Mikolajivban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.972854,
+                        46.972811
+                  ]
+            },
+            {
+                  "name": "Skazka Playground",
+                  "text": "A Szakazka vidámpark egy népszerű családi úticél Mikolajivban.",
+                  "category": "recreational",
+                  "coords": [
+                        31.985143,
+                        46.964573
                   ]
             }
       ],
@@ -6578,6 +7109,87 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                         31.989854,
                         46.981065
                   ]
+            },
+            {
+                  "name": "The Mykolaiv Regional Museum of Local History",
+                  "text": "Muzeul Regional de Istorie Locală Mykolaiv păstrează vasta moștenire culturală și naturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.006752,
+                        46.972006
+                  ]
+            },
+            {
+                  "name": "V. V. Vereschagin Art Museum",
+                  "text": "Acest muzeu din Mykolaiv prezintă o frumoasă colecție de arte vizuale dedicată lui V. V. Vereșciaghin.",
+                  "category": "museum",
+                  "coords": [
+                        31.98603,
+                        46.973346
+                  ]
+            },
+            {
+                  "name": "Museum of Shipbuilding and Fleet",
+                  "text": "Acest muzeu unic explorează bogata istorie maritimă și tradițiile de construcție navală din Mykolaiv.",
+                  "category": "museum",
+                  "coords": [
+                        31.986062,
+                        46.978072
+                  ]
+            },
+            {
+                  "name": "Narodny Sad Park",
+                  "text": "Parcul Narodny Sad este un spațiu verde popular care oferă recreere în Mykolaiv.",
+                  "category": "park",
+                  "coords": [
+                        32.02134,
+                        46.97131
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "Parcul Victoriei este un vast parc public de recreere și memorial situat în Mykolaiv.",
+                  "category": "park",
+                  "coords": [
+                        31.994559,
+                        46.985266
+                  ]
+            },
+            {
+                  "name": "St. Joseph’s Church",
+                  "text": "Biserica Sfântul Iosif este o atracție arhitecturală catolică semnificativă din Mykolaiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.986931,
+                        46.968719
+                  ]
+            },
+            {
+                  "name": "All Saints Temple",
+                  "text": "Templul Tuturor Sfinților este un lăcaș de cult ortodox proeminent situat în Mykolaiv.",
+                  "category": "religious",
+                  "coords": [
+                        32.031714,
+                        46.968332
+                  ]
+            },
+            {
+                  "name": "Observatory",
+                  "text": "Observatorul astronomic este o atracție cunoscută în Mîkolaiiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.972854,
+                        46.972811
+                  ]
+            },
+            {
+                  "name": "Skazka Playground",
+                  "text": "Parcul tematic Skazka este o destinație populară pentru familii în Mîkolaiiv.",
+                  "category": "recreational",
+                  "coords": [
+                        31.985143,
+                        46.964573
+                  ]
             }
       ],
       "en": [
@@ -6588,6 +7200,87 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                   "coords": [
                         31.989854,
                         46.981065
+                  ]
+            },
+            {
+                  "name": "The Mykolaiv Regional Museum of Local History",
+                  "text": "The Mykolaiv Regional Museum of Local History preserves the extensive cultural and natural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.006752,
+                        46.972006
+                  ]
+            },
+            {
+                  "name": "V. V. Vereschagin Art Museum",
+                  "text": "This museum in Mykolaiv features a fine collection of visual arts dedicated to V. V. Vereschagin.",
+                  "category": "museum",
+                  "coords": [
+                        31.98603,
+                        46.973346
+                  ]
+            },
+            {
+                  "name": "Museum of Shipbuilding and Fleet",
+                  "text": "This unique museum explores Mykolaiv's rich maritime history and shipbuilding traditions.",
+                  "category": "museum",
+                  "coords": [
+                        31.986062,
+                        46.978072
+                  ]
+            },
+            {
+                  "name": "Narodny Sad Park",
+                  "text": "Narodny Sad Park is a popular green space offering recreation in Mykolaiv.",
+                  "category": "park",
+                  "coords": [
+                        32.02134,
+                        46.97131
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "Victory Park is a vast recreational and memorial public park located in Mykolaiv.",
+                  "category": "park",
+                  "coords": [
+                        31.994559,
+                        46.985266
+                  ]
+            },
+            {
+                  "name": "St. Joseph’s Church",
+                  "text": "St. Joseph’s Church is a significant Catholic architectural attraction in Mykolaiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.986931,
+                        46.968719
+                  ]
+            },
+            {
+                  "name": "All Saints Temple",
+                  "text": "The All Saints Temple is a prominent Orthodox place of worship located in Mykolaiv.",
+                  "category": "religious",
+                  "coords": [
+                        32.031714,
+                        46.968332
+                  ]
+            },
+            {
+                  "name": "Observatory",
+                  "text": "The astronomical observatory is a notable attraction in Mykolaiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.972854,
+                        46.972811
+                  ]
+            },
+            {
+                  "name": "Skazka Playground",
+                  "text": "The Skazka theme park is a popular family destination in Mykolaiv.",
+                  "category": "recreational",
+                  "coords": [
+                        31.985143,
+                        46.964573
                   ]
             }
       ]
@@ -7486,7 +8179,196 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-luhansk-cities-v2",
+    id: "ukraine-luhansk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Luhansk Academic Russian Drama Theater named PB Luspekaeva",
+                  "text": "Das Akademische Russische Dramatheater in Luhansk ist ein bedeutender kultureller Veranstaltungsort, der für seine Theaterproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        39.307907,
+                        48.572824
+                  ]
+            },
+            {
+                  "name": "Luhansk motorbikers",
+                  "text": "Das Motorradmuseum in Luhansk widmet sich der Geschichte des Motorrads und der lokalen Fahrerkultur in Luhansk.",
+                  "category": "museum",
+                  "coords": [
+                        39.283506,
+                        48.555936
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "Das Heimatmuseum in Luhansk bewahrt und zeigt Artefakte aus der Vergangenheit der Region.",
+                  "category": "museum",
+                  "coords": [
+                        39.307403,
+                        48.575305
+                  ]
+            },
+            {
+                  "name": "Sergienko Dmitro ART-Studio",
+                  "text": "Das Sergienko Dmitro ART-Studio dient als kreatives Kunstzentrum für die Gemeinde in Luhansk.",
+                  "category": "cultural",
+                  "coords": [
+                        39.312357,
+                        48.574118
+                  ]
+            },
+            {
+                  "name": "I love Luhansk",
+                  "text": "\"I love Luhansk\" ist ein beliebtes öffentliches Wahrzeichen und eine Fotoattraktion in der Stadt Luhansk.",
+                  "category": "landmark",
+                  "coords": [
+                        39.302561,
+                        48.568196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luhansk Academic Russian Drama Theater named PB Luspekaeva",
+                  "text": "A Luhanszki Akadémiai Orosz Drámai Színház egy jelentős kulturális helyszín, amely színházi produkcióiról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        39.307907,
+                        48.572824
+                  ]
+            },
+            {
+                  "name": "Luhansk motorbikers",
+                  "text": "A luhanszki motorosok múzeuma a motorkerékpárok történetének és a helyi motoros kultúrának van szentelve Luhanszkban.",
+                  "category": "museum",
+                  "coords": [
+                        39.283506,
+                        48.555936
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "A luhanszki Helytörténeti Múzeum a régió múltjából származó tárgyakat őriz és mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        39.307403,
+                        48.575305
+                  ]
+            },
+            {
+                  "name": "Sergienko Dmitro ART-Studio",
+                  "text": "A Sergienko Dmitro ART-Studio kreatív művészeti központként szolgál a luhanszki közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        39.312357,
+                        48.574118
+                  ]
+            },
+            {
+                  "name": "I love Luhansk",
+                  "text": "Az \"I love Luhansk\" egy népszerű köztéri nevezetesség és fotós látványosság Luhanszk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.302561,
+                        48.568196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luhansk Academic Russian Drama Theater named PB Luspekaeva",
+                  "text": "Teatrul Academic Rus de Dramă din Luhansk este un important centru cultural renumit pentru producțiile sale teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        39.307907,
+                        48.572824
+                  ]
+            },
+            {
+                  "name": "Luhansk motorbikers",
+                  "text": "Muzeul motocicliștilor din Luhansk este dedicat istoriei motocicletelor și culturii locale a motocicliștilor din Luhansk.",
+                  "category": "museum",
+                  "coords": [
+                        39.283506,
+                        48.555936
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "Muzeul de Istorie Locală din Luhansk păstrează și expune artefacte din trecutul regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        39.307403,
+                        48.575305
+                  ]
+            },
+            {
+                  "name": "Sergienko Dmitro ART-Studio",
+                  "text": "Studioul de ARTĂ Sergienko Dmitro servește ca un centru de arte creative pentru comunitatea din Luhansk.",
+                  "category": "cultural",
+                  "coords": [
+                        39.312357,
+                        48.574118
+                  ]
+            },
+            {
+                  "name": "I love Luhansk",
+                  "text": "\"I love Luhansk\" este un punct de reper public popular și o atracție pentru fotografii în orașul Luhansk.",
+                  "category": "landmark",
+                  "coords": [
+                        39.302561,
+                        48.568196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luhansk Academic Russian Drama Theater named PB Luspekaeva",
+                  "text": "The Luhansk Academic Russian Drama Theater is a major cultural venue renowned for its theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        39.307907,
+                        48.572824
+                  ]
+            },
+            {
+                  "name": "Luhansk motorbikers",
+                  "text": "The Luhansk motorbikers museum is dedicated to motorcycle history and local rider culture in Luhansk.",
+                  "category": "museum",
+                  "coords": [
+                        39.283506,
+                        48.555936
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "The Local History Museum in Luhansk preserves and displays artifacts from the region's past.",
+                  "category": "museum",
+                  "coords": [
+                        39.307403,
+                        48.575305
+                  ]
+            },
+            {
+                  "name": "Sergienko Dmitro ART-Studio",
+                  "text": "The Sergienko Dmitro ART-Studio serves as a creative arts center for the community in Luhansk.",
+                  "category": "cultural",
+                  "coords": [
+                        39.312357,
+                        48.574118
+                  ]
+            },
+            {
+                  "name": "I love Luhansk",
+                  "text": "\"I love Luhansk\" is a popular public landmark and photo attraction in the city of Luhansk.",
+                  "category": "landmark",
+                  "coords": [
+                        39.302561,
+                        48.568196
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Luhansk", hu: "Luhanszk", ro: "Lugansk", en: "Luhansk"},
@@ -12088,7 +12970,304 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-poltava-cities-v2",
+    id: "ukraine-poltava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Literary and Memorial Museum Kotlyarevsky",
+                  "text": "Ein bedeutendes Museum in Poltava, das dem Schriftsteller Iwan Kotljarewskyj gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.560435,
+                        49.579078
+                  ]
+            },
+            {
+                  "name": "The Museum-Place of I. P. Kotlyarevsky",
+                  "text": "Ein bekanntes Gedenkmuseum in Poltava.",
+                  "category": "museum",
+                  "coords": [
+                        34.568239,
+                        49.581631
+                  ]
+            },
+            {
+                  "name": "The Birch square",
+                  "text": "Eine bekannte Parkanlage in Poltava.",
+                  "category": "park",
+                  "coords": [
+                        34.557517,
+                        49.581986
+                  ]
+            },
+            {
+                  "name": "Korolenko Museum",
+                  "text": "Ein Literaturmuseum in Poltava, das dem Autor W. Korolenko gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.557854,
+                        49.57729
+                  ]
+            },
+            {
+                  "name": "Monument of Glory",
+                  "text": "Ein bedeutendes historisches Denkmal in Poltava.",
+                  "category": "landmark",
+                  "coords": [
+                        34.551161,
+                        49.589585
+                  ]
+            },
+            {
+                  "name": "Gogol Theater of musical drama",
+                  "text": "Ein bekanntes Musiktheater in Poltava.",
+                  "category": "cultural",
+                  "coords": [
+                        34.556581,
+                        49.58601
+                  ]
+            },
+            {
+                  "name": "Puppet Theater",
+                  "text": "Das regionale akademische Puppentheater in Poltava.",
+                  "category": "cultural",
+                  "coords": [
+                        34.548667,
+                        49.586781
+                  ]
+            },
+            {
+                  "name": "The White Arbor",
+                  "text": "Ein berühmtes historisches Wahrzeichen und eine Attraktion in Poltava.",
+                  "category": "landmark",
+                  "coords": [
+                        34.569584,
+                        49.581518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Literary and Memorial Museum Kotlyarevsky",
+                  "text": "Egy jelentős múzeum Poltava városában, amelyet Ivan Kotljarevszkij írónak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        34.560435,
+                        49.579078
+                  ]
+            },
+            {
+                  "name": "The Museum-Place of I. P. Kotlyarevsky",
+                  "text": "Egy nevezetes emlékmúzeum Poltava városában.",
+                  "category": "museum",
+                  "coords": [
+                        34.568239,
+                        49.581631
+                  ]
+            },
+            {
+                  "name": "The Birch square",
+                  "text": "Egy jól ismert park Poltava városában.",
+                  "category": "park",
+                  "coords": [
+                        34.557517,
+                        49.581986
+                  ]
+            },
+            {
+                  "name": "Korolenko Museum",
+                  "text": "V. Korolenko írónak szentelt irodalmi múzeum Poltavában.",
+                  "category": "museum",
+                  "coords": [
+                        34.557854,
+                        49.57729
+                  ]
+            },
+            {
+                  "name": "Monument of Glory",
+                  "text": "Egy jelentős történelmi emlékmű Poltava városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.551161,
+                        49.589585
+                  ]
+            },
+            {
+                  "name": "Gogol Theater of musical drama",
+                  "text": "Egy kiemelkedő zenés színház Poltava városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.556581,
+                        49.58601
+                  ]
+            },
+            {
+                  "name": "Puppet Theater",
+                  "text": "A regionális akadémiai bábszínház Poltava városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.548667,
+                        49.586781
+                  ]
+            },
+            {
+                  "name": "The White Arbor",
+                  "text": "Egy híres történelmi nevezetesség és látványosság Poltava városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.569584,
+                        49.581518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Literary and Memorial Museum Kotlyarevsky",
+                  "text": "Un muzeu semnificativ din Poltava, dedicat scriitorului Ivan Kotlearevski.",
+                  "category": "museum",
+                  "coords": [
+                        34.560435,
+                        49.579078
+                  ]
+            },
+            {
+                  "name": "The Museum-Place of I. P. Kotlyarevsky",
+                  "text": "Un muzeu memorial notabil situat în Poltava.",
+                  "category": "museum",
+                  "coords": [
+                        34.568239,
+                        49.581631
+                  ]
+            },
+            {
+                  "name": "The Birch square",
+                  "text": "Un parc bine-cunoscut situat în Poltava.",
+                  "category": "park",
+                  "coords": [
+                        34.557517,
+                        49.581986
+                  ]
+            },
+            {
+                  "name": "Korolenko Museum",
+                  "text": "Un muzeu literar din Poltava dedicat autorului V. Korolenko.",
+                  "category": "museum",
+                  "coords": [
+                        34.557854,
+                        49.57729
+                  ]
+            },
+            {
+                  "name": "Monument of Glory",
+                  "text": "Un monument istoric notabil situat în Poltava.",
+                  "category": "landmark",
+                  "coords": [
+                        34.551161,
+                        49.589585
+                  ]
+            },
+            {
+                  "name": "Gogol Theater of musical drama",
+                  "text": "Un teatru proeminent de dramă muzicală situat în Poltava.",
+                  "category": "cultural",
+                  "coords": [
+                        34.556581,
+                        49.58601
+                  ]
+            },
+            {
+                  "name": "Puppet Theater",
+                  "text": "Teatrul academic regional de păpuși situat în Poltava.",
+                  "category": "cultural",
+                  "coords": [
+                        34.548667,
+                        49.586781
+                  ]
+            },
+            {
+                  "name": "The White Arbor",
+                  "text": "Un reper istoric renumit și o atracție în Poltava.",
+                  "category": "landmark",
+                  "coords": [
+                        34.569584,
+                        49.581518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Literary and Memorial Museum Kotlyarevsky",
+                  "text": "A significant museum in Poltava dedicated to the writer Ivan Kotlyarevsky.",
+                  "category": "museum",
+                  "coords": [
+                        34.560435,
+                        49.579078
+                  ]
+            },
+            {
+                  "name": "The Museum-Place of I. P. Kotlyarevsky",
+                  "text": "A notable memorial museum situated in Poltava.",
+                  "category": "museum",
+                  "coords": [
+                        34.568239,
+                        49.581631
+                  ]
+            },
+            {
+                  "name": "The Birch square",
+                  "text": "A well-known park area located in Poltava.",
+                  "category": "park",
+                  "coords": [
+                        34.557517,
+                        49.581986
+                  ]
+            },
+            {
+                  "name": "Korolenko Museum",
+                  "text": "A literary museum in Poltava dedicated to the author V. Korolenko.",
+                  "category": "museum",
+                  "coords": [
+                        34.557854,
+                        49.57729
+                  ]
+            },
+            {
+                  "name": "Monument of Glory",
+                  "text": "A notable historical monument located in Poltava.",
+                  "category": "landmark",
+                  "coords": [
+                        34.551161,
+                        49.589585
+                  ]
+            },
+            {
+                  "name": "Gogol Theater of musical drama",
+                  "text": "A prominent musical drama theater located in Poltava.",
+                  "category": "cultural",
+                  "coords": [
+                        34.556581,
+                        49.58601
+                  ]
+            },
+            {
+                  "name": "Puppet Theater",
+                  "text": "The regional academic puppet theater located in Poltava.",
+                  "category": "cultural",
+                  "coords": [
+                        34.548667,
+                        49.586781
+                  ]
+            },
+            {
+                  "name": "The White Arbor",
+                  "text": "A renowned historical landmark and attraction in Poltava.",
+                  "category": "landmark",
+                  "coords": [
+                        34.569584,
+                        49.581518
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Poltawa", hu: "Poltava", ro: "Poltava", en: "Poltava"},
@@ -13307,7 +14486,376 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-cherkasy-cities-v2",
+    id: "ukraine-cherkasy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dniprovskyi Park",
+                  "text": "Der Dniprovskyi-Park ist ein malerischer Stadtpark am Fluss in Tscherkassy.",
+                  "category": "park",
+                  "coords": [
+                        32.097188,
+                        49.435265
+                  ]
+            },
+            {
+                  "name": "Regional Council Square Garden",
+                  "text": "Der Regional Council Square Garden ist ein zentraler öffentlicher Park in Tscherkassy.",
+                  "category": "park",
+                  "coords": [
+                        32.061205,
+                        49.445512
+                  ]
+            },
+            {
+                  "name": "Bogdan Khmelnitsky Park",
+                  "text": "Der nach dem berühmten Hetman benannte Bogdan-Chmelnizki-Park bietet Erholungsraum im Grünen in Tscherkassy.",
+                  "category": "park",
+                  "coords": [
+                        32.065069,
+                        49.447872
+                  ]
+            },
+            {
+                  "name": "Zakhysnykiv Ukrainy Park",
+                  "text": "Der Zakhysnykiv-Ukrainy-Park ist ein Stadtpark in Tscherkassy, der den ukrainischen Verteidigern gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        32.085471,
+                        49.435065
+                  ]
+            },
+            {
+                  "name": "Friendship Square Garden",
+                  "text": "Der Friendship Square Garden ist ein friedlicher grüner Park in der Stadt Tscherkassy.",
+                  "category": "park",
+                  "coords": [
+                        32.044081,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Rose Valley",
+                  "text": "Das Rosental ist ein beliebter Landschaftspark in Tscherkassy, der für seine malerische Aussicht nahe dem Dnipro bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        32.064997,
+                        49.45098
+                  ]
+            },
+            {
+                  "name": "Cherkassy National University Botanical Garden",
+                  "text": "Dieser botanische Garten wird von der Nationalen Universität Tscherkassy gepflegt, um verschiedene Pflanzenarten zu kultivieren.",
+                  "category": "park",
+                  "coords": [
+                        32.056782,
+                        49.428
+                  ]
+            },
+            {
+                  "name": "Hyperboloid tower",
+                  "text": "Der Hyperboloidturm in Tscherkassy ist eine einzigartige architektonische Attraktion mit einer Gitterstahlstruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        32.059027,
+                        49.427299
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "Die Dreifaltigkeitskathedrale ist ein bedeutendes orthodoxes Gotteshaus in Tscherkassy.",
+                  "category": "religious",
+                  "coords": [
+                        32.059331,
+                        49.448315
+                  ]
+            },
+            {
+                  "name": "The Wonders of the World, of Ukraine and Cherkasy region",
+                  "text": "Diese Attraktion in Tscherkassy beleuchtet verschiedene thematische Wunder der Welt, der Ukraine und der lokalen Region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058286,
+                        49.444511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dniprovskyi Park",
+                  "text": "A Dnyiprovszkij park egy festői városi park a folyó mentén Cserkasziban.",
+                  "category": "park",
+                  "coords": [
+                        32.097188,
+                        49.435265
+                  ]
+            },
+            {
+                  "name": "Regional Council Square Garden",
+                  "text": "A Regionális Tanács Tér parkja egy központi közpark Cserkasziban.",
+                  "category": "park",
+                  "coords": [
+                        32.061205,
+                        49.445512
+                  ]
+            },
+            {
+                  "name": "Bogdan Khmelnitsky Park",
+                  "text": "A híres hetmanról elnevezett Bogdan Hmelnickij park zöld rekreációs területet biztosít Cserkasziban.",
+                  "category": "park",
+                  "coords": [
+                        32.065069,
+                        49.447872
+                  ]
+            },
+            {
+                  "name": "Zakhysnykiv Ukrainy Park",
+                  "text": "A Zakhysnykiv Ukrainy park egy cserkaszii városi park, amelyet az ukrán védők tiszteletére szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        32.085471,
+                        49.435065
+                  ]
+            },
+            {
+                  "name": "Friendship Square Garden",
+                  "text": "A Barátság Tér park egy békés zöld park Cserkaszi városában.",
+                  "category": "park",
+                  "coords": [
+                        32.044081,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Rose Valley",
+                  "text": "A Rózsavölgy egy népszerű parkosított terület Cserkasziban, amely a Dnyeper folyóhoz közeli festői kilátásáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        32.064997,
+                        49.45098
+                  ]
+            },
+            {
+                  "name": "Cherkassy National University Botanical Garden",
+                  "text": "Ezt a botanikus kertet a Cserkaszii Nemzeti Egyetem tartja fenn különböző növényfajok termesztésére.",
+                  "category": "park",
+                  "coords": [
+                        32.056782,
+                        49.428
+                  ]
+            },
+            {
+                  "name": "Hyperboloid tower",
+                  "text": "A cserkaszii hiperboloid torony egy egyedülálló, rácsos acélszerkezetű építészeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        32.059027,
+                        49.427299
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "A Szentháromság-székesegyház egy kiemelkedő keleti ortodox istentiszteleti hely Cserkasziban.",
+                  "category": "religious",
+                  "coords": [
+                        32.059331,
+                        49.448315
+                  ]
+            },
+            {
+                  "name": "The Wonders of the World, of Ukraine and Cherkasy region",
+                  "text": "Ez a cserkaszii látványosság a világ, Ukrajna és a helyi régió különböző tematikus csodáit emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058286,
+                        49.444511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dniprovskyi Park",
+                  "text": "Parcul Dniprovskyi este un parc urban pitoresc situat de-a lungul râului în Cerkasî.",
+                  "category": "park",
+                  "coords": [
+                        32.097188,
+                        49.435265
+                  ]
+            },
+            {
+                  "name": "Regional Council Square Garden",
+                  "text": "Grădina Pieței Consiliului Regional este un parc public central din Cerkasî.",
+                  "category": "park",
+                  "coords": [
+                        32.061205,
+                        49.445512
+                  ]
+            },
+            {
+                  "name": "Bogdan Khmelnitsky Park",
+                  "text": "Numit după faimosul hatman, Parcul Bogdan Khmelnitsky oferă un spațiu verde de recreere în Cerkasî.",
+                  "category": "park",
+                  "coords": [
+                        32.065069,
+                        49.447872
+                  ]
+            },
+            {
+                  "name": "Zakhysnykiv Ukrainy Park",
+                  "text": "Parcul Zakhysnykiv Ukrainy este un parc urban din Cerkasî dedicat onorării apărătorilor ucraineni.",
+                  "category": "park",
+                  "coords": [
+                        32.085471,
+                        49.435065
+                  ]
+            },
+            {
+                  "name": "Friendship Square Garden",
+                  "text": "Grădina Pieței Prieteniei este un parc verde și liniștit situat în orașul Cerkasî.",
+                  "category": "park",
+                  "coords": [
+                        32.044081,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Rose Valley",
+                  "text": "Valea Trandafirilor este un parc peisagistic popular din Cerkasî, cunoscut pentru priveliștile pitorești de lângă râul Nipru.",
+                  "category": "park",
+                  "coords": [
+                        32.064997,
+                        49.45098
+                  ]
+            },
+            {
+                  "name": "Cherkassy National University Botanical Garden",
+                  "text": "Această grădină botanică este întreținută de Universitatea Națională din Cerkasî pentru a cultiva diverse specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        32.056782,
+                        49.428
+                  ]
+            },
+            {
+                  "name": "Hyperboloid tower",
+                  "text": "Turnul hiperboloid din Cerkasî este o atracție arhitecturală unică, având o structură din oțel cu zăbrele.",
+                  "category": "landmark",
+                  "coords": [
+                        32.059027,
+                        49.427299
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "Catedrala Sfânta Treime este un important lăcaș de cult ortodox din Cerkasî.",
+                  "category": "religious",
+                  "coords": [
+                        32.059331,
+                        49.448315
+                  ]
+            },
+            {
+                  "name": "The Wonders of the World, of Ukraine and Cherkasy region",
+                  "text": "Această atracție din Cerkasî evidențiază diverse minuni tematice ale lumii, ale Ucrainei și ale regiunii locale.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058286,
+                        49.444511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dniprovskyi Park",
+                  "text": "Dniprovskyi Park is a scenic urban park located along the river in Cherkasy.",
+                  "category": "park",
+                  "coords": [
+                        32.097188,
+                        49.435265
+                  ]
+            },
+            {
+                  "name": "Regional Council Square Garden",
+                  "text": "The Regional Council Square Garden is a central public park area in Cherkasy.",
+                  "category": "park",
+                  "coords": [
+                        32.061205,
+                        49.445512
+                  ]
+            },
+            {
+                  "name": "Bogdan Khmelnitsky Park",
+                  "text": "Named after the famous Hetman, Bogdan Khmelnitsky Park provides green recreational space in Cherkasy.",
+                  "category": "park",
+                  "coords": [
+                        32.065069,
+                        49.447872
+                  ]
+            },
+            {
+                  "name": "Zakhysnykiv Ukrainy Park",
+                  "text": "Zakhysnykiv Ukrainy Park is an urban park in Cherkasy dedicated to honoring Ukrainian defenders.",
+                  "category": "park",
+                  "coords": [
+                        32.085471,
+                        49.435065
+                  ]
+            },
+            {
+                  "name": "Friendship Square Garden",
+                  "text": "Friendship Square Garden is a peaceful green park situated in the city of Cherkasy.",
+                  "category": "park",
+                  "coords": [
+                        32.044081,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Rose Valley",
+                  "text": "Rose Valley is a popular landscaped park in Cherkasy, known for its scenic views near the Dnipro River.",
+                  "category": "park",
+                  "coords": [
+                        32.064997,
+                        49.45098
+                  ]
+            },
+            {
+                  "name": "Cherkassy National University Botanical Garden",
+                  "text": "This botanical garden is maintained by the Cherkassy National University to cultivate various plant species.",
+                  "category": "park",
+                  "coords": [
+                        32.056782,
+                        49.428
+                  ]
+            },
+            {
+                  "name": "Hyperboloid tower",
+                  "text": "The hyperboloid tower in Cherkasy is a unique architectural attraction featuring a lattice steel structure.",
+                  "category": "landmark",
+                  "coords": [
+                        32.059027,
+                        49.427299
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "The Holy Trinity Cathedral is a prominent Eastern Orthodox place of worship in Cherkasy.",
+                  "category": "religious",
+                  "coords": [
+                        32.059331,
+                        49.448315
+                  ]
+            },
+            {
+                  "name": "The Wonders of the World, of Ukraine and Cherkasy region",
+                  "text": "This attraction in Cherkasy highlights various thematic wonders of the world, Ukraine, and the local region.",
+                  "category": "landmark",
+                  "coords": [
+                        32.058286,
+                        49.444511
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Tscherkassy", hu: "Cserkaszi", ro: "Cerkasî", en: "Cherkasy"},
@@ -13354,7 +14902,304 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-sumy-cities-v2",
+    id: "ukraine-sumy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petropavlivs'ka",
+                  "text": "Eine orthodoxe Kirche in Sumy, bekannt für ihre religiöse und architektonische Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        34.782674,
+                        50.89282
+                  ]
+            },
+            {
+                  "name": "Theater named by Shchepkin",
+                  "text": "Das nach M. S. Schtschepkin benannte Nationale Akademische Theater für Drama und musikalische Komödie in Sumy.",
+                  "category": "cultural",
+                  "coords": [
+                        34.798285,
+                        50.904797
+                  ]
+            },
+            {
+                  "name": "Alcove",
+                  "text": "Ein geschnitzter Holzpavillon, der als bekanntes Symbol und Attraktion von Sumy dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799271,
+                        50.906786
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "Eine bedeutende historische orthodoxe Kathedrale in Sumy.",
+                  "category": "religious",
+                  "coords": [
+                        34.816415,
+                        50.917258
+                  ]
+            },
+            {
+                  "name": "Holy Resurrection Cathedral",
+                  "text": "Eine historische orthodoxe Kathedrale und ein bemerkenswertes architektonisches Wahrzeichen in Sumy.",
+                  "category": "religious",
+                  "coords": [
+                        34.800674,
+                        50.911801
+                  ]
+            },
+            {
+                  "name": "Sovok-крінж",
+                  "text": "Ein Museum in der Stadt Sumy.",
+                  "category": "museum",
+                  "coords": [
+                        34.798611,
+                        50.908675
+                  ]
+            },
+            {
+                  "name": "Lavina",
+                  "text": "Ein Freizeitpark, der verschiedene Freizeitaktivitäten in Sumy anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        34.819158,
+                        50.904816
+                  ]
+            },
+            {
+                  "name": "Tribuna Park",
+                  "text": "Ein Kunstzentrum und öffentlicher Raum in Sumy.",
+                  "category": "cultural",
+                  "coords": [
+                        34.800018,
+                        50.903244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petropavlivs'ka",
+                  "text": "Egy ortodox templom Szumiban, amely vallási és építészeti jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        34.782674,
+                        50.89282
+                  ]
+            },
+            {
+                  "name": "Theater named by Shchepkin",
+                  "text": "Az M. Sz. Scsepkin nevét viselő Szumi Nemzeti Akadémiai Drámai és Zenés Vígjáték Színház.",
+                  "category": "cultural",
+                  "coords": [
+                        34.798285,
+                        50.904797
+                  ]
+            },
+            {
+                  "name": "Alcove",
+                  "text": "Egy faragott fa pavilon, amely Szumi egyik jól ismert szimbóluma és látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799271,
+                        50.906786
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "Egy kiemelkedő történelmi ortodox katedrális Szumiban.",
+                  "category": "religious",
+                  "coords": [
+                        34.816415,
+                        50.917258
+                  ]
+            },
+            {
+                  "name": "Holy Resurrection Cathedral",
+                  "text": "Egy történelmi ortodox katedrális és jelentős építészeti mérföldkő Szumiban.",
+                  "category": "religious",
+                  "coords": [
+                        34.800674,
+                        50.911801
+                  ]
+            },
+            {
+                  "name": "Sovok-крінж",
+                  "text": "Egy múzeum, amely Szumi városában található.",
+                  "category": "museum",
+                  "coords": [
+                        34.798611,
+                        50.908675
+                  ]
+            },
+            {
+                  "name": "Lavina",
+                  "text": "Egy vidámpark, amely különféle szabadidős tevékenységeket kínál Szumiban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.819158,
+                        50.904816
+                  ]
+            },
+            {
+                  "name": "Tribuna Park",
+                  "text": "Egy művészeti központ és közösségi tér Szumiban.",
+                  "category": "cultural",
+                  "coords": [
+                        34.800018,
+                        50.903244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petropavlivs'ka",
+                  "text": "O biserică ortodoxă din Sumî, cunoscută pentru importanța sa religioasă și arhitecturală.",
+                  "category": "religious",
+                  "coords": [
+                        34.782674,
+                        50.89282
+                  ]
+            },
+            {
+                  "name": "Theater named by Shchepkin",
+                  "text": "Teatrul Național Academic de Dramă și Comedie Muzicală din Sumî, numit după M. S. Șcepkin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.798285,
+                        50.904797
+                  ]
+            },
+            {
+                  "name": "Alcove",
+                  "text": "Un foișor din lemn sculptat care servește ca simbol și atracție binecunoscută a orașului Sumî.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799271,
+                        50.906786
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "O catedrală ortodoxă istorică proeminentă situată în Sumî.",
+                  "category": "religious",
+                  "coords": [
+                        34.816415,
+                        50.917258
+                  ]
+            },
+            {
+                  "name": "Holy Resurrection Cathedral",
+                  "text": "O catedrală ortodoxă istorică și un punct de reper arhitectural notabil din Sumî.",
+                  "category": "religious",
+                  "coords": [
+                        34.800674,
+                        50.911801
+                  ]
+            },
+            {
+                  "name": "Sovok-крінж",
+                  "text": "Un muzeu situat în orașul Sumî.",
+                  "category": "museum",
+                  "coords": [
+                        34.798611,
+                        50.908675
+                  ]
+            },
+            {
+                  "name": "Lavina",
+                  "text": "Un parc tematic care oferă diverse activități recreative în Sumî.",
+                  "category": "recreational",
+                  "coords": [
+                        34.819158,
+                        50.904816
+                  ]
+            },
+            {
+                  "name": "Tribuna Park",
+                  "text": "Un centru de arte și spațiu public situat în Sumî.",
+                  "category": "cultural",
+                  "coords": [
+                        34.800018,
+                        50.903244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petropavlivs'ka",
+                  "text": "An Orthodox church in Sumy, known for its religious and architectural significance.",
+                  "category": "religious",
+                  "coords": [
+                        34.782674,
+                        50.89282
+                  ]
+            },
+            {
+                  "name": "Theater named by Shchepkin",
+                  "text": "The Sumy National Academic Theater of Drama and Musical Comedy, named after M. S. Shchepkin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.798285,
+                        50.904797
+                  ]
+            },
+            {
+                  "name": "Alcove",
+                  "text": "A carved wooden gazebo that serves as a well-known symbol and attraction of Sumy.",
+                  "category": "landmark",
+                  "coords": [
+                        34.799271,
+                        50.906786
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "A prominent historic Orthodox cathedral located in Sumy.",
+                  "category": "religious",
+                  "coords": [
+                        34.816415,
+                        50.917258
+                  ]
+            },
+            {
+                  "name": "Holy Resurrection Cathedral",
+                  "text": "A historic Orthodox cathedral and notable architectural landmark in Sumy.",
+                  "category": "religious",
+                  "coords": [
+                        34.800674,
+                        50.911801
+                  ]
+            },
+            {
+                  "name": "Sovok-крінж",
+                  "text": "A museum situated in the city of Sumy.",
+                  "category": "museum",
+                  "coords": [
+                        34.798611,
+                        50.908675
+                  ]
+            },
+            {
+                  "name": "Lavina",
+                  "text": "A theme park offering various recreational activities in Sumy.",
+                  "category": "recreational",
+                  "coords": [
+                        34.819158,
+                        50.904816
+                  ]
+            },
+            {
+                  "name": "Tribuna Park",
+                  "text": "An arts center and public space located in Sumy.",
+                  "category": "cultural",
+                  "coords": [
+                        34.800018,
+                        50.903244
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Sumy", hu: "Szumi", ro: "Sumî", en: "Sumy"},
@@ -13401,7 +15246,268 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-zhytomyr-cities-v2",
+    id: "ukraine-zhytomyr-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "1100 років Житомиру",
+                  "text": "Das Denkmal \"1100 років Житомиру\" markiert das 1100-jährige Jubiläum der Gründung von Schytomyr.",
+                  "category": "historical",
+                  "coords": [
+                        28.654452,
+                        50.253407
+                  ]
+            },
+            {
+                  "name": "Zhytomyr Local History Museum",
+                  "text": "Das Heimatmuseum Schytomyr präsentiert Ausstellungen zur Vergangenheit der Region.",
+                  "category": "museum",
+                  "coords": [
+                        28.655491,
+                        50.254963
+                  ]
+            },
+            {
+                  "name": "Ракета Р-5В (8А62, SS-3)",
+                  "text": "Die R-5V (SS-3) ist eine ausgestellte Rakete und Sehenswürdigkeit in Schytomyr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.677884,
+                        50.253094
+                  ]
+            },
+            {
+                  "name": "Lutherian Church",
+                  "text": "Die lutherische Kirche ist ein historisches Gotteshaus in Schytomyr.",
+                  "category": "religious",
+                  "coords": [
+                        28.675577,
+                        50.248381
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Der Wasserturm ist ein markantes Bauwerk und eine bekannte Sehenswürdigkeit in Schytomyr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.663999,
+                        50.24944
+                  ]
+            },
+            {
+                  "name": "Mykhaykivsky Church",
+                  "text": "Die Michaelskathedrale ist ein bedeutendes Gotteshaus in Schytomyr.",
+                  "category": "religious",
+                  "coords": [
+                        28.663859,
+                        50.256566
+                  ]
+            },
+            {
+                  "name": "Ukrainian Culture House",
+                  "text": "Das Haus der ukrainischen Kultur ist ein lokales Museum in Schytomyr.",
+                  "category": "museum",
+                  "coords": [
+                        28.678733,
+                        50.248521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1100 років Житомиру",
+                  "text": "Az \"1100 років Житомиру\" emlékmű Zsitomir alapításának 1100. évfordulóját jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        28.654452,
+                        50.253407
+                  ]
+            },
+            {
+                  "name": "Zhytomyr Local History Museum",
+                  "text": "A Zsitomiri Helytörténeti Múzeum a régió múltjáról mutat be kiállításokat.",
+                  "category": "museum",
+                  "coords": [
+                        28.655491,
+                        50.254963
+                  ]
+            },
+            {
+                  "name": "Ракета Р-5В (8А62, SS-3)",
+                  "text": "Az R-5V (SS-3) egy kiállított rakéta és látványosság Zsitomirban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.677884,
+                        50.253094
+                  ]
+            },
+            {
+                  "name": "Lutherian Church",
+                  "text": "Az evangélikus templom egy történelmi istentiszteleti hely Zsitomirban.",
+                  "category": "religious",
+                  "coords": [
+                        28.675577,
+                        50.248381
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "A víztorony egy jellegzetes épület és ismert látványosság Zsitomirban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.663999,
+                        50.24944
+                  ]
+            },
+            {
+                  "name": "Mykhaykivsky Church",
+                  "text": "A Szent Mihály-székesegyház egy jelentős vallási épület Zsitomirban.",
+                  "category": "religious",
+                  "coords": [
+                        28.663859,
+                        50.256566
+                  ]
+            },
+            {
+                  "name": "Ukrainian Culture House",
+                  "text": "Az Ukrán Kultúra Háza egy helyi múzeum Zsitomirban.",
+                  "category": "museum",
+                  "coords": [
+                        28.678733,
+                        50.248521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1100 років Житомиру",
+                  "text": "Monumentul \"1100 років Житомиру\" marchează aniversarea a 1100 de ani de la fondarea orașului Jîtomîr.",
+                  "category": "historical",
+                  "coords": [
+                        28.654452,
+                        50.253407
+                  ]
+            },
+            {
+                  "name": "Zhytomyr Local History Museum",
+                  "text": "Muzeul de Istorie Locală din Jîtomîr prezintă expoziții despre trecutul regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        28.655491,
+                        50.254963
+                  ]
+            },
+            {
+                  "name": "Ракета Р-5В (8А62, SS-3)",
+                  "text": "R-5V (SS-3) este o rachetă expusă și o atracție în Jîtomîr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.677884,
+                        50.253094
+                  ]
+            },
+            {
+                  "name": "Lutherian Church",
+                  "text": "Biserica luterană este un lăcaș de cult istoric situat în Jîtomîr.",
+                  "category": "religious",
+                  "coords": [
+                        28.675577,
+                        50.248381
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "Turnul de Apă este o structură distinctivă și o atracție binecunoscută în Jîtomîr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.663999,
+                        50.24944
+                  ]
+            },
+            {
+                  "name": "Mykhaykivsky Church",
+                  "text": "Catedrala Sfântul Mihail este un important lăcaș de cult din Jîtomîr.",
+                  "category": "religious",
+                  "coords": [
+                        28.663859,
+                        50.256566
+                  ]
+            },
+            {
+                  "name": "Ukrainian Culture House",
+                  "text": "Casa Culturii Ucrainene este un muzeu local din Jîtomîr.",
+                  "category": "museum",
+                  "coords": [
+                        28.678733,
+                        50.248521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1100 років Житомиру",
+                  "text": "The monument \"1100 років Житомиру\" marks the 1100th anniversary of the founding of Zhytomyr.",
+                  "category": "historical",
+                  "coords": [
+                        28.654452,
+                        50.253407
+                  ]
+            },
+            {
+                  "name": "Zhytomyr Local History Museum",
+                  "text": "The Zhytomyr Local History Museum presents exhibits on the region's past.",
+                  "category": "museum",
+                  "coords": [
+                        28.655491,
+                        50.254963
+                  ]
+            },
+            {
+                  "name": "Ракета Р-5В (8А62, SS-3)",
+                  "text": "The R-5V (SS-3) is an exhibited rocket and attraction in Zhytomyr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.677884,
+                        50.253094
+                  ]
+            },
+            {
+                  "name": "Lutherian Church",
+                  "text": "The Lutheran Church is a historical place of worship located in Zhytomyr.",
+                  "category": "religious",
+                  "coords": [
+                        28.675577,
+                        50.248381
+                  ]
+            },
+            {
+                  "name": "Water Tower",
+                  "text": "The Water Tower is a distinctive structure and a well-known attraction in Zhytomyr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.663999,
+                        50.24944
+                  ]
+            },
+            {
+                  "name": "Mykhaykivsky Church",
+                  "text": "St. Michael's Cathedral is a significant place of worship in Zhytomyr.",
+                  "category": "religious",
+                  "coords": [
+                        28.663859,
+                        50.256566
+                  ]
+            },
+            {
+                  "name": "Ukrainian Culture House",
+                  "text": "The Ukrainian Culture House is a local museum in Zhytomyr.",
+                  "category": "museum",
+                  "coords": [
+                        28.678733,
+                        50.248521
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Schytomyr", hu: "Zsitomir", ro: "Jitomir", en: "Zhytomyr"},
@@ -15499,7 +17605,376 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-chernivtsi-cities-v2",
+    id: "ukraine-chernivtsi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Three Saints",
+                  "text": "Die Kirche der Drei Heiligen ist ein markantes orthodoxes Gotteshaus in Czernowitz.",
+                  "category": "religious",
+                  "coords": [
+                        25.924422,
+                        48.29635
+                  ]
+            },
+            {
+                  "name": "Olha Kobylianska Music and Drama Theatre",
+                  "text": "Das Olha-Kobyljanska-Theater ist ein zentraler kultureller Veranstaltungsort in Czernowitz.",
+                  "category": "cultural",
+                  "coords": [
+                        25.930849,
+                        48.291778
+                  ]
+            },
+            {
+                  "name": "Cathedral of The Holy Spirit",
+                  "text": "Die Heilig-Geist-Kathedrale ist ein beeindruckendes Bauwerk im Herzen von Czernowitz.",
+                  "category": "religious",
+                  "coords": [
+                        25.936774,
+                        48.287737
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Tfila Benjamin",
+                  "text": "Die Synagoge Beit Tfila Benjamin zeugt von der reichen jüdischen Geschichte in Czernowitz.",
+                  "category": "religious",
+                  "coords": [
+                        25.944886,
+                        48.284624
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "Die St.-Nikolaus-Kirche ist bekannt für ihre ungewöhnlichen, architektonisch verdrehten Kuppeln in Czernowitz.",
+                  "category": "religious",
+                  "coords": [
+                        25.943775,
+                        48.291084
+                  ]
+            },
+            {
+                  "name": "Museum of Arts",
+                  "text": "Das Kunstmuseum in Czernowitz präsentiert eine vielfältige Sammlung von Kunstwerken.",
+                  "category": "museum",
+                  "coords": [
+                        25.934363,
+                        48.291785
+                  ]
+            },
+            {
+                  "name": "Пам'ятник воїнам 41-го полку",
+                  "text": "Dieses Denkmal in Czernowitz ehrt die gefallenen Soldaten des 41. Regiments.",
+                  "category": "historical",
+                  "coords": [
+                        25.934479,
+                        48.288877
+                  ]
+            },
+            {
+                  "name": "Museum of Ethnography and Ancient History",
+                  "text": "Das Museum für Ethnografie und Alte Geschichte zeigt die kulturelle Vergangenheit von Czernowitz.",
+                  "category": "museum",
+                  "coords": [
+                        25.925365,
+                        48.296927
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "Die alte Lokomotive ist ein Denkmal für die historische Eisenbahnentwicklung in Czernowitz.",
+                  "category": "historical",
+                  "coords": [
+                        25.9503,
+                        48.299497
+                  ]
+            },
+            {
+                  "name": "600 years, which is my hometown. Hometown from true son. Yan Tabachnik.",
+                  "text": "Dieses Denkmal von Yan Tabachnik in Czernowitz feiert das 600-jährige Bestehen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        25.936953,
+                        48.294315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Three Saints",
+                  "text": "A Három Szent Temploma egy figyelemre méltó ortodox istentiszteleti hely Csernyivciben.",
+                  "category": "religious",
+                  "coords": [
+                        25.924422,
+                        48.29635
+                  ]
+            },
+            {
+                  "name": "Olha Kobylianska Music and Drama Theatre",
+                  "text": "Az Olha Kobiljanszka Színház egy központi kulturális rendezvényhelyszín Csernyivciben.",
+                  "category": "cultural",
+                  "coords": [
+                        25.930849,
+                        48.291778
+                  ]
+            },
+            {
+                  "name": "Cathedral of The Holy Spirit",
+                  "text": "A Szentlélek-székesegyház egy lenyűgöző építmény Csernyivci szívében.",
+                  "category": "religious",
+                  "coords": [
+                        25.936774,
+                        48.287737
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Tfila Benjamin",
+                  "text": "A Beit Tfila Benjamin zsinagóga Csernyivci gazdag zsidó történelmét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        25.944886,
+                        48.284624
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "A Szent Miklós-templom szokatlan, építészetileg csavart kupoláiról ismert Csernyivciben.",
+                  "category": "religious",
+                  "coords": [
+                        25.943775,
+                        48.291084
+                  ]
+            },
+            {
+                  "name": "Museum of Arts",
+                  "text": "A csernyivci Művészeti Múzeum sokszínű művészeti alkotások gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.934363,
+                        48.291785
+                  ]
+            },
+            {
+                  "name": "Пам'ятник воїнам 41-го полку",
+                  "text": "Ez a csernyivci emlékmű a 41. ezred elesett katonái előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        25.934479,
+                        48.288877
+                  ]
+            },
+            {
+                  "name": "Museum of Ethnography and Ancient History",
+                  "text": "A Néprajzi és Ókortörténeti Múzeum Csernyivci kulturális múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.925365,
+                        48.296927
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "A régi mozdony a csernyivci történelmi vasútfejlesztés emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        25.9503,
+                        48.299497
+                  ]
+            },
+            {
+                  "name": "600 years, which is my hometown. Hometown from true son. Yan Tabachnik.",
+                  "text": "Yan Tabachnik ez a csernyivci emlékműve a város 600 éves fennállását ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        25.936953,
+                        48.294315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Three Saints",
+                  "text": "Biserica Sfinților Trei Ierarhi este un important lăcaș de cult ortodox din Cernăuți.",
+                  "category": "religious",
+                  "coords": [
+                        25.924422,
+                        48.29635
+                  ]
+            },
+            {
+                  "name": "Olha Kobylianska Music and Drama Theatre",
+                  "text": "Teatrul Olha Kobylianska este un centru cultural de referință din Cernăuți.",
+                  "category": "cultural",
+                  "coords": [
+                        25.930849,
+                        48.291778
+                  ]
+            },
+            {
+                  "name": "Cathedral of The Holy Spirit",
+                  "text": "Catedrala Sfântului Duh este o structură impresionantă în inima orașului Cernăuți.",
+                  "category": "religious",
+                  "coords": [
+                        25.936774,
+                        48.287737
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Tfila Benjamin",
+                  "text": "Sinagoga Beit Tfila Benjamin reflectă bogata istorie evreiască din Cernăuți.",
+                  "category": "religious",
+                  "coords": [
+                        25.944886,
+                        48.284624
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "Biserica Sfântul Nicolae este cunoscută pentru cupolele sale răsucite neobișnuite din Cernăuți.",
+                  "category": "religious",
+                  "coords": [
+                        25.943775,
+                        48.291084
+                  ]
+            },
+            {
+                  "name": "Museum of Arts",
+                  "text": "Muzeul de Artă din Cernăuți prezintă o colecție diversă de opere de artă.",
+                  "category": "museum",
+                  "coords": [
+                        25.934363,
+                        48.291785
+                  ]
+            },
+            {
+                  "name": "Пам'ятник воїнам 41-го полку",
+                  "text": "Acest monument din Cernăuți onorează soldații căzuți ai Regimentului 41.",
+                  "category": "historical",
+                  "coords": [
+                        25.934479,
+                        48.288877
+                  ]
+            },
+            {
+                  "name": "Museum of Ethnography and Ancient History",
+                  "text": "Muzeul de Etnografie și Istorie Antică prezintă trecutul cultural al orașului Cernăuți.",
+                  "category": "museum",
+                  "coords": [
+                        25.925365,
+                        48.296927
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "Vechea locomotivă este un monument dedicat dezvoltării feroviare istorice din Cernăuți.",
+                  "category": "historical",
+                  "coords": [
+                        25.9503,
+                        48.299497
+                  ]
+            },
+            {
+                  "name": "600 years, which is my hometown. Hometown from true son. Yan Tabachnik.",
+                  "text": "Acest monument realizat de Yan Tabachnik în Cernăuți sărbătorește 600 de ani de existență a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        25.936953,
+                        48.294315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Three Saints",
+                  "text": "The Church of Three Saints is a notable Orthodox place of worship in Chernivtsi.",
+                  "category": "religious",
+                  "coords": [
+                        25.924422,
+                        48.29635
+                  ]
+            },
+            {
+                  "name": "Olha Kobylianska Music and Drama Theatre",
+                  "text": "The Olha Kobylianska Theatre is a central cultural venue in Chernivtsi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.930849,
+                        48.291778
+                  ]
+            },
+            {
+                  "name": "Cathedral of The Holy Spirit",
+                  "text": "The Cathedral of The Holy Spirit is a striking structure in the heart of Chernivtsi.",
+                  "category": "religious",
+                  "coords": [
+                        25.936774,
+                        48.287737
+                  ]
+            },
+            {
+                  "name": "Synagogue Beit Tfila Benjamin",
+                  "text": "The Synagogue Beit Tfila Benjamin reflects the rich Jewish history in Chernivtsi.",
+                  "category": "religious",
+                  "coords": [
+                        25.944886,
+                        48.284624
+                  ]
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "St. Nicholas Church is known for its unusual, architecturally twisted domes in Chernivtsi.",
+                  "category": "religious",
+                  "coords": [
+                        25.943775,
+                        48.291084
+                  ]
+            },
+            {
+                  "name": "Museum of Arts",
+                  "text": "The Museum of Arts in Chernivtsi showcases a diverse collection of artworks.",
+                  "category": "museum",
+                  "coords": [
+                        25.934363,
+                        48.291785
+                  ]
+            },
+            {
+                  "name": "Пам'ятник воїнам 41-го полку",
+                  "text": "This monument in Chernivtsi honors the fallen soldiers of the 41st Regiment.",
+                  "category": "historical",
+                  "coords": [
+                        25.934479,
+                        48.288877
+                  ]
+            },
+            {
+                  "name": "Museum of Ethnography and Ancient History",
+                  "text": "The Museum of Ethnography and Ancient History displays the cultural past of Chernivtsi.",
+                  "category": "museum",
+                  "coords": [
+                        25.925365,
+                        48.296927
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "The old locomotive is a monument to the historic railway development in Chernivtsi.",
+                  "category": "historical",
+                  "coords": [
+                        25.9503,
+                        48.299497
+                  ]
+            },
+            {
+                  "name": "600 years, which is my hometown. Hometown from true son. Yan Tabachnik.",
+                  "text": "This monument by Yan Tabachnik in Chernivtsi celebrates the 600th anniversary of the city.",
+                  "category": "historical",
+                  "coords": [
+                        25.936953,
+                        48.294315
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Tscherniwzi", hu: "Csernyivci", ro: "Cernăuți", en: "Chernivtsi"},
@@ -16034,7 +18509,304 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-ternopil-cities-v2",
+    id: "ukraine-ternopil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "T. Shevchenko Garden Square",
+                  "text": "Der T. Shevchenko Garden Square ist ein städtischer Naturpark in Ternopil.",
+                  "category": "natural",
+                  "coords": [
+                        25.594815,
+                        49.552089
+                  ]
+            },
+            {
+                  "name": "Garden Square on V. Chornovola Street",
+                  "text": "Der Garden Square an der V. Chornovola Street ist eine öffentliche Grünanlage in Ternopil.",
+                  "category": "natural",
+                  "coords": [
+                        25.59639,
+                        49.553277
+                  ]
+            },
+            {
+                  "name": "Ternopil Castle",
+                  "text": "Das Ternopil Castle ist eine historische Festung in der Stadt Ternopil.",
+                  "category": "castle",
+                  "coords": [
+                        25.587634,
+                        49.553385
+                  ]
+            },
+            {
+                  "name": "Ivan Gorbachevskyi",
+                  "text": "Das Denkmal für Ivan Gorbachevskyi ist eine Sehenswürdigkeit in Ternopil.",
+                  "category": "landmark",
+                  "coords": [
+                        25.588083,
+                        49.550323
+                  ]
+            },
+            {
+                  "name": "Ivan Franko",
+                  "text": "Das Denkmal für Ivan Franko ist eine bekannte Attraktion in Ternopil.",
+                  "category": "landmark",
+                  "coords": [
+                        25.592846,
+                        49.552893
+                  ]
+            },
+            {
+                  "name": "Церква Воздвиження Чесного Хреста (XVI ст)",
+                  "text": "Die Kreuzerhöhungskirche ist ein historisches Gotteshaus in Ternopil aus dem 16. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        25.583017,
+                        49.551007
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox cathedral of Saints Faith, Hope, Charity and Their Mother Sophia",
+                  "text": "Die russisch-orthodoxe Kathedrale der Heiligen Glaube, Hoffnung, Liebe und ihrer Mutter Sophia befindet sich in Ternopil.",
+                  "category": "religious",
+                  "coords": [
+                        25.62361,
+                        49.550568
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "Das Museum of Art ist ein Kunstmuseum in Ternopil.",
+                  "category": "museum",
+                  "coords": [
+                        25.593135,
+                        49.557432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "T. Shevchenko Garden Square",
+                  "text": "A T. Sevcsenko tér egy városi természetvédelmi park Ternopilban.",
+                  "category": "natural",
+                  "coords": [
+                        25.594815,
+                        49.552089
+                  ]
+            },
+            {
+                  "name": "Garden Square on V. Chornovola Street",
+                  "text": "A V. Csornovol utcai park egy természetvédelmi tér Ternopil városában.",
+                  "category": "natural",
+                  "coords": [
+                        25.59639,
+                        49.553277
+                  ]
+            },
+            {
+                  "name": "Ternopil Castle",
+                  "text": "A Ternopili vár egy történelmi erődítmény Ternopil városában.",
+                  "category": "castle",
+                  "coords": [
+                        25.587634,
+                        49.553385
+                  ]
+            },
+            {
+                  "name": "Ivan Gorbachevskyi",
+                  "text": "Ivan Horbacsevszkij emlékműve egy turisztikai látványosság Ternopilban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.588083,
+                        49.550323
+                  ]
+            },
+            {
+                  "name": "Ivan Franko",
+                  "text": "Ivan Franko emlékműve egy ismert látványosság Ternopil városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.592846,
+                        49.552893
+                  ]
+            },
+            {
+                  "name": "Церква Воздвиження Чесного Хреста (XVI ст)",
+                  "text": "A Szent Kereszt felmagasztalása templom egy 16. századi történelmi istentiszteleti hely Ternopilban.",
+                  "category": "religious",
+                  "coords": [
+                        25.583017,
+                        49.551007
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox cathedral of Saints Faith, Hope, Charity and Their Mother Sophia",
+                  "text": "A Szent Haza, Remény, Szeretet és anyjuk, Zsófia orosz ortodox katedrálisa Ternopilban található.",
+                  "category": "religious",
+                  "coords": [
+                        25.62361,
+                        49.550568
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "A Művészeti Múzeum egy jelentős kulturális intézmény Ternopilban.",
+                  "category": "museum",
+                  "coords": [
+                        25.593135,
+                        49.557432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "T. Shevchenko Garden Square",
+                  "text": "T. Shevchenko Garden Square este o rezervație naturală și un parc urban în Ternopil.",
+                  "category": "natural",
+                  "coords": [
+                        25.594815,
+                        49.552089
+                  ]
+            },
+            {
+                  "name": "Garden Square on V. Chornovola Street",
+                  "text": "Parcul de pe strada V. Chornovola este o zonă verde din Ternopil.",
+                  "category": "natural",
+                  "coords": [
+                        25.59639,
+                        49.553277
+                  ]
+            },
+            {
+                  "name": "Ternopil Castle",
+                  "text": "Castelul Ternopil este o fortăreață istorică situată în orașul Ternopil.",
+                  "category": "castle",
+                  "coords": [
+                        25.587634,
+                        49.553385
+                  ]
+            },
+            {
+                  "name": "Ivan Gorbachevskyi",
+                  "text": "Monumentul lui Ivan Gorbachevskyi este o atracție turistică în Ternopil.",
+                  "category": "landmark",
+                  "coords": [
+                        25.588083,
+                        49.550323
+                  ]
+            },
+            {
+                  "name": "Ivan Franko",
+                  "text": "Monumentul lui Ivan Franko este o atracție recunoscută din Ternopil.",
+                  "category": "landmark",
+                  "coords": [
+                        25.592846,
+                        49.552893
+                  ]
+            },
+            {
+                  "name": "Церква Воздвиження Чесного Хреста (XVI ст)",
+                  "text": "Biserica Înălțarea Sfintei Cruci este un lăcaș de cult istoric din secolul al XVI-lea din Ternopil.",
+                  "category": "religious",
+                  "coords": [
+                        25.583017,
+                        49.551007
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox cathedral of Saints Faith, Hope, Charity and Their Mother Sophia",
+                  "text": "Catedrala ortodoxă rusă a Sfinților Credință, Speranță, Iubire și a mamei lor Sofia este situată în Ternopil.",
+                  "category": "religious",
+                  "coords": [
+                        25.62361,
+                        49.550568
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "Muzeul de Artă este un muzeu dedicat artelor vizuale în Ternopil.",
+                  "category": "museum",
+                  "coords": [
+                        25.593135,
+                        49.557432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "T. Shevchenko Garden Square",
+                  "text": "T. Shevchenko Garden Square is an urban nature reserve and park located in Ternopil.",
+                  "category": "natural",
+                  "coords": [
+                        25.594815,
+                        49.552089
+                  ]
+            },
+            {
+                  "name": "Garden Square on V. Chornovola Street",
+                  "text": "The Garden Square on V. Chornovola Street is a green public space in Ternopil.",
+                  "category": "natural",
+                  "coords": [
+                        25.59639,
+                        49.553277
+                  ]
+            },
+            {
+                  "name": "Ternopil Castle",
+                  "text": "Ternopil Castle is a historical fortress situated in the city of Ternopil.",
+                  "category": "castle",
+                  "coords": [
+                        25.587634,
+                        49.553385
+                  ]
+            },
+            {
+                  "name": "Ivan Gorbachevskyi",
+                  "text": "The monument of Ivan Gorbachevskyi is a tourist attraction located in Ternopil.",
+                  "category": "landmark",
+                  "coords": [
+                        25.588083,
+                        49.550323
+                  ]
+            },
+            {
+                  "name": "Ivan Franko",
+                  "text": "The Ivan Franko monument is a well-known attraction in the city of Ternopil.",
+                  "category": "landmark",
+                  "coords": [
+                        25.592846,
+                        49.552893
+                  ]
+            },
+            {
+                  "name": "Церква Воздвиження Чесного Хреста (XVI ст)",
+                  "text": "The Church of the Exaltation of the Holy Cross is a historic 16th-century place of worship in Ternopil.",
+                  "category": "religious",
+                  "coords": [
+                        25.583017,
+                        49.551007
+                  ]
+            },
+            {
+                  "name": "Russian Orthodox cathedral of Saints Faith, Hope, Charity and Their Mother Sophia",
+                  "text": "The Russian Orthodox cathedral of Saints Faith, Hope, Charity and Their Mother Sophia is a prominent church in Ternopil.",
+                  "category": "religious",
+                  "coords": [
+                        25.62361,
+                        49.550568
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "The Museum of Art is an institution dedicated to visual arts in Ternopil.",
+                  "category": "museum",
+                  "coords": [
+                        25.593135,
+                        49.557432
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Ternopil", hu: "Ternopil", ro: "Ternopil", en: "Ternopil"},
@@ -16081,7 +18853,268 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-lutsk-cities-v2",
+    id: "ukraine-lutsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lutsk Brotherhood History Museum",
+                  "text": "Das Geschichtsmuseum der Bruderschaft von Luzk widmet sich der Geschichte der lokalen orthodoxen Bruderschaft.",
+                  "category": "museum",
+                  "coords": [
+                        25.316553,
+                        50.740349
+                  ]
+            },
+            {
+                  "name": "Kost Shyshko",
+                  "text": "Dieses Denkmal in Luzk ehrt Kost Schyschko, einen bekannten ukrainischen Dichter und Künstler.",
+                  "category": "historical",
+                  "coords": [
+                        25.322973,
+                        50.745023
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "Das Kunstmuseum in Luzk bietet Sammlungen regionaler Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        25.323049,
+                        50.738499
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka",
+                  "text": "Dieses Denkmal in Luzk ehrt die berühmte ukrainische Schriftstellerin Lesja Ukrajinka.",
+                  "category": "historical",
+                  "coords": [
+                        25.324979,
+                        50.746876
+                  ]
+            },
+            {
+                  "name": "Museum of Volyn Icon",
+                  "text": "Das Museum der Wolhynischen Ikone in Luzk beherbergt eine Sammlung historischer regionaler Ikonenmalereien.",
+                  "category": "museum",
+                  "coords": [
+                        25.331133,
+                        50.748075
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka Central Park of Culture and Recreation",
+                  "text": "Dieser zentrale Park in Luzk ist nach der berühmten Dichterin Lesja Ukrajinka benannt.",
+                  "category": "park",
+                  "coords": [
+                        25.330679,
+                        50.741655
+                  ]
+            },
+            {
+                  "name": "Eternal Glory Memorial",
+                  "text": "Das Denkmal der Ewigen Herrlichkeit in Luzk ist ein Gedenkpark für die Opfer des Zweiten Weltkriegs.",
+                  "category": "park",
+                  "coords": [
+                        25.336178,
+                        50.751899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lutsk Brotherhood History Museum",
+                  "text": "A lucki testvériség történelmi múzeuma a helyi ortodox testvériség történetét mutatja be Luckban.",
+                  "category": "museum",
+                  "coords": [
+                        25.316553,
+                        50.740349
+                  ]
+            },
+            {
+                  "name": "Kost Shyshko",
+                  "text": "Ez a lucki emlékmű Kosztyantin Sisko neves ukrán költőnek és művésznek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        25.322973,
+                        50.745023
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "A lucki Művészeti Múzeum regionális művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        25.323049,
+                        50.738499
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka",
+                  "text": "Ez a lucki emlékmű a híres ukrán írónőnek, Leszja Ukrajinkának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        25.324979,
+                        50.746876
+                  ]
+            },
+            {
+                  "name": "Museum of Volyn Icon",
+                  "text": "A lucki Volhíniai Ikonmúzeum a történelmi regionális ikonfestészet egyedülálló gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        25.331133,
+                        50.748075
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka Central Park of Culture and Recreation",
+                  "text": "Ez a lucki központi park a híres költőnőről, Leszja Ukrajinkáról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        25.330679,
+                        50.741655
+                  ]
+            },
+            {
+                  "name": "Eternal Glory Memorial",
+                  "text": "Az Örök Dicsőség Emlékműve Luckban a II. világháború áldozatainak szentelt emlékpark-komplexum.",
+                  "category": "park",
+                  "coords": [
+                        25.336178,
+                        50.751899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lutsk Brotherhood History Museum",
+                  "text": "Muzeul de Istorie a Frăției din Luțk este dedicat istoriei frăției ortodoxe locale din Luțk.",
+                  "category": "museum",
+                  "coords": [
+                        25.316553,
+                        50.740349
+                  ]
+            },
+            {
+                  "name": "Kost Shyshko",
+                  "text": "Acest monument din Luțk îl onorează pe Kost Shyshko, un renumit poet și artist ucrainean.",
+                  "category": "historical",
+                  "coords": [
+                        25.322973,
+                        50.745023
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "Muzeul de Artă din Luțk prezintă colecții de opere de artă regionale.",
+                  "category": "museum",
+                  "coords": [
+                        25.323049,
+                        50.738499
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka",
+                  "text": "Acest monument din Luțk o celebrează pe faimoasa scriitoare ucraineană Lesia Ukrainka.",
+                  "category": "historical",
+                  "coords": [
+                        25.324979,
+                        50.746876
+                  ]
+            },
+            {
+                  "name": "Museum of Volyn Icon",
+                  "text": "Muzeul Icoanei Volîniene din Luțk găzduiește o colecție de picturi de icoane regionale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        25.331133,
+                        50.748075
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka Central Park of Culture and Recreation",
+                  "text": "Acest parc central din Luțk poartă numele celebrei poete Lesia Ukrainka.",
+                  "category": "park",
+                  "coords": [
+                        25.330679,
+                        50.741655
+                  ]
+            },
+            {
+                  "name": "Eternal Glory Memorial",
+                  "text": "Memorialul Gloriei Eterne din Luțk este un parc memorial dedicat victimelor celui de-al Doilea Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        25.336178,
+                        50.751899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lutsk Brotherhood History Museum",
+                  "text": "The Lutsk Brotherhood History Museum is dedicated to the history of the local Orthodox brotherhood in Lutsk.",
+                  "category": "museum",
+                  "coords": [
+                        25.316553,
+                        50.740349
+                  ]
+            },
+            {
+                  "name": "Kost Shyshko",
+                  "text": "This monument in Lutsk honors Kost Shyshko, a renowned Ukrainian poet and artist.",
+                  "category": "historical",
+                  "coords": [
+                        25.322973,
+                        50.745023
+                  ]
+            },
+            {
+                  "name": "Museum of Art",
+                  "text": "The Museum of Art in Lutsk features collections of regional artworks.",
+                  "category": "museum",
+                  "coords": [
+                        25.323049,
+                        50.738499
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka",
+                  "text": "This prominent monument in Lutsk celebrates the famous Ukrainian writer Lesya Ukrainka.",
+                  "category": "historical",
+                  "coords": [
+                        25.324979,
+                        50.746876
+                  ]
+            },
+            {
+                  "name": "Museum of Volyn Icon",
+                  "text": "The Museum of Volyn Icon in Lutsk houses a unique collection of historical regional icon paintings.",
+                  "category": "museum",
+                  "coords": [
+                        25.331133,
+                        50.748075
+                  ]
+            },
+            {
+                  "name": "Lesya Ukrainka Central Park of Culture and Recreation",
+                  "text": "This central park in Lutsk is named after the famous poet Lesya Ukrainka.",
+                  "category": "park",
+                  "coords": [
+                        25.330679,
+                        50.741655
+                  ]
+            },
+            {
+                  "name": "Eternal Glory Memorial",
+                  "text": "The Eternal Glory Memorial in Lutsk is a memorial park complex dedicated to the victims of World War II.",
+                  "category": "park",
+                  "coords": [
+                        25.336178,
+                        50.751899
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Luzk", hu: "Luck", ro: "Luțk", en: "Lutsk"},
@@ -16128,7 +19161,196 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-bila-tserkva-cities-v2",
+    id: "ukraine-bila-tserkva-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ансамбль споруд пошти (Стара пошта, 1833 р.)",
+                  "text": "Ein archäologischer und historischer Postkomplex aus dem Jahr 1833 in Bila Tserkva.",
+                  "category": "historical",
+                  "coords": [
+                        30.108937,
+                        49.79956
+                  ]
+            },
+            {
+                  "name": "Taras Shevchenko Park",
+                  "text": "Ein öffentlicher Park in Bila Tserkva, der dem Dichter Taras Schewtschenko gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        30.112087,
+                        49.794084
+                  ]
+            },
+            {
+                  "name": "Local History Museum (1924 yr.)",
+                  "text": "Ein Heimatmuseum in Bila Tserkva, das 1924 gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        30.109786,
+                        49.791922
+                  ]
+            },
+            {
+                  "name": "Holy Transfiguration Cathedral",
+                  "text": "Eine markante orthodoxe Kathedrale und architektonisches Wahrzeichen in Bila Tserkva.",
+                  "category": "religious",
+                  "coords": [
+                        30.115096,
+                        49.792999
+                  ]
+            },
+            {
+                  "name": "Dionysus",
+                  "text": "Ein lokaler Theatersaal in Bila Tserkva.",
+                  "category": "cultural",
+                  "coords": [
+                        30.117985,
+                        49.795595
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ансамбль споруд пошти (Стара пошта, 1833 р.)",
+                  "text": "Egy 1833-ból származó történelmi postai épületegyüttes Bila Cerkvában.",
+                  "category": "historical",
+                  "coords": [
+                        30.108937,
+                        49.79956
+                  ]
+            },
+            {
+                  "name": "Taras Shevchenko Park",
+                  "text": "Tarasz Sevcsenko költőnek szentelt közpark Bila Cerkvában.",
+                  "category": "park",
+                  "coords": [
+                        30.112087,
+                        49.794084
+                  ]
+            },
+            {
+                  "name": "Local History Museum (1924 yr.)",
+                  "text": "Helytörténeti múzeum Bila Cerkvában, amelyet 1924-ben alapítottak.",
+                  "category": "museum",
+                  "coords": [
+                        30.109786,
+                        49.791922
+                  ]
+            },
+            {
+                  "name": "Holy Transfiguration Cathedral",
+                  "text": "Kiemelkedő ortodox székesegyház és építészeti nevezetesség Bila Cerkvában.",
+                  "category": "religious",
+                  "coords": [
+                        30.115096,
+                        49.792999
+                  ]
+            },
+            {
+                  "name": "Dionysus",
+                  "text": "Helyi színházi helyszín Bila Cerkvában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.117985,
+                        49.795595
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ансамбль споруд пошти (Стара пошта, 1833 р.)",
+                  "text": "Un complex arheologic și istoric poștal datând din 1833 în Bila Țerkva.",
+                  "category": "historical",
+                  "coords": [
+                        30.108937,
+                        49.79956
+                  ]
+            },
+            {
+                  "name": "Taras Shevchenko Park",
+                  "text": "Un parc public central din Bila Țerkva dedicat poetului Taras Șevcenko.",
+                  "category": "park",
+                  "coords": [
+                        30.112087,
+                        49.794084
+                  ]
+            },
+            {
+                  "name": "Local History Museum (1924 yr.)",
+                  "text": "Un muzeu de istorie locală din Bila Țerkva, fondat în 1924.",
+                  "category": "museum",
+                  "coords": [
+                        30.109786,
+                        49.791922
+                  ]
+            },
+            {
+                  "name": "Holy Transfiguration Cathedral",
+                  "text": "O importantă catedrală ortodoxă și punct de reper arhitectural în Bila Țerkva.",
+                  "category": "religious",
+                  "coords": [
+                        30.115096,
+                        49.792999
+                  ]
+            },
+            {
+                  "name": "Dionysus",
+                  "text": "O sală de teatru locală din Bila Țerkva.",
+                  "category": "cultural",
+                  "coords": [
+                        30.117985,
+                        49.795595
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ансамбль споруд пошти (Стара пошта, 1833 р.)",
+                  "text": "An archaeological and historical postal complex dating back to 1833 in Bila Tserkva.",
+                  "category": "historical",
+                  "coords": [
+                        30.108937,
+                        49.79956
+                  ]
+            },
+            {
+                  "name": "Taras Shevchenko Park",
+                  "text": "A central public park in Bila Tserkva dedicated to the poet Taras Shevchenko.",
+                  "category": "park",
+                  "coords": [
+                        30.112087,
+                        49.794084
+                  ]
+            },
+            {
+                  "name": "Local History Museum (1924 yr.)",
+                  "text": "A local history museum in Bila Tserkva, founded in 1924.",
+                  "category": "museum",
+                  "coords": [
+                        30.109786,
+                        49.791922
+                  ]
+            },
+            {
+                  "name": "Holy Transfiguration Cathedral",
+                  "text": "A prominent Orthodox cathedral and architectural landmark in Bila Tserkva.",
+                  "category": "religious",
+                  "coords": [
+                        30.115096,
+                        49.792999
+                  ]
+            },
+            {
+                  "name": "Dionysus",
+                  "text": "A local theater venue in Bila Tserkva.",
+                  "category": "cultural",
+                  "coords": [
+                        30.117985,
+                        49.795595
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Bila Zerkwa", hu: "Bila Cerkva", ro: "Bila Țerkva", en: "Bila Tserkva"},
@@ -17117,7 +20339,196 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-nikopol-cities-v2",
+    id: "ukraine-nikopol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Танк ІС-2",
+                  "text": "Танк ІС-2 ist ein historisches Denkmal in Nikopol, das einen schweren IS-2-Panzer zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        34.37676,
+                        47.57205
+                  ]
+            },
+            {
+                  "name": "Літак МіГ-15",
+                  "text": "Літак МіГ-15 ist ein Luftfahrtdenkmal in Nikopol, das ein historisches Kampfflugzeug ausstellt.",
+                  "category": "historical",
+                  "coords": [
+                        34.387684,
+                        47.56833
+                  ]
+            },
+            {
+                  "name": "Nikopol Local History Museum",
+                  "text": "Das Heimatmuseum von Nikopol stellt Artefakte und Dokumente über die Vergangenheit der Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        34.392907,
+                        47.567116
+                  ]
+            },
+            {
+                  "name": "Merchant Husiev's House",
+                  "text": "Das Haus des Kaufmanns Husiev umfasst die historischen Ruinen eines ehemaligen Wohnsitzes in Nikopol.",
+                  "category": "historical",
+                  "coords": [
+                        34.406676,
+                        47.552683
+                  ]
+            },
+            {
+                  "name": "The Nike Wings Monument",
+                  "text": "Das Nike-Flügel-Denkmal ist ein markantes skulpturales Denkmal in Nikopol.",
+                  "category": "historical",
+                  "coords": [
+                        34.391733,
+                        47.569171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Танк ІС-2",
+                  "text": "A Танк ІС-2 egy történelmi emlékmű Nikopolban, amely egy ISZ–2 nehézharckocsit ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        34.37676,
+                        47.57205
+                  ]
+            },
+            {
+                  "name": "Літак МіГ-15",
+                  "text": "A Літак МіГ-15 egy repülési emlékmű Nikopolban, amely egy történelmi vadászrepülőgépet mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        34.387684,
+                        47.56833
+                  ]
+            },
+            {
+                  "name": "Nikopol Local History Museum",
+                  "text": "A Nikopoli Helytörténeti Múzeum a régió múltját bemutató tárgyakat és dokumentumokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        34.392907,
+                        47.567116
+                  ]
+            },
+            {
+                  "name": "Merchant Husiev's House",
+                  "text": "A Huszev kereskedő háza egy egykori rezidencia történelmi romjait foglalja magába Nikopolban.",
+                  "category": "historical",
+                  "coords": [
+                        34.406676,
+                        47.552683
+                  ]
+            },
+            {
+                  "name": "The Nike Wings Monument",
+                  "text": "A Niké-szárnyak emlékmű egy jellegzetes szobor Nikopolban.",
+                  "category": "historical",
+                  "coords": [
+                        34.391733,
+                        47.569171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Танк ІС-2",
+                  "text": "Танк ІС-2 este un monument istoric din Nikopol care prezintă un tanc greu IS-2.",
+                  "category": "historical",
+                  "coords": [
+                        34.37676,
+                        47.57205
+                  ]
+            },
+            {
+                  "name": "Літак МіГ-15",
+                  "text": "Літак МіГ-15 este un monument de aviație din Nikopol care expune un avion de vânătoare istoric.",
+                  "category": "historical",
+                  "coords": [
+                        34.387684,
+                        47.56833
+                  ]
+            },
+            {
+                  "name": "Nikopol Local History Museum",
+                  "text": "Muzeul de Istorie Locală din Nikopol expune artefacte și documente despre trecutul regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        34.392907,
+                        47.567116
+                  ]
+            },
+            {
+                  "name": "Merchant Husiev's House",
+                  "text": "Casa negustorului Husiev prezintă ruinele istorice ale unei foste reședințe din Nikopol.",
+                  "category": "historical",
+                  "coords": [
+                        34.406676,
+                        47.552683
+                  ]
+            },
+            {
+                  "name": "The Nike Wings Monument",
+                  "text": "Monumentul Aripile lui Nike este un memorial sculptural distinctiv situat în Nikopol.",
+                  "category": "historical",
+                  "coords": [
+                        34.391733,
+                        47.569171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Танк ІС-2",
+                  "text": "Танк ІС-2 is a historical monument in Nikopol featuring an IS-2 heavy tank.",
+                  "category": "historical",
+                  "coords": [
+                        34.37676,
+                        47.57205
+                  ]
+            },
+            {
+                  "name": "Літак МіГ-15",
+                  "text": "Літак МіГ-15 is an aviation monument in Nikopol displaying a historic fighter aircraft.",
+                  "category": "historical",
+                  "coords": [
+                        34.387684,
+                        47.56833
+                  ]
+            },
+            {
+                  "name": "Nikopol Local History Museum",
+                  "text": "The Nikopol Local History Museum exhibits artifacts and documents about the region's past.",
+                  "category": "museum",
+                  "coords": [
+                        34.392907,
+                        47.567116
+                  ]
+            },
+            {
+                  "name": "Merchant Husiev's House",
+                  "text": "Merchant Husiev's House features the historical ruins of a former residence in Nikopol.",
+                  "category": "historical",
+                  "coords": [
+                        34.406676,
+                        47.552683
+                  ]
+            },
+            {
+                  "name": "The Nike Wings Monument",
+                  "text": "The Nike Wings Monument is a distinctive sculptural memorial located in Nikopol.",
+                  "category": "historical",
+                  "coords": [
+                        34.391733,
+                        47.569171
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Nikopol", hu: "Nyikopol", ro: "Nikopol", en: "Nikopol"},
@@ -18430,7 +21841,196 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-alchevsk-cities-v2",
+    id: "ukraine-alchevsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Освободителям города - 1943 г.",
+                  "text": "Ein Denkmal in Alchevsk, das den Befreiern der Stadt im Jahr 1943 gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        38.790835,
+                        48.480968
+                  ]
+            },
+            {
+                  "name": "Пам'ятник В.I. Ленiну",
+                  "text": "Ein V.I. Lenin gewidmetes Denkmal in Alchevsk.",
+                  "category": "historical",
+                  "coords": [
+                        38.797061,
+                        48.468881
+                  ]
+            },
+            {
+                  "name": "На честь 30-річчя виводу військ з Афганістану",
+                  "text": "Ein Denkmal in Alchevsk zum 30. Jahrestag des Truppenabzugs aus Afghanistan.",
+                  "category": "historical",
+                  "coords": [
+                        38.793816,
+                        48.467206
+                  ]
+            },
+            {
+                  "name": "Орлові ставки 1",
+                  "text": "Eine als Orlovi Stavky 1 bekannte Attraktion in Alchevsk.",
+                  "category": "landmark",
+                  "coords": [
+                        38.82931,
+                        48.482421
+                  ]
+            },
+            {
+                  "name": "Парк 2-го сентября",
+                  "text": "Ein Park und eine lokale Attraktion in Alchevsk.",
+                  "category": "landmark",
+                  "coords": [
+                        38.821048,
+                        48.468308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Освободителям города - 1943 г.",
+                  "text": "A város 1943-as felszabadítóinak szentelt emlékmű Alcsevszkben.",
+                  "category": "historical",
+                  "coords": [
+                        38.790835,
+                        48.480968
+                  ]
+            },
+            {
+                  "name": "Пам'ятник В.I. Ленiну",
+                  "text": "V. I. Leninnek szentelt emlékmű Alcsevszkben.",
+                  "category": "historical",
+                  "coords": [
+                        38.797061,
+                        48.468881
+                  ]
+            },
+            {
+                  "name": "На честь 30-річчя виводу військ з Афганістану",
+                  "text": "Az afganisztáni csapatkivonás 30. évfordulójára állított emlékmű Alcsevszkben.",
+                  "category": "historical",
+                  "coords": [
+                        38.793816,
+                        48.467206
+                  ]
+            },
+            {
+                  "name": "Орлові ставки 1",
+                  "text": "Egy Orlovi Stavky 1 néven ismert látványosság Alcsevszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.82931,
+                        48.482421
+                  ]
+            },
+            {
+                  "name": "Парк 2-го сентября",
+                  "text": "Egy park és helyi látványosság Alcsevszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        38.821048,
+                        48.468308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Освободителям города - 1943 г.",
+                  "text": "Un monument în Alcevsk dedicat eliberatorilor orașului în 1943.",
+                  "category": "historical",
+                  "coords": [
+                        38.790835,
+                        48.480968
+                  ]
+            },
+            {
+                  "name": "Пам'ятник В.I. Ленiну",
+                  "text": "Un monument dedicat lui V.I. Lenin situat în Alcevsk.",
+                  "category": "historical",
+                  "coords": [
+                        38.797061,
+                        48.468881
+                  ]
+            },
+            {
+                  "name": "На честь 30-річчя виводу військ з Афганістану",
+                  "text": "Un monument în Alcevsk ce comemorează a 30-a aniversare a retragerii trupelor din Afganistan.",
+                  "category": "historical",
+                  "coords": [
+                        38.793816,
+                        48.467206
+                  ]
+            },
+            {
+                  "name": "Орлові ставки 1",
+                  "text": "O atracție cunoscută sub numele de Orlovi Stavky 1 situată în Alcevsk.",
+                  "category": "landmark",
+                  "coords": [
+                        38.82931,
+                        48.482421
+                  ]
+            },
+            {
+                  "name": "Парк 2-го сентября",
+                  "text": "Un parc și o atracție locală situată în Alcevsk.",
+                  "category": "landmark",
+                  "coords": [
+                        38.821048,
+                        48.468308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Освободителям города - 1943 г.",
+                  "text": "A monument in Alchevsk dedicated to the liberators of the city in 1943.",
+                  "category": "historical",
+                  "coords": [
+                        38.790835,
+                        48.480968
+                  ]
+            },
+            {
+                  "name": "Пам'ятник В.I. Ленiну",
+                  "text": "A monument dedicated to V.I. Lenin located in Alchevsk.",
+                  "category": "historical",
+                  "coords": [
+                        38.797061,
+                        48.468881
+                  ]
+            },
+            {
+                  "name": "На честь 30-річчя виводу військ з Афганістану",
+                  "text": "A monument in Alchevsk commemorating the 30th anniversary of the troop withdrawal from Afghanistan.",
+                  "category": "historical",
+                  "coords": [
+                        38.793816,
+                        48.467206
+                  ]
+            },
+            {
+                  "name": "Орлові ставки 1",
+                  "text": "An attraction known as Orlovi Stavky 1 located in Alchevsk.",
+                  "category": "landmark",
+                  "coords": [
+                        38.82931,
+                        48.482421
+                  ]
+            },
+            {
+                  "name": "Парк 2-го сентября",
+                  "text": "A park and local attraction situated in Alchevsk.",
+                  "category": "landmark",
+                  "coords": [
+                        38.821048,
+                        48.468308
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Altschewsk", hu: "Alcsevszk", ro: "Alcevsk", en: "Alchevsk"},
@@ -18477,7 +22077,124 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-pavlohrad-cities-v2",
+    id: "ukraine-pavlohrad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "To the Soviet soldiers",
+                  "text": "Das Denkmal 'Für die sowjetischen Soldaten' ist eine historische Gedenkstätte in Pavlohrad.",
+                  "category": "historical",
+                  "coords": [
+                        35.884538,
+                        48.534483
+                  ]
+            },
+            {
+                  "name": "sity theatre \"Zakhava\"",
+                  "text": "Das Stadttheater 'Zakhava' ist eine kulturelle Einrichtung in Pavlohrad.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875162,
+                        48.534418
+                  ]
+            },
+            {
+                  "name": "I LOVE PAVLOGRAD",
+                  "text": "Das 'I LOVE PAVLOGRAD'-Schild ist eine beliebte Touristenattraktion in Pavlohrad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87021,
+                        48.531474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "To the Soviet soldiers",
+                  "text": "A 'Szovjet katonáknak' szentelt emlékmű egy történelmi emlékhely Pavlohradban.",
+                  "category": "historical",
+                  "coords": [
+                        35.884538,
+                        48.534483
+                  ]
+            },
+            {
+                  "name": "sity theatre \"Zakhava\"",
+                  "text": "A 'Zahava' Városi Színház egy kulturális intézmény Pavlohradban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875162,
+                        48.534418
+                  ]
+            },
+            {
+                  "name": "I LOVE PAVLOGRAD",
+                  "text": "Az 'I LOVE PAVLOGRAD' felirat egy népszerű turisztikai látványosság Pavlohradban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87021,
+                        48.531474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "To the Soviet soldiers",
+                  "text": "Monumentul „Pentru soldații sovietici” este un memorial istoric situat în Pavlohrad.",
+                  "category": "historical",
+                  "coords": [
+                        35.884538,
+                        48.534483
+                  ]
+            },
+            {
+                  "name": "sity theatre \"Zakhava\"",
+                  "text": "Teatrul municipal „Zakhava” este o locație culturală din Pavlohrad.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875162,
+                        48.534418
+                  ]
+            },
+            {
+                  "name": "I LOVE PAVLOGRAD",
+                  "text": "Semnul „I LOVE PAVLOGRAD” este o atracție turistică populară situată în Pavlohrad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87021,
+                        48.531474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "To the Soviet soldiers",
+                  "text": "The 'To the Soviet soldiers' monument is a historical memorial located in Pavlohrad.",
+                  "category": "historical",
+                  "coords": [
+                        35.884538,
+                        48.534483
+                  ]
+            },
+            {
+                  "name": "sity theatre \"Zakhava\"",
+                  "text": "The City Theatre 'Zakhava' is a cultural venue located in Pavlohrad.",
+                  "category": "cultural",
+                  "coords": [
+                        35.875162,
+                        48.534418
+                  ]
+            },
+            {
+                  "name": "I LOVE PAVLOGRAD",
+                  "text": "The 'I LOVE PAVLOGRAD' sign is a popular tourist attraction located in Pavlohrad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.87021,
+                        48.531474
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Pawlohrad", hu: "Pavlohrad", ro: "Pavlohrad", en: "Pavlohrad"},
@@ -20195,7 +23912,88 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-yenakiieve-cities-v2",
+    id: "ukraine-yenakiieve-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "МіГ-17",
+                  "text": "Ein MiG-17 Denkmal in Yenakiieve.",
+                  "category": "historical",
+                  "coords": [
+                        38.183325,
+                        48.230691
+                  ]
+            },
+            {
+                  "name": "Жертвам голодомору 1932-1933рр.",
+                  "text": "Denkmal für die Opfer des Holodomor von 1932-1933 in Yenakiieve.",
+                  "category": "historical",
+                  "coords": [
+                        38.181708,
+                        48.230096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "МіГ-17",
+                  "text": "Egy MiG-17-es repülőgépet ábrázoló emlékmű Jenakijevében.",
+                  "category": "historical",
+                  "coords": [
+                        38.183325,
+                        48.230691
+                  ]
+            },
+            {
+                  "name": "Жертвам голодомору 1932-1933рр.",
+                  "text": "Az 1932-1933-as holodomor áldozatainak emlékműve Jenakijevében.",
+                  "category": "historical",
+                  "coords": [
+                        38.181708,
+                        48.230096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "МіГ-17",
+                  "text": "Un monument dedicat unui MiG-17 în Yenakiieve.",
+                  "category": "historical",
+                  "coords": [
+                        38.183325,
+                        48.230691
+                  ]
+            },
+            {
+                  "name": "Жертвам голодомору 1932-1933рр.",
+                  "text": "Monumentul victimelor Holodomorului din 1932-1933 din Yenakiieve.",
+                  "category": "historical",
+                  "coords": [
+                        38.181708,
+                        48.230096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "МіГ-17",
+                  "text": "A monument featuring a MiG-17 aircraft in Yenakiieve.",
+                  "category": "historical",
+                  "coords": [
+                        38.183325,
+                        48.230691
+                  ]
+            },
+            {
+                  "name": "Жертвам голодомору 1932-1933рр.",
+                  "text": "A monument to the victims of the 1932-1933 Holodomor in Yenakiieve.",
+                  "category": "historical",
+                  "coords": [
+                        38.181708,
+                        48.230096
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Jenakijewe", hu: "Jenakijeve", ro: "Enakievo", en: "Yenakiieve"},
@@ -20242,7 +24040,304 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-kamianets-podilskyi-cities-v2",
+    id: "ukraine-kamianets-podilskyi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Armenian well",
+                  "text": "Der Armenische Brunnen ist ein historisches Wahrzeichen und Museum in Kamianets-Podilskyi.",
+                  "category": "museum",
+                  "coords": [
+                        26.572431,
+                        48.675206
+                  ]
+            },
+            {
+                  "name": "Armenian Bastion",
+                  "text": "Die Armenische Bastion ist ein historischer Park in Kamianets-Podilskyi.",
+                  "category": "park",
+                  "coords": [
+                        26.569121,
+                        48.67366
+                  ]
+            },
+            {
+                  "name": "Old Castle",
+                  "text": "Die Alte Burg ist eine beeindruckende historische Festungsanlage in Kamianets-Podilskyi.",
+                  "category": "castle",
+                  "coords": [
+                        26.563223,
+                        48.673333
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit of Jesus Christ",
+                  "text": "Die Kirche des Heiligen Geistes Jesu Christi ist ein Gotteshaus in Kamianets-Podilskyi.",
+                  "category": "religious",
+                  "coords": [
+                        26.571985,
+                        48.693346
+                  ]
+            },
+            {
+                  "name": "St Jehoshaphat’s Church/ St Trinity’s Church",
+                  "text": "Die St.-Josaphat- oder St.-Trinitatis-Kirche ist ein Gotteshaus in Kamianets-Podilskyi.",
+                  "category": "religious",
+                  "coords": [
+                        26.570281,
+                        48.673396
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "Die Ausstellungshalle ist ein Museum in Kamianets-Podilskyi.",
+                  "category": "museum",
+                  "coords": [
+                        26.590163,
+                        48.679235
+                  ]
+            },
+            {
+                  "name": "National Historical and Architectural Reserve Kamenetz",
+                  "text": "Das Nationale Historische und Architektonische Reservat Kamenez ist ein großes Freilichtmuseum in Kamianets-Podilskyi.",
+                  "category": "museum",
+                  "coords": [
+                        26.574008,
+                        48.673134
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "Der Secret Viewpoint ist ein malerischer Aussichtspunkt in Kamianets-Podilskyi.",
+                  "category": "natural",
+                  "coords": [
+                        26.56955,
+                        48.672435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Armenian well",
+                  "text": "Az Örmény kút egy történelmi nevezetesség és múzeum Kamjanec-Pogyilszkijban.",
+                  "category": "museum",
+                  "coords": [
+                        26.572431,
+                        48.675206
+                  ]
+            },
+            {
+                  "name": "Armenian Bastion",
+                  "text": "Az Örmény bástya egy történelmi park Kamjanec-Pogyilszkijban.",
+                  "category": "park",
+                  "coords": [
+                        26.569121,
+                        48.67366
+                  ]
+            },
+            {
+                  "name": "Old Castle",
+                  "text": "A Régi vár egy lenyűgöző történelmi erődítmény Kamjanec-Pogyilszkijban.",
+                  "category": "castle",
+                  "coords": [
+                        26.563223,
+                        48.673333
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit of Jesus Christ",
+                  "text": "A Jézus Krisztus Szentlelke templom egy vallási épület Kamjanec-Pogyilszkijban.",
+                  "category": "religious",
+                  "coords": [
+                        26.571985,
+                        48.693346
+                  ]
+            },
+            {
+                  "name": "St Jehoshaphat’s Church/ St Trinity’s Church",
+                  "text": "A Szent Jozafát- vagy Szentháromság-templom egy vallási épület Kamjanec-Pogyilszkijban.",
+                  "category": "religious",
+                  "coords": [
+                        26.570281,
+                        48.673396
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "A Kiállítóterem egy múzeumi épület Kamjanec-Pogyilszkijban.",
+                  "category": "museum",
+                  "coords": [
+                        26.590163,
+                        48.679235
+                  ]
+            },
+            {
+                  "name": "National Historical and Architectural Reserve Kamenetz",
+                  "text": "A Kamenec Nemzeti Történelmi és Építészeti Rezervátum egy kulturális múzeum Kamjanec-Pogyilszkijban.",
+                  "category": "museum",
+                  "coords": [
+                        26.574008,
+                        48.673134
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "A Titkos kilátó egy festői panorámapont Kamjanec-Pogyilszkijban.",
+                  "category": "natural",
+                  "coords": [
+                        26.56955,
+                        48.672435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Armenian well",
+                  "text": "Fântâna Armeană este un punct de reper istoric și muzeu în Camenița.",
+                  "category": "museum",
+                  "coords": [
+                        26.572431,
+                        48.675206
+                  ]
+            },
+            {
+                  "name": "Armenian Bastion",
+                  "text": "Bastionul Armean este un parc istoric din Camenița.",
+                  "category": "park",
+                  "coords": [
+                        26.569121,
+                        48.67366
+                  ]
+            },
+            {
+                  "name": "Old Castle",
+                  "text": "Castelul Vechi este o impresionantă fortăreață istorică din Camenița.",
+                  "category": "castle",
+                  "coords": [
+                        26.563223,
+                        48.673333
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit of Jesus Christ",
+                  "text": "Biserica Duhului Sfânt al lui Isus Hristos este un lăcaș de cult din Camenița.",
+                  "category": "religious",
+                  "coords": [
+                        26.571985,
+                        48.693346
+                  ]
+            },
+            {
+                  "name": "St Jehoshaphat’s Church/ St Trinity’s Church",
+                  "text": "Biserica Sfântul Iosafat sau Biserica Sfânta Treime este un lăcaș de cult în Camenița.",
+                  "category": "religious",
+                  "coords": [
+                        26.570281,
+                        48.673396
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "Sala de Expoziții este un muzeu din Camenița.",
+                  "category": "museum",
+                  "coords": [
+                        26.590163,
+                        48.679235
+                  ]
+            },
+            {
+                  "name": "National Historical and Architectural Reserve Kamenetz",
+                  "text": "Rezervația Națională Istorică și Arhitecturală Camenița este un muzeu de patrimoniu.",
+                  "category": "museum",
+                  "coords": [
+                        26.574008,
+                        48.673134
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "Punctul de belvedere secret oferă o panoramă pitorească asupra orașului Camenița.",
+                  "category": "natural",
+                  "coords": [
+                        26.56955,
+                        48.672435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Armenian well",
+                  "text": "The Armenian well is a historic landmark and museum in Kamianets-Podilskyi.",
+                  "category": "museum",
+                  "coords": [
+                        26.572431,
+                        48.675206
+                  ]
+            },
+            {
+                  "name": "Armenian Bastion",
+                  "text": "The Armenian Bastion is a historical park in Kamianets-Podilskyi.",
+                  "category": "park",
+                  "coords": [
+                        26.569121,
+                        48.67366
+                  ]
+            },
+            {
+                  "name": "Old Castle",
+                  "text": "The Old Castle is an impressive historic fortress in Kamianets-Podilskyi.",
+                  "category": "castle",
+                  "coords": [
+                        26.563223,
+                        48.673333
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit of Jesus Christ",
+                  "text": "The Church of the Holy Spirit of Jesus Christ is a place of worship in Kamianets-Podilskyi.",
+                  "category": "religious",
+                  "coords": [
+                        26.571985,
+                        48.693346
+                  ]
+            },
+            {
+                  "name": "St Jehoshaphat’s Church/ St Trinity’s Church",
+                  "text": "St Jehoshaphat’s or St Trinity’s Church is a place of worship in Kamianets-Podilskyi.",
+                  "category": "religious",
+                  "coords": [
+                        26.570281,
+                        48.673396
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "The Exhibition Hall is a museum venue in Kamianets-Podilskyi.",
+                  "category": "museum",
+                  "coords": [
+                        26.590163,
+                        48.679235
+                  ]
+            },
+            {
+                  "name": "National Historical and Architectural Reserve Kamenetz",
+                  "text": "The National Historical and Architectural Reserve Kamenetz is a major heritage museum in Kamianets-Podilskyi.",
+                  "category": "museum",
+                  "coords": [
+                        26.574008,
+                        48.673134
+                  ]
+            },
+            {
+                  "name": "Secret Viewpoint",
+                  "text": "The Secret Viewpoint offers scenic views over Kamianets-Podilskyi.",
+                  "category": "natural",
+                  "coords": [
+                        26.56955,
+                        48.672435
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Kamjanez-Podilskyj", hu: "Kamjanec-Pogyilszkij", ro: "Kameneț-Podolsk", en: "Kamianets-Podilskyi"},
@@ -23571,7 +27666,376 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-drohobych-cities-v2",
+    id: "ukraine-drohobych-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bruno Schulz Museum",
+                  "text": "Das Bruno Schulz Museum ist ein dem Schriftsteller und Künstler gewidmetes Museum in Drohobytsch.",
+                  "category": "museum",
+                  "coords": [
+                        23.501234,
+                        49.355242
+                  ]
+            },
+            {
+                  "name": "Museum Drohobychyna",
+                  "text": "Das Museum Drohobychyna ist ein bedeutendes Heimatmuseum in Drohobytsch.",
+                  "category": "museum",
+                  "coords": [
+                        23.499865,
+                        49.355608
+                  ]
+            },
+            {
+                  "name": "Telesyk-Little Stick Park",
+                  "text": "Der Telesyk-Little Stick Park ist ein anerkannter Kultur- und Erholungspark in Drohobytsch.",
+                  "category": "park",
+                  "coords": [
+                        23.508702,
+                        49.348885
+                  ]
+            },
+            {
+                  "name": "Drogobych salt plant",
+                  "text": "Die Salzsiederei in Drohobytsch ist eine historische Salzwerksattraktion in Drohobytsch.",
+                  "category": "landmark",
+                  "coords": [
+                        23.497388,
+                        49.34848
+                  ]
+            },
+            {
+                  "name": "Church of the Saints Apostles Peter and Paul",
+                  "text": "Die Kirche der heiligen Apostel Petrus und Paulus ist eine denkmalgeschützte Stätte in Drohobytsch.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511945,
+                        49.352167
+                  ]
+            },
+            {
+                  "name": "Yuri Drohobych Music and Drama Theatre",
+                  "text": "Das Juri-Drohobytsch-Musik- und Dramatheater ist ein akademisches Theater und Kulturerbe in Drohobytsch.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509288,
+                        49.351176
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "Die St.-Georgs-Kirche ist eine bekannte historische Holzkirche und Attraktion in Drohobytsch.",
+                  "category": "landmark",
+                  "coords": [
+                        23.499326,
+                        49.347766
+                  ]
+            },
+            {
+                  "name": "Choral synagogue",
+                  "text": "Die Choral-Synagoge ist ein historisches jüdisches Gotteshaus und eine Attraktion in Drohobytsch.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511317,
+                        49.353357
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Church",
+                  "text": "Die St.-Bartholomäus-Kirche ist eine bedeutende historische katholische Kirche in Drohobytsch.",
+                  "category": "landmark",
+                  "coords": [
+                        23.504012,
+                        49.352233
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration of Christ",
+                  "text": "Die Verklärungskirche ist eine bedeutende Kultstätte in Drohobytsch.",
+                  "category": "religious",
+                  "coords": [
+                        23.524718,
+                        49.352022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bruno Schulz Museum",
+                  "text": "A Bruno Schulz Múzeum az író és művész munkásságának szentelt múzeum Drohobicsban.",
+                  "category": "museum",
+                  "coords": [
+                        23.501234,
+                        49.355242
+                  ]
+            },
+            {
+                  "name": "Museum Drohobychyna",
+                  "text": "A Drohobychyna Múzeum egy jelentős helytörténeti múzeum Drohobicsban.",
+                  "category": "museum",
+                  "coords": [
+                        23.499865,
+                        49.355608
+                  ]
+            },
+            {
+                  "name": "Telesyk-Little Stick Park",
+                  "text": "A Telesyk-Little Stick Park egy elismert kulturális és pihenőpark Drohobicsban.",
+                  "category": "park",
+                  "coords": [
+                        23.508702,
+                        49.348885
+                  ]
+            },
+            {
+                  "name": "Drogobych salt plant",
+                  "text": "A drohobicsi sófőző üzem egy történelmi sóbánya látványosság Drohobicsban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.497388,
+                        49.34848
+                  ]
+            },
+            {
+                  "name": "Church of the Saints Apostles Peter and Paul",
+                  "text": "A Szent Péter és Pál Apostolok Temploma egy örökségvédelmi helyszín Drohobicsban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511945,
+                        49.352167
+                  ]
+            },
+            {
+                  "name": "Yuri Drohobych Music and Drama Theatre",
+                  "text": "A Jurij Drohobics Zenei és Drámai Színház egy akadémiai színház és örökségi helyszín Drohobicsban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509288,
+                        49.351176
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "A Szent György-templom egy jól ismert történelmi fatemplom és látványosság Drohobicsban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.499326,
+                        49.347766
+                  ]
+            },
+            {
+                  "name": "Choral synagogue",
+                  "text": "A Korál zsinagóga egy történelmi zsidó vallási épület és látványosság Drohobicsban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511317,
+                        49.353357
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Church",
+                  "text": "A Szent Bertalan-templom egy jelentős történelmi katolikus templom Drohobicsban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.504012,
+                        49.352233
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration of Christ",
+                  "text": "A Krisztus Színeváltozása Templom egy jelentős imahely Drohobicsban.",
+                  "category": "religious",
+                  "coords": [
+                        23.524718,
+                        49.352022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bruno Schulz Museum",
+                  "text": "Muzeul Bruno Schulz este un muzeu dedicat scriitorului și artistului în Drohobîci.",
+                  "category": "museum",
+                  "coords": [
+                        23.501234,
+                        49.355242
+                  ]
+            },
+            {
+                  "name": "Museum Drohobychyna",
+                  "text": "Muzeul Drohobychyna este un muzeu de istorie locală notabil din Drohobîci.",
+                  "category": "museum",
+                  "coords": [
+                        23.499865,
+                        49.355608
+                  ]
+            },
+            {
+                  "name": "Telesyk-Little Stick Park",
+                  "text": "Parcul Telesyk-Little Stick este un parc de cultură și recreere recunoscut din Drohobîci.",
+                  "category": "park",
+                  "coords": [
+                        23.508702,
+                        49.348885
+                  ]
+            },
+            {
+                  "name": "Drogobych salt plant",
+                  "text": "Uzina de sare din Drohobîci este o atracție istorică legată de exploatarea sării.",
+                  "category": "landmark",
+                  "coords": [
+                        23.497388,
+                        49.34848
+                  ]
+            },
+            {
+                  "name": "Church of the Saints Apostles Peter and Paul",
+                  "text": "Biserica Sfinții Apostoli Petru și Pavel este un sit de patrimoniu din Drohobîci.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511945,
+                        49.352167
+                  ]
+            },
+            {
+                  "name": "Yuri Drohobych Music and Drama Theatre",
+                  "text": "Teatrul de Muzică și Dramă Yuri Drohobych este un teatru academic și un sit de patrimoniu din Drohobîci.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509288,
+                        49.351176
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "Biserica Sf. Gheorghe este o biserică de lemn istorică și o atracție renumită din Drohobîci.",
+                  "category": "landmark",
+                  "coords": [
+                        23.499326,
+                        49.347766
+                  ]
+            },
+            {
+                  "name": "Choral synagogue",
+                  "text": "Sinagoga Corală este o clădire istorică religioasă evreiască și o atracție în Drohobîci.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511317,
+                        49.353357
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Church",
+                  "text": "Biserica Sf. Bartolomeu este o importantă biserică catolică istorică din Drohobîci.",
+                  "category": "landmark",
+                  "coords": [
+                        23.504012,
+                        49.352233
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration of Christ",
+                  "text": "Biserica Schimbarea la Față a lui Hristos este un loc de cult notabil din Drohobîci.",
+                  "category": "religious",
+                  "coords": [
+                        23.524718,
+                        49.352022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bruno Schulz Museum",
+                  "text": "The Bruno Schulz Museum is a museum dedicated to the writer and artist in Drohobych.",
+                  "category": "museum",
+                  "coords": [
+                        23.501234,
+                        49.355242
+                  ]
+            },
+            {
+                  "name": "Museum Drohobychyna",
+                  "text": "Museum Drohobychyna is a notable local history museum in Drohobych.",
+                  "category": "museum",
+                  "coords": [
+                        23.499865,
+                        49.355608
+                  ]
+            },
+            {
+                  "name": "Telesyk-Little Stick Park",
+                  "text": "Telesyk-Little Stick Park is a recognized culture and recreation park in Drohobych.",
+                  "category": "park",
+                  "coords": [
+                        23.508702,
+                        49.348885
+                  ]
+            },
+            {
+                  "name": "Drogobych salt plant",
+                  "text": "The Drogobych salt plant is a historic saltworks attraction in Drohobych.",
+                  "category": "landmark",
+                  "coords": [
+                        23.497388,
+                        49.34848
+                  ]
+            },
+            {
+                  "name": "Church of the Saints Apostles Peter and Paul",
+                  "text": "The Church of the Saints Apostles Peter and Paul is a heritage site in Drohobych.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511945,
+                        49.352167
+                  ]
+            },
+            {
+                  "name": "Yuri Drohobych Music and Drama Theatre",
+                  "text": "The Yuri Drohobych Music and Drama Theatre is an academic theatre and heritage site in Drohobych.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509288,
+                        49.351176
+                  ]
+            },
+            {
+                  "name": "St. George's Church",
+                  "text": "St. George's Church is a well-known historic wooden church and attraction in Drohobych.",
+                  "category": "landmark",
+                  "coords": [
+                        23.499326,
+                        49.347766
+                  ]
+            },
+            {
+                  "name": "Choral synagogue",
+                  "text": "The Choral synagogue is a historic Jewish religious building and attraction in Drohobych.",
+                  "category": "landmark",
+                  "coords": [
+                        23.511317,
+                        49.353357
+                  ]
+            },
+            {
+                  "name": "St. Bartholomew Church",
+                  "text": "St. Bartholomew Church is a notable historic Catholic church in Drohobych.",
+                  "category": "landmark",
+                  "coords": [
+                        23.504012,
+                        49.352233
+                  ]
+            },
+            {
+                  "name": "Church of the Transfiguration of Christ",
+                  "text": "The Church of the Transfiguration of Christ is a notable place of worship in Drohobych.",
+                  "category": "religious",
+                  "coords": [
+                        23.524718,
+                        49.352022
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Drohobytsch", hu: "Drohobics", ro: "Drogobîci", en: "Drohobych"},
@@ -25435,7 +29899,88 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-izium-cities-v2",
+    id: "ukraine-izium-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "View Point of Izium",
+                  "text": "Der Aussichtspunkt View Point of Izium bietet einen Panoramablick über die Stadt Izium.",
+                  "category": "natural",
+                  "coords": [
+                        37.276201,
+                        49.174773
+                  ]
+            },
+            {
+                  "name": "MONUMENT TO THE VICTIMS OF THE HOLODOMOR",
+                  "text": "Das Monument to the Victims of the Holodomor ist eine Gedenkstätte in Izium.",
+                  "category": "historical",
+                  "coords": [
+                        37.276279,
+                        49.178149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View Point of Izium",
+                  "text": "A View Point of Izium panorámás kilátást nyújt Izium városára.",
+                  "category": "natural",
+                  "coords": [
+                        37.276201,
+                        49.174773
+                  ]
+            },
+            {
+                  "name": "MONUMENT TO THE VICTIMS OF THE HOLODOMOR",
+                  "text": "A Monument to the Victims of the Holodomor egy emlékmű Izium városában.",
+                  "category": "historical",
+                  "coords": [
+                        37.276279,
+                        49.178149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View Point of Izium",
+                  "text": "View Point of Izium oferă vederi panoramice asupra orașului Izium.",
+                  "category": "natural",
+                  "coords": [
+                        37.276201,
+                        49.174773
+                  ]
+            },
+            {
+                  "name": "MONUMENT TO THE VICTIMS OF THE HOLODOMOR",
+                  "text": "Monument to the Victims of the Holodomor este un monument memorial situat în Izium.",
+                  "category": "historical",
+                  "coords": [
+                        37.276279,
+                        49.178149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View Point of Izium",
+                  "text": "The View Point of Izium offers panoramic views over the city of Izium.",
+                  "category": "natural",
+                  "coords": [
+                        37.276201,
+                        49.174773
+                  ]
+            },
+            {
+                  "name": "MONUMENT TO THE VICTIMS OF THE HOLODOMOR",
+                  "text": "The Monument to the Victims of the Holodomor is a memorial structure situated in Izium.",
+                  "category": "historical",
+                  "coords": [
+                        37.276279,
+                        49.178149
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Isjum", hu: "Izjum", ro: "Izium", en: "Izium"},
@@ -25529,7 +30074,52 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-lubny-cities-v2",
+    id: "ukraine-lubny-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach",
+                  "text": "Der Strand in Lubny ist eine lokale Attraktion, die Erholungsraum am Wasser bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.012748,
+                        50.003639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach",
+                  "text": "A lubnyi strand egy helyi látványosság, amely kikapcsolódási lehetőséget kínál a vízparton.",
+                  "category": "landmark",
+                  "coords": [
+                        33.012748,
+                        50.003639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach",
+                  "text": "Plaja din Lubny este o atracție locală care oferă spațiu de recreere la malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        33.012748,
+                        50.003639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach",
+                  "text": "The Beach in Lubny is a local attraction offering recreational space by the water.",
+                  "category": "landmark",
+                  "coords": [
+                        33.012748,
+                        50.003639
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Lubny", hu: "Lubni", ro: "Lubnî", en: "Lubny"},
@@ -25576,7 +30166,88 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-shovti-vody-cities-v2",
+    id: "ukraine-shovti-vody-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Героям визвольної війни українського народу 1648-1654 років",
+                  "text": "Dieses Denkmal in Zhovti Vody erinnert an die Helden des ukrainischen Befreiungskrieges von 1648 bis 1654.",
+                  "category": "historical",
+                  "coords": [
+                        33.501523,
+                        48.344602
+                  ]
+            },
+            {
+                  "name": "Воїнам II Світової війни",
+                  "text": "Dieses Denkmal in Zhovti Vody ist den Soldaten des Zweiten Weltkriegs gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        33.504606,
+                        48.346314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Героям визвольної війни українського народу 1648-1654 років",
+                  "text": "Ez a Zhovti Vody-i emlékmű az 1648–1654 közötti ukrán felszabadító háború hőseinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        33.501523,
+                        48.344602
+                  ]
+            },
+            {
+                  "name": "Воїнам II Світової війни",
+                  "text": "Ezt a Zhovti Vody-i emlékművet a második világháború katonáinak szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        33.504606,
+                        48.346314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Героям визвольної війни українського народу 1648-1654 років",
+                  "text": "Acest monument din Zhovti Vody comemorează eroii războiului de eliberare a Ucrainei din 1648-1654.",
+                  "category": "historical",
+                  "coords": [
+                        33.501523,
+                        48.344602
+                  ]
+            },
+            {
+                  "name": "Воїнам II Світової війни",
+                  "text": "Acest monument din Zhovti Vody este dedicat soldaților din Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        33.504606,
+                        48.346314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Героям визвольної війни українського народу 1648-1654 років",
+                  "text": "This monument in Zhovti Vody commemorates the heroes of the Ukrainian liberation war of 1648-1654.",
+                  "category": "historical",
+                  "coords": [
+                        33.501523,
+                        48.344602
+                  ]
+            },
+            {
+                  "name": "Воїнам II Світової війни",
+                  "text": "This monument in Zhovti Vody is dedicated to the soldiers of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        33.504606,
+                        48.346314
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Schowti Wody", hu: "Zsovti Vogyi", ro: "Jovti Vodî", en: "Zhovti Vody"},
@@ -25670,7 +30341,88 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-korsun-shevchenkivskyi-cities-v2",
+    id: "ukraine-korsun-shevchenkivskyi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ginkgo",
+                  "text": "Ginkgo ist ein Themenpark in Korsun-Schewtschenkiwskyj.",
+                  "category": "recreational",
+                  "coords": [
+                        31.265295,
+                        49.414491
+                  ]
+            },
+            {
+                  "name": "Гідроелектростанція мала (1934)",
+                  "text": "Das kleine Wasserkraftwerk von 1934 bietet einen Aussichtspunkt in Korsun-Schewtschenkiwskyj.",
+                  "category": "natural",
+                  "coords": [
+                        31.261278,
+                        49.413103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ginkgo",
+                  "text": "A Ginkgo egy élménypark Korsun-Shevchenkivskyi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        31.265295,
+                        49.414491
+                  ]
+            },
+            {
+                  "name": "Гідроелектростанція мала (1934)",
+                  "text": "Az 1934-es kis vízerőmű egy kilátóként is szolgál Korsun-Shevchenkivskyi városában.",
+                  "category": "natural",
+                  "coords": [
+                        31.261278,
+                        49.413103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ginkgo",
+                  "text": "Ginkgo este un parc tematic din Korsun-Shevchenkivskyi.",
+                  "category": "recreational",
+                  "coords": [
+                        31.265295,
+                        49.414491
+                  ]
+            },
+            {
+                  "name": "Гідроелектростанція мала (1934)",
+                  "text": "Mica hidrocentrală din 1934 oferă un punct de belvedere în Korsun-Shevchenkivskyi.",
+                  "category": "natural",
+                  "coords": [
+                        31.261278,
+                        49.413103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ginkgo",
+                  "text": "Ginkgo is a theme park located in Korsun-Shevchenkivskyi.",
+                  "category": "recreational",
+                  "coords": [
+                        31.265295,
+                        49.414491
+                  ]
+            },
+            {
+                  "name": "Гідроелектростанція мала (1934)",
+                  "text": "The small 1934 hydroelectric power station serves as a viewpoint in Korsun-Shevchenkivskyi.",
+                  "category": "natural",
+                  "coords": [
+                        31.261278,
+                        49.413103
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Korsun-Schewtschenkiwskyj", hu: "Korszun-Sevcsenkivszkij", ro: "Korsun-Șevcenkivskîi", en: "Korsun-Shevchenkivskyi"},
@@ -26512,7 +31264,124 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-kolomyia-cities-v2",
+    id: "ukraine-kolomyia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pysanka Museum",
+                  "text": "Das Pysanka-Museum in Kolomyia ist berühmt für seine Architektur in Form eines riesigen Ostereis.",
+                  "category": "museum",
+                  "coords": [
+                        25.039052,
+                        48.528343
+                  ]
+            },
+            {
+                  "name": "Hutsul Museum",
+                  "text": "Das Hutsul-Museum ist eine kulturelle Einrichtung in Kolomyia.",
+                  "category": "museum",
+                  "coords": [
+                        25.03762,
+                        48.528768
+                  ]
+            },
+            {
+                  "name": "Stepan Bandera monument",
+                  "text": "Das Stepan-Bandera-Denkmal ist eine Gedenkstätte in Kolomyia.",
+                  "category": "historical",
+                  "coords": [
+                        25.059216,
+                        48.534173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pysanka Museum",
+                  "text": "A kolomyjai Piszanka Múzeum egyedülálló, hatalmas húsvéti tojás alakú építészetéről híres.",
+                  "category": "museum",
+                  "coords": [
+                        25.039052,
+                        48.528343
+                  ]
+            },
+            {
+                  "name": "Hutsul Museum",
+                  "text": "A Hutszul Múzeum egy kulturális intézmény Kolomyiában.",
+                  "category": "museum",
+                  "coords": [
+                        25.03762,
+                        48.528768
+                  ]
+            },
+            {
+                  "name": "Stepan Bandera monument",
+                  "text": "Sztepan Bandera emlékműve egy emlékmű Kolomyiában.",
+                  "category": "historical",
+                  "coords": [
+                        25.059216,
+                        48.534173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pysanka Museum",
+                  "text": "Muzeul Pysanka din Kolomyia este faimos pentru arhitectura sa unică în formă de ou de Paște uriaș.",
+                  "category": "museum",
+                  "coords": [
+                        25.039052,
+                        48.528343
+                  ]
+            },
+            {
+                  "name": "Hutsul Museum",
+                  "text": "Muzeul Huțul este o instituție culturală din Kolomyia.",
+                  "category": "museum",
+                  "coords": [
+                        25.03762,
+                        48.528768
+                  ]
+            },
+            {
+                  "name": "Stepan Bandera monument",
+                  "text": "Monumentul Stepan Bandera este o structură comemorativă situată în Kolomyia.",
+                  "category": "historical",
+                  "coords": [
+                        25.059216,
+                        48.534173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pysanka Museum",
+                  "text": "The Pysanka Museum in Kolomyia is famous for its unique architecture shaped like a giant Easter egg.",
+                  "category": "museum",
+                  "coords": [
+                        25.039052,
+                        48.528343
+                  ]
+            },
+            {
+                  "name": "Hutsul Museum",
+                  "text": "The Hutsul Museum is a cultural institution in Kolomyia.",
+                  "category": "museum",
+                  "coords": [
+                        25.03762,
+                        48.528768
+                  ]
+            },
+            {
+                  "name": "Stepan Bandera monument",
+                  "text": "The Stepan Bandera monument is a memorial structure situated in Kolomyia.",
+                  "category": "historical",
+                  "coords": [
+                        25.059216,
+                        48.534173
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Kolomyja", hu: "Kolomija", ro: "Colomeea", en: "Kolomyia"},
@@ -26559,7 +31428,52 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-poryv-cities-v2",
+    id: "ukraine-poryv-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polissya Information Center",
+                  "text": "Das Polissya Information Center ist ein informatives Museum in Varash.",
+                  "category": "museum",
+                  "coords": [
+                        25.84677,
+                        51.346591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polissya Information Center",
+                  "text": "A Polissya Információs Központ egy informatív múzeum Varash városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.84677,
+                        51.346591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polissya Information Center",
+                  "text": "Centrul de Informare Polissya este un muzeu informativ situat în Varash.",
+                  "category": "museum",
+                  "coords": [
+                        25.84677,
+                        51.346591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polissya Information Center",
+                  "text": "The Polissya Information Center is an informative museum located in Varash.",
+                  "category": "museum",
+                  "coords": [
+                        25.84677,
+                        51.346591
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Warasch", hu: "Varas", ro: "Varaș", en: "Varash"},
@@ -26841,7 +31755,340 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-truskavets-cities-v2",
+    id: "ukraine-truskavets-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diocesan Museum",
+                  "text": "Das Diözesanmuseum ist ein Museum für religiöse Artefakte in Truskawez.",
+                  "category": "museum",
+                  "coords": [
+                        23.508731,
+                        49.276751
+                  ]
+            },
+            {
+                  "name": "Mykhailo Bilas Museum",
+                  "text": "Das Mykhailo-Bilas-Museum ist ein Kunstmuseum, das dem berühmten Künstler in Truskawez gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.504369,
+                        49.280111
+                  ]
+            },
+            {
+                  "name": "\"History of Truskavets\" Museum",
+                  "text": "Das Museum \"Geschichte von Truskawez\" bietet Einblicke in das lokale Erbe und die Entwicklung von Truskawez.",
+                  "category": "museum",
+                  "coords": [
+                        23.506673,
+                        49.277755
+                  ]
+            },
+            {
+                  "name": "Ukrainian Maiolica Museum",
+                  "text": "Das Museum für ukrainische Majolika in Truskawez zeigt eine Sammlung traditioneller Keramikkunst.",
+                  "category": "museum",
+                  "coords": [
+                        23.504315,
+                        49.276384
+                  ]
+            },
+            {
+                  "name": "Park Adamivka",
+                  "text": "Der Park Adamivka ist eine anerkannte grüne Erholungsfläche in Truskawez.",
+                  "category": "park",
+                  "coords": [
+                        23.499251,
+                        49.273376
+                  ]
+            },
+            {
+                  "name": "Spring \"Yuzia\"",
+                  "text": "Die Quelle \"Yuzia\" ist eine bedeutende Mineralquelle, die für ihr Wasser in Truskawez bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496408,
+                        49.272719
+                  ]
+            },
+            {
+                  "name": "Spring №7 \"Ferdynand\"",
+                  "text": "Die Quelle Nr. 7 \"Ferdynand\" ist eine anerkannte natürliche Mineralquelle in Truskawez.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505525,
+                        49.277436
+                  ]
+            },
+            {
+                  "name": "Spring №6 \"Edward\"",
+                  "text": "Die Quelle Nr. 6 \"Edward\" ist eine beliebte Naturquellenattraktion in Truskawez.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502507,
+                        49.276013
+                  ]
+            },
+            {
+                  "name": "Weeping beech",
+                  "text": "Die Hängebuche ist eine herausragende Naturattraktion in Truskawez.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505575,
+                        49.27918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diocesan Museum",
+                  "text": "Az Egyházmegyei Múzeum vallási tárgyakat bemutató múzeum Truszkavecben.",
+                  "category": "museum",
+                  "coords": [
+                        23.508731,
+                        49.276751
+                  ]
+            },
+            {
+                  "name": "Mykhailo Bilas Museum",
+                  "text": "A Mihajlo Bilasz Múzeum egy híres művésznek szentelt művészeti múzeum Truszkavecben.",
+                  "category": "museum",
+                  "coords": [
+                        23.504369,
+                        49.280111
+                  ]
+            },
+            {
+                  "name": "\"History of Truskavets\" Museum",
+                  "text": "A \"Truszkavec Története\" Múzeum bepillantást nyújt Truszkavec helyi örökségébe és fejlődésébe.",
+                  "category": "museum",
+                  "coords": [
+                        23.506673,
+                        49.277755
+                  ]
+            },
+            {
+                  "name": "Ukrainian Maiolica Museum",
+                  "text": "A truszkaveci Ukrán Majolika Múzeum a hagyományos kerámiaművészet gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.504315,
+                        49.276384
+                  ]
+            },
+            {
+                  "name": "Park Adamivka",
+                  "text": "Az Adamivka Park egy elismert rekreációs zöldterület Truszkavecben.",
+                  "category": "park",
+                  "coords": [
+                        23.499251,
+                        49.273376
+                  ]
+            },
+            {
+                  "name": "Spring \"Yuzia\"",
+                  "text": "A \"Juzja\" forrás egy jelentős ásványvízforrás Truszkavecben, amely híres a vizéről.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496408,
+                        49.272719
+                  ]
+            },
+            {
+                  "name": "Spring №7 \"Ferdynand\"",
+                  "text": "A 7. számú \"Ferdinánd\" forrás egy elismert természetes ásványvízforrás Truszkavecben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505525,
+                        49.277436
+                  ]
+            },
+            {
+                  "name": "Spring №6 \"Edward\"",
+                  "text": "A 6. számú \"Edward\" forrás egy népszerű természetes forrás látványosság Truszkavecben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502507,
+                        49.276013
+                  ]
+            },
+            {
+                  "name": "Weeping beech",
+                  "text": "A Szomorú bükk egy kiemelkedő természeti látványosság Truszkavecben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505575,
+                        49.27918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diocesan Museum",
+                  "text": "Muzeul Diecezan este un muzeu care prezintă artefacte religioase în Truskaveț.",
+                  "category": "museum",
+                  "coords": [
+                        23.508731,
+                        49.276751
+                  ]
+            },
+            {
+                  "name": "Mykhailo Bilas Museum",
+                  "text": "Muzeul Mykhailo Bilas este un muzeu de artă dedicat faimosului artist din Truskaveț.",
+                  "category": "museum",
+                  "coords": [
+                        23.504369,
+                        49.280111
+                  ]
+            },
+            {
+                  "name": "\"History of Truskavets\" Museum",
+                  "text": "Muzeul „Istoria orașului Truskaveț” oferă perspective asupra patrimoniului local și dezvoltării orașului.",
+                  "category": "museum",
+                  "coords": [
+                        23.506673,
+                        49.277755
+                  ]
+            },
+            {
+                  "name": "Ukrainian Maiolica Museum",
+                  "text": "Muzeul de Majolică Ucraineană din Truskaveț prezintă o colecție de artă ceramică tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        23.504315,
+                        49.276384
+                  ]
+            },
+            {
+                  "name": "Park Adamivka",
+                  "text": "Parcul Adamivka este un spațiu verde de recreere recunoscut din Truskaveț.",
+                  "category": "park",
+                  "coords": [
+                        23.499251,
+                        49.273376
+                  ]
+            },
+            {
+                  "name": "Spring \"Yuzia\"",
+                  "text": "Izvorul „Yuzia” este un important izvor mineral renumit pentru apa sa din Truskaveț.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496408,
+                        49.272719
+                  ]
+            },
+            {
+                  "name": "Spring №7 \"Ferdynand\"",
+                  "text": "Izvorul nr. 7 „Ferdinand” este un izvor mineral natural recunoscut situat în Truskaveț.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505525,
+                        49.277436
+                  ]
+            },
+            {
+                  "name": "Spring №6 \"Edward\"",
+                  "text": "Izvorul nr. 6 „Edward” este o atracție naturală populară din Truskaveț.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502507,
+                        49.276013
+                  ]
+            },
+            {
+                  "name": "Weeping beech",
+                  "text": "Fagul plângător este o atracție naturală deosebită situată în Truskaveț.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505575,
+                        49.27918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diocesan Museum",
+                  "text": "The Diocesan Museum is a museum showcasing religious artifacts in Truskavets.",
+                  "category": "museum",
+                  "coords": [
+                        23.508731,
+                        49.276751
+                  ]
+            },
+            {
+                  "name": "Mykhailo Bilas Museum",
+                  "text": "The Mykhailo Bilas Museum is an art museum dedicated to the famous artist in Truskavets.",
+                  "category": "museum",
+                  "coords": [
+                        23.504369,
+                        49.280111
+                  ]
+            },
+            {
+                  "name": "\"History of Truskavets\" Museum",
+                  "text": "The \"History of Truskavets\" Museum offers insights into the local heritage and development of Truskavets.",
+                  "category": "museum",
+                  "coords": [
+                        23.506673,
+                        49.277755
+                  ]
+            },
+            {
+                  "name": "Ukrainian Maiolica Museum",
+                  "text": "The Ukrainian Maiolica Museum in Truskavets showcases a collection of traditional ceramic art.",
+                  "category": "museum",
+                  "coords": [
+                        23.504315,
+                        49.276384
+                  ]
+            },
+            {
+                  "name": "Park Adamivka",
+                  "text": "Park Adamivka is a recognized recreational green space in Truskavets.",
+                  "category": "park",
+                  "coords": [
+                        23.499251,
+                        49.273376
+                  ]
+            },
+            {
+                  "name": "Spring \"Yuzia\"",
+                  "text": "Spring \"Yuzia\" is a notable mineral spring offering renowned water in Truskavets.",
+                  "category": "landmark",
+                  "coords": [
+                        23.496408,
+                        49.272719
+                  ]
+            },
+            {
+                  "name": "Spring №7 \"Ferdynand\"",
+                  "text": "Spring No. 7 \"Ferdynand\" is a recognized natural mineral spring situated in Truskavets.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505525,
+                        49.277436
+                  ]
+            },
+            {
+                  "name": "Spring №6 \"Edward\"",
+                  "text": "Spring No. 6 \"Edward\" is a popular natural spring attraction in Truskavets.",
+                  "category": "landmark",
+                  "coords": [
+                        23.502507,
+                        49.276013
+                  ]
+            },
+            {
+                  "name": "Weeping beech",
+                  "text": "The Weeping beech is a distinguished natural attraction located in Truskavets.",
+                  "category": "landmark",
+                  "coords": [
+                        23.505575,
+                        49.27918
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Truskawez", hu: "Truszkavec", ro: "Truskaveț", en: "Truskavets"},
@@ -26907,6 +32154,15 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                         30.646454,
                         46.27382
                   ]
+            },
+            {
+                  "name": "Обеліск Cлави",
+                  "text": "Der Ruhmesobelisk ist ein markantes Denkmal in Chornomorsk.",
+                  "category": "historical",
+                  "coords": [
+                        30.664433,
+                        46.303488
+                  ]
             }
       ],
       "hu": [
@@ -26926,6 +32182,15 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                   "coords": [
                         30.646454,
                         46.27382
+                  ]
+            },
+            {
+                  "name": "Обеліск Cлави",
+                  "text": "A Dicsőség Obeliszkje egy kiemelkedő emlékmű Csornomorszkban.",
+                  "category": "historical",
+                  "coords": [
+                        30.664433,
+                        46.303488
                   ]
             }
       ],
@@ -26947,6 +32212,15 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                         30.646454,
                         46.27382
                   ]
+            },
+            {
+                  "name": "Обеліск Cлави",
+                  "text": "Obeliscul Gloriei este un monument proeminent din Ciornomorsk.",
+                  "category": "historical",
+                  "coords": [
+                        30.664433,
+                        46.303488
+                  ]
             }
       ],
       "en": [
@@ -26966,6 +32240,15 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
                   "coords": [
                         30.646454,
                         46.27382
+                  ]
+            },
+            {
+                  "name": "Обеліск Cлави",
+                  "text": "The Obelisk of Glory is a prominent monument in Chornomorsk.",
+                  "category": "historical",
+                  "coords": [
+                        30.664433,
+                        46.303488
                   ]
             }
       ]
@@ -28034,7 +33317,88 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-chuhuiv-cities-v2",
+    id: "ukraine-chuhuiv-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument I. E. Repin",
+                  "text": "Dieses Denkmal in Chuhuiv ist dem berühmten Künstler Ilja Repin gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        36.695058,
+                        49.836442
+                  ]
+            },
+            {
+                  "name": "Repin Museum",
+                  "text": "Das Repin Museum in Chuhuiv widmet sich dem Leben und den Werken des Künstlers Ilja Repin.",
+                  "category": "museum",
+                  "coords": [
+                        36.68805,
+                        49.839706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument I. E. Repin",
+                  "text": "Ez a chuhuivi emlékmű a híres festő, Ilja Repin tiszteletére állított szobor.",
+                  "category": "historical",
+                  "coords": [
+                        36.695058,
+                        49.836442
+                  ]
+            },
+            {
+                  "name": "Repin Museum",
+                  "text": "A chuhuivi Repin Múzeum a neves festő, Ilja Repin életét és munkásságát bemutató intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        36.68805,
+                        49.839706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument I. E. Repin",
+                  "text": "Acest monument din Chuhuiv este dedicat celebrului artist Ilya Repin.",
+                  "category": "historical",
+                  "coords": [
+                        36.695058,
+                        49.836442
+                  ]
+            },
+            {
+                  "name": "Repin Museum",
+                  "text": "Muzeul Repin este un muzeu local din Chuhuiv care celebrează viața și operele artistului Ilya Repin.",
+                  "category": "museum",
+                  "coords": [
+                        36.68805,
+                        49.839706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument I. E. Repin",
+                  "text": "This monument in Chuhuiv is dedicated to the famous artist Ilya Repin.",
+                  "category": "historical",
+                  "coords": [
+                        36.695058,
+                        49.836442
+                  ]
+            },
+            {
+                  "name": "Repin Museum",
+                  "text": "The Repin Museum is a local museum in Chuhuiv celebrating the life and works of artist Ilya Repin.",
+                  "category": "museum",
+                  "coords": [
+                        36.68805,
+                        49.839706
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Tschuhujiw", hu: "Csuhujiv", ro: "Ciuhuiv", en: "Chuhuiv"},
@@ -31196,7 +36560,160 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-kovel-cities-v2",
+    id: "ukraine-kovel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kovel Museum of Local Lore",
+                  "text": "Das Heimatmuseum von Kovel präsentiert die Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        24.711161,
+                        51.214475
+                  ]
+            },
+            {
+                  "name": "Cultural and educational center",
+                  "text": "Dieses Kunstzentrum in Kovel bietet kulturelle und bildungsbezogene Programme für die Gemeinde.",
+                  "category": "cultural",
+                  "coords": [
+                        24.706442,
+                        51.21448
+                  ]
+            },
+            {
+                  "name": "Children's Park",
+                  "text": "Der Kinderpark in Kovel ist ein Freizeitpark, der auf Familienunterhaltung ausgerichtet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        24.712543,
+                        51.215428
+                  ]
+            },
+            {
+                  "name": "City Beach",
+                  "text": "Der Stadtstrand in Kovel ist ein beliebtes Ausflugsziel zum Sonnenbaden und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.700286,
+                        51.217861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kovel Museum of Local Lore",
+                  "text": "A Koveli Helytörténeti Múzeum a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.711161,
+                        51.214475
+                  ]
+            },
+            {
+                  "name": "Cultural and educational center",
+                  "text": "Ez a koveli művészeti központ kulturális és oktatási programokat kínál a közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        24.706442,
+                        51.21448
+                  ]
+            },
+            {
+                  "name": "Children's Park",
+                  "text": "A koveli Gyermekpark egy családok számára kialakított vidámpark.",
+                  "category": "recreational",
+                  "coords": [
+                        24.712543,
+                        51.215428
+                  ]
+            },
+            {
+                  "name": "City Beach",
+                  "text": "A koveli Városi Strand népszerű célpont a napozáshoz és a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        24.700286,
+                        51.217861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kovel Museum of Local Lore",
+                  "text": "Muzeul de Istorie Locală din Kovel prezintă istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        24.711161,
+                        51.214475
+                  ]
+            },
+            {
+                  "name": "Cultural and educational center",
+                  "text": "Acest centru de artă din Kovel oferă programe culturale și educaționale pentru comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        24.706442,
+                        51.21448
+                  ]
+            },
+            {
+                  "name": "Children's Park",
+                  "text": "Parcul Copiilor din Kovel este un parc tematic conceput pentru divertismentul în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        24.712543,
+                        51.215428
+                  ]
+            },
+            {
+                  "name": "City Beach",
+                  "text": "Plaja Orășenească din Kovel este o destinație populară pentru plajă și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        24.700286,
+                        51.217861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kovel Museum of Local Lore",
+                  "text": "The Kovel Museum of Local Lore showcases the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.711161,
+                        51.214475
+                  ]
+            },
+            {
+                  "name": "Cultural and educational center",
+                  "text": "This arts center in Kovel provides cultural and educational programs for the community.",
+                  "category": "cultural",
+                  "coords": [
+                        24.706442,
+                        51.21448
+                  ]
+            },
+            {
+                  "name": "Children's Park",
+                  "text": "The Children's Park in Kovel is a theme park designed for family entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        24.712543,
+                        51.215428
+                  ]
+            },
+            {
+                  "name": "City Beach",
+                  "text": "The City Beach in Kovel is a popular destination for sunbathing and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.700286,
+                        51.217861
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Kowel", hu: "Kovel", ro: "Kovel", en: "Kovel"},
@@ -32132,7 +37649,88 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-khust-cities-v2",
+    id: "ukraine-khust-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khust castle",
+                  "text": "Die Burg Chust ist eine bekannte historische Festung in Chust.",
+                  "category": "castle",
+                  "coords": [
+                        23.301285,
+                        48.168094
+                  ]
+            },
+            {
+                  "name": "Khust Town Council",
+                  "text": "Das Gebäude des Stadtrats von Chust ist ein bemerkenswertes Verwaltungszentrum in Chust.",
+                  "category": "landmark",
+                  "coords": [
+                        23.298123,
+                        48.172038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khust castle",
+                  "text": "A huszti vár egy jól ismert történelmi erődítmény Huszt városában.",
+                  "category": "castle",
+                  "coords": [
+                        23.301285,
+                        48.168094
+                  ]
+            },
+            {
+                  "name": "Khust Town Council",
+                  "text": "A huszti városi tanács épülete egy jelentős közigazgatási központ Huszt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.298123,
+                        48.172038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khust castle",
+                  "text": "Castelul Hust este o fortăreață istorică bine-cunoscută situată în Hust.",
+                  "category": "castle",
+                  "coords": [
+                        23.301285,
+                        48.168094
+                  ]
+            },
+            {
+                  "name": "Khust Town Council",
+                  "text": "Clădirea Consiliului Local Hust este un centru administrativ notabil din Hust.",
+                  "category": "landmark",
+                  "coords": [
+                        23.298123,
+                        48.172038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khust castle",
+                  "text": "Khust castle is a well-known historic fortress located in Khust.",
+                  "category": "castle",
+                  "coords": [
+                        23.301285,
+                        48.168094
+                  ]
+            },
+            {
+                  "name": "Khust Town Council",
+                  "text": "The Khust Town Council building is a notable administrative center in Khust.",
+                  "category": "landmark",
+                  "coords": [
+                        23.298123,
+                        48.172038
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Chust", hu: "Huszt", ro: "Hust", en: "Khust"},
@@ -34436,7 +40034,52 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     },
   },
   {
-    id: "ukraine-kupiansk-cities-v2",
+    id: "ukraine-kupiansk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Groundhog-guard",
+                  "text": "Das Murmeltier-Wächter-Denkmal ist ein lokales Denkmal in der Stadt Kupjansk.",
+                  "category": "historical",
+                  "coords": [
+                        37.614802,
+                        49.710449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Groundhog-guard",
+                  "text": "A Mormota-őr emlékmű egy helyi emlékmű Kupjanszk városában.",
+                  "category": "historical",
+                  "coords": [
+                        37.614802,
+                        49.710449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Groundhog-guard",
+                  "text": "Monumentul Străjerul-marmotă este un monument local din orașul Kupiansk.",
+                  "category": "historical",
+                  "coords": [
+                        37.614802,
+                        49.710449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Groundhog-guard",
+                  "text": "The Groundhog-guard monument is a local monument situated in the city of Kupiansk.",
+                  "category": "historical",
+                  "coords": [
+                        37.614802,
+                        49.710449
+                  ]
+            }
+      ]
+},
     parent: "UA",
     type: "city",
     name: { de: "Kupjansk", hu: "Kupjanszk", ro: "Kupeansk", en: "Kupiansk"},

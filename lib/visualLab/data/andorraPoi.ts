@@ -1216,10 +1216,86 @@ export const andorraCities: POI[] = [
   },
   {
     id: "city-ordino", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Capella de Casa Rossell",
+                  "text": "Die Capella de Casa Rossell ist eine historische Kirche in Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.534002,
+                        42.556317
+                  ]
+            },
+            {
+                  "name": "Església de Sant Corneli i Sant Cebrià d'Ordino",
+                  "text": "Die Església de Sant Corneli i Sant Cebrià d'Ordino ist eine bemerkenswerte Kultstätte in Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.532882,
+                        42.556865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capella de Casa Rossell",
+                  "text": "A Capella de Casa Rossell egy történelmi templom Ordinóban.",
+                  "category": "religious",
+                  "coords": [
+                        1.534002,
+                        42.556317
+                  ]
+            },
+            {
+                  "name": "Església de Sant Corneli i Sant Cebrià d'Ordino",
+                  "text": "Az Església de Sant Corneli i Sant Cebrià d'Ordino egy figyelemre méltó istentiszteleti hely Ordinóban.",
+                  "category": "religious",
+                  "coords": [
+                        1.532882,
+                        42.556865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capella de Casa Rossell",
+                  "text": "Capella de Casa Rossell este o biserică istorică din Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.534002,
+                        42.556317
+                  ]
+            },
+            {
+                  "name": "Església de Sant Corneli i Sant Cebrià d'Ordino",
+                  "text": "Església de Sant Corneli i Sant Cebrià d'Ordino este un lăcaș de cult notabil din Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.532882,
+                        42.556865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Capella de Casa Rossell",
+                  "text": "Capella de Casa Rossell is a historic church in Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.534002,
+                        42.556317
+                  ]
+            },
+            {
+                  "name": "Església de Sant Corneli i Sant Cebrià d'Ordino",
+                  "text": "Església de Sant Corneli i Sant Cebrià d'Ordino is a notable place of worship in Ordino.",
+                  "category": "religious",
+                  "coords": [
+                        1.532882,
+                        42.556865
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "country-andorra",

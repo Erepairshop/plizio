@@ -1045,7 +1045,232 @@ imageHint: "Birka Viking settlement archaeological site",
     },
     image: "/poi-images/sweden-birka-ruins-history-v2.webp",
 },  {
-    id: "sweden-gammelstad-church-town-history-v2",
+    id: "sweden-gammelstad-church-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gammelstadsviken",
+                  "text": "Gammelstadsviken ist ein Naturschutzgebiet in der Nähe der Gammelstad Church Town.",
+                  "category": "natural",
+                  "coords": [
+                        22.080235,
+                        65.631795
+                  ]
+            },
+            {
+                  "name": "Friluftsmuseet Hägnan",
+                  "text": "Das Friluftsmuseet Hägnan ist ein Museum in der Gammelstad Church Town.",
+                  "category": "museum",
+                  "coords": [
+                        22.03593,
+                        65.648832
+                  ]
+            },
+            {
+                  "name": "Stadsökyrkan",
+                  "text": "Die Stadsökyrkan ist eine Kultstätte im Gebiet der Gammelstad Church Town.",
+                  "category": "religious",
+                  "coords": [
+                        21.997596,
+                        65.647485
+                  ]
+            },
+            {
+                  "name": "Nederluleå kyrka",
+                  "text": "Die Nederluleå kyrka ist eine Kultstätte in der Gammelstad Church Town.",
+                  "category": "religious",
+                  "coords": [
+                        22.028235,
+                        65.645714
+                  ]
+            },
+            {
+                  "name": "Old german WW2 storage facility",
+                  "text": "Die Old german WW2 storage facility besteht aus historischen Ruinen in der Gammelstad Church Town.",
+                  "category": "historical",
+                  "coords": [
+                        22.048183,
+                        65.635591
+                  ]
+            },
+            {
+                  "name": "Hälsokälla",
+                  "text": "Hälsokälla ist eine Attraktion in der Gammelstad Church Town.",
+                  "category": "landmark",
+                  "coords": [
+                        22.040247,
+                        65.65725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gammelstadsviken",
+                  "text": "A Gammelstadsviken egy természeti rezervátum Gammelstad templomvárosának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        22.080235,
+                        65.631795
+                  ]
+            },
+            {
+                  "name": "Friluftsmuseet Hägnan",
+                  "text": "A Friluftsmuseet Hägnan egy múzeum Gammelstad templomvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        22.03593,
+                        65.648832
+                  ]
+            },
+            {
+                  "name": "Stadsökyrkan",
+                  "text": "A Stadsökyrkan egy istentiszteleti hely Gammelstad templomvárosának területén.",
+                  "category": "religious",
+                  "coords": [
+                        21.997596,
+                        65.647485
+                  ]
+            },
+            {
+                  "name": "Nederluleå kyrka",
+                  "text": "A Nederluleå kyrka egy templom Gammelstad templomvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        22.028235,
+                        65.645714
+                  ]
+            },
+            {
+                  "name": "Old german WW2 storage facility",
+                  "text": "A régi német második világháborús raktárépület történelmi romként található Gammelstad templomvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        22.048183,
+                        65.635591
+                  ]
+            },
+            {
+                  "name": "Hälsokälla",
+                  "text": "A Hälsokälla egy helyi látványosság Gammelstad templomvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.040247,
+                        65.65725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gammelstadsviken",
+                  "text": "Gammelstadsviken este o rezervație naturală situată lângă Gammelstad Church Town.",
+                  "category": "natural",
+                  "coords": [
+                        22.080235,
+                        65.631795
+                  ]
+            },
+            {
+                  "name": "Friluftsmuseet Hägnan",
+                  "text": "Friluftsmuseet Hägnan este un muzeu din Gammelstad Church Town.",
+                  "category": "museum",
+                  "coords": [
+                        22.03593,
+                        65.648832
+                  ]
+            },
+            {
+                  "name": "Stadsökyrkan",
+                  "text": "Stadsökyrkan este un lăcaș de cult în zona Gammelstad Church Town.",
+                  "category": "religious",
+                  "coords": [
+                        21.997596,
+                        65.647485
+                  ]
+            },
+            {
+                  "name": "Nederluleå kyrka",
+                  "text": "Nederluleå kyrka este un lăcaș de cult din Gammelstad Church Town.",
+                  "category": "religious",
+                  "coords": [
+                        22.028235,
+                        65.645714
+                  ]
+            },
+            {
+                  "name": "Old german WW2 storage facility",
+                  "text": "Vechea facilitate germană de depozitare din Al Doilea Război Mondial constă în ruine din Gammelstad Church Town.",
+                  "category": "historical",
+                  "coords": [
+                        22.048183,
+                        65.635591
+                  ]
+            },
+            {
+                  "name": "Hälsokälla",
+                  "text": "Hälsokälla este o atracție din Gammelstad Church Town.",
+                  "category": "landmark",
+                  "coords": [
+                        22.040247,
+                        65.65725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gammelstadsviken",
+                  "text": "Gammelstadsviken is a nature reserve located near Gammelstad Church Town.",
+                  "category": "natural",
+                  "coords": [
+                        22.080235,
+                        65.631795
+                  ]
+            },
+            {
+                  "name": "Friluftsmuseet Hägnan",
+                  "text": "Friluftsmuseet Hägnan is a museum located in Gammelstad Church Town.",
+                  "category": "museum",
+                  "coords": [
+                        22.03593,
+                        65.648832
+                  ]
+            },
+            {
+                  "name": "Stadsökyrkan",
+                  "text": "Stadsökyrkan is a place of worship in the Gammelstad Church Town area.",
+                  "category": "religious",
+                  "coords": [
+                        21.997596,
+                        65.647485
+                  ]
+            },
+            {
+                  "name": "Nederluleå kyrka",
+                  "text": "Nederluleå kyrka is a place of worship in Gammelstad Church Town.",
+                  "category": "religious",
+                  "coords": [
+                        22.028235,
+                        65.645714
+                  ]
+            },
+            {
+                  "name": "Old german WW2 storage facility",
+                  "text": "The Old german WW2 storage facility consists of ruins located in Gammelstad Church Town.",
+                  "category": "historical",
+                  "coords": [
+                        22.048183,
+                        65.635591
+                  ]
+            },
+            {
+                  "name": "Hälsokälla",
+                  "text": "Hälsokälla is a popular attraction in Gammelstad Church Town.",
+                  "category": "landmark",
+                  "coords": [
+                        22.040247,
+                        65.65725
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "village",
     name: { de: "Kirchendorf Gammelstad", hu: "Gammelstadi templomváros", ro: "Satul bisericesc Gammelstad", en: "Gammelstad Church Town"},

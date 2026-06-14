@@ -76653,6 +76653,51 @@ export const poiExtraDeCities: POI[] = [
                         6.891129,
                         49.403723
                   ]
+            },
+            {
+                  "name": "Hangenberg",
+                  "text": "Der Hangenberg ist ein Berggipfel in der Region von Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.9159,
+                        49.387616
+                  ]
+            },
+            {
+                  "name": "Hirschberg",
+                  "text": "Der Hirschberg ist eine landschaftliche Erhebung in Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.941102,
+                        49.401599
+                  ]
+            },
+            {
+                  "name": "Wünschberg",
+                  "text": "Der Wünschberg ist ein Hügel oder Gipfel in der Stadt Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.920755,
+                        49.407577
+                  ]
+            },
+            {
+                  "name": "Hoxberg",
+                  "text": "Der Hoxberg ist ein bewaldeter Berg im Saarland, der bei Lebach liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.881535,
+                        49.390653
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "Die Kirche St. Laurentius ist ein bekanntes Gotteshaus im Lebacher Ortsteil Bubach-Calmesweiler.",
+                  "category": "religious",
+                  "coords": [
+                        6.945061,
+                        49.410382
+                  ]
             }
       ],
       "hu": [
@@ -76693,6 +76738,51 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         6.891129,
                         49.403723
+                  ]
+            },
+            {
+                  "name": "Hangenberg",
+                  "text": "A Hangenberg egy hegycsúcs Lebach régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.9159,
+                        49.387616
+                  ]
+            },
+            {
+                  "name": "Hirschberg",
+                  "text": "A Hirschberg egy festői magaslat Lebachban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.941102,
+                        49.401599
+                  ]
+            },
+            {
+                  "name": "Wünschberg",
+                  "text": "A Wünschberg egy domb vagy csúcs Lebach városában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.920755,
+                        49.407577
+                  ]
+            },
+            {
+                  "name": "Hoxberg",
+                  "text": "A Hoxberg egy erdős hegy Saar-vidéken, amely Lebach közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        6.881535,
+                        49.390653
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "A St. Laurentius templom egy ismert imaház a lebachi Bubach-Calmesweiler kerületben.",
+                  "category": "religious",
+                  "coords": [
+                        6.945061,
+                        49.410382
                   ]
             }
       ],
@@ -76735,6 +76825,51 @@ export const poiExtraDeCities: POI[] = [
                         6.891129,
                         49.403723
                   ]
+            },
+            {
+                  "name": "Hangenberg",
+                  "text": "Hangenberg este un vârf montan în regiunea Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.9159,
+                        49.387616
+                  ]
+            },
+            {
+                  "name": "Hirschberg",
+                  "text": "Hirschberg este o altitudine pitorească din Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.941102,
+                        49.401599
+                  ]
+            },
+            {
+                  "name": "Wünschberg",
+                  "text": "Wünschberg este un deal sau un vârf în orașul Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.920755,
+                        49.407577
+                  ]
+            },
+            {
+                  "name": "Hoxberg",
+                  "text": "Hoxberg este un munte împădurit din Saarland, situat lângă Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.881535,
+                        49.390653
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "Biserica St. Laurentius este un lăcaș de cult binecunoscut în cartierul Bubach-Calmesweiler din Lebach.",
+                  "category": "religious",
+                  "coords": [
+                        6.945061,
+                        49.410382
+                  ]
             }
       ],
       "en": [
@@ -76775,6 +76910,51 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         6.891129,
                         49.403723
+                  ]
+            },
+            {
+                  "name": "Hangenberg",
+                  "text": "The Hangenberg is a mountain peak in the region of Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.9159,
+                        49.387616
+                  ]
+            },
+            {
+                  "name": "Hirschberg",
+                  "text": "The Hirschberg is a scenic elevation in Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.941102,
+                        49.401599
+                  ]
+            },
+            {
+                  "name": "Wünschberg",
+                  "text": "The Wünschberg is a hill or peak in the city of Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.920755,
+                        49.407577
+                  ]
+            },
+            {
+                  "name": "Hoxberg",
+                  "text": "The Hoxberg is a wooded mountain in Saarland, located near Lebach.",
+                  "category": "landmark",
+                  "coords": [
+                        6.881535,
+                        49.390653
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "The St. Laurentius church is a well-known place of worship in the Bubach-Calmesweiler district of Lebach.",
+                  "category": "religious",
+                  "coords": [
+                        6.945061,
+                        49.410382
                   ]
             }
       ],

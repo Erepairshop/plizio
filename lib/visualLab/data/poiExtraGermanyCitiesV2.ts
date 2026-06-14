@@ -8616,6 +8616,87 @@ export const germanyCitiesV2: POI[] = [
                         7.037875,
                         51.17088
                   ]
+            },
+            {
+                  "name": "Gustav-Coppel-Park",
+                  "text": "Der Gustav-Coppel-Park ist ein öffentlicher Park in Solingen.",
+                  "category": "park",
+                  "coords": [
+                        7.096524,
+                        51.172158
+                  ]
+            },
+            {
+                  "name": "Rathaus Solingen",
+                  "text": "Das Rathaus Solingen fungiert als Verwaltungsgebäude für die Stadt Solingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.084453,
+                        51.177258
+                  ]
+            },
+            {
+                  "name": "St. Clemens",
+                  "text": "St. Clemens ist eine bedeutende historische Kirche in Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.086002,
+                        51.174403
+                  ]
+            },
+            {
+                  "name": "Stadtkirche",
+                  "text": "Die Stadtkirche ist eine bemerkenswerte historische Kirche im Zentrum von Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.08478,
+                        51.171722
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Die Lutherkirche ist eine historische Kirche in Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.079221,
+                        51.164988
+                  ]
+            },
+            {
+                  "name": "St. Suitbertus Weeg",
+                  "text": "St. Suitbertus Weeg ist eine bemerkenswerte historische Kirche im Solinger Stadtteil Höhscheid.",
+                  "category": "religious",
+                  "coords": [
+                        7.073071,
+                        51.159363
+                  ]
+            },
+            {
+                  "name": "ehem. Rathaus Höhscheid",
+                  "text": "Das ehemalige Rathaus Höhscheid ist ein historisches Verwaltungsgebäude in Solingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063782,
+                        51.152961
+                  ]
+            },
+            {
+                  "name": "Dorper Kirche",
+                  "text": "Die Dorper Kirche ist ein bedeutendes historisches Gotteshaus in Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.103277,
+                        51.160725
+                  ]
+            },
+            {
+                  "name": "Bunker Brühl",
+                  "text": "Der Bunker Brühl umfasst die Ruinen eines ehemaligen Bunkers in Solingen.",
+                  "category": "historical",
+                  "coords": [
+                        7.083847,
+                        51.157701
+                  ]
             }
       ],
       "hu": [
@@ -8626,6 +8707,87 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.037875,
                         51.17088
+                  ]
+            },
+            {
+                  "name": "Gustav-Coppel-Park",
+                  "text": "A Gustav-Coppel-Park egy nyilvános park Solingenben.",
+                  "category": "park",
+                  "coords": [
+                        7.096524,
+                        51.172158
+                  ]
+            },
+            {
+                  "name": "Rathaus Solingen",
+                  "text": "A Rathaus Solingen Solingen város városházaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.084453,
+                        51.177258
+                  ]
+            },
+            {
+                  "name": "St. Clemens",
+                  "text": "A St. Clemens egy jelentős történelmi templom Solingenben.",
+                  "category": "religious",
+                  "coords": [
+                        7.086002,
+                        51.174403
+                  ]
+            },
+            {
+                  "name": "Stadtkirche",
+                  "text": "A Stadtkirche egy nevezetes történelmi templom Solingenben.",
+                  "category": "religious",
+                  "coords": [
+                        7.08478,
+                        51.171722
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "A Lutherkirche egy történelmi templom Solingenben.",
+                  "category": "religious",
+                  "coords": [
+                        7.079221,
+                        51.164988
+                  ]
+            },
+            {
+                  "name": "St. Suitbertus Weeg",
+                  "text": "A St. Suitbertus Weeg egy nevezetes történelmi templom Solingen Höhscheid kerületében.",
+                  "category": "religious",
+                  "coords": [
+                        7.073071,
+                        51.159363
+                  ]
+            },
+            {
+                  "name": "ehem. Rathaus Höhscheid",
+                  "text": "A volt Höhscheid városháza egy történelmi közigazgatási épület Solingenben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063782,
+                        51.152961
+                  ]
+            },
+            {
+                  "name": "Dorper Kirche",
+                  "text": "A Dorper Kirche egy kiemelkedő történelmi istentiszteleti hely Solingenben.",
+                  "category": "religious",
+                  "coords": [
+                        7.103277,
+                        51.160725
+                  ]
+            },
+            {
+                  "name": "Bunker Brühl",
+                  "text": "A Bunker Brühl egy egykori bunker romjait tartalmazza Solingenben.",
+                  "category": "historical",
+                  "coords": [
+                        7.083847,
+                        51.157701
                   ]
             }
       ],
@@ -8638,6 +8800,87 @@ export const germanyCitiesV2: POI[] = [
                         7.037875,
                         51.17088
                   ]
+            },
+            {
+                  "name": "Gustav-Coppel-Park",
+                  "text": "Gustav-Coppel-Park este un parc public situat în Solingen.",
+                  "category": "park",
+                  "coords": [
+                        7.096524,
+                        51.172158
+                  ]
+            },
+            {
+                  "name": "Rathaus Solingen",
+                  "text": "Rathaus Solingen funcționează ca primărie pentru orașul Solingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.084453,
+                        51.177258
+                  ]
+            },
+            {
+                  "name": "St. Clemens",
+                  "text": "St. Clemens este o biserică istorică importantă din Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.086002,
+                        51.174403
+                  ]
+            },
+            {
+                  "name": "Stadtkirche",
+                  "text": "Stadtkirche este o biserică istorică notabilă din Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.08478,
+                        51.171722
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Lutherkirche este o biserică istorică situată în Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.079221,
+                        51.164988
+                  ]
+            },
+            {
+                  "name": "St. Suitbertus Weeg",
+                  "text": "St. Suitbertus Weeg este o biserică istorică notabilă din cartierul Höhscheid din Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.073071,
+                        51.159363
+                  ]
+            },
+            {
+                  "name": "ehem. Rathaus Höhscheid",
+                  "text": "Fosta primărie Höhscheid este o clădire administrativă istorică din Solingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063782,
+                        51.152961
+                  ]
+            },
+            {
+                  "name": "Dorper Kirche",
+                  "text": "Dorper Kirche este un lăcaș de cult istoric proeminent din Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.103277,
+                        51.160725
+                  ]
+            },
+            {
+                  "name": "Bunker Brühl",
+                  "text": "Bunker Brühl conține ruinele unui fost buncăr situat în Solingen.",
+                  "category": "historical",
+                  "coords": [
+                        7.083847,
+                        51.157701
+                  ]
             }
       ],
       "en": [
@@ -8648,6 +8891,87 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.037875,
                         51.17088
+                  ]
+            },
+            {
+                  "name": "Gustav-Coppel-Park",
+                  "text": "Gustav-Coppel-Park is a public park located in Solingen.",
+                  "category": "park",
+                  "coords": [
+                        7.096524,
+                        51.172158
+                  ]
+            },
+            {
+                  "name": "Rathaus Solingen",
+                  "text": "Rathaus Solingen functions as the town hall for the city of Solingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.084453,
+                        51.177258
+                  ]
+            },
+            {
+                  "name": "St. Clemens",
+                  "text": "St. Clemens is a significant historic church in Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.086002,
+                        51.174403
+                  ]
+            },
+            {
+                  "name": "Stadtkirche",
+                  "text": "Stadtkirche is a notable historic church centrally located in Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.08478,
+                        51.171722
+                  ]
+            },
+            {
+                  "name": "Lutherkirche",
+                  "text": "Lutherkirche is a historic church situated in Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.079221,
+                        51.164988
+                  ]
+            },
+            {
+                  "name": "St. Suitbertus Weeg",
+                  "text": "St. Suitbertus Weeg is a notable historic church in the Höhscheid district of Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.073071,
+                        51.159363
+                  ]
+            },
+            {
+                  "name": "ehem. Rathaus Höhscheid",
+                  "text": "The former Rathaus Höhscheid is a historic administrative building in Solingen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063782,
+                        51.152961
+                  ]
+            },
+            {
+                  "name": "Dorper Kirche",
+                  "text": "Dorper Kirche is a prominent historic place of worship in Solingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.103277,
+                        51.160725
+                  ]
+            },
+            {
+                  "name": "Bunker Brühl",
+                  "text": "Bunker Brühl contains the ruins of a former bunker located in Solingen.",
+                  "category": "historical",
+                  "coords": [
+                        7.083847,
+                        51.157701
                   ]
             }
       ]
@@ -8719,6 +9043,78 @@ export const germanyCitiesV2: POI[] = [
                         8.030245,
                         50.875507
                   ]
+            },
+            {
+                  "name": "Mittelberg",
+                  "text": "Der Mittelberg ist ein natürlicher Berggipfel auf dem Stadtgebiet von Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046052,
+                        50.85944
+                  ]
+            },
+            {
+                  "name": "Häusling",
+                  "text": "Der Häusling ist ein bekannter Berg, der einen guten Ausblick auf Siegen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.024614,
+                        50.86691
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "Der Hamberg ist ein markanter Berggipfel, der die Landschaft von Siegen prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.032485,
+                        50.85924
+                  ]
+            },
+            {
+                  "name": "Heidenberg",
+                  "text": "Der Heidenberg ist eine markante Erhebung im Stadtgebiet von Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998752,
+                        50.866667
+                  ]
+            },
+            {
+                  "name": "Fischbacherberg",
+                  "text": "Der Fischbacherberg ist eine bekannte Erhebung und Naturlandmarke in Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.004308,
+                        50.877615
+                  ]
+            },
+            {
+                  "name": "Buberg",
+                  "text": "Der Buberg ist ein Berggipfel in der natürlichen Umgebung von Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.983648,
+                        50.883847
+                  ]
+            },
+            {
+                  "name": "Wellersberg",
+                  "text": "Der Wellersberg ist ein bekannter Berg auf dem Stadtgebiet von Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014729,
+                        50.884203
+                  ]
+            },
+            {
+                  "name": "Giersberg",
+                  "text": "Der Giersberg ist eine markante Erhebung und ein lokales Naherholungsgebiet in Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.037863,
+                        50.884
+                  ]
             }
       ],
       "hu": [
@@ -8738,6 +9134,78 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.030245,
                         50.875507
+                  ]
+            },
+            {
+                  "name": "Mittelberg",
+                  "text": "A Mittelberg egy természetes hegycsúcs Siegen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046052,
+                        50.85944
+                  ]
+            },
+            {
+                  "name": "Häusling",
+                  "text": "A Häusling egy ismert hegy, amely panorámás kilátást nyújt Siegen városára.",
+                  "category": "landmark",
+                  "coords": [
+                        8.024614,
+                        50.86691
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "A Hamberg egy kiemelkedő hegycsúcs, amely hozzájárul Siegen tájához.",
+                  "category": "landmark",
+                  "coords": [
+                        8.032485,
+                        50.85924
+                  ]
+            },
+            {
+                  "name": "Heidenberg",
+                  "text": "A Heidenberg egy figyelemre méltó domb Siegen városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998752,
+                        50.866667
+                  ]
+            },
+            {
+                  "name": "Fischbacherberg",
+                  "text": "A Fischbacherberg egy figyelemre méltó magaslat és természeti nevezetesség Siegenben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.004308,
+                        50.877615
+                  ]
+            },
+            {
+                  "name": "Buberg",
+                  "text": "A Buberg egy kiemelkedő hegycsúcs Siegen természetes környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.983648,
+                        50.883847
+                  ]
+            },
+            {
+                  "name": "Wellersberg",
+                  "text": "A Wellersberg egy jól ismert domb Siegen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014729,
+                        50.884203
+                  ]
+            },
+            {
+                  "name": "Giersberg",
+                  "text": "A Giersberg egy kiemelkedő csúcs és helyi rekreációs terület Siegenben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.037863,
+                        50.884
                   ]
             }
       ],
@@ -8759,6 +9227,78 @@ export const germanyCitiesV2: POI[] = [
                         8.030245,
                         50.875507
                   ]
+            },
+            {
+                  "name": "Mittelberg",
+                  "text": "Mittelberg este un vârf montan natural situat în orașul Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046052,
+                        50.85944
+                  ]
+            },
+            {
+                  "name": "Häusling",
+                  "text": "Häusling este un deal recunoscut care oferă vederi panoramice asupra orașului Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.024614,
+                        50.86691
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "Hamberg este un vârf montan proeminent din peisajul orașului Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.032485,
+                        50.85924
+                  ]
+            },
+            {
+                  "name": "Heidenberg",
+                  "text": "Heidenberg este un deal notabil situat în zona urbană a orașului Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998752,
+                        50.866667
+                  ]
+            },
+            {
+                  "name": "Fischbacherberg",
+                  "text": "Fischbacherberg este o înălțime notabilă și un reper natural în Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.004308,
+                        50.877615
+                  ]
+            },
+            {
+                  "name": "Buberg",
+                  "text": "Buberg este un vârf montan proeminent în împrejurimile naturale din Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.983648,
+                        50.883847
+                  ]
+            },
+            {
+                  "name": "Wellersberg",
+                  "text": "Wellersberg este un deal binecunoscut situat în orașul Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014729,
+                        50.884203
+                  ]
+            },
+            {
+                  "name": "Giersberg",
+                  "text": "Giersberg este un vârf proeminent și o zonă de agrement locală din Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.037863,
+                        50.884
+                  ]
             }
       ],
       "en": [
@@ -8778,6 +9318,78 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.030245,
                         50.875507
+                  ]
+            },
+            {
+                  "name": "Mittelberg",
+                  "text": "Mittelberg is a natural mountain peak situated within the city of Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.046052,
+                        50.85944
+                  ]
+            },
+            {
+                  "name": "Häusling",
+                  "text": "Häusling is a recognized hill offering panoramic views over the city of Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.024614,
+                        50.86691
+                  ]
+            },
+            {
+                  "name": "Hamberg",
+                  "text": "Hamberg is a prominent mountain peak contributing to the landscape of Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.032485,
+                        50.85924
+                  ]
+            },
+            {
+                  "name": "Heidenberg",
+                  "text": "Heidenberg is a notable hill located in the urban area of Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.998752,
+                        50.866667
+                  ]
+            },
+            {
+                  "name": "Fischbacherberg",
+                  "text": "Fischbacherberg is a notable elevation and natural landmark in Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.004308,
+                        50.877615
+                  ]
+            },
+            {
+                  "name": "Buberg",
+                  "text": "Buberg is a prominent mountain peak within the natural surroundings of Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.983648,
+                        50.883847
+                  ]
+            },
+            {
+                  "name": "Wellersberg",
+                  "text": "Wellersberg is a well-known hill situated in the city of Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.014729,
+                        50.884203
+                  ]
+            },
+            {
+                  "name": "Giersberg",
+                  "text": "Giersberg is a prominent peak and local recreational area in Siegen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.037863,
+                        50.884
                   ]
             }
       ]

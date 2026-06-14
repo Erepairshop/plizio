@@ -22319,7 +22319,196 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-tyrnavos-cities-v2.webp",
   },
   {
-    id: "greece-konitsa-cities-v2", "sights": {"de": [{"name": "Nationalpark Pindos", "text": "Ein weitläufiger Nationalpark im Pindos-Gebirge, bekannt für seine unberührte Natur.", "category": "natural", "coords": [21.014109, 39.923011]}, {"name": "Moyseio Oinoy", "text": "Ein lokales Museum in Konitsa, das der Tradition des Weinbaus gewidmet ist.", "category": "museum", "coords": [20.744443, 40.041103]}, {"name": "Charadra Aooy (Konitsas-Eleytheroy-Papigkoy)", "text": "Die spektakuläre Aoos-Schlucht bei Konitsa, ein beliebtes Ziel für Naturfreunde.", "category": "natural", "coords": [20.793373, 40.019128]}, {"name": "Panagia", "text": "Eine der Jungfrau Maria geweihte christliche Kirche in Konitsa.", "category": "religious", "coords": [20.724299, 40.060782]}], "hu": [{"name": "Ethniko Parko Pindoy", "text": "Kiterjedt nemzeti park a Pindosz-hegységben, amely érintetlen természetéről híres.", "category": "natural", "coords": [21.014109, 39.923011]}, {"name": "Moyseio Oinoy", "text": "Helyi múzeum Konitszában, amely a bortermelés hagyományait mutatja be.", "category": "museum", "coords": [20.744443, 40.041103]}, {"name": "Charadra Aooy (Konitsas-Eleytheroy-Papigkoy)", "text": "A látványos Aóosz-szurdok Konitsza közelében, a természetjárók kedvelt célpontja.", "category": "natural", "coords": [20.793373, 40.019128]}, {"name": "Panagia", "text": "Szűz Mária tiszteletére szentelt keresztény templom Konitszában.", "category": "religious", "coords": [20.724299, 40.060782]}], "ro": [{"name": "Ethniko Parko Pindoy", "text": "Un parc național vast în munții Pindului, cunoscut pentru natura sa curată.", "category": "natural", "coords": [21.014109, 39.923011]}, {"name": "Moyseio Oinoy", "text": "Un muzeu local din Konitsa dedicat tradiției viticole.", "category": "museum", "coords": [20.744443, 40.041103]}, {"name": "Charadra Aooy (Konitsas-Eleytheroy-Papigkoy)", "text": "Spectaculoasa cheie Aoos de lângă Konitsa, o destinație populară pentru iubitorii de natură.", "category": "natural", "coords": [20.793373, 40.019128]}, {"name": "Panagia", "text": "O biserică creștină dedicată Fecioarei Maria în Konitsa.", "category": "religious", "coords": [20.724299, 40.060782]}], "en": [{"name": "Pindos National Park", "text": "A vast national park in the Pindus mountains, known for its pristine nature.", "category": "natural", "coords": [21.014109, 39.923011]}, {"name": "Wine museum", "text": "A local museum in Konitsa dedicated to the tradition of winemaking.", "category": "museum", "coords": [20.744443, 40.041103]}, {"name": "Charadra Aoou (Konitsas-Eleftherou-Papingou)", "text": "The spectacular Aoos Gorge near Konitsa, a popular destination for nature lovers.", "category": "natural", "coords": [20.793373, 40.019128]}, {"name": "Panagia", "text": "A Christian church dedicated to the Virgin Mary in Konitsa.", "category": "religious", "coords": [20.724299, 40.060782]}]},
+    id: "greece-konitsa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Pindos",
+                  "text": "Ein weitläufiger Nationalpark im Pindos-Gebirge, bekannt für seine unberührte Natur.",
+                  "category": "natural",
+                  "coords": [
+                        21.014109,
+                        39.923011
+                  ]
+            },
+            {
+                  "name": "Moyseio Oinoy",
+                  "text": "Ein lokales Museum in Konitsa, das der Tradition des Weinbaus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.744443,
+                        40.041103
+                  ]
+            },
+            {
+                  "name": "Charadra Aooy (Konitsas-Eleytheroy-Papigkoy)",
+                  "text": "Die spektakuläre Aoos-Schlucht bei Konitsa, ein beliebtes Ziel für Naturfreunde.",
+                  "category": "natural",
+                  "coords": [
+                        20.793373,
+                        40.019128
+                  ]
+            },
+            {
+                  "name": "Panagia",
+                  "text": "Eine der Jungfrau Maria geweihte christliche Kirche in Konitsa.",
+                  "category": "religious",
+                  "coords": [
+                        20.724299,
+                        40.060782
+                  ]
+            },
+            {
+                  "name": "Bridge of Dopolitsas",
+                  "text": "Die Brücke von Dopolitsas ist eine lokale Sehenswürdigkeit in Konitsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.744384,
+                        40.065613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ethniko Parko Pindoy",
+                  "text": "Kiterjedt nemzeti park a Pindosz-hegységben, amely érintetlen természetéről híres.",
+                  "category": "natural",
+                  "coords": [
+                        21.014109,
+                        39.923011
+                  ]
+            },
+            {
+                  "name": "Moyseio Oinoy",
+                  "text": "Helyi múzeum Konitszában, amely a bortermelés hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.744443,
+                        40.041103
+                  ]
+            },
+            {
+                  "name": "Charadra Aooy (Konitsas-Eleytheroy-Papigkoy)",
+                  "text": "A látványos Aóosz-szurdok Konitsza közelében, a természetjárók kedvelt célpontja.",
+                  "category": "natural",
+                  "coords": [
+                        20.793373,
+                        40.019128
+                  ]
+            },
+            {
+                  "name": "Panagia",
+                  "text": "Szűz Mária tiszteletére szentelt keresztény templom Konitszában.",
+                  "category": "religious",
+                  "coords": [
+                        20.724299,
+                        40.060782
+                  ]
+            },
+            {
+                  "name": "Bridge of Dopolitsas",
+                  "text": "A Dopolitsas híd egy helyi látványosság Konicában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.744384,
+                        40.065613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ethniko Parko Pindoy",
+                  "text": "Un parc național vast în munții Pindului, cunoscut pentru natura sa curată.",
+                  "category": "natural",
+                  "coords": [
+                        21.014109,
+                        39.923011
+                  ]
+            },
+            {
+                  "name": "Moyseio Oinoy",
+                  "text": "Un muzeu local din Konitsa dedicat tradiției viticole.",
+                  "category": "museum",
+                  "coords": [
+                        20.744443,
+                        40.041103
+                  ]
+            },
+            {
+                  "name": "Charadra Aooy (Konitsas-Eleytheroy-Papigkoy)",
+                  "text": "Spectaculoasa cheie Aoos de lângă Konitsa, o destinație populară pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        20.793373,
+                        40.019128
+                  ]
+            },
+            {
+                  "name": "Panagia",
+                  "text": "O biserică creștină dedicată Fecioarei Maria în Konitsa.",
+                  "category": "religious",
+                  "coords": [
+                        20.724299,
+                        40.060782
+                  ]
+            },
+            {
+                  "name": "Bridge of Dopolitsas",
+                  "text": "Podul Dopolitsas este o atracție locală situată în Konitsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.744384,
+                        40.065613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pindos National Park",
+                  "text": "A vast national park in the Pindus mountains, known for its pristine nature.",
+                  "category": "natural",
+                  "coords": [
+                        21.014109,
+                        39.923011
+                  ]
+            },
+            {
+                  "name": "Wine museum",
+                  "text": "A local museum in Konitsa dedicated to the tradition of winemaking.",
+                  "category": "museum",
+                  "coords": [
+                        20.744443,
+                        40.041103
+                  ]
+            },
+            {
+                  "name": "Charadra Aoou (Konitsas-Eleftherou-Papingou)",
+                  "text": "The spectacular Aoos Gorge near Konitsa, a popular destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        20.793373,
+                        40.019128
+                  ]
+            },
+            {
+                  "name": "Panagia",
+                  "text": "A Christian church dedicated to the Virgin Mary in Konitsa.",
+                  "category": "religious",
+                  "coords": [
+                        20.724299,
+                        40.060782
+                  ]
+            },
+            {
+                  "name": "Bridge of Dopolitsas",
+                  "text": "The Bridge of Dopolitsas is a local attraction located in Konitsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.744384,
+                        40.065613
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Konitsa", hu: "Kónica", ro: "Konitsa", en: "Konitsa" },

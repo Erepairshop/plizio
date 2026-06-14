@@ -1336,6 +1336,15 @@ export const poiExtraHrV2: POI[] = [
                         13.968354,
                         45.40677
                   ]
+            },
+            {
+                  "name": "Spomen park antifašističkih žrtava",
+                  "text": "Der Spomen park antifašističkih žrtava ist eine Gedenkstätte in Buzet für die antifaschistischen Opfer.",
+                  "category": "landmark",
+                  "coords": [
+                        13.966722,
+                        45.407906
+                  ]
             }
       ],
       "hu": [
@@ -1357,6 +1366,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.968354,
                         45.40677
+                  ]
+            },
+            {
+                  "name": "Spomen park antifašističkih žrtava",
+                  "text": "A Spomen park antifašističkih žrtava egy antifasiszta áldozatoknak emléket állító emlékhely Buzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.966722,
+                        45.407906
                   ]
             }
       ],
@@ -1380,6 +1398,15 @@ export const poiExtraHrV2: POI[] = [
                         13.968354,
                         45.40677
                   ]
+            },
+            {
+                  "name": "Spomen park antifašističkih žrtava",
+                  "text": "Spomen park antifašističkih žrtava este un parc memorial din Buzet dedicat victimelor antifasciste.",
+                  "category": "landmark",
+                  "coords": [
+                        13.966722,
+                        45.407906
+                  ]
             }
       ],
       "en": [
@@ -1401,6 +1428,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.968354,
                         45.40677
+                  ]
+            },
+            {
+                  "name": "Spomen park antifašističkih žrtava",
+                  "text": "Spomen park antifašističkih žrtava is a memorial site in Buzet dedicated to antifascist victims.",
+                  "category": "landmark",
+                  "coords": [
+                        13.966722,
+                        45.407906
                   ]
             }
       ],
@@ -3880,6 +3916,24 @@ export const poiExtraHrV2: POI[] = [
                         15.947423,
                         46.258018
                   ]
+            },
+            {
+                  "name": "Trakošćan",
+                  "text": "Trakošćan ist eine beeindruckende und viel besuchte historische Burg in Trakošćan.",
+                  "category": "castle",
+                  "coords": [
+                        15.945158,
+                        46.257837
+                  ]
+            },
+            {
+                  "name": "Castle Trakošćan",
+                  "text": "Das Castle Trakošćan ist eine historische Stätte in der Ortschaft Trakošćan.",
+                  "category": "landmark",
+                  "coords": [
+                        15.939672,
+                        46.260527
+                  ]
             }
       ],
       "hu": [
@@ -3923,6 +3977,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.947423,
                         46.258018
+                  ]
+            },
+            {
+                  "name": "Trakošćan",
+                  "text": "Trakošćan egy lenyűgöző és gyakran látogatott történelmi várkastély Trakošćanban.",
+                  "category": "castle",
+                  "coords": [
+                        15.945158,
+                        46.257837
+                  ]
+            },
+            {
+                  "name": "Castle Trakošćan",
+                  "text": "A Castle Trakošćan egy történelmi helyszín Trakošćan településen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.939672,
+                        46.260527
                   ]
             }
       ],
@@ -3968,6 +4040,24 @@ export const poiExtraHrV2: POI[] = [
                         15.947423,
                         46.258018
                   ]
+            },
+            {
+                  "name": "Trakošćan",
+                  "text": "Trakošćan este un castel istoric impresionant și foarte vizitat situat în Trakošćan.",
+                  "category": "castle",
+                  "coords": [
+                        15.945158,
+                        46.257837
+                  ]
+            },
+            {
+                  "name": "Castle Trakošćan",
+                  "text": "Castelul Trakošćan este un sit istoric situat în localitatea Trakošćan.",
+                  "category": "landmark",
+                  "coords": [
+                        15.939672,
+                        46.260527
+                  ]
             }
       ],
       "en": [
@@ -4011,6 +4101,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.947423,
                         46.258018
+                  ]
+            },
+            {
+                  "name": "Trakošćan",
+                  "text": "Trakošćan is an impressive and highly visited historic castle located in Trakošćan.",
+                  "category": "castle",
+                  "coords": [
+                        15.945158,
+                        46.257837
+                  ]
+            },
+            {
+                  "name": "Castle Trakošćan",
+                  "text": "Castle Trakošćan is a historic site located in the settlement of Trakošćan.",
+                  "category": "landmark",
+                  "coords": [
+                        15.939672,
+                        46.260527
                   ]
             }
       ],
@@ -6075,6 +6183,15 @@ export const poiExtraHrV2: POI[] = [
                         16.898656,
                         42.766166
                   ]
+            },
+            {
+                  "name": "Lastovsko Islands Nature Park",
+                  "text": "Der Naturpark Lastovo-Inseln ist ein malerisches Naturreservat um die Stadt Lastovo.",
+                  "category": "natural",
+                  "coords": [
+                        16.893431,
+                        42.766051
+                  ]
             }
       ],
       "hu": [
@@ -6098,6 +6215,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         16.898656,
                         42.766166
+                  ]
+            },
+            {
+                  "name": "Lastovsko Islands Nature Park",
+                  "text": "A Lastovo-szigetek Natúrpark egy festői természetvédelmi terület Lastovo városa körül.",
+                  "category": "natural",
+                  "coords": [
+                        16.893431,
+                        42.766051
                   ]
             }
       ],
@@ -6123,6 +6249,15 @@ export const poiExtraHrV2: POI[] = [
                         16.898656,
                         42.766166
                   ]
+            },
+            {
+                  "name": "Lastovsko Islands Nature Park",
+                  "text": "Parcul Natural Insulele Lastovo este o rezervație naturală pitorească din jurul orașului Lastovo.",
+                  "category": "natural",
+                  "coords": [
+                        16.893431,
+                        42.766051
+                  ]
             }
       ],
       "en": [
@@ -6146,6 +6281,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         16.898656,
                         42.766166
+                  ]
+            },
+            {
+                  "name": "Lastovsko Islands Nature Park",
+                  "text": "The Lastovsko Islands Nature Park is a picturesque nature reserve around the town of Lastovo.",
+                  "category": "natural",
+                  "coords": [
+                        16.893431,
+                        42.766051
                   ]
             }
       ]
@@ -15768,6 +15912,15 @@ export const poiExtraHrV2: POI[] = [
                         14.66732,
                         45.422061
                   ]
+            },
+            {
+                  "name": "Risnjak National Park",
+                  "text": "Der Nationalpark Risnjak ist ein bedeutendes Naturschutzgebiet in Crni Lug.",
+                  "category": "natural",
+                  "coords": [
+                        14.647797,
+                        45.450344
+                  ]
             }
       ],
       "hu": [
@@ -15811,6 +15964,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.66732,
                         45.422061
+                  ]
+            },
+            {
+                  "name": "Risnjak National Park",
+                  "text": "A Risnjak Nemzeti Park egy jelentős természetvédelmi terület Crni Lugban.",
+                  "category": "natural",
+                  "coords": [
+                        14.647797,
+                        45.450344
                   ]
             }
       ],
@@ -15856,6 +16018,15 @@ export const poiExtraHrV2: POI[] = [
                         14.66732,
                         45.422061
                   ]
+            },
+            {
+                  "name": "Risnjak National Park",
+                  "text": "Parcul Național Risnjak este o rezervație naturală proeminentă în Crni Lug.",
+                  "category": "natural",
+                  "coords": [
+                        14.647797,
+                        45.450344
+                  ]
             }
       ],
       "en": [
@@ -15899,6 +16070,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.66732,
                         45.422061
+                  ]
+            },
+            {
+                  "name": "Risnjak National Park",
+                  "text": "Risnjak National Park is a prominent nature reserve in Crni Lug.",
+                  "category": "natural",
+                  "coords": [
+                        14.647797,
+                        45.450344
                   ]
             }
       ],

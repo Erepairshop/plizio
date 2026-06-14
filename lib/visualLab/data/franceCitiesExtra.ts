@@ -56497,6 +56497,69 @@ const citySeeds: CitySeed[] = [
                         2.817979,
                         50.454056
                   ]
+            },
+            {
+                  "name": "Louvre Lens",
+                  "text": "Der Louvre-Lens ist ein bedeutendes Kunstmuseum in Lens, das als regionaler Zweig des Pariser Louvre dient.",
+                  "category": "museum",
+                  "coords": [
+                        2.804376,
+                        50.430613
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léger",
+                  "text": "Die Église Saint-Léger ist eine historische Kirche und ein bedeutendes religiöses Gebäude in Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.8342,
+                        50.429299
+                  ]
+            },
+            {
+                  "name": "Église Saint-Théodore",
+                  "text": "Die Église Saint-Théodore ist ein lokales Kirchengebäude in der Stadt Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.805518,
+                        50.43423
+                  ]
+            },
+            {
+                  "name": "Église Saint-Wulgan",
+                  "text": "Die Église Saint-Wulgan ist ein Gotteshaus für die Gemeinde von Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.840457,
+                        50.436755
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Élisabeth",
+                  "text": "Die Église Sainte-Élisabeth ist eine historische Kirche in Lens, die eng mit der Bergbaugeschichte der Region verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        2.820386,
+                        50.434532
+                  ]
+            },
+            {
+                  "name": "Église Baptiste de Lens",
+                  "text": "Die Église Baptiste de Lens ist ein baptistisches Gotteshaus in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        2.813316,
+                        50.428131
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Boulogne",
+                  "text": "Die Église Notre-Dame-de-Boulogne ist eine katholische Kirche in Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.828794,
+                        50.436926
+                  ]
             }
       ],
       "hu": [
@@ -56525,6 +56588,69 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.817979,
                         50.454056
+                  ]
+            },
+            {
+                  "name": "Louvre Lens",
+                  "text": "A Louvre-Lens egy jelentős művészeti múzeum Lensben, amely a párizsi Louvre regionális fiókintézménye.",
+                  "category": "museum",
+                  "coords": [
+                        2.804376,
+                        50.430613
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léger",
+                  "text": "Az Église Saint-Léger egy történelmi templom és jelentős vallási épület Lens városában.",
+                  "category": "religious",
+                  "coords": [
+                        2.8342,
+                        50.429299
+                  ]
+            },
+            {
+                  "name": "Église Saint-Théodore",
+                  "text": "Az Église Saint-Théodore egy helyi templomépület Lens városában.",
+                  "category": "religious",
+                  "coords": [
+                        2.805518,
+                        50.43423
+                  ]
+            },
+            {
+                  "name": "Église Saint-Wulgan",
+                  "text": "Az Église Saint-Wulgan egy istentiszteleti hely a lens-i közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        2.840457,
+                        50.436755
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Élisabeth",
+                  "text": "Az Église Sainte-Élisabeth egy történelmi templom Lensben, amely szorosan kötődik a régió bányászmúltjához.",
+                  "category": "religious",
+                  "coords": [
+                        2.820386,
+                        50.434532
+                  ]
+            },
+            {
+                  "name": "Église Baptiste de Lens",
+                  "text": "Az Église Baptiste de Lens egy baptista gyülekezeti hely a városban.",
+                  "category": "religious",
+                  "coords": [
+                        2.813316,
+                        50.428131
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Boulogne",
+                  "text": "Az Église Notre-Dame-de-Boulogne egy katolikus templom Lens városában.",
+                  "category": "religious",
+                  "coords": [
+                        2.828794,
+                        50.436926
                   ]
             }
       ],
@@ -56555,6 +56681,69 @@ const citySeeds: CitySeed[] = [
                         2.817979,
                         50.454056
                   ]
+            },
+            {
+                  "name": "Louvre Lens",
+                  "text": "Louvre-Lens este un important muzeu de artă din Lens, care servește ca filială regională a Luvrului parizian.",
+                  "category": "museum",
+                  "coords": [
+                        2.804376,
+                        50.430613
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léger",
+                  "text": "Église Saint-Léger este o biserică istorică și un edificiu religios proeminent în Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.8342,
+                        50.429299
+                  ]
+            },
+            {
+                  "name": "Église Saint-Théodore",
+                  "text": "Église Saint-Théodore este o biserică locală situată în orașul Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.805518,
+                        50.43423
+                  ]
+            },
+            {
+                  "name": "Église Saint-Wulgan",
+                  "text": "Église Saint-Wulgan este un lăcaș de cult ce deservește comunitatea din Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.840457,
+                        50.436755
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Élisabeth",
+                  "text": "Église Sainte-Élisabeth este o biserică istorică din Lens, strâns legată de istoria minieră a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        2.820386,
+                        50.434532
+                  ]
+            },
+            {
+                  "name": "Église Baptiste de Lens",
+                  "text": "Église Baptiste de Lens este un lăcaș de cult baptist situat în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        2.813316,
+                        50.428131
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Boulogne",
+                  "text": "Église Notre-Dame-de-Boulogne este o biserică catolică situată în Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.828794,
+                        50.436926
+                  ]
             }
       ],
       "en": [
@@ -56583,6 +56772,69 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.817979,
                         50.454056
+                  ]
+            },
+            {
+                  "name": "Louvre Lens",
+                  "text": "Louvre-Lens is a major art museum in Lens that serves as a regional branch of the Parisian Louvre.",
+                  "category": "museum",
+                  "coords": [
+                        2.804376,
+                        50.430613
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léger",
+                  "text": "Église Saint-Léger is a historic church and prominent religious site in the city of Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.8342,
+                        50.429299
+                  ]
+            },
+            {
+                  "name": "Église Saint-Théodore",
+                  "text": "Église Saint-Théodore is a local church building situated in the city of Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.805518,
+                        50.43423
+                  ]
+            },
+            {
+                  "name": "Église Saint-Wulgan",
+                  "text": "Église Saint-Wulgan is a place of worship providing religious services to the Lens community.",
+                  "category": "religious",
+                  "coords": [
+                        2.840457,
+                        50.436755
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Élisabeth",
+                  "text": "Église Sainte-Élisabeth is a historic church in Lens, closely linked to the region's mining heritage.",
+                  "category": "religious",
+                  "coords": [
+                        2.820386,
+                        50.434532
+                  ]
+            },
+            {
+                  "name": "Église Baptiste de Lens",
+                  "text": "Église Baptiste de Lens is a Baptist place of worship located in the city.",
+                  "category": "religious",
+                  "coords": [
+                        2.813316,
+                        50.428131
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Boulogne",
+                  "text": "Église Notre-Dame-de-Boulogne is a Catholic church situated in the city of Lens.",
+                  "category": "religious",
+                  "coords": [
+                        2.828794,
+                        50.436926
                   ]
             }
       ]

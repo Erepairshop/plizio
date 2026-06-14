@@ -38430,7 +38430,124 @@ imageHint: "Banská Štiavnica historic center with the Calvary on hill",
     },
     image: "/poi-images/slovakia-banska-stiavnica-cities-v2.webp",
 },  {
-    id: "slovakia-podolinec-cities-v2",
+    id: "slovakia-podolinec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panské sídlo Holumnica",
+                  "text": "Panské sídlo Holumnica bezieht sich auf die historischen Burgruinen in der Nähe von Podolínec.",
+                  "category": "castle",
+                  "coords": [
+                        20.526997,
+                        49.233118
+                  ]
+            },
+            {
+                  "name": "Görgeyovský kaštieľ",
+                  "text": "Görgeyovský kaštieľ ist ein historisches Herrenhaus in Podolínec.",
+                  "category": "historical",
+                  "coords": [
+                        20.522755,
+                        49.235248
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Evanjelický a. v. kostol ist eine evangelische Kirche und Kultstätte in Podolínec.",
+                  "category": "religious",
+                  "coords": [
+                        20.520369,
+                        49.238043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panské sídlo Holumnica",
+                  "text": "A Panské sídlo Holumnica a Podolínec közelében található történelmi holumnici várromot jelöli.",
+                  "category": "castle",
+                  "coords": [
+                        20.526997,
+                        49.233118
+                  ]
+            },
+            {
+                  "name": "Görgeyovský kaštieľ",
+                  "text": "A Görgeyovský kaštieľ egy történelmi kastélyépület Podolínec városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.522755,
+                        49.235248
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Az Evanjelický a. v. kostol egy evangélikus templom Podolínec városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.520369,
+                        49.238043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panské sídlo Holumnica",
+                  "text": "Panské sídlo Holumnica se referă la ruinele castelului istoric situat lângă Podolínec.",
+                  "category": "castle",
+                  "coords": [
+                        20.526997,
+                        49.233118
+                  ]
+            },
+            {
+                  "name": "Görgeyovský kaštieľ",
+                  "text": "Görgeyovský kaštieľ este un conac istoric situat în Podolínec.",
+                  "category": "historical",
+                  "coords": [
+                        20.522755,
+                        49.235248
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Evanjelický a. v. kostol este o biserică evanghelică ce servește ca lăcaș de cult în Podolínec.",
+                  "category": "religious",
+                  "coords": [
+                        20.520369,
+                        49.238043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panské sídlo Holumnica",
+                  "text": "Panské sídlo Holumnica refers to the historic castle ruins located near Podolínec.",
+                  "category": "castle",
+                  "coords": [
+                        20.526997,
+                        49.233118
+                  ]
+            },
+            {
+                  "name": "Görgeyovský kaštieľ",
+                  "text": "Görgeyovský kaštieľ is a historical manor house situated in Podolínec.",
+                  "category": "historical",
+                  "coords": [
+                        20.522755,
+                        49.235248
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Evanjelický a. v. kostol is an Evangelical church functioning as a place of worship in Podolínec.",
+                  "category": "religious",
+                  "coords": [
+                        20.520369,
+                        49.238043
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "town",
     name: { de: "Podolínec", hu: "Pudlein", ro: "Podolínec", en: "Podolínec"},
@@ -40424,7 +40541,160 @@ imageHint: "Steam rack railway train in Tisovec mountains",
     },
     image: "/poi-images/slovakia-tisovec-cities-v2.webp",
 },  {
-    id: "slovakia-vlkas-cities-v2",
+    id: "slovakia-vlkas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kostol Preblahoslavenej Panny Márie",
+                  "text": "Die Kirche der Heiligen Jungfrau Maria ist ein wichtiges Gotteshaus in Vráble.",
+                  "category": "religious",
+                  "coords": [
+                        18.303082,
+                        48.239608
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Nepomuckého",
+                  "text": "Die Kirche des Heiligen Johannes von Nepomuk dient als lokales Gotteshaus in Vráble.",
+                  "category": "religious",
+                  "coords": [
+                        18.291408,
+                        48.216218
+                  ]
+            },
+            {
+                  "name": "Fidvár",
+                  "text": "Fidvár ist eine bedeutende archäologische Stätte in der Stadt Vráble.",
+                  "category": "historical",
+                  "coords": [
+                        18.304503,
+                        48.224573
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Schickovcov",
+                  "text": "Das Herrenhaus der Familie Schick ist ein historisches Anwesen in Vráble.",
+                  "category": "historical",
+                  "coords": [
+                        18.307829,
+                        48.240507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kostol Preblahoslavenej Panny Márie",
+                  "text": "A Boldogságos Szűz Mária-templom egy jelentős istentiszteleti hely Verebély (Vráble) városában.",
+                  "category": "religious",
+                  "coords": [
+                        18.303082,
+                        48.239608
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Nepomuckého",
+                  "text": "A Nepomuki Szent János-templom a helyi közösség vallási központja Verebélyen (Vráble).",
+                  "category": "religious",
+                  "coords": [
+                        18.291408,
+                        48.216218
+                  ]
+            },
+            {
+                  "name": "Fidvár",
+                  "text": "Fidvár egy jelentős régészeti lelőhely Verebély (Vráble) területén.",
+                  "category": "historical",
+                  "coords": [
+                        18.304503,
+                        48.224573
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Schickovcov",
+                  "text": "A Schick-kastély egy történelmi kúria Verebélyen (Vráble).",
+                  "category": "historical",
+                  "coords": [
+                        18.307829,
+                        48.240507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kostol Preblahoslavenej Panny Márie",
+                  "text": "Biserica Sfânta Fecioară Maria este un lăcaș de cult important situat în Vráble.",
+                  "category": "religious",
+                  "coords": [
+                        18.303082,
+                        48.239608
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Nepomuckého",
+                  "text": "Biserica Sfântul Ioan Nepomuk servește ca lăcaș de cult local în Vráble.",
+                  "category": "religious",
+                  "coords": [
+                        18.291408,
+                        48.216218
+                  ]
+            },
+            {
+                  "name": "Fidvár",
+                  "text": "Fidvár este un important sit arheologic situat în orașul Vráble.",
+                  "category": "historical",
+                  "coords": [
+                        18.304503,
+                        48.224573
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Schickovcov",
+                  "text": "Conacul Schick este o moșie istorică situată în Vráble.",
+                  "category": "historical",
+                  "coords": [
+                        18.307829,
+                        48.240507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kostol Preblahoslavenej Panny Márie",
+                  "text": "The Church of the Blessed Virgin Mary is a prominent place of worship located in Vráble.",
+                  "category": "religious",
+                  "coords": [
+                        18.303082,
+                        48.239608
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Nepomuckého",
+                  "text": "The Church of St. John of Nepomuk serves as a local place of worship in Vráble.",
+                  "category": "religious",
+                  "coords": [
+                        18.291408,
+                        48.216218
+                  ]
+            },
+            {
+                  "name": "Fidvár",
+                  "text": "Fidvár is an important archaeological site situated in the town of Vráble.",
+                  "category": "historical",
+                  "coords": [
+                        18.304503,
+                        48.224573
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Schickovcov",
+                  "text": "The Schick Manor is a historical estate located in Vráble.",
+                  "category": "historical",
+                  "coords": [
+                        18.307829,
+                        48.240507
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "town",
     name: { de: "Vráble", hu: "Verebély", ro: "Vráble", en: "Vráble"},

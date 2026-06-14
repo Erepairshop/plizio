@@ -74293,6 +74293,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.011681,
                         49.907753
                   ]
+            },
+            {
+                  "name": "přírodní památka Vraní skála",
+                  "text": "Das Naturdenkmal Vraní skála ist ein geschütztes Naturreservat bei Zdice.",
+                  "category": "natural",
+                  "coords": [
+                        13.943969,
+                        49.929459
+                  ]
             }
       ],
       "hu": [
@@ -74330,6 +74339,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.011681,
                         49.907753
+                  ]
+            },
+            {
+                  "name": "přírodní památka Vraní skála",
+                  "text": "A Vraní skála természeti emlék egy védett természetvédelmi terület Zdice közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.943969,
+                        49.929459
                   ]
             }
       ],
@@ -74369,6 +74387,15 @@ export const czechrepublicCitiesV2: POI[] = [
                         14.011681,
                         49.907753
                   ]
+            },
+            {
+                  "name": "přírodní památka Vraní skála",
+                  "text": "Monumentul naturii Vraní skála este o rezervație naturală protejată lângă Zdice.",
+                  "category": "natural",
+                  "coords": [
+                        13.943969,
+                        49.929459
+                  ]
             }
       ],
       "en": [
@@ -74406,6 +74433,15 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.011681,
                         49.907753
+                  ]
+            },
+            {
+                  "name": "přírodní památka Vraní skála",
+                  "text": "The Vraní skála natural monument is a protected nature reserve near Zdice.",
+                  "category": "natural",
+                  "coords": [
+                        13.943969,
+                        49.929459
                   ]
             }
       ]

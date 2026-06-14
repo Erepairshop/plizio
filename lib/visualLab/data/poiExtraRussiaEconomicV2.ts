@@ -932,7 +932,304 @@ imageHint: "Mining industrial facility in Norilsk Arctic landscape",
     },
     image: "/poi-images/russia-norilsk-nickel-economic-v2.webp",
 },  {
-    id: "russia-moscow-city-economic-v2",
+    id: "russia-moscow-city-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victory Monument",
+                  "text": "Das Siegesdenkmal ist ein markantes Monument im Geschäftsviertel von Moskau City.",
+                  "category": "historical",
+                  "coords": [
+                        37.507008,
+                        55.731699
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "Der Victory Park ist eine städtische Parkanlage im Geschäftsviertel von Moskau City.",
+                  "category": "park",
+                  "coords": [
+                        37.503838,
+                        55.73028
+                  ]
+            },
+            {
+                  "name": "Filevsky Park",
+                  "text": "Der Filevsky-Park ist ein weitläufiger Park in der Nähe des Geschäftsviertels von Moskau City.",
+                  "category": "park",
+                  "coords": [
+                        37.484167,
+                        55.748383
+                  ]
+            },
+            {
+                  "name": "Museum-Panorama The Battle Of Borodino",
+                  "text": "Das Panorama-Museum der Schlacht von Borodino in Moskau widmet sich der Geschichte dieser historischen Schlacht.",
+                  "category": "museum",
+                  "coords": [
+                        37.523198,
+                        55.738769
+                  ]
+            },
+            {
+                  "name": "Krasnaya Presnya park",
+                  "text": "Der Krasnaja Presnja Park ist eine städtische Erholungsfläche in Moskau.",
+                  "category": "park",
+                  "coords": [
+                        37.551712,
+                        55.753996
+                  ]
+            },
+            {
+                  "name": "Novodevichy Convent",
+                  "text": "Das Neujungfrauenkloster (Nowodewitschi-Kloster) ist eine berühmte historische Sehenswürdigkeit in Moskau.",
+                  "category": "landmark",
+                  "coords": [
+                        37.556056,
+                        55.726171
+                  ]
+            },
+            {
+                  "name": "Borodinsky Bridge",
+                  "text": "Die Borodinsky-Brücke ist ein Bauwerk in Moskau, das über den Fluss führt.",
+                  "category": "landmark",
+                  "coords": [
+                        37.573386,
+                        55.745405
+                  ]
+            },
+            {
+                  "name": "Kiyevsky Rail Terminal",
+                  "text": "Der Kiewer Bahnhof (Kiyevsky Rail Terminal) ist ein bedeutendes Verkehrszentrum und eine architektonische Sehenswürdigkeit in Moskau.",
+                  "category": "landmark",
+                  "coords": [
+                        37.566049,
+                        55.743074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victory Monument",
+                  "text": "A Győzelmi emlékmű egy jelentős emlékmű a Moszkva City üzleti negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        37.507008,
+                        55.731699
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "A Győzelem park egy városi zöldterület a Moszkva City üzleti negyedében.",
+                  "category": "park",
+                  "coords": [
+                        37.503838,
+                        55.73028
+                  ]
+            },
+            {
+                  "name": "Filevsky Park",
+                  "text": "A Filevszkij park egy kiterjedt zöldterület a Moszkva City üzleti negyed közelében.",
+                  "category": "park",
+                  "coords": [
+                        37.484167,
+                        55.748383
+                  ]
+            },
+            {
+                  "name": "Museum-Panorama The Battle Of Borodino",
+                  "text": "A moszkvai Borogyinói Csata Panorámamúzeum e történelmi összecsapás bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        37.523198,
+                        55.738769
+                  ]
+            },
+            {
+                  "name": "Krasnaya Presnya park",
+                  "text": "A Krasznaja Presznya park egy népszerű városi pihenőhely Moszkvában.",
+                  "category": "park",
+                  "coords": [
+                        37.551712,
+                        55.753996
+                  ]
+            },
+            {
+                  "name": "Novodevichy Convent",
+                  "text": "A Novogyevicsij-kolostor egy híres történelmi látványosság Moszkvában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.556056,
+                        55.726171
+                  ]
+            },
+            {
+                  "name": "Borodinsky Bridge",
+                  "text": "A Borogyinszkij híd egy folyami átkelő a moszkvai üzleti negyed közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        37.573386,
+                        55.745405
+                  ]
+            },
+            {
+                  "name": "Kiyevsky Rail Terminal",
+                  "text": "A Kijevi pályaudvar egy jelentős közlekedési csomópont és építészeti látványosság Moszkvában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.566049,
+                        55.743074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victory Monument",
+                  "text": "Monumentul Victoriei este un monument marcant situat în districtul de afaceri Moscow City.",
+                  "category": "historical",
+                  "coords": [
+                        37.507008,
+                        55.731699
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "Parcul Victoriei este un parc urban din districtul de afaceri Moscow City.",
+                  "category": "park",
+                  "coords": [
+                        37.503838,
+                        55.73028
+                  ]
+            },
+            {
+                  "name": "Filevsky Park",
+                  "text": "Parcul Filevsky este o zonă verde extinsă în apropierea districtului de afaceri Moscow City.",
+                  "category": "park",
+                  "coords": [
+                        37.484167,
+                        55.748383
+                  ]
+            },
+            {
+                  "name": "Museum-Panorama The Battle Of Borodino",
+                  "text": "Muzeul Panorama Bătăliei de la Borodino din Moscova este dedicat istoriei acestei bătălii importante.",
+                  "category": "museum",
+                  "coords": [
+                        37.523198,
+                        55.738769
+                  ]
+            },
+            {
+                  "name": "Krasnaya Presnya park",
+                  "text": "Parcul Krasnaya Presnya este un spațiu de recreere urban situat în Moscova.",
+                  "category": "park",
+                  "coords": [
+                        37.551712,
+                        55.753996
+                  ]
+            },
+            {
+                  "name": "Novodevichy Convent",
+                  "text": "Mănăstirea Novodevichy este o faimoasă atracție istorică din Moscova.",
+                  "category": "landmark",
+                  "coords": [
+                        37.556056,
+                        55.726171
+                  ]
+            },
+            {
+                  "name": "Borodinsky Bridge",
+                  "text": "Podul Borodinsky este o structură ce traversează râul în districtul de afaceri din Moscova.",
+                  "category": "landmark",
+                  "coords": [
+                        37.573386,
+                        55.745405
+                  ]
+            },
+            {
+                  "name": "Kiyevsky Rail Terminal",
+                  "text": "Gara Kiyevsky este un nod de transport important și o atracție arhitecturală din Moscova.",
+                  "category": "landmark",
+                  "coords": [
+                        37.566049,
+                        55.743074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victory Monument",
+                  "text": "The Victory Monument is a prominent memorial located in the Moscow City Business District.",
+                  "category": "historical",
+                  "coords": [
+                        37.507008,
+                        55.731699
+                  ]
+            },
+            {
+                  "name": "Victory Park",
+                  "text": "Victory Park is an urban park area situated in the Moscow City Business District.",
+                  "category": "park",
+                  "coords": [
+                        37.503838,
+                        55.73028
+                  ]
+            },
+            {
+                  "name": "Filevsky Park",
+                  "text": "Filevsky Park is an expansive park area near the Moscow City Business District.",
+                  "category": "park",
+                  "coords": [
+                        37.484167,
+                        55.748383
+                  ]
+            },
+            {
+                  "name": "Museum-Panorama The Battle Of Borodino",
+                  "text": "The Museum-Panorama The Battle Of Borodino in Moscow is dedicated to the history of this historical battle.",
+                  "category": "museum",
+                  "coords": [
+                        37.523198,
+                        55.738769
+                  ]
+            },
+            {
+                  "name": "Krasnaya Presnya park",
+                  "text": "Krasnaya Presnya park is an urban recreational green space located in Moscow.",
+                  "category": "park",
+                  "coords": [
+                        37.551712,
+                        55.753996
+                  ]
+            },
+            {
+                  "name": "Novodevichy Convent",
+                  "text": "The Novodevichy Convent is a famous historical attraction situated in Moscow.",
+                  "category": "landmark",
+                  "coords": [
+                        37.556056,
+                        55.726171
+                  ]
+            },
+            {
+                  "name": "Borodinsky Bridge",
+                  "text": "Borodinsky Bridge is a river crossing located in the Moscow City Business District.",
+                  "category": "landmark",
+                  "coords": [
+                        37.573386,
+                        55.745405
+                  ]
+            },
+            {
+                  "name": "Kiyevsky Rail Terminal",
+                  "text": "Kiyevsky Rail Terminal is a major transport hub and architectural attraction in Moscow.",
+                  "category": "landmark",
+                  "coords": [
+                        37.566049,
+                        55.743074
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Moskau City Geschäftsviertel", hu: "Moszkva-City üzleti negyed", ro: "Centrul Internațional de Afaceri din Moscova", en: "Moscow City Business District"},

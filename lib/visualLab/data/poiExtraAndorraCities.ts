@@ -10825,6 +10825,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.465038,
                         42.44679
                   ]
+            },
+            {
+                  "name": "Santa Agnès de la Farrera dels Llops",
+                  "text": "Santa Agnès de la Farrera dels Llops ist eine historische Kultstätte in Canòlic.",
+                  "category": "religious",
+                  "coords": [
+                        1.444993,
+                        42.420891
+                  ]
             }
       ],
       "hu": [
@@ -10835,6 +10844,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.465038,
                         42.44679
+                  ]
+            },
+            {
+                  "name": "Santa Agnès de la Farrera dels Llops",
+                  "text": "A Santa Agnès de la Farrera dels Llops egy történelmi istentiszteleti hely Canòlicban.",
+                  "category": "religious",
+                  "coords": [
+                        1.444993,
+                        42.420891
                   ]
             }
       ],
@@ -10847,6 +10865,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.465038,
                         42.44679
                   ]
+            },
+            {
+                  "name": "Santa Agnès de la Farrera dels Llops",
+                  "text": "Santa Agnès de la Farrera dels Llops este un lăcaș de cult istoric situat în Canòlic.",
+                  "category": "religious",
+                  "coords": [
+                        1.444993,
+                        42.420891
+                  ]
             }
       ],
       "en": [
@@ -10857,6 +10884,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.465038,
                         42.44679
+                  ]
+            },
+            {
+                  "name": "Santa Agnès de la Farrera dels Llops",
+                  "text": "Santa Agnès de la Farrera dels Llops is a historic place of worship situated in Canòlic.",
+                  "category": "religious",
+                  "coords": [
+                        1.444993,
+                        42.420891
                   ]
             }
       ]
@@ -12893,6 +12929,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.542006,
                         42.50876
                   ]
+            },
+            {
+                  "name": "Centre d'Art d'Escaldes-Engordany (CAEE)",
+                  "text": "Das Centre d'Art d'Escaldes-Engordany (CAEE) ist ein Kunstmuseum und eine kulturelle Einrichtung in Les Escaldes.",
+                  "category": "museum",
+                  "coords": [
+                        1.54099,
+                        42.508887
+                  ]
             }
       ],
       "hu": [
@@ -12903,6 +12948,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.542006,
                         42.50876
+                  ]
+            },
+            {
+                  "name": "Centre d'Art d'Escaldes-Engordany (CAEE)",
+                  "text": "A Centre d'Art d'Escaldes-Engordany (CAEE) egy művészeti múzeum és kulturális intézmény Les Escaldes-ben.",
+                  "category": "museum",
+                  "coords": [
+                        1.54099,
+                        42.508887
                   ]
             }
       ],
@@ -12915,6 +12969,15 @@ export const poiExtraAndorraCities: POI[] = [
                         1.542006,
                         42.50876
                   ]
+            },
+            {
+                  "name": "Centre d'Art d'Escaldes-Engordany (CAEE)",
+                  "text": "Centre d'Art d'Escaldes-Engordany (CAEE) este un muzeu de artă și o locație culturală în Les Escaldes.",
+                  "category": "museum",
+                  "coords": [
+                        1.54099,
+                        42.508887
+                  ]
             }
       ],
       "en": [
@@ -12925,6 +12988,15 @@ export const poiExtraAndorraCities: POI[] = [
                   "coords": [
                         1.542006,
                         42.50876
+                  ]
+            },
+            {
+                  "name": "Centre d'Art d'Escaldes-Engordany (CAEE)",
+                  "text": "The Centre d'Art d'Escaldes-Engordany (CAEE) is an art museum and cultural venue in Les Escaldes.",
+                  "category": "museum",
+                  "coords": [
+                        1.54099,
+                        42.508887
                   ]
             }
       ]

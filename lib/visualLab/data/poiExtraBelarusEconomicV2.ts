@@ -1268,7 +1268,124 @@ export const belarusEconomicV2: POI[] = [
       fr: ["Le premier bloc de la centrale a été mis en service avec succès en 1961.", "La ville de Byaloazyorsk a été fondée en 1958 spécialement pour le personnel de la centrale.", "Dispose, après modernisation, d'une puissance de plus de 1 000 mégawatts.", "Utilise principalement du gaz naturel pour une production efficace d'électricité et de chaleur.", "Les eaux usées chaudes sont utilisées pour l'élevage local de carpes et d'esturgeons.", "Couvre une grande partie des besoins énergétiques de la région industrielle de Brest."],
     }, image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"},
   {
-    id: "belarus-brest-economic-zone-economic-v2",
+    id: "belarus-brest-economic-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Форт I",
+                  "text": "Форт I ist eine historische Festungsanlage in der Sonderwirtschaftszone Brest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.626706,
+                        52.120363
+                  ]
+            },
+            {
+                  "name": "Brest ring",
+                  "text": "Der Brest ring ist eine lokale Attraktion in der Sonderwirtschaftszone Brest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.665691,
+                        52.105045
+                  ]
+            },
+            {
+                  "name": "Форт № 8 (Б)",
+                  "text": "Форт № 8 (Б) ist eine Verteidigungsfestung in der Sonderwirtschaftszone Brest.",
+                  "category": "fortress",
+                  "coords": [
+                        23.65007,
+                        52.125456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Форт I",
+                  "text": "A Форт I egy történelmi erődített látványosság a Breszti Különleges Gazdasági Övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.626706,
+                        52.120363
+                  ]
+            },
+            {
+                  "name": "Brest ring",
+                  "text": "A Brest ring egy helyi látványosság a Breszti Különleges Gazdasági Övezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.665691,
+                        52.105045
+                  ]
+            },
+            {
+                  "name": "Форт № 8 (Б)",
+                  "text": "A Форт № 8 (Б) egy védelmi erődítmény a Breszti Különleges Gazdasági Övezetben.",
+                  "category": "fortress",
+                  "coords": [
+                        23.65007,
+                        52.125456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Форт I",
+                  "text": "Форт I este o atracție fortificată istorică situată în Zona Economică Specială Brest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.626706,
+                        52.120363
+                  ]
+            },
+            {
+                  "name": "Brest ring",
+                  "text": "Brest ring este o atracție locală aflată în Zona Economică Specială Brest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.665691,
+                        52.105045
+                  ]
+            },
+            {
+                  "name": "Форт № 8 (Б)",
+                  "text": "Форт № 8 (Б) este o fortificație defensivă situată în Zona Economică Specială Brest.",
+                  "category": "fortress",
+                  "coords": [
+                        23.65007,
+                        52.125456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Форт I",
+                  "text": "Форт I is a historic fortified attraction located within the Brest Special Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        23.626706,
+                        52.120363
+                  ]
+            },
+            {
+                  "name": "Brest ring",
+                  "text": "The Brest ring is a local attraction found in the Brest Special Economic Zone.",
+                  "category": "landmark",
+                  "coords": [
+                        23.665691,
+                        52.105045
+                  ]
+            },
+            {
+                  "name": "Форт № 8 (Б)",
+                  "text": "Форт № 8 (Б) is a defensive fortification situated in the Brest Special Economic Zone.",
+                  "category": "fortress",
+                  "coords": [
+                        23.65007,
+                        52.125456
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Freie Wirtschaftszone Brest", hu: "Breszti Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Brest", en: "Brest Special Economic Zone"},

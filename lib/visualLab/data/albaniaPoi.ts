@@ -3200,6 +3200,51 @@ export const albaniaCities: POI[] = [
                         19.488077,
                         40.459376
                   ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Das Unabhängigkeitsdenkmal in Vlorë erinnert an die albanische Unabhängigkeitserklärung vom Osmanischen Reich im Jahr 1912.",
+                  "category": "historical",
+                  "coords": [
+                        19.490657,
+                        40.470672
+                  ]
+            },
+            {
+                  "name": "National Museum of Independence",
+                  "text": "Das Nationale Unabhängigkeitsmuseum in Vlorë befindet sich in dem Gebäude, in dem die erste unabhängige albanische Regierung tätig war.",
+                  "category": "museum",
+                  "coords": [
+                        19.485273,
+                        40.452199
+                  ]
+            },
+            {
+                  "name": "Xhamia e Muradis",
+                  "text": "Die Xhamia e Muradis ist eine bedeutende osmanische Moschee in Vlorë, die von dem berühmten Architekten Mimar Sinan entworfen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        19.492782,
+                        40.471563
+                  ]
+            },
+            {
+                  "name": "Memorial of 1920",
+                  "text": "Das Memorial of 1920 ist ein Denkmal in der Stadt Vlorë.",
+                  "category": "historical",
+                  "coords": [
+                        19.508581,
+                        40.484002
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Das Ethnographische Museum ist eine kulturelle Einrichtung in Vlorë.",
+                  "category": "museum",
+                  "coords": [
+                        19.491705,
+                        40.472244
+                  ]
             }
       ],
       "hu": [
@@ -3228,6 +3273,51 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.488077,
                         40.459376
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "A vlorëi Függetlenségi Emlékmű az 1912-es, Oszmán Birodalomtól való albán függetlenségi nyilatkozatnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        19.490657,
+                        40.470672
+                  ]
+            },
+            {
+                  "name": "National Museum of Independence",
+                  "text": "A vlorëi Nemzeti Függetlenségi Múzeum abban az épületben működik, ahol az első független albán kormány székelt.",
+                  "category": "museum",
+                  "coords": [
+                        19.485273,
+                        40.452199
+                  ]
+            },
+            {
+                  "name": "Xhamia e Muradis",
+                  "text": "A Xhamia e Muradis egy fontos oszmán kori mecset Vlorë városában, amelyet a híres építész, Mimar Szinán tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        19.492782,
+                        40.471563
+                  ]
+            },
+            {
+                  "name": "Memorial of 1920",
+                  "text": "Az 1920-as emlékmű egy emlékmű Vlorë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.508581,
+                        40.484002
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A Néprajzi Múzeum egy intézmény Vlorë városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.491705,
+                        40.472244
                   ]
             }
       ],
@@ -3258,6 +3348,51 @@ export const albaniaCities: POI[] = [
                         19.488077,
                         40.459376
                   ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Monumentul Independenței din Vlorë comemorează Declarația de Independență a Albaniei față de Imperiul Otoman în 1912.",
+                  "category": "historical",
+                  "coords": [
+                        19.490657,
+                        40.470672
+                  ]
+            },
+            {
+                  "name": "National Museum of Independence",
+                  "text": "Muzeul Național al Independenței din Vlorë este stabilit în clădirea în care a funcționat primul guvern albanez independent.",
+                  "category": "museum",
+                  "coords": [
+                        19.485273,
+                        40.452199
+                  ]
+            },
+            {
+                  "name": "Xhamia e Muradis",
+                  "text": "Xhamia e Muradis este o importantă moschee din epoca otomană din Vlorë, proiectată de renumitul arhitect Mimar Sinan.",
+                  "category": "religious",
+                  "coords": [
+                        19.492782,
+                        40.471563
+                  ]
+            },
+            {
+                  "name": "Memorial of 1920",
+                  "text": "Memorialul din 1920 este un monument situat în Vlorë.",
+                  "category": "historical",
+                  "coords": [
+                        19.508581,
+                        40.484002
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Muzeul Etnografic este un muzeu din orașul Vlorë.",
+                  "category": "museum",
+                  "coords": [
+                        19.491705,
+                        40.472244
+                  ]
             }
       ],
       "en": [
@@ -3286,6 +3421,51 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.488077,
                         40.459376
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "The Independence Monument in Vlorë commemorates the Albanian Declaration of Independence from the Ottoman Empire in 1912.",
+                  "category": "historical",
+                  "coords": [
+                        19.490657,
+                        40.470672
+                  ]
+            },
+            {
+                  "name": "National Museum of Independence",
+                  "text": "The National Museum of Independence in Vlorë is established in the building where the first independent Albanian government operated.",
+                  "category": "museum",
+                  "coords": [
+                        19.485273,
+                        40.452199
+                  ]
+            },
+            {
+                  "name": "Xhamia e Muradis",
+                  "text": "The Xhamia e Muradis is an important Ottoman-era mosque in Vlorë designed by the prominent architect Mimar Sinan.",
+                  "category": "religious",
+                  "coords": [
+                        19.492782,
+                        40.471563
+                  ]
+            },
+            {
+                  "name": "Memorial of 1920",
+                  "text": "The Memorial of 1920 is a monument located in Vlorë.",
+                  "category": "historical",
+                  "coords": [
+                        19.508581,
+                        40.484002
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "The Ethnographic Museum is a museum situated in Vlorë.",
+                  "category": "museum",
+                  "coords": [
+                        19.491705,
+                        40.472244
                   ]
             }
       ]

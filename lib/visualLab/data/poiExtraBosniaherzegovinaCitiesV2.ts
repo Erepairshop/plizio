@@ -1033,6 +1033,24 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.318953,
                         44.670343
                   ]
+            },
+            {
+                  "name": "Sahat kula",
+                  "text": "Ein historischer Uhrturm in Gračanica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.310278,
+                        44.703439
+                  ]
+            },
+            {
+                  "name": "55-98",
+                  "text": "Eine lokale Attraktion in Gračanica namens 55-98.",
+                  "category": "landmark",
+                  "coords": [
+                        18.309087,
+                        44.703758
+                  ]
             }
       ],
       "hu": [
@@ -1043,6 +1061,24 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.318953,
                         44.670343
+                  ]
+            },
+            {
+                  "name": "Sahat kula",
+                  "text": "Történelmi óratorony Gračanicában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.310278,
+                        44.703439
+                  ]
+            },
+            {
+                  "name": "55-98",
+                  "text": "Egy helyi látványosság Gračanicában, mely az 55-98 nevet viseli.",
+                  "category": "landmark",
+                  "coords": [
+                        18.309087,
+                        44.703758
                   ]
             }
       ],
@@ -1055,6 +1091,24 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.318953,
                         44.670343
                   ]
+            },
+            {
+                  "name": "Sahat kula",
+                  "text": "Un turn cu ceas istoric în Gračanica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.310278,
+                        44.703439
+                  ]
+            },
+            {
+                  "name": "55-98",
+                  "text": "O atracție locală din Gračanica numită 55-98.",
+                  "category": "landmark",
+                  "coords": [
+                        18.309087,
+                        44.703758
+                  ]
             }
       ],
       "en": [
@@ -1065,6 +1119,24 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.318953,
                         44.670343
+                  ]
+            },
+            {
+                  "name": "Sahat kula",
+                  "text": "A historic clock tower building in Gračanica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.310278,
+                        44.703439
+                  ]
+            },
+            {
+                  "name": "55-98",
+                  "text": "A local attraction in Gračanica known as 55-98.",
+                  "category": "landmark",
+                  "coords": [
+                        18.309087,
+                        44.703758
                   ]
             }
       ]
@@ -4715,6 +4787,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.779788,
                         43.505373
                   ]
+            },
+            {
+                  "name": "Stećak necropolis Zubovići",
+                  "text": "Die Stećak-Nekropole Zubovići ist eine historische Sehenswürdigkeit in Foča.",
+                  "category": "landmark",
+                  "coords": [
+                        18.770556,
+                        43.495984
+                  ]
             }
       ],
       "hu": [
@@ -4752,6 +4833,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.779788,
                         43.505373
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Zubovići",
+                  "text": "A Zubovići stećak-nekropolisz egy történelmi látványosság Fočában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.770556,
+                        43.495984
                   ]
             }
       ],
@@ -4791,6 +4881,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.779788,
                         43.505373
                   ]
+            },
+            {
+                  "name": "Stećak necropolis Zubovići",
+                  "text": "Necropola de stećci Zubovići este o atracție istorică din Foča.",
+                  "category": "landmark",
+                  "coords": [
+                        18.770556,
+                        43.495984
+                  ]
             }
       ],
       "en": [
@@ -4828,6 +4927,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.779788,
                         43.505373
+                  ]
+            },
+            {
+                  "name": "Stećak necropolis Zubovići",
+                  "text": "The Stećak necropolis Zubovići is a historical attraction in Foča.",
+                  "category": "landmark",
+                  "coords": [
+                        18.770556,
+                        43.495984
                   ]
             }
       ]
@@ -9905,6 +10013,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.023194,
                         44.244064
                   ]
+            },
+            {
+                  "name": "9. Januar",
+                  "text": "9. Januar ist ein lokales Denkmal in Šipovo.",
+                  "category": "historical",
+                  "coords": [
+                        17.085827,
+                        44.281932
+                  ]
             }
       ],
       "hu": [
@@ -9924,6 +10041,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.023194,
                         44.244064
+                  ]
+            },
+            {
+                  "name": "9. Januar",
+                  "text": "A 9. Januar egy helyi emlékmű Šipovóban.",
+                  "category": "historical",
+                  "coords": [
+                        17.085827,
+                        44.281932
                   ]
             }
       ],
@@ -9945,6 +10071,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.023194,
                         44.244064
                   ]
+            },
+            {
+                  "name": "9. Januar",
+                  "text": "9. Januar este un memorial local situat în Šipovo.",
+                  "category": "historical",
+                  "coords": [
+                        17.085827,
+                        44.281932
+                  ]
             }
       ],
       "en": [
@@ -9964,6 +10099,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.023194,
                         44.244064
+                  ]
+            },
+            {
+                  "name": "9. Januar",
+                  "text": "The 9. Januar is a local memorial situated in Šipovo.",
+                  "category": "historical",
+                  "coords": [
+                        17.085827,
+                        44.281932
                   ]
             }
       ]
@@ -10896,6 +11040,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         16.349356,
                         44.187812
                   ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Gradina ist eine Burg in Bosansko Grahovo.",
+                  "category": "castle",
+                  "coords": [
+                        16.36963,
+                        44.184074
+                  ]
             }
       ],
       "hu": [
@@ -10915,6 +11068,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         16.349356,
                         44.187812
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "A Gradina egy kastély Bosansko Grahovo városában.",
+                  "category": "castle",
+                  "coords": [
+                        16.36963,
+                        44.184074
                   ]
             }
       ],
@@ -10936,6 +11098,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         16.349356,
                         44.187812
                   ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Gradina este un castel situat în Bosansko Grahovo.",
+                  "category": "castle",
+                  "coords": [
+                        16.36963,
+                        44.184074
+                  ]
             }
       ],
       "en": [
@@ -10955,6 +11126,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         16.349356,
                         44.187812
+                  ]
+            },
+            {
+                  "name": "Gradina",
+                  "text": "Gradina is a castle located in Bosansko Grahovo.",
+                  "category": "castle",
+                  "coords": [
+                        16.36963,
+                        44.184074
                   ]
             }
       ]
@@ -12546,6 +12726,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.545192,
                         44.37741
                   ]
+            },
+            {
+                  "name": "25-33",
+                  "text": "25-33 ist eine lokale Attraktion in Banovići.",
+                  "category": "landmark",
+                  "coords": [
+                        18.530905,
+                        44.41098
+                  ]
             }
       ],
       "hu": [
@@ -12574,6 +12763,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.545192,
                         44.37741
+                  ]
+            },
+            {
+                  "name": "25-33",
+                  "text": "A 25-33 egy helyi látványosság Banovićiban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.530905,
+                        44.41098
                   ]
             }
       ],
@@ -12604,6 +12802,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.545192,
                         44.37741
                   ]
+            },
+            {
+                  "name": "25-33",
+                  "text": "25-33 este o atracție locală din Banovići.",
+                  "category": "landmark",
+                  "coords": [
+                        18.530905,
+                        44.41098
+                  ]
             }
       ],
       "en": [
@@ -12632,6 +12839,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.545192,
                         44.37741
+                  ]
+            },
+            {
+                  "name": "25-33",
+                  "text": "25-33 is a local attraction located in Banovići.",
+                  "category": "landmark",
+                  "coords": [
+                        18.530905,
+                        44.41098
                   ]
             }
       ]
@@ -13446,6 +13662,60 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.47035,
                         43.833324
                   ]
+            },
+            {
+                  "name": "Muzej Alije Izetbegovića",
+                  "text": "Das Muzej Alije Izetbegovića ist ein Museum, das sich mit dem Leben und Erbe von Alija Izetbegović befasst.",
+                  "category": "museum",
+                  "coords": [
+                        18.43662,
+                        43.86316
+                  ]
+            },
+            {
+                  "name": "Bistrik Kula",
+                  "text": "Die Bistrik Kula ist eine historische Verteidigungsfestung und ein astronomisches Observatorium in der Nähe von Sarajevo.",
+                  "category": "castle",
+                  "coords": [
+                        18.438097,
+                        43.842233
+                  ]
+            },
+            {
+                  "name": "Žuta tabija",
+                  "text": "Die Žuta tabija, oder Gelbe Festung, ist ein beliebter Aussichtspunkt mit Panoramablick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        18.437701,
+                        43.861446
+                  ]
+            },
+            {
+                  "name": "Velika kula Barice",
+                  "text": "Velika kula Barice ist eine bemerkenswerte Burgstruktur in Istočni Stari Grad.",
+                  "category": "castle",
+                  "coords": [
+                        18.442638,
+                        43.883913
+                  ]
+            },
+            {
+                  "name": "Jakub-pašina džamija",
+                  "text": "Die Jakub-pašina džamija ist eine islamische Kultstätte in Istočni Stari Grad.",
+                  "category": "religious",
+                  "coords": [
+                        18.436209,
+                        43.856113
+                  ]
+            },
+            {
+                  "name": "Džamija Šejh Feraha",
+                  "text": "Die Džamija Šejh Feraha ist eine erhaltene religiöse Kulturerbestätte in Istočni Stari Grad.",
+                  "category": "landmark",
+                  "coords": [
+                        18.432882,
+                        43.861573
+                  ]
             }
       ],
       "hu": [
@@ -13474,6 +13744,60 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.47035,
                         43.833324
+                  ]
+            },
+            {
+                  "name": "Muzej Alije Izetbegovića",
+                  "text": "A Muzej Alije Izetbegovića egy múzeum, amely Alija Izetbegović életét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.43662,
+                        43.86316
+                  ]
+            },
+            {
+                  "name": "Bistrik Kula",
+                  "text": "A Bistrik Kula egy történelmi védelmi erőd és csillagvizsgáló Szarajevó közelében.",
+                  "category": "castle",
+                  "coords": [
+                        18.438097,
+                        43.842233
+                  ]
+            },
+            {
+                  "name": "Žuta tabija",
+                  "text": "A Žuta tabija, vagyis a Sárga Erőd egy népszerű kilátó, amely panorámás kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        18.437701,
+                        43.861446
+                  ]
+            },
+            {
+                  "name": "Velika kula Barice",
+                  "text": "A Velika kula Barice egy jelentős kastélyépület Istočni Stari Grad területén.",
+                  "category": "castle",
+                  "coords": [
+                        18.442638,
+                        43.883913
+                  ]
+            },
+            {
+                  "name": "Jakub-pašina džamija",
+                  "text": "A Jakub-pašina džamija egy iszlám istentiszteleti hely Istočni Stari Gradban.",
+                  "category": "religious",
+                  "coords": [
+                        18.436209,
+                        43.856113
+                  ]
+            },
+            {
+                  "name": "Džamija Šejh Feraha",
+                  "text": "A Džamija Šejh Feraha egy megőrzött vallási örökségi helyszín Istočni Stari Gradban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.432882,
+                        43.861573
                   ]
             }
       ],
@@ -13504,6 +13828,60 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         18.47035,
                         43.833324
                   ]
+            },
+            {
+                  "name": "Muzej Alije Izetbegovića",
+                  "text": "Muzej Alije Izetbegovića este un muzeu care explorează viața și moștenirea lui Alija Izetbegović.",
+                  "category": "museum",
+                  "coords": [
+                        18.43662,
+                        43.86316
+                  ]
+            },
+            {
+                  "name": "Bistrik Kula",
+                  "text": "Bistrik Kula este o fortăreață defensivă istorică și un fost observator astronomic lângă Sarajevo.",
+                  "category": "castle",
+                  "coords": [
+                        18.438097,
+                        43.842233
+                  ]
+            },
+            {
+                  "name": "Žuta tabija",
+                  "text": "Žuta tabija, sau Fortăreața Galbenă, este un punct de belvedere popular care oferă vederi panoramice asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        18.437701,
+                        43.861446
+                  ]
+            },
+            {
+                  "name": "Velika kula Barice",
+                  "text": "Velika kula Barice este o structură notabilă a unui castel situată în Istočni Stari Grad.",
+                  "category": "castle",
+                  "coords": [
+                        18.442638,
+                        43.883913
+                  ]
+            },
+            {
+                  "name": "Jakub-pašina džamija",
+                  "text": "Jakub-pašina džamija este un lăcaș de cult islamic situat în Istočni Stari Grad.",
+                  "category": "religious",
+                  "coords": [
+                        18.436209,
+                        43.856113
+                  ]
+            },
+            {
+                  "name": "Džamija Šejh Feraha",
+                  "text": "Džamija Šejh Feraha este un sit de patrimoniu religios conservat în Istočni Stari Grad.",
+                  "category": "landmark",
+                  "coords": [
+                        18.432882,
+                        43.861573
+                  ]
             }
       ],
       "en": [
@@ -13532,6 +13910,60 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         18.47035,
                         43.833324
+                  ]
+            },
+            {
+                  "name": "Muzej Alije Izetbegovića",
+                  "text": "Muzej Alije Izetbegovića is a museum exploring the life and legacy of Alija Izetbegović.",
+                  "category": "museum",
+                  "coords": [
+                        18.43662,
+                        43.86316
+                  ]
+            },
+            {
+                  "name": "Bistrik Kula",
+                  "text": "Bistrik Kula is a historic defensive fortress and astronomical observatory site near Sarajevo.",
+                  "category": "castle",
+                  "coords": [
+                        18.438097,
+                        43.842233
+                  ]
+            },
+            {
+                  "name": "Žuta tabija",
+                  "text": "Žuta tabija, or Yellow Fortress, is a popular viewpoint offering panoramic views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        18.437701,
+                        43.861446
+                  ]
+            },
+            {
+                  "name": "Velika kula Barice",
+                  "text": "Velika kula Barice is a notable castle structure located in Istočni Stari Grad.",
+                  "category": "castle",
+                  "coords": [
+                        18.442638,
+                        43.883913
+                  ]
+            },
+            {
+                  "name": "Jakub-pašina džamija",
+                  "text": "Jakub-pašina džamija is an Islamic place of worship situated in Istočni Stari Grad.",
+                  "category": "religious",
+                  "coords": [
+                        18.436209,
+                        43.856113
+                  ]
+            },
+            {
+                  "name": "Džamija Šejh Feraha",
+                  "text": "Džamija Šejh Feraha is a preserved religious heritage site in Istočni Stari Grad.",
+                  "category": "landmark",
+                  "coords": [
+                        18.432882,
+                        43.861573
                   ]
             }
       ]
@@ -15157,6 +15589,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.989268,
                         44.615558
                   ]
+            },
+            {
+                  "name": "Tešanj Castle",
+                  "text": "Die Burg Tešanj ist eine markante historische Festung über der Siedlung Tešanj.",
+                  "category": "castle",
+                  "coords": [
+                        17.989405,
+                        44.613736
+                  ]
             }
       ],
       "hu": [
@@ -15167,6 +15608,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.989268,
                         44.615558
+                  ]
+            },
+            {
+                  "name": "Tešanj Castle",
+                  "text": "A tešanji vár egy kiemelkedő történelmi erődítmény Tešanj településén.",
+                  "category": "castle",
+                  "coords": [
+                        17.989405,
+                        44.613736
                   ]
             }
       ],
@@ -15179,6 +15629,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                         17.989268,
                         44.615558
                   ]
+            },
+            {
+                  "name": "Tešanj Castle",
+                  "text": "Castelul Tešanj este o fortificație istorică proeminentă cu vedere spre așezarea Tešanj.",
+                  "category": "castle",
+                  "coords": [
+                        17.989405,
+                        44.613736
+                  ]
             }
       ],
       "en": [
@@ -15189,6 +15648,15 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
                   "coords": [
                         17.989268,
                         44.615558
+                  ]
+            },
+            {
+                  "name": "Tešanj Castle",
+                  "text": "Tešanj Castle is a prominent historic fortification overlooking the settlement of Tešanj.",
+                  "category": "castle",
+                  "coords": [
+                        17.989405,
+                        44.613736
                   ]
             }
       ]

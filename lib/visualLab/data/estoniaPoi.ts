@@ -20322,6 +20322,15 @@ export const estoniaNature: POI[] = [
                         24.431598,
                         58.910917
                   ]
+            },
+            {
+                  "name": "Märjamaa järtade maastikukaitseala",
+                  "text": "Das Märjamaa järtade maastikukaitseala ist ein ausgewiesenes Naturschutzgebiet in Märjamaa.",
+                  "category": "natural",
+                  "coords": [
+                        24.461701,
+                        58.900855
+                  ]
             }
       ],
       "hu": [
@@ -20359,6 +20368,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         24.431598,
                         58.910917
+                  ]
+            },
+            {
+                  "name": "Märjamaa järtade maastikukaitseala",
+                  "text": "A Märjamaa järtade maastikukaitseala egy kijelölt természetvédelmi terület Märjamaa területén.",
+                  "category": "natural",
+                  "coords": [
+                        24.461701,
+                        58.900855
                   ]
             }
       ],
@@ -20398,6 +20416,15 @@ export const estoniaNature: POI[] = [
                         24.431598,
                         58.910917
                   ]
+            },
+            {
+                  "name": "Märjamaa järtade maastikukaitseala",
+                  "text": "Märjamaa järtade maastikukaitseala este o rezervație naturală desemnată în Märjamaa.",
+                  "category": "natural",
+                  "coords": [
+                        24.461701,
+                        58.900855
+                  ]
             }
       ],
       "en": [
@@ -20435,6 +20462,15 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         24.431598,
                         58.910917
+                  ]
+            },
+            {
+                  "name": "Märjamaa järtade maastikukaitseala",
+                  "text": "Märjamaa järtade maastikukaitseala is a designated nature reserve protecting local landscapes in Märjamaa.",
+                  "category": "natural",
+                  "coords": [
+                        24.461701,
+                        58.900855
                   ]
             }
       ]

@@ -12779,6 +12779,33 @@ export const irelandCities: POI[] = [
                         -7.95157,
                         53.428512
                   ]
+            },
+            {
+                  "name": "Athlone Castle",
+                  "text": "Athlone Castle ist ein bedeutendes historisches Schloss und Museum in Athlone.",
+                  "category": "museum",
+                  "coords": [
+                        -7.942757,
+                        53.423156
+                  ]
+            },
+            {
+                  "name": "Dean Crowe Theatre",
+                  "text": "Das Dean Crowe Theatre ist ein beliebter Veranstaltungsort für darstellende Künste in Athlone.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.943911,
+                        53.421555
+                  ]
+            },
+            {
+                  "name": "Saint Peter and Paul Church",
+                  "text": "Die Saint Peter and Paul Church ist eine Kultstätte in Athlone.",
+                  "category": "religious",
+                  "coords": [
+                        -7.943676,
+                        53.423937
+                  ]
             }
       ],
       "hu": [
@@ -12816,6 +12843,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -7.95157,
                         53.428512
+                  ]
+            },
+            {
+                  "name": "Athlone Castle",
+                  "text": "Az Athlone Castle egy nevezetes történelmi kastély és múzeum Athlone-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.942757,
+                        53.423156
+                  ]
+            },
+            {
+                  "name": "Dean Crowe Theatre",
+                  "text": "A Dean Crowe Theatre egy népszerű előadóművészeti helyszín Athlone-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.943911,
+                        53.421555
+                  ]
+            },
+            {
+                  "name": "Saint Peter and Paul Church",
+                  "text": "A Szent Péter és Pál-templom egy istentiszteleti hely Athlone-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.943676,
+                        53.423937
                   ]
             }
       ],
@@ -12855,6 +12909,33 @@ export const irelandCities: POI[] = [
                         -7.95157,
                         53.428512
                   ]
+            },
+            {
+                  "name": "Athlone Castle",
+                  "text": "Castelul Athlone este un castel istoric și muzeu notabil din Athlone.",
+                  "category": "museum",
+                  "coords": [
+                        -7.942757,
+                        53.423156
+                  ]
+            },
+            {
+                  "name": "Dean Crowe Theatre",
+                  "text": "Dean Crowe Theatre este un teatru popular pentru artele spectacolului din Athlone.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.943911,
+                        53.421555
+                  ]
+            },
+            {
+                  "name": "Saint Peter and Paul Church",
+                  "text": "Biserica Sfinții Petru și Pavel este un lăcaș de cult situat în Athlone.",
+                  "category": "religious",
+                  "coords": [
+                        -7.943676,
+                        53.423937
+                  ]
             }
       ],
       "en": [
@@ -12892,6 +12973,33 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -7.95157,
                         53.428512
+                  ]
+            },
+            {
+                  "name": "Athlone Castle",
+                  "text": "Athlone Castle is a notable historic castle and museum in Athlone.",
+                  "category": "museum",
+                  "coords": [
+                        -7.942757,
+                        53.423156
+                  ]
+            },
+            {
+                  "name": "Dean Crowe Theatre",
+                  "text": "Dean Crowe Theatre is a popular performing arts venue in Athlone.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.943911,
+                        53.421555
+                  ]
+            },
+            {
+                  "name": "Saint Peter and Paul Church",
+                  "text": "Saint Peter and Paul Church is a place of worship located in Athlone.",
+                  "category": "religious",
+                  "coords": [
+                        -7.943676,
+                        53.423937
                   ]
             }
       ]

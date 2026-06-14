@@ -5522,7 +5522,376 @@ imageHint: "Gardabaer residential area and nature scenery",
     },
     image: "/poi-images/iceland-gardabaer-cities-v2.webp",
 },  {
-    id: "iceland-mosfellsbaer-cities-v2",
+    id: "iceland-mosfellsbaer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Úlfarsfell",
+                  "text": "Úlfarsfell ist ein beliebter Berggipfel in der Nähe von Mosfellsbær, der malerische Wanderwege und Ausblicke auf die Hauptstadtregion bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.710254,
+                        64.146993
+                  ]
+            },
+            {
+                  "name": "Gorvík",
+                  "text": "Gorvík ist eine Küstenbucht in der Gegend von Mosfellsbær, die für ihre natürliche Küstenlinie bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.768944,
+                        64.156963
+                  ]
+            },
+            {
+                  "name": "Lágafellskirkja",
+                  "text": "Lágafellskirkja ist eine ruhige lokale Kirche in Mosfellsbær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.711595,
+                        64.161761
+                  ]
+            },
+            {
+                  "name": "Bird watching",
+                  "text": "Dieser Aussichtspunkt in Mosfellsbær bietet einen hervorragenden Ort für die Vogelbeobachtung in der umliegenden Naturlandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -21.725475,
+                        64.174021
+                  ]
+            },
+            {
+                  "name": "Blikastaðakró - Leiruvogur",
+                  "text": "Blikastaðakró - Leiruvogur ist ein Naturschutzgebiet in Mosfellsbær, das die lokalen Küstenlebensräume bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -21.750096,
+                        64.17018
+                  ]
+            },
+            {
+                  "name": "Tungufoss",
+                  "text": "Tungufoss ist ein malerisches Naturschutzgebiet in Mosfellsbær rund um einen lokalen Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        -21.681024,
+                        64.178568
+                  ]
+            },
+            {
+                  "name": "Álafoss",
+                  "text": "Álafoss ist ein Naturschutzgebiet in Mosfellsbær, das für seinen Wasserfall und seine historischen Wurzeln in der Wollindustrie bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -21.674676,
+                        64.166215
+                  ]
+            },
+            {
+                  "name": "Varmárósar",
+                  "text": "Varmárósar ist ein landschaftlich reizvolles Naturschutzgebiet in Mosfellsbær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.701972,
+                        64.177376
+                  ]
+            },
+            {
+                  "name": "Lífslöngun",
+                  "text": "Lífslöngun ist ein öffentliches Kunstwerk, das in Mosfellsbær ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.664879,
+                        64.162274
+                  ]
+            },
+            {
+                  "name": "Óðinshrafn",
+                  "text": "Óðinshrafn ist ein öffentliches Kunstwerk im Freien in Mosfellsbær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.663249,
+                        64.162941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Úlfarsfell",
+                  "text": "Az Úlfarsfell egy népszerű hegycsúcs Mosfellsbær közelében, amely festői túraútvonalakat és kilátást kínál a fővárosi régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.710254,
+                        64.146993
+                  ]
+            },
+            {
+                  "name": "Gorvík",
+                  "text": "Gorvík egy tengerparti öböl Mosfellsbær térségében, amely természetes partszakaszáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.768944,
+                        64.156963
+                  ]
+            },
+            {
+                  "name": "Lágafellskirkja",
+                  "text": "A Lágafellskirkja egy csendes helyi templom Mosfellsbær városában.",
+                  "category": "religious",
+                  "coords": [
+                        -21.711595,
+                        64.161761
+                  ]
+            },
+            {
+                  "name": "Bird watching",
+                  "text": "Ez a mosfellsbæri kilátó kiváló helyszínt biztosít a madármegfigyeléshez a környező természeti tájon.",
+                  "category": "natural",
+                  "coords": [
+                        -21.725475,
+                        64.174021
+                  ]
+            },
+            {
+                  "name": "Blikastaðakró - Leiruvogur",
+                  "text": "A Blikastaðakró - Leiruvogur egy természetvédelmi terület Mosfellsbærben, amely megőrzi a helyi partvidéki élőhelyeket.",
+                  "category": "natural",
+                  "coords": [
+                        -21.750096,
+                        64.17018
+                  ]
+            },
+            {
+                  "name": "Tungufoss",
+                  "text": "A Tungufoss egy festői természetvédelmi terület Mosfellsbærben, melynek középpontjában egy helyi vízesés áll.",
+                  "category": "natural",
+                  "coords": [
+                        -21.681024,
+                        64.178568
+                  ]
+            },
+            {
+                  "name": "Álafoss",
+                  "text": "Álafoss egy természetvédelmi terület Mosfellsbærben, amely vízeséséről és a történelmi gyapjúiparhoz fűződő gyökereiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -21.674676,
+                        64.166215
+                  ]
+            },
+            {
+                  "name": "Varmárósar",
+                  "text": "A Varmárósar egy festői természetvédelmi terület Mosfellsbær városában.",
+                  "category": "natural",
+                  "coords": [
+                        -21.701972,
+                        64.177376
+                  ]
+            },
+            {
+                  "name": "Lífslöngun",
+                  "text": "A Lífslöngun egy köztéri műalkotás Mosfellsbær városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.664879,
+                        64.162274
+                  ]
+            },
+            {
+                  "name": "Óðinshrafn",
+                  "text": "Az Óðinshrafn egy szabadtéri köztéri műalkotás Mosfellsbærben.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.663249,
+                        64.162941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Úlfarsfell",
+                  "text": "Úlfarsfell este un vârf montan popular lângă Mosfellsbær, oferind trasee pitorești de drumeție și vederi ale regiunii capitalei.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.710254,
+                        64.146993
+                  ]
+            },
+            {
+                  "name": "Gorvík",
+                  "text": "Gorvík este un golf de coastă situat în zona Mosfellsbær, cunoscut pentru țărmul său natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.768944,
+                        64.156963
+                  ]
+            },
+            {
+                  "name": "Lágafellskirkja",
+                  "text": "Lágafellskirkja este o biserică locală liniștită situată în Mosfellsbær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.711595,
+                        64.161761
+                  ]
+            },
+            {
+                  "name": "Bird watching",
+                  "text": "Acest punct de belvedere din Mosfellsbær oferă un loc excelent pentru observarea păsărilor în peisajul natural înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -21.725475,
+                        64.174021
+                  ]
+            },
+            {
+                  "name": "Blikastaðakró - Leiruvogur",
+                  "text": "Blikastaðakró - Leiruvogur este o rezervație naturală în Mosfellsbær, care protejează habitatele de coastă locale.",
+                  "category": "natural",
+                  "coords": [
+                        -21.750096,
+                        64.17018
+                  ]
+            },
+            {
+                  "name": "Tungufoss",
+                  "text": "Tungufoss este o rezervație naturală pitorească din Mosfellsbær, centrată în jurul unei cascade locale.",
+                  "category": "natural",
+                  "coords": [
+                        -21.681024,
+                        64.178568
+                  ]
+            },
+            {
+                  "name": "Álafoss",
+                  "text": "Álafoss este o rezervație naturală din Mosfellsbær, faimoasă pentru cascada sa și rădăcinile istorice în industria lânii.",
+                  "category": "natural",
+                  "coords": [
+                        -21.674676,
+                        64.166215
+                  ]
+            },
+            {
+                  "name": "Varmárósar",
+                  "text": "Varmárósar este o rezervație naturală pitorească situată în Mosfellsbær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.701972,
+                        64.177376
+                  ]
+            },
+            {
+                  "name": "Lífslöngun",
+                  "text": "Lífslöngun este o operă de artă publică expusă în Mosfellsbær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.664879,
+                        64.162274
+                  ]
+            },
+            {
+                  "name": "Óðinshrafn",
+                  "text": "Óðinshrafn este o operă de artă publică în aer liber situată în Mosfellsbær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.663249,
+                        64.162941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Úlfarsfell",
+                  "text": "Úlfarsfell is a popular mountain peak near Mosfellsbær, offering scenic hiking trails and views of the capital region.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.710254,
+                        64.146993
+                  ]
+            },
+            {
+                  "name": "Gorvík",
+                  "text": "Gorvík is a coastal bay situated in the Mosfellsbær area, known for its natural shoreline.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.768944,
+                        64.156963
+                  ]
+            },
+            {
+                  "name": "Lágafellskirkja",
+                  "text": "Lágafellskirkja is a tranquil local church situated in Mosfellsbær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.711595,
+                        64.161761
+                  ]
+            },
+            {
+                  "name": "Bird watching",
+                  "text": "This viewpoint in Mosfellsbær provides an excellent spot for bird watching in the surrounding natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -21.725475,
+                        64.174021
+                  ]
+            },
+            {
+                  "name": "Blikastaðakró - Leiruvogur",
+                  "text": "Blikastaðakró - Leiruvogur is a protected nature reserve in Mosfellsbær, preserving local coastal habitats.",
+                  "category": "natural",
+                  "coords": [
+                        -21.750096,
+                        64.17018
+                  ]
+            },
+            {
+                  "name": "Tungufoss",
+                  "text": "Tungufoss is a scenic nature reserve in Mosfellsbær centered around a local waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -21.681024,
+                        64.178568
+                  ]
+            },
+            {
+                  "name": "Álafoss",
+                  "text": "Álafoss is a nature reserve in Mosfellsbær famous for its waterfall and historical wool industry roots.",
+                  "category": "natural",
+                  "coords": [
+                        -21.674676,
+                        64.166215
+                  ]
+            },
+            {
+                  "name": "Varmárósar",
+                  "text": "Varmárósar is a scenic nature reserve located in Mosfellsbær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.701972,
+                        64.177376
+                  ]
+            },
+            {
+                  "name": "Lífslöngun",
+                  "text": "Lífslöngun is a public artwork on display in Mosfellsbær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.664879,
+                        64.162274
+                  ]
+            },
+            {
+                  "name": "Óðinshrafn",
+                  "text": "Óðinshrafn is an outdoor public artwork located in Mosfellsbær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.663249,
+                        64.162941
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Mosfellsbær", hu: "Mosfellsbær", ro: "Mosfellsbær", en: "Mosfellsbær"},
@@ -6074,7 +6443,304 @@ imageHint: "Akranes lighthouse at the coast",
     },
     image: "/poi-images/iceland-akranes-cities-v2.webp",
 },  {
-    id: "iceland-seltjarnarnes-cities-v2",
+    id: "iceland-seltjarnarnes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skerjafjörður",
+                  "text": "Der Skerjafjörður ist ein malerischer Fjord bei Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.985783,
+                        64.127452
+                  ]
+            },
+            {
+                  "name": "Grótta lighthouse",
+                  "text": "Der Leuchtturm von Grótta in Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.021954,
+                        64.164999
+                  ]
+            },
+            {
+                  "name": "Camp Grótta",
+                  "text": "Die Ruinen von Camp Grótta in Seltjarnarnes.",
+                  "category": "historical",
+                  "coords": [
+                        -21.995044,
+                        64.155343
+                  ]
+            },
+            {
+                  "name": "Valhúsahæð",
+                  "text": "Das Naturschutzgebiet Valhúsahæð in Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.996445,
+                        64.154948
+                  ]
+            },
+            {
+                  "name": "Akurey",
+                  "text": "Das Naturschutzgebiet Akurey in Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964897,
+                        64.17091
+                  ]
+            },
+            {
+                  "name": "Bakkatjörn",
+                  "text": "Das Naturschutzgebiet Bakkatjörn in Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -22.015022,
+                        64.156398
+                  ]
+            },
+            {
+                  "name": "Pharmacy Museum",
+                  "text": "Ein Apothekenmuseum in Seltjarnarnes.",
+                  "category": "museum",
+                  "coords": [
+                        -22.006469,
+                        64.158
+                  ]
+            },
+            {
+                  "name": "Suðurnesvarða",
+                  "text": "Die Attraktion Suðurnesvarða in Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.0359,
+                        64.153505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skerjafjörður",
+                  "text": "A Skerjafjörður egy festői fjord Seltjarnarnes közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.985783,
+                        64.127452
+                  ]
+            },
+            {
+                  "name": "Grótta lighthouse",
+                  "text": "A Grótta világítótorony Seltjarnarnesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.021954,
+                        64.164999
+                  ]
+            },
+            {
+                  "name": "Camp Grótta",
+                  "text": "A Camp Grótta romjai Seltjarnarnesben.",
+                  "category": "historical",
+                  "coords": [
+                        -21.995044,
+                        64.155343
+                  ]
+            },
+            {
+                  "name": "Valhúsahæð",
+                  "text": "A Valhúsahæð természetvédelmi terület Seltjarnarnesben.",
+                  "category": "natural",
+                  "coords": [
+                        -21.996445,
+                        64.154948
+                  ]
+            },
+            {
+                  "name": "Akurey",
+                  "text": "Az Akurey természetvédelmi terület Seltjarnarnesben.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964897,
+                        64.17091
+                  ]
+            },
+            {
+                  "name": "Bakkatjörn",
+                  "text": "A Bakkatjörn természetvédelmi terület Seltjarnarnesben.",
+                  "category": "natural",
+                  "coords": [
+                        -22.015022,
+                        64.156398
+                  ]
+            },
+            {
+                  "name": "Pharmacy Museum",
+                  "text": "Gyógyszertármúzeum Seltjarnarnesben.",
+                  "category": "museum",
+                  "coords": [
+                        -22.006469,
+                        64.158
+                  ]
+            },
+            {
+                  "name": "Suðurnesvarða",
+                  "text": "A Suðurnesvarða nevezetű látványosság Seltjarnarnesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.0359,
+                        64.153505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skerjafjörður",
+                  "text": "Skerjafjörður este un fiord pitoresc lângă Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.985783,
+                        64.127452
+                  ]
+            },
+            {
+                  "name": "Grótta lighthouse",
+                  "text": "Farul Grótta din Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.021954,
+                        64.164999
+                  ]
+            },
+            {
+                  "name": "Camp Grótta",
+                  "text": "Ruinele Taberei Grótta din Seltjarnarnes.",
+                  "category": "historical",
+                  "coords": [
+                        -21.995044,
+                        64.155343
+                  ]
+            },
+            {
+                  "name": "Valhúsahæð",
+                  "text": "Rezervația naturală Valhúsahæð din Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.996445,
+                        64.154948
+                  ]
+            },
+            {
+                  "name": "Akurey",
+                  "text": "Rezervația naturală Akurey din Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964897,
+                        64.17091
+                  ]
+            },
+            {
+                  "name": "Bakkatjörn",
+                  "text": "Rezervația naturală Bakkatjörn din Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -22.015022,
+                        64.156398
+                  ]
+            },
+            {
+                  "name": "Pharmacy Museum",
+                  "text": "Un muzeu al farmaciei în Seltjarnarnes.",
+                  "category": "museum",
+                  "coords": [
+                        -22.006469,
+                        64.158
+                  ]
+            },
+            {
+                  "name": "Suðurnesvarða",
+                  "text": "Atracția Suðurnesvarða din Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.0359,
+                        64.153505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skerjafjörður",
+                  "text": "Skerjafjörður is a scenic fjord located near Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.985783,
+                        64.127452
+                  ]
+            },
+            {
+                  "name": "Grótta lighthouse",
+                  "text": "The Grótta lighthouse situated in Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.021954,
+                        64.164999
+                  ]
+            },
+            {
+                  "name": "Camp Grótta",
+                  "text": "The ruins of Camp Grótta in Seltjarnarnes.",
+                  "category": "historical",
+                  "coords": [
+                        -21.995044,
+                        64.155343
+                  ]
+            },
+            {
+                  "name": "Valhúsahæð",
+                  "text": "The Valhúsahæð nature reserve in Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.996445,
+                        64.154948
+                  ]
+            },
+            {
+                  "name": "Akurey",
+                  "text": "The Akurey nature reserve located in Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964897,
+                        64.17091
+                  ]
+            },
+            {
+                  "name": "Bakkatjörn",
+                  "text": "The Bakkatjörn nature reserve in Seltjarnarnes.",
+                  "category": "natural",
+                  "coords": [
+                        -22.015022,
+                        64.156398
+                  ]
+            },
+            {
+                  "name": "Pharmacy Museum",
+                  "text": "A Pharmacy Museum located in Seltjarnarnes.",
+                  "category": "museum",
+                  "coords": [
+                        -22.006469,
+                        64.158
+                  ]
+            },
+            {
+                  "name": "Suðurnesvarða",
+                  "text": "The Suðurnesvarða attraction in Seltjarnarnes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.0359,
+                        64.153505
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Seltjarnarnes", hu: "Seltjarnarnes", ro: "Seltjarnarnes", en: "Seltjarnarnes"},
@@ -8233,7 +8899,52 @@ imageHint: "Borgarnes town view with mountains in background",
     },
     image: "/poi-images/iceland-borgarnes-cities-v2.webp",
 },  {
-    id: "iceland-sandgerdi-cities-v2",
+    id: "iceland-sandgerdi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandgerði",
+                  "text": "Der Leuchtturm von Sandgerði ist ein markantes Bauwerk an der isländischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.714056,
+                        64.040028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandgerði",
+                  "text": "A sandgerði-i világítótorony egy jellegzetes építmény az izlandi tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.714056,
+                        64.040028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandgerði",
+                  "text": "Farul din Sandgerði este o structură marcantă pe coasta islandeză.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.714056,
+                        64.040028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandgerði",
+                  "text": "The Sandgerði lighthouse is a prominent landmark on the Icelandic coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.714056,
+                        64.040028
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Sandgerði", hu: "Sandgerði", ro: "Sandgerði", en: "Sandgerði"},
@@ -8533,6 +9244,15 @@ imageHint: "Hofn town with Vatnajokull glacier in background",
                         -21.371829,
                         63.86866
                   ]
+            },
+            {
+                  "name": "Þorlákshöfn",
+                  "text": "Der Leuchtturm von Þorlákshöfn dient der Navigation an der isländischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.360833,
+                        63.851167
+                  ]
             }
       ],
       "hu": [
@@ -8552,6 +9272,15 @@ imageHint: "Hofn town with Vatnajokull glacier in background",
                   "coords": [
                         -21.371829,
                         63.86866
+                  ]
+            },
+            {
+                  "name": "Þorlákshöfn",
+                  "text": "A Þorlákshöfn világítótorony az izlandi partok mentén segíti a hajózást.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.360833,
+                        63.851167
                   ]
             }
       ],
@@ -8573,6 +9302,15 @@ imageHint: "Hofn town with Vatnajokull glacier in background",
                         -21.371829,
                         63.86866
                   ]
+            },
+            {
+                  "name": "Þorlákshöfn",
+                  "text": "Farul din Þorlákshöfn servește navigației de-a lungul coastei islandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.360833,
+                        63.851167
+                  ]
             }
       ],
       "en": [
@@ -8592,6 +9330,15 @@ imageHint: "Hofn town with Vatnajokull glacier in background",
                   "coords": [
                         -21.371829,
                         63.86866
+                  ]
+            },
+            {
+                  "name": "Þorlákshöfn",
+                  "text": "The Þorlákshöfn lighthouse serves coastal navigation in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.360833,
+                        63.851167
                   ]
             }
       ]
@@ -8804,7 +9551,124 @@ imageHint: "Dalvik harbor with snow-capped mountains",
     },
     image: "/poi-images/iceland-dalvik-cities-v2.webp",
 },  {
-    id: "iceland-siglufjordur-cities-v2",
+    id: "iceland-siglufjordur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strákar",
+                  "text": "Strákar ist ein Berggipfel in der Nähe der Stadt Siglufjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.925084,
+                        66.17523
+                  ]
+            },
+            {
+                  "name": "Herhúsið",
+                  "text": "Herhúsið ist ein Kunstzentrum in Siglufjörður.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.906452,
+                        66.151011
+                  ]
+            },
+            {
+                  "name": "SI-152",
+                  "text": "SI-152 ist eine lokale Touristenattraktion in Siglufjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.90382,
+                        66.148432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strákar",
+                  "text": "A Strákar egy hegycsúcs Siglufjörður városának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.925084,
+                        66.17523
+                  ]
+            },
+            {
+                  "name": "Herhúsið",
+                  "text": "A Herhúsið egy művészeti központ Siglufjörður városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.906452,
+                        66.151011
+                  ]
+            },
+            {
+                  "name": "SI-152",
+                  "text": "A SI-152 egy helyi turisztikai látványosság Siglufjörður településén.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.90382,
+                        66.148432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strákar",
+                  "text": "Strákar este un vârf montan situat în apropiere de orașul Siglufjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.925084,
+                        66.17523
+                  ]
+            },
+            {
+                  "name": "Herhúsið",
+                  "text": "Herhúsið este un centru de arte situat în Siglufjörður.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.906452,
+                        66.151011
+                  ]
+            },
+            {
+                  "name": "SI-152",
+                  "text": "SI-152 este o atracție turistică locală în Siglufjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.90382,
+                        66.148432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strákar",
+                  "text": "Strákar is a mountain peak located near the town of Siglufjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.925084,
+                        66.17523
+                  ]
+            },
+            {
+                  "name": "Herhúsið",
+                  "text": "Herhúsið is an arts centre situated in Siglufjörður.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.906452,
+                        66.151011
+                  ]
+            },
+            {
+                  "name": "SI-152",
+                  "text": "SI-152 is a local tourist attraction located in Siglufjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.90382,
+                        66.148432
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Siglufjörður", hu: "Siglufjörður", ro: "Siglufjörður", en: "Siglufjörður"},
@@ -9602,7 +10466,232 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-vik-i-myrdal-cities-v2.webp",
   },
   {
-    id: "iceland-olafsvik-cities-v2",
+    id: "iceland-olafsvik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hrói",
+                  "text": "Hrói ist ein Berggipfel in Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.72639,
+                        64.872139
+                  ]
+            },
+            {
+                  "name": "Enni",
+                  "text": "Enni ist ein markanter Berggipfel in der Nähe von Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.74504,
+                        64.89362
+                  ]
+            },
+            {
+                  "name": "Ólafsvíkurkirkja",
+                  "text": "Ólafsvíkurkirkja ist eine markante Kultstätte in der Stadt Ólafsvík.",
+                  "category": "religious",
+                  "coords": [
+                        -23.713284,
+                        64.89542
+                  ]
+            },
+            {
+                  "name": "Pakkhús",
+                  "text": "Pakkhús ist ein Museum in Ólafsvík, das lokale historische Ausstellungen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -23.70862,
+                        64.896118
+                  ]
+            },
+            {
+                  "name": "Ólafsvík",
+                  "text": "Der Leuchtturm von Ólafsvík ist ein maritimes Navigationsbauwerk in der Stadt Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.673833,
+                        64.891667
+                  ]
+            },
+            {
+                  "name": "Tindur SH179",
+                  "text": "Tindur SH179 ist eine Attraktion in der Küstenstadt Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684535,
+                        64.890976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hrói",
+                  "text": "A Hrói egy hegycsúcs Ólafsvíkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.72639,
+                        64.872139
+                  ]
+            },
+            {
+                  "name": "Enni",
+                  "text": "Az Enni egy kiemelkedő hegycsúcs Ólafsvík közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.74504,
+                        64.89362
+                  ]
+            },
+            {
+                  "name": "Ólafsvíkurkirkja",
+                  "text": "Az Ólafsvíkurkirkja egy jellegzetes istentiszteleti hely Ólafsvík városában.",
+                  "category": "religious",
+                  "coords": [
+                        -23.713284,
+                        64.89542
+                  ]
+            },
+            {
+                  "name": "Pakkhús",
+                  "text": "A Pakkhús egy múzeum Ólafsvíkban, amely helytörténeti kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        -23.70862,
+                        64.896118
+                  ]
+            },
+            {
+                  "name": "Ólafsvík",
+                  "text": "Az ólafsvíki világítótorony egy tengeri navigációs építmény Ólafsvík városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.673833,
+                        64.891667
+                  ]
+            },
+            {
+                  "name": "Tindur SH179",
+                  "text": "A Tindur SH179 egy látványosság Ólafsvík tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684535,
+                        64.890976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hrói",
+                  "text": "Hrói este un vârf de munte situat în Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.72639,
+                        64.872139
+                  ]
+            },
+            {
+                  "name": "Enni",
+                  "text": "Enni este un vârf de munte proeminent situat lângă Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.74504,
+                        64.89362
+                  ]
+            },
+            {
+                  "name": "Ólafsvíkurkirkja",
+                  "text": "Ólafsvíkurkirkja este un lăcaș de cult distinctiv situat în orașul Ólafsvík.",
+                  "category": "religious",
+                  "coords": [
+                        -23.713284,
+                        64.89542
+                  ]
+            },
+            {
+                  "name": "Pakkhús",
+                  "text": "Pakkhús este un muzeu situat în Ólafsvík, care oferă expoziții istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        -23.70862,
+                        64.896118
+                  ]
+            },
+            {
+                  "name": "Ólafsvík",
+                  "text": "Farul din Ólafsvík este o structură de navigație maritimă din orașul Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.673833,
+                        64.891667
+                  ]
+            },
+            {
+                  "name": "Tindur SH179",
+                  "text": "Tindur SH179 este o atracție situată în orașul de coastă Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684535,
+                        64.890976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hrói",
+                  "text": "Hrói is a mountain peak located in Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.72639,
+                        64.872139
+                  ]
+            },
+            {
+                  "name": "Enni",
+                  "text": "Enni is a prominent mountain peak located near Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.74504,
+                        64.89362
+                  ]
+            },
+            {
+                  "name": "Ólafsvíkurkirkja",
+                  "text": "Ólafsvíkurkirkja is a distinctive place of worship located in the town of Ólafsvík.",
+                  "category": "religious",
+                  "coords": [
+                        -23.713284,
+                        64.89542
+                  ]
+            },
+            {
+                  "name": "Pakkhús",
+                  "text": "Pakkhús is a museum located in Ólafsvík, offering local historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -23.70862,
+                        64.896118
+                  ]
+            },
+            {
+                  "name": "Ólafsvík",
+                  "text": "The Ólafsvík lighthouse is a maritime navigational structure in the town of Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.673833,
+                        64.891667
+                  ]
+            },
+            {
+                  "name": "Tindur SH179",
+                  "text": "Tindur SH179 is an attraction located in the coastal town of Ólafsvík.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.684535,
+                        64.890976
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Ólafsvík", hu: "Ólafsvík", ro: "Ólafsvík", en: "Ólafsvík" },
@@ -9657,6 +10746,15 @@ imageHint: "Vogar coastline and residential houses",
                         -20.293213,
                         65.661912
                   ]
+            },
+            {
+                  "name": "Hrútey í Blöndu",
+                  "text": "Hrútey ist ein inselartiges Naturschutzgebiet im Fluss Blanda bei Blönduós.",
+                  "category": "natural",
+                  "coords": [
+                        -20.269921,
+                        65.657381
+                  ]
             }
       ],
       "hu": [
@@ -9667,6 +10765,15 @@ imageHint: "Vogar coastline and residential houses",
                   "coords": [
                         -20.293213,
                         65.661912
+                  ]
+            },
+            {
+                  "name": "Hrútey í Blöndu",
+                  "text": "A Hrútey egy szigeten fekvő természetvédelmi terület a Blanda folyóban, Blönduós közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -20.269921,
+                        65.657381
                   ]
             }
       ],
@@ -9679,6 +10786,15 @@ imageHint: "Vogar coastline and residential houses",
                         -20.293213,
                         65.661912
                   ]
+            },
+            {
+                  "name": "Hrútey í Blöndu",
+                  "text": "Hrútey este o rezervație naturală insulară situată pe râul Blanda, lângă Blönduós.",
+                  "category": "natural",
+                  "coords": [
+                        -20.269921,
+                        65.657381
+                  ]
             }
       ],
       "en": [
@@ -9689,6 +10805,15 @@ imageHint: "Vogar coastline and residential houses",
                   "coords": [
                         -20.293213,
                         65.661912
+                  ]
+            },
+            {
+                  "name": "Hrútey í Blöndu",
+                  "text": "Hrútey is an island nature reserve located in the Blanda river near Blönduós.",
+                  "category": "natural",
+                  "coords": [
+                        -20.269921,
+                        65.657381
                   ]
             }
       ]
@@ -10665,6 +11790,15 @@ imageHint: "Vogar coastline and residential houses",
                         -20.305409,
                         65.823003
                   ]
+            },
+            {
+                  "name": "Spákonufellshöfði",
+                  "text": "Spákonufellshöfði ist ein malerisches Naturschutzgebiet in der Nähe von Skagaströnd.",
+                  "category": "natural",
+                  "coords": [
+                        -20.322056,
+                        65.830525
+                  ]
             }
       ],
       "hu": [
@@ -10675,6 +11809,15 @@ imageHint: "Vogar coastline and residential houses",
                   "coords": [
                         -20.305409,
                         65.823003
+                  ]
+            },
+            {
+                  "name": "Spákonufellshöfði",
+                  "text": "A Spákonufellshöfði egy festői természetvédelmi terület Skagaströnd közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -20.322056,
+                        65.830525
                   ]
             }
       ],
@@ -10687,6 +11830,15 @@ imageHint: "Vogar coastline and residential houses",
                         -20.305409,
                         65.823003
                   ]
+            },
+            {
+                  "name": "Spákonufellshöfði",
+                  "text": "Spákonufellshöfði este o rezervație naturală pitorească situată lângă Skagaströnd.",
+                  "category": "natural",
+                  "coords": [
+                        -20.322056,
+                        65.830525
+                  ]
             }
       ],
       "en": [
@@ -10697,6 +11849,15 @@ imageHint: "Vogar coastline and residential houses",
                   "coords": [
                         -20.305409,
                         65.823003
+                  ]
+            },
+            {
+                  "name": "Spákonufellshöfði",
+                  "text": "Spákonufellshöfði is a picturesque nature reserve located near Skagaströnd.",
+                  "category": "natural",
+                  "coords": [
+                        -20.322056,
+                        65.830525
                   ]
             }
       ]

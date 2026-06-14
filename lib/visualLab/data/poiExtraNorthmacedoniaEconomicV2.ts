@@ -2289,7 +2289,88 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-rozden-mining-exploration-economic-v2.webp",
   },
   {
-    id: "northmacedonia-bosilovo-agribusiness-economic-v2",
+    id: "northmacedonia-bosilovo-agribusiness-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Струмица-Кристал-64",
+                  "text": "Strumica-Kristal-64 ist ein lokales Denkmal in Bosilovo Agribusiness.",
+                  "category": "historical",
+                  "coords": [
+                        22.679698,
+                        41.44098
+                  ]
+            },
+            {
+                  "name": "МАР-7712",
+                  "text": "MAR-7712 ist ein öffentliches Denkmal in Bosilovo Agribusiness.",
+                  "category": "historical",
+                  "coords": [
+                        22.649113,
+                        41.449858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Струмица-Кристал-64",
+                  "text": "A Strumica-Kristal-64 egy helyi emlékmű a Bosilovo Agribusiness területén.",
+                  "category": "historical",
+                  "coords": [
+                        22.679698,
+                        41.44098
+                  ]
+            },
+            {
+                  "name": "МАР-7712",
+                  "text": "A MAR-7712 egy köztéri emlékmű a Bosilovo Agribusiness településén.",
+                  "category": "historical",
+                  "coords": [
+                        22.649113,
+                        41.449858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Струмица-Кристал-64",
+                  "text": "Strumica-Kristal-64 este un monument local situat în Bosilovo Agribusiness.",
+                  "category": "historical",
+                  "coords": [
+                        22.679698,
+                        41.44098
+                  ]
+            },
+            {
+                  "name": "МАР-7712",
+                  "text": "MAR-7712 este un monument public situat în Bosilovo Agribusiness.",
+                  "category": "historical",
+                  "coords": [
+                        22.649113,
+                        41.449858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Струмица-Кристал-64",
+                  "text": "Strumica-Kristal-64 is a local monument located in Bosilovo Agribusiness.",
+                  "category": "historical",
+                  "coords": [
+                        22.679698,
+                        41.44098
+                  ]
+            },
+            {
+                  "name": "МАР-7712",
+                  "text": "MAR-7712 is a public monument situated in Bosilovo Agribusiness.",
+                  "category": "historical",
+                  "coords": [
+                        22.649113,
+                        41.449858
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "MK",
     name: { de: "Agrarwirtschaft Bosilovo", hu: "Bosilovói Agrárgazdaság", ro: "Agroindustrie Bosilovo", en: "Bosilovo Agribusiness" },

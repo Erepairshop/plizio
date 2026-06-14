@@ -273,7 +273,160 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-parco-archeologico-di-ercolano-history-v2.webp",
   },
   {
-    id: "italy-trulli-di-alberobello-history-v2",
+    id: "italy-trulli-di-alberobello-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Basilica minore dei Santi Cosma e Damiano",
+                  "text": "Eine anerkannte Basilica minor und Kultstätte in den Trulli von Alberobello.",
+                  "category": "religious",
+                  "coords": [
+                        17.235707,
+                        40.786681
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Belvedere",
+                  "text": "Ein öffentlicher Aussichtspunkt mit malerischem Blick in den Trulli von Alberobello.",
+                  "category": "natural",
+                  "coords": [
+                        17.238795,
+                        40.783053
+                  ]
+            },
+            {
+                  "name": "Pavillon de chasse de la famille Acquaviva",
+                  "text": "Ein historisches Jagdschloss und eine Attraktion in den Trulli von Alberobello.",
+                  "category": "landmark",
+                  "coords": [
+                        17.237769,
+                        40.78338
+                  ]
+            },
+            {
+                  "name": "Trulli",
+                  "text": "Die Trulli sind ikonische traditionelle Kalksteinhäuser in der Region Alberobello.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23664,
+                        40.782113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Basilica minore dei Santi Cosma e Damiano",
+                  "text": "Egy elismert minor bazilika a trulliknál Alberobellóban.",
+                  "category": "religious",
+                  "coords": [
+                        17.235707,
+                        40.786681
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Belvedere",
+                  "text": "Egy festői kilátást nyújtó nyilvános kilátó a trulliknál Alberobellóban.",
+                  "category": "natural",
+                  "coords": [
+                        17.238795,
+                        40.783053
+                  ]
+            },
+            {
+                  "name": "Pavillon de chasse de la famille Acquaviva",
+                  "text": "Egy történelmi vadászkastély és látványosság az alberobellói trulliknál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.237769,
+                        40.78338
+                  ]
+            },
+            {
+                  "name": "Trulli",
+                  "text": "A Trulli ikonikus, hagyományos mészkőből épült lakóházak Alberobello régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23664,
+                        40.782113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Basilica minore dei Santi Cosma e Damiano",
+                  "text": "O bazilică minoră recunoscută și lăcaș de cult în Trulli din Alberobello.",
+                  "category": "religious",
+                  "coords": [
+                        17.235707,
+                        40.786681
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Belvedere",
+                  "text": "Un punct de belvedere public ce oferă vederi pitorești în Trulli din Alberobello.",
+                  "category": "natural",
+                  "coords": [
+                        17.238795,
+                        40.783053
+                  ]
+            },
+            {
+                  "name": "Pavillon de chasse de la famille Acquaviva",
+                  "text": "O cabană istorică de vânătoare și o atracție în Trulli din Alberobello.",
+                  "category": "landmark",
+                  "coords": [
+                        17.237769,
+                        40.78338
+                  ]
+            },
+            {
+                  "name": "Trulli",
+                  "text": "Trulli sunt locuințe tradiționale iconice din calcar, situate în regiunea Alberobello.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23664,
+                        40.782113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Basilica minore dei Santi Cosma e Damiano",
+                  "text": "A recognized minor basilica and place of worship in Trulli of Alberobello.",
+                  "category": "religious",
+                  "coords": [
+                        17.235707,
+                        40.786681
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Belvedere",
+                  "text": "A public viewpoint offering scenic vistas in Trulli of Alberobello.",
+                  "category": "natural",
+                  "coords": [
+                        17.238795,
+                        40.783053
+                  ]
+            },
+            {
+                  "name": "Pavillon de chasse de la famille Acquaviva",
+                  "text": "A historic hunting lodge and attraction in Trulli of Alberobello.",
+                  "category": "landmark",
+                  "coords": [
+                        17.237769,
+                        40.78338
+                  ]
+            },
+            {
+                  "name": "Trulli",
+                  "text": "The Trulli are iconic traditional limestone dwellings located in the Alberobello region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.23664,
+                        40.782113
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "IT",
     name: { de: "Trulli von Alberobello", hu: "Alberobello trullói", ro: "Trulli din Alberobello", en: "Trulli of Alberobello" },
@@ -2830,6 +2983,60 @@ export const italyHistoryV2: POI[] = [
                         14.453368,
                         40.688187
                   ]
+            },
+            {
+                  "name": "Museo Mineralogico Campano",
+                  "text": "Das Museo Mineralogico Campano ist ein lokales Museum in Vico Equense.",
+                  "category": "museum",
+                  "coords": [
+                        14.424549,
+                        40.662797
+                  ]
+            },
+            {
+                  "name": "Castello Giusso",
+                  "text": "Das Castello Giusso ist eine mittelalterliche Burg in Vico Equense, die ursprünglich von Karl II. von Anjou gegründet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        14.425544,
+                        40.664821
+                  ]
+            },
+            {
+                  "name": "Monte Crocione",
+                  "text": "Der Monte Crocione ist ein Berggipfel in der Nähe von Vico Equense.",
+                  "category": "landmark",
+                  "coords": [
+                        14.430065,
+                        40.637833
+                  ]
+            },
+            {
+                  "name": "Basilica Pontificia di Santa Maria del Lauro",
+                  "text": "Die Basilica Pontificia di Santa Maria del Lauro ist eine religiöse Kultstätte in Vico Equense.",
+                  "category": "religious",
+                  "coords": [
+                        14.418055,
+                        40.642006
+                  ]
+            },
+            {
+                  "name": "Santuario di Santa Maria del Toro",
+                  "text": "Das Santuario di Santa Maria del Toro ist ein marianisches Heiligtum aus dem 16. Jahrhundert in Vico Equense.",
+                  "category": "religious",
+                  "coords": [
+                        14.431462,
+                        40.665117
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Ciro e Giovanni",
+                  "text": "Die Chiesa dei Santi Ciro e Giovanni ist eine ehemalige Kathedrale in Vico Equense, die für ihre Majolika-Kuppel bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.425048,
+                        40.661382
+                  ]
             }
       ],
       "hu": [
@@ -2867,6 +3074,60 @@ export const italyHistoryV2: POI[] = [
                   "coords": [
                         14.453368,
                         40.688187
+                  ]
+            },
+            {
+                  "name": "Museo Mineralogico Campano",
+                  "text": "A Museo Mineralogico Campano egy helyi múzeum Vico Equensében.",
+                  "category": "museum",
+                  "coords": [
+                        14.424549,
+                        40.662797
+                  ]
+            },
+            {
+                  "name": "Castello Giusso",
+                  "text": "A Castello Giusso egy középkori kastély Vico Equensében, amelyet eredetileg II. Károly nápolyi király alapított.",
+                  "category": "castle",
+                  "coords": [
+                        14.425544,
+                        40.664821
+                  ]
+            },
+            {
+                  "name": "Monte Crocione",
+                  "text": "A Monte Crocione egy hegycsúcs Vico Equense közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.430065,
+                        40.637833
+                  ]
+            },
+            {
+                  "name": "Basilica Pontificia di Santa Maria del Lauro",
+                  "text": "A Basilica Pontificia di Santa Maria del Lauro egy vallási istentiszteleti hely Vico Equensében.",
+                  "category": "religious",
+                  "coords": [
+                        14.418055,
+                        40.642006
+                  ]
+            },
+            {
+                  "name": "Santuario di Santa Maria del Toro",
+                  "text": "A Santuario di Santa Maria del Toro egy 16. századi Mária-kegyhely Vico Equensében.",
+                  "category": "religious",
+                  "coords": [
+                        14.431462,
+                        40.665117
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Ciro e Giovanni",
+                  "text": "A Chiesa dei Santi Ciro e Giovanni egy egykori katedrális Vico Equensében, amely majolika kupolájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        14.425048,
+                        40.661382
                   ]
             }
       ],
@@ -2906,6 +3167,60 @@ export const italyHistoryV2: POI[] = [
                         14.453368,
                         40.688187
                   ]
+            },
+            {
+                  "name": "Museo Mineralogico Campano",
+                  "text": "Museo Mineralogico Campano este un muzeu local în Vico Equense.",
+                  "category": "museum",
+                  "coords": [
+                        14.424549,
+                        40.662797
+                  ]
+            },
+            {
+                  "name": "Castello Giusso",
+                  "text": "Castello Giusso este un castel medieval din Vico Equense fondat inițial de Carol al II-lea de Anjou.",
+                  "category": "castle",
+                  "coords": [
+                        14.425544,
+                        40.664821
+                  ]
+            },
+            {
+                  "name": "Monte Crocione",
+                  "text": "Monte Crocione este un vârf montan situat lângă Vico Equense.",
+                  "category": "landmark",
+                  "coords": [
+                        14.430065,
+                        40.637833
+                  ]
+            },
+            {
+                  "name": "Basilica Pontificia di Santa Maria del Lauro",
+                  "text": "Basilica Pontificia di Santa Maria del Lauro este un lăcaș de cult religios din Vico Equense.",
+                  "category": "religious",
+                  "coords": [
+                        14.418055,
+                        40.642006
+                  ]
+            },
+            {
+                  "name": "Santuario di Santa Maria del Toro",
+                  "text": "Santuario di Santa Maria del Toro este un sanctuar marian din secolul al XVI-lea în Vico Equense.",
+                  "category": "religious",
+                  "coords": [
+                        14.431462,
+                        40.665117
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Ciro e Giovanni",
+                  "text": "Chiesa dei Santi Ciro e Giovanni este o fostă catedrală din Vico Equense, remarcabilă pentru cupola sa din majolică.",
+                  "category": "religious",
+                  "coords": [
+                        14.425048,
+                        40.661382
+                  ]
             }
       ],
       "en": [
@@ -2943,6 +3258,60 @@ export const italyHistoryV2: POI[] = [
                   "coords": [
                         14.453368,
                         40.688187
+                  ]
+            },
+            {
+                  "name": "Museo Mineralogico Campano",
+                  "text": "The Museo Mineralogico Campano is a local museum in Vico Equense.",
+                  "category": "museum",
+                  "coords": [
+                        14.424549,
+                        40.662797
+                  ]
+            },
+            {
+                  "name": "Castello Giusso",
+                  "text": "Castello Giusso is a medieval castle in Vico Equense originally founded by Charles II of Anjou.",
+                  "category": "castle",
+                  "coords": [
+                        14.425544,
+                        40.664821
+                  ]
+            },
+            {
+                  "name": "Monte Crocione",
+                  "text": "Monte Crocione is a mountain peak located near Vico Equense.",
+                  "category": "landmark",
+                  "coords": [
+                        14.430065,
+                        40.637833
+                  ]
+            },
+            {
+                  "name": "Basilica Pontificia di Santa Maria del Lauro",
+                  "text": "The Basilica Pontificia di Santa Maria del Lauro is a religious place of worship in Vico Equense.",
+                  "category": "religious",
+                  "coords": [
+                        14.418055,
+                        40.642006
+                  ]
+            },
+            {
+                  "name": "Santuario di Santa Maria del Toro",
+                  "text": "The Santuario di Santa Maria del Toro is a 16th-century Marian sanctuary in Vico Equense.",
+                  "category": "religious",
+                  "coords": [
+                        14.431462,
+                        40.665117
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Ciro e Giovanni",
+                  "text": "The Chiesa dei Santi Ciro e Giovanni is a former cathedral in Vico Equense, known for its majolica dome.",
+                  "category": "religious",
+                  "coords": [
+                        14.425048,
+                        40.661382
                   ]
             }
       ]
@@ -3477,7 +3846,196 @@ export const italyHistoryV2: POI[] = [
     image: "/poi-images/italy-teatro-di-marcello-history-v2.webp",
   },
   {
-    id: "italy-borgo-di-borgo-val-di-taro-history-v2",
+    id: "italy-borgo-di-borgo-val-di-taro-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castello di Borgo Val di Taro",
+                  "text": "Eine bekannte historische Burg in Borgo Val di Taro.",
+                  "category": "castle",
+                  "coords": [
+                        9.76883,
+                        44.488779
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Eine bekannte Kultstätte in Borgo Val di Taro.",
+                  "category": "religious",
+                  "coords": [
+                        9.771271,
+                        44.485503
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Eine markante Kirche und Kultstätte in Borgo Val di Taro.",
+                  "category": "religious",
+                  "coords": [
+                        9.766119,
+                        44.487836
+                  ]
+            },
+            {
+                  "name": "Monumento ad Elisabetta Farnese",
+                  "text": "Ein öffentliches Denkmal in Borgo Val di Taro, das Elisabetta Farnese gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.765164,
+                        44.487894
+                  ]
+            },
+            {
+                  "name": "Arco Bertucci",
+                  "text": "Ein historisches Denkmal in der Stadt Borgo Val di Taro.",
+                  "category": "historical",
+                  "coords": [
+                        9.768744,
+                        44.490124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castello di Borgo Val di Taro",
+                  "text": "Egy nevezetes történelmi kastély Borgo Val di Taro városában.",
+                  "category": "castle",
+                  "coords": [
+                        9.76883,
+                        44.488779
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Egy híres istentiszteleti hely Borgo Val di Taro városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.771271,
+                        44.485503
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Egy kiemelkedő templom és istentiszteleti hely Borgo Val di Taro városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.766119,
+                        44.487836
+                  ]
+            },
+            {
+                  "name": "Monumento ad Elisabetta Farnese",
+                  "text": "Egy Elisabetta Farnese-nek szentelt nyilvános emlékmű Borgo Val di Taro-ban.",
+                  "category": "historical",
+                  "coords": [
+                        9.765164,
+                        44.487894
+                  ]
+            },
+            {
+                  "name": "Arco Bertucci",
+                  "text": "Egy történelmi emlékmű Borgo Val di Taro városában.",
+                  "category": "historical",
+                  "coords": [
+                        9.768744,
+                        44.490124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castello di Borgo Val di Taro",
+                  "text": "Un castel istoric notabil situat în Borgo Val di Taro.",
+                  "category": "castle",
+                  "coords": [
+                        9.76883,
+                        44.488779
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Un lăcaș de cult renumit situat în Borgo Val di Taro.",
+                  "category": "religious",
+                  "coords": [
+                        9.771271,
+                        44.485503
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "O biserică proeminentă ce servește ca lăcaș de cult în Borgo Val di Taro.",
+                  "category": "religious",
+                  "coords": [
+                        9.766119,
+                        44.487836
+                  ]
+            },
+            {
+                  "name": "Monumento ad Elisabetta Farnese",
+                  "text": "Un monument public dedicat Elisabetei Farnese în Borgo Val di Taro.",
+                  "category": "historical",
+                  "coords": [
+                        9.765164,
+                        44.487894
+                  ]
+            },
+            {
+                  "name": "Arco Bertucci",
+                  "text": "Un monument istoric aflat în orașul Borgo Val di Taro.",
+                  "category": "historical",
+                  "coords": [
+                        9.768744,
+                        44.490124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castello di Borgo Val di Taro",
+                  "text": "A notable historic castle located in Borgo Val di Taro.",
+                  "category": "castle",
+                  "coords": [
+                        9.76883,
+                        44.488779
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "A renowned place of worship situated in Borgo Val di Taro.",
+                  "category": "religious",
+                  "coords": [
+                        9.771271,
+                        44.485503
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "A prominent church serving as a place of worship in Borgo Val di Taro.",
+                  "category": "religious",
+                  "coords": [
+                        9.766119,
+                        44.487836
+                  ]
+            },
+            {
+                  "name": "Monumento ad Elisabetta Farnese",
+                  "text": "A public monument dedicated to Elisabetta Farnese in Borgo Val di Taro.",
+                  "category": "historical",
+                  "coords": [
+                        9.765164,
+                        44.487894
+                  ]
+            },
+            {
+                  "name": "Arco Bertucci",
+                  "text": "A historical monument found in the city of Borgo Val di Taro.",
+                  "category": "historical",
+                  "coords": [
+                        9.768744,
+                        44.490124
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IT",
     name: { de: "Borgo Val di Taro", hu: "Borgo Val di Taro", ro: "Borgo Val di Taro", en: "Borgo Val di Taro" },

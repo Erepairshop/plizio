@@ -10920,7 +10920,340 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Lieu de la bataille décisive de Kilkis en juin 1913.", "Site industriel important doté d'une grande zone industrielle (VIPE).", "Abrite la grotte d'Agios Georgios longue de plus de 300 mètres.", "Centre important pour la culture céréalière dans le nord de la Grèce.", "Une grande partie de la population descend de réfugiés du Pont.", "Située à seulement 50 kilomètres environ au nord de Thessalonique."],
     }, image: "/poi-images/city-kilkis-extra.webp"},
   {
-    id: "city-drama-extra", "sights": {"de": [{"name": "Limni Agias Varvaras", "text": "Der See Λίμνη Αγίας Βαρβάρας in Drama ist bekannt für seine idyllische Umgebung und klares Wasser.", "category": "natural", "coords": [24.141118, 41.150432]}, {"name": "Kallifytos Reservoir", "text": "Das Kallifytos Reservoir in Drama eignet sich hervorragend für ruhige Wanderungen am Wasser.", "category": "natural", "coords": [24.210841, 41.169013]}, {"name": "Techniti limni Mylopotamoy", "text": "Das Mylopotamos Reservoir in Drama bietet malerische Ausblicke und ist ein schönes Ziel für Naturliebhaber.", "category": "natural", "coords": [24.070797, 41.141844]}, {"name": "Paidiki Chara Dioikitirioy", "text": "Der Spielplatz Παιδική Χαρά Διοικητηρίου in Drama hält viele tolle Spielgeräte für einen spaßigen Familienausflug bereit.", "category": "family", "coords": [24.149877, 41.145116]}], "hu": [{"name": "Limni Agias Varvaras", "text": "A Drama városában lévő Λίμνη Αγίας Βαρβάρας tó idillikus környezetéről és tiszta vizéről ismert.", "category": "natural", "coords": [24.141118, 41.150432]}, {"name": "Kallifytos Reservoir", "text": "A Drama melletti Kallifytos Reservoir kiválóan alkalmas békés vízparti túrákra.", "category": "natural", "coords": [24.210841, 41.169013]}, {"name": "Techniti limni Mylopotamoy", "text": "A Drama-i Mylopotamos Reservoir festői kilátást nyújt és remek célpont a természet kedvelőinek.", "category": "natural", "coords": [24.070797, 41.141844]}, {"name": "Paidiki Chara Dioikitirioy", "text": "A Drama-ban található Παιδική Χαρά Διοικητηρίου játszótér sok nagyszerű játékkal várja a családokat egy vidám kirándulásra.", "category": "family", "coords": [24.149877, 41.145116]}], "ro": [{"name": "Limni Agias Varvaras", "text": "Lacul Λίμνη Αγίας Βαρβάρας din Drama este cunoscut pentru împrejurimile sale idilice și apa curată.", "category": "natural", "coords": [24.141118, 41.150432]}, {"name": "Kallifytos Reservoir", "text": "Kallifytos Reservoir din Drama este excelent pentru drumeții liniștite de-a lungul apei.", "category": "natural", "coords": [24.210841, 41.169013]}, {"name": "Techniti limni Mylopotamoy", "text": "Mylopotamos Reservoir din Drama oferă priveliști pitorești și este o destinație minunată pentru iubitorii de natură.", "category": "natural", "coords": [24.070797, 41.141844]}, {"name": "Paidiki Chara Dioikitirioy", "text": "Locul de joacă Παιδική Χαρά Διοικητηρίου din Drama are multe echipamente grozave pentru o ieșire plină de distracție în familie.", "category": "family", "coords": [24.149877, 41.145116]}], "en": [{"name": "Limni Agias Varvaras", "text": "The Λίμνη Αγίας Βαρβάρας lake in Drama is known for its idyllic surroundings and clear water.", "category": "natural", "coords": [24.141118, 41.150432]}, {"name": "Kallifytos Reservoir", "text": "The Kallifytos Reservoir in Drama is perfectly suited for peaceful hikes along the water.", "category": "natural", "coords": [24.210841, 41.169013]}, {"name": "Mylopotamos reeservoir", "text": "The Mylopotamos Reservoir in Drama offers scenic views and is a lovely destination for nature lovers.", "category": "natural", "coords": [24.070797, 41.141844]}, {"name": "Paidiki Chara Dioikitirioy", "text": "The Παιδική Χαρά Διοικητηρίου playground in Drama features many great play structures for a fun family outing.", "category": "family", "coords": [24.149877, 41.145116]}]},
+    id: "city-drama-extra", "sights": {
+      "de": [
+            {
+                  "name": "Limni Agias Varvaras",
+                  "text": "Der See Λίμνη Αγίας Βαρβάρας in Drama ist bekannt für seine idyllische Umgebung und klares Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "Das Kallifytos Reservoir in Drama eignet sich hervorragend für ruhige Wanderungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Techniti limni Mylopotamoy",
+                  "text": "Das Mylopotamos Reservoir in Drama bietet malerische Ausblicke und ist ein schönes Ziel für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Dioikitirioy",
+                  "text": "Der Spielplatz Παιδική Χαρά Διοικητηρίου in Drama hält viele tolle Spielgeräte für einen spaßigen Familienausflug bereit.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Drama",
+                  "text": "Das Archäologische Museum von Drama präsentiert historische Artefakte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        24.143342,
+                        41.148001
+                  ]
+            },
+            {
+                  "name": "Pamboukas Mansion",
+                  "text": "Das Pamboukas-Herrenhaus ist eine bemerkenswerte architektonische Attraktion in Drama.",
+                  "category": "landmark",
+                  "coords": [
+                        24.139173,
+                        41.151045
+                  ]
+            },
+            {
+                  "name": "Tzimou Mansion",
+                  "text": "Das Tzimou-Herrenhaus ist ein historisches Gebäude in Drama.",
+                  "category": "historical",
+                  "coords": [
+                        24.138297,
+                        41.149582
+                  ]
+            },
+            {
+                  "name": "Byzantine walls of Drama",
+                  "text": "Die byzantinischen Mauern von Drama sind Überreste einer alten Festungsanlage der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        24.143459,
+                        41.152895
+                  ]
+            },
+            {
+                  "name": "Eastern Byzantine Walls",
+                  "text": "Die östlichen byzantinischen Mauern bilden historische Ruinen in Drama.",
+                  "category": "historical",
+                  "coords": [
+                        24.144763,
+                        41.151494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limni Agias Varvaras",
+                  "text": "A Drama városában lévő Λίμνη Αγίας Βαρβάρας tó idillikus környezetéről és tiszta vizéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "A Drama melletti Kallifytos Reservoir kiválóan alkalmas békés vízparti túrákra.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Techniti limni Mylopotamoy",
+                  "text": "A Drama-i Mylopotamos Reservoir festői kilátást nyújt és remek célpont a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Dioikitirioy",
+                  "text": "A Drama-ban található Παιδική Χαρά Διοικητηρίου játszótér sok nagyszerű játékkal várja a családokat egy vidám kirándulásra.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Drama",
+                  "text": "A Dramai Régészeti Múzeum a régió történelmi leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.143342,
+                        41.148001
+                  ]
+            },
+            {
+                  "name": "Pamboukas Mansion",
+                  "text": "A Pamboukas-kúria egy figyelemre méltó építészeti látványosság Drama városában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.139173,
+                        41.151045
+                  ]
+            },
+            {
+                  "name": "Tzimou Mansion",
+                  "text": "A Tzimou-kúria egy történelmi épület Drama városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.138297,
+                        41.149582
+                  ]
+            },
+            {
+                  "name": "Byzantine walls of Drama",
+                  "text": "Drama bizánci falai a város egykori erődítményének maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        24.143459,
+                        41.152895
+                  ]
+            },
+            {
+                  "name": "Eastern Byzantine Walls",
+                  "text": "A keleti bizánci falak történelmi romokat képeznek Drama városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.144763,
+                        41.151494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limni Agias Varvaras",
+                  "text": "Lacul Λίμνη Αγίας Βαρβάρας din Drama este cunoscut pentru împrejurimile sale idilice și apa curată.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "Kallifytos Reservoir din Drama este excelent pentru drumeții liniștite de-a lungul apei.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Techniti limni Mylopotamoy",
+                  "text": "Mylopotamos Reservoir din Drama oferă priveliști pitorești și este o destinație minunată pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Dioikitirioy",
+                  "text": "Locul de joacă Παιδική Χαρά Διοικητηρίου din Drama are multe echipamente grozave pentru o ieșire plină de distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Drama",
+                  "text": "Muzeul Arheologic din Drama prezintă artefacte istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        24.143342,
+                        41.148001
+                  ]
+            },
+            {
+                  "name": "Pamboukas Mansion",
+                  "text": "Conacul Pamboukas este o atracție arhitecturală notabilă din Drama.",
+                  "category": "landmark",
+                  "coords": [
+                        24.139173,
+                        41.151045
+                  ]
+            },
+            {
+                  "name": "Tzimou Mansion",
+                  "text": "Conacul Tzimou este o clădire istorică situată în Drama.",
+                  "category": "historical",
+                  "coords": [
+                        24.138297,
+                        41.149582
+                  ]
+            },
+            {
+                  "name": "Byzantine walls of Drama",
+                  "text": "Zidurile bizantine din Drama sunt rămășițele unei vechi fortificații a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        24.143459,
+                        41.152895
+                  ]
+            },
+            {
+                  "name": "Eastern Byzantine Walls",
+                  "text": "Zidurile bizantine de est reprezintă ruine istorice în Drama.",
+                  "category": "historical",
+                  "coords": [
+                        24.144763,
+                        41.151494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limni Agias Varvaras",
+                  "text": "The Λίμνη Αγίας Βαρβάρας lake in Drama is known for its idyllic surroundings and clear water.",
+                  "category": "natural",
+                  "coords": [
+                        24.141118,
+                        41.150432
+                  ]
+            },
+            {
+                  "name": "Kallifytos Reservoir",
+                  "text": "The Kallifytos Reservoir in Drama is perfectly suited for peaceful hikes along the water.",
+                  "category": "natural",
+                  "coords": [
+                        24.210841,
+                        41.169013
+                  ]
+            },
+            {
+                  "name": "Mylopotamos reeservoir",
+                  "text": "The Mylopotamos Reservoir in Drama offers scenic views and is a lovely destination for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        24.070797,
+                        41.141844
+                  ]
+            },
+            {
+                  "name": "Paidiki Chara Dioikitirioy",
+                  "text": "The Παιδική Χαρά Διοικητηρίου playground in Drama features many great play structures for a fun family outing.",
+                  "category": "family",
+                  "coords": [
+                        24.149877,
+                        41.145116
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Drama",
+                  "text": "The Archaeological Museum of Drama displays historical artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.143342,
+                        41.148001
+                  ]
+            },
+            {
+                  "name": "Pamboukas Mansion",
+                  "text": "The Pamboukas Mansion is a notable architectural attraction in Drama.",
+                  "category": "landmark",
+                  "coords": [
+                        24.139173,
+                        41.151045
+                  ]
+            },
+            {
+                  "name": "Tzimou Mansion",
+                  "text": "The Tzimou Mansion is a historic manor located in Drama.",
+                  "category": "historical",
+                  "coords": [
+                        24.138297,
+                        41.149582
+                  ]
+            },
+            {
+                  "name": "Byzantine walls of Drama",
+                  "text": "The Byzantine walls of Drama are the remains of an ancient fortification in the city.",
+                  "category": "castle",
+                  "coords": [
+                        24.143459,
+                        41.152895
+                  ]
+            },
+            {
+                  "name": "Eastern Byzantine Walls",
+                  "text": "The Eastern Byzantine Walls form historic ruins in the city of Drama.",
+                  "category": "historical",
+                  "coords": [
+                        24.144763,
+                        41.151494
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-B",
     coords: [24.1481, 41.1511],

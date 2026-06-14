@@ -1119,7 +1119,268 @@ export const austriaEconomicV2: POI[] = [
     image: "/poi-images/austria-ried-im-innkreis-economic-v2.webp",
   },
   {
-    id: "austria-bad-wimsbach-economic-v2",
+    id: "austria-bad-wimsbach-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Freilichtmuseum Hackenschmiede",
+                  "text": "Das Freilichtmuseum Hackenschmiede ist ein Freilichtmuseum in Bad Wimsbach-Neydharting.",
+                  "category": "museum",
+                  "coords": [
+                        13.904442,
+                        48.063726
+                  ]
+            },
+            {
+                  "name": "Tempus",
+                  "text": "Tempus ist ein Museum in Bad Wimsbach-Neydharting.",
+                  "category": "museum",
+                  "coords": [
+                        13.903086,
+                        48.063857
+                  ]
+            },
+            {
+                  "name": "Schloss Wimsbach",
+                  "text": "Schloss Wimsbach ist ein historisches Schloss in der Gemeinde Bad Wimsbach-Neydharting.",
+                  "category": "castle",
+                  "coords": [
+                        13.899853,
+                        48.062367
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "Die Villa Rustica ist eine archäologische Stätte in Bad Wimsbach-Neydharting.",
+                  "category": "historical",
+                  "coords": [
+                        13.897903,
+                        48.075185
+                  ]
+            },
+            {
+                  "name": "Schloss Almegg",
+                  "text": "Schloss Almegg ist ein bemerkenswertes Schlossgebäude in Bad Wimsbach-Neydharting.",
+                  "category": "castle",
+                  "coords": [
+                        13.920532,
+                        48.070568
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "FKK ist ein Strandbereich in Bad Wimsbach-Neydharting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914073,
+                        48.073532
+                  ]
+            },
+            {
+                  "name": "Time Out Park",
+                  "text": "Der Time Out Park ist ein Freizeitpark in Bad Wimsbach-Neydharting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.922205,
+                        48.067296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Freilichtmuseum Hackenschmiede",
+                  "text": "A Freilichtmuseum Hackenschmiede egy szabadtéri múzeum Bad Wimsbach-Neydhartingban.",
+                  "category": "museum",
+                  "coords": [
+                        13.904442,
+                        48.063726
+                  ]
+            },
+            {
+                  "name": "Tempus",
+                  "text": "A Tempus egy múzeum Bad Wimsbach-Neydhartingban.",
+                  "category": "museum",
+                  "coords": [
+                        13.903086,
+                        48.063857
+                  ]
+            },
+            {
+                  "name": "Schloss Wimsbach",
+                  "text": "A Schloss Wimsbach egy történelmi kastély Bad Wimsbach-Neydharting községben.",
+                  "category": "castle",
+                  "coords": [
+                        13.899853,
+                        48.062367
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "A Villa Rustica egy régészeti lelőhely Bad Wimsbach-Neydhartingban.",
+                  "category": "historical",
+                  "coords": [
+                        13.897903,
+                        48.075185
+                  ]
+            },
+            {
+                  "name": "Schloss Almegg",
+                  "text": "A Schloss Almegg egy nevezetes kastélyépület Bad Wimsbach-Neydhartingban.",
+                  "category": "castle",
+                  "coords": [
+                        13.920532,
+                        48.070568
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "Az FKK egy strand terület Bad Wimsbach-Neydhartingban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914073,
+                        48.073532
+                  ]
+            },
+            {
+                  "name": "Time Out Park",
+                  "text": "A Time Out Park egy vidámpark Bad Wimsbach-Neydhartingban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.922205,
+                        48.067296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Freilichtmuseum Hackenschmiede",
+                  "text": "Freilichtmuseum Hackenschmiede este un muzeu în aer liber din Bad Wimsbach-Neydharting.",
+                  "category": "museum",
+                  "coords": [
+                        13.904442,
+                        48.063726
+                  ]
+            },
+            {
+                  "name": "Tempus",
+                  "text": "Tempus este un muzeu din Bad Wimsbach-Neydharting.",
+                  "category": "museum",
+                  "coords": [
+                        13.903086,
+                        48.063857
+                  ]
+            },
+            {
+                  "name": "Schloss Wimsbach",
+                  "text": "Schloss Wimsbach este un castel istoric situat în Bad Wimsbach-Neydharting.",
+                  "category": "castle",
+                  "coords": [
+                        13.899853,
+                        48.062367
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "Villa Rustica este un sit arheologic din Bad Wimsbach-Neydharting.",
+                  "category": "historical",
+                  "coords": [
+                        13.897903,
+                        48.075185
+                  ]
+            },
+            {
+                  "name": "Schloss Almegg",
+                  "text": "Schloss Almegg este un castel notabil situat în Bad Wimsbach-Neydharting.",
+                  "category": "castle",
+                  "coords": [
+                        13.920532,
+                        48.070568
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "FKK este o zonă de plajă în Bad Wimsbach-Neydharting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914073,
+                        48.073532
+                  ]
+            },
+            {
+                  "name": "Time Out Park",
+                  "text": "Time Out Park este un parc tematic din Bad Wimsbach-Neydharting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.922205,
+                        48.067296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Freilichtmuseum Hackenschmiede",
+                  "text": "Freilichtmuseum Hackenschmiede is an open-air museum in Bad Wimsbach-Neydharting.",
+                  "category": "museum",
+                  "coords": [
+                        13.904442,
+                        48.063726
+                  ]
+            },
+            {
+                  "name": "Tempus",
+                  "text": "Tempus is a museum located in Bad Wimsbach-Neydharting.",
+                  "category": "museum",
+                  "coords": [
+                        13.903086,
+                        48.063857
+                  ]
+            },
+            {
+                  "name": "Schloss Wimsbach",
+                  "text": "Schloss Wimsbach is a historic castle located in Bad Wimsbach-Neydharting.",
+                  "category": "castle",
+                  "coords": [
+                        13.899853,
+                        48.062367
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "Villa Rustica is an archaeological site in Bad Wimsbach-Neydharting.",
+                  "category": "historical",
+                  "coords": [
+                        13.897903,
+                        48.075185
+                  ]
+            },
+            {
+                  "name": "Schloss Almegg",
+                  "text": "Schloss Almegg is a notable castle building situated in Bad Wimsbach-Neydharting.",
+                  "category": "castle",
+                  "coords": [
+                        13.920532,
+                        48.070568
+                  ]
+            },
+            {
+                  "name": "FKK",
+                  "text": "FKK is a beach area in Bad Wimsbach-Neydharting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.914073,
+                        48.073532
+                  ]
+            },
+            {
+                  "name": "Time Out Park",
+                  "text": "Time Out Park is a theme park in Bad Wimsbach-Neydharting.",
+                  "category": "recreational",
+                  "coords": [
+                        13.922205,
+                        48.067296
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AT",
     name: { de: "Bad Wimsbach-Neydharting", hu: "Bad Wimsbach-Neydharting", ro: "Bad Wimsbach-Neydharting", en: "Bad Wimsbach-Neydharting" },

@@ -338,6 +338,15 @@ export const poiExtraRoV1: POI[] = [
                         24.62836,
                         45.975541
                   ]
+            },
+            {
+                  "name": "Church Objects Collections of St. Nicholas' Church",
+                  "text": "Die Museumssammlung der St.-Nikolaus-Kirche befindet sich in Agnita.",
+                  "category": "museum",
+                  "coords": [
+                        24.629084,
+                        45.972297
+                  ]
             }
       ],
       "hu": [
@@ -379,6 +388,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.62836,
                         45.975541
+                  ]
+            },
+            {
+                  "name": "Church Objects Collections of St. Nicholas' Church",
+                  "text": "A Szent Miklós-templom egyházi tárgyainak gyűjteménye egy múzeum Agnita városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.629084,
+                        45.972297
                   ]
             }
       ],
@@ -422,6 +440,15 @@ export const poiExtraRoV1: POI[] = [
                         24.62836,
                         45.975541
                   ]
+            },
+            {
+                  "name": "Church Objects Collections of St. Nicholas' Church",
+                  "text": "Colecția de obiecte bisericești a Bisericii Sf. Nicolae este un muzeu din Agnita.",
+                  "category": "museum",
+                  "coords": [
+                        24.629084,
+                        45.972297
+                  ]
             }
       ],
       "en": [
@@ -463,6 +490,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.62836,
                         45.975541
+                  ]
+            },
+            {
+                  "name": "Church Objects Collections of St. Nicholas' Church",
+                  "text": "The Church Objects Collections of St. Nicholas' Church is a museum in Agnita.",
+                  "category": "museum",
+                  "coords": [
+                        24.629084,
+                        45.972297
                   ]
             }
       ]
@@ -698,6 +734,24 @@ export const poiExtraRoV1: POI[] = [
                         27.328959,
                         44.607278
                   ]
+            },
+            {
+                  "name": "Plaja Nudiștilor (barbati)",
+                  "text": "Plaja Nudiștilor (barbati) ist ein lokaler FKK-Strand für Männer in Amara.",
+                  "category": "recreational",
+                  "coords": [
+                        27.326632,
+                        44.607287
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Amara",
+                  "text": "Teatrul de Vară Amara ist ein Sommertheater, das kulturelle Aufführungen in der Stadt anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.330511,
+                        44.611588
+                  ]
             }
       ],
       "hu": [
@@ -729,6 +783,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.328959,
                         44.607278
+                  ]
+            },
+            {
+                  "name": "Plaja Nudiștilor (barbati)",
+                  "text": "A Plaja Nudiștilor (barbati) egy helyi férfi nudista strand Amara városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.326632,
+                        44.607287
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Amara",
+                  "text": "A Teatrul de Vară Amara egy nyári színház, amely kulturális előadásoknak ad otthont a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        27.330511,
+                        44.611588
                   ]
             }
       ],
@@ -762,6 +834,24 @@ export const poiExtraRoV1: POI[] = [
                         27.328959,
                         44.607278
                   ]
+            },
+            {
+                  "name": "Plaja Nudiștilor (barbati)",
+                  "text": "Plaja Nudiștilor (bărbați) este o plajă locală destinată nudiștilor, situată în Amara.",
+                  "category": "recreational",
+                  "coords": [
+                        27.326632,
+                        44.607287
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Amara",
+                  "text": "Teatrul de Vară Amara este un teatru de vară care găzduiește spectacole culturale în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        27.330511,
+                        44.611588
+                  ]
             }
       ],
       "en": [
@@ -793,6 +883,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.328959,
                         44.607278
+                  ]
+            },
+            {
+                  "name": "Plaja Nudiștilor (barbati)",
+                  "text": "Plaja Nudiștilor (barbati) is a local men's nudist beach situated in Amara.",
+                  "category": "recreational",
+                  "coords": [
+                        27.326632,
+                        44.607287
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Amara",
+                  "text": "Teatrul de Vară Amara is a summer theater offering cultural performances in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        27.330511,
+                        44.611588
                   ]
             }
       ]
@@ -2955,6 +3063,15 @@ export const poiExtraRoV1: POI[] = [
                         23.69324,
                         47.672764
                   ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "Die römisch-katholische Kirche ist ein Gotteshaus in Baia Sprie.",
+                  "category": "religious",
+                  "coords": [
+                        23.70001,
+                        47.662942
+                  ]
             }
       ],
       "hu": [
@@ -2993,6 +3110,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.69324,
                         47.672764
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "A római katolikus templom egy istentiszteleti hely Felsőbányán (Baia Sprie).",
+                  "category": "religious",
+                  "coords": [
+                        23.70001,
+                        47.662942
                   ]
             }
       ],
@@ -3033,6 +3159,15 @@ export const poiExtraRoV1: POI[] = [
                         23.69324,
                         47.672764
                   ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "Biserica Romano-Catolică este un lăcaș de cult situat în Baia Sprie.",
+                  "category": "religious",
+                  "coords": [
+                        23.70001,
+                        47.662942
+                  ]
             }
       ],
       "en": [
@@ -3071,6 +3206,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.69324,
                         47.672764
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "The Roman Catholic Church is a place of worship located in Baia Sprie.",
+                  "category": "religious",
+                  "coords": [
+                        23.70001,
+                        47.662942
                   ]
             }
       ]
@@ -3333,10 +3477,86 @@ export const poiExtraRoV1: POI[] = [
   {"id": "barbulesti", "type": "city", "parent": "RO-IL", "coords": [26.599166666, 44.726111111], "population": 7878, "name": {"de": "Bărbulești", "hu": "Bărbulești", "ro": "Bărbulești", "en": "Bărbulești"}, "descriptionAdvanced": {"de": "Bărbulești ist eine Gemeinde im Kreis Ialomița, gelegen in der weiten und fruchtbaren Bărăgan-Ebene im Südosten Rumäniens. Die Gemeinde zeichnet sich durch eine außergewöhnliche demografische Dynamik aus, da sie eine der höchsten Geburtenraten des Landes aufweist und fast ausschließlich von der ethnischen Minderheit der Roma bewohnt wird. Geografisch liegt der Ort unweit der Stadt Urziceni und ist eingebettet in eine Landschaft, die fast ausschließlich durch intensive Landwirtschaft geprägt ist. Die Geschichte von Bărbulești ist eng mit der Migration und Sesshaftwerdung von Roma-Gemeinschaften in der Walachei verbunden. Im Gegensatz zu vielen anderen ländlichen Gebieten Rumäniens, die unter Abwanderung leiden, verzeichnet Bărbulești ein stetiges Bevölkerungswachstum. Die Architektur des Dorfes ist einzigartig, mit vielen großzügigen, oft farbenfrohen Wohnhäusern, die den wirtschaftlichen Erfolg einiger Bewohner widerspiegeln, die im Ausland arbeiten. Kulturell ist der Ort ein Zentrum für pfingstlerische Glaubensgemeinschaften, was das soziale Gefüge und den Alltag der Bewohner stark beeinflusst. Die Wirtschaft basiert auf einer Mischung aus saisonaler Arbeit, Kleingewerbe und lokaler Landwirtschaft, wobei die Gemeinde eine starke interne Solidarität pflegt.", "hu": "Bărbulești egy különleges település Romániában, Ialomița megyében, a Bărăgan-alföld szívében. A község az ország egyik legfiatalabb demográfiai összetételével rendelkezik, köszönhetően a rendkívül magas születésszámnak. A lakosság szinte teljes egésze roma etnikumú, ami meghatározza a falu kulturális és nyelvi arculatát; sokan ma is beszélik a romani nyelvet a román mellett. Földrajzilag Urziceni városának szomszédságában található, sík vidéken, ahol a végtelen gabonatáblák uralják a horizontot. A település az utóbbi évtizedekben jelentős változáson ment keresztül: a hagyományos vályogházak helyét sok esetben hatalmas, többszintes épületek vették át, amelyeket a külföldön dolgozó helyiek építtettek. A közösségi élet egyik legfontosabb oszlopa a vallás, különösen a pünkösdi-karizmatikus mozgalom, amely jelentős hatást gyakorol a mindennapi erkölcsre és a szociális kapcsolatokra. Bărbulești gazdasága erősen függ a mobilitástól, a lakók nagy része Európa-szerte keresi boldogulását, de szoros kapcsolatot ápolnak szülőfalujukkal, folyamatosan befektetve az otthoni infrastruktúrába és családi életbe.", "ro": "Bărbulești este o comună unică în peisajul rural al județului Ialomița, situată în Câmpia Bărăganului, în imediata apropiere a municipiului Urziceni. Localitatea este renumită la nivel național pentru profilul său demografic atipic, având una dintre cele mai mari densități de populație tânără și o rată a natalității care sfidează tendințele de îmbătrânire din restul țării. Populația este formată aproape în totalitate din cetățeni de etnie romă, aspect care conferă comunei o identitate culturală vibrantă și specifică. Din punct de vedere economic, Bărbulești a cunoscut o transformare vizibilă prin remitențele trimise de locuitorii care lucrează în străinătate, rezultând într-o arhitectură locală eclectică, cu imobile impunătoare. Un element central al vieții sociale este apartenența majorității locuitorilor la cultul penticostal, biserica jucând un rol crucial în medierea conflictelor și în organizarea comunitară. Deși situată într-o zonă agricolă aridă, viața în Bărbulești este departe de monotonia rurală obișnuită, fiind marcată de un dinamism comercial și social intens. Comuna reprezintă un studiu de caz interesant despre reziliența comunitară și adaptarea unei minorități la economia globală, păstrând în același timp legături strânse cu tradițiile locului.", "en": "Bărbulești is a commune in Ialomița County, situated in the heart of the Bărăgan Plain, near the town of Urziceni. It is widely recognized in Romania for its unique demographic profile, boasting one of the highest birth rates and the youngest population in the country. The commune is almost exclusively inhabited by the Roma minority, making it a culturally distinct settlement where traditional community bonds remain exceptionally strong. Geographically, the area is part of the vast, flat agricultural lands of southeastern Romania, characterized by hot summers and cold, windy winters. In recent years, Bărbulești has undergone a significant architectural transformation, with many residents building large, elaborate homes using earnings from labor abroad, particularly in Western Europe. Social life is heavily influenced by the Pentecostal faith, which has become a dominant spiritual and organizational force within the community. The economy is driven by a mix of local trade and international labor migration, reflecting the high mobility of its citizens. Despite being a rural settlement, Bărbulești exhibits an urban-like density and a lively atmosphere that sets it apart from the typically depopulating villages of the Romanian plains."}, "factsAdvanced": {"de": ["Liegt in der Bărăgan-Ebene, der 'Kornkammer' Rumäniens", "Eine der höchsten Geburtenraten landesweit", "Fast 100% der Bevölkerung gehört der Volksgruppe der Roma an", "Liegt nur ca. 4 Kilometer von der Stadt Urziceni entfernt", "Starkes Zentrum des pentekostalen (pfingstlerischen) Glaubens", "Die Bevölkerung wächst im Gegensatz zum nationalen Trend stetig"], "hu": ["A község lakossága szinte 100%-ban roma származású", "Románia egyik legmagasabb természetes szaporodási rátájával bír", "Urziceni városának közvetlen vonzáskörzetében fekszik", "A falu látképét a nagyméretű, modern építésű házak határozzák meg", "A lakosság döntő többsége a pünkösdi felekezethez tartozik", "A Bărăgan-alföldre jellemző kontinentális éghajlat uralkodik itt"], "ro": ["Comuna are una dintre cele mai tinere populații din România", "Situată în județul Ialomița, în Câmpia Bărăganului", "Aproape toți locuitorii sunt de etnie romă", "Religia majoritară este cea penticostală, cu un impact social mare", "Localitatea a fost separată administrativ de comuna Armășești în 2004", "Economia se bazează pe comerț și munca în afara granițelor țării"], "en": ["Characterized by a very high density of population for a rural area", "Located near the junction of major roads linking Bucharest to Moldova", "Demographically unique due to the extremely high percentage of children", "The commune has seen rapid expansion of its built-up area", "Pentecostalism is a key factor in the community's social structure", "Agriculture is the main land use surrounding the settlement"]}, "faq": {"de": [{"q": "Warum ist die Bevölkerung von Bărbulești so jung?", "a": "Aufgrund traditioneller Familienstrukturen und einer sehr hohen Geburtenrate innerhalb der Roma-Gemeinschaft."}, {"q": "Kann man die Gemeinde besuchen?", "a": "Ja, sie liegt verkehrsgünstig an der Straße nach Urziceni, ist aber eher ein Wohnort als ein Touristenziel."}, {"q": "Welche Sprache wird in Bărbulești gesprochen?", "a": "Rumänisch ist die Amtssprache, aber Romani wird im Alltag sehr häufig gesprochen."}, {"q": "Gibt es dort Industrie?", "a": "Nein, die Wirtschaft basiert eher auf Dienstleistungen, Handel und Landwirtschaft."}], "hu": [{"q": "Milyen messze van Bărbulești Bukaresttől?", "a": "Körülbelül 60 kilométerre északkeletre található."}, {"q": "Miért különleges a település vallási élete?", "a": "Mert a pünkösdi hit mélyen átszövi a mindennapokat és a közösségi szabályokat."}, {"q": "Hányan laknak a községben?", "a": "A legutóbbi adatok szerint közel 8000 fő, ami folyamatosan nő."}, {"q": "Van-e iskola a településen?", "a": "Igen, de a nagy gyereklétszám miatt az oktatási infrastruktúra folyamatos bővítésre szorul."}], "ro": [{"q": "Este Bărbulești o comună separată?", "a": "Da, din anul 2004 este unitate administrativă de sine stătătoare."}, {"q": "Care este specificul arhitectural al zonei?", "a": "Case mari, adesea cu multe niveluri, construite în stil modern-eclectic."}, {"q": "Cum influențează religia viața locală?", "a": "Biserica penticostală are un rol major în educație și menținerea ordinii sociale."}, {"q": "Ce se cultivă în împrejurimi?", "a": "Grâu, porumb și floarea-soarelui, specifice Câmpiei Bărăganului."}], "en": [{"q": "What is the main ethnic group in Bărbulești?", "a": "The population is almost entirely of Roma ethnicity."}, {"q": "Is the town growing or shrinking?", "a": "Unlike most Romanian villages, Bărbulești is growing rapidly."}, {"q": "Where do the residents work?", "a": "Many work abroad in Western Europe, while others are involved in local trade."}, {"q": "What is the climate like?", "a": "Typical steppe climate with very hot summers and cold winters."}]},
   "tier": 5,
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "Die Biserica „Sfântul Gheorghe” ist eine Kirche in Bărbulești.",
+                  "category": "religious",
+                  "coords": [
+                        26.586004,
+                        44.74648
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "Die Nikolauskirche ist eine heilige Stätte im rumänischen Bărbulești.",
+                  "category": "religious",
+                  "coords": [
+                        26.597052,
+                        44.725057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "A Biserica „Sfântul Gheorghe” egy vallási épület Bărbulești településén.",
+                  "category": "religious",
+                  "coords": [
+                        26.586004,
+                        44.74648
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "A Szent Miklós-templom egy szent hely a romániai Bărbuleštiben.",
+                  "category": "religious",
+                  "coords": [
+                        26.597052,
+                        44.725057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "Biserica „Sfântul Gheorghe” este un locaș de cult creștin din Bărbulești.",
+                  "category": "religious",
+                  "coords": [
+                        26.586004,
+                        44.74648
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "Biserica Sfântul Nicolae este un locaș sfânt situat în Bărbulești.",
+                  "category": "religious",
+                  "coords": [
+                        26.597052,
+                        44.725057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "Biserica „Sfântul Gheorghe” is a Christian place of worship in Bărbulești.",
+                  "category": "religious",
+                  "coords": [
+                        26.586004,
+                        44.74648
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Church",
+                  "text": "Saint Nicholas Church is a holy site located in Bărbulești.",
+                  "category": "religious",
+                  "coords": [
+                        26.597052,
+                        44.725057
+                  ]
+            }
+      ]
 }
   },
   {"id": "bascov", "type": "city", "parent": "RO-AG", "coords": [24.816666, 44.9], "population": 5163, "name": {"de": "Bascov", "hu": "Bascov", "ro": "Bascov", "en": "Bascov"}, "descriptionAdvanced": {"de": "Bascov ist eine strategisch wichtige Gemeinde im Kreis Argeș, unmittelbar westlich der Stadt Pitești gelegen. Durch seine Lage am Schnittpunkt wichtiger nationaler Verkehrsader, darunter die Autobahn A1 und die Nationalstraße nach Curtea de Argeș, hat sich der Ort zu einem bedeutenden Industrie- und Logistikzentrum entwickelt. Die Geschichte von Bascov ist eng mit der des Argeș-Tals verbunden, wobei der Ort früher ein wichtiges agrarisches Zentrum war. In den letzten Jahrzehnten hat die Urbanisierung den Ort grundlegend verändert, so dass er heute fast nahtlos in das Stadtgebiet von Pitești übergeht. Geografisch wird Bascov vom Fluss Bascov und dem nahegelegenen Argeß-Stausee geprägt, der nicht nur zur Energiegewinnung, sondern auch zur Erholung genutzt wird. In der Gemeinde befinden sich mehrere große Industrieanlagen, die zahlreiche Arbeitsplätze in der Region schaffen. Trotz des industriellen Wachstums bewahrt Bascov kulturelle Traditionen, die sich in den lokalen Festen und dem Engagement für die Erhaltung historischer Gebäude zeigen. Die Infrastruktur der Gemeinde gehört zu den modernsten im Kreis, was sie zu einem attraktiven Standort für Investoren und junge Familien macht, die die Nähe zur Stadt bei gleichzeitig ruhigerer Wohnlage schätzen.", "hu": "Bascov Argeș megye egyik legdinamikusabban fejlődő települése, amely közvetlenül Pitești városának nyugati határában fekszik. Stratégiai elhelyezkedése miatt, ahol az A1-es autópálya találkozik a Curtea de Argeș felé vezető országúttal, Bascov fontos ipari és logisztikai csomóponttá vált. A település neve a Bascov patakról kapta, amely keresztülfolyik rajta, és a közeli Argeș folyóba torkollik. A múltban Bascov mezőgazdasági jellegű település volt, híres gyümölcsösei ma is részben megmaradtak a domboldalakon. A modern Bascov arculatát azonban már a gyárak, raktárak és az új lakóparkok határozzák meg. A település fontos szerepet játszik a régió árvízvédelmében és energiatermelésében is a közeli gátnak és víztározónak köszönhetően. Kulturális szempontból a közösség aktív, helyi néptánccsoportok és kulturális események őrzik a munténiai hagyományokat. Bascov infrastruktúrája kiváló, az oktatási és egészségügyi intézmények magas színvonalúak, ami hozzájárul a lakosság folyamatos növekedéséhez. A település ideális választás azoknak, akik a nagyváros közelségét keresik, de szeretnének távol maradni a belvárosi forgalomtól és zajtól.", "ro": "Bascov este o localitate de o importanță strategică deosebită din județul Argeș, situată la contactul dintre municipiul Pitești și dealurile subcarpatice. Fiind un nod rutier major unde se întâlnesc autostrada A1, drumul național DN7 către Râmnicu Vâlcea și drumul către Curtea de Argeș, Bascov a cunoscut o dezvoltare economică accelerată, devenind un magnet pentru investiții în logistică și producție industrială. Istoria localității este legată de existența vechilor rute comerciale care legau Muntenia de Transilvania. Un simbol al localității este podul peste râul Bascov și barajul de pe râul Argeș, elemente de infrastructură care definesc peisajul zonei. Comuna a reușit să integreze armonios zonele rezidențiale liniștite cu parcurile industriale moderne, oferind numeroase locuri de muncă locuitorilor săi și celor din împrejurimi. Bascov este renumit și pentru activitatea culturală bogată, fiind sediul unor ansambluri folclorice de prestigiu care promovează dansurile și cântecele din zona Argeșului. De asemenea, în localitate se găsesc importante unități de învățământ și centre medicale care deservesc populația în continuă creștere. Procesul de urbanizare este vizibil prin modernizarea constantă a utilităților și a spațiilor publice, Bascov fiind astăzi mult mai mult decât o suburbie a Piteștiului, având o identitate economică și socială proprie puternică.", "en": "Bascov is a strategically vital settlement in Argeș County, located directly at the western edge of Pitești. It serves as a major transportation hub where the A1 motorway intersects with several national roads, making it a prime location for industrial and logistical development. The town's name is derived from the Bascov stream, which flows through the area and joins the Argeș River. Historically, the area was known for its agriculture and strategic position on the road to Transylvania, but the last few decades have seen a complete transformation into a modern industrial and residential zone. Bascov is home to several major factories and distribution centers that provide thousands of jobs for the local population. The geography of the town is marked by the Bascov dam and reservoir, which are essential for regional water management and energy production. Despite its rapid urbanization, Bascov maintains its cultural roots through local folklore ensembles and traditional celebrations. The town offers high-quality infrastructure, including modern schools and healthcare facilities, attracting young professionals and families. Its unique position as a bridge between the urban environment of Pitești and the rural beauty of the sub-Carpathian hills makes Bascov one of the most dynamic communities in southern Romania."}, "factsAdvanced": {"de": ["Bascov ist der Endpunkt der Autobahn A1 aus Richtung Bukarest.", "Der Ort liegt nur 4 km vom Zentrum von Pitești entfernt.", "Die Gemeinde umfasst die Dörfer Bascov, Glâmbocu und Prislopu Mic.", "Das Wasserkraftwerk Bascov ist ein wichtiger Energieerzeuger.", "Bascov hat eine Bevölkerung von über 5100 Einwohnern.", "Der Ort ist bekannt für seine Brücke über den Fluss Bascov."], "hu": ["Bascov az A1-es autópálya és a DN7-es főút találkozásánál fekszik.", "A település központja mindössze 4 kilométerre van Pitești központjától.", "Közigazgatásilag több falu tartozik hozzá, köztük Bascov és Glâmbocu.", "A Bascov-gát és víztározó kedvelt horgászhely is a helyiek körében.", "A lakosság száma dinamikusan emelkedik az ipari parkok miatt.", "A település híres a munténiai néptánccsoportjairól."], "ro": ["Bascov este punctul de legătură între autostrada A1 și DN7.", "Comuna este formată din 8 sate, cel mai mare fiind Bascov.", "Altitudinea localității variază între 260 și 320 de metri.", "Barajul Bascov a fost construit în anul 1966 pe râul Argeș.", "Localitatea este atestată documentar încă din secolul al XV-lea.", "Populația actuală este de 5163 de locuitori."], "en": ["Bascov is the main gateway for traffic from Bucharest to Transylvania.", "It is located approximately 4 kilometers west of Pitești city center.", "The municipality includes villages such as Bascov and Glâmbocu.", "The Bascov dam was a major engineering project in the 1960s.", "It hosts one of the largest logistics parks in the Argeș region.", "The population has passed the 5,100 mark according to the latest data."]}, "faq": {"de": [{"q": "Ist Bascov eine eigene Stadt?", "a": "Nein, es ist offiziell eine Gemeinde, funktioniert aber wie eine Vorstadt von Pitești."}, {"q": "Welche Industrien gibt es in Bascov?", "a": "Vor allem Automobilzulieferer, Logistik und Lebensmittelverarbeitung."}, {"q": "Gibt es Naturgebiete in Bascov?", "a": "Der Bascov-See bietet Möglichkeiten für Spaziergänge und Angeln."}, {"q": "Wie ist der Verkehr in Bascov?", "a": "Aufgrund der Autobahnanbindung sehr belebt, besonders zu den Stoßzeiten."}], "hu": [{"q": "Milyen a közlekedés Bascovban?", "a": "Nagyon forgalmas, mivel itt halad át a legtöbb Erdélybe tartó jármű."}, {"q": "Lehet-e kirándulni a környéken?", "a": "Igen, a környező dombok és az Argeș partja szép túraútvonalakat kínál."}, {"q": "Van-e vasútállomása Bascovnak?", "a": "Igen, a Pitești-Curtea de Argeș vonalon található megállója."}, {"q": "Mennyire drágák az ingatlanok?", "a": "A pitești árakhoz hasonlóak a nagy kereslet és a jó infrastruktúra miatt."}], "ro": [{"q": "Care este principalul avantaj al locuirii în Bascov?", "a": "Proximitatea față de Pitești și numeroasele oportunități de angajare."}, {"q": "Unde se află barajul Bascov?", "a": "La limita estică a localității, pe râul Argeș."}, {"q": "Există grădinițe și școli bune în Bascov?", "a": "Da, localitatea dispune de instituții de învățământ moderne și bine dotate."}, {"q": "Ce sărbători locale sunt importante?", "a": "Zilele Comunei Bascov, care au loc de obicei în timpul verii."}], "en": [{"q": "Why is Bascov important for transport?", "a": "It connects the A1 motorway with the major national roads to Sibiu and Brașov."}, {"q": "Are there any leisure activities?", "a": "Yes, water sports and fishing are popular at the Bascov reservoir."}, {"q": "Is Bascov suitable for business investments?", "a": "Highly so, due to its excellent logistics and proximity to industrial hubs."}, {"q": "How far is the nearest airport?", "a": "Bucharest Otopeni Airport is about 120 km away via the A1 motorway."}]},
@@ -3507,6 +3727,33 @@ export const poiExtraRoV1: POI[] = [
                         26.098762,
                         46.908499
                   ]
+            },
+            {
+                  "name": "\"Iulia Halaucescu\" Art Museum",
+                  "text": "Das Kunstmuseum \"Iulia Halaucescu\" befindet sich in der Stadt Bicaz.",
+                  "category": "museum",
+                  "coords": [
+                        26.110163,
+                        46.90401
+                  ]
+            },
+            {
+                  "name": "History and Ethnography Museum",
+                  "text": "Das Geschichts- und Ethnografiemuseum ist eine kulturelle Einrichtung in Bicaz.",
+                  "category": "museum",
+                  "coords": [
+                        26.087857,
+                        46.911795
+                  ]
+            },
+            {
+                  "name": "Bicaz",
+                  "text": "Bicaz ist ein Denkmal in der gleichnamigen Stadt Bicaz.",
+                  "category": "historical",
+                  "coords": [
+                        26.117686,
+                        46.901382
+                  ]
             }
       ],
       "hu": [
@@ -3548,6 +3795,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.098762,
                         46.908499
+                  ]
+            },
+            {
+                  "name": "\"Iulia Halaucescu\" Art Museum",
+                  "text": "A \"Iulia Halaucescu\" Művészeti Múzeum Bicaz városában található.",
+                  "category": "museum",
+                  "coords": [
+                        26.110163,
+                        46.90401
+                  ]
+            },
+            {
+                  "name": "History and Ethnography Museum",
+                  "text": "A Történeti és Néprajzi Múzeum egy múzeum Bicaz városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.087857,
+                        46.911795
+                  ]
+            },
+            {
+                  "name": "Bicaz",
+                  "text": "Bicaz egy emlékmű Bicaz városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.117686,
+                        46.901382
                   ]
             }
       ],
@@ -3591,6 +3865,33 @@ export const poiExtraRoV1: POI[] = [
                         26.098762,
                         46.908499
                   ]
+            },
+            {
+                  "name": "\"Iulia Halaucescu\" Art Museum",
+                  "text": "Muzeul de Artă „Iulia Halaucescu” se află în orașul Bicaz.",
+                  "category": "museum",
+                  "coords": [
+                        26.110163,
+                        46.90401
+                  ]
+            },
+            {
+                  "name": "History and Ethnography Museum",
+                  "text": "Muzeul de Istorie și Etnografie este un muzeu din orașul Bicaz.",
+                  "category": "museum",
+                  "coords": [
+                        26.087857,
+                        46.911795
+                  ]
+            },
+            {
+                  "name": "Bicaz",
+                  "text": "Bicaz este un monument aflat în orașul Bicaz.",
+                  "category": "historical",
+                  "coords": [
+                        26.117686,
+                        46.901382
+                  ]
             }
       ],
       "en": [
@@ -3632,6 +3933,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.098762,
                         46.908499
+                  ]
+            },
+            {
+                  "name": "\"Iulia Halaucescu\" Art Museum",
+                  "text": "The \"Iulia Halaucescu\" Art Museum is located in the city of Bicaz.",
+                  "category": "museum",
+                  "coords": [
+                        26.110163,
+                        46.90401
+                  ]
+            },
+            {
+                  "name": "History and Ethnography Museum",
+                  "text": "The History and Ethnography Museum is a cultural institution in Bicaz.",
+                  "category": "museum",
+                  "coords": [
+                        26.087857,
+                        46.911795
+                  ]
+            },
+            {
+                  "name": "Bicaz",
+                  "text": "Bicaz is a monument located in the city of Bicaz.",
+                  "category": "historical",
+                  "coords": [
+                        26.117686,
+                        46.901382
                   ]
             }
       ]
@@ -5252,6 +5580,15 @@ export const poiExtraRoV1: POI[] = [
                         26.25824,
                         44.424348
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie\"",
+                  "text": "Biserica „Sfântul Ilie” ist eine Kultstätte in Brănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.321344,
+                        44.470877
+                  ]
             }
       ],
       "hu": [
@@ -5291,6 +5628,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.25824,
                         44.424348
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie\"",
+                  "text": "A Biserica „Sfântul Ilie” egy istentiszteleti hely Brănești településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.321344,
+                        44.470877
                   ]
             }
       ],
@@ -5332,6 +5678,15 @@ export const poiExtraRoV1: POI[] = [
                         26.25824,
                         44.424348
                   ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie\"",
+                  "text": "Biserica „Sfântul Ilie” este un lăcaș de cult situat în Brănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.321344,
+                        44.470877
+                  ]
             }
       ],
       "en": [
@@ -5371,6 +5726,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.25824,
                         44.424348
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie\"",
+                  "text": "Biserica „Sfântul Ilie” is a place of worship located in Brănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.321344,
+                        44.470877
                   ]
             }
       ]
@@ -6313,6 +6677,15 @@ export const poiExtraRoV1: POI[] = [
                         25.673112,
                         45.171637
                   ]
+            },
+            {
+                  "name": "Trovanți",
+                  "text": "Die Trovanți sind eine natürliche Attraktion in Breaza de Jos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.661514,
+                        45.160907
+                  ]
             }
       ],
       "hu": [
@@ -6333,6 +6706,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.673112,
                         45.171637
+                  ]
+            },
+            {
+                  "name": "Trovanți",
+                  "text": "A Trovanți egy természeti látványosság Breaza de Jos településen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.661514,
+                        45.160907
                   ]
             }
       ],
@@ -6355,6 +6737,15 @@ export const poiExtraRoV1: POI[] = [
                         25.673112,
                         45.171637
                   ]
+            },
+            {
+                  "name": "Trovanți",
+                  "text": "Trovanții reprezintă o atracție naturală situată în Breaza de Jos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.661514,
+                        45.160907
+                  ]
             }
       ],
       "en": [
@@ -6376,6 +6767,15 @@ export const poiExtraRoV1: POI[] = [
                         25.673112,
                         45.171637
                   ]
+            },
+            {
+                  "name": "Trovanți",
+                  "text": "The Trovanți are a natural attraction located in Breaza de Jos.",
+                  "category": "landmark",
+                  "coords": [
+                        25.661514,
+                        45.160907
+                  ]
             }
       ]
 }
@@ -6392,6 +6792,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6605,
                         45.181739
+                  ]
+            },
+            {
+                  "name": "Fagul Prințesei",
+                  "text": "Eine natürliche Touristenattraktion in Breaza de Sus.",
+                  "category": "landmark",
+                  "coords": [
+                        25.623972,
+                        45.196885
                   ]
             }
       ],
@@ -6415,6 +6824,15 @@ export const poiExtraRoV1: POI[] = [
                         25.6605,
                         45.181739
                   ]
+            },
+            {
+                  "name": "Fagul Prințesei",
+                  "text": "Egy természeti turisztikai látványosság Breaza de Sus területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.623972,
+                        45.196885
+                  ]
             }
       ],
       "ro": [
@@ -6427,6 +6845,15 @@ export const poiExtraRoV1: POI[] = [
                         25.6605,
                         45.181739
                   ]
+            },
+            {
+                  "name": "Fagul Prințesei",
+                  "text": "O atracție turistică naturală situată în Breaza de Sus.",
+                  "category": "landmark",
+                  "coords": [
+                        25.623972,
+                        45.196885
+                  ]
             }
       ],
       "en": [
@@ -6438,6 +6865,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6605,
                         45.181739
+                  ]
+            },
+            {
+                  "name": "Fagul Prințesei",
+                  "text": "A natural tourist attraction located in Breaza de Sus.",
+                  "category": "landmark",
+                  "coords": [
+                        25.623972,
+                        45.196885
                   ]
             }
       ]
@@ -9719,6 +10155,15 @@ export const poiExtraRoV1: POI[] = [
                         23.016944,
                         46.372222
                   ]
+            },
+            {
+                  "name": "\"Avram Iancu\" Museum",
+                  "text": "Das Museum \"Avram Iancu\" ist ein Museum in Câmpeni.",
+                  "category": "museum",
+                  "coords": [
+                        23.05243,
+                        46.362877
+                  ]
             }
       ],
       "hu": [
@@ -9760,6 +10205,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.016944,
                         46.372222
+                  ]
+            },
+            {
+                  "name": "\"Avram Iancu\" Museum",
+                  "text": "Az \"Avram Iancu\" Múzeum Câmpeni városában található.",
+                  "category": "museum",
+                  "coords": [
+                        23.05243,
+                        46.362877
                   ]
             }
       ],
@@ -9803,6 +10257,15 @@ export const poiExtraRoV1: POI[] = [
                         23.016944,
                         46.372222
                   ]
+            },
+            {
+                  "name": "\"Avram Iancu\" Museum",
+                  "text": "Muzeul „Avram Iancu” este un muzeu situat în Câmpeni.",
+                  "category": "museum",
+                  "coords": [
+                        23.05243,
+                        46.362877
+                  ]
             }
       ],
       "en": [
@@ -9844,6 +10307,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.016944,
                         46.372222
+                  ]
+            },
+            {
+                  "name": "\"Avram Iancu\" Museum",
+                  "text": "The \"Avram Iancu\" Museum is a museum located in Câmpeni.",
+                  "category": "museum",
+                  "coords": [
+                        23.05243,
+                        46.362877
                   ]
             }
       ]
@@ -10574,6 +11046,33 @@ export const poiExtraRoV1: POI[] = [
                         25.880666,
                         44.441396
                   ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Biserica Sfânta Treime ist ein lokales Gotteshaus in Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.877325,
+                        44.437403
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "Biserica „Sfântul Gheorghe” ist eine religiöse Stätte und ein Gotteshaus in Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.881818,
+                        44.441507
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Biserica „Adormirea Maicii Domnului” ist ein orthodoxes Gotteshaus in Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.871731,
+                        44.419897
+                  ]
             }
       ],
       "hu": [
@@ -10584,6 +11083,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.880666,
                         44.441396
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "A Szentháromság-templom egy helyi istentiszteleti hely Ciorogârlában.",
+                  "category": "religious",
+                  "coords": [
+                        25.877325,
+                        44.437403
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "A Szent György-templom egy vallási helyszín és istentiszteleti hely Ciorogârlában.",
+                  "category": "religious",
+                  "coords": [
+                        25.881818,
+                        44.441507
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Az Istenanya elszenderedése templom egy ortodox istentiszteleti hely Ciorogârlában.",
+                  "category": "religious",
+                  "coords": [
+                        25.871731,
+                        44.419897
                   ]
             }
       ],
@@ -10596,6 +11122,33 @@ export const poiExtraRoV1: POI[] = [
                         25.880666,
                         44.441396
                   ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Biserica Sfânta Treime este un lăcaș de cult local situat în Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.877325,
+                        44.437403
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "Biserica „Sfântul Gheorghe” este un sit religios și lăcaș de cult în Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.881818,
+                        44.441507
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Biserica „Adormirea Maicii Domnului” este un lăcaș de cult ortodox situat în Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.871731,
+                        44.419897
+                  ]
             }
       ],
       "en": [
@@ -10606,6 +11159,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.880666,
                         44.441396
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Biserica Sfânta Treime is a local place of worship located in Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.877325,
+                        44.437403
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe”",
+                  "text": "Biserica „Sfântul Gheorghe” is a religious site and place of worship in Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.881818,
+                        44.441507
+                  ]
+            },
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Biserica „Adormirea Maicii Domnului” is an Orthodox place of worship situated in Ciorogârla.",
+                  "category": "religious",
+                  "coords": [
+                        25.871731,
+                        44.419897
                   ]
             }
       ]
@@ -12915,6 +13495,33 @@ export const poiExtraRoV1: POI[] = [
                         26.365118,
                         46.328576
                   ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "Die Biserica de lemn „Sfinții Voievozi” ist eine traditionelle Holzkirche in Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.479003,
+                        46.390763
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Adormirea Maicii Domnului\"",
+                  "text": "Die Holzkirche „Adormirea Maicii Domnului” ist eine Kultstätte in Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.502428,
+                        46.386617
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Sfântul Nicolae\"",
+                  "text": "Die Biserica de lemn „Sfântul Nicolae” ist eine historische Holzkirche in Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.479085,
+                        46.370452
+                  ]
             }
       ],
       "hu": [
@@ -12935,6 +13542,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.365118,
                         46.328576
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "A Biserica de lemn „Sfinții Voievozi” egy hagyományos fatemplom Dărmănești településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.479003,
+                        46.390763
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Adormirea Maicii Domnului\"",
+                  "text": "Az „Adormirea Maicii Domnului” fatemplom egy istentiszteleti hely Dărmăneštiben.",
+                  "category": "religious",
+                  "coords": [
+                        26.502428,
+                        46.386617
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Sfântul Nicolae\"",
+                  "text": "A Biserica de lemn „Sfântul Nicolae” egy történelmi fatemplom Dărmănești városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.479085,
+                        46.370452
                   ]
             }
       ],
@@ -12957,6 +13591,33 @@ export const poiExtraRoV1: POI[] = [
                         26.365118,
                         46.328576
                   ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "Biserica de lemn „Sfinții Voievozi” este o biserică tradițională de lemn din Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.479003,
+                        46.390763
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Adormirea Maicii Domnului\"",
+                  "text": "Biserica de lemn „Adormirea Maicii Domnului” este un lăcaș de cult localizat în Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.502428,
+                        46.386617
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Sfântul Nicolae\"",
+                  "text": "Biserica de lemn „Sfântul Nicolae” este un locaș sfânt din lemn din Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.479085,
+                        46.370452
+                  ]
             }
       ],
       "en": [
@@ -12977,6 +13638,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.365118,
                         46.328576
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "Biserica de lemn „Sfinții Voievozi” is a traditional wooden church in Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.479003,
+                        46.390763
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Adormirea Maicii Domnului\"",
+                  "text": "The wooden church „Adormirea Maicii Domnului” is a place of worship in Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.502428,
+                        46.386617
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn \"Sfântul Nicolae\"",
+                  "text": "Biserica de lemn „Sfântul Nicolae” is a historic wooden church situated in Dărmănești.",
+                  "category": "religious",
+                  "coords": [
+                        26.479085,
+                        46.370452
                   ]
             }
       ]
@@ -17403,6 +18091,24 @@ export const poiExtraRoV1: POI[] = [
                         23.16325,
                         45.935326
                   ]
+            },
+            {
+                  "name": "Biserica Rotondă din Geoagiu",
+                  "text": "Biserica Rotondă din Geoagiu ist eine historische Rundkirche und eine Sehenswürdigkeit in Geoagiu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.203196,
+                        45.919996
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geoagiu",
+                  "text": "Casa de Cultură Geoagiu ist ein Kulturzentrum und Theater in Geoagiu.",
+                  "category": "cultural",
+                  "coords": [
+                        23.200178,
+                        45.920837
+                  ]
             }
       ],
       "hu": [
@@ -17443,6 +18149,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.16325,
                         45.935326
+                  ]
+            },
+            {
+                  "name": "Biserica Rotondă din Geoagiu",
+                  "text": "A geoagiui Kerek templom egy történelmi látványosság Geoagiu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.203196,
+                        45.919996
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geoagiu",
+                  "text": "A Casa de Cultură Geoagiu egy kulturális központ és színház Geoagiuban.",
+                  "category": "cultural",
+                  "coords": [
+                        23.200178,
+                        45.920837
                   ]
             }
       ],
@@ -17485,6 +18209,24 @@ export const poiExtraRoV1: POI[] = [
                         23.16325,
                         45.935326
                   ]
+            },
+            {
+                  "name": "Biserica Rotondă din Geoagiu",
+                  "text": "Biserica Rotondă din Geoagiu este un lăcaș de cult istoric și o atracție turistică în Geoagiu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.203196,
+                        45.919996
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geoagiu",
+                  "text": "Casa de Cultură Geoagiu este un centru cultural și teatru situat în Geoagiu.",
+                  "category": "cultural",
+                  "coords": [
+                        23.200178,
+                        45.920837
+                  ]
             }
       ],
       "en": [
@@ -17525,6 +18267,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.16325,
                         45.935326
+                  ]
+            },
+            {
+                  "name": "Biserica Rotondă din Geoagiu",
+                  "text": "Biserica Rotondă din Geoagiu is a historic round church serving as a tourist attraction in Geoagiu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.203196,
+                        45.919996
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geoagiu",
+                  "text": "Casa de Cultură Geoagiu is a cultural centre and theatre venue in Geoagiu.",
+                  "category": "cultural",
+                  "coords": [
+                        23.200178,
+                        45.920837
                   ]
             }
       ]
@@ -18928,6 +19688,15 @@ export const poiExtraRoV1: POI[] = [
                         27.100828,
                         45.575724
                   ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "Die Holzkirche „Sfinții Voievozi” ist ein spiritueller Versammlungsort in Gugești.",
+                  "category": "religious",
+                  "coords": [
+                        27.138273,
+                        45.569514
+                  ]
             }
       ],
       "hu": [
@@ -18966,6 +19735,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.100828,
                         45.575724
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "A „Sfinții Voievozi” fatemplom egy spirituális gyülekezőhely Gugeštiben.",
+                  "category": "religious",
+                  "coords": [
+                        27.138273,
+                        45.569514
                   ]
             }
       ],
@@ -19006,6 +19784,15 @@ export const poiExtraRoV1: POI[] = [
                         27.100828,
                         45.575724
                   ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "Biserica de lemn „Sfinții Voievozi” este un loc de rugăciune din Gugești.",
+                  "category": "religious",
+                  "coords": [
+                        27.138273,
+                        45.569514
+                  ]
             }
       ],
       "en": [
@@ -19044,6 +19831,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.100828,
                         45.575724
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn „Sfinții Voievozi”",
+                  "text": "The wooden church „Sfinții Voievozi” is a spiritual gathering place in Gugești.",
+                  "category": "religious",
+                  "coords": [
+                        27.138273,
+                        45.569514
                   ]
             }
       ]
@@ -19359,6 +20155,15 @@ export const poiExtraRoV1: POI[] = [
                         27.952165,
                         44.681766
                   ]
+            },
+            {
+                  "name": "Moschee Musulmana",
+                  "text": "Die Moschee Musulmana verfügt über einen Turm in Hârșova.",
+                  "category": "tower",
+                  "coords": [
+                        27.948407,
+                        44.682965
+                  ]
             }
       ],
       "hu": [
@@ -19398,6 +20203,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.952165,
                         44.681766
+                  ]
+            },
+            {
+                  "name": "Moschee Musulmana",
+                  "text": "A Moschee Musulmana egy toronnyal rendelkező építmény Hârșova városában.",
+                  "category": "tower",
+                  "coords": [
+                        27.948407,
+                        44.682965
                   ]
             }
       ],
@@ -19439,6 +20253,15 @@ export const poiExtraRoV1: POI[] = [
                         27.952165,
                         44.681766
                   ]
+            },
+            {
+                  "name": "Moschee Musulmana",
+                  "text": "Moscheea Musulmană din Hârșova include un turn distinctiv.",
+                  "category": "tower",
+                  "coords": [
+                        27.948407,
+                        44.682965
+                  ]
             }
       ],
       "en": [
@@ -19478,6 +20301,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.952165,
                         44.681766
+                  ]
+            },
+            {
+                  "name": "Moschee Musulmana",
+                  "text": "The Moschee Musulmana features a tower located in Hârșova.",
+                  "category": "tower",
+                  "coords": [
+                        27.948407,
+                        44.682965
                   ]
             }
       ]
@@ -19795,10 +20627,50 @@ export const poiExtraRoV1: POI[] = [
   {"id": "homocea", "type": "city", "parent": "RO-VN", "coords": [27.241185, 46.137506], "population": 5834, "name": {"de": "Homocea", "hu": "Homocea", "ro": "Homocea", "en": "Homocea"}, "descriptionAdvanced": {"de": "Homocea ist eine ländliche Gemeinde im Kreis Vrancea, im Osten Rumäniens, gelegen am rechten Ufer des Flusses Siret. Die Region ist Teil der historischen Moldau und bildet den Übergang von der Ebene zu den sanften Hügeln des moldauischen Vorlandes. Homocea ist bekannt für seine lange landwirtschaftliche Tradition, wobei der Getreideanbau und die Viehzucht die tragenden Säulen der lokalen Wirtschaft sind. Das Dorfbild ist geprägt von traditionellen Bauernhöfen und einer ruhigen, naturverbundenen Lebensweise. In den letzten Jahren hat sich der Ort modernisiert, wobei die Infrastruktur verbessert wurde, um die Anbindung an die nahe gelegene Stadt Adjud zu erleichtern. Die Gemeinschaft in Homocea ist eng verbunden und pflegt moldauische Bräuche, insbesondere im Bereich der Volksmusik und der religiösen Traditionen. Die orthodoxe Kirche des Dorfes dient als kultureller und spiritueller Ankerpunkt. Die weiten Auen des Siret bieten Lebensraum für zahlreiche Vogelarten und sind ein beliebtes Ziel für Angler und Naturliebhaber aus der gesamten Region.", "hu": "Homocea község Vrancea megyében, Moldva kapujában fekszik, a Szeret-folyó jobb partján. A település egy tipikus moldvai mezőgazdasági közösség, ahol az élet ritmusát a földművelés és a folyó közelsége határozza meg. Homocea híres termékeny talajáról, amely kiválóan alkalmas gabonafélék és napraforgó termesztésére. A falu története során fontos átkelőhely volt a Szeret folyón, ami elősegítette a kereskedelem kialakulását. A lakosság hűen őrzi moldvai gyökereit; a helyi népszokások, különösen a téli ünnepkör eseményei, ma is élénken élnek a közösségben. A település arculata az utóbbi időben sokat fejlődött, köszönhetően a modernizációs programoknak, de megőrizte barátságos, vidéki jellegét. Adjud városának közelsége munkalehetőséget és jobb szolgáltatásokat biztosít a helyiek számára. A természetjárók számára a Szeret-folyó ártere és a környező erdők nyújtanak látnivalót, ahol gazdag madárvilág és érintetlen természeti környezet fogadja az idelátogatókat.", "ro": "Homocea este o comună mare și dinamică din județul Vrancea, situată în partea de est a județului, pe malul drept al râului Siret. Localitatea este un nod agricol important în regiune, beneficiind de terenurile fertile din lunca Siretului, unde se cultivă intensiv cereale și plante tehnice. Istoria comunei este strâns legată de cursul fluviului Siret, care a influențat atât economia, cât și modul de viață al locuitorilor. Homocea este formată din mai multe sate, având o populație activă care îmbină agricultura tradițională cu micile afaceri în domeniul serviciilor și comerțului. Proximitatea față de municipiul Adjud oferă avantaje economice și acces la infrastructura urbană. Din punct de vedere cultural, Homocea păstrează tradițiile moldovenești, fiind recunoscută pentru portul popular și obiceiurile de peste an care reunesc întreaga comunitate. Biserica ortodoxă locală și școlile din comună sunt pilonii educației și spiritualității vrâncene. Zona oferă și oportunități pentru pescuit sportiv și recreere în natură, datorită diversității biologice a ecosistemului Siretului, fiind un refugiu liniștit în inima Moldovei.", "en": "Homocea is a substantial rural commune in Vrancea County, Romania, situated on the right bank of the Siret River. This location in the historical region of Moldavia provides the town with rich alluvial soils, making agriculture the backbone of the local economy. For centuries, the people of Homocea have specialized in cereal farming and animal husbandry, benefiting from the river's resources. The commune's proximity to the town of Adjud has turned it into an attractive place for those who seek a rural lifestyle with urban amenities within reach. Homocea is characterized by its typical Moldavian hospitality and well-preserved folk traditions, which are especially visible during the winter holidays and local festivals. The Siret River not only defines the landscape but also offers diverse recreational activities like fishing and birdwatching, as the riverbanks are part of a protected ecosystem for migratory birds. The community has seen significant infrastructural growth in recent years, with improvements in roads and schools, making it a modern and thriving example of Romanian rural life in the Vrancea area."}, "factsAdvanced": {"de": ["Liegt im Kreis Vrancea, Region Moldau", "Gelegen am rechten Ufer des Flusses Siret", "Bevölkerung von ca. 5.834 Einwohnern", "Wichtiges landwirtschaftliches Zentrum (Getreide)", "Nahe der Stadt Adjud gelegen", "Klima ist gemäßigt-kontinental"], "hu": ["Vrancea megye keleti szélén található", "A Szeret-folyó partján fekszik", "Lakossága körülbelül 5834 fő", "Jelentős gabonatermelő vidék", "Közelség Adjud városához (kb. 10 km)", "Gazdag madárvilág a folyóparti ártérben"], "ro": ["Situată în estul județului Vrancea", "Localitate riverană râului Siret", "Populație de aproximativ 5.834 de locuitori", "Economie bazată pe cultivarea porumbului și grâului", "Acces facil din DN2 (E85) prin Adjud", "Cod poștal din seria 627155"], "en": ["Located in Vrancea County, Eastern Romania", "Positioned on the right bank of the Siret River", "Population: 5,834 residents", "Key agricultural hub in the Moldova region", "Coordinates: 27.241185 Longitude, 46.137506 Latitude", "Part of the Adjud metropolitan influence area"]}, "faq": {"de": [{"q": "Wo liegt Homocea?", "a": "Im Osten des Kreises Vrancea, am Fluss Siret."}, {"q": "Was ist die wichtigste Stadt in der Nähe?", "a": "Die Stadt Adjud liegt ganz in der Nähe."}, {"q": "Wovon leben die Menschen in Homocea?", "a": "Hauptsächlich von der Landwirtschaft und dem Kleingewerbe."}, {"q": "Kann man dort angeln?", "a": "Ja, der Fluss Siret bietet hervorragende Bedingungen für Angler."}], "hu": [{"q": "Milyen megyében van Homocea?", "a": "Vrancea megyében található, Moldvában."}, {"q": "Milyen folyó folyik a közelben?", "a": "A Szeret-folyó határolja a települést."}, {"q": "Hányan laknak a faluban?", "a": "Körülbelül 5834-en lakják."}, {"q": "Milyen messze van Adjud?", "a": "Adjud városa mindössze pár kilométerre található."}], "ro": [{"q": "Unde se află comuna Homocea?", "a": "În județul Vrancea, pe malul Siretului, lângă Adjud."}, {"q": "Care este principala ocupație a localnicilor?", "a": "Agricultura, în special cultura cerealelor."}, {"q": "Ce sate aparțin de comuna Homocea?", "a": "Comuna include satele Homocea, Costișa și Lespezi."}, {"q": "Este zonă inundabilă?", "a": "În trecut au existat riscuri, dar digurile Siretului protejează localitatea."}], "en": [{"q": "What is the population of Homocea?", "a": "The population is about 5,834 people."}, {"q": "Which river flows near Homocea?", "a": "The Siret River flows along the commune."}, {"q": "Is Homocea near a major road?", "a": "Yes, it is very close to the E85 (DN2) highway."}, {"q": "What are the main crops grown here?", "a": "Corn, wheat, and sunflowers."}]},
   "tier": 5,
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "Die Biserica „Nașterea Maicii Domnului” ist ein rumänisch-orthodoxes Gotteshaus in Homocea.",
+                  "category": "religious",
+                  "coords": [
+                        27.247473,
+                        46.157381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "A Biserica „Nașterea Maicii Domnului” egy istentiszteleti hely Homocea településen.",
+                  "category": "religious",
+                  "coords": [
+                        27.247473,
+                        46.157381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "Biserica „Nașterea Maicii Domnului” este un lăcaș de cult ortodox din Homocea.",
+                  "category": "religious",
+                  "coords": [
+                        27.247473,
+                        46.157381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biserica „Nașterea Maicii Domnului”",
+                  "text": "Biserica „Nașterea Maicii Domnului” is an Orthodox place of worship in Homocea.",
+                  "category": "religious",
+                  "coords": [
+                        27.247473,
+                        46.157381
+                  ]
+            }
+      ]
 }
   },
   {"id": "horodnic-de-sus", "type": "city", "parent": "RO-SV", "coords": [25.835449, 47.835631], "population": 5407, "name": {"de": "Horodnic de Sus", "hu": "Horodnic de Sus", "ro": "Horodnic de Sus", "en": "Horodnic de Sus"}, "descriptionAdvanced": {"de": "Horodnic de Sus ist eine geschichtsträchtige Gemeinde in der nördlichen Bukowina, unweit der Stadt Rădăuți im Kreis Suceava. Der Ort ist bekannt für seine tiefe Verwurzelung in den Traditionen der Region, was sich besonders in der gut erhaltenen Holzarchitektur und den Bräuchen widerspiegelt. Die Siedlung liegt in einer sanften Hügellandschaft am Fuße der Obcina Mare, die durch dichte Wälder und fruchtbares Ackerland geprägt ist. Historisch war Horodnic de Sus Teil der Besiedlungswellen, die die Bukowina zu einem ethnischen Mosaik machten, wobei der rumänische Charakter hier stets dominierend blieb. Die Wirtschaft der Gemeinde basiert traditionell auf der Forstwirtschaft und der Landwirtschaft, wobei in jüngster Zeit auch der Agrotourismus an Bedeutung gewonnen hat. Besucher schätzen die Gastfreundschaft der Bewohner und die Nähe zu den berühmten moldauischen Klöstern, die Teil des UNESCO-Welterbes sind. Die religiöse Bedeutung des Ortes wird durch die stattlichen Kirchen unterstrichen, die das Ortsbild prägen.", "hu": "Horodnic de Sus egy nagy múltú község Bukovina északi részén, Szucsáva megyében, Radóc közelében. A település neve szláv eredetű, és egykori erődített helyre utal. A falu a Suceava-folyó fennsíkján helyezkedik el, ahol a földművelés és az állattenyésztés évszázadok óta a megélhetés fő forrása. A bukovinai táj jellegzetességei, mint a dús legelők és a közeli erdőségek, meghatározzák a község hangulatát. A helyi közösség híres a népi mesterségek, különösen a fafaragás és a tojásírás őrzéséről. Bár a modernizáció itt is jelen van, sok udvaron még láthatók a hagyományos bukovinai építészet jegyei, a faragott tornácok és kapuk. A vallási élet központi szerepet játszik, a helyi ortodox templomok nemcsak hitéleti központok, hanem a közösségi identitás őrzői is. Horodnic de Sus ideális kiindulópont a környék kolostorainak felfedezéséhez, miközben maga is őrzi a falusi élet nyugalmát.", "ro": "Horodnic de Sus este o comună reprezentativă pentru spiritul Bucovinei, situată în județul Suceava, la mică distanță de municipiul Rădăuți. Localitatea se remarcă printr-o organizare gospodărească exemplară și prin păstrarea cu sfințenie a valorilor tradiționale moldovenești. Din punct de vedere geografic, comuna ocupă o zonă de podiș înalt, la contactul cu dealurile premontane ale Obcinii Mari, oferind peisaje de o rară frumusețe. Istoria sa este legată de vechile rânduieli ale hatmanilor și boierilor moldoveni, fiind menționată documentar încă din secolul al XV-lea. Economia locală este una dintre cele mai robuste din mediul rural sucevean, fiind susținută de exploatarea și prelucrarea lemnului, precum și de o agricultură performantă. Arhitectura populară, deși modernizată, păstrează elemente specifice zonei, cum sunt gardurile de lemn și decorațiunile exterioare ale caselor. Horodnic de Sus este, de asemenea, un centru al spiritualității, comunitatea fiind strâns unită în jurul bisericilor sale istorice.", "en": "Horodnic de Sus is a significant commune in the historical region of Bucovina, located in Suceava County near the town of Rădăuți. Its name, of Slavic origin, suggests an ancient fortification or settlement, and historical records date it back to the time of the Moldavian princes. The village is set in a picturesque landscape where the plateau meets the rolling hills of the Obcina Mare, providing a rich environment for agriculture and forestry. The local economy is notably prosperous, driven by wood processing and livestock breeding, making it one of the wealthier rural areas in northern Romania. Culturally, Horodnic de Sus is a bastion of Bucovinian traditions; folk art, traditional music, and seasonal customs are still very much part of daily life. The village layout features large, well-kept households that reflect the industrious nature of its inhabitants. It serves as an excellent example of how traditional rural values can coexist with modern development, all while being a stone's throw away from major historical landmarks like Putna or Sucevița."}, "factsAdvanced": {"de": ["Erste Erwähnung im Jahr 1446", "Liegt im Kreis Suceava", "Teil der historischen Region Bukowina", "Bekannt für Holzschnitzkunst", "Bevölkerung überwiegend orthodox", "Nahe an der Stadt Rădăuți gelegen"], "hu": ["Első említése 1446-ból származik", "Szucsáva megye északi részén fekszik", "Híres a bukovinai tojásírásról", "A lakosság száma meghaladja az 5000 főt", "Hagyományos faépítészet jellemzi", "Fontos mezőgazdasági terület"], "ro": ["Atestat documentar la 1446", "Situat în proximitatea municipiului Rădăuți", "Altitudine de aproximativ 420 metri", "Centru important pentru prelucrarea lemnului", "Păstrează tradiții de iarnă autentice", "Comunitate cu spirit antreprenorial ridicat"], "en": ["First documented in 1446", "Located in Suceava County", "Part of the Bucovina historical region", "Famous for traditional wood craftsmanship", "Population of over 5,400 inhabitants", "Close to the UNESCO painted monasteries"]}, "faq": {"de": [{"q": "Was bedeutet der Name Horodnic?", "a": "Der Name leitet sich vom slawischen Wort für 'Stadt' oder 'befestigter Ort' ab."}, {"q": "Was sind die wichtigsten Sehenswürdigkeiten?", "a": "Die traditionellen Häuser und die prächtigen orthodoxen Kirchen der Gemeinde."}, {"q": "Ist Horodnic de Sus touristisch erschlossen?", "a": "Ja, es gibt mehrere Pensionen, die Agrotourismus im Bukowina-Stil anbieten."}, {"q": "Welche Rolle spielt der Wald?", "a": "Die Forstwirtschaft ist ein zentraler Pfeiler der lokalen Wirtschaft und Tradition."}], "hu": [{"q": "Honnan ered a település neve?", "a": "A szláv 'gorod' szóból, ami várat vagy megerősített helyet jelent."}, {"q": "Melyik történelmi régióhoz tartozik?", "a": "A történelmi Bukovina déli (romániai) részéhez."}, {"q": "Milyen népi hagyományok élnek itt?", "a": "A fafaragás, a szövés és a hagyományos húsvéti tojásfestés."}, {"q": "Milyen messze van Radóc (Rădăuți)?", "a": "Csak néhány kilométerre fekszik a várostól nyugati irányban."}], "ro": [{"q": "Care este principala ocupație a locuitorilor?", "a": "Agricultura, creșterea animalelor și industria lemnului."}, {"q": "Ce tradiții sunt specifice în Horodnic de Sus?", "a": "Colindele de iarnă și jocurile cu măști sunt foarte bine conservate."}, {"q": "Există unități de cazare în zonă?", "a": "Da, există numeroase pensiuni agroturistice care oferă produse locale."}, {"q": "Cât de veche este localitatea?", "a": "Localitatea are o vechime documentată de peste 570 de ani."}], "en": [{"q": "What is the origin of the name Horodnic?", "a": "It comes from the Slavic root for 'fortified settlement'."}, {"q": "What is the best time to visit?", "a": "During religious holidays or winter for traditional festivals."}, {"q": "What are the local products?", "a": "Dairy products, honey, and handcrafted wooden items."}, {"q": "How close is it to Suceava city?", "a": "It is about 45 kilometers northwest of Suceava."}]},
@@ -21149,6 +22021,15 @@ export const poiExtraRoV1: POI[] = [
                         28.160199,
                         45.242199
                   ]
+            },
+            {
+                  "name": "Geamia Mestan Aga",
+                  "text": "Geamia Mestan Aga ist eine Sehenswürdigkeit in der Stadt Măcin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129409,
+                        45.244832
+                  ]
             }
       ],
       "hu": [
@@ -21187,6 +22068,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.160199,
                         45.242199
+                  ]
+            },
+            {
+                  "name": "Geamia Mestan Aga",
+                  "text": "A Geamia Mestan Aga egy látványosság Măcin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129409,
+                        45.244832
                   ]
             }
       ],
@@ -21227,6 +22117,15 @@ export const poiExtraRoV1: POI[] = [
                         28.160199,
                         45.242199
                   ]
+            },
+            {
+                  "name": "Geamia Mestan Aga",
+                  "text": "Geamia Mestan Aga este o atracție situată în orașul Măcin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129409,
+                        45.244832
+                  ]
             }
       ],
       "en": [
@@ -21265,6 +22164,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.160199,
                         45.242199
+                  ]
+            },
+            {
+                  "name": "Geamia Mestan Aga",
+                  "text": "Geamia Mestan Aga is an attraction situated in the city of Măcin.",
+                  "category": "landmark",
+                  "coords": [
+                        28.129409,
+                        45.244832
                   ]
             }
       ]
@@ -21652,6 +22560,15 @@ export const poiExtraRoV1: POI[] = [
                         27.455676,
                         47.17035
                   ]
+            },
+            {
+                  "name": "Vedere de la înalțime",
+                  "text": "Ein Aussichtspunkt mit erhöhten Panoramen in Miroslava.",
+                  "category": "natural",
+                  "coords": [
+                        27.548592,
+                        47.155318
+                  ]
             }
       ],
       "hu": [
@@ -21663,6 +22580,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.455676,
                         47.17035
+                  ]
+            },
+            {
+                  "name": "Vedere de la înalțime",
+                  "text": "Egy festői kilátó, amely magaslati panorámát kínál Miroslavában.",
+                  "category": "natural",
+                  "coords": [
+                        27.548592,
+                        47.155318
                   ]
             }
       ],
@@ -21676,6 +22602,15 @@ export const poiExtraRoV1: POI[] = [
                         27.455676,
                         47.17035
                   ]
+            },
+            {
+                  "name": "Vedere de la înalțime",
+                  "text": "Un punct de belvedere panoramic care oferă priveliști la înălțime în Miroslava.",
+                  "category": "natural",
+                  "coords": [
+                        27.548592,
+                        47.155318
+                  ]
             }
       ],
       "en": [
@@ -21687,6 +22622,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.455676,
                         47.17035
+                  ]
+            },
+            {
+                  "name": "Vedere de la înalțime",
+                  "text": "A scenic viewpoint offering elevated panoramas in Miroslava.",
+                  "category": "natural",
+                  "coords": [
+                        27.548592,
+                        47.155318
                   ]
             }
       ]
@@ -23586,6 +24530,33 @@ export const poiExtraRoV1: POI[] = [
                         23.381354,
                         45.442616
                   ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument ist eine lokale Gedenkstätte in der Stadt Petrila.",
+                  "category": "historical",
+                  "coords": [
+                        23.376567,
+                        45.443546
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Necunoscuti",
+                  "text": "Monumentul Eroilor Necunoscuti ist ein Denkmal in Petrila, das unbekannten Helden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.412363,
+                        45.446463
+                  ]
+            },
+            {
+                  "name": "Muzeul Mamei",
+                  "text": "Muzeul Mamei ist ein markantes Museum in der Stadt Petrila.",
+                  "category": "museum",
+                  "coords": [
+                        23.374856,
+                        45.4443
+                  ]
             }
       ],
       "hu": [
@@ -23626,6 +24597,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.381354,
                         45.442616
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A Monument egy helyi emlékmű Petrila városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.376567,
+                        45.443546
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Necunoscuti",
+                  "text": "A Monumentul Eroilor Necunoscuti az ismeretlen hősöknek szentelt emlékmű Petrilában.",
+                  "category": "historical",
+                  "coords": [
+                        23.412363,
+                        45.446463
+                  ]
+            },
+            {
+                  "name": "Muzeul Mamei",
+                  "text": "A Muzeul Mamei egy jellegzetes múzeum Petrila városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.374856,
+                        45.4443
                   ]
             }
       ],
@@ -23668,6 +24666,33 @@ export const poiExtraRoV1: POI[] = [
                         23.381354,
                         45.442616
                   ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument este un loc memorial local situat în orașul Petrila.",
+                  "category": "historical",
+                  "coords": [
+                        23.376567,
+                        45.443546
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Necunoscuti",
+                  "text": "Monumentul Eroilor Necunoscuti este un monument din Petrila dedicat eroilor necunoscuți.",
+                  "category": "historical",
+                  "coords": [
+                        23.412363,
+                        45.446463
+                  ]
+            },
+            {
+                  "name": "Muzeul Mamei",
+                  "text": "Muzeul Mamei este un muzeu distinctiv situat în orașul Petrila.",
+                  "category": "museum",
+                  "coords": [
+                        23.374856,
+                        45.4443
+                  ]
             }
       ],
       "en": [
@@ -23708,6 +24733,33 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.381354,
                         45.442616
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument is a local memorial site located in the city of Petrila.",
+                  "category": "historical",
+                  "coords": [
+                        23.376567,
+                        45.443546
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Necunoscuti",
+                  "text": "Monumentul Eroilor Necunoscuti is a monument in Petrila dedicated to unknown heroes.",
+                  "category": "historical",
+                  "coords": [
+                        23.412363,
+                        45.446463
+                  ]
+            },
+            {
+                  "name": "Muzeul Mamei",
+                  "text": "Muzeul Mamei is a distinctive museum situated in the city of Petrila.",
+                  "category": "museum",
+                  "coords": [
+                        23.374856,
+                        45.4443
                   ]
             }
       ]
@@ -24760,6 +25812,15 @@ export const poiExtraRoV1: POI[] = [
                         25.658326,
                         44.624083
                   ]
+            },
+            {
+                  "name": "Conacul Ghica",
+                  "text": "Conacul Ghica ist ein historisches Schlossgebäude in der Stadt Răcari.",
+                  "category": "castle",
+                  "coords": [
+                        25.724396,
+                        44.638769
+                  ]
             }
       ],
       "hu": [
@@ -24801,6 +25862,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.658326,
                         44.624083
+                  ]
+            },
+            {
+                  "name": "Conacul Ghica",
+                  "text": "A Conacul Ghica egy történelmi kastélyépület Răcari városában.",
+                  "category": "castle",
+                  "coords": [
+                        25.724396,
+                        44.638769
                   ]
             }
       ],
@@ -24844,6 +25914,15 @@ export const poiExtraRoV1: POI[] = [
                         25.658326,
                         44.624083
                   ]
+            },
+            {
+                  "name": "Conacul Ghica",
+                  "text": "Conacul Ghica este o clădire istorică tip castel din orașul Răcari.",
+                  "category": "castle",
+                  "coords": [
+                        25.724396,
+                        44.638769
+                  ]
             }
       ],
       "en": [
@@ -24885,6 +25964,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.658326,
                         44.624083
+                  ]
+            },
+            {
+                  "name": "Conacul Ghica",
+                  "text": "Conacul Ghica is a historic castle building located in Răcari.",
+                  "category": "castle",
+                  "coords": [
+                        25.724396,
+                        44.638769
                   ]
             }
       ]
@@ -25453,6 +26541,24 @@ export const poiExtraRoV1: POI[] = [
                         25.987581,
                         44.431493
                   ]
+            },
+            {
+                  "name": "Insula Lacul Morii",
+                  "text": "Insula Lacul Morii ist eine Inselattraktion in Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        26.029363,
+                        44.459207
+                  ]
+            },
+            {
+                  "name": "Teatrul Masca",
+                  "text": "Teatrul Masca ist ein Theater in Roșu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.030308,
+                        44.438779
+                  ]
             }
       ],
       "hu": [
@@ -25492,6 +26598,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.987581,
                         44.431493
+                  ]
+            },
+            {
+                  "name": "Insula Lacul Morii",
+                  "text": "Az Insula Lacul Morii egy szigeti látványosság Roșu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.029363,
+                        44.459207
+                  ]
+            },
+            {
+                  "name": "Teatrul Masca",
+                  "text": "A Teatrul Masca egy színház Roșu településén.",
+                  "category": "cultural",
+                  "coords": [
+                        26.030308,
+                        44.438779
                   ]
             }
       ],
@@ -25533,6 +26657,24 @@ export const poiExtraRoV1: POI[] = [
                         25.987581,
                         44.431493
                   ]
+            },
+            {
+                  "name": "Insula Lacul Morii",
+                  "text": "Insula Lacul Morii este o atracție pitorească situată în Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        26.029363,
+                        44.459207
+                  ]
+            },
+            {
+                  "name": "Teatrul Masca",
+                  "text": "Teatrul Masca este un teatru situat în Roșu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.030308,
+                        44.438779
+                  ]
             }
       ],
       "en": [
@@ -25572,6 +26714,24 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.987581,
                         44.431493
+                  ]
+            },
+            {
+                  "name": "Insula Lacul Morii",
+                  "text": "Insula Lacul Morii is an island attraction located in Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        26.029363,
+                        44.459207
+                  ]
+            },
+            {
+                  "name": "Teatrul Masca",
+                  "text": "Teatrul Masca is a theatre situated in Roșu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.030308,
+                        44.438779
                   ]
             }
       ]
@@ -27993,6 +29153,15 @@ export const poiExtraRoV1: POI[] = [
                         23.745695,
                         44.093541
                   ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Biserica Adormirea Maicii Domnului ist ein bedeutendes Gotteshaus in Segarcea.",
+                  "category": "religious",
+                  "coords": [
+                        23.742555,
+                        44.095331
+                  ]
             }
       ],
       "hu": [
@@ -28024,6 +29193,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.745695,
                         44.093541
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "A Biserica Adormirea Maicii Domnului egy jelentős vallási épület Segarcea városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.742555,
+                        44.095331
                   ]
             }
       ],
@@ -28057,6 +29235,15 @@ export const poiExtraRoV1: POI[] = [
                         23.745695,
                         44.093541
                   ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Biserica Adormirea Maicii Domnului este un lăcaș de cult semnificativ din Segarcea.",
+                  "category": "religious",
+                  "coords": [
+                        23.742555,
+                        44.095331
+                  ]
             }
       ],
       "en": [
@@ -28088,6 +29275,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.745695,
                         44.093541
+                  ]
+            },
+            {
+                  "name": "Biserica Adormirea Maicii Domnului",
+                  "text": "Biserica Adormirea Maicii Domnului is a significant place of worship in Segarcea.",
+                  "category": "religious",
+                  "coords": [
+                        23.742555,
+                        44.095331
                   ]
             }
       ]
@@ -30935,6 +32131,42 @@ export const poiExtraRoV1: POI[] = [
                         24.901537,
                         44.88219
                   ]
+            },
+            {
+                  "name": "Biserica Brătienilor",
+                  "text": "Die Biserica Brătienilor ist eine bemerkenswerte Kultstätte, die mit dem Brătianu-Anwesen in Ștefănești verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.928648,
+                        44.867174
+                  ]
+            },
+            {
+                  "name": "Vila Donescu",
+                  "text": "Die Vila Donescu ist ein lokales Herrenhaus in der Stadt Ștefănești.",
+                  "category": "historical",
+                  "coords": [
+                        24.939656,
+                        44.866775
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Ștefănești",
+                  "text": "Das Centrul Cultural Ștefănești ist ein Kunstzentrum und kultureller Treffpunkt in Ștefănești.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944072,
+                        44.860639
+                  ]
+            },
+            {
+                  "name": "Casa Ion Pillat",
+                  "text": "Das Casa Ion Pillat ist eine lokale Sehenswürdigkeit in Ștefănești.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938743,
+                        44.8684
+                  ]
             }
       ],
       "hu": [
@@ -30966,6 +32198,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.901537,
                         44.88219
+                  ]
+            },
+            {
+                  "name": "Biserica Brătienilor",
+                  "text": "A Biserica Brătienilor egy nevezetes istentiszteleti hely, amely a Ștefănești-i Brătianu-birtokhoz kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        24.928648,
+                        44.867174
+                  ]
+            },
+            {
+                  "name": "Vila Donescu",
+                  "text": "A Vila Donescu egy helyi udvarház Ștefănești városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.939656,
+                        44.866775
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Ștefănești",
+                  "text": "A Centrul Cultural Ștefănești egy művészeti és kulturális központ Ștefănești városában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944072,
+                        44.860639
+                  ]
+            },
+            {
+                  "name": "Casa Ion Pillat",
+                  "text": "A Casa Ion Pillat egy helyi nevezetesség és látványosság Ștefănești városában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938743,
+                        44.8684
                   ]
             }
       ],
@@ -30999,6 +32267,42 @@ export const poiExtraRoV1: POI[] = [
                         24.901537,
                         44.88219
                   ]
+            },
+            {
+                  "name": "Biserica Brătienilor",
+                  "text": "Biserica Brătienilor este un lăcaș de cult notabil, asociat cu domeniul Brătianu din Ștefănești.",
+                  "category": "religious",
+                  "coords": [
+                        24.928648,
+                        44.867174
+                  ]
+            },
+            {
+                  "name": "Vila Donescu",
+                  "text": "Vila Donescu este un conac local situat în orașul Ștefănești.",
+                  "category": "historical",
+                  "coords": [
+                        24.939656,
+                        44.866775
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Ștefănești",
+                  "text": "Centrul Cultural Ștefănești este un centru de arte și un nod cultural în Ștefănești.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944072,
+                        44.860639
+                  ]
+            },
+            {
+                  "name": "Casa Ion Pillat",
+                  "text": "Casa Ion Pillat este o atracție locală și un punct de interes situat în Ștefănești.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938743,
+                        44.8684
+                  ]
             }
       ],
       "en": [
@@ -31030,6 +32334,42 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.901537,
                         44.88219
+                  ]
+            },
+            {
+                  "name": "Biserica Brătienilor",
+                  "text": "Biserica Brătienilor is a notable place of worship associated with the Brătianu estate in Ștefănești.",
+                  "category": "religious",
+                  "coords": [
+                        24.928648,
+                        44.867174
+                  ]
+            },
+            {
+                  "name": "Vila Donescu",
+                  "text": "Vila Donescu is a local manor estate located in the town of Ștefănești.",
+                  "category": "historical",
+                  "coords": [
+                        24.939656,
+                        44.866775
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Ștefănești",
+                  "text": "Centrul Cultural Ștefănești is an arts centre serving as a cultural hub in Ștefănești.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944072,
+                        44.860639
+                  ]
+            },
+            {
+                  "name": "Casa Ion Pillat",
+                  "text": "Casa Ion Pillat is a local attraction and site of interest situated in Ștefănești.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938743,
+                        44.8684
                   ]
             }
       ]
@@ -32131,6 +33471,15 @@ export const poiExtraRoV1: POI[] = [
                         23.866638,
                         47.451337
                   ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Ein Heldendenkmal in Târgu Lăpuș.",
+                  "category": "historical",
+                  "coords": [
+                        23.865619,
+                        47.452816
+                  ]
             }
       ],
       "hu": [
@@ -32170,6 +33519,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.866638,
                         47.451337
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "A hősöknek szentelt emlékmű Târgu Lăpușban.",
+                  "category": "historical",
+                  "coords": [
+                        23.865619,
+                        47.452816
                   ]
             }
       ],
@@ -32211,6 +33569,15 @@ export const poiExtraRoV1: POI[] = [
                         23.866638,
                         47.451337
                   ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Un monument dedicat eroilor situat în Târgu Lăpuș.",
+                  "category": "historical",
+                  "coords": [
+                        23.865619,
+                        47.452816
+                  ]
             }
       ],
       "en": [
@@ -32250,6 +33617,15 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.866638,
                         47.451337
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "A monument dedicated to heroes located in Târgu Lăpuș.",
+                  "category": "historical",
+                  "coords": [
+                        23.865619,
+                        47.452816
                   ]
             }
       ]
@@ -35159,6 +36535,60 @@ export const poiExtraRoV1: POI[] = [
                         24.88232,
                         44.864026
                   ]
+            },
+            {
+                  "name": "Casa Liviu Rebreanu",
+                  "text": "Die Casa Liviu Rebreanu ist ein Herrenhaus in Valea Mare-Podgoria, das als Gedenkhaus für den berühmten Schriftsteller dient.",
+                  "category": "historical",
+                  "coords": [
+                        24.904964,
+                        44.889096
+                  ]
+            },
+            {
+                  "name": "La doi brazi",
+                  "text": "La doi brazi ist ein malerischer Aussichtspunkt in Valea Mare-Podgoria.",
+                  "category": "natural",
+                  "coords": [
+                        24.915802,
+                        44.875131
+                  ]
+            },
+            {
+                  "name": "Ruinele conacului brâncovenesc de vie din Valea Mare-Podgoria",
+                  "text": "Diese Ruinen in Valea Mare-Podgoria sind die Überreste eines Weinbergherrenhauses im Brâncovenesc-Stil.",
+                  "category": "historical",
+                  "coords": [
+                        24.905511,
+                        44.87459
+                  ]
+            },
+            {
+                  "name": "Conacul Mihail Ghelmegeanu",
+                  "text": "Das Conacul Mihail Ghelmegeanu ist ein historisches Herrenhaus in Valea Mare-Podgoria.",
+                  "category": "historical",
+                  "coords": [
+                        24.909032,
+                        44.880296
+                  ]
+            },
+            {
+                  "name": "Vila Bulandra",
+                  "text": "Die Vila Bulandra ist ein bekanntes Herrenhaus in der Ortschaft Valea Mare-Podgoria.",
+                  "category": "historical",
+                  "coords": [
+                        24.90109,
+                        44.885251
+                  ]
+            },
+            {
+                  "name": "Cula Sfântul Mina - Orchidan",
+                  "text": "Die Cula Sfântul Mina - Orchidan ist eine besondere architektonische Attraktion in Valea Mare-Podgoria.",
+                  "category": "landmark",
+                  "coords": [
+                        24.917813,
+                        44.878783
+                  ]
             }
       ],
       "hu": [
@@ -35197,6 +36627,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.88232,
                         44.864026
+                  ]
+            },
+            {
+                  "name": "Casa Liviu Rebreanu",
+                  "text": "A Casa Liviu Rebreanu egy kúria Valea Mare-Podgoria-ban, amely a híres író emlékházaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        24.904964,
+                        44.889096
+                  ]
+            },
+            {
+                  "name": "La doi brazi",
+                  "text": "A La doi brazi egy festői kilátó Valea Mare-Podgoria-ban.",
+                  "category": "natural",
+                  "coords": [
+                        24.915802,
+                        44.875131
+                  ]
+            },
+            {
+                  "name": "Ruinele conacului brâncovenesc de vie din Valea Mare-Podgoria",
+                  "text": "Ezek a romok Valea Mare-Podgoria-ban egy Brâncovenesc-stílusú szőlőbirtok kúriájának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        24.905511,
+                        44.87459
+                  ]
+            },
+            {
+                  "name": "Conacul Mihail Ghelmegeanu",
+                  "text": "A Conacul Mihail Ghelmegeanu egy történelmi kúria Valea Mare-Podgoria településen.",
+                  "category": "historical",
+                  "coords": [
+                        24.909032,
+                        44.880296
+                  ]
+            },
+            {
+                  "name": "Vila Bulandra",
+                  "text": "A Vila Bulandra egy ismert kúria Valea Mare-Podgoria településen.",
+                  "category": "historical",
+                  "coords": [
+                        24.90109,
+                        44.885251
+                  ]
+            },
+            {
+                  "name": "Cula Sfântul Mina - Orchidan",
+                  "text": "A Cula Sfântul Mina - Orchidan egy különleges építészeti látványosság Valea Mare-Podgoria-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.917813,
+                        44.878783
                   ]
             }
       ],
@@ -35237,6 +36721,60 @@ export const poiExtraRoV1: POI[] = [
                         24.88232,
                         44.864026
                   ]
+            },
+            {
+                  "name": "Casa Liviu Rebreanu",
+                  "text": "Casa Liviu Rebreanu este un conac din Valea Mare-Podgoria, ce servește drept casă memorială a celebrului scriitor.",
+                  "category": "historical",
+                  "coords": [
+                        24.904964,
+                        44.889096
+                  ]
+            },
+            {
+                  "name": "La doi brazi",
+                  "text": "La doi brazi este un punct de belvedere pitoresc din Valea Mare-Podgoria.",
+                  "category": "natural",
+                  "coords": [
+                        24.915802,
+                        44.875131
+                  ]
+            },
+            {
+                  "name": "Ruinele conacului brâncovenesc de vie din Valea Mare-Podgoria",
+                  "text": "Aceste ruine din Valea Mare-Podgoria sunt rămășițele unui conac de vie în stil brâncovenesc.",
+                  "category": "historical",
+                  "coords": [
+                        24.905511,
+                        44.87459
+                  ]
+            },
+            {
+                  "name": "Conacul Mihail Ghelmegeanu",
+                  "text": "Conacul Mihail Ghelmegeanu este un conac istoric din Valea Mare-Podgoria.",
+                  "category": "historical",
+                  "coords": [
+                        24.909032,
+                        44.880296
+                  ]
+            },
+            {
+                  "name": "Vila Bulandra",
+                  "text": "Vila Bulandra este un conac bine cunoscut situat în Valea Mare-Podgoria.",
+                  "category": "historical",
+                  "coords": [
+                        24.90109,
+                        44.885251
+                  ]
+            },
+            {
+                  "name": "Cula Sfântul Mina - Orchidan",
+                  "text": "Cula Sfântul Mina - Orchidan este o atracție arhitecturală deosebită din Valea Mare-Podgoria.",
+                  "category": "landmark",
+                  "coords": [
+                        24.917813,
+                        44.878783
+                  ]
             }
       ],
       "en": [
@@ -35275,6 +36813,60 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.88232,
                         44.864026
+                  ]
+            },
+            {
+                  "name": "Casa Liviu Rebreanu",
+                  "text": "Casa Liviu Rebreanu is a manor in Valea Mare-Podgoria that serves as a memorial house for the famous writer.",
+                  "category": "historical",
+                  "coords": [
+                        24.904964,
+                        44.889096
+                  ]
+            },
+            {
+                  "name": "La doi brazi",
+                  "text": "La doi brazi is a scenic viewpoint located in Valea Mare-Podgoria.",
+                  "category": "natural",
+                  "coords": [
+                        24.915802,
+                        44.875131
+                  ]
+            },
+            {
+                  "name": "Ruinele conacului brâncovenesc de vie din Valea Mare-Podgoria",
+                  "text": "These ruins in Valea Mare-Podgoria are the remains of a Brâncovenesc-style vineyard manor.",
+                  "category": "historical",
+                  "coords": [
+                        24.905511,
+                        44.87459
+                  ]
+            },
+            {
+                  "name": "Conacul Mihail Ghelmegeanu",
+                  "text": "The Conacul Mihail Ghelmegeanu is a historic manor situated in Valea Mare-Podgoria.",
+                  "category": "historical",
+                  "coords": [
+                        24.909032,
+                        44.880296
+                  ]
+            },
+            {
+                  "name": "Vila Bulandra",
+                  "text": "Vila Bulandra is a well-known manor located in Valea Mare-Podgoria.",
+                  "category": "historical",
+                  "coords": [
+                        24.90109,
+                        44.885251
+                  ]
+            },
+            {
+                  "name": "Cula Sfântul Mina - Orchidan",
+                  "text": "The Cula Sfântul Mina - Orchidan is a distinct architectural attraction in Valea Mare-Podgoria.",
+                  "category": "landmark",
+                  "coords": [
+                        24.917813,
+                        44.878783
                   ]
             }
       ]

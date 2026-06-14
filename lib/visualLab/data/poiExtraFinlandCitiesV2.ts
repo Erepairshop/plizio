@@ -34986,7 +34986,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-hyrynsalmi-cities-v2.webp",
   },
   {
-    id: "finland-iitti-cities-v2",
+    id: "finland-iitti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muinaishauta",
+                  "text": "Muinaishauta ist eine antike Grabstätte, die die archäologische Geschichte in Iitti bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        26.369307,
+                        60.908536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muinaishauta",
+                  "text": "A Muinaishauta egy ősi temetkezési hely, amely Iitti régészeti történelmét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        26.369307,
+                        60.908536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muinaishauta",
+                  "text": "Muinaishauta este un loc de înmormântare antic care păstrează istoria arheologică în Iitti.",
+                  "category": "historical",
+                  "coords": [
+                        26.369307,
+                        60.908536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muinaishauta",
+                  "text": "Muinaishauta is an ancient burial site preserving archaeological history in Iitti.",
+                  "category": "historical",
+                  "coords": [
+                        26.369307,
+                        60.908536
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Iitti", hu: "Iitti", ro: "Iitti", en: "Iitti" },

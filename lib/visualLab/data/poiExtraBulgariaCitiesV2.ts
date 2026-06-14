@@ -8247,7 +8247,160 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-batenberg-cities-v2.webp",
   },
   {
-    id: "bulgaria-kalofer-cities-v2", "sights": {"de": [{"name": "yazovir Bedzha", "text": "Ein friedlicher See in Kalofer, umgeben von schöner Landschaft.", "category": "natural", "coords": [25.04105, 42.586039]}, {"name": "yazovir Sipeya", "text": "Ein ruhiger Stausee in Kalofer, ideal für Spaziergänge am Ufer.", "category": "natural", "coords": [25.027673, 42.582625]}, {"name": "yazovir Karkama", "text": "Ein naturnaher See in Kalofer, der Ruhe und Erholung bietet.", "category": "natural", "coords": [25.046569, 42.606594]}], "hu": [{"name": "yazovir Bedzha", "text": "Békés tó Kalofer közelében, szép tájjal körülvéve.", "category": "natural", "coords": [25.04105, 42.586039]}, {"name": "yazovir Sipeya", "text": "Csendes víztározó Kalofer területén, ideális a part menti sétákhoz.", "category": "natural", "coords": [25.027673, 42.582625]}, {"name": "yazovir Karkama", "text": "Természetközeli tó Kalofer közelében, amely nyugalmat és kikapcsolódást nyújt.", "category": "natural", "coords": [25.046569, 42.606594]}], "ro": [{"name": "yazovir Bedzha", "text": "Un lac liniștit în Kalofer, înconjurat de un peisaj frumos.", "category": "natural", "coords": [25.04105, 42.586039]}, {"name": "yazovir Sipeya", "text": "Un lac de acumulare liniștit în Kalofer, ideal pentru plimbări pe mal.", "category": "natural", "coords": [25.027673, 42.582625]}, {"name": "yazovir Karkama", "text": "Un lac aproape de natură în Kalofer, care oferă liniște și relaxare.", "category": "natural", "coords": [25.046569, 42.606594]}], "en": [{"name": "yazovir Bedzha", "text": "A peaceful lake in Kalofer surrounded by beautiful scenery.", "category": "natural", "coords": [25.04105, 42.586039]}, {"name": "yazovir Sipeya", "text": "A quiet reservoir in Kalofer, perfect for walks along the shore.", "category": "natural", "coords": [25.027673, 42.582625]}, {"name": "yazovir Karkama", "text": "A nature-rich lake in Kalofer offering peace and relaxation.", "category": "natural", "coords": [25.046569, 42.606594]}]},
+    id: "bulgaria-kalofer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yazovir Bedzha",
+                  "text": "Ein friedlicher See in Kalofer, umgeben von schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "yazovir Sipeya",
+                  "text": "Ein ruhiger Stausee in Kalofer, ideal für Spaziergänge am Ufer.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "yazovir Karkama",
+                  "text": "Ein naturnaher See in Kalofer, der Ruhe und Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            },
+            {
+                  "name": "Старата tурската баня",
+                  "text": "Das alte türkische Bad ist eine historische Ruine in Kalofer.",
+                  "category": "historical",
+                  "coords": [
+                        24.971151,
+                        42.614769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yazovir Bedzha",
+                  "text": "Békés tó Kalofer közelében, szép tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "yazovir Sipeya",
+                  "text": "Csendes víztározó Kalofer területén, ideális a part menti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "yazovir Karkama",
+                  "text": "Természetközeli tó Kalofer közelében, amely nyugalmat és kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            },
+            {
+                  "name": "Старата tурската баня",
+                  "text": "A régi törökfürdő egy történelmi rom Kaloferben.",
+                  "category": "historical",
+                  "coords": [
+                        24.971151,
+                        42.614769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yazovir Bedzha",
+                  "text": "Un lac liniștit în Kalofer, înconjurat de un peisaj frumos.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "yazovir Sipeya",
+                  "text": "Un lac de acumulare liniștit în Kalofer, ideal pentru plimbări pe mal.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "yazovir Karkama",
+                  "text": "Un lac aproape de natură în Kalofer, care oferă liniște și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            },
+            {
+                  "name": "Старата tурската баня",
+                  "text": "Vechea baie turcească este o ruină istorică situată în Kalofer.",
+                  "category": "historical",
+                  "coords": [
+                        24.971151,
+                        42.614769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yazovir Bedzha",
+                  "text": "A peaceful lake in Kalofer surrounded by beautiful scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.04105,
+                        42.586039
+                  ]
+            },
+            {
+                  "name": "yazovir Sipeya",
+                  "text": "A quiet reservoir in Kalofer, perfect for walks along the shore.",
+                  "category": "natural",
+                  "coords": [
+                        25.027673,
+                        42.582625
+                  ]
+            },
+            {
+                  "name": "yazovir Karkama",
+                  "text": "A nature-rich lake in Kalofer offering peace and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.046569,
+                        42.606594
+                  ]
+            },
+            {
+                  "name": "Старата tурската баня",
+                  "text": "The Old Turkish Bath is a historic ruin located in Kalofer.",
+                  "category": "historical",
+                  "coords": [
+                        24.971151,
+                        42.614769
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kalofer", hu: "Kalofer", ro: "Kalofer", en: "Kalofer" },
@@ -10767,7 +10920,340 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-buhovo-cities-v2.webp",
   },
   {
-    id: "bulgaria-batenberg-varna-cities-v2",
+    id: "bulgaria-batenberg-varna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Varna Chalcolithic Necropolis",
+                  "text": "Die Varna Chalcolithic Necropolis ist eine archäologische Stätte in Batenberg (Varna).",
+                  "category": "historical",
+                  "coords": [
+                        27.868887,
+                        43.214039
+                  ]
+            },
+            {
+                  "name": "Asparuhov bridge",
+                  "text": "Die Asparuhov-Brücke ist ein bedeutendes infrastrukturelles Wahrzeichen in Batenberg (Varna).",
+                  "category": "landmark",
+                  "coords": [
+                        27.889816,
+                        43.193455
+                  ]
+            },
+            {
+                  "name": "Asparuh's Wall",
+                  "text": "Asparuh's Wall ist eine historische Verteidigungsanlage in Batenberg (Varna).",
+                  "category": "castle",
+                  "coords": [
+                        27.905713,
+                        43.180315
+                  ]
+            },
+            {
+                  "name": "Old Varna Museum",
+                  "text": "Das Old Varna Museum ist eine kulturelle Einrichtung in Batenberg (Varna).",
+                  "category": "museum",
+                  "coords": [
+                        27.917742,
+                        43.200836
+                  ]
+            },
+            {
+                  "name": "Stoyan Bachvarov Dramatic Theatre",
+                  "text": "Das Stoyan Bachvarov Dramatic Theatre ist ein Theater in Batenberg (Varna).",
+                  "category": "cultural",
+                  "coords": [
+                        27.912241,
+                        43.203554
+                  ]
+            },
+            {
+                  "name": "Stage \"Filial\"",
+                  "text": "Die Stage \"Filial\" ist ein lokales Theater in Batenberg (Varna).",
+                  "category": "cultural",
+                  "coords": [
+                        27.910434,
+                        43.204213
+                  ]
+            },
+            {
+                  "name": "Lighthouse Sv. Nikola",
+                  "text": "Der Leuchtturm Sv. Nikola ist eine maritime Navigationsanlage in Batenberg (Varna).",
+                  "category": "landmark",
+                  "coords": [
+                        27.921804,
+                        43.187267
+                  ]
+            },
+            {
+                  "name": "South beach",
+                  "text": "Der South beach ist ein Erholungsgebiet an der Küste von Batenberg (Varna).",
+                  "category": "recreational",
+                  "coords": [
+                        27.922034,
+                        43.198678
+                  ]
+            },
+            {
+                  "name": "Asparuhovo beach",
+                  "text": "Der Asparuhovo beach ist ein öffentlicher Strandabschnitt in Batenberg (Varna).",
+                  "category": "recreational",
+                  "coords": [
+                        27.912229,
+                        43.177662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Varna Chalcolithic Necropolis",
+                  "text": "A Varna Chalcolithic Necropolis egy régészeti lelőhely Batenberg (Varna) területén.",
+                  "category": "historical",
+                  "coords": [
+                        27.868887,
+                        43.214039
+                  ]
+            },
+            {
+                  "name": "Asparuhov bridge",
+                  "text": "Az aszparuhovi híd egy jelentős infrastrukturális nevezetesség Batenberg (Varna) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        27.889816,
+                        43.193455
+                  ]
+            },
+            {
+                  "name": "Asparuh's Wall",
+                  "text": "Az Asparuh's Wall egy történelmi védelmi építmény Batenberg (Varna) területén.",
+                  "category": "castle",
+                  "coords": [
+                        27.905713,
+                        43.180315
+                  ]
+            },
+            {
+                  "name": "Old Varna Museum",
+                  "text": "Az Old Varna Museum egy kulturális intézmény Batenberg (Varna) területén.",
+                  "category": "museum",
+                  "coords": [
+                        27.917742,
+                        43.200836
+                  ]
+            },
+            {
+                  "name": "Stoyan Bachvarov Dramatic Theatre",
+                  "text": "A Stoyan Bachvarov Dramatic Theatre egy színház Batenberg (Varna) területén.",
+                  "category": "cultural",
+                  "coords": [
+                        27.912241,
+                        43.203554
+                  ]
+            },
+            {
+                  "name": "Stage \"Filial\"",
+                  "text": "A Stage \"Filial\" egy helyi színház Batenberg (Varna) területén.",
+                  "category": "cultural",
+                  "coords": [
+                        27.910434,
+                        43.204213
+                  ]
+            },
+            {
+                  "name": "Lighthouse Sv. Nikola",
+                  "text": "A Sv. Nikola világítótorony egy tengeri navigációs építmény Batenberg (Varna) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        27.921804,
+                        43.187267
+                  ]
+            },
+            {
+                  "name": "South beach",
+                  "text": "A South beach egy tengerparti rekreációs terület Batenberg (Varna) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.922034,
+                        43.198678
+                  ]
+            },
+            {
+                  "name": "Asparuhovo beach",
+                  "text": "Az Asparuhovo beach egy nyilvános strand Batenberg (Varna) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.912229,
+                        43.177662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Varna Chalcolithic Necropolis",
+                  "text": "Varna Chalcolithic Necropolis este un sit arheologic situat în Batenberg (Varna).",
+                  "category": "historical",
+                  "coords": [
+                        27.868887,
+                        43.214039
+                  ]
+            },
+            {
+                  "name": "Asparuhov bridge",
+                  "text": "Podul Asparuhov este un important punct de reper arhitectural în Batenberg (Varna).",
+                  "category": "landmark",
+                  "coords": [
+                        27.889816,
+                        43.193455
+                  ]
+            },
+            {
+                  "name": "Asparuh's Wall",
+                  "text": "Asparuh's Wall este o structură defensivă istorică situată în Batenberg (Varna).",
+                  "category": "castle",
+                  "coords": [
+                        27.905713,
+                        43.180315
+                  ]
+            },
+            {
+                  "name": "Old Varna Museum",
+                  "text": "Old Varna Museum este o instituție culturală situată în Batenberg (Varna).",
+                  "category": "museum",
+                  "coords": [
+                        27.917742,
+                        43.200836
+                  ]
+            },
+            {
+                  "name": "Stoyan Bachvarov Dramatic Theatre",
+                  "text": "Stoyan Bachvarov Dramatic Theatre este o locație pentru artele spectacolului în Batenberg (Varna).",
+                  "category": "cultural",
+                  "coords": [
+                        27.912241,
+                        43.203554
+                  ]
+            },
+            {
+                  "name": "Stage \"Filial\"",
+                  "text": "Stage \"Filial\" este un teatru local situat în Batenberg (Varna).",
+                  "category": "cultural",
+                  "coords": [
+                        27.910434,
+                        43.204213
+                  ]
+            },
+            {
+                  "name": "Lighthouse Sv. Nikola",
+                  "text": "Farul Sv. Nikola este o structură de navigație maritimă situată în Batenberg (Varna).",
+                  "category": "landmark",
+                  "coords": [
+                        27.921804,
+                        43.187267
+                  ]
+            },
+            {
+                  "name": "South beach",
+                  "text": "South beach este o zonă de recreere pe coastă situată în Batenberg (Varna).",
+                  "category": "recreational",
+                  "coords": [
+                        27.922034,
+                        43.198678
+                  ]
+            },
+            {
+                  "name": "Asparuhovo beach",
+                  "text": "Asparuhovo beach este o zonă publică pentru plajă situată în Batenberg (Varna).",
+                  "category": "recreational",
+                  "coords": [
+                        27.912229,
+                        43.177662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Varna Chalcolithic Necropolis",
+                  "text": "The Varna Chalcolithic Necropolis is an archaeological site located in Batenberg (Varna).",
+                  "category": "historical",
+                  "coords": [
+                        27.868887,
+                        43.214039
+                  ]
+            },
+            {
+                  "name": "Asparuhov bridge",
+                  "text": "The Asparuhov bridge is a notable infrastructure landmark in Batenberg (Varna).",
+                  "category": "landmark",
+                  "coords": [
+                        27.889816,
+                        43.193455
+                  ]
+            },
+            {
+                  "name": "Asparuh's Wall",
+                  "text": "Asparuh's Wall is a historical defensive structure located in Batenberg (Varna).",
+                  "category": "castle",
+                  "coords": [
+                        27.905713,
+                        43.180315
+                  ]
+            },
+            {
+                  "name": "Old Varna Museum",
+                  "text": "The Old Varna Museum is a cultural institution situated in Batenberg (Varna).",
+                  "category": "museum",
+                  "coords": [
+                        27.917742,
+                        43.200836
+                  ]
+            },
+            {
+                  "name": "Stoyan Bachvarov Dramatic Theatre",
+                  "text": "The Stoyan Bachvarov Dramatic Theatre is a performing arts venue in Batenberg (Varna).",
+                  "category": "cultural",
+                  "coords": [
+                        27.912241,
+                        43.203554
+                  ]
+            },
+            {
+                  "name": "Stage \"Filial\"",
+                  "text": "Stage \"Filial\" is a local theatre located in Batenberg (Varna).",
+                  "category": "cultural",
+                  "coords": [
+                        27.910434,
+                        43.204213
+                  ]
+            },
+            {
+                  "name": "Lighthouse Sv. Nikola",
+                  "text": "Lighthouse Sv. Nikola is a maritime navigational structure situated in Batenberg (Varna).",
+                  "category": "landmark",
+                  "coords": [
+                        27.921804,
+                        43.187267
+                  ]
+            },
+            {
+                  "name": "South beach",
+                  "text": "South beach is a coastal recreation area located in Batenberg (Varna).",
+                  "category": "recreational",
+                  "coords": [
+                        27.922034,
+                        43.198678
+                  ]
+            },
+            {
+                  "name": "Asparuhovo beach",
+                  "text": "Asparuhovo beach is a public bathing area situated in Batenberg (Varna).",
+                  "category": "recreational",
+                  "coords": [
+                        27.912229,
+                        43.177662
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Warna)", hu: "Batenberg (Varna)", ro: "Batenberg (Varna)", en: "Batenberg (Varna)" },
@@ -11550,7 +12036,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-topolovgrad-cities-v2.webp",
   },
   {
-    id: "bulgaria-banya-varna-cities-v2",
+    id: "bulgaria-banya-varna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vladislav Varnenchik museum",
+                  "text": "Das Museum Vladislav Varnenchik ist ein bedeutendes Gedenkmuseum in Banya (Warna), das an Władysław III. von Warna erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        27.86823,
+                        43.2311
+                  ]
+            },
+            {
+                  "name": "Thracian Mound and Tomb-IV c. BC",
+                  "text": "Das thrakische Hügelgrab aus dem 4. Jahrhundert v. Chr. ist eine archäologische Stätte in Banya (Warna).",
+                  "category": "historical",
+                  "coords": [
+                        27.868286,
+                        43.230001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vladislav Varnenchik museum",
+                  "text": "A Vladiszlav Varnencsik Múzeum egy nevezetes emlékmúzeum Banya (Várna) területén, amely III. Ulászló magyar királynak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        27.86823,
+                        43.2311
+                  ]
+            },
+            {
+                  "name": "Thracian Mound and Tomb-IV c. BC",
+                  "text": "Az i.e. 4. századi trák halomsír és síremlék egy régészeti lelőhely Banya (Várna) területén.",
+                  "category": "historical",
+                  "coords": [
+                        27.868286,
+                        43.230001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vladislav Varnenchik museum",
+                  "text": "Muzeul Vladislav Varnenchik este un memorial notabil din Banya (Varna) dedicat regelui Władysław al III-lea de Varna.",
+                  "category": "museum",
+                  "coords": [
+                        27.86823,
+                        43.2311
+                  ]
+            },
+            {
+                  "name": "Thracian Mound and Tomb-IV c. BC",
+                  "text": "Movila și mormântul tracic din secolul al IV-lea î.Hr. este un sit arheologic situat în Banya (Varna).",
+                  "category": "historical",
+                  "coords": [
+                        27.868286,
+                        43.230001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vladislav Varnenchik museum",
+                  "text": "The Vladislav Varnenchik museum is a notable memorial museum in Banya (Varna) dedicated to King Władysław III of Varna.",
+                  "category": "museum",
+                  "coords": [
+                        27.86823,
+                        43.2311
+                  ]
+            },
+            {
+                  "name": "Thracian Mound and Tomb-IV c. BC",
+                  "text": "The Thracian Mound and Tomb from the 4th century BC is an archaeological site located in Banya (Varna).",
+                  "category": "historical",
+                  "coords": [
+                        27.868286,
+                        43.230001
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Banja (Warna)", hu: "Banya (Varna)", ro: "Bania (Varna)", en: "Banya (Varna)" },
@@ -12927,7 +13494,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-batenberg-pazardzhik-2-cities-v2.webp",
   },
   {
-    id: "bulgaria-banya-pazardzhik-2-cities-v2",
+    id: "bulgaria-banya-pazardzhik-2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pliocene Epoch Park",
+                  "text": "Der Pliozän-Park ist ein paläontologisches Museum, das prähistorische Fossilienfunde aus der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.122231,
+                        42.0498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pliocene Epoch Park",
+                  "text": "A Pliocén Park egy őslénytani múzeum, amely a régió őskori fosszíliáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.122231,
+                        42.0498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pliocene Epoch Park",
+                  "text": "Parcul Epocii Pliocene este un muzeu paleontologic care prezintă descoperiri de fosile preistorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        24.122231,
+                        42.0498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pliocene Epoch Park",
+                  "text": "The Pliocene Epoch Park is a paleontological museum featuring prehistoric fossil discoveries from the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.122231,
+                        42.0498
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Banja (Pasardschik 2)", hu: "Banya (Pazardzsik 2)", ro: "Bania (Pazardjik 2)", en: "Banya (Pazardzhik 2)" },

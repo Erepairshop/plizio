@@ -14891,7 +14891,376 @@ imageHint: "Paraskeva Pyatnitsa Chapel in Krasnoyarsk",
     },
     image: "/poi-images/russia-krasnoyarsk-cities-v2.webp",
 },  {
-    id: "russia-voronezh-cities-v2",
+    id: "russia-voronezh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gotto Praedestinatio",
+                  "text": "Ein Museumsschiff in Woronesch, das die Nachbildung eines historischen russischen Schlachtschiffs ist.",
+                  "category": "museum",
+                  "coords": [
+                        39.21598,
+                        51.655959
+                  ]
+            },
+            {
+                  "name": "Voronezh State Opera and Ballet house",
+                  "text": "Das Haupttheater für Opern- und Ballettaufführungen in Woronesch.",
+                  "category": "cultural",
+                  "coords": [
+                        39.198924,
+                        51.66142
+                  ]
+            },
+            {
+                  "name": "Voronezh Synagogue",
+                  "text": "Ein historisches Gebäude, das als Zentrum der jüdischen Gemeinde in Woronesch dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.196801,
+                        51.658161
+                  ]
+            },
+            {
+                  "name": "Uspensky Admiralty Temple",
+                  "text": "Eine historische orthodoxe Kirche und bekannte Sehenswürdigkeit in Woronesch.",
+                  "category": "landmark",
+                  "coords": [
+                        39.214396,
+                        51.656586
+                  ]
+            },
+            {
+                  "name": "Дом губернатора 1780 г.",
+                  "text": "Das historische Gouverneurshaus von 1780, das heute ein Museum in Woronesch ist.",
+                  "category": "museum",
+                  "coords": [
+                        39.209683,
+                        51.672575
+                  ]
+            },
+            {
+                  "name": "Memorial to professor and student",
+                  "text": "Eine lokale Attraktion in Woronesch, die ein Denkmal für einen Professor und einen Studenten zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192013,
+                        51.65227
+                  ]
+            },
+            {
+                  "name": "Cтарая афишная тумба",
+                  "text": "Eine alte Litfaßsäule, die als Straßenattraktion in Woronesch erhalten geblieben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194473,
+                        51.660652
+                  ]
+            },
+            {
+                  "name": "Nikitin center",
+                  "text": "Ein Kultur- und Theaterzentrum in Woronesch.",
+                  "category": "cultural",
+                  "coords": [
+                        39.203535,
+                        51.669782
+                  ]
+            },
+            {
+                  "name": "The oldest street of Voronezh",
+                  "text": "Eine Attraktion, die die älteste historische Straße der Stadt Woronesch markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206832,
+                        51.654329
+                  ]
+            },
+            {
+                  "name": "House with an owl",
+                  "text": "Eine markante architektonische Attraktion in Woronesch, die für ihr Eulenmotiv bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209847,
+                        51.664976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gotto Praedestinatio",
+                  "text": "Múzeumhajó Voronyezsben, amely egy történelmi orosz csatahajó másolata.",
+                  "category": "museum",
+                  "coords": [
+                        39.21598,
+                        51.655959
+                  ]
+            },
+            {
+                  "name": "Voronezh State Opera and Ballet house",
+                  "text": "Voronyezs fő színháza opera- és balettelőadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        39.198924,
+                        51.66142
+                  ]
+            },
+            {
+                  "name": "Voronezh Synagogue",
+                  "text": "Történelmi épület, amely a voronyezsi zsidó közösség központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.196801,
+                        51.658161
+                  ]
+            },
+            {
+                  "name": "Uspensky Admiralty Temple",
+                  "text": "Történelmi ortodox templom és kiemelkedő látványosság Voronyezsben.",
+                  "category": "landmark",
+                  "coords": [
+                        39.214396,
+                        51.656586
+                  ]
+            },
+            {
+                  "name": "Дом губернатора 1780 г.",
+                  "text": "Az 1780-ban épült történelmi kormányzói ház, amely ma múzeum Voronyezsben.",
+                  "category": "museum",
+                  "coords": [
+                        39.209683,
+                        51.672575
+                  ]
+            },
+            {
+                  "name": "Memorial to professor and student",
+                  "text": "Helyi látványosság Voronyezsben, amely egy professzor és egy diák emlékművét ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192013,
+                        51.65227
+                  ]
+            },
+            {
+                  "name": "Cтарая афишная тумба",
+                  "text": "Régi hirdetőoszlop, amelyet utcai látványosságként őriztek meg Voronyezsben.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194473,
+                        51.660652
+                  ]
+            },
+            {
+                  "name": "Nikitin center",
+                  "text": "Kulturális és színházi központ Voronyezsben.",
+                  "category": "cultural",
+                  "coords": [
+                        39.203535,
+                        51.669782
+                  ]
+            },
+            {
+                  "name": "The oldest street of Voronezh",
+                  "text": "Voronyezs városának legrégebbi történelmi utcáját bemutató látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206832,
+                        51.654329
+                  ]
+            },
+            {
+                  "name": "House with an owl",
+                  "text": "Jellegzetes építészeti látványosság Voronyezsben, amely bagolymotívumáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209847,
+                        51.664976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gotto Praedestinatio",
+                  "text": "O navă muzeu în Voronej, replică a unei nave de război rusești istorice.",
+                  "category": "museum",
+                  "coords": [
+                        39.21598,
+                        51.655959
+                  ]
+            },
+            {
+                  "name": "Voronezh State Opera and Ballet house",
+                  "text": "Principalul teatru pentru spectacole de operă și balet din Voronej.",
+                  "category": "cultural",
+                  "coords": [
+                        39.198924,
+                        51.66142
+                  ]
+            },
+            {
+                  "name": "Voronezh Synagogue",
+                  "text": "O clădire istorică care servește drept centru al comunității evreiești din Voronej.",
+                  "category": "landmark",
+                  "coords": [
+                        39.196801,
+                        51.658161
+                  ]
+            },
+            {
+                  "name": "Uspensky Admiralty Temple",
+                  "text": "O biserică ortodoxă istorică și atracție turistică în Voronej.",
+                  "category": "landmark",
+                  "coords": [
+                        39.214396,
+                        51.656586
+                  ]
+            },
+            {
+                  "name": "Дом губернатора 1780 г.",
+                  "text": "Casa istorică a guvernatorului, construită în 1780, acum muzeu în Voronej.",
+                  "category": "museum",
+                  "coords": [
+                        39.209683,
+                        51.672575
+                  ]
+            },
+            {
+                  "name": "Memorial to professor and student",
+                  "text": "O atracție locală în Voronej, reprezentând un monument dedicat unui profesor și unui student.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192013,
+                        51.65227
+                  ]
+            },
+            {
+                  "name": "Cтарая афишная тумба",
+                  "text": "O veche coloană publicitară de teatru, păstrată ca atracție stradală în Voronej.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194473,
+                        51.660652
+                  ]
+            },
+            {
+                  "name": "Nikitin center",
+                  "text": "Un centru cultural și de teatru situat în Voronej.",
+                  "category": "cultural",
+                  "coords": [
+                        39.203535,
+                        51.669782
+                  ]
+            },
+            {
+                  "name": "The oldest street of Voronezh",
+                  "text": "O atracție care evidențiază cea mai veche stradă istorică din orașul Voronej.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206832,
+                        51.654329
+                  ]
+            },
+            {
+                  "name": "House with an owl",
+                  "text": "O atracție arhitecturală distinctivă în Voronej, cunoscută pentru motivul său cu bufniță.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209847,
+                        51.664976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gotto Praedestinatio",
+                  "text": "A museum ship in Voronezh that is a replica of a historical Russian battleship.",
+                  "category": "museum",
+                  "coords": [
+                        39.21598,
+                        51.655959
+                  ]
+            },
+            {
+                  "name": "Voronezh State Opera and Ballet house",
+                  "text": "The main theater for opera and ballet performances in Voronezh.",
+                  "category": "cultural",
+                  "coords": [
+                        39.198924,
+                        51.66142
+                  ]
+            },
+            {
+                  "name": "Voronezh Synagogue",
+                  "text": "A historic building serving as the center of the Jewish community in Voronezh.",
+                  "category": "landmark",
+                  "coords": [
+                        39.196801,
+                        51.658161
+                  ]
+            },
+            {
+                  "name": "Uspensky Admiralty Temple",
+                  "text": "A historic Orthodox church and landmark attraction in Voronezh.",
+                  "category": "landmark",
+                  "coords": [
+                        39.214396,
+                        51.656586
+                  ]
+            },
+            {
+                  "name": "Дом губернатора 1780 г.",
+                  "text": "The historical Governor's House built in 1780, now a museum in Voronezh.",
+                  "category": "museum",
+                  "coords": [
+                        39.209683,
+                        51.672575
+                  ]
+            },
+            {
+                  "name": "Memorial to professor and student",
+                  "text": "A local attraction in Voronezh depicting a monument of a professor and a student.",
+                  "category": "landmark",
+                  "coords": [
+                        39.192013,
+                        51.65227
+                  ]
+            },
+            {
+                  "name": "Cтарая афишная тумба",
+                  "text": "An old theatrical advertising column preserved as a street attraction in Voronezh.",
+                  "category": "landmark",
+                  "coords": [
+                        39.194473,
+                        51.660652
+                  ]
+            },
+            {
+                  "name": "Nikitin center",
+                  "text": "A cultural and theatrical center located in Voronezh.",
+                  "category": "cultural",
+                  "coords": [
+                        39.203535,
+                        51.669782
+                  ]
+            },
+            {
+                  "name": "The oldest street of Voronezh",
+                  "text": "An attraction highlighting the oldest historical street in the city of Voronezh.",
+                  "category": "landmark",
+                  "coords": [
+                        39.206832,
+                        51.654329
+                  ]
+            },
+            {
+                  "name": "House with an owl",
+                  "text": "A distinctive architectural attraction in Voronezh known for its owl motif.",
+                  "category": "landmark",
+                  "coords": [
+                        39.209847,
+                        51.664976
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Woronesch", hu: "Voronyezs", ro: "Voronej", en: "Voronezh"},
@@ -16720,7 +17089,52 @@ imageHint: "Kama River view in Perm",
     },
     image: "/poi-images/russia-perm-cities-v2.webp",
 },  {
-    id: "russia-volgograd-cities-v2",
+    id: "russia-volgograd-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum-reserve \"Battle of Stalingrad\"",
+                  "text": "Dieser bedeutende Museumskomplex in Wolgograd bewahrt die Geschichte der entscheidenden Schlacht von Stalingrad.",
+                  "category": "museum",
+                  "coords": [
+                        44.532915,
+                        48.715339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum-reserve \"Battle of Stalingrad\"",
+                  "text": "Ez a jelentős volgográdi múzeumkomplexum a sorsdöntő sztálingrádi csata történetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        44.532915,
+                        48.715339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum-reserve \"Battle of Stalingrad\"",
+                  "text": "Acest complex muzeal major din Volgograd păstrează istoria bătăliei esențiale de la Stalingrad.",
+                  "category": "museum",
+                  "coords": [
+                        44.532915,
+                        48.715339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum-reserve \"Battle of Stalingrad\"",
+                  "text": "This major museum complex in Volgograd preserves the history of the pivotal Battle of Stalingrad.",
+                  "category": "museum",
+                  "coords": [
+                        44.532915,
+                        48.715339
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Wolgograd", hu: "Volgográd", ro: "Volgograd", en: "Volgograd"},
@@ -33413,7 +33827,268 @@ imageHint: "Kemerovo city center and Tom river",
     },
     image: "/poi-images/russia-kemerovo-cities-v2.webp",
 },  {
-    id: "russia-ryazan-cities-v2",
+    id: "russia-ryazan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wooden house with tower",
+                  "text": "Dieses Holzhaus mit Turm ist eine markante architektonische Attraktion in Rjasan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.755967,
+                        54.630162
+                  ]
+            },
+            {
+                  "name": "Coffee museum",
+                  "text": "Das Kaffeemuseum in Rjasan zeigt die Geschichte und Kultur der Kaffeeherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        39.765044,
+                        54.633469
+                  ]
+            },
+            {
+                  "name": "Residence of traditions",
+                  "text": "Die Residenz der Traditionen ist ein Museum in Rjasan, das das lokale kulturelle Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        39.763991,
+                        54.633579
+                  ]
+            },
+            {
+                  "name": "2-я мужская гимназия",
+                  "text": "Das 2. Männergymnasium ist ein historisches Schulgebäude und eine Attraktion in Rjasan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.745367,
+                        54.628758
+                  ]
+            },
+            {
+                  "name": "Kilometre zero",
+                  "text": "Der Kilometer Null ist eine symbolische Markierung und Touristenattraktion im Zentrum von Rjasan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.741915,
+                        54.629566
+                  ]
+            },
+            {
+                  "name": "Перекресток у 3 аптеки",
+                  "text": "Die Kreuzung an der 3. Apotheke ist ein bekanntes lokales Wahrzeichen in Rjasan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.740203,
+                        54.631508
+                  ]
+            },
+            {
+                  "name": "Дашковская богадельня (18 в.)",
+                  "text": "Das Daschkow-Armenhaus ist eine architektonische Attraktion aus dem 18. Jahrhundert in Rjasan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.757999,
+                        54.636023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wooden house with tower",
+                  "text": "Ez a tornyos faház egy jellegzetes építészeti látványosság Rjazanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.755967,
+                        54.630162
+                  ]
+            },
+            {
+                  "name": "Coffee museum",
+                  "text": "A rjazanyi kávémúzeum a kávékészítés történetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.765044,
+                        54.633469
+                  ]
+            },
+            {
+                  "name": "Residence of traditions",
+                  "text": "A Hagyományok Háza egy múzeum Rjazanyban, amely a helyi kulturális örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.763991,
+                        54.633579
+                  ]
+            },
+            {
+                  "name": "2-я мужская гимназия",
+                  "text": "A 2. fiúgimnázium egy történelmi oktatási épület és látványosság Rjazanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.745367,
+                        54.628758
+                  ]
+            },
+            {
+                  "name": "Kilometre zero",
+                  "text": "A nulladik kilométerkő egy szimbolikus jelölés és turisztikai látványosság Rjazany központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.741915,
+                        54.629566
+                  ]
+            },
+            {
+                  "name": "Перекресток у 3 аптеки",
+                  "text": "A 3-as gyógyszertárnál lévő kereszteződés egy ismert helyi nevezetesség Rjazanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.740203,
+                        54.631508
+                  ]
+            },
+            {
+                  "name": "Дашковская богадельня (18 в.)",
+                  "text": "A Daskov-menház egy 18. századi építészeti látványosság Rjazanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.757999,
+                        54.636023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wooden house with tower",
+                  "text": "Această casă de lemn cu turn este o atracție arhitecturală distinctivă în Reazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.755967,
+                        54.630162
+                  ]
+            },
+            {
+                  "name": "Coffee museum",
+                  "text": "Muzeul Cafelei din Reazan expune istoria și cultura preparării cafelei.",
+                  "category": "museum",
+                  "coords": [
+                        39.765044,
+                        54.633469
+                  ]
+            },
+            {
+                  "name": "Residence of traditions",
+                  "text": "Reședința Tradițiilor este un muzeu din Reazan care prezintă patrimoniul cultural local.",
+                  "category": "museum",
+                  "coords": [
+                        39.763991,
+                        54.633579
+                  ]
+            },
+            {
+                  "name": "2-я мужская гимназия",
+                  "text": "Al doilea gimnaziu pentru băieți este o clădire educațională istorică și o atracție în Reazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.745367,
+                        54.628758
+                  ]
+            },
+            {
+                  "name": "Kilometre zero",
+                  "text": "Kilometrul zero este un marcaj simbolic care servește drept atracție turistică în centrul orașului Reazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.741915,
+                        54.629566
+                  ]
+            },
+            {
+                  "name": "Перекресток у 3 аптеки",
+                  "text": "Intersecția de la farmacia numărul 3 este un punct de reper local recunoscut în Reazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.740203,
+                        54.631508
+                  ]
+            },
+            {
+                  "name": "Дашковская богадельня (18 в.)",
+                  "text": "Azilul Dashkovskaya este o atracție arhitecturală din secolul al XVIII-lea în Reazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.757999,
+                        54.636023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wooden house with tower",
+                  "text": "This wooden house with a tower is a distinctive architectural attraction in Ryazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.755967,
+                        54.630162
+                  ]
+            },
+            {
+                  "name": "Coffee museum",
+                  "text": "The Coffee Museum in Ryazan exhibits the history and culture of coffee making.",
+                  "category": "museum",
+                  "coords": [
+                        39.765044,
+                        54.633469
+                  ]
+            },
+            {
+                  "name": "Residence of traditions",
+                  "text": "The Residence of Traditions is a museum in Ryazan that showcases local cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        39.763991,
+                        54.633579
+                  ]
+            },
+            {
+                  "name": "2-я мужская гимназия",
+                  "text": "The 2nd Men's Gymnasium is a historical educational building and attraction in Ryazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.745367,
+                        54.628758
+                  ]
+            },
+            {
+                  "name": "Kilometre zero",
+                  "text": "Kilometre zero is a symbolic marker serving as a tourist attraction in the center of Ryazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.741915,
+                        54.629566
+                  ]
+            },
+            {
+                  "name": "Перекресток у 3 аптеки",
+                  "text": "The Intersection at the 3rd Pharmacy is a recognized local landmark in Ryazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.740203,
+                        54.631508
+                  ]
+            },
+            {
+                  "name": "Дашковская богадельня (18 в.)",
+                  "text": "The Dashkovskaya Almshouse is an 18th-century architectural attraction in Ryazan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.757999,
+                        54.636023
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Rjasan", hu: "Rjazany", ro: "Reazan", en: "Ryazan"},
@@ -35433,7 +36108,160 @@ imageHint: "Penza city center architecture",
     },
     image: "/poi-images/russia-penza-cities-v2.webp",
 },  {
-    id: "russia-lipetsk-cities-v2",
+    id: "russia-lipetsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Петру I",
+                  "text": "Das Denkmal für Peter I. befindet sich in der Stadt Lipezk.",
+                  "category": "historical",
+                  "coords": [
+                        39.599859,
+                        52.607922
+                  ]
+            },
+            {
+                  "name": "Lower Park",
+                  "text": "Der Untere Park ist ein bekannter Erholungspark in Lipezk.",
+                  "category": "park",
+                  "coords": [
+                        39.609989,
+                        52.60727
+                  ]
+            },
+            {
+                  "name": "Lipetsk Lev Tolstoy State Academy Theatre",
+                  "text": "Das Staatliche Akademische Theater von Lipezk ist nach Leo Tolstoi benannt und eine bedeutende Kulturstätte der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.590645,
+                        52.605106
+                  ]
+            },
+            {
+                  "name": "Пляж Openhouse",
+                  "text": "Der Strand Openhouse bietet Erholungsmöglichkeiten als Strandresort in Lipezk.",
+                  "category": "recreational",
+                  "coords": [
+                        39.594572,
+                        52.588818
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Петру I",
+                  "text": "Az I. Péternek emléket állító emlékmű Lipeck városában található.",
+                  "category": "historical",
+                  "coords": [
+                        39.599859,
+                        52.607922
+                  ]
+            },
+            {
+                  "name": "Lower Park",
+                  "text": "Az Alsó park egy ismert pihenőpark Lipeck városában.",
+                  "category": "park",
+                  "coords": [
+                        39.609989,
+                        52.60727
+                  ]
+            },
+            {
+                  "name": "Lipetsk Lev Tolstoy State Academy Theatre",
+                  "text": "A Lev Tolsztojról elnevezett Lipecki Állami Akadémiai Színház a város jelentős kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        39.590645,
+                        52.605106
+                  ]
+            },
+            {
+                  "name": "Пляж Openhouse",
+                  "text": "Az Openhouse strand tengerparti üdülőhelyként kínál kikapcsolódást Lipeckben.",
+                  "category": "recreational",
+                  "coords": [
+                        39.594572,
+                        52.588818
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Петру I",
+                  "text": "Monumentul dedicat lui Petru I se află în orașul Lipețk.",
+                  "category": "historical",
+                  "coords": [
+                        39.599859,
+                        52.607922
+                  ]
+            },
+            {
+                  "name": "Lower Park",
+                  "text": "Parcul Inferior este un parc de recreere recunoscut din Lipețk.",
+                  "category": "park",
+                  "coords": [
+                        39.609989,
+                        52.60727
+                  ]
+            },
+            {
+                  "name": "Lipetsk Lev Tolstoy State Academy Theatre",
+                  "text": "Teatrul Academic de Stat din Lipețk, numit după Lev Tolstoi, este o instituție culturală importantă a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        39.590645,
+                        52.605106
+                  ]
+            },
+            {
+                  "name": "Пляж Openhouse",
+                  "text": "Plaja Openhouse oferă oportunități de recreere ca stațiune balneară în Lipețk.",
+                  "category": "recreational",
+                  "coords": [
+                        39.594572,
+                        52.588818
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Петру I",
+                  "text": "The monument dedicated to Peter I is located in the city of Lipetsk.",
+                  "category": "historical",
+                  "coords": [
+                        39.599859,
+                        52.607922
+                  ]
+            },
+            {
+                  "name": "Lower Park",
+                  "text": "The Lower Park is a prominent recreational park located in Lipetsk.",
+                  "category": "park",
+                  "coords": [
+                        39.609989,
+                        52.60727
+                  ]
+            },
+            {
+                  "name": "Lipetsk Lev Tolstoy State Academy Theatre",
+                  "text": "The Lipetsk Lev Tolstoy State Academy Theatre is a major cultural venue in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        39.590645,
+                        52.605106
+                  ]
+            },
+            {
+                  "name": "Пляж Openhouse",
+                  "text": "Openhouse Beach offers recreational opportunities as a beach resort in Lipetsk.",
+                  "category": "recreational",
+                  "coords": [
+                        39.594572,
+                        52.588818
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Lipezk", hu: "Lipeck", ro: "Lipețk", en: "Lipetsk"},
@@ -40955,7 +41783,124 @@ imageHint: "Balashikha city park and architecture",
     },
     image: "/poi-images/russia-balashikha-cities-v2.webp",
 },  {
-    id: "russia-kursk-cities-v2",
+    id: "russia-kursk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sound Check",
+                  "text": "Sound Check ist ein lokales Kunstzentrum in der Stadt Kursk.",
+                  "category": "cultural",
+                  "coords": [
+                        36.191436,
+                        51.731932
+                  ]
+            },
+            {
+                  "name": "Городской пляж №2",
+                  "text": "Gorodskoy plyazh №2 ist ein öffentlicher Stadtstrand in Kursk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.216956,
+                        51.739128
+                  ]
+            },
+            {
+                  "name": "Городской пляж №4",
+                  "text": "Gorodskoy plyazh №4 ist ein städtischer Strand in Kursk, der Erholung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        36.214726,
+                        51.744839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sound Check",
+                  "text": "A Sound Check egy helyi művészeti központ Kurszk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        36.191436,
+                        51.731932
+                  ]
+            },
+            {
+                  "name": "Городской пляж №2",
+                  "text": "A Gorodszkoj pljazs №2 egy nyilvános városi strand Kurszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        36.216956,
+                        51.739128
+                  ]
+            },
+            {
+                  "name": "Городской пляж №4",
+                  "text": "A Gorodszkoj pljazs №4 egy városi strand Kurszkban, amely vízpari kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        36.214726,
+                        51.744839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sound Check",
+                  "text": "Sound Check este un centru de arte local situat în Kursk.",
+                  "category": "cultural",
+                  "coords": [
+                        36.191436,
+                        51.731932
+                  ]
+            },
+            {
+                  "name": "Городской пляж №2",
+                  "text": "Gorodskoy plyazh №2 este o plajă publică a orașului Kursk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.216956,
+                        51.739128
+                  ]
+            },
+            {
+                  "name": "Городской пляж №4",
+                  "text": "Gorodskoy plyazh №4 este o plajă orășenească din Kursk, oferind recreere pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        36.214726,
+                        51.744839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sound Check",
+                  "text": "Sound Check is a local arts centre located in the city of Kursk.",
+                  "category": "cultural",
+                  "coords": [
+                        36.191436,
+                        51.731932
+                  ]
+            },
+            {
+                  "name": "Городской пляж №2",
+                  "text": "Gorodskoy plyazh №2 is a public city beach located in Kursk.",
+                  "category": "recreational",
+                  "coords": [
+                        36.216956,
+                        51.739128
+                  ]
+            },
+            {
+                  "name": "Городской пляж №4",
+                  "text": "Gorodskoy plyazh №4 is a city beach in Kursk offering waterside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        36.214726,
+                        51.744839
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Kursk", hu: "Kurszk", ro: "Kursk", en: "Kursk"},
@@ -41957,6 +42902,60 @@ imageHint: "Giant Lenin Head monument in Ulan-Ude",
                         39.720658,
                         43.577352
                   ]
+            },
+            {
+                  "name": "Sochi Arboretum (lower part)",
+                  "text": "Der untere Teil des Sotschi-Arboretums ist ein berühmter botanischer Garten mit vielfältigen Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        39.741331,
+                        43.567095
+                  ]
+            },
+            {
+                  "name": "Sochi Arboretum (higher part)",
+                  "text": "Der obere Teil des Sotschi-Arboretums ist ein markanter Parkbereich, der für seine umfangreichen subtropischen Pflanzensammlungen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        39.743091,
+                        43.572492
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral",
+                  "text": "Die St.-Michael-Kathedrale ist die älteste orthodoxe Kirche und ein bedeutendes architektonisches Wahrzeichen in Sotschi.",
+                  "category": "religious",
+                  "coords": [
+                        39.722319,
+                        43.579493
+                  ]
+            },
+            {
+                  "name": "Vladimir Ilyich Lenin",
+                  "text": "Das Wladimir-Iljitsch-Lenin-Denkmal ist eine historische Statue in Sotschi.",
+                  "category": "historical",
+                  "coords": [
+                        39.72704,
+                        43.577315
+                  ]
+            },
+            {
+                  "name": "Sochi History Museum",
+                  "text": "Das Historische Museum Sotschi ist eine kulturelle Einrichtung, die die Vergangenheit der Stadt Sotschi beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        39.72345,
+                        43.590293
+                  ]
+            },
+            {
+                  "name": "Museum of Sochi Sport Honour",
+                  "text": "Das Museum für Sporterfolge in Sotschi präsentiert die mit der Stadt verbundenen sportlichen Leistungen.",
+                  "category": "museum",
+                  "coords": [
+                        39.722913,
+                        43.586145
+                  ]
             }
       ],
       "hu": [
@@ -41994,6 +42993,60 @@ imageHint: "Giant Lenin Head monument in Ulan-Ude",
                   "coords": [
                         39.720658,
                         43.577352
+                  ]
+            },
+            {
+                  "name": "Sochi Arboretum (lower part)",
+                  "text": "A Szocsi Arborétum alsó része egy híres botanikus kert, amely változatos növényfajokat mutat be.",
+                  "category": "park",
+                  "coords": [
+                        39.741331,
+                        43.567095
+                  ]
+            },
+            {
+                  "name": "Sochi Arboretum (higher part)",
+                  "text": "A Szocsi Arborétum felső része egy jelentős park, amely kiterjedt szubtrópusi növénygyűjteményéről híres.",
+                  "category": "park",
+                  "coords": [
+                        39.743091,
+                        43.572492
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral",
+                  "text": "A Szent Mihály-székesegyház Szocsi legrégebbi ortodox temploma és jelentős építészeti nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        39.722319,
+                        43.579493
+                  ]
+            },
+            {
+                  "name": "Vladimir Ilyich Lenin",
+                  "text": "A Vlagyimir Iljics Lenin-emlékmű egy történelmi szobor Szocsiban.",
+                  "category": "historical",
+                  "coords": [
+                        39.72704,
+                        43.577315
+                  ]
+            },
+            {
+                  "name": "Sochi History Museum",
+                  "text": "A Szocsi Történeti Múzeum egy kulturális intézmény, amely Szocsi múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.72345,
+                        43.590293
+                  ]
+            },
+            {
+                  "name": "Museum of Sochi Sport Honour",
+                  "text": "A Szocsi Sportdicsőség Múzeuma a városhoz kötődő sportteljesítményeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.722913,
+                        43.586145
                   ]
             }
       ],
@@ -42033,6 +43086,60 @@ imageHint: "Giant Lenin Head monument in Ulan-Ude",
                         39.720658,
                         43.577352
                   ]
+            },
+            {
+                  "name": "Sochi Arboretum (lower part)",
+                  "text": "Partea inferioară a Parcului Dendrologic din Soci este o grădină botanică faimoasă pentru speciile sale diverse de plante.",
+                  "category": "park",
+                  "coords": [
+                        39.741331,
+                        43.567095
+                  ]
+            },
+            {
+                  "name": "Sochi Arboretum (higher part)",
+                  "text": "Partea superioară a Parcului Dendrologic din Soci este o zonă de parc renumită pentru colecțiile sale extinse de plante subtropicale.",
+                  "category": "park",
+                  "coords": [
+                        39.743091,
+                        43.572492
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral",
+                  "text": "Catedrala Sfântul Mihail este cea mai veche biserică ortodoxă și un reper arhitectural notabil din Soci.",
+                  "category": "religious",
+                  "coords": [
+                        39.722319,
+                        43.579493
+                  ]
+            },
+            {
+                  "name": "Vladimir Ilyich Lenin",
+                  "text": "Monumentul Vladimir Ilici Lenin este o statuie istorică situată în Soci.",
+                  "category": "historical",
+                  "coords": [
+                        39.72704,
+                        43.577315
+                  ]
+            },
+            {
+                  "name": "Sochi History Museum",
+                  "text": "Muzeul de Istorie din Soci este o instituție culturală care detaliază trecutul orașului Soci.",
+                  "category": "museum",
+                  "coords": [
+                        39.72345,
+                        43.590293
+                  ]
+            },
+            {
+                  "name": "Museum of Sochi Sport Honour",
+                  "text": "Muzeul de Onoare Sportivă din Soci prezintă realizările sportive legate de orașul Soci.",
+                  "category": "museum",
+                  "coords": [
+                        39.722913,
+                        43.586145
+                  ]
             }
       ],
       "en": [
@@ -42070,6 +43177,60 @@ imageHint: "Giant Lenin Head monument in Ulan-Ude",
                   "coords": [
                         39.720658,
                         43.577352
+                  ]
+            },
+            {
+                  "name": "Sochi Arboretum (lower part)",
+                  "text": "The lower part of the Sochi Arboretum is a famous botanical garden featuring diverse plant species.",
+                  "category": "park",
+                  "coords": [
+                        39.741331,
+                        43.567095
+                  ]
+            },
+            {
+                  "name": "Sochi Arboretum (higher part)",
+                  "text": "The higher part of the Sochi Arboretum is a prominent park area renowned for its extensive subtropical plant collections.",
+                  "category": "park",
+                  "coords": [
+                        39.743091,
+                        43.572492
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral",
+                  "text": "Saint Michael's Cathedral is the oldest orthodox church and a notable architectural landmark in Sochi.",
+                  "category": "religious",
+                  "coords": [
+                        39.722319,
+                        43.579493
+                  ]
+            },
+            {
+                  "name": "Vladimir Ilyich Lenin",
+                  "text": "The Vladimir Ilyich Lenin monument is a historical statue located in Sochi.",
+                  "category": "historical",
+                  "coords": [
+                        39.72704,
+                        43.577315
+                  ]
+            },
+            {
+                  "name": "Sochi History Museum",
+                  "text": "The Sochi History Museum is a cultural institution detailing the past of Sochi.",
+                  "category": "museum",
+                  "coords": [
+                        39.72345,
+                        43.590293
+                  ]
+            },
+            {
+                  "name": "Museum of Sochi Sport Honour",
+                  "text": "The Museum of Sochi Sport Honour showcases the sporting achievements connected to Sochi.",
+                  "category": "museum",
+                  "coords": [
+                        39.722913,
+                        43.586145
                   ]
             }
       ]
@@ -48334,7 +49495,340 @@ imageHint: "Partisan Square in Bryansk",
     },
     image: "/poi-images/russia-bryansk-cities-v2.webp",
 },  {
-    id: "russia-belgorod-cities-v2",
+    id: "russia-belgorod-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of the Intercession of the Holy Mother of God",
+                  "text": "Die Kirche der Fürbitte der Heiligen Muttergottes ist ein bemerkenswertes Gotteshaus in Belgorod.",
+                  "category": "religious",
+                  "coords": [
+                        36.57181,
+                        50.61599
+                  ]
+            },
+            {
+                  "name": "Museum-diorama “Battle of Kursk. Belgorod Direction”",
+                  "text": "Das Museum-Diorama zur Schlacht von Kursk bietet detaillierte Einblicke in dieses historische Ereignis in Belgorod.",
+                  "category": "museum",
+                  "coords": [
+                        36.587823,
+                        50.59132
+                  ]
+            },
+            {
+                  "name": "Belgorod State Art Museum",
+                  "text": "Das Staatliche Kunstmuseum Belgorod ist eine kulturelle Einrichtung, die verschiedene Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        36.586683,
+                        50.592787
+                  ]
+            },
+            {
+                  "name": "Belgorod State Historical and Local Museum",
+                  "text": "Das Staatliche Historische und Heimatmuseum in Belgorod dokumentiert die lokale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        36.587986,
+                        50.59247
+                  ]
+            },
+            {
+                  "name": "Belgorod M.S. Shchepkin State Academic Drama Theatre",
+                  "text": "Das Staatliche Akademische M.S. Schtschepkin-Dramatheater in Belgorod ist ein Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        36.586957,
+                        50.594502
+                  ]
+            },
+            {
+                  "name": "Palace of culture “Energomash”",
+                  "text": "Der Kulturpalast \"Energomasch\" ist ein lebendiges Kunst- und Kulturzentrum in Belgorod.",
+                  "category": "cultural",
+                  "coords": [
+                        36.583067,
+                        50.610362
+                  ]
+            },
+            {
+                  "name": "Судебная канцелярия XIX века",
+                  "text": "Die Gerichtskanzlei aus dem 19. Jahrhundert ist eine historische Attraktion in Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.574877,
+                        50.595604
+                  ]
+            },
+            {
+                  "name": "Пивзавод Эсслингера 1902 года",
+                  "text": "Die Esslinger Brauerei aus dem Jahr 1902 ist eine historische Touristenattraktion in Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.579823,
+                        50.594725
+                  ]
+            },
+            {
+                  "name": "Здание женской гимназии (начало XX века)",
+                  "text": "Das Gebäude des Mädchengymnasiums aus dem frühen 20. Jahrhundert ist eine sehenswerte historische Stätte in Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.592119,
+                        50.601042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of the Intercession of the Holy Mother of God",
+                  "text": "Az Istenszülő oltalma templom egy figyelemre méltó istentiszteleti hely Belgorodban.",
+                  "category": "religious",
+                  "coords": [
+                        36.57181,
+                        50.61599
+                  ]
+            },
+            {
+                  "name": "Museum-diorama “Battle of Kursk. Belgorod Direction”",
+                  "text": "A kurszki csatát bemutató dioráma-múzeum részletes betekintést nyújt a történelmi eseménybe Belgorodban.",
+                  "category": "museum",
+                  "coords": [
+                        36.587823,
+                        50.59132
+                  ]
+            },
+            {
+                  "name": "Belgorod State Art Museum",
+                  "text": "A Belgorodi Állami Művészeti Múzeum egy kulturális intézmény, amely különféle műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        36.586683,
+                        50.592787
+                  ]
+            },
+            {
+                  "name": "Belgorod State Historical and Local Museum",
+                  "text": "A Belgorodi Állami Történeti és Helytörténeti Múzeum a helyi történelmet és kultúrát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        36.587986,
+                        50.59247
+                  ]
+            },
+            {
+                  "name": "Belgorod M.S. Shchepkin State Academic Drama Theatre",
+                  "text": "A belgorodi M.Sz. Scsepkin Állami Akadémiai Drámai Színház az előadóművészetek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        36.586957,
+                        50.594502
+                  ]
+            },
+            {
+                  "name": "Palace of culture “Energomash”",
+                  "text": "Az „Energomas” Kultúrpalota egy nyüzsgő művészeti és kulturális központ Belgorodban.",
+                  "category": "cultural",
+                  "coords": [
+                        36.583067,
+                        50.610362
+                  ]
+            },
+            {
+                  "name": "Судебная канцелярия XIX века",
+                  "text": "A 19. századi bírósági kancellária egy történelmi látványosság Belgorodban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.574877,
+                        50.595604
+                  ]
+            },
+            {
+                  "name": "Пивзавод Эсслингера 1902 года",
+                  "text": "Az 1902-ből származó Esslinger sörfőzde egy történelmi turisztikai látványosság Belgorodban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.579823,
+                        50.594725
+                  ]
+            },
+            {
+                  "name": "Здание женской гимназии (начало XX века)",
+                  "text": "A 20. század eleji leánygimnázium épülete egy figyelemre méltó történelmi helyszín Belgorodban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.592119,
+                        50.601042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of the Intercession of the Holy Mother of God",
+                  "text": "Biserica Acoperământul Maicii Domnului este un lăcaș de cult remarcabil din Belgorod.",
+                  "category": "religious",
+                  "coords": [
+                        36.57181,
+                        50.61599
+                  ]
+            },
+            {
+                  "name": "Museum-diorama “Battle of Kursk. Belgorod Direction”",
+                  "text": "Muzeul-dioramă dedicat Bătăliei de la Kursk din Belgorod oferă o perspectivă detaliată asupra acestui eveniment istoric.",
+                  "category": "museum",
+                  "coords": [
+                        36.587823,
+                        50.59132
+                  ]
+            },
+            {
+                  "name": "Belgorod State Art Museum",
+                  "text": "Muzeul de Artă de Stat din Belgorod este o instituție culturală care expune diverse opere de artă.",
+                  "category": "museum",
+                  "coords": [
+                        36.586683,
+                        50.592787
+                  ]
+            },
+            {
+                  "name": "Belgorod State Historical and Local Museum",
+                  "text": "Muzeul de Stat de Istorie și Etnografie din Belgorod documentează istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        36.587986,
+                        50.59247
+                  ]
+            },
+            {
+                  "name": "Belgorod M.S. Shchepkin State Academic Drama Theatre",
+                  "text": "Teatrul Dramatic Academic de Stat M.S. Shchepkin din Belgorod este un centru de artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        36.586957,
+                        50.594502
+                  ]
+            },
+            {
+                  "name": "Palace of culture “Energomash”",
+                  "text": "Palatul de cultură „Energomash” este un centru activ de artă și cultură în Belgorod.",
+                  "category": "cultural",
+                  "coords": [
+                        36.583067,
+                        50.610362
+                  ]
+            },
+            {
+                  "name": "Судебная канцелярия XIX века",
+                  "text": "Cancelaria judecătorească din secolul al XIX-lea este o atracție istorică din Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.574877,
+                        50.595604
+                  ]
+            },
+            {
+                  "name": "Пивзавод Эсслингера 1902 года",
+                  "text": "Fabrica de bere Esslinger din 1902 este o atracție turistică istorică din Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.579823,
+                        50.594725
+                  ]
+            },
+            {
+                  "name": "Здание женской гимназии (начало XX века)",
+                  "text": "Clădirea gimnaziului pentru fete de la începutul secolului al XX-lea este un sit istoric notabil din Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.592119,
+                        50.601042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Intercession of the Holy Mother of God",
+                  "text": "The Church of the Intercession of the Holy Mother of God is a notable place of worship in Belgorod.",
+                  "category": "religious",
+                  "coords": [
+                        36.57181,
+                        50.61599
+                  ]
+            },
+            {
+                  "name": "Museum-diorama “Battle of Kursk. Belgorod Direction”",
+                  "text": "The Museum-diorama of the Battle of Kursk in Belgorod provides detailed insights into this historical event.",
+                  "category": "museum",
+                  "coords": [
+                        36.587823,
+                        50.59132
+                  ]
+            },
+            {
+                  "name": "Belgorod State Art Museum",
+                  "text": "The Belgorod State Art Museum is a cultural institution showcasing various works of art.",
+                  "category": "museum",
+                  "coords": [
+                        36.586683,
+                        50.592787
+                  ]
+            },
+            {
+                  "name": "Belgorod State Historical and Local Museum",
+                  "text": "The Belgorod State Historical and Local Museum documents the local history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        36.587986,
+                        50.59247
+                  ]
+            },
+            {
+                  "name": "Belgorod M.S. Shchepkin State Academic Drama Theatre",
+                  "text": "The Belgorod M.S. Shchepkin State Academic Drama Theatre is a venue dedicated to performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        36.586957,
+                        50.594502
+                  ]
+            },
+            {
+                  "name": "Palace of culture “Energomash”",
+                  "text": "The Palace of culture “Energomash” is an active arts and cultural center in Belgorod.",
+                  "category": "cultural",
+                  "coords": [
+                        36.583067,
+                        50.610362
+                  ]
+            },
+            {
+                  "name": "Судебная канцелярия XIX века",
+                  "text": "The 19th-century Judicial Chancery is a historical attraction located in Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.574877,
+                        50.595604
+                  ]
+            },
+            {
+                  "name": "Пивзавод Эсслингера 1902 года",
+                  "text": "The Esslinger Brewery from 1902 is a historical tourist attraction in Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.579823,
+                        50.594725
+                  ]
+            },
+            {
+                  "name": "Здание женской гимназии (начало XX века)",
+                  "text": "The early 20th-century girls' gymnasium building is a notable historical site in Belgorod.",
+                  "category": "landmark",
+                  "coords": [
+                        36.592119,
+                        50.601042
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Belgorod", hu: "Belgorod", ro: "Belgorod", en: "Belgorod"},
@@ -48966,7 +50460,340 @@ imageHint: "Yugra Bridge in Surgut",
     },
     image: "/poi-images/russia-surgut-cities-v2.webp",
 },  {
-    id: "russia-vladimir-cities-v2",
+    id: "russia-vladimir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Spoons",
+                  "text": "Das Museum of Spoons ist ein einzigartiges Museum in Vladimir, das einer großen Löffelsammlung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        40.403211,
+                        56.127508
+                  ]
+            },
+            {
+                  "name": "Trinity church",
+                  "text": "Die Trinity church ist eine bedeutende historische Kirche in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.396081,
+                        56.126456
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "Das Goldene Tor ist ein berühmtes historisches Denkmal und altes Stadttor in Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.397127,
+                        56.126869
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "Die Mariä-Entschlafens-Kathedrale ist ein bedeutendes historisches Wahrzeichen und eine russisch-orthodoxe Kirche in Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409252,
+                        56.12741
+                  ]
+            },
+            {
+                  "name": "The Church of St.Nikita the Martyr",
+                  "text": "The Church of St.Nikita the Martyr ist eine religiöse Kultstätte in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.397842,
+                        56.130738
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Demetrius",
+                  "text": "Die Demetrius-Kathedrale ist eine berühmte historische Kathedrale in Vladimir, die für ihre weiße Steinarchitektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        40.410936,
+                        56.129216
+                  ]
+            },
+            {
+                  "name": "Nativity Monastery",
+                  "text": "Das Geburtskloster ist ein bedeutender historischer russisch-orthodoxer Klosterkomplex in Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.413989,
+                        56.131222
+                  ]
+            },
+            {
+                  "name": "Congregation of the Virgin Mary's Rosary",
+                  "text": "Congregation of the Virgin Mary's Rosary ist eine anerkannte katholische Kirche in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.394883,
+                        56.124922
+                  ]
+            },
+            {
+                  "name": "Church Of St. Nicholas at the Galleys",
+                  "text": "Church Of St. Nicholas at the Galleys ist eine bedeutende historische orthodoxe Kirche in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.401176,
+                        56.122437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Spoons",
+                  "text": "A Museum of Spoons egy egyedülálló múzeum Vlagyimirban, amely a kanalak történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        40.403211,
+                        56.127508
+                  ]
+            },
+            {
+                  "name": "Trinity church",
+                  "text": "A Szentháromság-templom egy jelentős történelmi templom Vlagyimir városában.",
+                  "category": "religious",
+                  "coords": [
+                        40.396081,
+                        56.126456
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "Az Aranykapu Vlagyimir híres műemléke és egykori városkapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        40.397127,
+                        56.126869
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "Az Istenanya elszenderedése székesegyház Vlagyimir egyik legfontosabb történelmi nevezetessége és ortodox temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409252,
+                        56.12741
+                  ]
+            },
+            {
+                  "name": "The Church of St.Nikita the Martyr",
+                  "text": "A Szent Nikita vértanú temploma egy vallási épület Vlagyimir városában.",
+                  "category": "religious",
+                  "coords": [
+                        40.397842,
+                        56.130738
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Demetrius",
+                  "text": "A Dmitrij-székesegyház Vlagyimir híres, fehér kőből épült történelmi temploma.",
+                  "category": "landmark",
+                  "coords": [
+                        40.410936,
+                        56.129216
+                  ]
+            },
+            {
+                  "name": "Nativity Monastery",
+                  "text": "A Karácsony-kolostor egy nevezetes történelmi orosz ortodox szerzetesi komplexum Vlagyimirban.",
+                  "category": "landmark",
+                  "coords": [
+                        40.413989,
+                        56.131222
+                  ]
+            },
+            {
+                  "name": "Congregation of the Virgin Mary's Rosary",
+                  "text": "A Rózsafüzér Királynője templom egy elismert katolikus egyházi épület Vlagyimirban.",
+                  "category": "religious",
+                  "coords": [
+                        40.394883,
+                        56.124922
+                  ]
+            },
+            {
+                  "name": "Church Of St. Nicholas at the Galleys",
+                  "text": "A Gályabeli Szent Miklós-templom egy nevezetes történelmi ortodox egyházi épület Vlagyimirban.",
+                  "category": "religious",
+                  "coords": [
+                        40.401176,
+                        56.122437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Spoons",
+                  "text": "Museum of Spoons este un muzeu unic din Vladimir, dedicat unei colecții mari de linguri.",
+                  "category": "museum",
+                  "coords": [
+                        40.403211,
+                        56.127508
+                  ]
+            },
+            {
+                  "name": "Trinity church",
+                  "text": "Biserica Sfânta Treime este o biserică istorică notabilă care servește comunitatea din Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.396081,
+                        56.126456
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "Poarta de Aur este un faimos monument istoric și o poartă antică a orașului în Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.397127,
+                        56.126869
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "Catedrala Adormirii Maicii Domnului este un punct de reper istoric major și o biserică ortodoxă rusă din Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409252,
+                        56.12741
+                  ]
+            },
+            {
+                  "name": "The Church of St.Nikita the Martyr",
+                  "text": "Biserica Sf. Nichita Martirul este un lăcaș de cult religios situat în Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.397842,
+                        56.130738
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Demetrius",
+                  "text": "Catedrala Sfântul Dumitru este o catedrală istorică renumită, cunoscută pentru arhitectura sa din piatră albă din Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.410936,
+                        56.129216
+                  ]
+            },
+            {
+                  "name": "Nativity Monastery",
+                  "text": "Mănăstirea Nașterii Domnului este un complex monahal ortodox rus istoric notabil din Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.413989,
+                        56.131222
+                  ]
+            },
+            {
+                  "name": "Congregation of the Virgin Mary's Rosary",
+                  "text": "Congregația Rozariului Fecioarei Maria este o biserică catolică recunoscută, situată în Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.394883,
+                        56.124922
+                  ]
+            },
+            {
+                  "name": "Church Of St. Nicholas at the Galleys",
+                  "text": "Biserica Sf. Nicolae la Galere este o biserică ortodoxă istorică notabilă situată în Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.401176,
+                        56.122437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Spoons",
+                  "text": "Museum of Spoons is a unique museum in Vladimir dedicated to a large collection of spoons.",
+                  "category": "museum",
+                  "coords": [
+                        40.403211,
+                        56.127508
+                  ]
+            },
+            {
+                  "name": "Trinity church",
+                  "text": "Trinity church is a notable historic church serving the community in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.396081,
+                        56.126456
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "The Golden Gate is a famous historic monument and ancient city gate in Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.397127,
+                        56.126869
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "Cathedral of the Assumption is a major historic landmark and Russian Orthodox church in Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.409252,
+                        56.12741
+                  ]
+            },
+            {
+                  "name": "The Church of St.Nikita the Martyr",
+                  "text": "The Church of St.Nikita the Martyr is a religious place of worship located in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.397842,
+                        56.130738
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Demetrius",
+                  "text": "Cathedral of Saint Demetrius is a renowned historic cathedral known for its white-stone architecture in Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.410936,
+                        56.129216
+                  ]
+            },
+            {
+                  "name": "Nativity Monastery",
+                  "text": "Nativity Monastery is a notable historic Russian Orthodox monastic complex in Vladimir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.413989,
+                        56.131222
+                  ]
+            },
+            {
+                  "name": "Congregation of the Virgin Mary's Rosary",
+                  "text": "Congregation of the Virgin Mary's Rosary is a recognized Catholic church situated in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.394883,
+                        56.124922
+                  ]
+            },
+            {
+                  "name": "Church Of St. Nicholas at the Galleys",
+                  "text": "Church Of St. Nicholas at the Galleys is a notable historic Orthodox church located in Vladimir.",
+                  "category": "religious",
+                  "coords": [
+                        40.401176,
+                        56.122437
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Wladimir", hu: "Vlagyimir", ro: "Vladimir", en: "Vladimir"},
@@ -51102,7 +52929,196 @@ imageHint: "Chita railway station and architecture",
     },
     image: "/poi-images/russia-chita-cities-v2.webp",
 },  {
-    id: "russia-kaluga-cities-v2",
+    id: "russia-kaluga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "50 лет ВЛКСМ",
+                  "text": "Das Denkmal 50 Jahre Komsomol ist ein historisches Monument in Kaluga.",
+                  "category": "historical",
+                  "coords": [
+                        36.27189,
+                        54.524572
+                  ]
+            },
+            {
+                  "name": "PRO ART'S",
+                  "text": "PRO ART'S ist ein interessantes Museum in der Stadt Kaluga.",
+                  "category": "museum",
+                  "coords": [
+                        36.257762,
+                        54.513106
+                  ]
+            },
+            {
+                  "name": "Polman’s house",
+                  "text": "Das Polman-Haus ist eine historische Sehenswürdigkeit in Kaluga.",
+                  "category": "landmark",
+                  "coords": [
+                        36.265621,
+                        54.516709
+                  ]
+            },
+            {
+                  "name": "Sonichev’s house",
+                  "text": "Das Sonitschew-Haus ist ein bedeutendes Bauwerk in Kaluga.",
+                  "category": "landmark",
+                  "coords": [
+                        36.266546,
+                        54.520044
+                  ]
+            },
+            {
+                  "name": "Дом Циолковского в 1892-1893 гг.",
+                  "text": "Dieses Haus war in den Jahren 1892 bis 1893 der Wohnsitz von Ziolkowski in Kaluga.",
+                  "category": "landmark",
+                  "coords": [
+                        36.244712,
+                        54.513208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "50 лет ВЛКСМ",
+                  "text": "Az 50 éves a Komszomol emlékmű egy történelmi látványosság Kalugában.",
+                  "category": "historical",
+                  "coords": [
+                        36.27189,
+                        54.524572
+                  ]
+            },
+            {
+                  "name": "PRO ART'S",
+                  "text": "A PRO ART'S egy érdekes múzeum Kaluga városában.",
+                  "category": "museum",
+                  "coords": [
+                        36.257762,
+                        54.513106
+                  ]
+            },
+            {
+                  "name": "Polman’s house",
+                  "text": "A Polman-ház egy történelmi látványosság Kalugában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.265621,
+                        54.516709
+                  ]
+            },
+            {
+                  "name": "Sonichev’s house",
+                  "text": "A Szonicsev-ház egy jelentős építészeti emlék Kalugában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.266546,
+                        54.520044
+                  ]
+            },
+            {
+                  "name": "Дом Циолковского в 1892-1893 гг.",
+                  "text": "Ez a ház volt Ciolkovszkij lakhelye Kalugában 1892 és 1893 között.",
+                  "category": "landmark",
+                  "coords": [
+                        36.244712,
+                        54.513208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "50 лет ВЛКСМ",
+                  "text": "Monumentul 50 de ani de la Komsomol este o atracție istorică în Kaluga.",
+                  "category": "historical",
+                  "coords": [
+                        36.27189,
+                        54.524572
+                  ]
+            },
+            {
+                  "name": "PRO ART'S",
+                  "text": "PRO ART'S este un muzeu interesant din orașul Kaluga.",
+                  "category": "museum",
+                  "coords": [
+                        36.257762,
+                        54.513106
+                  ]
+            },
+            {
+                  "name": "Polman’s house",
+                  "text": "Casa Polman este o atracție istorică din Kaluga.",
+                  "category": "landmark",
+                  "coords": [
+                        36.265621,
+                        54.516709
+                  ]
+            },
+            {
+                  "name": "Sonichev’s house",
+                  "text": "Casa Sonichev este o atracție arhitecturală notabilă în Kaluga.",
+                  "category": "landmark",
+                  "coords": [
+                        36.266546,
+                        54.520044
+                  ]
+            },
+            {
+                  "name": "Дом Циолковского в 1892-1893 гг.",
+                  "text": "Această casă a fost reședința lui Țiolkovski din Kaluga între 1892 și 1893.",
+                  "category": "landmark",
+                  "coords": [
+                        36.244712,
+                        54.513208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "50 лет ВЛКСМ",
+                  "text": "The 50 Years of Komsomol monument is a historical sight in Kaluga.",
+                  "category": "historical",
+                  "coords": [
+                        36.27189,
+                        54.524572
+                  ]
+            },
+            {
+                  "name": "PRO ART'S",
+                  "text": "PRO ART'S is an interesting museum in the city of Kaluga.",
+                  "category": "museum",
+                  "coords": [
+                        36.257762,
+                        54.513106
+                  ]
+            },
+            {
+                  "name": "Polman’s house",
+                  "text": "Polman's house is a historical attraction in Kaluga.",
+                  "category": "landmark",
+                  "coords": [
+                        36.265621,
+                        54.516709
+                  ]
+            },
+            {
+                  "name": "Sonichev’s house",
+                  "text": "Sonichev's house is a notable architectural attraction in Kaluga.",
+                  "category": "landmark",
+                  "coords": [
+                        36.266546,
+                        54.520044
+                  ]
+            },
+            {
+                  "name": "Дом Циолковского в 1892-1893 гг.",
+                  "text": "This house was the residence of Tsiolkovsky in Kaluga from 1892 to 1893.",
+                  "category": "landmark",
+                  "coords": [
+                        36.244712,
+                        54.513208
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Kaluga", hu: "Kaluga", ro: "Kaluga", en: "Kaluga"},
@@ -51148,7 +53164,340 @@ imageHint: "Tsiolkovsky State Museum of the History of Cosmonautics",
     },
     image: "/poi-images/russia-kaluga-cities-v2.webp",
 },  {
-    id: "russia-smolensk-cities-v2",
+    id: "russia-smolensk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Городская кузница XVII века",
+                  "text": "Die städtische Schmiede aus dem 17. Jahrhundert ist ein historisches Museum in Smolensk.",
+                  "category": "museum",
+                  "coords": [
+                        32.050382,
+                        54.781931
+                  ]
+            },
+            {
+                  "name": "Ядро от осады 1812 г.",
+                  "text": "Die 'Kanonenkugel aus der Belagerung von 1812' ist eine historische Attraktion in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.063978,
+                        54.784248
+                  ]
+            },
+            {
+                  "name": "5D кино",
+                  "text": "Das 5D-Kino ist eine Unterhaltungsattraktion in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.043102,
+                        54.772923
+                  ]
+            },
+            {
+                  "name": "People's drama theatre",
+                  "text": "Das Volkstheater ist eine kulturelle Einrichtung in der Stadt Smolensk.",
+                  "category": "cultural",
+                  "coords": [
+                        32.04479,
+                        54.777569
+                  ]
+            },
+            {
+                  "name": "Л-3127",
+                  "text": "L-3127 ist eine Attraktion in Smolensk, die eine historische Dampflokomotive zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.045392,
+                        54.798505
+                  ]
+            },
+            {
+                  "name": "house of merchant Turaev, architectural monument",
+                  "text": "Das Haus des Kaufmanns Turajew ist ein Architekturdenkmal und Herrenhaus in Smolensk.",
+                  "category": "historical",
+                  "coords": [
+                        32.042053,
+                        54.785892
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 4",
+                  "text": "Der Namenlose Turm 4 ist ein historisches Bauwerk in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037723,
+                        54.783325
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 7",
+                  "text": "Der Namenlose Turm 7 ist eine Sehenswürdigkeit in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037407,
+                        54.784484
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 8",
+                  "text": "Der Namenlose Turm 8 ist ein bemerkenswertes Bauwerk in der Stadt Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.054855,
+                        54.778251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Городская кузница XVII века",
+                  "text": "A 17. századi városi kovácsműhely egy történelmi múzeum az oroszországi Szmolenszkben.",
+                  "category": "museum",
+                  "coords": [
+                        32.050382,
+                        54.781931
+                  ]
+            },
+            {
+                  "name": "Ядро от осады 1812 г.",
+                  "text": "Az '1812-es ostromból származó ágyúgolyó' egy történelmi látványosság Szmolenszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.063978,
+                        54.784248
+                  ]
+            },
+            {
+                  "name": "5D кино",
+                  "text": "Az 5D mozi egy szórakoztató látványosság Szmolenszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.043102,
+                        54.772923
+                  ]
+            },
+            {
+                  "name": "People's drama theatre",
+                  "text": "A Népi Drámai Színház egy kulturális helyszín Szmolenszk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        32.04479,
+                        54.777569
+                  ]
+            },
+            {
+                  "name": "Л-3127",
+                  "text": "Az L-3127 egy szmolenszki látványosság, amely egy történelmi gőzmozdonyt mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.045392,
+                        54.798505
+                  ]
+            },
+            {
+                  "name": "house of merchant Turaev, architectural monument",
+                  "text": "Turajev kereskedő háza egy építészeti műemlék és udvarház Szmolenszkben.",
+                  "category": "historical",
+                  "coords": [
+                        32.042053,
+                        54.785892
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 4",
+                  "text": "A 4-es Névtelen torony egy történelmi építmény Szmolenszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037723,
+                        54.783325
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 7",
+                  "text": "A 7-es Névtelen torony egy érdekes látnivaló Szmolenszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037407,
+                        54.784484
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 8",
+                  "text": "A 8-as Névtelen torony egy figyelemre méltó építmény Szmolenszk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.054855,
+                        54.778251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Городская кузница XVII века",
+                  "text": "Fierăria orașului din secolul al XVII-lea este un muzeu istoric situat în Smolensk.",
+                  "category": "museum",
+                  "coords": [
+                        32.050382,
+                        54.781931
+                  ]
+            },
+            {
+                  "name": "Ядро от осады 1812 г.",
+                  "text": "„Ghiuleaua de la asediul din 1812” este o atracție istorică situată în Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.063978,
+                        54.784248
+                  ]
+            },
+            {
+                  "name": "5D кино",
+                  "text": "Cinematograful 5D este o atracție de divertisment situată în Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.043102,
+                        54.772923
+                  ]
+            },
+            {
+                  "name": "People's drama theatre",
+                  "text": "Teatrul dramatic popular este o instituție culturală situată în orașul Smolensk.",
+                  "category": "cultural",
+                  "coords": [
+                        32.04479,
+                        54.777569
+                  ]
+            },
+            {
+                  "name": "Л-3127",
+                  "text": "L-3127 este o atracție situată în Smolensk, prezentând o locomotivă istorică cu abur.",
+                  "category": "landmark",
+                  "coords": [
+                        32.045392,
+                        54.798505
+                  ]
+            },
+            {
+                  "name": "house of merchant Turaev, architectural monument",
+                  "text": "Casa negustorului Turaev este un monument arhitectural și conac situat în Smolensk.",
+                  "category": "historical",
+                  "coords": [
+                        32.042053,
+                        54.785892
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 4",
+                  "text": "Turnul Fără Nume 4 este o structură istorică situată în Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037723,
+                        54.783325
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 7",
+                  "text": "Turnul Fără Nume 7 este un punct de interes situat în Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037407,
+                        54.784484
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 8",
+                  "text": "Turnul Fără Nume 8 este o structură notabilă din orașul Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.054855,
+                        54.778251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Городская кузница XVII века",
+                  "text": "The 17th-century City Forge is an authentic historical museum preserved in Smolensk.",
+                  "category": "museum",
+                  "coords": [
+                        32.050382,
+                        54.781931
+                  ]
+            },
+            {
+                  "name": "Ядро от осады 1812 г.",
+                  "text": "The 'Cannonball from the 1812 siege' is a historical attraction located in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.063978,
+                        54.784248
+                  ]
+            },
+            {
+                  "name": "5D кино",
+                  "text": "5D cinema is an entertainment attraction located in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.043102,
+                        54.772923
+                  ]
+            },
+            {
+                  "name": "People's drama theatre",
+                  "text": "The People's drama theatre is a cultural venue located in the city of Smolensk.",
+                  "category": "cultural",
+                  "coords": [
+                        32.04479,
+                        54.777569
+                  ]
+            },
+            {
+                  "name": "Л-3127",
+                  "text": "L-3127 is an attraction located in Smolensk, featuring a historic steam locomotive.",
+                  "category": "landmark",
+                  "coords": [
+                        32.045392,
+                        54.798505
+                  ]
+            },
+            {
+                  "name": "house of merchant Turaev, architectural monument",
+                  "text": "The house of merchant Turaev is an architectural monument and manor located in Smolensk.",
+                  "category": "historical",
+                  "coords": [
+                        32.042053,
+                        54.785892
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 4",
+                  "text": "Nameless Tower 4 is a historic structure located in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037723,
+                        54.783325
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 7",
+                  "text": "Nameless Tower 7 is a point of interest located in Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.037407,
+                        54.784484
+                  ]
+            },
+            {
+                  "name": "Безымянная башня 8",
+                  "text": "Nameless Tower 8 is a notable structure in the city of Smolensk.",
+                  "category": "landmark",
+                  "coords": [
+                        32.054855,
+                        54.778251
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Smolensk", hu: "Szmolenszk", ro: "Smolensk", en: "Smolensk"},
@@ -52087,7 +54436,340 @@ imageHint: "Severstal steel plant in Cherepovets",
     },
     image: "/poi-images/russia-cherepovets-cities-v2.webp",
 },  {
-    id: "russia-vologda-cities-v2",
+    id: "russia-vologda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Дом-музей Петра I",
+                  "text": "Das Peter-I.-Hausmuseum ist ein historisches Museum in Wologda, das dem Aufenthalt von Peter dem Großen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        39.908238,
+                        59.209948
+                  ]
+            },
+            {
+                  "name": "Дом Ветушечникова 1823 год",
+                  "text": "Das Vetushechnikov-Haus aus dem Jahr 1823 ist ein architektonisches Denkmal in Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.897097,
+                        59.223819
+                  ]
+            },
+            {
+                  "name": "Ярмарочный дом 1790 год",
+                  "text": "Das Messehaus aus dem Jahr 1790 ist ein historisches Gebäude und eine Attraktion in Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890212,
+                        59.222079
+                  ]
+            },
+            {
+                  "name": "Vologda Kremlin",
+                  "text": "Der Wologdaer Kreml ist der historische Festungskomplex der Stadt Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.882177,
+                        59.223574
+                  ]
+            },
+            {
+                  "name": "Здание государственного банка 1810 год",
+                  "text": "Das Gebäude der Staatsbank aus dem Jahr 1810 beherbergt heute das berühmte Spitzenmuseum von Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884866,
+                        59.223867
+                  ]
+            },
+            {
+                  "name": "Ночлежный дом 1777 год",
+                  "text": "Das Übernachtungshaus aus dem Jahr 1777 ist ein historisches Gebäude in Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.880588,
+                        59.227066
+                  ]
+            },
+            {
+                  "name": "Гостиница «Эрмитаж» 1903 год",
+                  "text": "Das Hotel Hermitage aus dem Jahr 1903 ist eine architektonische Sehenswürdigkeit in Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890972,
+                        59.220581
+                  ]
+            },
+            {
+                  "name": "Скулябинская богадельня 1780 год",
+                  "text": "Das Skulyabin-Armenhaus aus dem Jahr 1780 ist ein historisches Denkmal in Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884528,
+                        59.23069
+                  ]
+            },
+            {
+                  "name": "Дом Дидина 1864 год",
+                  "text": "Das Didin-Haus aus dem Jahr 1864 ist ein historisches Bauwerk in Wologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.895833,
+                        59.226718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Дом-музей Петра I",
+                  "text": "A Nagy Péter-házmúzeum egy történelmi múzeum Vologdában, amely a cár látogatásának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        39.908238,
+                        59.209948
+                  ]
+            },
+            {
+                  "name": "Дом Ветушечникова 1823 год",
+                  "text": "Az 1823-ban épült Vetushechnikov-ház egy építészeti műemlék Vologdában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.897097,
+                        59.223819
+                  ]
+            },
+            {
+                  "name": "Ярмарочный дом 1790 год",
+                  "text": "Az 1790-es Vásárcsarnok egy történelmi épület és látványosság Vologdában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890212,
+                        59.222079
+                  ]
+            },
+            {
+                  "name": "Vologda Kremlin",
+                  "text": "A Vologdai Kreml Vologda városának történelmi erődítménye.",
+                  "category": "landmark",
+                  "coords": [
+                        39.882177,
+                        59.223574
+                  ]
+            },
+            {
+                  "name": "Здание государственного банка 1810 год",
+                  "text": "Az 1810-ből származó Állami Bank épülete ma a híres Vologdai Csipkemúzeumnak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884866,
+                        59.223867
+                  ]
+            },
+            {
+                  "name": "Ночлежный дом 1777 год",
+                  "text": "Az 1777-ben épült Éjjeli menedékhely egy történelmi épület Vologdában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.880588,
+                        59.227066
+                  ]
+            },
+            {
+                  "name": "Гостиница «Эрмитаж» 1903 год",
+                  "text": "Az 1903-as Ermitázs Szálloda épülete egy építészeti látványosság Vologdában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890972,
+                        59.220581
+                  ]
+            },
+            {
+                  "name": "Скулябинская богадельня 1780 год",
+                  "text": "Az 1780-ban épült Szkuljabin-menhely egy történelmi műemlék Vologdában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884528,
+                        59.23069
+                  ]
+            },
+            {
+                  "name": "Дом Дидина 1864 год",
+                  "text": "Az 1864-ből származó Didin-ház egy történelmi épület Vologdában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.895833,
+                        59.226718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Дом-музей Петра I",
+                  "text": "Muzeul-casă a lui Petru I este un muzeu istoric din Vologda dedicat șederii lui Petru cel Mare.",
+                  "category": "museum",
+                  "coords": [
+                        39.908238,
+                        59.209948
+                  ]
+            },
+            {
+                  "name": "Дом Ветушечникова 1823 год",
+                  "text": "Casa Vetushechnikov din 1823 este un monument arhitectural din Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.897097,
+                        59.223819
+                  ]
+            },
+            {
+                  "name": "Ярмарочный дом 1790 год",
+                  "text": "Casa Târgului din 1790 este o clădire istorică și o atracție în Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890212,
+                        59.222079
+                  ]
+            },
+            {
+                  "name": "Vologda Kremlin",
+                  "text": "Kremlinul din Vologda este complexul istoric fortificat al orașului Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.882177,
+                        59.223574
+                  ]
+            },
+            {
+                  "name": "Здание государственного банка 1810 год",
+                  "text": "Clădirea Băncii de Stat din 1810 găzduiește astăzi faimosul Muzeu al Dantelei din Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884866,
+                        59.223867
+                  ]
+            },
+            {
+                  "name": "Ночлежный дом 1777 год",
+                  "text": "Casa de adăpost din 1777 este o clădire istorică din Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.880588,
+                        59.227066
+                  ]
+            },
+            {
+                  "name": "Гостиница «Эрмитаж» 1903 год",
+                  "text": "Hotelul Ermitaj din 1903 este un obiectiv arhitectural din Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890972,
+                        59.220581
+                  ]
+            },
+            {
+                  "name": "Скулябинская богадельня 1780 год",
+                  "text": "Azilul Skulyabin din 1780 este un monument istoric situat în Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884528,
+                        59.23069
+                  ]
+            },
+            {
+                  "name": "Дом Дидина 1864 год",
+                  "text": "Casa Didin din 1864 este o structură istorică din Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.895833,
+                        59.226718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Дом-музей Петра I",
+                  "text": "The Peter I House-Museum is a historical museum in Vologda dedicated to the stay of Peter the Great.",
+                  "category": "museum",
+                  "coords": [
+                        39.908238,
+                        59.209948
+                  ]
+            },
+            {
+                  "name": "Дом Ветушечникова 1823 год",
+                  "text": "The Vetushechnikov House from 1823 is an architectural monument located in Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.897097,
+                        59.223819
+                  ]
+            },
+            {
+                  "name": "Ярмарочный дом 1790 год",
+                  "text": "The Fair House of 1790 is a historic building and tourist attraction in Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890212,
+                        59.222079
+                  ]
+            },
+            {
+                  "name": "Vologda Kremlin",
+                  "text": "The Vologda Kremlin is the historical fortress complex in the city of Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.882177,
+                        59.223574
+                  ]
+            },
+            {
+                  "name": "Здание государственного банка 1810 год",
+                  "text": "The State Bank building from 1810 now houses the famous Vologda Lace Museum.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884866,
+                        59.223867
+                  ]
+            },
+            {
+                  "name": "Ночлежный дом 1777 год",
+                  "text": "The lodging house from 1777 is a historical building in Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.880588,
+                        59.227066
+                  ]
+            },
+            {
+                  "name": "Гостиница «Эрмитаж» 1903 год",
+                  "text": "The Hermitage Hotel built in 1903 is an architectural landmark in Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.890972,
+                        59.220581
+                  ]
+            },
+            {
+                  "name": "Скулябинская богадельня 1780 год",
+                  "text": "The Skulyabin almshouse from 1780 is a historical monument located in Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.884528,
+                        59.23069
+                  ]
+            },
+            {
+                  "name": "Дом Дидина 1864 год",
+                  "text": "The Didin House from 1864 is a historical structure in Vologda.",
+                  "category": "landmark",
+                  "coords": [
+                        39.895833,
+                        59.226718
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Wologda", hu: "Vologda", ro: "Vologda", en: "Vologda"},
@@ -52133,7 +54815,196 @@ imageHint: "Vologda Kremlin and Saint Sophia Cathedral",
     },
     image: "/poi-images/russia-vologda-cities-v2.webp",
 },  {
-    id: "russia-murmansk-cities-v2",
+    id: "russia-murmansk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panorama of the city",
+                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick über das Stadtbild von Murmansk.",
+                  "category": "natural",
+                  "coords": [
+                        33.093526,
+                        68.984727
+                  ]
+            },
+            {
+                  "name": "Л-4386",
+                  "text": "Л-4386 ist eine Touristenattraktion in der Stadt Murmansk.",
+                  "category": "landmark",
+                  "coords": [
+                        33.070439,
+                        68.973294
+                  ]
+            },
+            {
+                  "name": "Panoramic view from the bridge",
+                  "text": "Diese Attraktion in Murmansk bietet einen Panoramablick von der örtlichen Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        33.064423,
+                        68.967448
+                  ]
+            },
+            {
+                  "name": "Container Hall",
+                  "text": "Container Hall ist eine Kunstgalerie in Murmansk.",
+                  "category": "museum",
+                  "coords": [
+                        33.068765,
+                        68.952761
+                  ]
+            },
+            {
+                  "name": "Сопки 21А",
+                  "text": "Сопки 21А ist eine lokale Kunstgalerie in der Stadt Murmansk.",
+                  "category": "museum",
+                  "coords": [
+                        33.087511,
+                        68.969827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panorama of the city",
+                  "text": "Ez a kilátó panorámás rálátást nyújt Murmanszk városképére.",
+                  "category": "natural",
+                  "coords": [
+                        33.093526,
+                        68.984727
+                  ]
+            },
+            {
+                  "name": "Л-4386",
+                  "text": "Az Л-4386 egy turisztikai látványosság Murmanszk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.070439,
+                        68.973294
+                  ]
+            },
+            {
+                  "name": "Panoramic view from the bridge",
+                  "text": "Ez a murmanszki látványosság panorámát nyújt a helyi hídról.",
+                  "category": "landmark",
+                  "coords": [
+                        33.064423,
+                        68.967448
+                  ]
+            },
+            {
+                  "name": "Container Hall",
+                  "text": "A Container Hall egy művészeti galéria Murmanszkban.",
+                  "category": "museum",
+                  "coords": [
+                        33.068765,
+                        68.952761
+                  ]
+            },
+            {
+                  "name": "Сопки 21А",
+                  "text": "A Сопки 21А egy helyi művészeti galéria Murmanszk városában.",
+                  "category": "museum",
+                  "coords": [
+                        33.087511,
+                        68.969827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panorama of the city",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică asupra peisajului urban din Murmansk.",
+                  "category": "natural",
+                  "coords": [
+                        33.093526,
+                        68.984727
+                  ]
+            },
+            {
+                  "name": "Л-4386",
+                  "text": "Л-4386 este o atracție turistică situată în orașul Murmansk.",
+                  "category": "landmark",
+                  "coords": [
+                        33.070439,
+                        68.973294
+                  ]
+            },
+            {
+                  "name": "Panoramic view from the bridge",
+                  "text": "Această atracție din Murmansk oferă o vedere panoramică de pe podul local.",
+                  "category": "landmark",
+                  "coords": [
+                        33.064423,
+                        68.967448
+                  ]
+            },
+            {
+                  "name": "Container Hall",
+                  "text": "Container Hall este o galerie de artă situată în Murmansk.",
+                  "category": "museum",
+                  "coords": [
+                        33.068765,
+                        68.952761
+                  ]
+            },
+            {
+                  "name": "Сопки 21А",
+                  "text": "Сопки 21А este o galerie de artă locală aflată în orașul Murmansk.",
+                  "category": "museum",
+                  "coords": [
+                        33.087511,
+                        68.969827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panorama of the city",
+                  "text": "This viewpoint offers a panoramic view over the cityscape of Murmansk.",
+                  "category": "natural",
+                  "coords": [
+                        33.093526,
+                        68.984727
+                  ]
+            },
+            {
+                  "name": "Л-4386",
+                  "text": "Л-4386 is a tourist attraction situated in the city of Murmansk.",
+                  "category": "landmark",
+                  "coords": [
+                        33.070439,
+                        68.973294
+                  ]
+            },
+            {
+                  "name": "Panoramic view from the bridge",
+                  "text": "This attraction in Murmansk provides a panoramic view from the local bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        33.064423,
+                        68.967448
+                  ]
+            },
+            {
+                  "name": "Container Hall",
+                  "text": "Container Hall is an art gallery located in Murmansk.",
+                  "category": "museum",
+                  "coords": [
+                        33.068765,
+                        68.952761
+                  ]
+            },
+            {
+                  "name": "Сопки 21А",
+                  "text": "Сопки 21А is a local art gallery found in the city of Murmansk.",
+                  "category": "museum",
+                  "coords": [
+                        33.087511,
+                        68.969827
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Murmansk", hu: "Murmanszk", ro: "Murmansk", en: "Murmansk"},
@@ -52179,7 +55050,304 @@ imageHint: "Alyosha Monument in Murmansk",
     },
     image: "/poi-images/russia-murmansk-cities-v2.webp",
 },  {
-    id: "russia-petrozavodsk-cities-v2",
+    id: "russia-petrozavodsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument to Peter I",
+                  "text": "Das Denkmal für Peter I. ist eine markante Bronzestatue zu Ehren des Stadtgründers in Petrosawodsk.",
+                  "category": "historical",
+                  "coords": [
+                        34.389478,
+                        61.790681
+                  ]
+            },
+            {
+                  "name": "Gubernatorskiy Park",
+                  "text": "Der Gubernatorskiy Park ist eine zentrale Grünanlage, die als Gouverneursgarten in Petrosawodsk bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        34.364182,
+                        61.785809
+                  ]
+            },
+            {
+                  "name": "National Museum of the Republic of Karelia",
+                  "text": "Das Nationalmuseum der Republik Karelien in Petrosawodsk präsentiert die Natur, Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        34.363895,
+                        61.787036
+                  ]
+            },
+            {
+                  "name": "National theatre",
+                  "text": "Das Nationaltheater in Petrosawodsk führt Stücke auf Russisch, Finnisch, Karelisch und Wepsisch auf.",
+                  "category": "cultural",
+                  "coords": [
+                        34.379722,
+                        61.787589
+                  ]
+            },
+            {
+                  "name": "\"Wish tree\"",
+                  "text": "Der \"Wunschbaum\" ist eine beliebte skulpturale Attraktion an der Uferpromenade von Petrosawodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.384969,
+                        61.791105
+                  ]
+            },
+            {
+                  "name": "Училище приходское № 2",
+                  "text": "Die Pfarrschule Nr. 2 ist eine bildungshistorische Sehenswürdigkeit in Petrosawodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.382779,
+                        61.7866
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1956",
+                  "text": "Ein historisches Wohnhaus aus dem Jahr 1956, das als Sehenswürdigkeit in Petrosawodsk dient.",
+                  "category": "landmark",
+                  "coords": [
+                        34.376966,
+                        61.788124
+                  ]
+            },
+            {
+                  "name": "Дом Богданова 1870",
+                  "text": "Das Bogdanow-Haus aus dem Jahr 1870 ist eine erhaltene historische Sehenswürdigkeit in Petrosawodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.370089,
+                        61.796249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument to Peter I",
+                  "text": "I. Péter emlékműve egy kiemelkedő bronzszobor Petrozavodszkban, amely a város alapítóját ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        34.389478,
+                        61.790681
+                  ]
+            },
+            {
+                  "name": "Gubernatorskiy Park",
+                  "text": "A Gubernatorszkij Park egy központi zöldterület Petrozavodszkban, amely Kormányzói Kertként ismert.",
+                  "category": "park",
+                  "coords": [
+                        34.364182,
+                        61.785809
+                  ]
+            },
+            {
+                  "name": "National Museum of the Republic of Karelia",
+                  "text": "A Karél Köztársaság Nemzeti Múzeuma a régió természetét, történelmét és kultúráját mutatja be Petrozavodszkban.",
+                  "category": "museum",
+                  "coords": [
+                        34.363895,
+                        61.787036
+                  ]
+            },
+            {
+                  "name": "National theatre",
+                  "text": "A petrozavodszki Nemzeti Színház orosz, finn, karjalai és vepsze nyelvű darabokat állít színpadra.",
+                  "category": "cultural",
+                  "coords": [
+                        34.379722,
+                        61.787589
+                  ]
+            },
+            {
+                  "name": "\"Wish tree\"",
+                  "text": "A \"Kívánságfa\" egy népszerű szobrászati látványosság Petrozavodszk tóparti sétányán.",
+                  "category": "landmark",
+                  "coords": [
+                        34.384969,
+                        61.791105
+                  ]
+            },
+            {
+                  "name": "Училище приходское № 2",
+                  "text": "A 2-es számú plébániai iskola egy oktatási örökséget képviselő látványosság Petrozavodszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.382779,
+                        61.7866
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1956",
+                  "text": "Egy történelmi, 1956-os lakóház, amely látványosságként szolgál Petrozavodszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.376966,
+                        61.788124
+                  ]
+            },
+            {
+                  "name": "Дом Богданова 1870",
+                  "text": "Az 1870-ből származó Bogdanov-ház egy megőrzött történelmi látványosság Petrozavodszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.370089,
+                        61.796249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument to Peter I",
+                  "text": "Monumentul lui Petru I este o statuie proeminentă din bronz care îl celebrează pe fondatorul orașului în Petrozavodsk.",
+                  "category": "historical",
+                  "coords": [
+                        34.389478,
+                        61.790681
+                  ]
+            },
+            {
+                  "name": "Gubernatorskiy Park",
+                  "text": "Parcul Gubernatorskiy este un spațiu verde central cunoscut sub numele de Grădina Guvernatorului în Petrozavodsk.",
+                  "category": "park",
+                  "coords": [
+                        34.364182,
+                        61.785809
+                  ]
+            },
+            {
+                  "name": "National Museum of the Republic of Karelia",
+                  "text": "Muzeul Național al Republicii Carelia prezintă natura, istoria și cultura regiunii în Petrozavodsk.",
+                  "category": "museum",
+                  "coords": [
+                        34.363895,
+                        61.787036
+                  ]
+            },
+            {
+                  "name": "National theatre",
+                  "text": "Teatrul Național din Petrozavodsk pune în scenă piese în rusă, finlandeză, careliană și vepsă.",
+                  "category": "cultural",
+                  "coords": [
+                        34.379722,
+                        61.787589
+                  ]
+            },
+            {
+                  "name": "\"Wish tree\"",
+                  "text": "„Copacul dorințelor” este o atracție sculpturală populară pe promenada de pe malul lacului din Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.384969,
+                        61.791105
+                  ]
+            },
+            {
+                  "name": "Училище приходское № 2",
+                  "text": "Școala parohială nr. 2 este o atracție de patrimoniu educațional situată în Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.382779,
+                        61.7866
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1956",
+                  "text": "O casă rezidențială istorică din 1956, care servește drept atracție turistică în Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.376966,
+                        61.788124
+                  ]
+            },
+            {
+                  "name": "Дом Богданова 1870",
+                  "text": "Casa lui Bogdanov, datând din 1870, este o atracție istorică conservată în Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.370089,
+                        61.796249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to Peter I",
+                  "text": "The Monument to Peter I is a prominent bronze statue celebrating the city's founder in Petrozavodsk.",
+                  "category": "historical",
+                  "coords": [
+                        34.389478,
+                        61.790681
+                  ]
+            },
+            {
+                  "name": "Gubernatorskiy Park",
+                  "text": "Gubernatorskiy Park is a central green space known as the Governor's Garden in Petrozavodsk.",
+                  "category": "park",
+                  "coords": [
+                        34.364182,
+                        61.785809
+                  ]
+            },
+            {
+                  "name": "National Museum of the Republic of Karelia",
+                  "text": "The National Museum of the Republic of Karelia showcases the region's nature, history, and culture in Petrozavodsk.",
+                  "category": "museum",
+                  "coords": [
+                        34.363895,
+                        61.787036
+                  ]
+            },
+            {
+                  "name": "National theatre",
+                  "text": "The National Theatre in Petrozavodsk stages plays in Russian, Finnish, Karelian, and Vepsian.",
+                  "category": "cultural",
+                  "coords": [
+                        34.379722,
+                        61.787589
+                  ]
+            },
+            {
+                  "name": "\"Wish tree\"",
+                  "text": "The \"Wish tree\" is a popular sculptural attraction on the lakeside promenade of Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.384969,
+                        61.791105
+                  ]
+            },
+            {
+                  "name": "Училище приходское № 2",
+                  "text": "Parish School No. 2 is an educational heritage attraction located in Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.382779,
+                        61.7866
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1956",
+                  "text": "A historic 1956 residential house, serving as a sightseeing attraction in Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.376966,
+                        61.788124
+                  ]
+            },
+            {
+                  "name": "Дом Богданова 1870",
+                  "text": "Bogdanov's House, dating back to 1870, is a preserved historical attraction in Petrozavodsk.",
+                  "category": "landmark",
+                  "coords": [
+                        34.370089,
+                        61.796249
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "city",
     name: { de: "Petrosawodsk", hu: "Petrozavodszk", ro: "Petrozavodsk", en: "Petrozavodsk"},
@@ -52271,7 +55439,340 @@ imageHint: "Alyosha Monument in Murmansk",
     image: "/poi-images/russia-veliky-novgorod-cities-v2.webp",
   },
   {
-    id: "russia-sergiyev-posad-cities-v2",
+    id: "russia-sergiyev-posad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trinity Lavra of St. Sergius",
+                  "text": "Das Dreifaltigkeitskloster von Sergijew Possad ist ein hochverehrtes russisch-orthodoxes Kloster und das spirituelle Zentrum der russisch-orthodoxen Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        38.130393,
+                        56.310643
+                  ]
+            },
+            {
+                  "name": "Blinnaya gora (Blinnaya hill)",
+                  "text": "Blinnaya Gora ist ein malerischer Aussichtspunkt in Sergijew Possad mit herrlichem Blick auf die Lawra.",
+                  "category": "natural",
+                  "coords": [
+                        38.134995,
+                        56.307339
+                  ]
+            },
+            {
+                  "name": "Toys Museum",
+                  "text": "Das Spielzeugmuseum in Sergijew Possad stellt eine faszinierende Sammlung traditioneller und historischer Spielzeuge aus.",
+                  "category": "museum",
+                  "coords": [
+                        38.129266,
+                        56.305039
+                  ]
+            },
+            {
+                  "name": "History and Art Museum",
+                  "text": "Das Geschichts- und Kunstmuseum in Sergijew Possad präsentiert das reiche kulturelle und künstlerische Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        38.135335,
+                        56.312833
+                  ]
+            },
+            {
+                  "name": "Russian Folk museum \"Zhili-Byli\"",
+                  "text": "Das russische Volksmuseum \"Zhili-Byli\" bietet einen Einblick in das traditionelle russische Bauernleben und Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        38.14086,
+                        56.313199
+                  ]
+            },
+            {
+                  "name": "Pyatnitskaya Tower",
+                  "text": "Der Pjatnizkaja-Turm ist ein bemerkenswerter historischer Turm in Sergijew Possad.",
+                  "category": "tower",
+                  "coords": [
+                        38.132473,
+                        56.309476
+                  ]
+            },
+            {
+                  "name": "Konniy Dvor",
+                  "text": "Konniy Dvor ist ein lokales Museum in der Stadt Sergijew Possad.",
+                  "category": "museum",
+                  "coords": [
+                        38.133009,
+                        56.313464
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "Das Heimatmuseum zeigt regionale Artefakte und Geschichte in Sergijew Possad.",
+                  "category": "museum",
+                  "coords": [
+                        38.137728,
+                        56.311108
+                  ]
+            },
+            {
+                  "name": "House of Zaytsevy merchants",
+                  "text": "Das Haus der Kaufleute Saizew ist eine historische Sehenswürdigkeit in Sergijew Possad.",
+                  "category": "landmark",
+                  "coords": [
+                        38.144198,
+                        56.309325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trinity Lavra of St. Sergius",
+                  "text": "A Szentháromság-Szergij-kolostor egy nagy tiszteletben álló orosz ortodox kolostor, az orosz ortodox egyház szellemi központja.",
+                  "category": "religious",
+                  "coords": [
+                        38.130393,
+                        56.310643
+                  ]
+            },
+            {
+                  "name": "Blinnaya gora (Blinnaya hill)",
+                  "text": "A Blinnaya gora egy festői kilátó Szergijev Poszadban, ahonnan kiváló kilátás nyílik a kolostorra.",
+                  "category": "natural",
+                  "coords": [
+                        38.134995,
+                        56.307339
+                  ]
+            },
+            {
+                  "name": "Toys Museum",
+                  "text": "A szergijev poszadi Játékmúzeum hagyományos és történelmi játékok lenyűgöző gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        38.129266,
+                        56.305039
+                  ]
+            },
+            {
+                  "name": "History and Art Museum",
+                  "text": "A szergijev poszadi Történeti és Művészeti Múzeum a régió gazdag kulturális és művészeti örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        38.135335,
+                        56.312833
+                  ]
+            },
+            {
+                  "name": "Russian Folk museum \"Zhili-Byli\"",
+                  "text": "A \"Zsili-Bili\" Orosz Néprajzi Múzeum bepillantást enged a hagyományos orosz paraszti életbe és mesterségekbe.",
+                  "category": "museum",
+                  "coords": [
+                        38.14086,
+                        56.313199
+                  ]
+            },
+            {
+                  "name": "Pyatnitskaya Tower",
+                  "text": "A Pjatnyickaja torony egy nevezetes történelmi torony Szergijev Poszadban.",
+                  "category": "tower",
+                  "coords": [
+                        38.132473,
+                        56.309476
+                  ]
+            },
+            {
+                  "name": "Konniy Dvor",
+                  "text": "A Konniy Dvor egy helyi múzeum Szergijev Poszad városában.",
+                  "category": "museum",
+                  "coords": [
+                        38.133009,
+                        56.313464
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "A Helytörténeti Múzeum regionális tárgyakat és történelmet mutat be Szergijev Poszadban.",
+                  "category": "museum",
+                  "coords": [
+                        38.137728,
+                        56.311108
+                  ]
+            },
+            {
+                  "name": "House of Zaytsevy merchants",
+                  "text": "A Zajcev kereskedők háza egy történelmi látványosság Szergijev Poszadban.",
+                  "category": "landmark",
+                  "coords": [
+                        38.144198,
+                        56.309325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trinity Lavra of St. Sergius",
+                  "text": "Lavra Sfânta Treime a Sfântului Serghie este o mănăstire ortodoxă rusă foarte venerată și centrul spiritual al Bisericii Ortodoxe Ruse.",
+                  "category": "religious",
+                  "coords": [
+                        38.130393,
+                        56.310643
+                  ]
+            },
+            {
+                  "name": "Blinnaya gora (Blinnaya hill)",
+                  "text": "Blinnaya gora este un punct de belvedere pitoresc în Sergiyev Posad, oferind vederi excelente asupra Lavrei.",
+                  "category": "natural",
+                  "coords": [
+                        38.134995,
+                        56.307339
+                  ]
+            },
+            {
+                  "name": "Toys Museum",
+                  "text": "Muzeul Jucăriilor din Sergiyev Posad expune o colecție fascinantă de jucării tradiționale și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        38.129266,
+                        56.305039
+                  ]
+            },
+            {
+                  "name": "History and Art Museum",
+                  "text": "Muzeul de Istorie și Artă din Sergiyev Posad prezintă bogata moștenire culturală și artistică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        38.135335,
+                        56.312833
+                  ]
+            },
+            {
+                  "name": "Russian Folk museum \"Zhili-Byli\"",
+                  "text": "Muzeul popular rus \"Zhili-Byli\" oferă o privire asupra vieții și meșteșugurilor tradiționale țărănești rusești.",
+                  "category": "museum",
+                  "coords": [
+                        38.14086,
+                        56.313199
+                  ]
+            },
+            {
+                  "name": "Pyatnitskaya Tower",
+                  "text": "Turnul Piatnițkaia este un turn istoric notabil situat în Sergiev Posad.",
+                  "category": "tower",
+                  "coords": [
+                        38.132473,
+                        56.309476
+                  ]
+            },
+            {
+                  "name": "Konniy Dvor",
+                  "text": "Konniy Dvor este un muzeu local situat în orașul Sergiev Posad.",
+                  "category": "museum",
+                  "coords": [
+                        38.133009,
+                        56.313464
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "Muzeul de Istorie Locală expune artefacte și istorie regională în Sergiev Posad.",
+                  "category": "museum",
+                  "coords": [
+                        38.137728,
+                        56.311108
+                  ]
+            },
+            {
+                  "name": "House of Zaytsevy merchants",
+                  "text": "Casa negustorilor Zaițev este o atracție istorică aflată în Sergiev Posad.",
+                  "category": "landmark",
+                  "coords": [
+                        38.144198,
+                        56.309325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trinity Lavra of St. Sergius",
+                  "text": "The Trinity Lavra of St. Sergius is a highly venerated Russian Orthodox monastery and the spiritual centre of the Russian Orthodox Church.",
+                  "category": "religious",
+                  "coords": [
+                        38.130393,
+                        56.310643
+                  ]
+            },
+            {
+                  "name": "Blinnaya gora (Blinnaya hill)",
+                  "text": "Blinnaya gora is a scenic viewpoint in Sergiyev Posad offering excellent views of the Lavra.",
+                  "category": "natural",
+                  "coords": [
+                        38.134995,
+                        56.307339
+                  ]
+            },
+            {
+                  "name": "Toys Museum",
+                  "text": "The Toys Museum in Sergiyev Posad exhibits a fascinating collection of traditional and historical toys.",
+                  "category": "museum",
+                  "coords": [
+                        38.129266,
+                        56.305039
+                  ]
+            },
+            {
+                  "name": "History and Art Museum",
+                  "text": "The History and Art Museum in Sergiyev Posad showcases the rich cultural and artistic heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        38.135335,
+                        56.312833
+                  ]
+            },
+            {
+                  "name": "Russian Folk museum \"Zhili-Byli\"",
+                  "text": "The Russian Folk museum \"Zhili-Byli\" offers a glimpse into traditional Russian peasant life and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        38.14086,
+                        56.313199
+                  ]
+            },
+            {
+                  "name": "Pyatnitskaya Tower",
+                  "text": "The Pyatnitskaya Tower is a notable historical tower located in Sergiyev Posad.",
+                  "category": "tower",
+                  "coords": [
+                        38.132473,
+                        56.309476
+                  ]
+            },
+            {
+                  "name": "Konniy Dvor",
+                  "text": "Konniy Dvor is a local museum situated in the city of Sergiyev Posad.",
+                  "category": "museum",
+                  "coords": [
+                        38.133009,
+                        56.313464
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "The Local History Museum exhibits regional artifacts and history in Sergiyev Posad.",
+                  "category": "museum",
+                  "coords": [
+                        38.137728,
+                        56.311108
+                  ]
+            },
+            {
+                  "name": "House of Zaytsevy merchants",
+                  "text": "The House of Zaytsevy merchants is a historical attraction found in Sergiyev Posad.",
+                  "category": "landmark",
+                  "coords": [
+                        38.144198,
+                        56.309325
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RU",
     name: { de: "Sergijew Possad", hu: "Szergijev Poszad", ro: "Serghiev Posad", en: "Sergiyev Posad" },
@@ -57797,7 +61298,124 @@ imageHint: "Alyosha Monument in Murmansk",
     image: "/poi-images/russia-tobolsk-cities-v2.webp",
   },
   {
-    id: "russia-elets-cities-v2",
+    id: "russia-elets-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Паровоз Эм735-12",
+                  "text": "Die Dampflokomotive Em735-12 ist ein prominentes Verkehrsdenkmal, das in Jelez erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        38.532402,
+                        52.608071
+                  ]
+            },
+            {
+                  "name": "Исторический памятник 17-18 вв",
+                  "text": "Diese historische Stätte aus dem 17. und 18. Jahrhundert bewahrt archäologische Überreste in Jelez.",
+                  "category": "historical",
+                  "coords": [
+                        38.503512,
+                        52.624431
+                  ]
+            },
+            {
+                  "name": "МОУДО Детская школа искусств № 4 имени Л.С. Соколовой",
+                  "text": "Die Kinderschule der Künste Nr. 4 L.S. Sokolova ist ein lokales Kunstzentrum in Jelez.",
+                  "category": "cultural",
+                  "coords": [
+                        38.501046,
+                        52.622181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Паровоз Эм735-12",
+                  "text": "Az Em735-12 gőzmozdony egy jelentős, Jelecben fennmaradt közlekedési emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        38.532402,
+                        52.608071
+                  ]
+            },
+            {
+                  "name": "Исторический памятник 17-18 вв",
+                  "text": "Ez a 17. és 18. századi történelmi helyszín régészeti maradványokat őriz Jelecben.",
+                  "category": "historical",
+                  "coords": [
+                        38.503512,
+                        52.624431
+                  ]
+            },
+            {
+                  "name": "МОУДО Детская школа искусств № 4 имени Л.С. Соколовой",
+                  "text": "Az L.SZ. Szokolova 4. számú Gyermek Művészeti Iskola egy helyi művészeti központ Jelecben.",
+                  "category": "cultural",
+                  "coords": [
+                        38.501046,
+                        52.622181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Паровоз Эм735-12",
+                  "text": "Locomotiva cu abur Em735-12 este un monument de transport important conservat în Yelets.",
+                  "category": "historical",
+                  "coords": [
+                        38.532402,
+                        52.608071
+                  ]
+            },
+            {
+                  "name": "Исторический памятник 17-18 вв",
+                  "text": "Acest sit istoric din secolele al XVII-lea și al XVIII-lea păstrează rămășițe arheologice în Yelets.",
+                  "category": "historical",
+                  "coords": [
+                        38.503512,
+                        52.624431
+                  ]
+            },
+            {
+                  "name": "МОУДО Детская школа искусств № 4 имени Л.С. Соколовой",
+                  "text": "Școala de Arte pentru Copii Nr. 4 L.S. Sokolova este un centru de artă local din Yelets.",
+                  "category": "cultural",
+                  "coords": [
+                        38.501046,
+                        52.622181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Паровоз Эм735-12",
+                  "text": "The Steam Locomotive Em735-12 is a prominent transport monument preserved in Yelets.",
+                  "category": "historical",
+                  "coords": [
+                        38.532402,
+                        52.608071
+                  ]
+            },
+            {
+                  "name": "Исторический памятник 17-18 вв",
+                  "text": "This historic site from the 17th and 18th centuries preserves archaeological remnants in Yelets.",
+                  "category": "historical",
+                  "coords": [
+                        38.503512,
+                        52.624431
+                  ]
+            },
+            {
+                  "name": "МОУДО Детская школа искусств № 4 имени Л.С. Соколовой",
+                  "text": "The L.S. Sokolova Children's School of Arts No. 4 is a local arts center in Yelets.",
+                  "category": "cultural",
+                  "coords": [
+                        38.501046,
+                        52.622181
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RU",
     name: { de: "Jelez", hu: "Jelec", ro: "Eleț", en: "Yelets" },
@@ -57842,7 +61460,268 @@ imageHint: "Alyosha Monument in Murmansk",
     image: "/poi-images/russia-elets-cities-v2.webp",
   },
   {
-    id: "russia-pskov-cities-v2",
+    id: "russia-pskov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pskov Krom",
+                  "text": "Der Pskover Krom ist eine historische Zitadelle und der Kern der Stadt Pskov.",
+                  "category": "castle",
+                  "coords": [
+                        28.328587,
+                        57.82263
+                  ]
+            },
+            {
+                  "name": "Памятник в честь 300-летия героической обороны Пскова от войск Стефана Батория",
+                  "text": "Dieses Denkmal erinnert an die heroische Verteidigung von Pskov gegen die Truppen von Stefan Batory im 16. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.336668,
+                        57.805945
+                  ]
+            },
+            {
+                  "name": "Monument to WWI Heroes",
+                  "text": "Ein Denkmal für die Helden des Ersten Weltkriegs in der Stadt Pskow.",
+                  "category": "historical",
+                  "coords": [
+                        28.359599,
+                        57.802976
+                  ]
+            },
+            {
+                  "name": "Музей оккупации Псковской области 1941-1944",
+                  "text": "Ein Museum in Pskow, das die Besatzung der Region zwischen 1941 und 1944 dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.335799,
+                        57.817892
+                  ]
+            },
+            {
+                  "name": "House of Masson",
+                  "text": "Das Haus Masson ist ein Museum in der Stadt Pskow.",
+                  "category": "museum",
+                  "coords": [
+                        28.34049,
+                        57.811792
+                  ]
+            },
+            {
+                  "name": "Танк Т-34-85",
+                  "text": "Ein T-34-85 Panzer, der als Sehenswürdigkeit in Pskow ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.335465,
+                        57.803566
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1936 года",
+                  "text": "Ein erhaltenes Wohngebäude aus dem Jahr 1936, das sich als Sehenswürdigkeit in Pskow befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.329536,
+                        57.826097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pskov Krom",
+                  "text": "A Pszkovi Krom egy történelmi citadella és Pszkov városának központja.",
+                  "category": "castle",
+                  "coords": [
+                        28.328587,
+                        57.82263
+                  ]
+            },
+            {
+                  "name": "Памятник в честь 300-летия героической обороны Пскова от войск Стефана Батория",
+                  "text": "Ez az emlékmű Pszkov hősies védelmének állít emléket Báthory István csapataival szemben a 16. században.",
+                  "category": "landmark",
+                  "coords": [
+                        28.336668,
+                        57.805945
+                  ]
+            },
+            {
+                  "name": "Monument to WWI Heroes",
+                  "text": "Az első világháború hőseinek emlékműve Pszkov városában.",
+                  "category": "historical",
+                  "coords": [
+                        28.359599,
+                        57.802976
+                  ]
+            },
+            {
+                  "name": "Музей оккупации Псковской области 1941-1944",
+                  "text": "Pszkov egyik múzeuma, amely a régió 1941 és 1944 közötti megszállását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.335799,
+                        57.817892
+                  ]
+            },
+            {
+                  "name": "House of Masson",
+                  "text": "A Masson-ház egy múzeumként működő látványosság Pszkovban.",
+                  "category": "museum",
+                  "coords": [
+                        28.34049,
+                        57.811792
+                  ]
+            },
+            {
+                  "name": "Танк Т-34-85",
+                  "text": "Egy T-34-85-ös harckocsi, amely látványosságként tekinthető meg Pszkovban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.335465,
+                        57.803566
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1936 года",
+                  "text": "Egy megőrzött, 1936-ból származó lakóépület Pszkov városában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.329536,
+                        57.826097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pskov Krom",
+                  "text": "Pskov Krom este o citadelă istorică și centrul orașului Pskov.",
+                  "category": "castle",
+                  "coords": [
+                        28.328587,
+                        57.82263
+                  ]
+            },
+            {
+                  "name": "Памятник в честь 300-летия героической обороны Пскова от войск Стефана Батория",
+                  "text": "Acest monument comemorează apărarea eroică a orașului Pskov împotriva trupelor lui Ștefan Báthory în secolul al XVI-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        28.336668,
+                        57.805945
+                  ]
+            },
+            {
+                  "name": "Monument to WWI Heroes",
+                  "text": "Un monument dedicat eroilor din Primul Război Mondial, situat în orașul Pskov.",
+                  "category": "historical",
+                  "coords": [
+                        28.359599,
+                        57.802976
+                  ]
+            },
+            {
+                  "name": "Музей оккупации Псковской области 1941-1944",
+                  "text": "Un muzeu în Pskov care documentează ocupația regiunii între 1941 și 1944.",
+                  "category": "museum",
+                  "coords": [
+                        28.335799,
+                        57.817892
+                  ]
+            },
+            {
+                  "name": "House of Masson",
+                  "text": "Casa Masson este un muzeu situat în orașul Pskov.",
+                  "category": "museum",
+                  "coords": [
+                        28.34049,
+                        57.811792
+                  ]
+            },
+            {
+                  "name": "Танк Т-34-85",
+                  "text": "Un tanc T-34-85 expus ca atracție turistică în orașul Pskov.",
+                  "category": "landmark",
+                  "coords": [
+                        28.335465,
+                        57.803566
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1936 года",
+                  "text": "O clădire rezidențială păstrată din anul 1936, situată în Pskov.",
+                  "category": "landmark",
+                  "coords": [
+                        28.329536,
+                        57.826097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pskov Krom",
+                  "text": "Pskov Krom is a historical citadel and the core of the city of Pskov.",
+                  "category": "castle",
+                  "coords": [
+                        28.328587,
+                        57.82263
+                  ]
+            },
+            {
+                  "name": "Памятник в честь 300-летия героической обороны Пскова от войск Стефана Батория",
+                  "text": "This monument commemorates the heroic defense of Pskov against the troops of Stefan Batory in the 16th century.",
+                  "category": "landmark",
+                  "coords": [
+                        28.336668,
+                        57.805945
+                  ]
+            },
+            {
+                  "name": "Monument to WWI Heroes",
+                  "text": "A monument dedicated to the heroes of World War I, located in the city of Pskov.",
+                  "category": "historical",
+                  "coords": [
+                        28.359599,
+                        57.802976
+                  ]
+            },
+            {
+                  "name": "Музей оккупации Псковской области 1941-1944",
+                  "text": "A museum in Pskov documenting the occupation of the region between 1941 and 1944.",
+                  "category": "museum",
+                  "coords": [
+                        28.335799,
+                        57.817892
+                  ]
+            },
+            {
+                  "name": "House of Masson",
+                  "text": "The House of Masson is a museum attraction situated in Pskov.",
+                  "category": "museum",
+                  "coords": [
+                        28.34049,
+                        57.811792
+                  ]
+            },
+            {
+                  "name": "Танк Т-34-85",
+                  "text": "A T-34-85 tank on display as an attraction in the city of Pskov.",
+                  "category": "landmark",
+                  "coords": [
+                        28.335465,
+                        57.803566
+                  ]
+            },
+            {
+                  "name": "Жилой дом 1936 года",
+                  "text": "A preserved residential building dating back to 1936, located in Pskov.",
+                  "category": "landmark",
+                  "coords": [
+                        28.329536,
+                        57.826097
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RU",
     name: { de: "Pskow", hu: "Pszkov", ro: "Pskov", en: "Pskov" },
@@ -70478,7 +74357,124 @@ imageHint: "Alyosha Monument in Murmansk",
     image: "/poi-images/russia-orsk-cities-v2.webp",
   },
   {
-    id: "russia-arzamas-cities-v2",
+    id: "russia-arzamas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Saint Andrew",
+                  "text": "Die Kirche des Heiligen Andreas ist eine bemerkenswerte orthodoxe Kultstätte in Arsamas.",
+                  "category": "religious",
+                  "coords": [
+                        43.823346,
+                        55.386541
+                  ]
+            },
+            {
+                  "name": "Resurrection Cathedral",
+                  "text": "Die Auferstehungskathedrale ist eine prächtige Touristenattraktion und ein Wahrzeichen von Arsamas.",
+                  "category": "landmark",
+                  "coords": [
+                        43.813379,
+                        55.386646
+                  ]
+            },
+            {
+                  "name": "Khanykov's House",
+                  "text": "Das Haus Khanykov ist eine historische Sehenswürdigkeit in Arsamas.",
+                  "category": "landmark",
+                  "coords": [
+                        43.812253,
+                        55.391138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Saint Andrew",
+                  "text": "Szent András apostol temploma egy jelentős istentiszteleti hely Arzamasz városában.",
+                  "category": "religious",
+                  "coords": [
+                        43.823346,
+                        55.386541
+                  ]
+            },
+            {
+                  "name": "Resurrection Cathedral",
+                  "text": "A Feltámadás-székesegyház egy lenyűgöző látványosság és Arzamasz egyik nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        43.813379,
+                        55.386646
+                  ]
+            },
+            {
+                  "name": "Khanykov's House",
+                  "text": "A Hanyikov-ház egy történelmi látnivaló Arzamasz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.812253,
+                        55.391138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Saint Andrew",
+                  "text": "Biserica Sfântului Andrei este un lăcaș de cult notabil din orașul Arzamas.",
+                  "category": "religious",
+                  "coords": [
+                        43.823346,
+                        55.386541
+                  ]
+            },
+            {
+                  "name": "Resurrection Cathedral",
+                  "text": "Catedrala Învierii este o atracție turistică impresionantă și un simbol al orașului Arzamas.",
+                  "category": "landmark",
+                  "coords": [
+                        43.813379,
+                        55.386646
+                  ]
+            },
+            {
+                  "name": "Khanykov's House",
+                  "text": "Casa Khanykov este o atracție istorică situată în orașul Arzamas.",
+                  "category": "landmark",
+                  "coords": [
+                        43.812253,
+                        55.391138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Saint Andrew",
+                  "text": "The Church of Saint Andrew is a notable place of worship in the city of Arzamas.",
+                  "category": "religious",
+                  "coords": [
+                        43.823346,
+                        55.386541
+                  ]
+            },
+            {
+                  "name": "Resurrection Cathedral",
+                  "text": "The Resurrection Cathedral is a magnificent tourist attraction and landmark in Arzamas.",
+                  "category": "landmark",
+                  "coords": [
+                        43.813379,
+                        55.386646
+                  ]
+            },
+            {
+                  "name": "Khanykov's House",
+                  "text": "Khanykov's House is a historical attraction located in Arzamas.",
+                  "category": "landmark",
+                  "coords": [
+                        43.812253,
+                        55.391138
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RU",
     name: { de: "Arsamas", hu: "Arzamasz", ro: "Arzamas", en: "Arzamas" },

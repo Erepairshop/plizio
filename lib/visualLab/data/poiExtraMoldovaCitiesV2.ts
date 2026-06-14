@@ -7705,6 +7705,24 @@ export const moldovaCitiesV2: POI[] = [
                         29.624319,
                         46.679936
                   ]
+            },
+            {
+                  "name": "Bunker No 1205 TiFR",
+                  "text": "Die Ruinen des Bunkers Nr. 1205 TiFR in Slobozia.",
+                  "category": "historical",
+                  "coords": [
+                        29.691158,
+                        46.718477
+                  ]
+            },
+            {
+                  "name": "Bunker No 1154 TiFR",
+                  "text": "Die Ruinen des Bunkers Nr. 1154 TiFR in Slobozia.",
+                  "category": "historical",
+                  "coords": [
+                        29.722643,
+                        46.739722
+                  ]
             }
       ],
       "hu": [
@@ -7724,6 +7742,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.624319,
                         46.679936
+                  ]
+            },
+            {
+                  "name": "Bunker No 1205 TiFR",
+                  "text": "Az 1205 TiFR számú bunker romjai Sloboziában.",
+                  "category": "historical",
+                  "coords": [
+                        29.691158,
+                        46.718477
+                  ]
+            },
+            {
+                  "name": "Bunker No 1154 TiFR",
+                  "text": "Az 1154 TiFR számú bunker romjai Sloboziában.",
+                  "category": "historical",
+                  "coords": [
+                        29.722643,
+                        46.739722
                   ]
             }
       ],
@@ -7745,6 +7781,24 @@ export const moldovaCitiesV2: POI[] = [
                         29.624319,
                         46.679936
                   ]
+            },
+            {
+                  "name": "Bunker No 1205 TiFR",
+                  "text": "Ruinele Buncărului Nr. 1205 TiFR din Slobozia.",
+                  "category": "historical",
+                  "coords": [
+                        29.691158,
+                        46.718477
+                  ]
+            },
+            {
+                  "name": "Bunker No 1154 TiFR",
+                  "text": "Ruinele Buncărului Nr. 1154 TiFR din Slobozia.",
+                  "category": "historical",
+                  "coords": [
+                        29.722643,
+                        46.739722
+                  ]
             }
       ],
       "en": [
@@ -7764,6 +7818,24 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         29.624319,
                         46.679936
+                  ]
+            },
+            {
+                  "name": "Bunker No 1205 TiFR",
+                  "text": "The ruins of Bunker No 1205 TiFR in Slobozia.",
+                  "category": "historical",
+                  "coords": [
+                        29.691158,
+                        46.718477
+                  ]
+            },
+            {
+                  "name": "Bunker No 1154 TiFR",
+                  "text": "The ruins of Bunker No 1154 TiFR in Slobozia.",
+                  "category": "historical",
+                  "coords": [
+                        29.722643,
+                        46.739722
                   ]
             }
       ]
@@ -11642,6 +11714,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.704535,
                         47.58346
                   ]
+            },
+            {
+                  "name": "Cimitirul Vechi Evreiesc",
+                  "text": "Der Cimitirul Vechi Evreiesc ist ein alter jüdischer Friedhof, der als historische Sehenswürdigkeit in Făleștii Noi dient.",
+                  "category": "landmark",
+                  "coords": [
+                        27.70451,
+                        47.578546
+                  ]
             }
       ],
       "hu": [
@@ -11670,6 +11751,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.704535,
                         47.58346
+                  ]
+            },
+            {
+                  "name": "Cimitirul Vechi Evreiesc",
+                  "text": "A Cimitirul Vechi Evreiesc egy régi zsidó temető, amely történelmi látványosságként szolgál Făleștii Noi településen.",
+                  "category": "landmark",
+                  "coords": [
+                        27.70451,
+                        47.578546
                   ]
             }
       ],
@@ -11700,6 +11790,15 @@ export const moldovaCitiesV2: POI[] = [
                         27.704535,
                         47.58346
                   ]
+            },
+            {
+                  "name": "Cimitirul Vechi Evreiesc",
+                  "text": "Cimitirul Vechi Evreiesc este un vechi cimitir evreiesc cu valoare de atracție istorică în Făleștii Noi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.70451,
+                        47.578546
+                  ]
             }
       ],
       "en": [
@@ -11728,6 +11827,15 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         27.704535,
                         47.58346
+                  ]
+            },
+            {
+                  "name": "Cimitirul Vechi Evreiesc",
+                  "text": "Cimitirul Vechi Evreiesc is an old Jewish cemetery serving as a historical attraction in Făleștii Noi.",
+                  "category": "landmark",
+                  "coords": [
+                        27.70451,
+                        47.578546
                   ]
             }
       ]

@@ -29336,6 +29336,51 @@ export const italyCitiesV2: POI[] = [
                         8.20582,
                         44.898482
                   ]
+            },
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "Das Museo del Risorgimento ist ein bedeutendes Museum in Asti, das der Geschichte der italienischen Einigung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.200071,
+                        44.899054
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Die Domus Romana umfasst die archäologischen Ruinen eines antiken römischen Hauses in Asti.",
+                  "category": "historical",
+                  "coords": [
+                        8.196259,
+                        44.899245
+                  ]
+            },
+            {
+                  "name": "Museo Alfieriano",
+                  "text": "Das Museo Alfieriano ist ein Museum in der Stadt Asti.",
+                  "category": "museum",
+                  "coords": [
+                        8.198393,
+                        44.899121
+                  ]
+            },
+            {
+                  "name": "Museo degli Arazzi Scassa",
+                  "text": "Das Museo degli Arazzi Scassa ist ein bemerkenswertes Tapisseriemuseum in Asti.",
+                  "category": "museum",
+                  "coords": [
+                        8.210046,
+                        44.913483
+                  ]
+            },
+            {
+                  "name": "Torre Guttuari",
+                  "text": "Torre Guttuari ist ein bedeutender historischer Turm in Asti.",
+                  "category": "tower",
+                  "coords": [
+                        8.204419,
+                        44.89829
+                  ]
             }
       ],
       "hu": [
@@ -29346,6 +29391,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.20582,
                         44.898482
+                  ]
+            },
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "A Museo del Risorgimento az olasz egyesítés történetét bemutató múzeum Astiban.",
+                  "category": "museum",
+                  "coords": [
+                        8.200071,
+                        44.899054
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "A Domus Romana egy ókori római ház régészeti maradványait mutatja be Astiban.",
+                  "category": "historical",
+                  "coords": [
+                        8.196259,
+                        44.899245
+                  ]
+            },
+            {
+                  "name": "Museo Alfieriano",
+                  "text": "A Museo Alfieriano egy múzeum Asti városában.",
+                  "category": "museum",
+                  "coords": [
+                        8.198393,
+                        44.899121
+                  ]
+            },
+            {
+                  "name": "Museo degli Arazzi Scassa",
+                  "text": "A Museo degli Arazzi Scassa egy figyelemre méltó gobelinmúzeum Asti városában.",
+                  "category": "museum",
+                  "coords": [
+                        8.210046,
+                        44.913483
+                  ]
+            },
+            {
+                  "name": "Torre Guttuari",
+                  "text": "A Torre Guttuari egy jelentős történelmi torony Asti városában.",
+                  "category": "tower",
+                  "coords": [
+                        8.204419,
+                        44.89829
                   ]
             }
       ],
@@ -29358,6 +29448,51 @@ export const italyCitiesV2: POI[] = [
                         8.20582,
                         44.898482
                   ]
+            },
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "Museo del Risorgimento este un muzeu notabil din Asti dedicat istoriei unificării Italiei.",
+                  "category": "museum",
+                  "coords": [
+                        8.200071,
+                        44.899054
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Domus Romana prezintă ruinele arheologice ale unei case romane antice din Asti.",
+                  "category": "historical",
+                  "coords": [
+                        8.196259,
+                        44.899245
+                  ]
+            },
+            {
+                  "name": "Museo Alfieriano",
+                  "text": "Museo Alfieriano este un muzeu situat în orașul Asti.",
+                  "category": "museum",
+                  "coords": [
+                        8.198393,
+                        44.899121
+                  ]
+            },
+            {
+                  "name": "Museo degli Arazzi Scassa",
+                  "text": "Museo degli Arazzi Scassa este un notabil muzeu de tapiserii din Asti.",
+                  "category": "museum",
+                  "coords": [
+                        8.210046,
+                        44.913483
+                  ]
+            },
+            {
+                  "name": "Torre Guttuari",
+                  "text": "Torre Guttuari este un turn istoric important din Asti.",
+                  "category": "tower",
+                  "coords": [
+                        8.204419,
+                        44.89829
+                  ]
             }
       ],
       "en": [
@@ -29368,6 +29503,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         8.20582,
                         44.898482
+                  ]
+            },
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "Museo del Risorgimento is a notable museum in Asti dedicated to the history of Italian unification.",
+                  "category": "museum",
+                  "coords": [
+                        8.200071,
+                        44.899054
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Domus Romana features the archaeological ruins of an ancient Roman house in Asti.",
+                  "category": "historical",
+                  "coords": [
+                        8.196259,
+                        44.899245
+                  ]
+            },
+            {
+                  "name": "Museo Alfieriano",
+                  "text": "Museo Alfieriano is a museum located in the city of Asti.",
+                  "category": "museum",
+                  "coords": [
+                        8.198393,
+                        44.899121
+                  ]
+            },
+            {
+                  "name": "Museo degli Arazzi Scassa",
+                  "text": "The Museo degli Arazzi Scassa is a notable tapestry museum in Asti.",
+                  "category": "museum",
+                  "coords": [
+                        8.210046,
+                        44.913483
+                  ]
+            },
+            {
+                  "name": "Torre Guttuari",
+                  "text": "Torre Guttuari is a significant historic tower in Asti.",
+                  "category": "tower",
+                  "coords": [
+                        8.204419,
+                        44.89829
                   ]
             }
       ]
@@ -34547,6 +34727,60 @@ export const italyCitiesV2: POI[] = [
                         16.293836,
                         41.225091
                   ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Marano",
+                  "text": "Die Villa Comunale Giuseppe Marano ist ein öffentlicher Park in Andria.",
+                  "category": "park",
+                  "coords": [
+                        16.307369,
+                        41.232179
+                  ]
+            },
+            {
+                  "name": "Municipio di Andria",
+                  "text": "Das Municipio di Andria dient als Rathaus der Stadt Andria.",
+                  "category": "landmark",
+                  "coords": [
+                        16.295256,
+                        41.227301
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Miracoli",
+                  "text": "Santa Maria dei Miracoli ist ein bedeutendes Heiligtum und Gotteshaus in Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.267762,
+                        41.232091
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Porta Santa",
+                  "text": "Santa Maria di Porta Santa ist ein Gotteshaus in Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.29671,
+                        41.22386
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "Die Chiesa di Sant'Agostino ist eine Kirche und ein Gotteshaus in Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.295367,
+                        41.224139
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Andrea",
+                  "text": "Die Chiesa di Sant'Andrea ist ein lokales Gotteshaus in der Stadt Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.295898,
+                        41.237764
+                  ]
             }
       ],
       "hu": [
@@ -34584,6 +34818,60 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         16.293836,
                         41.225091
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Marano",
+                  "text": "A Villa Comunale Giuseppe Marano egy nyilvános park Andria városában.",
+                  "category": "park",
+                  "coords": [
+                        16.307369,
+                        41.232179
+                  ]
+            },
+            {
+                  "name": "Municipio di Andria",
+                  "text": "A Municipio di Andria Andria városának városházaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        16.295256,
+                        41.227301
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Miracoli",
+                  "text": "A Santa Maria dei Miracoli egy kiemelkedő szentély és istentiszteleti hely Andria városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.267762,
+                        41.232091
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Porta Santa",
+                  "text": "A Santa Maria di Porta Santa egy vallási istentiszteleti hely Andria városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.29671,
+                        41.22386
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "A Chiesa di Sant'Agostino egy templom és istentiszteleti hely Andria városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.295367,
+                        41.224139
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Andrea",
+                  "text": "A Chiesa di Sant'Andrea egy helyi istentiszteleti hely Andria városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.295898,
+                        41.237764
                   ]
             }
       ],
@@ -34623,6 +34911,60 @@ export const italyCitiesV2: POI[] = [
                         16.293836,
                         41.225091
                   ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Marano",
+                  "text": "Villa Comunale Giuseppe Marano este un parc public situat în Andria.",
+                  "category": "park",
+                  "coords": [
+                        16.307369,
+                        41.232179
+                  ]
+            },
+            {
+                  "name": "Municipio di Andria",
+                  "text": "Municipio di Andria servește drept primărie a orașului Andria.",
+                  "category": "landmark",
+                  "coords": [
+                        16.295256,
+                        41.227301
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Miracoli",
+                  "text": "Santa Maria dei Miracoli este un sanctuar proeminent și un lăcaș de cult situat în Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.267762,
+                        41.232091
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Porta Santa",
+                  "text": "Santa Maria di Porta Santa este un lăcaș de cult religios situat în Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.29671,
+                        41.22386
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "Chiesa di Sant'Agostino este o biserică și un lăcaș de cult situat în Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.295367,
+                        41.224139
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Andrea",
+                  "text": "Chiesa di Sant'Andrea este un lăcaș de cult local aflat în orașul Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.295898,
+                        41.237764
+                  ]
             }
       ],
       "en": [
@@ -34660,6 +35002,60 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         16.293836,
                         41.225091
+                  ]
+            },
+            {
+                  "name": "Villa Comunale Giuseppe Marano",
+                  "text": "Villa Comunale Giuseppe Marano is a public park located in Andria.",
+                  "category": "park",
+                  "coords": [
+                        16.307369,
+                        41.232179
+                  ]
+            },
+            {
+                  "name": "Municipio di Andria",
+                  "text": "Municipio di Andria serves as the town hall for the city of Andria.",
+                  "category": "landmark",
+                  "coords": [
+                        16.295256,
+                        41.227301
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Miracoli",
+                  "text": "Santa Maria dei Miracoli is a prominent sanctuary and place of worship located in Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.267762,
+                        41.232091
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Porta Santa",
+                  "text": "Santa Maria di Porta Santa is a religious place of worship situated in Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.29671,
+                        41.22386
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "Chiesa di Sant'Agostino is a church and place of worship located in Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.295367,
+                        41.224139
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Andrea",
+                  "text": "Chiesa di Sant'Andrea is a local place of worship found in the city of Andria.",
+                  "category": "religious",
+                  "coords": [
+                        16.295898,
+                        41.237764
                   ]
             }
       ]
@@ -42215,6 +42611,51 @@ export const italyCitiesV2: POI[] = [
                         12.787401,
                         41.682803
                   ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Das Museo Diocesano ist ein Museum in Velletri, das religiöse Kunst und Artefakte beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        12.776091,
+                        41.682922
+                  ]
+            },
+            {
+                  "name": "Museo civico archeologico \"Oreste Nardini\"",
+                  "text": "Das Museo civico archeologico \"Oreste Nardini\" in Velletri ist bekannt für seine bedeutende Sammlung vorrömischer und römischer Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        12.777134,
+                        41.686276
+                  ]
+            },
+            {
+                  "name": "Area Archeologica Tempio delle Stimmate",
+                  "text": "Die Area Archeologica Tempio delle Stimmate ist eine historische archäologische Stätte in Velletri.",
+                  "category": "historical",
+                  "coords": [
+                        12.774164,
+                        41.685423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Assunta in Cielo",
+                  "text": "Santa Maria Assunta in Cielo, auch bekannt als Santa Maria del Trivio, ist eine anerkannte historische Kirche in Velletri.",
+                  "category": "religious",
+                  "coords": [
+                        12.77834,
+                        41.688678
+                  ]
+            },
+            {
+                  "name": "San Martino",
+                  "text": "San Martino ist eine anerkannte historische Kirche und Kultstätte in Velletri.",
+                  "category": "religious",
+                  "coords": [
+                        12.778457,
+                        41.685701
+                  ]
             }
       ],
       "hu": [
@@ -42234,6 +42675,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.787401,
                         41.682803
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "A Museo Diocesano egy vallási művészetet és tárgyakat bemutató múzeum Velletri városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.776091,
+                        41.682922
+                  ]
+            },
+            {
+                  "name": "Museo civico archeologico \"Oreste Nardini\"",
+                  "text": "A velletri Museo civico archeologico \"Oreste Nardini\" a római kort megelőző és római kori helyi leletek jelentős gyűjteményéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        12.777134,
+                        41.686276
+                  ]
+            },
+            {
+                  "name": "Area Archeologica Tempio delle Stimmate",
+                  "text": "Az Area Archeologica Tempio delle Stimmate egy történelmi régészeti lelőhely Velletri területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.774164,
+                        41.685423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Assunta in Cielo",
+                  "text": "A Santa Maria Assunta in Cielo, más néven Santa Maria del Trivio egy elismert történelmi templom Velletri városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.77834,
+                        41.688678
+                  ]
+            },
+            {
+                  "name": "San Martino",
+                  "text": "A San Martino egy elismert történelmi templom és imahely Velletri területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.778457,
+                        41.685701
                   ]
             }
       ],
@@ -42255,6 +42741,51 @@ export const italyCitiesV2: POI[] = [
                         12.787401,
                         41.682803
                   ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Museo Diocesano este un muzeu din Velletri care găzduiește artă și artefacte religioase.",
+                  "category": "museum",
+                  "coords": [
+                        12.776091,
+                        41.682922
+                  ]
+            },
+            {
+                  "name": "Museo civico archeologico \"Oreste Nardini\"",
+                  "text": "Museo civico archeologico „Oreste Nardini” din Velletri este cunoscut pentru colecția sa semnificativă de artefacte locale pre-romane și romane.",
+                  "category": "museum",
+                  "coords": [
+                        12.777134,
+                        41.686276
+                  ]
+            },
+            {
+                  "name": "Area Archeologica Tempio delle Stimmate",
+                  "text": "Area Archeologica Tempio delle Stimmate este un sit arheologic istoric situat în Velletri.",
+                  "category": "historical",
+                  "coords": [
+                        12.774164,
+                        41.685423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Assunta in Cielo",
+                  "text": "Santa Maria Assunta in Cielo, cunoscută și sub numele de Santa Maria del Trivio, este o biserică istorică recunoscută din Velletri.",
+                  "category": "religious",
+                  "coords": [
+                        12.77834,
+                        41.688678
+                  ]
+            },
+            {
+                  "name": "San Martino",
+                  "text": "San Martino este o biserică istorică recunoscută și un lăcaș de cult situat în Velletri.",
+                  "category": "religious",
+                  "coords": [
+                        12.778457,
+                        41.685701
+                  ]
             }
       ],
       "en": [
@@ -42274,6 +42805,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.787401,
                         41.682803
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Museo Diocesano is a museum in Velletri housing religious art and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        12.776091,
+                        41.682922
+                  ]
+            },
+            {
+                  "name": "Museo civico archeologico \"Oreste Nardini\"",
+                  "text": "The Museo civico archeologico \"Oreste Nardini\" in Velletri is known for its significant collection of Pre-Roman and Roman local artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        12.777134,
+                        41.686276
+                  ]
+            },
+            {
+                  "name": "Area Archeologica Tempio delle Stimmate",
+                  "text": "Area Archeologica Tempio delle Stimmate is a historical archaeological site located in Velletri.",
+                  "category": "historical",
+                  "coords": [
+                        12.774164,
+                        41.685423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Assunta in Cielo",
+                  "text": "Santa Maria Assunta in Cielo, also known as Santa Maria del Trivio, is a recognized historic church in Velletri.",
+                  "category": "religious",
+                  "coords": [
+                        12.77834,
+                        41.688678
+                  ]
+            },
+            {
+                  "name": "San Martino",
+                  "text": "San Martino is a recognized historic church and place of worship located in Velletri.",
+                  "category": "religious",
+                  "coords": [
+                        12.778457,
+                        41.685701
                   ]
             }
       ]
@@ -42899,6 +43475,33 @@ export const italyCitiesV2: POI[] = [
                         12.842075,
                         41.606298
                   ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "Die Chiesa di Santa Maria Assunta ist eine wichtige Kirche in Cisterna di Latina.",
+                  "category": "religious",
+                  "coords": [
+                        12.828557,
+                        41.591979
+                  ]
+            },
+            {
+                  "name": "Monumento alle Vittime della Strada",
+                  "text": "Das Monumento alle Vittime della Strada ist ein Denkmal in Cisterna di Latina.",
+                  "category": "historical",
+                  "coords": [
+                        12.838518,
+                        41.60286
+                  ]
+            },
+            {
+                  "name": "Torre",
+                  "text": "Torre sind historische Turmruinen in Cisterna di Latina.",
+                  "category": "historical",
+                  "coords": [
+                        12.855947,
+                        41.576672
+                  ]
             }
       ],
       "hu": [
@@ -42918,6 +43521,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.842075,
                         41.606298
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "A Chiesa di Santa Maria Assunta egy jelentős templom Cisterna di Latina városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.828557,
+                        41.591979
+                  ]
+            },
+            {
+                  "name": "Monumento alle Vittime della Strada",
+                  "text": "A Monumento alle Vittime della Strada egy emlékmű Cisterna di Latina városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.838518,
+                        41.60286
+                  ]
+            },
+            {
+                  "name": "Torre",
+                  "text": "A Torre egy történelmi torony romja Cisterna di Latina városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.855947,
+                        41.576672
                   ]
             }
       ],
@@ -42939,6 +43569,33 @@ export const italyCitiesV2: POI[] = [
                         12.842075,
                         41.606298
                   ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "Chiesa di Santa Maria Assunta este o biserică importantă din Cisterna di Latina.",
+                  "category": "religious",
+                  "coords": [
+                        12.828557,
+                        41.591979
+                  ]
+            },
+            {
+                  "name": "Monumento alle Vittime della Strada",
+                  "text": "Monumento alle Vittime della Strada este un monument din Cisterna di Latina.",
+                  "category": "historical",
+                  "coords": [
+                        12.838518,
+                        41.60286
+                  ]
+            },
+            {
+                  "name": "Torre",
+                  "text": "Torre sunt ruinele unui turn istoric din Cisterna di Latina.",
+                  "category": "historical",
+                  "coords": [
+                        12.855947,
+                        41.576672
+                  ]
             }
       ],
       "en": [
@@ -42958,6 +43615,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         12.842075,
                         41.606298
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta",
+                  "text": "The Chiesa di Santa Maria Assunta is a notable church in Cisterna di Latina.",
+                  "category": "religious",
+                  "coords": [
+                        12.828557,
+                        41.591979
+                  ]
+            },
+            {
+                  "name": "Monumento alle Vittime della Strada",
+                  "text": "The Monumento alle Vittime della Strada is a monument in Cisterna di Latina.",
+                  "category": "historical",
+                  "coords": [
+                        12.838518,
+                        41.60286
+                  ]
+            },
+            {
+                  "name": "Torre",
+                  "text": "Torre is a historic tower ruin in Cisterna di Latina.",
+                  "category": "historical",
+                  "coords": [
+                        12.855947,
+                        41.576672
                   ]
             }
       ]
@@ -43043,6 +43727,33 @@ export const italyCitiesV2: POI[] = [
                         13.452511,
                         41.339686
                   ]
+            },
+            {
+                  "name": "Monumento Naturale Mola delle Corte Settecannelle Capodacqua",
+                  "text": "Dieses Naturdenkmal ist ein geschütztes Reservat mit mittelalterlichen Mühlen und reicher Artenvielfalt in Fondi.",
+                  "category": "natural",
+                  "coords": [
+                        13.421846,
+                        41.36751
+                  ]
+            },
+            {
+                  "name": "San Francesco",
+                  "text": "Die Kirche San Francesco ist ein bedeutendes historisches Gotteshaus in Fondi.",
+                  "category": "religious",
+                  "coords": [
+                        13.430717,
+                        41.356565
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "San Pietro ist ein bemerkenswertes Gotteshaus in der Stadt Fondi.",
+                  "category": "religious",
+                  "coords": [
+                        13.427884,
+                        41.357472
+                  ]
             }
       ],
       "hu": [
@@ -43080,6 +43791,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.452511,
                         41.339686
+                  ]
+            },
+            {
+                  "name": "Monumento Naturale Mola delle Corte Settecannelle Capodacqua",
+                  "text": "Ez a természeti emlék egy védett rezervátum Fondiban, amely középkori malmokat és gazdag biodiverzitást rejt.",
+                  "category": "natural",
+                  "coords": [
+                        13.421846,
+                        41.36751
+                  ]
+            },
+            {
+                  "name": "San Francesco",
+                  "text": "A San Francesco-templom egy kiemelkedő történelmi istentiszteleti hely Fondiban.",
+                  "category": "religious",
+                  "coords": [
+                        13.430717,
+                        41.356565
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "A San Pietro egy figyelemre méltó istentiszteleti hely Fondi városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.427884,
+                        41.357472
                   ]
             }
       ],
@@ -43119,6 +43857,33 @@ export const italyCitiesV2: POI[] = [
                         13.452511,
                         41.339686
                   ]
+            },
+            {
+                  "name": "Monumento Naturale Mola delle Corte Settecannelle Capodacqua",
+                  "text": "Acest monument natural este o rezervație protejată, cu mori medievale și o bogată biodiversitate în Fondi.",
+                  "category": "natural",
+                  "coords": [
+                        13.421846,
+                        41.36751
+                  ]
+            },
+            {
+                  "name": "San Francesco",
+                  "text": "Biserica San Francesco este un lăcaș de cult istoric proeminent în Fondi.",
+                  "category": "religious",
+                  "coords": [
+                        13.430717,
+                        41.356565
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "San Pietro este un lăcaș de cult notabil situat în orașul Fondi.",
+                  "category": "religious",
+                  "coords": [
+                        13.427884,
+                        41.357472
+                  ]
             }
       ],
       "en": [
@@ -43156,6 +43921,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.452511,
                         41.339686
+                  ]
+            },
+            {
+                  "name": "Monumento Naturale Mola delle Corte Settecannelle Capodacqua",
+                  "text": "This natural monument is a protected reserve featuring medieval mills and rich biodiversity in Fondi.",
+                  "category": "natural",
+                  "coords": [
+                        13.421846,
+                        41.36751
+                  ]
+            },
+            {
+                  "name": "San Francesco",
+                  "text": "The Church of San Francesco is a prominent historical place of worship in Fondi.",
+                  "category": "religious",
+                  "coords": [
+                        13.430717,
+                        41.356565
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "San Pietro is a notable place of worship located in the city of Fondi.",
+                  "category": "religious",
+                  "coords": [
+                        13.427884,
+                        41.357472
                   ]
             }
       ]
@@ -43232,6 +44024,42 @@ export const italyCitiesV2: POI[] = [
                         13.00319,
                         41.730743
                   ]
+            },
+            {
+                  "name": "Chiesa di Santa Barbara",
+                  "text": "Die Chiesa di Santa Barbara ist eine lokale Kirche und ein Gotteshaus für die Gemeinde in Colleferro.",
+                  "category": "religious",
+                  "coords": [
+                        13.006442,
+                        41.730483
+                  ]
+            },
+            {
+                  "name": "Vega",
+                  "text": "Vega ist ein bemerkenswertes Denkmal in der Stadt Colleferro.",
+                  "category": "historical",
+                  "coords": [
+                        12.991761,
+                        41.748194
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Piombinara",
+                  "text": "Santa Maria di Piombinara umfasst antike Ruinen in der Gegend von Colleferro.",
+                  "category": "historical",
+                  "coords": [
+                        12.994497,
+                        41.747348
+                  ]
+            },
+            {
+                  "name": "Vittorio Veneto",
+                  "text": "Das Vittorio Veneto ist ein lokales Theater, das verschiedene Aufführungen in Colleferro veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.009593,
+                        41.734051
+                  ]
             }
       ],
       "hu": [
@@ -43260,6 +44088,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.00319,
                         41.730743
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Barbara",
+                  "text": "A Chiesa di Santa Barbara egy helyi templom, amely istentiszteleti helyet kínál a colleferrói közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        13.006442,
+                        41.730483
+                  ]
+            },
+            {
+                  "name": "Vega",
+                  "text": "A Vega egy figyelemre méltó emlékmű Colleferro városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.991761,
+                        41.748194
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Piombinara",
+                  "text": "A Santa Maria di Piombinara ősi romokat rejt Colleferro területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.994497,
+                        41.747348
+                  ]
+            },
+            {
+                  "name": "Vittorio Veneto",
+                  "text": "A Vittorio Veneto egy helyi színház, amely különböző előadásoknak ad otthont Colleferro városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.009593,
+                        41.734051
                   ]
             }
       ],
@@ -43290,6 +44154,42 @@ export const italyCitiesV2: POI[] = [
                         13.00319,
                         41.730743
                   ]
+            },
+            {
+                  "name": "Chiesa di Santa Barbara",
+                  "text": "Chiesa di Santa Barbara este o biserică locală care oferă un lăcaș de cult pentru comunitatea din Colleferro.",
+                  "category": "religious",
+                  "coords": [
+                        13.006442,
+                        41.730483
+                  ]
+            },
+            {
+                  "name": "Vega",
+                  "text": "Vega este un monument notabil situat în orașul Colleferro.",
+                  "category": "historical",
+                  "coords": [
+                        12.991761,
+                        41.748194
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Piombinara",
+                  "text": "Santa Maria di Piombinara prezintă ruine antice situate în zona Colleferro.",
+                  "category": "historical",
+                  "coords": [
+                        12.994497,
+                        41.747348
+                  ]
+            },
+            {
+                  "name": "Vittorio Veneto",
+                  "text": "Vittorio Veneto este un teatru local care găzduiește diverse spectacole în Colleferro.",
+                  "category": "cultural",
+                  "coords": [
+                        13.009593,
+                        41.734051
+                  ]
             }
       ],
       "en": [
@@ -43318,6 +44218,42 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.00319,
                         41.730743
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Barbara",
+                  "text": "Chiesa di Santa Barbara is a local church offering a place of worship for the Colleferro community.",
+                  "category": "religious",
+                  "coords": [
+                        13.006442,
+                        41.730483
+                  ]
+            },
+            {
+                  "name": "Vega",
+                  "text": "Vega is a notable monument situated in the city of Colleferro.",
+                  "category": "historical",
+                  "coords": [
+                        12.991761,
+                        41.748194
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Piombinara",
+                  "text": "Santa Maria di Piombinara features ancient ruins located in the area of Colleferro.",
+                  "category": "historical",
+                  "coords": [
+                        12.994497,
+                        41.747348
+                  ]
+            },
+            {
+                  "name": "Vittorio Veneto",
+                  "text": "Vittorio Veneto is a local theatre hosting various performances in Colleferro.",
+                  "category": "cultural",
+                  "coords": [
+                        13.009593,
+                        41.734051
                   ]
             }
       ]
@@ -43376,6 +44312,69 @@ export const italyCitiesV2: POI[] = [
                         13.322988,
                         41.574197
                   ]
+            },
+            {
+                  "name": "Castello dei Conti di Ceccano",
+                  "text": "Das Castello dei Conti di Ceccano ist eine historische Burg in Ceccano.",
+                  "category": "castle",
+                  "coords": [
+                        13.334361,
+                        41.569017
+                  ]
+            },
+            {
+                  "name": "San Sebastiano",
+                  "text": "San Sebastiano ist eine religiöse Stätte in Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.333184,
+                        41.568658
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicola",
+                  "text": "Die Chiesa di San Nicola ist eine Kirche und Kultstätte in Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.332006,
+                        41.568557
+                  ]
+            },
+            {
+                  "name": "Santa Maria a Fiume",
+                  "text": "Santa Maria a Fiume ist eine historische Kultstätte in Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.338354,
+                        41.569365
+                  ]
+            },
+            {
+                  "name": "Castel Sindici",
+                  "text": "Das Castel Sindici ist eine bemerkenswerte Burg in der Stadt Ceccano.",
+                  "category": "castle",
+                  "coords": [
+                        13.33398,
+                        41.566738
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti della I e II Guerra Mondiale",
+                  "text": "Das Monumento ai caduti della I e II Guerra Mondiale ist ein Gedenkmonument in Ceccano.",
+                  "category": "historical",
+                  "coords": [
+                        13.332738,
+                        41.569628
+                  ]
+            },
+            {
+                  "name": "Cinema - Teatro \"Antares\"",
+                  "text": "Das Cinema - Teatro „Antares“ ist ein Theater und Veranstaltungsort in Ceccano.",
+                  "category": "cultural",
+                  "coords": [
+                        13.33713,
+                        41.569628
+                  ]
             }
       ],
       "hu": [
@@ -43386,6 +44385,69 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.322988,
                         41.574197
+                  ]
+            },
+            {
+                  "name": "Castello dei Conti di Ceccano",
+                  "text": "A Castello dei Conti di Ceccano egy történelmi kastély Ceccano városában.",
+                  "category": "castle",
+                  "coords": [
+                        13.334361,
+                        41.569017
+                  ]
+            },
+            {
+                  "name": "San Sebastiano",
+                  "text": "A San Sebastiano egy vallási épület Ceccano területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.333184,
+                        41.568658
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicola",
+                  "text": "A Chiesa di San Nicola egy templom és vallási épület Ceccano településen.",
+                  "category": "religious",
+                  "coords": [
+                        13.332006,
+                        41.568557
+                  ]
+            },
+            {
+                  "name": "Santa Maria a Fiume",
+                  "text": "A Santa Maria a Fiume egy történelmi vallási helyszín Ceccano városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.338354,
+                        41.569365
+                  ]
+            },
+            {
+                  "name": "Castel Sindici",
+                  "text": "A Castel Sindici egy kastélyépület Ceccano városában.",
+                  "category": "castle",
+                  "coords": [
+                        13.33398,
+                        41.566738
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti della I e II Guerra Mondiale",
+                  "text": "A Monumento ai caduti della I e II Guerra Mondiale egy emlékmű Ceccano városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.332738,
+                        41.569628
+                  ]
+            },
+            {
+                  "name": "Cinema - Teatro \"Antares\"",
+                  "text": "A Cinema - Teatro \"Antares\" egy színházként és moziként funkcionáló kulturális tér Ceccano területén.",
+                  "category": "cultural",
+                  "coords": [
+                        13.33713,
+                        41.569628
                   ]
             }
       ],
@@ -43398,6 +44460,69 @@ export const italyCitiesV2: POI[] = [
                         13.322988,
                         41.574197
                   ]
+            },
+            {
+                  "name": "Castello dei Conti di Ceccano",
+                  "text": "Castello dei Conti di Ceccano este un castel istoric situat în Ceccano.",
+                  "category": "castle",
+                  "coords": [
+                        13.334361,
+                        41.569017
+                  ]
+            },
+            {
+                  "name": "San Sebastiano",
+                  "text": "San Sebastiano este un lăcaș de cult situat în Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.333184,
+                        41.568658
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicola",
+                  "text": "Chiesa di San Nicola este o biserică și lăcaș de cult situat în Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.332006,
+                        41.568557
+                  ]
+            },
+            {
+                  "name": "Santa Maria a Fiume",
+                  "text": "Santa Maria a Fiume este un lăcaș de cult istoric localizat în Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.338354,
+                        41.569365
+                  ]
+            },
+            {
+                  "name": "Castel Sindici",
+                  "text": "Castel Sindici este un castel notabil situat în orașul Ceccano.",
+                  "category": "castle",
+                  "coords": [
+                        13.33398,
+                        41.566738
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti della I e II Guerra Mondiale",
+                  "text": "Monumento ai caduti della I e II Guerra Mondiale este un monument memorial situat în Ceccano.",
+                  "category": "historical",
+                  "coords": [
+                        13.332738,
+                        41.569628
+                  ]
+            },
+            {
+                  "name": "Cinema - Teatro \"Antares\"",
+                  "text": "Cinema - Teatro „Antares” este un teatru și un spațiu cultural din Ceccano.",
+                  "category": "cultural",
+                  "coords": [
+                        13.33713,
+                        41.569628
+                  ]
             }
       ],
       "en": [
@@ -43408,6 +44533,69 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.322988,
                         41.574197
+                  ]
+            },
+            {
+                  "name": "Castello dei Conti di Ceccano",
+                  "text": "Castello dei Conti di Ceccano is a historical castle situated in Ceccano.",
+                  "category": "castle",
+                  "coords": [
+                        13.334361,
+                        41.569017
+                  ]
+            },
+            {
+                  "name": "San Sebastiano",
+                  "text": "San Sebastiano is a religious site and place of worship located in Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.333184,
+                        41.568658
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicola",
+                  "text": "Chiesa di San Nicola is a church and place of worship situated in Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.332006,
+                        41.568557
+                  ]
+            },
+            {
+                  "name": "Santa Maria a Fiume",
+                  "text": "Santa Maria a Fiume is a historic place of worship located in Ceccano.",
+                  "category": "religious",
+                  "coords": [
+                        13.338354,
+                        41.569365
+                  ]
+            },
+            {
+                  "name": "Castel Sindici",
+                  "text": "Castel Sindici is a notable castle found in the town of Ceccano.",
+                  "category": "castle",
+                  "coords": [
+                        13.33398,
+                        41.566738
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti della I e II Guerra Mondiale",
+                  "text": "Monumento ai caduti della I e II Guerra Mondiale is a memorial monument located in Ceccano.",
+                  "category": "historical",
+                  "coords": [
+                        13.332738,
+                        41.569628
+                  ]
+            },
+            {
+                  "name": "Cinema - Teatro \"Antares\"",
+                  "text": "Cinema - Teatro \"Antares\" is a cultural venue serving as a theatre in Ceccano.",
+                  "category": "cultural",
+                  "coords": [
+                        13.33713,
+                        41.569628
                   ]
             }
       ]
@@ -43700,6 +44888,33 @@ export const italyCitiesV2: POI[] = [
                         13.418715,
                         41.688142
                   ]
+            },
+            {
+                  "name": "Concattedrale di Sant'Andrea",
+                  "text": "Die Konkathedrale Sant'Andrea ist ein wichtiges Gotteshaus in der Stadt Veroli.",
+                  "category": "religious",
+                  "coords": [
+                        13.417298,
+                        41.690884
+                  ]
+            },
+            {
+                  "name": "Santa Maria Salome",
+                  "text": "Santa Maria Salome ist eine bemerkenswerte religiöse Stätte in Veroli.",
+                  "category": "religious",
+                  "coords": [
+                        13.415855,
+                        41.691072
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Franconi",
+                  "text": "Santa Maria dei Franconi ist eine kulturelle Sehenswürdigkeit in Veroli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.418308,
+                        41.690401
+                  ]
             }
       ],
       "hu": [
@@ -43710,6 +44925,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.418715,
                         41.688142
+                  ]
+            },
+            {
+                  "name": "Concattedrale di Sant'Andrea",
+                  "text": "A Szent András-társszékesegyház egy fontos istentiszteleti hely Veroli városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.417298,
+                        41.690884
+                  ]
+            },
+            {
+                  "name": "Santa Maria Salome",
+                  "text": "A Santa Maria Salome egy figyelemre méltó vallási helyszín Veroliban.",
+                  "category": "religious",
+                  "coords": [
+                        13.415855,
+                        41.691072
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Franconi",
+                  "text": "A Santa Maria dei Franconi egy kulturális látványosság Veroliban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.418308,
+                        41.690401
                   ]
             }
       ],
@@ -43722,6 +44964,33 @@ export const italyCitiesV2: POI[] = [
                         13.418715,
                         41.688142
                   ]
+            },
+            {
+                  "name": "Concattedrale di Sant'Andrea",
+                  "text": "Catedrala Concatedrală Sant'Andrea este un lăcaș de cult important din Veroli.",
+                  "category": "religious",
+                  "coords": [
+                        13.417298,
+                        41.690884
+                  ]
+            },
+            {
+                  "name": "Santa Maria Salome",
+                  "text": "Santa Maria Salome este un lăcaș religios remarcabil din Veroli.",
+                  "category": "religious",
+                  "coords": [
+                        13.415855,
+                        41.691072
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Franconi",
+                  "text": "Santa Maria dei Franconi este o atracție culturală din Veroli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.418308,
+                        41.690401
+                  ]
             }
       ],
       "en": [
@@ -43732,6 +45001,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.418715,
                         41.688142
+                  ]
+            },
+            {
+                  "name": "Concattedrale di Sant'Andrea",
+                  "text": "The Concattedrale di Sant'Andrea is an important place of worship in the town of Veroli.",
+                  "category": "religious",
+                  "coords": [
+                        13.417298,
+                        41.690884
+                  ]
+            },
+            {
+                  "name": "Santa Maria Salome",
+                  "text": "Santa Maria Salome is a notable religious site in Veroli.",
+                  "category": "religious",
+                  "coords": [
+                        13.415855,
+                        41.691072
+                  ]
+            },
+            {
+                  "name": "Santa Maria dei Franconi",
+                  "text": "Santa Maria dei Franconi is a cultural attraction in Veroli.",
+                  "category": "landmark",
+                  "coords": [
+                        13.418308,
+                        41.690401
                   ]
             }
       ]
@@ -43817,6 +45113,51 @@ export const italyCitiesV2: POI[] = [
                         13.146967,
                         41.749353
                   ]
+            },
+            {
+                  "name": "Porta Santa Maria",
+                  "text": "Porta Santa Maria ist ein historisches Stadttor in Anagni.",
+                  "category": "fortress",
+                  "coords": [
+                        13.162491,
+                        41.741891
+                  ]
+            },
+            {
+                  "name": "Porta San Francesco",
+                  "text": "Porta San Francesco ist ein historisches Stadttor in Anagni.",
+                  "category": "fortress",
+                  "coords": [
+                        13.154768,
+                        41.741582
+                  ]
+            },
+            {
+                  "name": "Palazzo della Ragione",
+                  "text": "Palazzo della Ragione ist ein bedeutendes historisches Rathaus in Anagni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.158529,
+                        41.742269
+                  ]
+            },
+            {
+                  "name": "San Giacomo",
+                  "text": "San Giacomo ist eine Kultstätte in Anagni.",
+                  "category": "religious",
+                  "coords": [
+                        13.150129,
+                        41.747004
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "Chiesa Sant'Andrea ist eine religiöse Kultstätte in Anagni.",
+                  "category": "religious",
+                  "coords": [
+                        13.154423,
+                        41.743655
+                  ]
             }
       ],
       "hu": [
@@ -43854,6 +45195,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.146967,
                         41.749353
+                  ]
+            },
+            {
+                  "name": "Porta Santa Maria",
+                  "text": "A Porta Santa Maria egy történelmi városkapu Anagni városában.",
+                  "category": "fortress",
+                  "coords": [
+                        13.162491,
+                        41.741891
+                  ]
+            },
+            {
+                  "name": "Porta San Francesco",
+                  "text": "A Porta San Francesco egy történelmi városkapu Anagniban.",
+                  "category": "fortress",
+                  "coords": [
+                        13.154768,
+                        41.741582
+                  ]
+            },
+            {
+                  "name": "Palazzo della Ragione",
+                  "text": "A Palazzo della Ragione egy jelentős történelmi városháza Anagniban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.158529,
+                        41.742269
+                  ]
+            },
+            {
+                  "name": "San Giacomo",
+                  "text": "A San Giacomo egy vallási imahely Anagni városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.150129,
+                        41.747004
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "A Chiesa Sant'Andrea egy vallási imahely, amely Anagniban található.",
+                  "category": "religious",
+                  "coords": [
+                        13.154423,
+                        41.743655
                   ]
             }
       ],
@@ -43893,6 +45279,51 @@ export const italyCitiesV2: POI[] = [
                         13.146967,
                         41.749353
                   ]
+            },
+            {
+                  "name": "Porta Santa Maria",
+                  "text": "Porta Santa Maria este o poartă istorică a orașului din Anagni.",
+                  "category": "fortress",
+                  "coords": [
+                        13.162491,
+                        41.741891
+                  ]
+            },
+            {
+                  "name": "Porta San Francesco",
+                  "text": "Porta San Francesco este o veche poartă a orașului Anagni.",
+                  "category": "fortress",
+                  "coords": [
+                        13.154768,
+                        41.741582
+                  ]
+            },
+            {
+                  "name": "Palazzo della Ragione",
+                  "text": "Palazzo della Ragione este o importantă primărie istorică din Anagni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.158529,
+                        41.742269
+                  ]
+            },
+            {
+                  "name": "San Giacomo",
+                  "text": "San Giacomo este un lăcaș de cult din orașul Anagni.",
+                  "category": "religious",
+                  "coords": [
+                        13.150129,
+                        41.747004
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "Chiesa Sant'Andrea este un lăcaș de cult religios situat în Anagni.",
+                  "category": "religious",
+                  "coords": [
+                        13.154423,
+                        41.743655
+                  ]
             }
       ],
       "en": [
@@ -43930,6 +45361,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.146967,
                         41.749353
+                  ]
+            },
+            {
+                  "name": "Porta Santa Maria",
+                  "text": "Porta Santa Maria is a historical city gate in Anagni.",
+                  "category": "fortress",
+                  "coords": [
+                        13.162491,
+                        41.741891
+                  ]
+            },
+            {
+                  "name": "Porta San Francesco",
+                  "text": "Porta San Francesco is a historical city gate in Anagni.",
+                  "category": "fortress",
+                  "coords": [
+                        13.154768,
+                        41.741582
+                  ]
+            },
+            {
+                  "name": "Palazzo della Ragione",
+                  "text": "Palazzo della Ragione is a notable historic town hall in Anagni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.158529,
+                        41.742269
+                  ]
+            },
+            {
+                  "name": "San Giacomo",
+                  "text": "San Giacomo is a place of worship located in Anagni.",
+                  "category": "religious",
+                  "coords": [
+                        13.150129,
+                        41.747004
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "Chiesa Sant'Andrea is a religious place of worship situated in Anagni.",
+                  "category": "religious",
+                  "coords": [
+                        13.154423,
+                        41.743655
                   ]
             }
       ]
@@ -44312,6 +45788,51 @@ export const italyCitiesV2: POI[] = [
                         13.61168,
                         41.715451
                   ]
+            },
+            {
+                  "name": "Chiesa di San Ciro e Santa Restituta",
+                  "text": "Eine Kultstätte in der Stadt Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.610312,
+                        41.708329
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Bartolomeo Apostolo",
+                  "text": "Eine Kirche und lokale Kultstätte in Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.613072,
+                        41.719149
+                  ]
+            },
+            {
+                  "name": "Parrocchia Santa Marria Della Stella",
+                  "text": "Eine Pfarrkirche in der Stadt Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.639693,
+                        41.701483
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Silvestro",
+                  "text": "Eine religiöse Kultstätte in Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.610852,
+                        41.720498
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria Assunta",
+                  "text": "Eine markante Kathedrale in Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.615356,
+                        41.723519
+                  ]
             }
       ],
       "hu": [
@@ -44340,6 +45861,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.61168,
                         41.715451
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Ciro e Santa Restituta",
+                  "text": "Egy istentiszteleti hely Sora városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.610312,
+                        41.708329
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Bartolomeo Apostolo",
+                  "text": "Egy templom és helyi istentiszteleti hely Sora városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.613072,
+                        41.719149
+                  ]
+            },
+            {
+                  "name": "Parrocchia Santa Marria Della Stella",
+                  "text": "Egy plébániatemplom Sora városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.639693,
+                        41.701483
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Silvestro",
+                  "text": "Egy vallási istentiszteleti hely Sora városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.610852,
+                        41.720498
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria Assunta",
+                  "text": "Egy kiemelkedő katedrális Sora városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.615356,
+                        41.723519
                   ]
             }
       ],
@@ -44370,6 +45936,51 @@ export const italyCitiesV2: POI[] = [
                         13.61168,
                         41.715451
                   ]
+            },
+            {
+                  "name": "Chiesa di San Ciro e Santa Restituta",
+                  "text": "Un lăcaș de cult situat în orașul Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.610312,
+                        41.708329
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Bartolomeo Apostolo",
+                  "text": "O biserică și lăcaș de cult local în Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.613072,
+                        41.719149
+                  ]
+            },
+            {
+                  "name": "Parrocchia Santa Marria Della Stella",
+                  "text": "O biserică parohială situată în orașul Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.639693,
+                        41.701483
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Silvestro",
+                  "text": "Un lăcaș de cult religios situat în Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.610852,
+                        41.720498
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria Assunta",
+                  "text": "O catedrală proeminentă ce servește ca lăcaș de cult în Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.615356,
+                        41.723519
+                  ]
             }
       ],
       "en": [
@@ -44398,6 +46009,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.61168,
                         41.715451
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Ciro e Santa Restituta",
+                  "text": "A place of worship located in the city of Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.610312,
+                        41.708329
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Bartolomeo Apostolo",
+                  "text": "A church and local place of worship in Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.613072,
+                        41.719149
+                  ]
+            },
+            {
+                  "name": "Parrocchia Santa Marria Della Stella",
+                  "text": "A parish church located in the town of Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.639693,
+                        41.701483
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Silvestro",
+                  "text": "A religious place of worship situated in Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.610852,
+                        41.720498
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria Assunta",
+                  "text": "A prominent cathedral serving as a place of worship in Sora.",
+                  "category": "religious",
+                  "coords": [
+                        13.615356,
+                        41.723519
                   ]
             }
       ]
@@ -44771,6 +46427,78 @@ export const italyCitiesV2: POI[] = [
                         13.70825,
                         41.518302
                   ]
+            },
+            {
+                  "name": "parco archeologico del Monte Asprano",
+                  "text": "Der parco archeologico del Monte Asprano ist eine archäologische Stätte in Roccasecca.",
+                  "category": "historical",
+                  "coords": [
+                        13.672153,
+                        41.547614
+                  ]
+            },
+            {
+                  "name": "Monte Castrocielo",
+                  "text": "Der Monte Castrocielo ist ein Berggipfel bei Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.6928,
+                        41.54213
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "Die Chiesa di San Francesco ist eine Kirche in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.673595,
+                        41.551662
+                  ]
+            },
+            {
+                  "name": "Santa Croce in Suburba",
+                  "text": "Santa Croce in Suburba ist ein Sakralbau in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.692199,
+                        41.548747
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Filippo e Giacomo ai pozzi",
+                  "text": "Die Chiesa dei Santi Filippo e Giacomo ai pozzi ist eine Kirche in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.676088,
+                        41.537641
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria delle Grazie",
+                  "text": "Die Chiesa parrocchiale di Santa Maria delle Grazie ist eine Pfarrkirche in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.67738,
+                        41.544082
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di San Michele Arcangelo",
+                  "text": "Die Chiesa rupestre di San Michele Arcangelo ist eine Felsenkirche in Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.673863,
+                        41.546421
+                  ]
+            },
+            {
+                  "name": "Comune di Roccasecca",
+                  "text": "Comune di Roccasecca ist das Rathaus der Gemeinde Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669549,
+                        41.551271
+                  ]
             }
       ],
       "hu": [
@@ -44790,6 +46518,78 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.70825,
                         41.518302
+                  ]
+            },
+            {
+                  "name": "parco archeologico del Monte Asprano",
+                  "text": "A parco archeologico del Monte Asprano egy régészeti lelőhely Roccasecca városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.672153,
+                        41.547614
+                  ]
+            },
+            {
+                  "name": "Monte Castrocielo",
+                  "text": "A Monte Castrocielo egy hegycsúcs Roccasecca közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.6928,
+                        41.54213
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "A Chiesa di San Francesco egy vallási épület Roccasecca városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.673595,
+                        41.551662
+                  ]
+            },
+            {
+                  "name": "Santa Croce in Suburba",
+                  "text": "A Santa Croce in Suburba egy templom Roccasecca területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.692199,
+                        41.548747
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Filippo e Giacomo ai pozzi",
+                  "text": "A Chiesa dei Santi Filippo e Giacomo ai pozzi egy vallási épület Roccasecca településén.",
+                  "category": "religious",
+                  "coords": [
+                        13.676088,
+                        41.537641
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria delle Grazie",
+                  "text": "A Chiesa parrocchiale di Santa Maria delle Grazie egy plébániatemplom Roccasecca városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.67738,
+                        41.544082
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di San Michele Arcangelo",
+                  "text": "A Chiesa rupestre di San Michele Arcangelo egy barlangtemplom Roccasecca területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.673863,
+                        41.546421
+                  ]
+            },
+            {
+                  "name": "Comune di Roccasecca",
+                  "text": "A Comune di Roccasecca Roccasecca község városházája.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669549,
+                        41.551271
                   ]
             }
       ],
@@ -44811,6 +46611,78 @@ export const italyCitiesV2: POI[] = [
                         13.70825,
                         41.518302
                   ]
+            },
+            {
+                  "name": "parco archeologico del Monte Asprano",
+                  "text": "Parco archeologico del Monte Asprano este un sit arheologic situat în Roccasecca.",
+                  "category": "historical",
+                  "coords": [
+                        13.672153,
+                        41.547614
+                  ]
+            },
+            {
+                  "name": "Monte Castrocielo",
+                  "text": "Monte Castrocielo este un vârf montan din Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.6928,
+                        41.54213
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "Chiesa di San Francesco este un lăcaș de cult din Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.673595,
+                        41.551662
+                  ]
+            },
+            {
+                  "name": "Santa Croce in Suburba",
+                  "text": "Santa Croce in Suburba este un lăcaș de cult situat în Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.692199,
+                        41.548747
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Filippo e Giacomo ai pozzi",
+                  "text": "Chiesa dei Santi Filippo e Giacomo ai pozzi este o biserică din Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.676088,
+                        41.537641
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria delle Grazie",
+                  "text": "Chiesa parrocchiale di Santa Maria delle Grazie este un lăcaș de cult din Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.67738,
+                        41.544082
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di San Michele Arcangelo",
+                  "text": "Chiesa rupestre di San Michele Arcangelo este o biserică rupestră din Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.673863,
+                        41.546421
+                  ]
+            },
+            {
+                  "name": "Comune di Roccasecca",
+                  "text": "Comune di Roccasecca este primăria orașului Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669549,
+                        41.551271
+                  ]
             }
       ],
       "en": [
@@ -44830,6 +46702,78 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.70825,
                         41.518302
+                  ]
+            },
+            {
+                  "name": "parco archeologico del Monte Asprano",
+                  "text": "The parco archeologico del Monte Asprano is an archaeological site located in Roccasecca.",
+                  "category": "historical",
+                  "coords": [
+                        13.672153,
+                        41.547614
+                  ]
+            },
+            {
+                  "name": "Monte Castrocielo",
+                  "text": "Monte Castrocielo is a prominent mountain peak in Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.6928,
+                        41.54213
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "The Chiesa di San Francesco is a place of worship in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.673595,
+                        41.551662
+                  ]
+            },
+            {
+                  "name": "Santa Croce in Suburba",
+                  "text": "Santa Croce in Suburba is a place of worship located in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.692199,
+                        41.548747
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Filippo e Giacomo ai pozzi",
+                  "text": "The Chiesa dei Santi Filippo e Giacomo ai pozzi is a place of worship situated in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.676088,
+                        41.537641
+                  ]
+            },
+            {
+                  "name": "Chiesa parrocchiale di Santa Maria delle Grazie",
+                  "text": "The Chiesa parrocchiale di Santa Maria delle Grazie is a parish church in Roccasecca.",
+                  "category": "religious",
+                  "coords": [
+                        13.67738,
+                        41.544082
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di San Michele Arcangelo",
+                  "text": "The Chiesa rupestre di San Michele Arcangelo is a cave church located in Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.673863,
+                        41.546421
+                  ]
+            },
+            {
+                  "name": "Comune di Roccasecca",
+                  "text": "The Comune di Roccasecca serves as the town hall for Roccasecca.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669549,
+                        41.551271
                   ]
             }
       ]
@@ -44878,7 +46822,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-roccasecca-cities-v2.webp",
   },
   {
-    id: "italy-pontecorvo-cities-v2",
+    id: "italy-pontecorvo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torretta Forestale",
+                  "text": "Ein Waldturm, der als malerischer Aussichtspunkt in Pontecorvo dient.",
+                  "category": "natural",
+                  "coords": [
+                        13.629688,
+                        41.435106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torretta Forestale",
+                  "text": "Egy erdei torony, amely festői kilátóként szolgál Pontecorvo városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.629688,
+                        41.435106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torretta Forestale",
+                  "text": "Un turn forestier care servește ca punct de belvedere panoramic în Pontecorvo.",
+                  "category": "natural",
+                  "coords": [
+                        13.629688,
+                        41.435106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torretta Forestale",
+                  "text": "A forest tower serving as a scenic viewpoint in Pontecorvo.",
+                  "category": "natural",
+                  "coords": [
+                        13.629688,
+                        41.435106
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pontecorvo", hu: "Pontecorvo", ro: "Pontecorvo", en: "Pontecorvo" },
@@ -44923,7 +46912,196 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-pontecorvo-cities-v2.webp",
   },
   {
-    id: "italy-castro-dei-volsci-cities-v2",
+    id: "italy-castro-dei-volsci-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Comune di Villa Santo Stefano",
+                  "text": "Die Comune di Villa Santo Stefano fungiert als Rathaus in Castro dei Volsci.",
+                  "category": "landmark",
+                  "coords": [
+                        13.310233,
+                        41.517071
+                  ]
+            },
+            {
+                  "name": "Comune diGiuliano di Roma",
+                  "text": "Die Comune diGiuliano di Roma ist ein Rathausgebäude in Castro dei Volsci.",
+                  "category": "landmark",
+                  "coords": [
+                        13.279741,
+                        41.540132
+                  ]
+            },
+            {
+                  "name": "Santa Maria Maggiore",
+                  "text": "Santa Maria Maggiore ist ein religiöses Gebäude in Castro dei Volsci.",
+                  "category": "religious",
+                  "coords": [
+                        13.280447,
+                        41.539164
+                  ]
+            },
+            {
+                  "name": "Monumento a San Paolo Della Croce",
+                  "text": "Das Monumento a San Paolo Della Croce ist ein Denkmal in Castro dei Volsci.",
+                  "category": "historical",
+                  "coords": [
+                        13.327203,
+                        41.542096
+                  ]
+            },
+            {
+                  "name": "Museo del Vulcanismo Ernico",
+                  "text": "Das Museo del Vulcanismo Ernico ist ein Museum, das sich der regionalen vulkanischen Geschichte in Castro dei Volsci widmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.278842,
+                        41.538817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Comune di Villa Santo Stefano",
+                  "text": "A Comune di Villa Santo Stefano városházaként működik Castro dei Volsci területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.310233,
+                        41.517071
+                  ]
+            },
+            {
+                  "name": "Comune diGiuliano di Roma",
+                  "text": "A Comune diGiuliano di Roma egy városháza épülete Castro dei Volsci városában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.279741,
+                        41.540132
+                  ]
+            },
+            {
+                  "name": "Santa Maria Maggiore",
+                  "text": "A Santa Maria Maggiore egy vallási épület Castro dei Volsci városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.280447,
+                        41.539164
+                  ]
+            },
+            {
+                  "name": "Monumento a San Paolo Della Croce",
+                  "text": "A Monumento a San Paolo Della Croce egy emlékmű Castro dei Volsci-ben.",
+                  "category": "historical",
+                  "coords": [
+                        13.327203,
+                        41.542096
+                  ]
+            },
+            {
+                  "name": "Museo del Vulcanismo Ernico",
+                  "text": "A Museo del Vulcanismo Ernico a helyi vulkáni történelmet bemutató múzeum Castro dei Volsci-ben.",
+                  "category": "museum",
+                  "coords": [
+                        13.278842,
+                        41.538817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Comune di Villa Santo Stefano",
+                  "text": "Comune di Villa Santo Stefano funcționează ca primărie în Castro dei Volsci.",
+                  "category": "landmark",
+                  "coords": [
+                        13.310233,
+                        41.517071
+                  ]
+            },
+            {
+                  "name": "Comune diGiuliano di Roma",
+                  "text": "Comune diGiuliano di Roma este o clădire a primăriei din Castro dei Volsci.",
+                  "category": "landmark",
+                  "coords": [
+                        13.279741,
+                        41.540132
+                  ]
+            },
+            {
+                  "name": "Santa Maria Maggiore",
+                  "text": "Santa Maria Maggiore este un lăcaș de cult în Castro dei Volsci.",
+                  "category": "religious",
+                  "coords": [
+                        13.280447,
+                        41.539164
+                  ]
+            },
+            {
+                  "name": "Monumento a San Paolo Della Croce",
+                  "text": "Monumento a San Paolo Della Croce este un monument situat în Castro dei Volsci.",
+                  "category": "historical",
+                  "coords": [
+                        13.327203,
+                        41.542096
+                  ]
+            },
+            {
+                  "name": "Museo del Vulcanismo Ernico",
+                  "text": "Museo del Vulcanismo Ernico este un muzeu dedicat istoriei vulcanice regionale din Castro dei Volsci.",
+                  "category": "museum",
+                  "coords": [
+                        13.278842,
+                        41.538817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Comune di Villa Santo Stefano",
+                  "text": "The Comune di Villa Santo Stefano functions as a town hall in Castro dei Volsci.",
+                  "category": "landmark",
+                  "coords": [
+                        13.310233,
+                        41.517071
+                  ]
+            },
+            {
+                  "name": "Comune diGiuliano di Roma",
+                  "text": "The Comune diGiuliano di Roma is a town hall building situated in Castro dei Volsci.",
+                  "category": "landmark",
+                  "coords": [
+                        13.279741,
+                        41.540132
+                  ]
+            },
+            {
+                  "name": "Santa Maria Maggiore",
+                  "text": "Santa Maria Maggiore is a place of worship situated in Castro dei Volsci.",
+                  "category": "religious",
+                  "coords": [
+                        13.280447,
+                        41.539164
+                  ]
+            },
+            {
+                  "name": "Monumento a San Paolo Della Croce",
+                  "text": "The Monumento a San Paolo Della Croce is a monument located in Castro dei Volsci.",
+                  "category": "historical",
+                  "coords": [
+                        13.327203,
+                        41.542096
+                  ]
+            },
+            {
+                  "name": "Museo del Vulcanismo Ernico",
+                  "text": "The Museo del Vulcanismo Ernico is a museum dedicated to regional volcanic history in Castro dei Volsci.",
+                  "category": "museum",
+                  "coords": [
+                        13.278842,
+                        41.538817
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Castro dei Volsci", hu: "Castro dei Volsci", ro: "Castro dei Volsci", en: "Castro dei Volsci" },
@@ -44978,6 +47156,33 @@ export const italyCitiesV2: POI[] = [
                         13.534484,
                         41.55349
                   ]
+            },
+            {
+                  "name": "Santa Maria Maggiore (S. Arduino)",
+                  "text": "Santa Maria Maggiore (S. Arduino) ist eine Kultstätte in Ceprano.",
+                  "category": "religious",
+                  "coords": [
+                        13.521888,
+                        41.545937
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Antonio",
+                  "text": "Die Chiesa di San Antonio ist eine Kirche und Kultstätte in Ceprano.",
+                  "category": "religious",
+                  "coords": [
+                        13.51008,
+                        41.548648
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "Das Monumento ai caduti ist ein Gefallenendenkmal in Ceprano.",
+                  "category": "historical",
+                  "coords": [
+                        13.519669,
+                        41.546254
+                  ]
             }
       ],
       "hu": [
@@ -44988,6 +47193,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.534484,
                         41.55349
+                  ]
+            },
+            {
+                  "name": "Santa Maria Maggiore (S. Arduino)",
+                  "text": "A Santa Maria Maggiore (S. Arduino) egy vallási épület Ceprano városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.521888,
+                        41.545937
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Antonio",
+                  "text": "A Chiesa di San Antonio egy templom és istentiszteleti hely Ceprano területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.51008,
+                        41.548648
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "A Monumento ai caduti egy emlékmű Ceprano városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.519669,
+                        41.546254
                   ]
             }
       ],
@@ -45000,6 +47232,33 @@ export const italyCitiesV2: POI[] = [
                         13.534484,
                         41.55349
                   ]
+            },
+            {
+                  "name": "Santa Maria Maggiore (S. Arduino)",
+                  "text": "Santa Maria Maggiore (S. Arduino) este un lăcaș de cult din Ceprano.",
+                  "category": "religious",
+                  "coords": [
+                        13.521888,
+                        41.545937
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Antonio",
+                  "text": "Chiesa di San Antonio este o biserică și lăcaș de cult situat în Ceprano.",
+                  "category": "religious",
+                  "coords": [
+                        13.51008,
+                        41.548648
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "Monumento ai caduti este un monument dedicat eroilor căzuți, situat în Ceprano.",
+                  "category": "historical",
+                  "coords": [
+                        13.519669,
+                        41.546254
+                  ]
             }
       ],
       "en": [
@@ -45010,6 +47269,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.534484,
                         41.55349
+                  ]
+            },
+            {
+                  "name": "Santa Maria Maggiore (S. Arduino)",
+                  "text": "Santa Maria Maggiore (S. Arduino) is a place of worship situated in Ceprano.",
+                  "category": "religious",
+                  "coords": [
+                        13.521888,
+                        41.545937
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Antonio",
+                  "text": "Chiesa di San Antonio is a church and place of worship located in Ceprano.",
+                  "category": "religious",
+                  "coords": [
+                        13.51008,
+                        41.548648
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti",
+                  "text": "Monumento ai caduti is a monument dedicated to the fallen, located in Ceprano.",
+                  "category": "historical",
+                  "coords": [
+                        13.519669,
+                        41.546254
                   ]
             }
       ]
@@ -45148,7 +47434,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-arnara-cities-v2.webp",
   },
   {
-    id: "italy-pofi-cities-v2",
+    id: "italy-pofi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "Monumento ai Caduti ist ein Denkmal in Pofi.",
+                  "category": "historical",
+                  "coords": [
+                        13.415878,
+                        41.564566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "A Monumento ai Caduti egy emlékmű Pofiban.",
+                  "category": "historical",
+                  "coords": [
+                        13.415878,
+                        41.564566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "Monumento ai Caduti este un monument situat în Pofi.",
+                  "category": "historical",
+                  "coords": [
+                        13.415878,
+                        41.564566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento ai Caduti",
+                  "text": "Monumento ai Caduti is a memorial monument located in Pofi.",
+                  "category": "historical",
+                  "coords": [
+                        13.415878,
+                        41.564566
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pofi", hu: "Pofi", ro: "Pofi", en: "Pofi" },
@@ -45194,10 +47525,86 @@ export const italyCitiesV2: POI[] = [
   },
   {
     id: "italy-falvaterra-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Grotte di Pastena",
+                  "text": "Die Grotte di Pastena sind bemerkenswerte Höhleneingänge und eine natürliche Sehenswürdigkeit in Falvaterra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489629,
+                        41.496667
+                  ]
+            },
+            {
+                  "name": "Monte Solo",
+                  "text": "Der Monte Solo ist ein markanter Berggipfel in der Region von Falvaterra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489617,
+                        41.474487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grotte di Pastena",
+                  "text": "A Grotte di Pastena figyelemre méltó barlangok és természeti látványosságok Falvaterrában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489629,
+                        41.496667
+                  ]
+            },
+            {
+                  "name": "Monte Solo",
+                  "text": "A Monte Solo egy kiemelkedő hegycsúcs Falvaterra térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489617,
+                        41.474487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grotte di Pastena",
+                  "text": "Grotte di Pastena reprezintă intrări remarcabile în peșteri și o atracție naturală în Falvaterra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489629,
+                        41.496667
+                  ]
+            },
+            {
+                  "name": "Monte Solo",
+                  "text": "Monte Solo este un vârf montan proeminent din regiunea Falvaterra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489617,
+                        41.474487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grotte di Pastena",
+                  "text": "The Grotte di Pastena are remarkable cave entrances and a natural attraction in Falvaterra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489629,
+                        41.496667
+                  ]
+            },
+            {
+                  "name": "Monte Solo",
+                  "text": "Monte Solo is a prominent mountain peak located in the area of Falvaterra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.489617,
+                        41.474487
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "IT",
@@ -45243,7 +47650,88 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-falvaterra-cities-v2.webp",
   },
   {
-    id: "italy-pastena-cities-v2",
+    id: "italy-pastena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Cappello",
+                  "text": "Monte Cappello ist ein bekannter Berggipfel in der Region Latium nahe Pastena.",
+                  "category": "landmark",
+                  "coords": [
+                        13.456241,
+                        41.466657
+                  ]
+            },
+            {
+                  "name": "Monte Calvilli",
+                  "text": "Monte Calvilli ist ein markanter Berggipfel, der eine malerische natürliche Umgebung in Pastena bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444863,
+                        41.466953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Cappello",
+                  "text": "A Monte Cappello egy hegycsúcs a Lazio régióban, Pastena közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.456241,
+                        41.466657
+                  ]
+            },
+            {
+                  "name": "Monte Calvilli",
+                  "text": "A Monte Calvilli egy ismert hegycsúcs Pastena területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444863,
+                        41.466953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Cappello",
+                  "text": "Monte Cappello este un vârf de munte recunoscut situat în regiunea Lazio, lângă Pastena.",
+                  "category": "landmark",
+                  "coords": [
+                        13.456241,
+                        41.466657
+                  ]
+            },
+            {
+                  "name": "Monte Calvilli",
+                  "text": "Monte Calvilli este un vârf de munte notabil, care oferă împrejurimi naturale pitorești în Pastena.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444863,
+                        41.466953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Cappello",
+                  "text": "Monte Cappello is a recognized mountain peak located in the Lazio region near Pastena.",
+                  "category": "landmark",
+                  "coords": [
+                        13.456241,
+                        41.466657
+                  ]
+            },
+            {
+                  "name": "Monte Calvilli",
+                  "text": "Monte Calvilli is a notable mountain peak offering scenic natural surroundings in Pastena.",
+                  "category": "landmark",
+                  "coords": [
+                        13.444863,
+                        41.466953
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pastena", hu: "Pastena", ro: "Pastena", en: "Pastena" },
@@ -45307,6 +47795,33 @@ export const italyCitiesV2: POI[] = [
                         13.556963,
                         41.519218
                   ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria della Vittoria",
+                  "text": "Die Chiesa di Santa Maria della Vittoria ist ein Gotteshaus in San Giovanni Incarico.",
+                  "category": "religious",
+                  "coords": [
+                        13.54635,
+                        41.52389
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna della Guardia",
+                  "text": "Das Santuario della Madonna della Guardia ist ein bemerkenswertes Heiligtum und Gotteshaus in San Giovanni Incarico.",
+                  "category": "religious",
+                  "coords": [
+                        13.550276,
+                        41.507867
+                  ]
+            },
+            {
+                  "name": "Madonna della Cicchetta",
+                  "text": "Die Madonna della Cicchetta ist ein Denkmal in San Giovanni Incarico.",
+                  "category": "historical",
+                  "coords": [
+                        13.525315,
+                        41.503553
+                  ]
             }
       ],
       "hu": [
@@ -45326,6 +47841,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.556963,
                         41.519218
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria della Vittoria",
+                  "text": "A Chiesa di Santa Maria della Vittoria egy istentiszteleti hely San Giovanni Incaricóban.",
+                  "category": "religious",
+                  "coords": [
+                        13.54635,
+                        41.52389
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna della Guardia",
+                  "text": "A Santuario della Madonna della Guardia egy nevezetes szentély és istentiszteleti hely San Giovanni Incaricóban.",
+                  "category": "religious",
+                  "coords": [
+                        13.550276,
+                        41.507867
+                  ]
+            },
+            {
+                  "name": "Madonna della Cicchetta",
+                  "text": "A Madonna della Cicchetta egy emlékmű San Giovanni Incaricóban.",
+                  "category": "historical",
+                  "coords": [
+                        13.525315,
+                        41.503553
                   ]
             }
       ],
@@ -45347,6 +47889,33 @@ export const italyCitiesV2: POI[] = [
                         13.556963,
                         41.519218
                   ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria della Vittoria",
+                  "text": "Chiesa di Santa Maria della Vittoria este un lăcaș de cult din San Giovanni Incarico.",
+                  "category": "religious",
+                  "coords": [
+                        13.54635,
+                        41.52389
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna della Guardia",
+                  "text": "Santuario della Madonna della Guardia este un sanctuar și lăcaș de cult notabil din San Giovanni Incarico.",
+                  "category": "religious",
+                  "coords": [
+                        13.550276,
+                        41.507867
+                  ]
+            },
+            {
+                  "name": "Madonna della Cicchetta",
+                  "text": "Madonna della Cicchetta este un monument din San Giovanni Incarico.",
+                  "category": "historical",
+                  "coords": [
+                        13.525315,
+                        41.503553
+                  ]
             }
       ],
       "en": [
@@ -45366,6 +47935,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.556963,
                         41.519218
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria della Vittoria",
+                  "text": "Chiesa di Santa Maria della Vittoria is a place of worship located in San Giovanni Incarico.",
+                  "category": "religious",
+                  "coords": [
+                        13.54635,
+                        41.52389
+                  ]
+            },
+            {
+                  "name": "Santuario della Madonna della Guardia",
+                  "text": "Santuario della Madonna della Guardia is a notable sanctuary and place of worship in San Giovanni Incarico.",
+                  "category": "religious",
+                  "coords": [
+                        13.550276,
+                        41.507867
+                  ]
+            },
+            {
+                  "name": "Madonna della Cicchetta",
+                  "text": "Madonna della Cicchetta is a monument in San Giovanni Incarico.",
+                  "category": "historical",
+                  "coords": [
+                        13.525315,
+                        41.503553
                   ]
             }
       ]
@@ -45424,6 +48020,51 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Die Chiesa di San Rocco ist eine Kirche in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.582997,
+                        41.58771
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria de Paris",
+                  "text": "Die Chiesa di Santa Maria de Paris ist ein Gotteshaus in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.594378,
+                        41.59086
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Cataldo",
+                  "text": "Die Chiesa di San Cataldo ist eine Kirche in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.585895,
+                        41.586403
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta e San Bernardo Pellegrino",
+                  "text": "Die Chiesa di Santa Maria Assunta e San Bernardo Pellegrino ist eine Kirche in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.584462,
+                        41.588109
+                  ]
+            },
+            {
+                  "name": "Monumento alla Conoscenza",
+                  "text": "Das Monumento alla Conoscenza ist ein lokales Denkmal in Colfelice.",
+                  "category": "historical",
+                  "coords": [
+                        13.582067,
+                        41.587205
+                  ]
             }
       ],
       "hu": [
@@ -45434,6 +48075,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "A Chiesa di San Rocco egy istentiszteleti hely Colfelicében.",
+                  "category": "religious",
+                  "coords": [
+                        13.582997,
+                        41.58771
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria de Paris",
+                  "text": "A Chiesa di Santa Maria de Paris egy istentiszteleti hely Colfelicében.",
+                  "category": "religious",
+                  "coords": [
+                        13.594378,
+                        41.59086
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Cataldo",
+                  "text": "A Chiesa di San Cataldo egy templom Colfelicében.",
+                  "category": "religious",
+                  "coords": [
+                        13.585895,
+                        41.586403
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta e San Bernardo Pellegrino",
+                  "text": "A Chiesa di Santa Maria Assunta e San Bernardo Pellegrino egy istentiszteleti hely Colfelicében.",
+                  "category": "religious",
+                  "coords": [
+                        13.584462,
+                        41.588109
+                  ]
+            },
+            {
+                  "name": "Monumento alla Conoscenza",
+                  "text": "A Monumento alla Conoscenza egy helyi emlékmű Colfelicében.",
+                  "category": "historical",
+                  "coords": [
+                        13.582067,
+                        41.587205
                   ]
             }
       ],
@@ -45446,6 +48132,51 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Chiesa di San Rocco este un lăcaș de cult din Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.582997,
+                        41.58771
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria de Paris",
+                  "text": "Chiesa di Santa Maria de Paris este un lăcaș de cult din Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.594378,
+                        41.59086
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Cataldo",
+                  "text": "Chiesa di San Cataldo este o biserică situată în Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.585895,
+                        41.586403
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta e San Bernardo Pellegrino",
+                  "text": "Chiesa di Santa Maria Assunta e San Bernardo Pellegrino este un lăcaș de cult din Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.584462,
+                        41.588109
+                  ]
+            },
+            {
+                  "name": "Monumento alla Conoscenza",
+                  "text": "Monumento alla Conoscenza este un monument local din Colfelice.",
+                  "category": "historical",
+                  "coords": [
+                        13.582067,
+                        41.587205
+                  ]
             }
       ],
       "en": [
@@ -45456,6 +48187,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Chiesa di San Rocco is a place of worship in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.582997,
+                        41.58771
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria de Paris",
+                  "text": "Chiesa di Santa Maria de Paris is a place of worship located in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.594378,
+                        41.59086
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Cataldo",
+                  "text": "Chiesa di San Cataldo is a church situated in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.585895,
+                        41.586403
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria Assunta e San Bernardo Pellegrino",
+                  "text": "Chiesa di Santa Maria Assunta e San Bernardo Pellegrino is a place of worship in Colfelice.",
+                  "category": "religious",
+                  "coords": [
+                        13.584462,
+                        41.588109
+                  ]
+            },
+            {
+                  "name": "Monumento alla Conoscenza",
+                  "text": "Monumento alla Conoscenza is a local monument in Colfelice.",
+                  "category": "historical",
+                  "coords": [
+                        13.582067,
+                        41.587205
                   ]
             }
       ]
@@ -45523,6 +48299,15 @@ export const italyCitiesV2: POI[] = [
                         13.568009,
                         41.617844
                   ]
+            },
+            {
+                  "name": "Quercia di San Bernardo",
+                  "text": "Quercia di San Bernardo ist ein Denkmal in Rocca d'Arce.",
+                  "category": "historical",
+                  "coords": [
+                        13.589496,
+                        41.611512
+                  ]
             }
       ],
       "hu": [
@@ -45542,6 +48327,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.568009,
                         41.617844
+                  ]
+            },
+            {
+                  "name": "Quercia di San Bernardo",
+                  "text": "A Quercia di San Bernardo egy emlékmű Rocca d'Arce településen.",
+                  "category": "historical",
+                  "coords": [
+                        13.589496,
+                        41.611512
                   ]
             }
       ],
@@ -45563,6 +48357,15 @@ export const italyCitiesV2: POI[] = [
                         13.568009,
                         41.617844
                   ]
+            },
+            {
+                  "name": "Quercia di San Bernardo",
+                  "text": "Quercia di San Bernardo este un monument în Rocca d'Arce.",
+                  "category": "historical",
+                  "coords": [
+                        13.589496,
+                        41.611512
+                  ]
             }
       ],
       "en": [
@@ -45582,6 +48385,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.568009,
                         41.617844
+                  ]
+            },
+            {
+                  "name": "Quercia di San Bernardo",
+                  "text": "Quercia di San Bernardo is a monument located in Rocca d'Arce.",
+                  "category": "historical",
+                  "coords": [
+                        13.589496,
+                        41.611512
                   ]
             }
       ]
@@ -45631,10 +48443,50 @@ export const italyCitiesV2: POI[] = [
   },
   {
     id: "italy-fontana-liri-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Teatro Comunale di Monte san Giovanni Campano",
+                  "text": "Teatro Comunale di Monte san Giovanni Campano ist ein lokales Theater in Fontana Liri.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515761,
+                        41.639103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Comunale di Monte san Giovanni Campano",
+                  "text": "A Teatro Comunale di Monte san Giovanni Campano egy helyi színház Fontana Liriben.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515761,
+                        41.639103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Comunale di Monte san Giovanni Campano",
+                  "text": "Teatro Comunale di Monte san Giovanni Campano este un teatru local situat în Fontana Liri.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515761,
+                        41.639103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Comunale di Monte san Giovanni Campano",
+                  "text": "Teatro Comunale di Monte san Giovanni Campano is a local theatre located in Fontana Liri.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515761,
+                        41.639103
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "IT",
@@ -45699,6 +48551,15 @@ export const italyCitiesV2: POI[] = [
                         13.514039,
                         41.639976
                   ]
+            },
+            {
+                  "name": "Chiesa di santa Maria",
+                  "text": "Die Chiesa di santa Maria ist eine katholische Kirche im italienischen Santopadre.",
+                  "category": "religious",
+                  "coords": [
+                        13.473658,
+                        41.64247
+                  ]
             }
       ],
       "hu": [
@@ -45718,6 +48579,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.514039,
                         41.639976
+                  ]
+            },
+            {
+                  "name": "Chiesa di santa Maria",
+                  "text": "A Chiesa di santa Maria egy katolikus templom az olaszországi Santopadre településen.",
+                  "category": "religious",
+                  "coords": [
+                        13.473658,
+                        41.64247
                   ]
             }
       ],
@@ -45739,6 +48609,15 @@ export const italyCitiesV2: POI[] = [
                         13.514039,
                         41.639976
                   ]
+            },
+            {
+                  "name": "Chiesa di santa Maria",
+                  "text": "Chiesa di santa Maria este o biserică catolică din localitatea italiană Santopadre.",
+                  "category": "religious",
+                  "coords": [
+                        13.473658,
+                        41.64247
+                  ]
             }
       ],
       "en": [
@@ -45758,6 +48637,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.514039,
                         41.639976
+                  ]
+            },
+            {
+                  "name": "Chiesa di santa Maria",
+                  "text": "Chiesa di santa Maria is a Catholic church in the Italian municipality of Santopadre.",
+                  "category": "religious",
+                  "coords": [
+                        13.473658,
+                        41.64247
                   ]
             }
       ]
@@ -45866,6 +48754,51 @@ export const italyCitiesV2: POI[] = [
                         13.368188,
                         41.762789
                   ]
+            },
+            {
+                  "name": "Grotte di Collepardo",
+                  "text": "Grotte di Collepardo ist ein bekannter Höhleneingang in Collepardo, der für seine bedeutenden Karstformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.36581,
+                        41.758463
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "Chiesa del Santissimo Salvatore ist eine Kultstätte in Collepardo.",
+                  "category": "religious",
+                  "coords": [
+                        13.367768,
+                        41.761343
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Chiesa di San Rocco ist eine lokale Kultstätte in Collepardo.",
+                  "category": "religious",
+                  "coords": [
+                        13.369272,
+                        41.763587
+                  ]
+            },
+            {
+                  "name": "Pozzo D'Antullo",
+                  "text": "Pozzo D'Antullo ist eine bemerkenswerte natürliche Doline und Sehenswürdigkeit in Collepardo.",
+                  "category": "landmark",
+                  "coords": [
+                        13.368328,
+                        41.770604
+                  ]
+            },
+            {
+                  "name": "Santissima Trinità",
+                  "text": "Santissima Trinità ist eine historische Ruinenstätte in Collepardo.",
+                  "category": "historical",
+                  "coords": [
+                        13.376208,
+                        41.77453
+                  ]
             }
       ],
       "hu": [
@@ -45876,6 +48809,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.368188,
                         41.762789
+                  ]
+            },
+            {
+                  "name": "Grotte di Collepardo",
+                  "text": "A Grotte di Collepardo egy jelentős karsztképződményeiről ismert barlangbejárat Collepardóban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.36581,
+                        41.758463
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "A Chiesa del Santissimo Salvatore egy vallási épület Collepardóban.",
+                  "category": "religious",
+                  "coords": [
+                        13.367768,
+                        41.761343
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "A Chiesa di San Rocco egy helyi vallási épület Collepardóban.",
+                  "category": "religious",
+                  "coords": [
+                        13.369272,
+                        41.763587
+                  ]
+            },
+            {
+                  "name": "Pozzo D'Antullo",
+                  "text": "A Pozzo D'Antullo egy jelentős természetes víznyelő és látványosság Collepardóban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.368328,
+                        41.770604
+                  ]
+            },
+            {
+                  "name": "Santissima Trinità",
+                  "text": "A Santissima Trinità egy történelmi romterület Collepardóban.",
+                  "category": "historical",
+                  "coords": [
+                        13.376208,
+                        41.77453
                   ]
             }
       ],
@@ -45888,6 +48866,51 @@ export const italyCitiesV2: POI[] = [
                         13.368188,
                         41.762789
                   ]
+            },
+            {
+                  "name": "Grotte di Collepardo",
+                  "text": "Grotte di Collepardo este o intrare de peșteră notabilă din Collepardo, recunoscută pentru formațiunile sale carstice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.36581,
+                        41.758463
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "Chiesa del Santissimo Salvatore este un lăcaș de cult situat în Collepardo.",
+                  "category": "religious",
+                  "coords": [
+                        13.367768,
+                        41.761343
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Chiesa di San Rocco este un lăcaș de cult local din Collepardo.",
+                  "category": "religious",
+                  "coords": [
+                        13.369272,
+                        41.763587
+                  ]
+            },
+            {
+                  "name": "Pozzo D'Antullo",
+                  "text": "Pozzo D'Antullo este o dolină naturală notabilă și o atracție în Collepardo.",
+                  "category": "landmark",
+                  "coords": [
+                        13.368328,
+                        41.770604
+                  ]
+            },
+            {
+                  "name": "Santissima Trinità",
+                  "text": "Santissima Trinità este un sit cu ruine istorice din Collepardo.",
+                  "category": "historical",
+                  "coords": [
+                        13.376208,
+                        41.77453
+                  ]
             }
       ],
       "en": [
@@ -45898,6 +48921,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.368188,
                         41.762789
+                  ]
+            },
+            {
+                  "name": "Grotte di Collepardo",
+                  "text": "Grotte di Collepardo is a notable cave entrance situated in Collepardo, known for its significant karst formations.",
+                  "category": "landmark",
+                  "coords": [
+                        13.36581,
+                        41.758463
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "Chiesa del Santissimo Salvatore is a place of worship located in Collepardo.",
+                  "category": "religious",
+                  "coords": [
+                        13.367768,
+                        41.761343
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Rocco",
+                  "text": "Chiesa di San Rocco is a local place of worship in Collepardo.",
+                  "category": "religious",
+                  "coords": [
+                        13.369272,
+                        41.763587
+                  ]
+            },
+            {
+                  "name": "Pozzo D'Antullo",
+                  "text": "Pozzo D'Antullo is a notable natural sinkhole attraction located in Collepardo.",
+                  "category": "landmark",
+                  "coords": [
+                        13.368328,
+                        41.770604
+                  ]
+            },
+            {
+                  "name": "Santissima Trinità",
+                  "text": "Santissima Trinità is a historic ruins site in Collepardo.",
+                  "category": "historical",
+                  "coords": [
+                        13.376208,
+                        41.77453
                   ]
             }
       ]

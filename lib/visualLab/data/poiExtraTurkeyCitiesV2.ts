@@ -3,7 +3,376 @@ import type { POI } from "./poi";
 
 export const poiExtraTurkeyCitiesV2: POI[] = [
   {
-    id: "ankara-cities-v2",
+    id: "ankara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anıtkabir",
+                  "text": "Anıtkabir ist das imposante Mausoleum von Mustafa Kemal Atatürk in Ankara.",
+                  "category": "historical",
+                  "coords": [
+                        32.836902,
+                        39.925011
+                  ]
+            },
+            {
+                  "name": "Ankara Zafer Anıtı",
+                  "text": "Das Ankara Zafer Anıtı ist ein bedeutendes Siegesdenkmal im Zentrum der türkischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        32.854778,
+                        39.941766
+                  ]
+            },
+            {
+                  "name": "Haritacılık Museum",
+                  "text": "Das Haritacılık Museum in Ankara widmet sich der Geschichte der Kartografie.",
+                  "category": "museum",
+                  "coords": [
+                        32.882102,
+                        39.931782
+                  ]
+            },
+            {
+                  "name": "Ankara Castle",
+                  "text": "Die historische Burg von Ankara bietet einen weiten Panoramablick über die Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        32.865427,
+                        39.941493
+                  ]
+            },
+            {
+                  "name": "Gökyay Vakfı Satranç Müzesi",
+                  "text": "Das Gökyay Vakfı Satranç Müzesi in Ankara beherbergt eine umfangreiche Sammlung von Schachfiguren.",
+                  "category": "museum",
+                  "coords": [
+                        32.863308,
+                        39.934696
+                  ]
+            },
+            {
+                  "name": "Aziz Klemens Kilisesi",
+                  "text": "Die Aziz Klemens Kilisesi ist eine historische byzantinische Kirchenruine in Ankara.",
+                  "category": "historical",
+                  "coords": [
+                        32.859675,
+                        39.939025
+                  ]
+            },
+            {
+                  "name": "Republic Museum",
+                  "text": "Das Republik-Museum in Ankara dokumentiert die frühe Geschichte der türkischen Republik.",
+                  "category": "museum",
+                  "coords": [
+                        32.851637,
+                        39.941376
+                  ]
+            },
+            {
+                  "name": "War of Independence Museum",
+                  "text": "Das Unabhängigkeitskriegsmuseum in Ankara diente ursprünglich als das erste Parlamentsgebäude der Türkei.",
+                  "category": "museum",
+                  "coords": [
+                        32.853686,
+                        39.941904
+                  ]
+            },
+            {
+                  "name": "Türk Hava Kurumu Müzesi",
+                  "text": "Das Türk Hava Kurumu Müzesi in Ankara zeigt Exponate aus der Geschichte der türkischen Luftfahrt.",
+                  "category": "museum",
+                  "coords": [
+                        32.842382,
+                        39.938412
+                  ]
+            },
+            {
+                  "name": "Foundation Works Museum of Ankara",
+                  "text": "Das Museum präsentiert historische Stiftungsarbeiten und Artefakte in Ankara.",
+                  "category": "museum",
+                  "coords": [
+                        32.854976,
+                        39.935633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anıtkabir",
+                  "text": "Az Anıtkabir Mustafa Kemal Atatürk impozáns mauzóleuma Ankarában.",
+                  "category": "historical",
+                  "coords": [
+                        32.836902,
+                        39.925011
+                  ]
+            },
+            {
+                  "name": "Ankara Zafer Anıtı",
+                  "text": "Az Ankara Zafer Anıtı egy jelentős győzelmi emlékmű a török főváros központjában.",
+                  "category": "historical",
+                  "coords": [
+                        32.854778,
+                        39.941766
+                  ]
+            },
+            {
+                  "name": "Haritacılık Museum",
+                  "text": "Az ankarai Haritacılık Múzeum a térképészet történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.882102,
+                        39.931782
+                  ]
+            },
+            {
+                  "name": "Ankara Castle",
+                  "text": "A történelmi ankarai vár panorámás kilátást nyújt a városra.",
+                  "category": "castle",
+                  "coords": [
+                        32.865427,
+                        39.941493
+                  ]
+            },
+            {
+                  "name": "Gökyay Vakfı Satranç Müzesi",
+                  "text": "Az ankarai Gökyay Vakfı Sakk Múzeum kiterjedt sakkkészlet-gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        32.863308,
+                        39.934696
+                  ]
+            },
+            {
+                  "name": "Aziz Klemens Kilisesi",
+                  "text": "Az Aziz Klemens Kilisesi egy történelmi bizánci templomrom Ankarában.",
+                  "category": "historical",
+                  "coords": [
+                        32.859675,
+                        39.939025
+                  ]
+            },
+            {
+                  "name": "Republic Museum",
+                  "text": "Az ankarai Köztársaság Múzeum a Török Köztársaság korai történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        32.851637,
+                        39.941376
+                  ]
+            },
+            {
+                  "name": "War of Independence Museum",
+                  "text": "Az ankarai Függetlenségi Háború Múzeuma eredetileg Törökország első parlamenti épülete volt.",
+                  "category": "museum",
+                  "coords": [
+                        32.853686,
+                        39.941904
+                  ]
+            },
+            {
+                  "name": "Türk Hava Kurumu Müzesi",
+                  "text": "Az ankarai Türk Hava Kurumu Múzeum a török repülés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.842382,
+                        39.938412
+                  ]
+            },
+            {
+                  "name": "Foundation Works Museum of Ankara",
+                  "text": "A múzeum történelmi alapítványi munkákat és műtárgyakat mutat be Ankarában.",
+                  "category": "museum",
+                  "coords": [
+                        32.854976,
+                        39.935633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anıtkabir",
+                  "text": "Anıtkabir este mausoleul impresionant al lui Mustafa Kemal Atatürk din Ankara.",
+                  "category": "historical",
+                  "coords": [
+                        32.836902,
+                        39.925011
+                  ]
+            },
+            {
+                  "name": "Ankara Zafer Anıtı",
+                  "text": "Ankara Zafer Anıtı este un important monument al victoriei din centrul capitalei turcești.",
+                  "category": "historical",
+                  "coords": [
+                        32.854778,
+                        39.941766
+                  ]
+            },
+            {
+                  "name": "Haritacılık Museum",
+                  "text": "Muzeul Haritacılık din Ankara este dedicat istoriei cartografiei.",
+                  "category": "museum",
+                  "coords": [
+                        32.882102,
+                        39.931782
+                  ]
+            },
+            {
+                  "name": "Ankara Castle",
+                  "text": "Castelul istoric din Ankara oferă o vedere panoramică asupra orașului.",
+                  "category": "castle",
+                  "coords": [
+                        32.865427,
+                        39.941493
+                  ]
+            },
+            {
+                  "name": "Gökyay Vakfı Satranç Müzesi",
+                  "text": "Muzeul de Șah Gökyay Vakfı din Ankara găzduiește o colecție vastă de piese de șah.",
+                  "category": "museum",
+                  "coords": [
+                        32.863308,
+                        39.934696
+                  ]
+            },
+            {
+                  "name": "Aziz Klemens Kilisesi",
+                  "text": "Aziz Klemens Kilisesi este o veche ruină a unei biserici bizantine din Ankara.",
+                  "category": "historical",
+                  "coords": [
+                        32.859675,
+                        39.939025
+                  ]
+            },
+            {
+                  "name": "Republic Museum",
+                  "text": "Muzeul Republicii din Ankara documentează istoria timpurie a Republicii Turce.",
+                  "category": "museum",
+                  "coords": [
+                        32.851637,
+                        39.941376
+                  ]
+            },
+            {
+                  "name": "War of Independence Museum",
+                  "text": "Muzeul Războiului de Independență din Ankara a servit inițial ca prima clădire a parlamentului Turciei.",
+                  "category": "museum",
+                  "coords": [
+                        32.853686,
+                        39.941904
+                  ]
+            },
+            {
+                  "name": "Türk Hava Kurumu Müzesi",
+                  "text": "Muzeul Türk Hava Kurumu din Ankara prezintă istoria aviației turcești.",
+                  "category": "museum",
+                  "coords": [
+                        32.842382,
+                        39.938412
+                  ]
+            },
+            {
+                  "name": "Foundation Works Museum of Ankara",
+                  "text": "Muzeul prezintă lucrări de fundație istorice și artefacte în Ankara.",
+                  "category": "museum",
+                  "coords": [
+                        32.854976,
+                        39.935633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anıtkabir",
+                  "text": "Anıtkabir is the imposing mausoleum of Mustafa Kemal Atatürk located in Ankara.",
+                  "category": "historical",
+                  "coords": [
+                        32.836902,
+                        39.925011
+                  ]
+            },
+            {
+                  "name": "Ankara Zafer Anıtı",
+                  "text": "The Ankara Zafer Anıtı is a prominent victory monument in the center of the Turkish capital.",
+                  "category": "historical",
+                  "coords": [
+                        32.854778,
+                        39.941766
+                  ]
+            },
+            {
+                  "name": "Haritacılık Museum",
+                  "text": "The Haritacılık Museum in Ankara is dedicated to the history of cartography.",
+                  "category": "museum",
+                  "coords": [
+                        32.882102,
+                        39.931782
+                  ]
+            },
+            {
+                  "name": "Ankara Castle",
+                  "text": "The historic Ankara Castle offers sweeping panoramic views over the city.",
+                  "category": "castle",
+                  "coords": [
+                        32.865427,
+                        39.941493
+                  ]
+            },
+            {
+                  "name": "Gökyay Vakfı Satranç Müzesi",
+                  "text": "The Gökyay Vakfı Chess Museum in Ankara houses an extensive collection of chess sets.",
+                  "category": "museum",
+                  "coords": [
+                        32.863308,
+                        39.934696
+                  ]
+            },
+            {
+                  "name": "Aziz Klemens Kilisesi",
+                  "text": "The Aziz Klemens Kilisesi is a historical Byzantine church ruin located in Ankara.",
+                  "category": "historical",
+                  "coords": [
+                        32.859675,
+                        39.939025
+                  ]
+            },
+            {
+                  "name": "Republic Museum",
+                  "text": "The Republic Museum in Ankara documents the early history of the Turkish Republic.",
+                  "category": "museum",
+                  "coords": [
+                        32.851637,
+                        39.941376
+                  ]
+            },
+            {
+                  "name": "War of Independence Museum",
+                  "text": "The War of Independence Museum in Ankara originally served as the first Turkish parliament building.",
+                  "category": "museum",
+                  "coords": [
+                        32.853686,
+                        39.941904
+                  ]
+            },
+            {
+                  "name": "Türk Hava Kurumu Müzesi",
+                  "text": "The Türk Hava Kurumu Museum in Ankara showcases exhibits from the history of Turkish aviation.",
+                  "category": "museum",
+                  "coords": [
+                        32.842382,
+                        39.938412
+                  ]
+            },
+            {
+                  "name": "Foundation Works Museum of Ankara",
+                  "text": "The museum presents historical foundation works and artifacts in Ankara.",
+                  "category": "museum",
+                  "coords": [
+                        32.854976,
+                        39.935633
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "TR-06",
     coords: [32.8597, 39.9334],
@@ -33,7 +402,376 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "istanbul-cities-v2",
+    id: "istanbul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomb of Hatice Turhan Sultan",
+                  "text": "Das Grab von Hatice Turhan Sultan ist ein kunstvolles königliches Mausoleum einer einflussreichen osmanischen Valide Sultan.",
+                  "category": "historical",
+                  "coords": [
+                        28.971905,
+                        41.016203
+                  ]
+            },
+            {
+                  "name": "Milion",
+                  "text": "Das Milion ist ein antikes Denkmal, das als Null-Meilen-Markierung für Entfernungen im Byzantinischen Reich diente.",
+                  "category": "historical",
+                  "coords": [
+                        28.978018,
+                        41.008067
+                  ]
+            },
+            {
+                  "name": "Cistern of Philoxenos",
+                  "text": "Die Philoxenos-Zisterne, auch als Binbirdirek bekannt, ist das zweitgrößte antike Wasserreservoir in Istanbul.",
+                  "category": "museum",
+                  "coords": [
+                        28.974417,
+                        41.007606
+                  ]
+            },
+            {
+                  "name": "The Museum of Innocence",
+                  "text": "Das Museum der Unschuld ist ein renommiertes Museum, das auf dem Roman des Nobelpreisträgers Orhan Pamuk basiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.979795,
+                        41.030872
+                  ]
+            },
+            {
+                  "name": "Galatasaray Museum",
+                  "text": "Das Galatasaray-Museum dokumentiert die Geschichte und die Erfolge des berühmten türkischen Sportvereins.",
+                  "category": "museum",
+                  "coords": [
+                        28.97694,
+                        41.033482
+                  ]
+            },
+            {
+                  "name": "Church of St. Polyeuktos",
+                  "text": "Die Polyeuktoskirche umfasst die archäologischen Ruinen der einst größten Basilika in Konstantinopel.",
+                  "category": "historical",
+                  "coords": [
+                        28.952959,
+                        41.014232
+                  ]
+            },
+            {
+                  "name": "Rezan Has Museum",
+                  "text": "Das Rezan Has Museum ist eine Bildungseinrichtung, die archäologische Artefakte und Ausstellungen zeitgenössischer Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.958433,
+                        41.02528
+                  ]
+            },
+            {
+                  "name": "İstanbul Railway Museum",
+                  "text": "Das Eisenbahnmuseum Istanbul zeigt historische Eisenbahnausrüstungen und Artefakte im Bahnhof Sirkeci.",
+                  "category": "museum",
+                  "coords": [
+                        28.976683,
+                        41.015199
+                  ]
+            },
+            {
+                  "name": "II. Bayezid Turkish Bath Culture Museum",
+                  "text": "Das II. Bayezid Turkish Bath Culture Museum bewahrt die Geschichte und die Traditionen der osmanischen Hammams.",
+                  "category": "museum",
+                  "coords": [
+                        28.961554,
+                        41.009946
+                  ]
+            },
+            {
+                  "name": "Turkish and Islamic Arts Museum",
+                  "text": "Das Museum für türkische und islamische Kunst ist ein bedeutendes Museum in Istanbul, das eine umfangreiche Sammlung islamischer Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.974915,
+                        41.00628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomb of Hatice Turhan Sultan",
+                  "text": "Hatidzse Turhan szultána sírja egy befolyásos oszmán válide szultána díszes királyi mauzóleuma.",
+                  "category": "historical",
+                  "coords": [
+                        28.971905,
+                        41.016203
+                  ]
+            },
+            {
+                  "name": "Milion",
+                  "text": "A Milion egy ókori műemlék, amely a Bizánci Birodalom távolságainak mérésénél a nulladik kilométerkőként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        28.978018,
+                        41.008067
+                  ]
+            },
+            {
+                  "name": "Cistern of Philoxenos",
+                  "text": "A Philoxenosz-ciszterna, más néven Binbirdirek, Isztambul második legnagyobb ókori víztározója.",
+                  "category": "museum",
+                  "coords": [
+                        28.974417,
+                        41.007606
+                  ]
+            },
+            {
+                  "name": "The Museum of Innocence",
+                  "text": "Az Ártatlanság Múzeuma egy elismert múzeum, amely a Nobel-díjas Orhan Pamuk regényén alapul.",
+                  "category": "museum",
+                  "coords": [
+                        28.979795,
+                        41.030872
+                  ]
+            },
+            {
+                  "name": "Galatasaray Museum",
+                  "text": "A Galatasaray Múzeum a híres török sportklub történetét és eredményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.97694,
+                        41.033482
+                  ]
+            },
+            {
+                  "name": "Church of St. Polyeuktos",
+                  "text": "A Szent Polüeuktosz-templom az egykor Konstantinápoly legnagyobb bazilikájának számító épület régészeti romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        28.952959,
+                        41.014232
+                  ]
+            },
+            {
+                  "name": "Rezan Has Museum",
+                  "text": "A Rezan Has Múzeum egy oktatási intézmény, amely régészeti leleteket és kortárs művészeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        28.958433,
+                        41.02528
+                  ]
+            },
+            {
+                  "name": "İstanbul Railway Museum",
+                  "text": "Az Isztambuli Vasúti Múzeum történelmi vasúti berendezéseket és műtárgyakat állít ki a Sirkeci pályaudvaron.",
+                  "category": "museum",
+                  "coords": [
+                        28.976683,
+                        41.015199
+                  ]
+            },
+            {
+                  "name": "II. Bayezid Turkish Bath Culture Museum",
+                  "text": "A II. Bajazid Török Fürdőkultúra Múzeum az oszmán hammamok történetét és hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        28.961554,
+                        41.009946
+                  ]
+            },
+            {
+                  "name": "Turkish and Islamic Arts Museum",
+                  "text": "A Török és Iszlám Művészeti Múzeum egy jelentős isztambuli múzeum, amely kiterjedt iszlám művészeti gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        28.974915,
+                        41.00628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomb of Hatice Turhan Sultan",
+                  "text": "Mormântul lui Hatice Turhan Sultan este un mausoleu regal ornamentat ce a aparținut unei influente Valide Sultan otomane.",
+                  "category": "historical",
+                  "coords": [
+                        28.971905,
+                        41.016203
+                  ]
+            },
+            {
+                  "name": "Milion",
+                  "text": "Milionul este un monument antic care a servit drept borna de zero mile pentru măsurarea distanțelor în Imperiul Bizantin.",
+                  "category": "historical",
+                  "coords": [
+                        28.978018,
+                        41.008067
+                  ]
+            },
+            {
+                  "name": "Cistern of Philoxenos",
+                  "text": "Cisterna lui Philoxenos, cunoscută și sub numele de Binbirdirek, este al doilea cel mai mare rezervor antic din Istanbul.",
+                  "category": "museum",
+                  "coords": [
+                        28.974417,
+                        41.007606
+                  ]
+            },
+            {
+                  "name": "The Museum of Innocence",
+                  "text": "Muzeul Inocenței este un muzeu apreciat, bazat pe romanul laureatului cu premiul Nobel Orhan Pamuk.",
+                  "category": "museum",
+                  "coords": [
+                        28.979795,
+                        41.030872
+                  ]
+            },
+            {
+                  "name": "Galatasaray Museum",
+                  "text": "Muzeul Galatasaray cronicizează istoria și realizările faimosului club sportiv turc.",
+                  "category": "museum",
+                  "coords": [
+                        28.97694,
+                        41.033482
+                  ]
+            },
+            {
+                  "name": "Church of St. Polyeuktos",
+                  "text": "Biserica Sf. Polyeuktos prezintă ruinele arheologice a ceea ce a fost odată cea mai mare bazilică din Constantinopol.",
+                  "category": "historical",
+                  "coords": [
+                        28.952959,
+                        41.014232
+                  ]
+            },
+            {
+                  "name": "Rezan Has Museum",
+                  "text": "Muzeul Rezan Has este o instituție educațională care prezintă artefacte arheologice și expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        28.958433,
+                        41.02528
+                  ]
+            },
+            {
+                  "name": "İstanbul Railway Museum",
+                  "text": "Muzeul Feroviar din Istanbul expune echipamente feroviare istorice și artefacte în Gara Sirkeci.",
+                  "category": "museum",
+                  "coords": [
+                        28.976683,
+                        41.015199
+                  ]
+            },
+            {
+                  "name": "II. Bayezid Turkish Bath Culture Museum",
+                  "text": "Muzeul Culturii Băii Turcești Bayezid al II-lea păstrează istoria și tradițiile hamamurilor otomane.",
+                  "category": "museum",
+                  "coords": [
+                        28.961554,
+                        41.009946
+                  ]
+            },
+            {
+                  "name": "Turkish and Islamic Arts Museum",
+                  "text": "Muzeul de Artă Turcă și Islamică este un muzeu important din Istanbul care expune o colecție impresionantă de artă islamică.",
+                  "category": "museum",
+                  "coords": [
+                        28.974915,
+                        41.00628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomb of Hatice Turhan Sultan",
+                  "text": "The Tomb of Hatice Turhan Sultan is an ornate royal mausoleum belonging to an influential Ottoman Valide Sultan.",
+                  "category": "historical",
+                  "coords": [
+                        28.971905,
+                        41.016203
+                  ]
+            },
+            {
+                  "name": "Milion",
+                  "text": "The Milion is an ancient monument that served as the zero-mile marker for measuring distances across the Byzantine Empire.",
+                  "category": "historical",
+                  "coords": [
+                        28.978018,
+                        41.008067
+                  ]
+            },
+            {
+                  "name": "Cistern of Philoxenos",
+                  "text": "The Cistern of Philoxenos, also known as Binbirdirek, is the second largest ancient reservoir in Istanbul.",
+                  "category": "museum",
+                  "coords": [
+                        28.974417,
+                        41.007606
+                  ]
+            },
+            {
+                  "name": "The Museum of Innocence",
+                  "text": "The Museum of Innocence is an acclaimed museum based on the novel by Nobel laureate Orhan Pamuk.",
+                  "category": "museum",
+                  "coords": [
+                        28.979795,
+                        41.030872
+                  ]
+            },
+            {
+                  "name": "Galatasaray Museum",
+                  "text": "The Galatasaray Museum chronicles the history and achievements of the famous Turkish sports club.",
+                  "category": "museum",
+                  "coords": [
+                        28.97694,
+                        41.033482
+                  ]
+            },
+            {
+                  "name": "Church of St. Polyeuktos",
+                  "text": "The Church of St. Polyeuktos features the archaeological ruins of what was once the largest basilica in Constantinople.",
+                  "category": "historical",
+                  "coords": [
+                        28.952959,
+                        41.014232
+                  ]
+            },
+            {
+                  "name": "Rezan Has Museum",
+                  "text": "The Rezan Has Museum is an educational institution showcasing archaeological artifacts and contemporary art exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        28.958433,
+                        41.02528
+                  ]
+            },
+            {
+                  "name": "İstanbul Railway Museum",
+                  "text": "The İstanbul Railway Museum displays historic railway equipment and artifacts in Sirkeci Terminal.",
+                  "category": "museum",
+                  "coords": [
+                        28.976683,
+                        41.015199
+                  ]
+            },
+            {
+                  "name": "II. Bayezid Turkish Bath Culture Museum",
+                  "text": "The II. Bayezid Turkish Bath Culture Museum preserves the history and traditions of Ottoman hammams.",
+                  "category": "museum",
+                  "coords": [
+                        28.961554,
+                        41.009946
+                  ]
+            },
+            {
+                  "name": "Turkish and Islamic Arts Museum",
+                  "text": "The Turkish and Islamic Arts Museum is a notable museum in Istanbul exhibiting a comprehensive collection of Islamic artwork.",
+                  "category": "museum",
+                  "coords": [
+                        28.974915,
+                        41.00628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-34",
     coords: [28.9784, 41.0082],
@@ -69,7 +807,340 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "izmir-cities-v2",
+    id: "izmir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kadifekale",
+                  "text": "Die Burg Kadifekale befindet sich auf einem Hügel und bietet einen Panoramablick auf Izmir.",
+                  "category": "castle",
+                  "coords": [
+                        27.144956,
+                        38.413784
+                  ]
+            },
+            {
+                  "name": "Atatürk Museum",
+                  "text": "Das Atatürk-Museum in Izmir ist dem Leben und Wirken des Gründers der modernen Türkei gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        27.140567,
+                        38.435693
+                  ]
+            },
+            {
+                  "name": "Arkas Art Center",
+                  "text": "Das Arkas Art Center in Izmir präsentiert in einem historischen Gebäude beeindruckende Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        27.136958,
+                        38.431923
+                  ]
+            },
+            {
+                  "name": "İzmir Ethnography Museum",
+                  "text": "Das Ethnografische Museum in Izmir zeigt die reiche traditionelle Kultur der Ägäisregion.",
+                  "category": "museum",
+                  "coords": [
+                        27.128484,
+                        38.413749
+                  ]
+            },
+            {
+                  "name": "Atatürk Mask",
+                  "text": "Die Atatürk-Maske in Izmir ist ein riesiges Reliefdenkmal, das imposant in einen Felsen gehauen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        27.145592,
+                        38.406035
+                  ]
+            },
+            {
+                  "name": "Mask Müzesi",
+                  "text": "Das Maskenmuseum in Izmir stellt eine faszinierende Sammlung weltweiter Masken aus.",
+                  "category": "museum",
+                  "coords": [
+                        27.142121,
+                        38.435734
+                  ]
+            },
+            {
+                  "name": "Zübeyde Hanım Eğitim ve Müze Gemisi",
+                  "text": "Dieses Museumsschiff in Izmir dient als einzigartige pädagogische Einrichtung und maritimes Denkmal.",
+                  "category": "museum",
+                  "coords": [
+                        27.131586,
+                        38.425522
+                  ]
+            },
+            {
+                  "name": "İzmir Museum of History and Art",
+                  "text": "Das Museum für Geschichte und Kunst in Izmir präsentiert klassische Skulpturen und Artefakte der Antike.",
+                  "category": "museum",
+                  "coords": [
+                        27.14816,
+                        38.436207
+                  ]
+            },
+            {
+                  "name": "İzmir Clock Tower",
+                  "text": "Der historische Uhrenturm auf dem Konak-Platz ist das berühmte Wahrzeichen der Stadt Izmir.",
+                  "category": "historical",
+                  "coords": [
+                        27.128696,
+                        38.418876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kadifekale",
+                  "text": "A Kadifekale vár egy dombon található, és panorámás kilátást nyújt Izmirre.",
+                  "category": "castle",
+                  "coords": [
+                        27.144956,
+                        38.413784
+                  ]
+            },
+            {
+                  "name": "Atatürk Museum",
+                  "text": "Az izmiri Atatürk Múzeum a modern Törökország alapítójának életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.140567,
+                        38.435693
+                  ]
+            },
+            {
+                  "name": "Arkas Art Center",
+                  "text": "Az izmiri Arkas Művészeti Központ egy történelmi épületben ad otthont lenyűgöző művészeti kiállításoknak.",
+                  "category": "museum",
+                  "coords": [
+                        27.136958,
+                        38.431923
+                  ]
+            },
+            {
+                  "name": "İzmir Ethnography Museum",
+                  "text": "Az izmiri Néprajzi Múzeum az égei-tengeri régió gazdag hagyományos kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.128484,
+                        38.413749
+                  ]
+            },
+            {
+                  "name": "Atatürk Mask",
+                  "text": "Az izmiri Atatürk-maszk egy hatalmas dombormű, amelyet lenyűgöző módon egy sziklába faragtak.",
+                  "category": "historical",
+                  "coords": [
+                        27.145592,
+                        38.406035
+                  ]
+            },
+            {
+                  "name": "Mask Müzesi",
+                  "text": "Az izmiri Maszkmúzeum maszkok lenyűgöző gyűjteményét állítja ki a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        27.142121,
+                        38.435734
+                  ]
+            },
+            {
+                  "name": "Zübeyde Hanım Eğitim ve Müze Gemisi",
+                  "text": "Ez az izmiri múzeumhajó egyedülálló oktatási intézményként és tengerészeti emlékműként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        27.131586,
+                        38.425522
+                  ]
+            },
+            {
+                  "name": "İzmir Museum of History and Art",
+                  "text": "Az izmiri Történeti és Művészeti Múzeum klasszikus ókori szobrokat és műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.14816,
+                        38.436207
+                  ]
+            },
+            {
+                  "name": "İzmir Clock Tower",
+                  "text": "A Konak téren álló történelmi óratorony Izmir városának híres jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        27.128696,
+                        38.418876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kadifekale",
+                  "text": "Castelul Kadifekale este situat pe un deal și oferă o vedere panoramică asupra orașului Izmir.",
+                  "category": "castle",
+                  "coords": [
+                        27.144956,
+                        38.413784
+                  ]
+            },
+            {
+                  "name": "Atatürk Museum",
+                  "text": "Muzeul Atatürk din Izmir este dedicat vieții și activității fondatorului Turciei moderne.",
+                  "category": "museum",
+                  "coords": [
+                        27.140567,
+                        38.435693
+                  ]
+            },
+            {
+                  "name": "Arkas Art Center",
+                  "text": "Centrul de Artă Arkas din Izmir găzduiește expoziții de artă impresionante într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        27.136958,
+                        38.431923
+                  ]
+            },
+            {
+                  "name": "İzmir Ethnography Museum",
+                  "text": "Muzeul de Etnografie din Izmir prezintă bogata cultură tradițională a regiunii Mării Egee.",
+                  "category": "museum",
+                  "coords": [
+                        27.128484,
+                        38.413749
+                  ]
+            },
+            {
+                  "name": "Atatürk Mask",
+                  "text": "Masca Atatürk din Izmir este un monument masiv în relief sculptat impresionant într-o stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        27.145592,
+                        38.406035
+                  ]
+            },
+            {
+                  "name": "Mask Müzesi",
+                  "text": "Muzeul Măștilor din Izmir expune o colecție fascinantă de măști din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        27.142121,
+                        38.435734
+                  ]
+            },
+            {
+                  "name": "Zübeyde Hanım Eğitim ve Müze Gemisi",
+                  "text": "Această navă muzeu din Izmir servește drept instituție educațională unică și monument maritim.",
+                  "category": "museum",
+                  "coords": [
+                        27.131586,
+                        38.425522
+                  ]
+            },
+            {
+                  "name": "İzmir Museum of History and Art",
+                  "text": "Muzeul de Istorie și Artă din Izmir prezintă sculpturi și artefacte clasice din antichitate.",
+                  "category": "museum",
+                  "coords": [
+                        27.14816,
+                        38.436207
+                  ]
+            },
+            {
+                  "name": "İzmir Clock Tower",
+                  "text": "Turnul cu ceas istoric din Piața Konak este faimosul simbol al orașului Izmir.",
+                  "category": "historical",
+                  "coords": [
+                        27.128696,
+                        38.418876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kadifekale",
+                  "text": "The Kadifekale castle is situated on a hill offering a panoramic view of Izmir.",
+                  "category": "castle",
+                  "coords": [
+                        27.144956,
+                        38.413784
+                  ]
+            },
+            {
+                  "name": "Atatürk Museum",
+                  "text": "The Atatürk Museum in Izmir is dedicated to the life and work of the founder of modern Turkey.",
+                  "category": "museum",
+                  "coords": [
+                        27.140567,
+                        38.435693
+                  ]
+            },
+            {
+                  "name": "Arkas Art Center",
+                  "text": "The Arkas Art Center in Izmir hosts impressive art exhibitions within a historical building.",
+                  "category": "museum",
+                  "coords": [
+                        27.136958,
+                        38.431923
+                  ]
+            },
+            {
+                  "name": "İzmir Ethnography Museum",
+                  "text": "The İzmir Ethnography Museum displays the rich traditional culture of the Aegean region.",
+                  "category": "museum",
+                  "coords": [
+                        27.128484,
+                        38.413749
+                  ]
+            },
+            {
+                  "name": "Atatürk Mask",
+                  "text": "The Atatürk Mask in Izmir is a massive relief monument imposingly carved into a rocky cliff.",
+                  "category": "historical",
+                  "coords": [
+                        27.145592,
+                        38.406035
+                  ]
+            },
+            {
+                  "name": "Mask Müzesi",
+                  "text": "The Mask Museum in Izmir exhibits a fascinating collection of masks from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        27.142121,
+                        38.435734
+                  ]
+            },
+            {
+                  "name": "Zübeyde Hanım Eğitim ve Müze Gemisi",
+                  "text": "This museum ship in Izmir serves as a unique educational facility and maritime monument.",
+                  "category": "museum",
+                  "coords": [
+                        27.131586,
+                        38.425522
+                  ]
+            },
+            {
+                  "name": "İzmir Museum of History and Art",
+                  "text": "The İzmir Museum of History and Art showcases classical sculptures and artifacts from antiquity.",
+                  "category": "museum",
+                  "coords": [
+                        27.14816,
+                        38.436207
+                  ]
+            },
+            {
+                  "name": "İzmir Clock Tower",
+                  "text": "The historic clock tower in Konak Square is the famous landmark of the city of Izmir.",
+                  "category": "historical",
+                  "coords": [
+                        27.128696,
+                        38.418876
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-35",
     coords: [27.1428, 38.4237],
@@ -4560,7 +5631,376 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "konya-cities-v2",
+    id: "konya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atatürk Monument",
+                  "text": "Das Atatürk-Denkmal in Konya ist eine bemerkenswerte Statue, die dem Gründer der türkischen Republik gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.485328,
+                        37.867601
+                  ]
+            },
+            {
+                  "name": "Mevlana Museum",
+                  "text": "Das Mevlana-Museum in Konya beherbergt das Mausoleum des berühmten persischen Dichters und Sufi-Mystikers Rumi.",
+                  "category": "museum",
+                  "coords": [
+                        32.504997,
+                        37.870709
+                  ]
+            },
+            {
+                  "name": "Sırçalı Medrese Mezar Anıtları Müzesi",
+                  "text": "Das Sırçalı Medrese Mezar Anıtları Müzesi ist ein historisches Museum in Konya, das sich in einer theologischen Schule aus dem 13. Jahrhundert befindet.",
+                  "category": "museum",
+                  "coords": [
+                        32.493994,
+                        37.870008
+                  ]
+            },
+            {
+                  "name": "İnce Minare Müzesi",
+                  "text": "Das İnce Minare Müzesi in Konya befindet sich in einer Madrasa aus dem 13. Jahrhundert, die für ihr aufwendig geschnitztes Steinportal bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        32.490015,
+                        37.872884
+                  ]
+            },
+            {
+                  "name": "Kültürpark",
+                  "text": "Der Kültürpark ist ein bekannter öffentlicher Park und ein Erholungszentrum im Herzen von Konya.",
+                  "category": "park",
+                  "coords": [
+                        32.489168,
+                        37.874938
+                  ]
+            },
+            {
+                  "name": "İzzet Koyunoğlu Şehir Müzesi",
+                  "text": "Das İzzet Koyunoğlu Şehir Müzesi ist ein Stadtmuseum in Konya, das historische Artefakte und ethnografische Sammlungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.510824,
+                        37.866498
+                  ]
+            },
+            {
+                  "name": "Etnografya Müzesi",
+                  "text": "Das Etnografya Müzesi in Konya bietet eine reiche Sammlung an traditionellem Handwerk, Kleidung und Alltagsgegenständen der Region.",
+                  "category": "museum",
+                  "coords": [
+                        32.49168,
+                        37.866698
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Das Atatürk Evi Müzesi in Konya ist ein Museum in einem Haus, in dem Mustafa Kemal Atatürk während seiner Besuche wohnte.",
+                  "category": "museum",
+                  "coords": [
+                        32.487703,
+                        37.870216
+                  ]
+            },
+            {
+                  "name": "Konya Arkeoloji Müzesi",
+                  "text": "Das Konya Arkeoloji Müzesi zeigt bedeutende archäologische Funde aus der Jungsteinzeit, der Römer- und Byzanzzeit der Region.",
+                  "category": "museum",
+                  "coords": [
+                        32.493521,
+                        37.867948
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "Die Şazibey Camii ist ein lokales Gotteshaus in Konya.",
+                  "category": "religious",
+                  "coords": [
+                        32.491217,
+                        37.874368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atatürk Monument",
+                  "text": "A konyai Atatürk-emlékmű egy figyelemre méltó szobor, amelyet a Török Köztársaság alapítójának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.485328,
+                        37.867601
+                  ]
+            },
+            {
+                  "name": "Mevlana Museum",
+                  "text": "A konyai Mevlana Múzeum a híres perzsa költő és szúfi misztikus, Rúmi mauzóleumának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        32.504997,
+                        37.870709
+                  ]
+            },
+            {
+                  "name": "Sırçalı Medrese Mezar Anıtları Müzesi",
+                  "text": "A Sırçalı Medrese Mezar Anıtları Müzesi egy történelmi múzeum Konyában, amely egy 13. századi teológiai iskolában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        32.493994,
+                        37.870008
+                  ]
+            },
+            {
+                  "name": "İnce Minare Müzesi",
+                  "text": "A konyai İnce Minare Müzesi egy 13. századi medreszében működik, amely finoman faragott kőkapujáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        32.490015,
+                        37.872884
+                  ]
+            },
+            {
+                  "name": "Kültürpark",
+                  "text": "A Kültürpark egy kiemelkedő nyilvános park és rekreációs terület Konya szívében.",
+                  "category": "park",
+                  "coords": [
+                        32.489168,
+                        37.874938
+                  ]
+            },
+            {
+                  "name": "İzzet Koyunoğlu Şehir Müzesi",
+                  "text": "Az İzzet Koyunoğlu Şehir Müzesi egy városi múzeum Konyában, amely történelmi tárgyakat és néprajzi gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.510824,
+                        37.866498
+                  ]
+            },
+            {
+                  "name": "Etnografya Müzesi",
+                  "text": "A konyai Etnografya Müzesi a régió hagyományos mesterségeinek, ruházatának és mindennapi tárgyainak gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        32.49168,
+                        37.866698
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Az Atatürk Evi Müzesi egy múzeum Konyában, abban a házban, ahol Mustafa Kemal Atatürk a látogatásai során megszállt.",
+                  "category": "museum",
+                  "coords": [
+                        32.487703,
+                        37.870216
+                  ]
+            },
+            {
+                  "name": "Konya Arkeoloji Müzesi",
+                  "text": "A Konya Arkeoloji Müzesi a régió újkőkori, római és bizánci korszakából származó jelentős régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.493521,
+                        37.867948
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "A Şazibey Camii egy istentiszteleti hely Konyában.",
+                  "category": "religious",
+                  "coords": [
+                        32.491217,
+                        37.874368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atatürk Monument",
+                  "text": "Monumentul Atatürk din Konya este o statuie notabilă dedicată fondatorului Republicii Turce.",
+                  "category": "historical",
+                  "coords": [
+                        32.485328,
+                        37.867601
+                  ]
+            },
+            {
+                  "name": "Mevlana Museum",
+                  "text": "Muzeul Mevlana din Konya găzduiește mausoleul celebrului poet persan și mistic sufit Rumi.",
+                  "category": "museum",
+                  "coords": [
+                        32.504997,
+                        37.870709
+                  ]
+            },
+            {
+                  "name": "Sırçalı Medrese Mezar Anıtları Müzesi",
+                  "text": "Sırçalı Medrese Mezar Anıtları Müzesi este un muzeu istoric din Konya, situat într-o școală teologică din secolul al XIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        32.493994,
+                        37.870008
+                  ]
+            },
+            {
+                  "name": "İnce Minare Müzesi",
+                  "text": "İnce Minare Müzesi din Konya este găzduit într-o madrasa din secolul al XIII-lea, remarcată pentru portalul său de piatră sculptat complex.",
+                  "category": "museum",
+                  "coords": [
+                        32.490015,
+                        37.872884
+                  ]
+            },
+            {
+                  "name": "Kültürpark",
+                  "text": "Kültürpark este un parc public proeminent și o zonă de recreere situată în inima orașului Konya.",
+                  "category": "park",
+                  "coords": [
+                        32.489168,
+                        37.874938
+                  ]
+            },
+            {
+                  "name": "İzzet Koyunoğlu Şehir Müzesi",
+                  "text": "İzzet Koyunoğlu Şehir Müzesi este un muzeu al orașului din Konya, care expune artefacte istorice și colecții etnografice.",
+                  "category": "museum",
+                  "coords": [
+                        32.510824,
+                        37.866498
+                  ]
+            },
+            {
+                  "name": "Etnografya Müzesi",
+                  "text": "Etnografya Müzesi din Konya prezintă o colecție bogată de meșteșuguri tradiționale regionale, îmbrăcăminte și obiecte de zi cu zi.",
+                  "category": "museum",
+                  "coords": [
+                        32.49168,
+                        37.866698
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Atatürk Evi Müzesi este un muzeu din Konya, situat într-o casă în care a stat Mustafa Kemal Atatürk în timpul vizitelor sale.",
+                  "category": "museum",
+                  "coords": [
+                        32.487703,
+                        37.870216
+                  ]
+            },
+            {
+                  "name": "Konya Arkeoloji Müzesi",
+                  "text": "Konya Arkeoloji Müzesi expune descoperiri arheologice semnificative din perioadele neolitică, romană și bizantină ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        32.493521,
+                        37.867948
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "Şazibey Camii este un lăcaș de cult situat în Konya.",
+                  "category": "religious",
+                  "coords": [
+                        32.491217,
+                        37.874368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atatürk Monument",
+                  "text": "The Atatürk Monument is a notable statue dedicated to the founder of the Turkish Republic, located in Konya.",
+                  "category": "historical",
+                  "coords": [
+                        32.485328,
+                        37.867601
+                  ]
+            },
+            {
+                  "name": "Mevlana Museum",
+                  "text": "The Mevlana Museum in Konya houses the mausoleum of the famous Persian poet and Sufi mystic Jalal ad-Din Muhammad Rumi.",
+                  "category": "museum",
+                  "coords": [
+                        32.504997,
+                        37.870709
+                  ]
+            },
+            {
+                  "name": "Sırçalı Medrese Mezar Anıtları Müzesi",
+                  "text": "The Sırçalı Medrese Mezar Anıtları Müzesi is a historical museum in Konya set within a 13th-century theological school.",
+                  "category": "museum",
+                  "coords": [
+                        32.493994,
+                        37.870008
+                  ]
+            },
+            {
+                  "name": "İnce Minare Müzesi",
+                  "text": "The İnce Minare Müzesi in Konya is housed in a 13th-century madrasa noted for its intricately carved stone portal and slender minaret.",
+                  "category": "museum",
+                  "coords": [
+                        32.490015,
+                        37.872884
+                  ]
+            },
+            {
+                  "name": "Kültürpark",
+                  "text": "Kültürpark is a prominent public park and recreational area located in the heart of Konya.",
+                  "category": "park",
+                  "coords": [
+                        32.489168,
+                        37.874938
+                  ]
+            },
+            {
+                  "name": "İzzet Koyunoğlu Şehir Müzesi",
+                  "text": "The İzzet Koyunoğlu Şehir Müzesi is a city museum in Konya showcasing historical artifacts and ethnographic collections.",
+                  "category": "museum",
+                  "coords": [
+                        32.510824,
+                        37.866498
+                  ]
+            },
+            {
+                  "name": "Etnografya Müzesi",
+                  "text": "The Etnografya Müzesi in Konya features a rich collection of regional traditional crafts, clothing, and everyday items.",
+                  "category": "museum",
+                  "coords": [
+                        32.49168,
+                        37.866698
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "The Atatürk Evi Müzesi is a museum in Konya located in a house where Mustafa Kemal Atatürk stayed during his visits.",
+                  "category": "museum",
+                  "coords": [
+                        32.487703,
+                        37.870216
+                  ]
+            },
+            {
+                  "name": "Konya Arkeoloji Müzesi",
+                  "text": "The Konya Arkeoloji Müzesi displays significant archaeological findings from the Neolithic, Roman, and Byzantine periods of the region.",
+                  "category": "museum",
+                  "coords": [
+                        32.493521,
+                        37.867948
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "Şazibey Camii is a local place of worship in Konya.",
+                  "category": "religious",
+                  "coords": [
+                        32.491217,
+                        37.874368
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-42",
     coords: [32.4833, 37.8667],
@@ -4624,6 +6064,51 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         30.745726,
                         36.853554
                   ]
+            },
+            {
+                  "name": "Atatürk statue",
+                  "text": "Ein öffentliches Denkmal mit einer Statue von Atatürk in Antalya.",
+                  "category": "historical",
+                  "coords": [
+                        30.703263,
+                        36.886675
+                  ]
+            },
+            {
+                  "name": "Antalya Toy Museum",
+                  "text": "Das Antalya Spielzeugmuseum zeigt eine reiche Sammlung historischer Spielzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        30.701898,
+                        36.885515
+                  ]
+            },
+            {
+                  "name": "Pazaar Bathhouse",
+                  "text": "Das Pazaar-Badehaus ist eine archäologische Stätte in Antalya.",
+                  "category": "historical",
+                  "coords": [
+                        30.706735,
+                        36.887551
+                  ]
+            },
+            {
+                  "name": "Mediterranean Civilizations Museum",
+                  "text": "Das Museum in Kaleiçi stellt Artefakte aus, die die Geschichte der Region widerspiegeln.",
+                  "category": "museum",
+                  "coords": [
+                        30.707878,
+                        36.884082
+                  ]
+            },
+            {
+                  "name": "Ataturk museum",
+                  "text": "Das Atatürk-Museum in Antalya ist dem Leben des türkischen Führers gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        30.70813,
+                        36.880694
+                  ]
             }
       ],
       "hu": [
@@ -4652,6 +6137,51 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         30.745726,
                         36.853554
+                  ]
+            },
+            {
+                  "name": "Atatürk statue",
+                  "text": "Atatürk szobrát ábrázoló emlékmű Antalyában.",
+                  "category": "historical",
+                  "coords": [
+                        30.703263,
+                        36.886675
+                  ]
+            },
+            {
+                  "name": "Antalya Toy Museum",
+                  "text": "Az Antalyai Játékmúzeum történelmi játékok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.701898,
+                        36.885515
+                  ]
+            },
+            {
+                  "name": "Pazaar Bathhouse",
+                  "text": "A Pazaar Fürdő egy régészeti lelőhely Antalyában.",
+                  "category": "historical",
+                  "coords": [
+                        30.706735,
+                        36.887551
+                  ]
+            },
+            {
+                  "name": "Mediterranean Civilizations Museum",
+                  "text": "A Kaleiçi-ben található múzeum a régió történelmét tükröző műtárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        30.707878,
+                        36.884082
+                  ]
+            },
+            {
+                  "name": "Ataturk museum",
+                  "text": "Az antalyai Atatürk Múzeum a török vezető életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        30.70813,
+                        36.880694
                   ]
             }
       ],
@@ -4682,6 +6212,51 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         30.745726,
                         36.853554
                   ]
+            },
+            {
+                  "name": "Atatürk statue",
+                  "text": "Un monument public reprezentând o statuie a lui Atatürk în Antalya.",
+                  "category": "historical",
+                  "coords": [
+                        30.703263,
+                        36.886675
+                  ]
+            },
+            {
+                  "name": "Antalya Toy Museum",
+                  "text": "Muzeul Jucăriilor din Antalya expune o colecție bogată de jucării istorice.",
+                  "category": "museum",
+                  "coords": [
+                        30.701898,
+                        36.885515
+                  ]
+            },
+            {
+                  "name": "Pazaar Bathhouse",
+                  "text": "Baia Pazaar este un sit arheologic din Antalya.",
+                  "category": "historical",
+                  "coords": [
+                        30.706735,
+                        36.887551
+                  ]
+            },
+            {
+                  "name": "Mediterranean Civilizations Museum",
+                  "text": "Muzeul din Kaleiçi expune artefacte care reflectă istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        30.707878,
+                        36.884082
+                  ]
+            },
+            {
+                  "name": "Ataturk museum",
+                  "text": "Muzeul Atatürk din Antalya este dedicat vieții liderului turc.",
+                  "category": "museum",
+                  "coords": [
+                        30.70813,
+                        36.880694
+                  ]
             }
       ],
       "en": [
@@ -4710,6 +6285,51 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         30.745726,
                         36.853554
+                  ]
+            },
+            {
+                  "name": "Atatürk statue",
+                  "text": "A public monument featuring a statue of Atatürk in Antalya.",
+                  "category": "historical",
+                  "coords": [
+                        30.703263,
+                        36.886675
+                  ]
+            },
+            {
+                  "name": "Antalya Toy Museum",
+                  "text": "The Antalya Toy Museum displays a rich collection of historic toys.",
+                  "category": "museum",
+                  "coords": [
+                        30.701898,
+                        36.885515
+                  ]
+            },
+            {
+                  "name": "Pazaar Bathhouse",
+                  "text": "The Pazaar Bathhouse is an archaeological site located in Antalya.",
+                  "category": "historical",
+                  "coords": [
+                        30.706735,
+                        36.887551
+                  ]
+            },
+            {
+                  "name": "Mediterranean Civilizations Museum",
+                  "text": "The museum in Kaleiçi exhibits artifacts reflecting the history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        30.707878,
+                        36.884082
+                  ]
+            },
+            {
+                  "name": "Ataturk museum",
+                  "text": "The Atatürk Museum in Antalya is dedicated to the life and visits of the Turkish leader.",
+                  "category": "museum",
+                  "coords": [
+                        30.70813,
+                        36.880694
                   ]
             }
       ]
@@ -4749,7 +6369,376 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "kayseri-cities-v2",
+    id: "kayseri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kayseri Arkeoloji Müzesi",
+                  "text": "Das Kayseri Arkeoloji Müzesi ist ein archäologisches Museum in Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.488475,
+                        38.721064
+                  ]
+            },
+            {
+                  "name": "Emir Ali Türbesi",
+                  "text": "Emir Ali Türbesi ist ein historisches Denkmal in Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.496194,
+                        38.712616
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Das Atatürk Evi Müzesi ist ein Museum in Kayseri, das sich in einem einst von Atatürk genutzten Wohnhaus befindet.",
+                  "category": "museum",
+                  "coords": [
+                        35.49041,
+                        38.719154
+                  ]
+            },
+            {
+                  "name": "Milli Mücadele Müzesi",
+                  "text": "Das Milli Mücadele Müzesi ist ein Museum in Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.488989,
+                        38.716709
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Türbesi",
+                  "text": "Emir Sultan Türbesi ist ein Denkmal in Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.489392,
+                        38.717851
+                  ]
+            },
+            {
+                  "name": "Dörtayak Türbesi",
+                  "text": "Die Dörtayak Türbesi ist ein historisches Denkmal in Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.479804,
+                        38.711147
+                  ]
+            },
+            {
+                  "name": "Gevher Nesibe Medresesi",
+                  "text": "Die Gevher Nesibe Medresesi ist ein Museum in Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.484066,
+                        38.724112
+                  ]
+            },
+            {
+                  "name": "Hunat Hatun Külliyesi",
+                  "text": "Der Hunat-Hatun-Komplex ist eine bedeutende historische Sehenswürdigkeit in Kayseri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.491024,
+                        38.720869
+                  ]
+            },
+            {
+                  "name": "Gubaroğlu Cami",
+                  "text": "Gubaroğlu Cami ist eine lokale Kultstätte in Kayseri.",
+                  "category": "religious",
+                  "coords": [
+                        35.480288,
+                        38.716692
+                  ]
+            },
+            {
+                  "name": "Seyyid Burhanettin Camii",
+                  "text": "Seyyid Burhanettin Camii ist eine Kultstätte in Kayseri.",
+                  "category": "religious",
+                  "coords": [
+                        35.4958,
+                        38.714953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kayseri Arkeoloji Müzesi",
+                  "text": "A Kayseri Arkeoloji Müzesi egy régészeti múzeum Kayseriben.",
+                  "category": "museum",
+                  "coords": [
+                        35.488475,
+                        38.721064
+                  ]
+            },
+            {
+                  "name": "Emir Ali Türbesi",
+                  "text": "Az Emir Ali Türbesi egy történelmi emlékmű Kayseriben.",
+                  "category": "historical",
+                  "coords": [
+                        35.496194,
+                        38.712616
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Az Atatürk Evi Müzesi egy múzeum Kayseriben, amely egy egykor Atatürk által használt rezidenciában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        35.49041,
+                        38.719154
+                  ]
+            },
+            {
+                  "name": "Milli Mücadele Müzesi",
+                  "text": "A Milli Mücadele Müzesi egy múzeum Kayseriben.",
+                  "category": "museum",
+                  "coords": [
+                        35.488989,
+                        38.716709
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Türbesi",
+                  "text": "Az Emir Sultan Türbesi egy emlékmű Kayseriben.",
+                  "category": "historical",
+                  "coords": [
+                        35.489392,
+                        38.717851
+                  ]
+            },
+            {
+                  "name": "Dörtayak Türbesi",
+                  "text": "A Dörtayak Türbesi egy történelmi emlékmű Kayseriben.",
+                  "category": "historical",
+                  "coords": [
+                        35.479804,
+                        38.711147
+                  ]
+            },
+            {
+                  "name": "Gevher Nesibe Medresesi",
+                  "text": "A Gevher Nesibe Medresesi egy múzeum Kayseriben.",
+                  "category": "museum",
+                  "coords": [
+                        35.484066,
+                        38.724112
+                  ]
+            },
+            {
+                  "name": "Hunat Hatun Külliyesi",
+                  "text": "A Hunat Hatun komplexum egy jelentős történelmi látványosság Kayseriben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.491024,
+                        38.720869
+                  ]
+            },
+            {
+                  "name": "Gubaroğlu Cami",
+                  "text": "A Gubaroğlu Cami egy helyi istentiszteleti hely Kayseriben.",
+                  "category": "religious",
+                  "coords": [
+                        35.480288,
+                        38.716692
+                  ]
+            },
+            {
+                  "name": "Seyyid Burhanettin Camii",
+                  "text": "A Seyyid Burhanettin Camii egy istentiszteleti hely Kayseriben.",
+                  "category": "religious",
+                  "coords": [
+                        35.4958,
+                        38.714953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kayseri Arkeoloji Müzesi",
+                  "text": "Kayseri Arkeoloji Müzesi este un muzeu de arheologie din Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.488475,
+                        38.721064
+                  ]
+            },
+            {
+                  "name": "Emir Ali Türbesi",
+                  "text": "Emir Ali Türbesi este un monument istoric din Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.496194,
+                        38.712616
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Atatürk Evi Müzesi este un muzeu din Kayseri, găzduit într-o reședință folosită odată de Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        35.49041,
+                        38.719154
+                  ]
+            },
+            {
+                  "name": "Milli Mücadele Müzesi",
+                  "text": "Milli Mücadele Müzesi este un muzeu situat în Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.488989,
+                        38.716709
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Türbesi",
+                  "text": "Emir Sultan Türbesi este un monument situat în Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.489392,
+                        38.717851
+                  ]
+            },
+            {
+                  "name": "Dörtayak Türbesi",
+                  "text": "Dörtayak Türbesi este un monument istoric din Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.479804,
+                        38.711147
+                  ]
+            },
+            {
+                  "name": "Gevher Nesibe Medresesi",
+                  "text": "Gevher Nesibe Medresesi este un muzeu situat în Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.484066,
+                        38.724112
+                  ]
+            },
+            {
+                  "name": "Hunat Hatun Külliyesi",
+                  "text": "Complexul Hunat Hatun este o atracție istorică notabilă situată în Kayseri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.491024,
+                        38.720869
+                  ]
+            },
+            {
+                  "name": "Gubaroğlu Cami",
+                  "text": "Gubaroğlu Cami este un lăcaș de cult local situat în Kayseri.",
+                  "category": "religious",
+                  "coords": [
+                        35.480288,
+                        38.716692
+                  ]
+            },
+            {
+                  "name": "Seyyid Burhanettin Camii",
+                  "text": "Seyyid Burhanettin Camii este un lăcaș de cult situat în Kayseri.",
+                  "category": "religious",
+                  "coords": [
+                        35.4958,
+                        38.714953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kayseri Arkeoloji Müzesi",
+                  "text": "Kayseri Arkeoloji Müzesi is an archaeology museum in Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.488475,
+                        38.721064
+                  ]
+            },
+            {
+                  "name": "Emir Ali Türbesi",
+                  "text": "Emir Ali Türbesi is a historical monument in Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.496194,
+                        38.712616
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi Müzesi",
+                  "text": "Atatürk Evi Müzesi is a museum in Kayseri, housed in a residence once used by Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        35.49041,
+                        38.719154
+                  ]
+            },
+            {
+                  "name": "Milli Mücadele Müzesi",
+                  "text": "Milli Mücadele Müzesi is a museum located in Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.488989,
+                        38.716709
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Türbesi",
+                  "text": "Emir Sultan Türbesi is a monument located in Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.489392,
+                        38.717851
+                  ]
+            },
+            {
+                  "name": "Dörtayak Türbesi",
+                  "text": "Dörtayak Türbesi is a historical monument in Kayseri.",
+                  "category": "historical",
+                  "coords": [
+                        35.479804,
+                        38.711147
+                  ]
+            },
+            {
+                  "name": "Gevher Nesibe Medresesi",
+                  "text": "Gevher Nesibe Medresesi is a museum situated in Kayseri.",
+                  "category": "museum",
+                  "coords": [
+                        35.484066,
+                        38.724112
+                  ]
+            },
+            {
+                  "name": "Hunat Hatun Külliyesi",
+                  "text": "The Hunat Hatun Complex is a notable historical attraction located in Kayseri.",
+                  "category": "landmark",
+                  "coords": [
+                        35.491024,
+                        38.720869
+                  ]
+            },
+            {
+                  "name": "Gubaroğlu Cami",
+                  "text": "Gubaroğlu Cami is a local place of worship located in Kayseri.",
+                  "category": "religious",
+                  "coords": [
+                        35.480288,
+                        38.716692
+                  ]
+            },
+            {
+                  "name": "Seyyid Burhanettin Camii",
+                  "text": "Seyyid Burhanettin Camii is a place of worship situated in Kayseri.",
+                  "category": "religious",
+                  "coords": [
+                        35.4958,
+                        38.714953
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-38",
     coords: [35.4833, 38.7333],
@@ -10356,7 +12345,304 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "malatya-cities-v2",
+    id: "malatya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malatya Müzesi",
+                  "text": "Das Malatya Müzesi ist ein Museum, das archäologische Funde aus der Region Malatya ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        38.324669,
+                        38.342881
+                  ]
+            },
+            {
+                  "name": "Tahtalı Hamamı",
+                  "text": "Tahtalı Hamamı ist ein historisches Badehaus, das als Museum in Malatya dient.",
+                  "category": "museum",
+                  "coords": [
+                        38.305693,
+                        38.345976
+                  ]
+            },
+            {
+                  "name": "Malatya Büyükşehir Belediyesi",
+                  "text": "Das Malatya Büyükşehir Belediyesi ist das Rathaus der Stadt Malatya.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294414,
+                        38.348547
+                  ]
+            },
+            {
+                  "name": "İsmet İnönü Heykeli",
+                  "text": "Das İsmet İnönü Heykeli ist ein Denkmal in Malatya.",
+                  "category": "historical",
+                  "coords": [
+                        38.318506,
+                        38.348168
+                  ]
+            },
+            {
+                  "name": "Battalgazi Heykeli",
+                  "text": "Das Battalgazi Heykeli ist ein Denkmal in Malatya.",
+                  "category": "historical",
+                  "coords": [
+                        38.333511,
+                        38.355415
+                  ]
+            },
+            {
+                  "name": "Radyo Gramofon Müzesi",
+                  "text": "Das Radyo Gramofon Müzesi ist ein Museum für Radios und Grammophone in Malatya.",
+                  "category": "museum",
+                  "coords": [
+                        38.288407,
+                        38.346715
+                  ]
+            },
+            {
+                  "name": "Kamera Müzesi",
+                  "text": "Das Kamera Müzesi ist ein Kameramuseum in Malatya.",
+                  "category": "museum",
+                  "coords": [
+                        38.291814,
+                        38.348304
+                  ]
+            },
+            {
+                  "name": "Malatya Kongre ve Kültür Merkezi",
+                  "text": "Das Malatya Kongre ve Kültür Merkezi ist ein Kunst- und Kulturzentrum in Malatya.",
+                  "category": "cultural",
+                  "coords": [
+                        38.28722,
+                        38.346682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malatya Müzesi",
+                  "text": "A Malatya Müzesi egy múzeum Malatya városában, amely helyi régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        38.324669,
+                        38.342881
+                  ]
+            },
+            {
+                  "name": "Tahtalı Hamamı",
+                  "text": "A Tahtalı Hamamı egy múzeumként működő történelmi fürdő Malatya városában.",
+                  "category": "museum",
+                  "coords": [
+                        38.305693,
+                        38.345976
+                  ]
+            },
+            {
+                  "name": "Malatya Büyükşehir Belediyesi",
+                  "text": "A Malatya Büyükşehir Belediyesi Malatya városának városházája.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294414,
+                        38.348547
+                  ]
+            },
+            {
+                  "name": "İsmet İnönü Heykeli",
+                  "text": "Az İsmet İnönü Heykeli egy emlékmű Malatya városában.",
+                  "category": "historical",
+                  "coords": [
+                        38.318506,
+                        38.348168
+                  ]
+            },
+            {
+                  "name": "Battalgazi Heykeli",
+                  "text": "A Battalgazi Heykeli egy emlékmű Malatya területén.",
+                  "category": "historical",
+                  "coords": [
+                        38.333511,
+                        38.355415
+                  ]
+            },
+            {
+                  "name": "Radyo Gramofon Müzesi",
+                  "text": "A Radyo Gramofon Müzesi egy rádiókat és gramofonokat bemutató múzeum Malatya városában.",
+                  "category": "museum",
+                  "coords": [
+                        38.288407,
+                        38.346715
+                  ]
+            },
+            {
+                  "name": "Kamera Müzesi",
+                  "text": "A Kamera Müzesi egy fényképezőgépeket bemutató múzeum Malatyában.",
+                  "category": "museum",
+                  "coords": [
+                        38.291814,
+                        38.348304
+                  ]
+            },
+            {
+                  "name": "Malatya Kongre ve Kültür Merkezi",
+                  "text": "A Malatya Kongre ve Kültür Merkezi egy művészeti és kulturális központ Malatya városában.",
+                  "category": "cultural",
+                  "coords": [
+                        38.28722,
+                        38.346682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malatya Müzesi",
+                  "text": "Malatya Müzesi este un muzeu din Malatya ce expune artefacte arheologice locale.",
+                  "category": "museum",
+                  "coords": [
+                        38.324669,
+                        38.342881
+                  ]
+            },
+            {
+                  "name": "Tahtalı Hamamı",
+                  "text": "Tahtalı Hamamı este o baie istorică transformată în muzeu în Malatya.",
+                  "category": "museum",
+                  "coords": [
+                        38.305693,
+                        38.345976
+                  ]
+            },
+            {
+                  "name": "Malatya Büyükşehir Belediyesi",
+                  "text": "Malatya Büyükşehir Belediyesi este primăria orașului Malatya.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294414,
+                        38.348547
+                  ]
+            },
+            {
+                  "name": "İsmet İnönü Heykeli",
+                  "text": "İsmet İnönü Heykeli este un monument situat în Malatya.",
+                  "category": "historical",
+                  "coords": [
+                        38.318506,
+                        38.348168
+                  ]
+            },
+            {
+                  "name": "Battalgazi Heykeli",
+                  "text": "Battalgazi Heykeli este un monument din Malatya.",
+                  "category": "historical",
+                  "coords": [
+                        38.333511,
+                        38.355415
+                  ]
+            },
+            {
+                  "name": "Radyo Gramofon Müzesi",
+                  "text": "Radyo Gramofon Müzesi este un muzeu din Malatya dedicat radiourilor și gramofoanelor.",
+                  "category": "museum",
+                  "coords": [
+                        38.288407,
+                        38.346715
+                  ]
+            },
+            {
+                  "name": "Kamera Müzesi",
+                  "text": "Kamera Müzesi este un muzeu dedicat aparatelor foto în Malatya.",
+                  "category": "museum",
+                  "coords": [
+                        38.291814,
+                        38.348304
+                  ]
+            },
+            {
+                  "name": "Malatya Kongre ve Kültür Merkezi",
+                  "text": "Malatya Kongre ve Kültür Merkezi este un centru de arte și cultură din Malatya.",
+                  "category": "cultural",
+                  "coords": [
+                        38.28722,
+                        38.346682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malatya Müzesi",
+                  "text": "The Malatya Museum houses archaeological exhibits from the Malatya region.",
+                  "category": "museum",
+                  "coords": [
+                        38.324669,
+                        38.342881
+                  ]
+            },
+            {
+                  "name": "Tahtalı Hamamı",
+                  "text": "Tahtalı Hamamı is a historical bathhouse functioning as a museum in Malatya.",
+                  "category": "museum",
+                  "coords": [
+                        38.305693,
+                        38.345976
+                  ]
+            },
+            {
+                  "name": "Malatya Büyükşehir Belediyesi",
+                  "text": "The Malatya Büyükşehir Belediyesi is the metropolitan municipality hall of Malatya.",
+                  "category": "landmark",
+                  "coords": [
+                        38.294414,
+                        38.348547
+                  ]
+            },
+            {
+                  "name": "İsmet İnönü Heykeli",
+                  "text": "The İsmet İnönü Heykeli is a monument located in Malatya.",
+                  "category": "historical",
+                  "coords": [
+                        38.318506,
+                        38.348168
+                  ]
+            },
+            {
+                  "name": "Battalgazi Heykeli",
+                  "text": "The Battalgazi Heykeli is a monument in Malatya.",
+                  "category": "historical",
+                  "coords": [
+                        38.333511,
+                        38.355415
+                  ]
+            },
+            {
+                  "name": "Radyo Gramofon Müzesi",
+                  "text": "The Radyo Gramofon Müzesi is a museum in Malatya exhibiting radios and gramophones.",
+                  "category": "museum",
+                  "coords": [
+                        38.288407,
+                        38.346715
+                  ]
+            },
+            {
+                  "name": "Kamera Müzesi",
+                  "text": "The Kamera Müzesi is a camera museum situated in Malatya.",
+                  "category": "museum",
+                  "coords": [
+                        38.291814,
+                        38.348304
+                  ]
+            },
+            {
+                  "name": "Malatya Kongre ve Kültür Merkezi",
+                  "text": "The Malatya Kongre ve Kültür Merkezi is an arts and culture center located in Malatya.",
+                  "category": "cultural",
+                  "coords": [
+                        38.28722,
+                        38.346682
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-44",
     coords: [38.3167, 38.3500],
@@ -13425,7 +15711,340 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "izmit-cities-v2",
+    id: "izmit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "Saat Kulesi ist ein historischer Uhrturm und ein bekanntes Wahrzeichen in İzmit.",
+                  "category": "tower",
+                  "coords": [
+                        29.919607,
+                        40.762843
+                  ]
+            },
+            {
+                  "name": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                  "text": "İzmit Deprem Farkındalık ve Anma Müzesi ist ein Museum in İzmit, das der Sensibilisierung und dem Gedenken an Erdbeben gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        29.951547,
+                        40.782313
+                  ]
+            },
+            {
+                  "name": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                  "text": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi ist ein bedeutendes Industriemuseum in İzmit, das sich der Papierherstellung widmet.",
+                  "category": "museum",
+                  "coords": [
+                        29.908091,
+                        40.762388
+                  ]
+            },
+            {
+                  "name": "TCG Hızırreis",
+                  "text": "TCG Hızırreis ist ein Museumsschiff in İzmit, das früher als U-Boot USS Gudgeon bekannt war.",
+                  "category": "museum",
+                  "coords": [
+                        29.916619,
+                        40.760138
+                  ]
+            },
+            {
+                  "name": "Kasr-ı Hümayün Av Köşkü",
+                  "text": "Kasr-ı Hümayün Av Köşkü ist ein anerkanntes historisches Jagdschloss und Museum in İzmit.",
+                  "category": "museum",
+                  "coords": [
+                        29.920608,
+                        40.763093
+                  ]
+            },
+            {
+                  "name": "Yumurtacı Cami",
+                  "text": "Yumurtacı Cami ist eine bedeutende historische Moschee in der Stadt İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.921122,
+                        40.764907
+                  ]
+            },
+            {
+                  "name": "Tepecik Cami",
+                  "text": "Tepecik Cami ist ein lokales Gotteshaus in İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.924917,
+                        40.764342
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "Hüseyin Paşa Camii ist ein islamisches Gotteshaus in İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.93097,
+                        40.766648
+                  ]
+            },
+            {
+                  "name": "Akçakoca Dere Cami",
+                  "text": "Akçakoca Dere Cami ist eine Moschee und ein Gotteshaus in İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.921119,
+                        40.766967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "A Saat Kulesi egy történelmi óratorony és ismert nevezetesség İzmitben.",
+                  "category": "tower",
+                  "coords": [
+                        29.919607,
+                        40.762843
+                  ]
+            },
+            {
+                  "name": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                  "text": "Az İzmit Deprem Farkındalık ve Anma Müzesi a földrengések tudatosításának és emlékezetének szentelt múzeum İzmitben.",
+                  "category": "museum",
+                  "coords": [
+                        29.951547,
+                        40.782313
+                  ]
+            },
+            {
+                  "name": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                  "text": "A Seka Mehmet Ali Kağıtçı Kağıt Müzesi egy nevezetes, papírgyártással foglalkozó ipartörténeti múzeum İzmitben.",
+                  "category": "museum",
+                  "coords": [
+                        29.908091,
+                        40.762388
+                  ]
+            },
+            {
+                  "name": "TCG Hızırreis",
+                  "text": "A TCG Hızırreis egy múzeumhajó İzmitben, amely korábban USS Gudgeon tengeralattjáróként szolgált.",
+                  "category": "museum",
+                  "coords": [
+                        29.916619,
+                        40.760138
+                  ]
+            },
+            {
+                  "name": "Kasr-ı Hümayün Av Köşkü",
+                  "text": "A Kasr-ı Hümayün Av Köşkü egy elismert történelmi vadászkastély és múzeum İzmitben.",
+                  "category": "museum",
+                  "coords": [
+                        29.920608,
+                        40.763093
+                  ]
+            },
+            {
+                  "name": "Yumurtacı Cami",
+                  "text": "A Yumurtacı Cami egy nevezetes történelmi mecset İzmit városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.921122,
+                        40.764907
+                  ]
+            },
+            {
+                  "name": "Tepecik Cami",
+                  "text": "A Tepecik Cami egy helyi mecset İzmit városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.924917,
+                        40.764342
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "A Hüseyin Paşa Camii egy iszlám vallási épület İzmitben.",
+                  "category": "religious",
+                  "coords": [
+                        29.93097,
+                        40.766648
+                  ]
+            },
+            {
+                  "name": "Akçakoca Dere Cami",
+                  "text": "Az Akçakoca Dere Cami egy helyi mecset İzmitben.",
+                  "category": "religious",
+                  "coords": [
+                        29.921119,
+                        40.766967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "Saat Kulesi este un turn cu ceas istoric și un punct de reper notabil din İzmit.",
+                  "category": "tower",
+                  "coords": [
+                        29.919607,
+                        40.762843
+                  ]
+            },
+            {
+                  "name": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                  "text": "İzmit Deprem Farkındalık ve Anma Müzesi este un muzeu din İzmit dedicat conștientizării și comemorării cutremurelor.",
+                  "category": "museum",
+                  "coords": [
+                        29.951547,
+                        40.782313
+                  ]
+            },
+            {
+                  "name": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                  "text": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi este un muzeu notabil de patrimoniu industrial din İzmit axat pe fabricarea hârtiei.",
+                  "category": "museum",
+                  "coords": [
+                        29.908091,
+                        40.762388
+                  ]
+            },
+            {
+                  "name": "TCG Hızırreis",
+                  "text": "TCG Hızırreis este o navă muzeu în İzmit, cunoscută anterior ca submarinul USS Gudgeon.",
+                  "category": "museum",
+                  "coords": [
+                        29.916619,
+                        40.760138
+                  ]
+            },
+            {
+                  "name": "Kasr-ı Hümayün Av Köşkü",
+                  "text": "Kasr-ı Hümayün Av Köşkü este o cabană de vânătoare istorică recunoscută și un muzeu situat în İzmit.",
+                  "category": "museum",
+                  "coords": [
+                        29.920608,
+                        40.763093
+                  ]
+            },
+            {
+                  "name": "Yumurtacı Cami",
+                  "text": "Yumurtacı Cami este o moschee istorică notabilă situată în orașul İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.921122,
+                        40.764907
+                  ]
+            },
+            {
+                  "name": "Tepecik Cami",
+                  "text": "Tepecik Cami este un lăcaș de cult local din İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.924917,
+                        40.764342
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "Hüseyin Paşa Camii este un lăcaș de cult islamic situat în İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.93097,
+                        40.766648
+                  ]
+            },
+            {
+                  "name": "Akçakoca Dere Cami",
+                  "text": "Akçakoca Dere Cami este o moschee și un lăcaș de cult situat în İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.921119,
+                        40.766967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "Saat Kulesi is a historic clock tower and notable landmark in İzmit.",
+                  "category": "tower",
+                  "coords": [
+                        29.919607,
+                        40.762843
+                  ]
+            },
+            {
+                  "name": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                  "text": "İzmit Deprem Farkındalık ve Anma Müzesi is a museum in İzmit dedicated to earthquake awareness and remembrance.",
+                  "category": "museum",
+                  "coords": [
+                        29.951547,
+                        40.782313
+                  ]
+            },
+            {
+                  "name": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                  "text": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi is a notable industrial heritage museum in İzmit focusing on papermaking.",
+                  "category": "museum",
+                  "coords": [
+                        29.908091,
+                        40.762388
+                  ]
+            },
+            {
+                  "name": "TCG Hızırreis",
+                  "text": "TCG Hızırreis is a museum ship in İzmit, formerly known as the submarine USS Gudgeon.",
+                  "category": "museum",
+                  "coords": [
+                        29.916619,
+                        40.760138
+                  ]
+            },
+            {
+                  "name": "Kasr-ı Hümayün Av Köşkü",
+                  "text": "Kasr-ı Hümayün Av Köşkü is a recognized historic hunting lodge and museum located in İzmit.",
+                  "category": "museum",
+                  "coords": [
+                        29.920608,
+                        40.763093
+                  ]
+            },
+            {
+                  "name": "Yumurtacı Cami",
+                  "text": "Yumurtacı Cami is a notable historic mosque located in the city of İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.921122,
+                        40.764907
+                  ]
+            },
+            {
+                  "name": "Tepecik Cami",
+                  "text": "Tepecik Cami is a local place of worship in İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.924917,
+                        40.764342
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "Hüseyin Paşa Camii is an Islamic place of worship located in İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.93097,
+                        40.766648
+                  ]
+            },
+            {
+                  "name": "Akçakoca Dere Cami",
+                  "text": "Akçakoca Dere Cami is a mosque and place of worship situated in İzmit.",
+                  "category": "religious",
+                  "coords": [
+                        29.921119,
+                        40.766967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-41",
     coords: [29.9397, 40.7656],
@@ -13461,7 +16080,376 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "manisa-cities-v2",
+    id: "manisa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manisa Müzesi",
+                  "text": "Das Manisa-Museum bewahrt und präsentiert bedeutende archäologische und ethnografische Artefakte aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        27.401075,
+                        38.614846
+                  ]
+            },
+            {
+                  "name": "Dervişali Camii",
+                  "text": "Die Dervişali-Moschee ist ein lokales islamisches Gotteshaus in der Stadt Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.430946,
+                        38.616298
+                  ]
+            },
+            {
+                  "name": "Hacı Yahya Camii",
+                  "text": "Die Hacı Yahya Moschee dient den spirituellen Bedürfnissen der lokalen Gemeinde in Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.419238,
+                        38.608427
+                  ]
+            },
+            {
+                  "name": "Arap Alanı Camii",
+                  "text": "Die Arap Alanı Moschee ist ein traditionelles Gotteshaus in Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.416867,
+                        38.606833
+                  ]
+            },
+            {
+                  "name": "Göktaşlı Mosque",
+                  "text": "Die Göktaşlı-Moschee bietet einen friedlichen Rahmen für Gebet und Gemeindetreffen in Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.433295,
+                        38.609121
+                  ]
+            },
+            {
+                  "name": "Karaköy Attar Hoca Camii",
+                  "text": "Die Karaköy Attar Hoca Moschee ist ein aktives islamisches Gotteshaus im Karaköy-Viertel von Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.420244,
+                        38.608639
+                  ]
+            },
+            {
+                  "name": "Alaybey Camii",
+                  "text": "Die Alaybey-Moschee ist ein lokales religiöses Wahrzeichen für die Einwohner von Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.438952,
+                        38.614145
+                  ]
+            },
+            {
+                  "name": "Sultan Camii",
+                  "text": "Die Sultan-Moschee ist ein ikonischer osmanischer Komplex aus dem 16. Jahrhundert, der für Hafsa Sultan in Manisa erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        27.427271,
+                        38.61081
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "Die Große Moschee (Ulu Camii) ist eine historische Moschee aus dem 14. Jahrhundert und bietet einen weiten Blick über Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.430136,
+                        38.608104
+                  ]
+            },
+            {
+                  "name": "Hatuniye Cami",
+                  "text": "Die Hatuniye-Moschee ist ein klassisches osmanisches Architekturdenkmal im Herzen von Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.434145,
+                        38.612849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manisa Müzesi",
+                  "text": "A Manisa Múzeum a régió jelentős régészeti és néprajzi leleteit őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.401075,
+                        38.614846
+                  ]
+            },
+            {
+                  "name": "Dervişali Camii",
+                  "text": "A Dervişali mecset a muszlim hívők egyik helyi istentiszteleti helye Manisa városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.430946,
+                        38.616298
+                  ]
+            },
+            {
+                  "name": "Hacı Yahya Camii",
+                  "text": "A Hacı Yahya mecset a manisa-i közösség hitéletének egyik fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        27.419238,
+                        38.608427
+                  ]
+            },
+            {
+                  "name": "Arap Alanı Camii",
+                  "text": "Az Arap Alanı mecset egy hagyományos imádkozóhely Manisában.",
+                  "category": "religious",
+                  "coords": [
+                        27.416867,
+                        38.606833
+                  ]
+            },
+            {
+                  "name": "Göktaşlı Mosque",
+                  "text": "A Göktaşlı mecset a vallási élet és a közösség összejöveteleinek helyszíne Manisában.",
+                  "category": "religious",
+                  "coords": [
+                        27.433295,
+                        38.609121
+                  ]
+            },
+            {
+                  "name": "Karaköy Attar Hoca Camii",
+                  "text": "A Karaköy Attar Hoca mecset egy aktív iszlám imahely Manisa Karaköy nevű területén.",
+                  "category": "religious",
+                  "coords": [
+                        27.420244,
+                        38.608639
+                  ]
+            },
+            {
+                  "name": "Alaybey Camii",
+                  "text": "Az Alaybey mecset a manisa-i hívők egyik helyi vallási tájékozódási pontja.",
+                  "category": "religious",
+                  "coords": [
+                        27.438952,
+                        38.614145
+                  ]
+            },
+            {
+                  "name": "Sultan Camii",
+                  "text": "A Szultán-mecset egy ikonikus, 16. századi oszmán komplexum, amelyet Hafsa szultána számára építettek Manisában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.427271,
+                        38.61081
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "A Nagymecset (Ulu Camii) egy történelmi 14. századi mecset, amely pazar kilátást nyújt Manisára.",
+                  "category": "religious",
+                  "coords": [
+                        27.430136,
+                        38.608104
+                  ]
+            },
+            {
+                  "name": "Hatuniye Cami",
+                  "text": "A Hatuniye mecset egy klasszikus oszmán építészeti műemlék Manisa szívében.",
+                  "category": "religious",
+                  "coords": [
+                        27.434145,
+                        38.612849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manisa Müzesi",
+                  "text": "Muzeul Manisa păstrează și expune artefacte arheologice și etnografice semnificative din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        27.401075,
+                        38.614846
+                  ]
+            },
+            {
+                  "name": "Dervişali Camii",
+                  "text": "Moscheea Dervişali este un lăcaș de cult islamic local în orașul Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.430946,
+                        38.616298
+                  ]
+            },
+            {
+                  "name": "Hacı Yahya Camii",
+                  "text": "Moscheea Hacı Yahya servește nevoilor spirituale ale comunității locale din Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.419238,
+                        38.608427
+                  ]
+            },
+            {
+                  "name": "Arap Alanı Camii",
+                  "text": "Moscheea Arap Alanı este un lăcaș de cult tradițional situat în Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.416867,
+                        38.606833
+                  ]
+            },
+            {
+                  "name": "Göktaşlı Mosque",
+                  "text": "Moscheea Göktaşlı oferă un cadru liniștit pentru rugăciune și adunări comunitare în Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.433295,
+                        38.609121
+                  ]
+            },
+            {
+                  "name": "Karaköy Attar Hoca Camii",
+                  "text": "Moscheea Karaköy Attar Hoca este un lăcaș activ de cult islamic în zona Karaköy din Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.420244,
+                        38.608639
+                  ]
+            },
+            {
+                  "name": "Alaybey Camii",
+                  "text": "Moscheea Alaybey este un reper religios local care servește locuitorilor din Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.438952,
+                        38.614145
+                  ]
+            },
+            {
+                  "name": "Sultan Camii",
+                  "text": "Moscheea Sultanului este un complex otoman emblematic din secolul al XVI-lea, construit pentru Hafsa Sultan în Manisa.",
+                  "category": "landmark",
+                  "coords": [
+                        27.427271,
+                        38.61081
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "Marea Moschee (Ulu Camii) este o moschee istorică din secolul al XIV-lea care oferă vederi panoramice asupra Manisei.",
+                  "category": "religious",
+                  "coords": [
+                        27.430136,
+                        38.608104
+                  ]
+            },
+            {
+                  "name": "Hatuniye Cami",
+                  "text": "Moscheea Hatuniye este un reper arhitectural clasic otoman situat în inima Manisei.",
+                  "category": "religious",
+                  "coords": [
+                        27.434145,
+                        38.612849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manisa Müzesi",
+                  "text": "The Manisa Museum preserves and displays significant archaeological and ethnographic artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        27.401075,
+                        38.614846
+                  ]
+            },
+            {
+                  "name": "Dervişali Camii",
+                  "text": "The Dervişali Mosque is a local Islamic place of worship in the city of Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.430946,
+                        38.616298
+                  ]
+            },
+            {
+                  "name": "Hacı Yahya Camii",
+                  "text": "The Hacı Yahya Mosque serves the spiritual needs of the local community in Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.419238,
+                        38.608427
+                  ]
+            },
+            {
+                  "name": "Arap Alanı Camii",
+                  "text": "The Arap Alanı Mosque is a traditional place of worship situated in Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.416867,
+                        38.606833
+                  ]
+            },
+            {
+                  "name": "Göktaşlı Mosque",
+                  "text": "The Göktaşlı Mosque provides a peaceful setting for prayer and community gathering in Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.433295,
+                        38.609121
+                  ]
+            },
+            {
+                  "name": "Karaköy Attar Hoca Camii",
+                  "text": "Karaköy Attar Hoca Mosque is an active place of Islamic worship in the Karaköy area of Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.420244,
+                        38.608639
+                  ]
+            },
+            {
+                  "name": "Alaybey Camii",
+                  "text": "The Alaybey Mosque is a local religious landmark serving the inhabitants of Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.438952,
+                        38.614145
+                  ]
+            },
+            {
+                  "name": "Sultan Camii",
+                  "text": "The Sultan Mosque is an iconic 16th-century Ottoman complex built for Hafsa Sultan in Manisa.",
+                  "category": "landmark",
+                  "coords": [
+                        27.427271,
+                        38.61081
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "The Grand Mosque (Ulu Camii) is a historic 14th-century mosque offering sweeping views over Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.430136,
+                        38.608104
+                  ]
+            },
+            {
+                  "name": "Hatuniye Cami",
+                  "text": "The Hatuniye Mosque is a classical Ottoman architectural landmark located in the heart of Manisa.",
+                  "category": "religious",
+                  "coords": [
+                        27.434145,
+                        38.612849
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-45",
     coords: [27.4269, 38.6140],
@@ -14082,7 +17070,376 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "balikesir-cities-v2",
+    id: "balikesir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balıkesir Ulusal Fotoğraf Müzesi",
+                  "text": "Das Nationale Fotomuseum Balıkesir widmet sich der Geschichte und Kunst der türkischen Fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        27.879264,
+                        39.647479
+                  ]
+            },
+            {
+                  "name": "Balıkesir Kuvâ-yi Milliye Müzesi",
+                  "text": "Das Museum der Nationalen Streitkräfte in Balıkesir dokumentiert die Rolle der Region im türkischen Unabhängigkeitskrieg.",
+                  "category": "museum",
+                  "coords": [
+                        27.879574,
+                        39.645848
+                  ]
+            },
+            {
+                  "name": "Dinkçiler Eski Camii",
+                  "text": "Die Dinkçiler Eski Camii ist eine alte historische Moschee in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.878684,
+                        39.642492
+                  ]
+            },
+            {
+                  "name": "Hamidiye Camii",
+                  "text": "Die Hamidiye Camii ist ein islamisches Gotteshaus und eine architektonische Sehenswürdigkeit in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.88849,
+                        39.650593
+                  ]
+            },
+            {
+                  "name": "Zağnos Paşa Camii",
+                  "text": "Die Zağnos-Pascha-Moschee ist ein bedeutender historischer Moscheekomplex und ein wichtiges Wahrzeichen in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.879983,
+                        39.64877
+                  ]
+            },
+            {
+                  "name": "Yeşilli Cami",
+                  "text": "Die Yeşilli Cami ist eine anerkannte lokale historische Moschee, die regelmäßige Gottesdienste in Balıkesir anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        27.882,
+                        39.64729
+                  ]
+            },
+            {
+                  "name": "Umurbey Cami",
+                  "text": "Die Umurbey Cami ist eine lokale Kultstätte für die muslimische Gemeinde von Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.884567,
+                        39.647067
+                  ]
+            },
+            {
+                  "name": "Şeyh Lütfullah Cami",
+                  "text": "Die Şeyh Lütfullah Cami ist eine traditionelle islamische Moschee in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.886569,
+                        39.647893
+                  ]
+            },
+            {
+                  "name": "Yıldırım Cami",
+                  "text": "Die Yıldırım Cami ist ein Gotteshaus, das das lokale osmanische Erbe in Balıkesir repräsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        27.883165,
+                        39.650327
+                  ]
+            },
+            {
+                  "name": "Kayabey Cami",
+                  "text": "Die Kayabey Cami ist eine aktive Gemeindemoschee in der Stadt Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.879074,
+                        39.652791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balıkesir Ulusal Fotoğraf Müzesi",
+                  "text": "A Balıkesiri Nemzeti Fotómúzeum a török fotózás történetének és művészetének szentelt intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        27.879264,
+                        39.647479
+                  ]
+            },
+            {
+                  "name": "Balıkesir Kuvâ-yi Milliye Müzesi",
+                  "text": "A Balıkesiri Nemzeti Erők Múzeuma a régió függetlenségi háborúban betöltött szerepét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.879574,
+                        39.645848
+                  ]
+            },
+            {
+                  "name": "Dinkçiler Eski Camii",
+                  "text": "A Dinkçiler Eski Camii egy régi történelmi mecset Balıkesir városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.878684,
+                        39.642492
+                  ]
+            },
+            {
+                  "name": "Hamidiye Camii",
+                  "text": "A Hamidiye Camii egy iszlám vallási és építészeti nevezetesség Balıkesirben.",
+                  "category": "religious",
+                  "coords": [
+                        27.88849,
+                        39.650593
+                  ]
+            },
+            {
+                  "name": "Zağnos Paşa Camii",
+                  "text": "A Zağnos Paşa-mecset egy jelentős történelmi iszlám imahely és fontos nevezetesség Balıkesirben.",
+                  "category": "religious",
+                  "coords": [
+                        27.879983,
+                        39.64877
+                  ]
+            },
+            {
+                  "name": "Yeşilli Cami",
+                  "text": "A Yeşilli mecset egy történelmi helyi imahely, amely rendszeres vallási szertartásokat biztosít Balıkesirben.",
+                  "category": "religious",
+                  "coords": [
+                        27.882,
+                        39.64729
+                  ]
+            },
+            {
+                  "name": "Umurbey Cami",
+                  "text": "Az Umurbey mecset a muszlim közösséget szolgáló vallási épület Balıkesirben.",
+                  "category": "religious",
+                  "coords": [
+                        27.884567,
+                        39.647067
+                  ]
+            },
+            {
+                  "name": "Şeyh Lütfullah Cami",
+                  "text": "A Şeyh Lütfullah mecset egy hagyományos iszlám vallási épület Balıkesirben.",
+                  "category": "religious",
+                  "coords": [
+                        27.886569,
+                        39.647893
+                  ]
+            },
+            {
+                  "name": "Yıldırım Cami",
+                  "text": "A Yıldırım mecset a helyi oszmán örökséget képviselő imahely Balıkesirben.",
+                  "category": "religious",
+                  "coords": [
+                        27.883165,
+                        39.650327
+                  ]
+            },
+            {
+                  "name": "Kayabey Cami",
+                  "text": "A Kayabey mecset egy aktív közösségi imahely Balıkesir városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.879074,
+                        39.652791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balıkesir Ulusal Fotoğraf Müzesi",
+                  "text": "Muzeul Național de Fotografie din Balıkesir este dedicat istoriei și artei fotografiei turcești.",
+                  "category": "museum",
+                  "coords": [
+                        27.879264,
+                        39.647479
+                  ]
+            },
+            {
+                  "name": "Balıkesir Kuvâ-yi Milliye Müzesi",
+                  "text": "Muzeul Forțelor Naționaliste din Balıkesir prezintă rolul regiunii în Războiul de Independență al Turciei.",
+                  "category": "museum",
+                  "coords": [
+                        27.879574,
+                        39.645848
+                  ]
+            },
+            {
+                  "name": "Dinkçiler Eski Camii",
+                  "text": "Dinkçiler Eski Camii este o veche moschee istorică situată în Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.878684,
+                        39.642492
+                  ]
+            },
+            {
+                  "name": "Hamidiye Camii",
+                  "text": "Hamidiye Camii este un lăcaș de cult islamic și un sit arhitectural în Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.88849,
+                        39.650593
+                  ]
+            },
+            {
+                  "name": "Zağnos Paşa Camii",
+                  "text": "Moscheea Zağnos Pașa este un complex proeminent de moschee istorică și un reper important în Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.879983,
+                        39.64877
+                  ]
+            },
+            {
+                  "name": "Yeşilli Cami",
+                  "text": "Yeşilli Cami este o moschee istorică locală recunoscută, oferind servicii religioase regulate în Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.882,
+                        39.64729
+                  ]
+            },
+            {
+                  "name": "Umurbey Cami",
+                  "text": "Umurbey Cami este un lăcaș de cult local care deservește comunitatea musulmană din Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.884567,
+                        39.647067
+                  ]
+            },
+            {
+                  "name": "Şeyh Lütfullah Cami",
+                  "text": "Șeyh Lütfullah Cami este o moschee islamică tradițională situată în Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.886569,
+                        39.647893
+                  ]
+            },
+            {
+                  "name": "Yıldırım Cami",
+                  "text": "Yıldırım Cami este un lăcaș de cult ce reprezintă moștenirea otomană locală din Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.883165,
+                        39.650327
+                  ]
+            },
+            {
+                  "name": "Kayabey Cami",
+                  "text": "Kayabey Cami este o moschee comunitară activă situată în orașul Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.879074,
+                        39.652791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balıkesir Ulusal Fotoğraf Müzesi",
+                  "text": "The Balıkesir National Photography Museum is dedicated to the history and art of Turkish photography.",
+                  "category": "museum",
+                  "coords": [
+                        27.879264,
+                        39.647479
+                  ]
+            },
+            {
+                  "name": "Balıkesir Kuvâ-yi Milliye Müzesi",
+                  "text": "The Museum of the Nationalist Forces in Balıkesir chronicles the region's role in the Turkish War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        27.879574,
+                        39.645848
+                  ]
+            },
+            {
+                  "name": "Dinkçiler Eski Camii",
+                  "text": "The Dinkçiler Eski Camii is an old historical mosque situated in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.878684,
+                        39.642492
+                  ]
+            },
+            {
+                  "name": "Hamidiye Camii",
+                  "text": "Hamidiye Camii is an Islamic place of worship and architectural site in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.88849,
+                        39.650593
+                  ]
+            },
+            {
+                  "name": "Zağnos Paşa Camii",
+                  "text": "Zağnos Paşa Mosque is a prominent historic mosque complex and an important landmark in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.879983,
+                        39.64877
+                  ]
+            },
+            {
+                  "name": "Yeşilli Cami",
+                  "text": "Yeşilli Cami is a historic local mosque providing regular religious services in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.882,
+                        39.64729
+                  ]
+            },
+            {
+                  "name": "Umurbey Cami",
+                  "text": "Umurbey Cami is a local place of worship serving the Muslim community of Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.884567,
+                        39.647067
+                  ]
+            },
+            {
+                  "name": "Şeyh Lütfullah Cami",
+                  "text": "The Şeyh Lütfullah Cami is a traditional Islamic mosque located in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.886569,
+                        39.647893
+                  ]
+            },
+            {
+                  "name": "Yıldırım Cami",
+                  "text": "Yıldırım Cami is a place of worship representing local Ottoman heritage in Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.883165,
+                        39.650327
+                  ]
+            },
+            {
+                  "name": "Kayabey Cami",
+                  "text": "Kayabey Cami is an active community mosque located in the city of Balıkesir.",
+                  "category": "religious",
+                  "coords": [
+                        27.879074,
+                        39.652791
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-10",
     coords: [27.8833, 39.6500],
@@ -16125,7 +19482,376 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "kutahya-cities-v2",
+    id: "kutahya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "Der Uhrenturm (Saat Kulesi) ist ein bekanntes Baudenkmal im Zentrum von Kütahya.",
+                  "category": "historical",
+                  "coords": [
+                        29.986358,
+                        39.419374
+                  ]
+            },
+            {
+                  "name": "Jeoloji Müzesi",
+                  "text": "Das Geologische Museum in Kütahya zeigt interessante Exponate zu Gesteinen und Mineralien.",
+                  "category": "museum",
+                  "coords": [
+                        29.974462,
+                        39.416141
+                  ]
+            },
+            {
+                  "name": "Cini Muzesi",
+                  "text": "Das Fliesenmuseum präsentiert die reiche Tradition der Keramikkunst in Kütahya.",
+                  "category": "museum",
+                  "coords": [
+                        29.975156,
+                        39.417432
+                  ]
+            },
+            {
+                  "name": "Analıca Camii",
+                  "text": "Die Analıca-Moschee ist ein historisches Gotteshaus in der Stadt Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.977024,
+                        39.41836
+                  ]
+            },
+            {
+                  "name": "Dönenler Camii",
+                  "text": "Die Dönenler-Moschee ist eine bedeutende religiöse Stätte und Sehenswürdigkeit in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.976723,
+                        39.41711
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii",
+                  "text": "Die Ali-Pascha-Moschee ist ein zentraler und historischer Ort des Gebets in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.983805,
+                        39.418724
+                  ]
+            },
+            {
+                  "name": "Meydan Camii ( Aslanbey Camii )",
+                  "text": "Die Meydan-Moschee, auch Aslanbey-Moschee genannt, ist ein sakrales Bauwerk in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.980291,
+                        39.423004
+                  ]
+            },
+            {
+                  "name": "Sebilerenler Camii",
+                  "text": "Die Sebilerenler-Moschee ist ein traditionelles Gotteshaus in der türkischen Stadt Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.981537,
+                        39.419731
+                  ]
+            },
+            {
+                  "name": "Saadettin Camii",
+                  "text": "Die Saadettin-Moschee ist ein architektonisch ansprechendes Gotteshaus in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.976519,
+                        39.420228
+                  ]
+            },
+            {
+                  "name": "Aşağı Hisar Camii",
+                  "text": "Die Aşağı-Hisar-Moschee ist eine historische Gebetsstätte in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.970705,
+                        39.421701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "Az óratorony (Saat Kulesi) egy jól ismert emlékmű Kütahya központjában.",
+                  "category": "historical",
+                  "coords": [
+                        29.986358,
+                        39.419374
+                  ]
+            },
+            {
+                  "name": "Jeoloji Müzesi",
+                  "text": "A kütahyai Geológiai Múzeum érdekes kőzet- és ásványkiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        29.974462,
+                        39.416141
+                  ]
+            },
+            {
+                  "name": "Cini Muzesi",
+                  "text": "A csempemúzeum a kütahyai kerámiaművészet gazdag hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.975156,
+                        39.417432
+                  ]
+            },
+            {
+                  "name": "Analıca Camii",
+                  "text": "Az Analıca-mecset egy történelmi imaház Kütahya városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.977024,
+                        39.41836
+                  ]
+            },
+            {
+                  "name": "Dönenler Camii",
+                  "text": "A Dönenler-mecset jelentős vallási helyszín és látványosság Kütahyában.",
+                  "category": "religious",
+                  "coords": [
+                        29.976723,
+                        39.41711
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii",
+                  "text": "Az Ali pasa mecset egy központi és történelmi imahely Kütahyában.",
+                  "category": "religious",
+                  "coords": [
+                        29.983805,
+                        39.418724
+                  ]
+            },
+            {
+                  "name": "Meydan Camii ( Aslanbey Camii )",
+                  "text": "A Meydan-mecset, más néven Aslanbey-mecset, egy vallási épület Kütahyában.",
+                  "category": "religious",
+                  "coords": [
+                        29.980291,
+                        39.423004
+                  ]
+            },
+            {
+                  "name": "Sebilerenler Camii",
+                  "text": "A Sebilerenler-mecset egy hagyományos imaház a törökországi Kütahya városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.981537,
+                        39.419731
+                  ]
+            },
+            {
+                  "name": "Saadettin Camii",
+                  "text": "A Saadettin-mecset egy építészetileg vonzó imaház Kütahyában.",
+                  "category": "religious",
+                  "coords": [
+                        29.976519,
+                        39.420228
+                  ]
+            },
+            {
+                  "name": "Aşağı Hisar Camii",
+                  "text": "Az Aşağı Hisar mecset egy történelmi imahely Kütahyában.",
+                  "category": "religious",
+                  "coords": [
+                        29.970705,
+                        39.421701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "Turnul cu ceas (Saat Kulesi) este un monument cunoscut din centrul orașului Kütahya.",
+                  "category": "historical",
+                  "coords": [
+                        29.986358,
+                        39.419374
+                  ]
+            },
+            {
+                  "name": "Jeoloji Müzesi",
+                  "text": "Muzeul de Geologie din Kütahya prezintă exponate interesante de roci și minerale.",
+                  "category": "museum",
+                  "coords": [
+                        29.974462,
+                        39.416141
+                  ]
+            },
+            {
+                  "name": "Cini Muzesi",
+                  "text": "Muzeul Faianței prezintă bogata tradiție a artei ceramice din Kütahya.",
+                  "category": "museum",
+                  "coords": [
+                        29.975156,
+                        39.417432
+                  ]
+            },
+            {
+                  "name": "Analıca Camii",
+                  "text": "Moscheea Analıca este un lăcaș de cult istoric în orașul Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.977024,
+                        39.41836
+                  ]
+            },
+            {
+                  "name": "Dönenler Camii",
+                  "text": "Moscheea Dönenler este un sit religios important și o atracție în Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.976723,
+                        39.41711
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii",
+                  "text": "Moscheea Ali Pașa este un loc central și istoric de rugăciune din Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.983805,
+                        39.418724
+                  ]
+            },
+            {
+                  "name": "Meydan Camii ( Aslanbey Camii )",
+                  "text": "Moscheea Meydan, numită și Moscheea Aslanbey, este un edificiu religios din Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.980291,
+                        39.423004
+                  ]
+            },
+            {
+                  "name": "Sebilerenler Camii",
+                  "text": "Moscheea Sebilerenler este un lăcaș de cult tradițional din orașul turc Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.981537,
+                        39.419731
+                  ]
+            },
+            {
+                  "name": "Saadettin Camii",
+                  "text": "Moscheea Saadettin este un lăcaș de cult cu o arhitectură atractivă din Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.976519,
+                        39.420228
+                  ]
+            },
+            {
+                  "name": "Aşağı Hisar Camii",
+                  "text": "Moscheea Aşağı Hisar este un loc istoric de rugăciune în Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.970705,
+                        39.421701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saat Kulesi",
+                  "text": "The Clock Tower (Saat Kulesi) is a well-known monument in the center of Kütahya.",
+                  "category": "historical",
+                  "coords": [
+                        29.986358,
+                        39.419374
+                  ]
+            },
+            {
+                  "name": "Jeoloji Müzesi",
+                  "text": "The Geological Museum in Kütahya displays interesting exhibits of rocks and minerals.",
+                  "category": "museum",
+                  "coords": [
+                        29.974462,
+                        39.416141
+                  ]
+            },
+            {
+                  "name": "Cini Muzesi",
+                  "text": "The Tile Museum presents the rich tradition of ceramic art in Kütahya.",
+                  "category": "museum",
+                  "coords": [
+                        29.975156,
+                        39.417432
+                  ]
+            },
+            {
+                  "name": "Analıca Camii",
+                  "text": "The Analıca Mosque is a historical place of worship in the city of Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.977024,
+                        39.41836
+                  ]
+            },
+            {
+                  "name": "Dönenler Camii",
+                  "text": "The Dönenler Mosque is a significant religious site and attraction in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.976723,
+                        39.41711
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii",
+                  "text": "The Ali Pasha Mosque is a central and historical place of prayer in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.983805,
+                        39.418724
+                  ]
+            },
+            {
+                  "name": "Meydan Camii ( Aslanbey Camii )",
+                  "text": "The Meydan Mosque, also known as Aslanbey Mosque, is a religious building in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.980291,
+                        39.423004
+                  ]
+            },
+            {
+                  "name": "Sebilerenler Camii",
+                  "text": "The Sebilerenler Mosque is a traditional place of worship in the Turkish city of Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.981537,
+                        39.419731
+                  ]
+            },
+            {
+                  "name": "Saadettin Camii",
+                  "text": "The Saadettin Mosque is an architecturally appealing place of worship in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.976519,
+                        39.420228
+                  ]
+            },
+            {
+                  "name": "Aşağı Hisar Camii",
+                  "text": "The Aşağı Hisar Mosque is a historical place of prayer in Kütahya.",
+                  "category": "religious",
+                  "coords": [
+                        29.970705,
+                        39.421701
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-43",
     coords: [29.9833, 39.4167],

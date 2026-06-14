@@ -52044,6 +52044,60 @@ imageHint: "Oudenaarde Town Hall Gothic architecture",
                         4.931955,
                         50.804375
                   ]
+            },
+            {
+                  "name": "Paterskerk",
+                  "text": "Paterskerk sind die Ruinen einer historischen Kirche in Tienen.",
+                  "category": "historical",
+                  "coords": [
+                        4.940969,
+                        50.8014
+                  ]
+            },
+            {
+                  "name": "Drie Tumuli",
+                  "text": "Drie Tumuli (Drie Tommen) ist eine archäologische Stätte mit galloromanischen Grabhügeln in Tienen.",
+                  "category": "historical",
+                  "coords": [
+                        4.957317,
+                        50.799271
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-ten-Poelkerk",
+                  "text": "Die Onze-Lieve-Vrouw-ten-Poelkerk ist eine markante gotische Kirche im Zentrum von Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.937851,
+                        50.807697
+                  ]
+            },
+            {
+                  "name": "Het Toreke",
+                  "text": "Het Toreke ist ein Museum in der Stadt Tienen.",
+                  "category": "museum",
+                  "coords": [
+                        4.936588,
+                        50.808861
+                  ]
+            },
+            {
+                  "name": "Heilig-Hartkerk",
+                  "text": "Die Heilig-Hartkerk ist eine Kultstätte in Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.928874,
+                        50.812727
+                  ]
+            },
+            {
+                  "name": "Sint-Germanuskerk",
+                  "text": "Die Sint-Germanuskerk ist eine historische Kultstätte romanischen Ursprungs in Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.939476,
+                        50.805988
+                  ]
             }
       ],
       "hu": [
@@ -52081,6 +52135,60 @@ imageHint: "Oudenaarde Town Hall Gothic architecture",
                   "coords": [
                         4.931955,
                         50.804375
+                  ]
+            },
+            {
+                  "name": "Paterskerk",
+                  "text": "A Paterskerk egy történelmi templom romjait jelöli Tienen városában.",
+                  "category": "historical",
+                  "coords": [
+                        4.940969,
+                        50.8014
+                  ]
+            },
+            {
+                  "name": "Drie Tumuli",
+                  "text": "A Drie Tumuli (Drie Tommen) egy gall-római sírhalmokat magába foglaló régészeti lelőhely Tienenben.",
+                  "category": "historical",
+                  "coords": [
+                        4.957317,
+                        50.799271
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-ten-Poelkerk",
+                  "text": "Az Onze-Lieve-Vrouw-ten-Poelkerk egy jelentős gótikus templom Tienen központjában.",
+                  "category": "religious",
+                  "coords": [
+                        4.937851,
+                        50.807697
+                  ]
+            },
+            {
+                  "name": "Het Toreke",
+                  "text": "A Het Toreke egy múzeum Tienen városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.936588,
+                        50.808861
+                  ]
+            },
+            {
+                  "name": "Heilig-Hartkerk",
+                  "text": "A Heilig-Hartkerk egy istentiszteleti hely Tienen városában.",
+                  "category": "religious",
+                  "coords": [
+                        4.928874,
+                        50.812727
+                  ]
+            },
+            {
+                  "name": "Sint-Germanuskerk",
+                  "text": "A Sint-Germanuskerk egy történelmi, román kori eredetű istentiszteleti hely Tienen városában.",
+                  "category": "religious",
+                  "coords": [
+                        4.939476,
+                        50.805988
                   ]
             }
       ],
@@ -52120,6 +52228,60 @@ imageHint: "Oudenaarde Town Hall Gothic architecture",
                         4.931955,
                         50.804375
                   ]
+            },
+            {
+                  "name": "Paterskerk",
+                  "text": "Paterskerk reprezintă ruinele unei biserici istorice din Tienen.",
+                  "category": "historical",
+                  "coords": [
+                        4.940969,
+                        50.8014
+                  ]
+            },
+            {
+                  "name": "Drie Tumuli",
+                  "text": "Drie Tumuli (Drie Tommen) este un sit arheologic cu tumuli galo-romani din Tienen.",
+                  "category": "historical",
+                  "coords": [
+                        4.957317,
+                        50.799271
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-ten-Poelkerk",
+                  "text": "Onze-Lieve-Vrouw-ten-Poelkerk este o importantă biserică gotică situată în centrul orașului Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.937851,
+                        50.807697
+                  ]
+            },
+            {
+                  "name": "Het Toreke",
+                  "text": "Het Toreke este un muzeu aflat în orașul Tienen.",
+                  "category": "museum",
+                  "coords": [
+                        4.936588,
+                        50.808861
+                  ]
+            },
+            {
+                  "name": "Heilig-Hartkerk",
+                  "text": "Heilig-Hartkerk este un lăcaș de cult situat în Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.928874,
+                        50.812727
+                  ]
+            },
+            {
+                  "name": "Sint-Germanuskerk",
+                  "text": "Sint-Germanuskerk este un lăcaș de cult istoric, de origine romanică, din Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.939476,
+                        50.805988
+                  ]
             }
       ],
       "en": [
@@ -52157,6 +52319,60 @@ imageHint: "Oudenaarde Town Hall Gothic architecture",
                   "coords": [
                         4.931955,
                         50.804375
+                  ]
+            },
+            {
+                  "name": "Paterskerk",
+                  "text": "Paterskerk represents the ruins of a historic church located in Tienen.",
+                  "category": "historical",
+                  "coords": [
+                        4.940969,
+                        50.8014
+                  ]
+            },
+            {
+                  "name": "Drie Tumuli",
+                  "text": "Drie Tumuli (Drie Tommen) is an archaeological site consisting of Gallo-Roman burial mounds in Tienen.",
+                  "category": "historical",
+                  "coords": [
+                        4.957317,
+                        50.799271
+                  ]
+            },
+            {
+                  "name": "Onze-Lieve-Vrouw-ten-Poelkerk",
+                  "text": "Onze-Lieve-Vrouw-ten-Poelkerk is a notable Gothic church located in the center of Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.937851,
+                        50.807697
+                  ]
+            },
+            {
+                  "name": "Het Toreke",
+                  "text": "Het Toreke is a museum located in the city of Tienen.",
+                  "category": "museum",
+                  "coords": [
+                        4.936588,
+                        50.808861
+                  ]
+            },
+            {
+                  "name": "Heilig-Hartkerk",
+                  "text": "Heilig-Hartkerk is a place of worship situated in Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.928874,
+                        50.812727
+                  ]
+            },
+            {
+                  "name": "Sint-Germanuskerk",
+                  "text": "Sint-Germanuskerk is a historic place of worship known for its Romanesque origins in Tienen.",
+                  "category": "religious",
+                  "coords": [
+                        4.939476,
+                        50.805988
                   ]
             }
       ]
@@ -71563,6 +71779,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.323837,
                         50.4111
                   ]
+            },
+            {
+                  "name": "Église Saint-Christophe",
+                  "text": "Église Saint-Christophe ist eine lokale Kirche in Fontaine-l'Évêque.",
+                  "category": "religious",
+                  "coords": [
+                        4.32157,
+                        50.4118
+                  ]
             }
       ],
       "hu": [
@@ -71600,6 +71825,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.323837,
                         50.4111
+                  ]
+            },
+            {
+                  "name": "Église Saint-Christophe",
+                  "text": "Az Église Saint-Christophe egy helyi templom Fontaine-l'Évêque-ben.",
+                  "category": "religious",
+                  "coords": [
+                        4.32157,
+                        50.4118
                   ]
             }
       ],
@@ -71639,6 +71873,15 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.323837,
                         50.4111
                   ]
+            },
+            {
+                  "name": "Église Saint-Christophe",
+                  "text": "Église Saint-Christophe este o biserică locală situată în Fontaine-l'Évêque.",
+                  "category": "religious",
+                  "coords": [
+                        4.32157,
+                        50.4118
+                  ]
             }
       ],
       "en": [
@@ -71676,6 +71919,15 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.323837,
                         50.4111
+                  ]
+            },
+            {
+                  "name": "Église Saint-Christophe",
+                  "text": "Église Saint-Christophe is a local church situated in Fontaine-l'Évêque.",
+                  "category": "religious",
+                  "coords": [
+                        4.32157,
+                        50.4118
                   ]
             }
       ]

@@ -6753,7 +6753,340 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-cedynia-battlefield-history-v2.webp"},
   {
-    id: "poland-chelmno-old-town-history-v2",
+    id: "poland-chelmno-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "d. Wieża Bismarcka w Chełmnie / d. Kopiec Wolności",
+                  "text": "Der ehemalige Bismarckturm in der Altstadt von Chełmno ist heute als historische Ruine erhalten.",
+                  "category": "historical",
+                  "coords": [
+                        18.453578,
+                        53.345835
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Chełmińskiej",
+                  "text": "Das Muzeum Ziemi Chełmińskiej ist ein historisches Museum in der Altstadt von Chełmno.",
+                  "category": "museum",
+                  "coords": [
+                        18.422859,
+                        53.349159
+                  ]
+            },
+            {
+                  "name": "Rezerwat Ostrów Panieński",
+                  "text": "Das Rezerwat Ostrów Panieński ist ein Naturschutzgebiet in der Altstadt von Chełmno.",
+                  "category": "natural",
+                  "coords": [
+                        18.384816,
+                        53.348706
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łęgi na Ostrowiu Panieńskim",
+                  "text": "Rezerwat Łęgi na Ostrowiu Panieńskim ist ein Naturschutzgebiet in der Nähe der Altstadt von Chełmno.",
+                  "category": "natural",
+                  "coords": [
+                        18.408266,
+                        53.356354
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Die Kirche der Heiligen Apostel Petrus und Paulus ist eine historische Attraktion in der Altstadt von Chełmno.",
+                  "category": "landmark",
+                  "coords": [
+                        18.424876,
+                        53.351458
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Die Kirche Mariä Himmelfahrt ist eine gotische Attraktion und ein Wahrzeichen der Altstadt von Chełmno.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422027,
+                        53.347982
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Starszego i Świętego Mikołaja",
+                  "text": "Die Kirche St. Jakobus und St. Nikolaus ist ein bemerkenswertes Gotteshaus in der Altstadt von Chełmno.",
+                  "category": "religious",
+                  "coords": [
+                        18.419665,
+                        53.348939
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "Die Heilig-Geist-Kirche ist eine historische Kultstätte in der Altstadt von Chełmno.",
+                  "category": "religious",
+                  "coords": [
+                        18.424527,
+                        53.346583
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "Kościół pw. Świętego Marcina ist ein lokales Gotteshaus in der Altstadt von Chełmno.",
+                  "category": "religious",
+                  "coords": [
+                        18.422917,
+                        53.346857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "d. Wieża Bismarcka w Chełmnie / d. Kopiec Wolności",
+                  "text": "A chełmnoi óvárosban található egykori Bismarck-torony ma történelmi rom.",
+                  "category": "historical",
+                  "coords": [
+                        18.453578,
+                        53.345835
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Chełmińskiej",
+                  "text": "A Muzeum Ziemi Chełmińskiej egy történelmi múzeum a chełmnoi óvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        18.422859,
+                        53.349159
+                  ]
+            },
+            {
+                  "name": "Rezerwat Ostrów Panieński",
+                  "text": "A Rezerwat Ostrów Panieński egy természetvédelmi terület a chełmnoi óváros környékén.",
+                  "category": "natural",
+                  "coords": [
+                        18.384816,
+                        53.348706
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łęgi na Ostrowiu Panieńskim",
+                  "text": "A Rezerwat Łęgi na Ostrowiu Panieńskim egy természetvédelmi terület a chełmnoi óváros közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.408266,
+                        53.356354
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "A Szent Péter és Pál apostolok temploma egy történelmi látványosság a chełmnoi óvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.424876,
+                        53.351458
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "A Nagyboldogasszony-templom egy gótikus nevezetesség a chełmnoi óvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422027,
+                        53.347982
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Starszego i Świętego Mikołaja",
+                  "text": "A Szent Jakab és Szent Miklós-templom egy nevezetes istentiszteleti hely a chełmnoi óvárosban.",
+                  "category": "religious",
+                  "coords": [
+                        18.419665,
+                        53.348939
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "A Szentlélek-templom egy történelmi istentiszteleti hely a chełmnoi óvárosban.",
+                  "category": "religious",
+                  "coords": [
+                        18.424527,
+                        53.346583
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "A Kościół pw. Świętego Marcina egy helyi istentiszteleti hely a chełmnoi óvárosban.",
+                  "category": "religious",
+                  "coords": [
+                        18.422917,
+                        53.346857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "d. Wieża Bismarcka w Chełmnie / d. Kopiec Wolności",
+                  "text": "Fostul Turn Bismarck din Centrul Vechi Chełmno a rămas acum o ruină istorică.",
+                  "category": "historical",
+                  "coords": [
+                        18.453578,
+                        53.345835
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Chełmińskiej",
+                  "text": "Muzeum Ziemi Chełmińskiej este un muzeu istoric situat în Centrul Vechi Chełmno.",
+                  "category": "museum",
+                  "coords": [
+                        18.422859,
+                        53.349159
+                  ]
+            },
+            {
+                  "name": "Rezerwat Ostrów Panieński",
+                  "text": "Rezerwat Ostrów Panieński este o rezervație naturală în zona Centrul Vechi Chełmno.",
+                  "category": "natural",
+                  "coords": [
+                        18.384816,
+                        53.348706
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łęgi na Ostrowiu Panieńskim",
+                  "text": "Rezerwat Łęgi na Ostrowiu Panieńskim este o rezervație naturală de lângă Centrul Vechi Chełmno.",
+                  "category": "natural",
+                  "coords": [
+                        18.408266,
+                        53.356354
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Biserica Sfinții Apostoli Petru și Pavel este o atracție istorică din Centrul Vechi Chełmno.",
+                  "category": "landmark",
+                  "coords": [
+                        18.424876,
+                        53.351458
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Biserica Adormirea Maicii Domnului este o atracție gotică în Centrul Vechi Chełmno.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422027,
+                        53.347982
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Starszego i Świętego Mikołaja",
+                  "text": "Biserica Sf. Iacob și Sf. Nicolae este un lăcaș de cult notabil din Centrul Vechi Chełmno.",
+                  "category": "religious",
+                  "coords": [
+                        18.419665,
+                        53.348939
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "Biserica Sfântului Duh este un lăcaș de cult istoric situat în Centrul Vechi Chełmno.",
+                  "category": "religious",
+                  "coords": [
+                        18.424527,
+                        53.346583
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "Kościół pw. Świętego Marcina este un lăcaș de cult local din Centrul Vechi Chełmno.",
+                  "category": "religious",
+                  "coords": [
+                        18.422917,
+                        53.346857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "d. Wieża Bismarcka w Chełmnie / d. Kopiec Wolności",
+                  "text": "The former Bismarck Tower in Chełmno Old Town now remains as historical ruins.",
+                  "category": "historical",
+                  "coords": [
+                        18.453578,
+                        53.345835
+                  ]
+            },
+            {
+                  "name": "Muzeum Ziemi Chełmińskiej",
+                  "text": "Muzeum Ziemi Chełmińskiej is a historic museum located in Chełmno Old Town.",
+                  "category": "museum",
+                  "coords": [
+                        18.422859,
+                        53.349159
+                  ]
+            },
+            {
+                  "name": "Rezerwat Ostrów Panieński",
+                  "text": "Rezerwat Ostrów Panieński is a nature reserve in the Chełmno Old Town area.",
+                  "category": "natural",
+                  "coords": [
+                        18.384816,
+                        53.348706
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łęgi na Ostrowiu Panieńskim",
+                  "text": "Rezerwat Łęgi na Ostrowiu Panieńskim is a natural reserve protecting landscapes near Chełmno Old Town.",
+                  "category": "natural",
+                  "coords": [
+                        18.408266,
+                        53.356354
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "The Church of Saints Peter and Paul is a prominent historic attraction in Chełmno Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.424876,
+                        53.351458
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "The Church of the Assumption of the Blessed Virgin Mary is a Gothic attraction in Chełmno Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.422027,
+                        53.347982
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Starszego i Świętego Mikołaja",
+                  "text": "The Church of St. James and St. Nicholas is a notable place of worship in Chełmno Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        18.419665,
+                        53.348939
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "The Church of the Holy Spirit is a historic place of worship situated in Chełmno Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        18.424527,
+                        53.346583
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "Kościół pw. Świętego Marcina is a local place of worship in Chełmno Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        18.422917,
+                        53.346857
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "town",
     name: { de: "Altstadt von Chełmno", hu: "Chełmno óvárosa", ro: "Orașul vechi Chełmno", en: "Chełmno Old Town"},
@@ -21209,7 +21542,304 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-tykocin-old-town-history-v2.webp",
   },
   {
-    id: "poland-strzegom-old-town-history-v2",
+    id: "poland-strzegom-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazylika Kolegiacka Świętych Apostołów Piotra i Pawła",
+                  "text": "Die Stiftsbasilika der Heiligen Peter und Paul ist eine markante historische Kirche in der Altstadt von Strzegom.",
+                  "category": "religious",
+                  "coords": [
+                        16.349647,
+                        50.959269
+                  ]
+            },
+            {
+                  "name": "Góra Krzyżowa",
+                  "text": "Góra Krzyżowa ist ein bemerkenswerter lokaler Gipfel, der zu den Strzegauer Bergen gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        16.336427,
+                        50.97359
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi",
+                  "text": "Die St. Hedwigs-Kirche ist ein etabliertes Gotteshaus in der Altstadt von Strzegom.",
+                  "category": "religious",
+                  "coords": [
+                        16.358575,
+                        50.961571
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Zbawiciela Świata i Matki Bożej Szkaplerznej",
+                  "text": "Die Kirche des Heiligsten Erlösers der Welt und Unserer Lieben Frau vom Skapulier ist eine historische katholische Kirche in Strzegom.",
+                  "category": "religious",
+                  "coords": [
+                        16.344854,
+                        50.961203
+                  ]
+            },
+            {
+                  "name": "Obszar chronionego krajobrazu Góra Krzyżowa",
+                  "text": "Das Landschaftsschutzgebiet Góra Krzyżowa ist ein Naturschutzgebiet in der Altstadt von Strzegom.",
+                  "category": "natural",
+                  "coords": [
+                        16.332477,
+                        50.973369
+                  ]
+            },
+            {
+                  "name": "Strzegomskie Centrum Kultury",
+                  "text": "Das Kulturzentrum Strzegom dient als Kunst- und Gemeinschaftszentrum in der Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.345381,
+                        50.964966
+                  ]
+            },
+            {
+                  "name": "kamienna studnia",
+                  "text": "Der Steinbrunnen ist eine malerische historische Sehenswürdigkeit in der Altstadt von Strzegom.",
+                  "category": "landmark",
+                  "coords": [
+                        16.347993,
+                        50.960683
+                  ]
+            },
+            {
+                  "name": "Młyn Prochowy",
+                  "text": "Die Pulvermühle ist eine traditionelle Windmühle in der Altstadt von Strzegom.",
+                  "category": "landmark",
+                  "coords": [
+                        16.339834,
+                        50.963778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazylika Kolegiacka Świętych Apostołów Piotra i Pawła",
+                  "text": "A Szent Péter és Pál Apostolok Kollegiális Bazilikája egy kiemelkedő történelmi templom Strzegom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        16.349647,
+                        50.959269
+                  ]
+            },
+            {
+                  "name": "Góra Krzyżowa",
+                  "text": "A Góra Krzyżowa egy nevezetes hegycsúcs, amely a Strzegomi-dombsághoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.336427,
+                        50.97359
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi",
+                  "text": "A Szent Hedvig-templom egy jelentős istentiszteleti hely Strzegom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        16.358575,
+                        50.961571
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Zbawiciela Świata i Matki Bożej Szkaplerznej",
+                  "text": "A Világ Legszentebb Megváltója és a Skapuláré Miasszonyunk temploma egy történelmi katolikus templom Strzegomban.",
+                  "category": "religious",
+                  "coords": [
+                        16.344854,
+                        50.961203
+                  ]
+            },
+            {
+                  "name": "Obszar chronionego krajobrazu Góra Krzyżowa",
+                  "text": "A Góra Krzyżowa Tájvédelmi Körzet egy természetvédelmi terület Strzegom óvárosában.",
+                  "category": "natural",
+                  "coords": [
+                        16.332477,
+                        50.973369
+                  ]
+            },
+            {
+                  "name": "Strzegomskie Centrum Kultury",
+                  "text": "A Strzegomi Kulturális Központ a művészetek és a közösség központjaként szolgál az óvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        16.345381,
+                        50.964966
+                  ]
+            },
+            {
+                  "name": "kamienna studnia",
+                  "text": "A kőkút egy festői történelmi látványosság Strzegom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.347993,
+                        50.960683
+                  ]
+            },
+            {
+                  "name": "Młyn Prochowy",
+                  "text": "A Lőpormalom egy hagyományos szélmalomépület Strzegom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.339834,
+                        50.963778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazylika Kolegiacka Świętych Apostołów Piotra i Pawła",
+                  "text": "Bazilica Colegiată a Sfinților Apostoli Petru și Pavel este o biserică istorică proeminentă din Orașul Vechi Strzegom.",
+                  "category": "religious",
+                  "coords": [
+                        16.349647,
+                        50.959269
+                  ]
+            },
+            {
+                  "name": "Góra Krzyżowa",
+                  "text": "Góra Krzyżowa este un vârf local notabil aparținând Dealurilor Strzegom.",
+                  "category": "landmark",
+                  "coords": [
+                        16.336427,
+                        50.97359
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi",
+                  "text": "Biserica Sfânta Hedviga este un lăcaș de cult consacrat din Orașul Vechi Strzegom.",
+                  "category": "religious",
+                  "coords": [
+                        16.358575,
+                        50.961571
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Zbawiciela Świata i Matki Bożej Szkaplerznej",
+                  "text": "Biserica Preasfântului Mântuitor al Lumii și a Maicii Domnului a Scapularului este o biserică catolică istorică din Strzegom.",
+                  "category": "religious",
+                  "coords": [
+                        16.344854,
+                        50.961203
+                  ]
+            },
+            {
+                  "name": "Obszar chronionego krajobrazu Góra Krzyżowa",
+                  "text": "Zona de peisaj protejat Góra Krzyżowa este o rezervație naturală din Orașul Vechi Strzegom.",
+                  "category": "natural",
+                  "coords": [
+                        16.332477,
+                        50.973369
+                  ]
+            },
+            {
+                  "name": "Strzegomskie Centrum Kultury",
+                  "text": "Centrul Cultural Strzegom servește drept un centru comunitar și de arte în orașul vechi.",
+                  "category": "cultural",
+                  "coords": [
+                        16.345381,
+                        50.964966
+                  ]
+            },
+            {
+                  "name": "kamienna studnia",
+                  "text": "Fântâna de piatră este o atracție istorică pitorească situată în Orașul Vechi Strzegom.",
+                  "category": "landmark",
+                  "coords": [
+                        16.347993,
+                        50.960683
+                  ]
+            },
+            {
+                  "name": "Młyn Prochowy",
+                  "text": "Moara de pulbere este o structură tradițională de moară de vânt din Orașul Vechi Strzegom.",
+                  "category": "landmark",
+                  "coords": [
+                        16.339834,
+                        50.963778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazylika Kolegiacka Świętych Apostołów Piotra i Pawła",
+                  "text": "The Collegiate Basilica of Saints Peter and Paul is a prominent historic church in Strzegom Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        16.349647,
+                        50.959269
+                  ]
+            },
+            {
+                  "name": "Góra Krzyżowa",
+                  "text": "Góra Krzyżowa is a notable local peak belonging to the Strzegom Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        16.336427,
+                        50.97359
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi",
+                  "text": "St. Hedwig's Church is an established place of worship in Strzegom Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        16.358575,
+                        50.961571
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Zbawiciela Świata i Matki Bożej Szkaplerznej",
+                  "text": "The Church of the Most Holy Savior of the World and Our Lady of the Scapular is a historic Catholic church in Strzegom.",
+                  "category": "religious",
+                  "coords": [
+                        16.344854,
+                        50.961203
+                  ]
+            },
+            {
+                  "name": "Obszar chronionego krajobrazu Góra Krzyżowa",
+                  "text": "The Góra Krzyżowa protected landscape area is a nature reserve in Strzegom Old Town.",
+                  "category": "natural",
+                  "coords": [
+                        16.332477,
+                        50.973369
+                  ]
+            },
+            {
+                  "name": "Strzegomskie Centrum Kultury",
+                  "text": "The Strzegom Cultural Center serves as an arts and community hub in the old town.",
+                  "category": "cultural",
+                  "coords": [
+                        16.345381,
+                        50.964966
+                  ]
+            },
+            {
+                  "name": "kamienna studnia",
+                  "text": "The stone well is a quaint historical attraction located in Strzegom Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        16.347993,
+                        50.960683
+                  ]
+            },
+            {
+                  "name": "Młyn Prochowy",
+                  "text": "The Powder Mill is a traditional windmill structure found in Strzegom Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        16.339834,
+                        50.963778
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Strzegom", hu: "Strzegomi óváros", ro: "Centrul vechi din Strzegom", en: "Strzegom Old Town" },

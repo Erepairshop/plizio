@@ -73581,6 +73581,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.788997,
                         56.341896
                   ]
+            },
+            {
+                  "name": "Martyrs' Monument",
+                  "text": "Das Märtyrerdenkmal in St Andrews ist ein Denkmal der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -2.80074,
+                        56.343332
+                  ]
+            },
+            {
+                  "name": "St Rule's Tower",
+                  "text": "Der St Rule's Tower ist ein historischer Aussichtspunkt in St Andrews.",
+                  "category": "natural",
+                  "coords": [
+                        -2.786455,
+                        56.339727
+                  ]
+            },
+            {
+                  "name": "The Pends",
+                  "text": "The Pends sind historische Torhausruinen in St Andrews.",
+                  "category": "historical",
+                  "coords": [
+                        -2.789156,
+                        56.339619
+                  ]
+            },
+            {
+                  "name": "St Andrews Cathedral Museum",
+                  "text": "Ein Museum, das der Geschichte der St Andrews Cathedral gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -2.787525,
+                        56.339446
+                  ]
+            },
+            {
+                  "name": "All Saints'",
+                  "text": "All Saints' ist eine episkopale Kultstätte in St Andrews.",
+                  "category": "religious",
+                  "coords": [
+                        -2.790921,
+                        56.34104
+                  ]
             }
       ],
       "hu": [
@@ -73609,6 +73654,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.788997,
                         56.341896
+                  ]
+            },
+            {
+                  "name": "Martyrs' Monument",
+                  "text": "A st andrewsi Mártírok emlékműve a város egyik emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        -2.80074,
+                        56.343332
+                  ]
+            },
+            {
+                  "name": "St Rule's Tower",
+                  "text": "A St Rule-torony egy történelmi kilátópont St Andrewsban.",
+                  "category": "natural",
+                  "coords": [
+                        -2.786455,
+                        56.339727
+                  ]
+            },
+            {
+                  "name": "The Pends",
+                  "text": "A The Pends egy történelmi kapuház romja St Andrewsban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.789156,
+                        56.339619
+                  ]
+            },
+            {
+                  "name": "St Andrews Cathedral Museum",
+                  "text": "A St Andrews-katedrális történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -2.787525,
+                        56.339446
+                  ]
+            },
+            {
+                  "name": "All Saints'",
+                  "text": "Az All Saints' egy episzkopális templom St Andrewsban.",
+                  "category": "religious",
+                  "coords": [
+                        -2.790921,
+                        56.34104
                   ]
             }
       ],
@@ -73639,6 +73729,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -2.788997,
                         56.341896
                   ]
+            },
+            {
+                  "name": "Martyrs' Monument",
+                  "text": "Monumentul Martirilor din St Andrews este un monument al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -2.80074,
+                        56.343332
+                  ]
+            },
+            {
+                  "name": "St Rule's Tower",
+                  "text": "Turnul St Rule este un punct de belvedere istoric în St Andrews.",
+                  "category": "natural",
+                  "coords": [
+                        -2.786455,
+                        56.339727
+                  ]
+            },
+            {
+                  "name": "The Pends",
+                  "text": "The Pends sunt ruinele unei porți istorice din St Andrews.",
+                  "category": "historical",
+                  "coords": [
+                        -2.789156,
+                        56.339619
+                  ]
+            },
+            {
+                  "name": "St Andrews Cathedral Museum",
+                  "text": "Un muzeu dedicat istoriei Catedralei din St Andrews.",
+                  "category": "museum",
+                  "coords": [
+                        -2.787525,
+                        56.339446
+                  ]
+            },
+            {
+                  "name": "All Saints'",
+                  "text": "All Saints' este un lăcaș de cult episcopal în St Andrews.",
+                  "category": "religious",
+                  "coords": [
+                        -2.790921,
+                        56.34104
+                  ]
             }
       ],
       "en": [
@@ -73667,6 +73802,51 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -2.788997,
                         56.341896
+                  ]
+            },
+            {
+                  "name": "Martyrs' Monument",
+                  "text": "The Martyrs' Monument is a civic monument located in St Andrews.",
+                  "category": "historical",
+                  "coords": [
+                        -2.80074,
+                        56.343332
+                  ]
+            },
+            {
+                  "name": "St Rule's Tower",
+                  "text": "St Rule's Tower is a historical viewpoint located in St Andrews.",
+                  "category": "natural",
+                  "coords": [
+                        -2.786455,
+                        56.339727
+                  ]
+            },
+            {
+                  "name": "The Pends",
+                  "text": "The Pends are historical gatehouse ruins situated in St Andrews.",
+                  "category": "historical",
+                  "coords": [
+                        -2.789156,
+                        56.339619
+                  ]
+            },
+            {
+                  "name": "St Andrews Cathedral Museum",
+                  "text": "A museum dedicated to the artifacts and history of St Andrews Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        -2.787525,
+                        56.339446
+                  ]
+            },
+            {
+                  "name": "All Saints'",
+                  "text": "All Saints' is an Episcopal church serving as a place of worship in St Andrews.",
+                  "category": "religious",
+                  "coords": [
+                        -2.790921,
+                        56.34104
                   ]
             }
       ]
@@ -84350,7 +84530,340 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
     image: "/poi-images/uk-warrington-cities-v2.webp",
   },
   {
-    id: "uk-huddersfield-cities-v2",
+    id: "uk-huddersfield-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lindley Clock Tower",
+                  "text": "Der Lindley Clock Tower ist ein markanter historischer Uhrturm in Huddersfield.",
+                  "category": "tower",
+                  "coords": [
+                        -1.821695,
+                        53.658807
+                  ]
+            },
+            {
+                  "name": "Huddersfield Railway Viaduct",
+                  "text": "Das Huddersfield Railway Viaduct ist eine beeindruckende steinerne Eisenbahnbrücke der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.78201,
+                        53.652239
+                  ]
+            },
+            {
+                  "name": "Gledholt Methodist Church",
+                  "text": "Die Gledholt Methodist Church ist eine traditionelle methodistische Kultstätte in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.800952,
+                        53.651653
+                  ]
+            },
+            {
+                  "name": "St Cuthbert",
+                  "text": "St Cuthbert ist eine aktive Kultstätte in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.793055,
+                        53.661091
+                  ]
+            },
+            {
+                  "name": "St Thomas",
+                  "text": "Die St Thomas's Church ist eine bedeutende anglikanische Pfarrkirche in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792313,
+                        53.642358
+                  ]
+            },
+            {
+                  "name": "Baitul Tauhid Mosque",
+                  "text": "Die Baitul Tauhid Moschee ist ein islamisches Gotteshaus in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.785573,
+                        53.662396
+                  ]
+            },
+            {
+                  "name": "St John's Church",
+                  "text": "Die St John's Church ist eine lokale religiöse Einrichtung und Kultstätte in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.788148,
+                        53.655864
+                  ]
+            },
+            {
+                  "name": "Paddock Viaduct",
+                  "text": "Das Paddock Viadukt ist ein massives Brückenbauwerk in Huddersfield.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.798744,
+                        53.641163
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Holy Trinity ist eine etablierte Kultstätte in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792951,
+                        53.649856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lindley Clock Tower",
+                  "text": "A Lindley óratorony egy kiemelkedő történelmi toronyépület Huddersfieldben.",
+                  "category": "tower",
+                  "coords": [
+                        -1.821695,
+                        53.658807
+                  ]
+            },
+            {
+                  "name": "Huddersfield Railway Viaduct",
+                  "text": "A huddersfieldi vasúti viadukt a város egy impozáns kőhídja.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.78201,
+                        53.652239
+                  ]
+            },
+            {
+                  "name": "Gledholt Methodist Church",
+                  "text": "A Gledholt metodista templom egy hagyományos vallási épület Huddersfieldben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.800952,
+                        53.651653
+                  ]
+            },
+            {
+                  "name": "St Cuthbert",
+                  "text": "A St Cuthbert egy aktív vallási gyülekezeti hely Huddersfieldben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.793055,
+                        53.661091
+                  ]
+            },
+            {
+                  "name": "St Thomas",
+                  "text": "A Szent Tamás-templom egy jelentős anglikán plébániatemplom Huddersfieldben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792313,
+                        53.642358
+                  ]
+            },
+            {
+                  "name": "Baitul Tauhid Mosque",
+                  "text": "A Baitul Tauhid mecset az iszlám közösség imahelye Huddersfieldben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.785573,
+                        53.662396
+                  ]
+            },
+            {
+                  "name": "St John's Church",
+                  "text": "A Szent János-templom egy helyi vallási intézmény és imahely Huddersfieldben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.788148,
+                        53.655864
+                  ]
+            },
+            {
+                  "name": "Paddock Viaduct",
+                  "text": "A Paddock viadukt egy masszív hídszerkezet Huddersfield városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.798744,
+                        53.641163
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "A Szentháromság-templom egy vallási szertartásokat biztosító gyülekezeti hely Huddersfieldben.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792951,
+                        53.649856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lindley Clock Tower",
+                  "text": "Turnul cu ceas Lindley este un turn istoric proeminent din Huddersfield.",
+                  "category": "tower",
+                  "coords": [
+                        -1.821695,
+                        53.658807
+                  ]
+            },
+            {
+                  "name": "Huddersfield Railway Viaduct",
+                  "text": "Viaductul feroviar Huddersfield este un pod de piatră impresionant din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.78201,
+                        53.652239
+                  ]
+            },
+            {
+                  "name": "Gledholt Methodist Church",
+                  "text": "Biserica Metodistă Gledholt este un lăcaș de cult tradițional din Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.800952,
+                        53.651653
+                  ]
+            },
+            {
+                  "name": "St Cuthbert",
+                  "text": "Sfântul Cuthbert este un lăcaș de cult activ situat în Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.793055,
+                        53.661091
+                  ]
+            },
+            {
+                  "name": "St Thomas",
+                  "text": "Biserica Sfântul Toma este o importantă biserică parohială anglicană din Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792313,
+                        53.642358
+                  ]
+            },
+            {
+                  "name": "Baitul Tauhid Mosque",
+                  "text": "Moscheea Baitul Tauhid este un lăcaș de cult islamic din Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.785573,
+                        53.662396
+                  ]
+            },
+            {
+                  "name": "St John's Church",
+                  "text": "Biserica Sfântul Ioan este o instituție religioasă și lăcaș de cult local din Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.788148,
+                        53.655864
+                  ]
+            },
+            {
+                  "name": "Paddock Viaduct",
+                  "text": "Viaductul Paddock este o structură masivă de pod situată în Huddersfield.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.798744,
+                        53.641163
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Sfânta Treime este un lăcaș de cult consacrat care oferă servicii religioase în Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792951,
+                        53.649856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lindley Clock Tower",
+                  "text": "The Lindley Clock Tower is a prominent historical clock tower in Huddersfield.",
+                  "category": "tower",
+                  "coords": [
+                        -1.821695,
+                        53.658807
+                  ]
+            },
+            {
+                  "name": "Huddersfield Railway Viaduct",
+                  "text": "The Huddersfield Railway Viaduct is an impressive stone railway bridge in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.78201,
+                        53.652239
+                  ]
+            },
+            {
+                  "name": "Gledholt Methodist Church",
+                  "text": "Gledholt Methodist Church is a traditional Methodist place of worship in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.800952,
+                        53.651653
+                  ]
+            },
+            {
+                  "name": "St Cuthbert",
+                  "text": "St Cuthbert is an active place of worship located in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.793055,
+                        53.661091
+                  ]
+            },
+            {
+                  "name": "St Thomas",
+                  "text": "St Thomas's Church is a significant Anglican parish church serving the community in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792313,
+                        53.642358
+                  ]
+            },
+            {
+                  "name": "Baitul Tauhid Mosque",
+                  "text": "The Baitul Tauhid Mosque is an Islamic place of worship in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.785573,
+                        53.662396
+                  ]
+            },
+            {
+                  "name": "St John's Church",
+                  "text": "St John's Church is a local religious institution and place of worship in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.788148,
+                        53.655864
+                  ]
+            },
+            {
+                  "name": "Paddock Viaduct",
+                  "text": "The Paddock Viaduct is a substantial bridge structure situated in Huddersfield.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.798744,
+                        53.641163
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Holy Trinity is an established place of worship providing religious services in Huddersfield.",
+                  "category": "religious",
+                  "coords": [
+                        -1.792951,
+                        53.649856
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "GB",
     name: { de: "Huddersfield", hu: "Huddersfield", ro: "Huddersfield", en: "Huddersfield" },
@@ -84395,7 +84908,268 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
     image: "/poi-images/uk-huddersfield-cities-v2.webp",
   },
   {
-    id: "uk-blackpool-cities-v2",
+    id: "uk-blackpool-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stanley Park",
+                  "text": "Ein großer öffentlicher Park in Blackpool, der für seine Gärten und Freizeiteinrichtungen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -3.023557,
+                        53.813911
+                  ]
+            },
+            {
+                  "name": "Kingscote Park",
+                  "text": "Ein öffentlicher Park in Blackpool, der offene Grünflächen zur Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        -3.027878,
+                        53.824547
+                  ]
+            },
+            {
+                  "name": "Viewing platform across the mere",
+                  "text": "Ein Aussichtspunkt, der malerische Ausblicke über den See in Blackpool bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994923,
+                        53.807998
+                  ]
+            },
+            {
+                  "name": "Owls",
+                  "text": "Eine Tierattraktion in Blackpool, die verschiedene Eulenarten präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.013186,
+                        53.814094
+                  ]
+            },
+            {
+                  "name": "Dinosaur Safari",
+                  "text": "Eine Familienattraktion mit Dinosauriermotiv in Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.011328,
+                        53.814755
+                  ]
+            },
+            {
+                  "name": "Blackpool Model Village",
+                  "text": "Eine beliebte Attraktion mit Miniaturgebäuden und Landschaften in Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.019183,
+                        53.812805
+                  ]
+            },
+            {
+                  "name": "Blesboks / Bongos",
+                  "text": "Eine Tierausstellung in Blackpool, die Blessböcken und Bongos gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.014271,
+                        53.813734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stanley Park",
+                  "text": "Nagy közpark Blackpoolban, amely kertjeiről és rekreációs létesítményeiről híres.",
+                  "category": "park",
+                  "coords": [
+                        -3.023557,
+                        53.813911
+                  ]
+            },
+            {
+                  "name": "Kingscote Park",
+                  "text": "Nyilvános park Blackpoolban, amely zöldterületeket kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        -3.027878,
+                        53.824547
+                  ]
+            },
+            {
+                  "name": "Viewing platform across the mere",
+                  "text": "Festői kilátópont, ahonnan gyönyörű kilátás nyílik a blackpooli tóra.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994923,
+                        53.807998
+                  ]
+            },
+            {
+                  "name": "Owls",
+                  "text": "Állatos látványosság Blackpoolban, amely különböző bagolyfajokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.013186,
+                        53.814094
+                  ]
+            },
+            {
+                  "name": "Dinosaur Safari",
+                  "text": "Dinoszaurusz témájú családi látványosság Blackpoolban.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.011328,
+                        53.814755
+                  ]
+            },
+            {
+                  "name": "Blackpool Model Village",
+                  "text": "Népszerű látványosság Blackpoolban, amely miniatűr épületeket és tájakat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.019183,
+                        53.812805
+                  ]
+            },
+            {
+                  "name": "Blesboks / Bongos",
+                  "text": "Blesbokokat és bongókat bemutató állatkiállítás Blackpoolban.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.014271,
+                        53.813734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stanley Park",
+                  "text": "Un mare parc public din Blackpool, renumit pentru grădinile și facilitățile sale de recreere.",
+                  "category": "park",
+                  "coords": [
+                        -3.023557,
+                        53.813911
+                  ]
+            },
+            {
+                  "name": "Kingscote Park",
+                  "text": "Un parc public din Blackpool care oferă spații verzi deschise pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        -3.027878,
+                        53.824547
+                  ]
+            },
+            {
+                  "name": "Viewing platform across the mere",
+                  "text": "Un punct de belvedere pitoresc care oferă priveliști frumoase peste lacul din Blackpool.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994923,
+                        53.807998
+                  ]
+            },
+            {
+                  "name": "Owls",
+                  "text": "O atracție cu animale care prezintă diverse specii de bufnițe în Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.013186,
+                        53.814094
+                  ]
+            },
+            {
+                  "name": "Dinosaur Safari",
+                  "text": "O atracție de familie cu tematică dinozaur situată în Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.011328,
+                        53.814755
+                  ]
+            },
+            {
+                  "name": "Blackpool Model Village",
+                  "text": "O atracție populară care prezintă clădiri și peisaje în miniatură în Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.019183,
+                        53.812805
+                  ]
+            },
+            {
+                  "name": "Blesboks / Bongos",
+                  "text": "O expoziție de animale în Blackpool, dedicată blesbok-ilor și bongo-urilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.014271,
+                        53.813734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stanley Park",
+                  "text": "A large public park in Blackpool renowned for its gardens and recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        -3.023557,
+                        53.813911
+                  ]
+            },
+            {
+                  "name": "Kingscote Park",
+                  "text": "A public park in Blackpool offering open green spaces for recreation.",
+                  "category": "park",
+                  "coords": [
+                        -3.027878,
+                        53.824547
+                  ]
+            },
+            {
+                  "name": "Viewing platform across the mere",
+                  "text": "A scenic viewpoint offering picturesque views across the lake in Blackpool.",
+                  "category": "natural",
+                  "coords": [
+                        -2.994923,
+                        53.807998
+                  ]
+            },
+            {
+                  "name": "Owls",
+                  "text": "An animal attraction showcasing various species of owls in Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.013186,
+                        53.814094
+                  ]
+            },
+            {
+                  "name": "Dinosaur Safari",
+                  "text": "A dinosaur-themed family attraction located in Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.011328,
+                        53.814755
+                  ]
+            },
+            {
+                  "name": "Blackpool Model Village",
+                  "text": "A popular attraction featuring miniature buildings and landscapes in Blackpool.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.019183,
+                        53.812805
+                  ]
+            },
+            {
+                  "name": "Blesboks / Bongos",
+                  "text": "An animal exhibit in Blackpool dedicated to blesboks and bongos.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.014271,
+                        53.813734
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "GB",
     name: { de: "Blackpool", hu: "Blackpool", ro: "Blackpool", en: "Blackpool" },
@@ -94457,7 +95231,124 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
     image: "/poi-images/uk-rochdale-cities-v2.webp",
   },
   {
-    id: "uk-solihull-cities-v2",
+    id: "uk-solihull-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St Alphege Church",
+                  "text": "Die St Alphege Church ist eine bemerkenswerte historische Pfarrkirche in Solihull.",
+                  "category": "religious",
+                  "coords": [
+                        -1.775999,
+                        52.411375
+                  ]
+            },
+            {
+                  "name": "St Augustine's",
+                  "text": "St Augustine's ist ein lokales Gotteshaus in der Stadt Solihull.",
+                  "category": "religious",
+                  "coords": [
+                        -1.781213,
+                        52.413867
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Die Art Gallery ist ein kulturelles Kunstzentrum in Solihull.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.780153,
+                        52.411897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St Alphege Church",
+                  "text": "A Szent Alphege-templom egy jelentős történelmi plébániatemplom Solihullban.",
+                  "category": "religious",
+                  "coords": [
+                        -1.775999,
+                        52.411375
+                  ]
+            },
+            {
+                  "name": "St Augustine's",
+                  "text": "A St Augustine's egy helyi istentiszteleti hely Solihull városában.",
+                  "category": "religious",
+                  "coords": [
+                        -1.781213,
+                        52.413867
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Az Art Gallery egy kulturális művészeti központ Solihullban.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.780153,
+                        52.411897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St Alphege Church",
+                  "text": "Biserica Sf. Alphege este o biserică parohială istorică notabilă situată în Solihull.",
+                  "category": "religious",
+                  "coords": [
+                        -1.775999,
+                        52.411375
+                  ]
+            },
+            {
+                  "name": "St Augustine's",
+                  "text": "St Augustine's este un lăcaș de cult local din orașul Solihull.",
+                  "category": "religious",
+                  "coords": [
+                        -1.781213,
+                        52.413867
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "Galeria de Artă este un centru de arte culturale situat în Solihull.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.780153,
+                        52.411897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Alphege Church",
+                  "text": "St Alphege Church is a notable historic parish church located in Solihull.",
+                  "category": "religious",
+                  "coords": [
+                        -1.775999,
+                        52.411375
+                  ]
+            },
+            {
+                  "name": "St Augustine's",
+                  "text": "St Augustine's is a local place of worship in the town of Solihull.",
+                  "category": "religious",
+                  "coords": [
+                        -1.781213,
+                        52.413867
+                  ]
+            },
+            {
+                  "name": "Art Gallery",
+                  "text": "The Art Gallery is a cultural arts centre situated in Solihull.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.780153,
+                        52.411897
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "GB",
     name: { de: "Solihull", hu: "Solihull", ro: "Solihull", en: "Solihull" },
@@ -94502,7 +95393,340 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
     image: "/poi-images/uk-solihull-cities-v2.webp",
   },
   {
-    id: "uk-high-wycombe-cities-v2",
+    id: "uk-high-wycombe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hospital of Saint John The Baptist",
+                  "text": "Das Hospital of Saint John The Baptist umfasst historische Ruinen in High Wycombe.",
+                  "category": "historical",
+                  "coords": [
+                        -0.744193,
+                        51.627585
+                  ]
+            },
+            {
+                  "name": "St Francis Of Assisi Terriers",
+                  "text": "St Francis Of Assisi Terriers ist eine lokale Kultstätte in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.733713,
+                        51.642325
+                  ]
+            },
+            {
+                  "name": "Trinity United Reform Church",
+                  "text": "Die Trinity United Reform Church ist ein religiöses Gebäude in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.743122,
+                        51.627324
+                  ]
+            },
+            {
+                  "name": "St Anne's Wycombe Marsh",
+                  "text": "St Anne's Wycombe Marsh ist eine Kirche und Kultstätte in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.717185,
+                        51.619106
+                  ]
+            },
+            {
+                  "name": "St Mary and St George's Church",
+                  "text": "Die St Mary and St George's Church ist eine bedeutende Kirche in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.776895,
+                        51.633727
+                  ]
+            },
+            {
+                  "name": "St Andrew's Church",
+                  "text": "Die St Andrew's Church ist eine lokale Kultstätte in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.722586,
+                        51.627871
+                  ]
+            },
+            {
+                  "name": "Friends Meeting House",
+                  "text": "Das Friends Meeting House dient als religiöse Begegnungsstätte in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.741949,
+                        51.626843
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "Castle Hill ist eine archäologische Stätte in High Wycombe.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748567,
+                        51.631345
+                  ]
+            },
+            {
+                  "name": "Kraftinwood Gallery",
+                  "text": "Die Kraftinwood Gallery ist eine Kunstgalerie in High Wycombe.",
+                  "category": "museum",
+                  "coords": [
+                        -0.773058,
+                        51.63491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hospital of Saint John The Baptist",
+                  "text": "A Keresztelő Szent János Kórház történelmi romjai High Wycombe városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -0.744193,
+                        51.627585
+                  ]
+            },
+            {
+                  "name": "St Francis Of Assisi Terriers",
+                  "text": "A St Francis Of Assisi Terriers egy helyi istentiszteleti hely High Wycombe-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.733713,
+                        51.642325
+                  ]
+            },
+            {
+                  "name": "Trinity United Reform Church",
+                  "text": "A Trinity United Reform Church egy vallási helyszín High Wycombe városában.",
+                  "category": "religious",
+                  "coords": [
+                        -0.743122,
+                        51.627324
+                  ]
+            },
+            {
+                  "name": "St Anne's Wycombe Marsh",
+                  "text": "A St Anne's Wycombe Marsh egy istentiszteleti hely High Wycombe-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.717185,
+                        51.619106
+                  ]
+            },
+            {
+                  "name": "St Mary and St George's Church",
+                  "text": "A St Mary and St George's Church egy nevezetes templom High Wycombe-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.776895,
+                        51.633727
+                  ]
+            },
+            {
+                  "name": "St Andrew's Church",
+                  "text": "A St Andrew's Church egy istentiszteleti hely High Wycombe városában.",
+                  "category": "religious",
+                  "coords": [
+                        -0.722586,
+                        51.627871
+                  ]
+            },
+            {
+                  "name": "Friends Meeting House",
+                  "text": "A Friends Meeting House egy vallási gyülekezeti hely High Wycombe-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.741949,
+                        51.626843
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "A Castle Hill egy régészeti lelőhely High Wycombe városában.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748567,
+                        51.631345
+                  ]
+            },
+            {
+                  "name": "Kraftinwood Gallery",
+                  "text": "A Kraftinwood Gallery egy művészeti galéria High Wycombe városában.",
+                  "category": "museum",
+                  "coords": [
+                        -0.773058,
+                        51.63491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hospital of Saint John The Baptist",
+                  "text": "Hospital of Saint John The Baptist constă din ruine istorice situate în High Wycombe.",
+                  "category": "historical",
+                  "coords": [
+                        -0.744193,
+                        51.627585
+                  ]
+            },
+            {
+                  "name": "St Francis Of Assisi Terriers",
+                  "text": "St Francis Of Assisi Terriers este un lăcaș de cult local din High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.733713,
+                        51.642325
+                  ]
+            },
+            {
+                  "name": "Trinity United Reform Church",
+                  "text": "Trinity United Reform Church este o biserică situată în High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.743122,
+                        51.627324
+                  ]
+            },
+            {
+                  "name": "St Anne's Wycombe Marsh",
+                  "text": "St Anne's Wycombe Marsh este un loc de rugăciune aflat în High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.717185,
+                        51.619106
+                  ]
+            },
+            {
+                  "name": "St Mary and St George's Church",
+                  "text": "Biserica St Mary și St George este un lăcaș de cult important din High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.776895,
+                        51.633727
+                  ]
+            },
+            {
+                  "name": "St Andrew's Church",
+                  "text": "St Andrew's Church este un lăcaș de cult local situat în High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.722586,
+                        51.627871
+                  ]
+            },
+            {
+                  "name": "Friends Meeting House",
+                  "text": "Friends Meeting House servește ca lăcaș de cult în High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.741949,
+                        51.626843
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "Castle Hill este un sit arheologic situat în High Wycombe.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748567,
+                        51.631345
+                  ]
+            },
+            {
+                  "name": "Kraftinwood Gallery",
+                  "text": "Kraftinwood Gallery este o galerie de artă din High Wycombe.",
+                  "category": "museum",
+                  "coords": [
+                        -0.773058,
+                        51.63491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hospital of Saint John The Baptist",
+                  "text": "The Hospital of Saint John The Baptist consists of historic ruins located in High Wycombe.",
+                  "category": "historical",
+                  "coords": [
+                        -0.744193,
+                        51.627585
+                  ]
+            },
+            {
+                  "name": "St Francis Of Assisi Terriers",
+                  "text": "St Francis Of Assisi Terriers is a local place of worship situated in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.733713,
+                        51.642325
+                  ]
+            },
+            {
+                  "name": "Trinity United Reform Church",
+                  "text": "Trinity United Reform Church is a religious site located in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.743122,
+                        51.627324
+                  ]
+            },
+            {
+                  "name": "St Anne's Wycombe Marsh",
+                  "text": "St Anne's Wycombe Marsh is a place of worship found in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.717185,
+                        51.619106
+                  ]
+            },
+            {
+                  "name": "St Mary and St George's Church",
+                  "text": "St Mary and St George's Church is a notable place of worship located in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.776895,
+                        51.633727
+                  ]
+            },
+            {
+                  "name": "St Andrew's Church",
+                  "text": "St Andrew's Church is a local place of worship in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.722586,
+                        51.627871
+                  ]
+            },
+            {
+                  "name": "Friends Meeting House",
+                  "text": "The Friends Meeting House serves as a place of worship in High Wycombe.",
+                  "category": "religious",
+                  "coords": [
+                        -0.741949,
+                        51.626843
+                  ]
+            },
+            {
+                  "name": "Castle Hill",
+                  "text": "Castle Hill is an archaeological site located in High Wycombe.",
+                  "category": "historical",
+                  "coords": [
+                        -0.748567,
+                        51.631345
+                  ]
+            },
+            {
+                  "name": "Kraftinwood Gallery",
+                  "text": "Kraftinwood Gallery is an art gallery found in High Wycombe.",
+                  "category": "museum",
+                  "coords": [
+                        -0.773058,
+                        51.63491
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "GB",
     name: { de: "High Wycombe", hu: "High Wycombe", ro: "High Wycombe", en: "High Wycombe" },

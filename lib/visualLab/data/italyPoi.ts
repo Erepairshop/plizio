@@ -12348,6 +12348,60 @@ export const italyCities: POI[] = [
                         15.302082,
                         37.874181
                   ]
+            },
+            {
+                  "name": "Museo Archeologico",
+                  "text": "Das Museo Archeologico in Taormina beherbergt eine Sammlung lokaler antiker Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        15.283025,
+                        37.852041
+                  ]
+            },
+            {
+                  "name": "Riserva naturale orientata Isola Bella",
+                  "text": "Das Naturreservat Isola Bella ist ein geschütztes Gebiet vor der Küste von Taormina, das für seine landschaftliche Schönheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.302455,
+                        37.849549
+                  ]
+            },
+            {
+                  "name": "Grotta Azzurra",
+                  "text": "Die Grotta Azzurra ist eine beeindruckende Meereshöhle und Touristenattraktion nahe Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304916,
+                        37.851804
+                  ]
+            },
+            {
+                  "name": "ex chiesa di San Giovanni di Malta",
+                  "text": "Die ex chiesa di San Giovanni di Malta ist eine historische Sehenswürdigkeit in Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.284216,
+                        37.851285
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolò di Bari",
+                  "text": "Chiesa di San Nicolò di Bari ist eine lokale Kultstätte in Taormina.",
+                  "category": "religious",
+                  "coords": [
+                        15.277163,
+                        37.858427
+                  ]
+            },
+            {
+                  "name": "Castello di Castelmola",
+                  "text": "Das Castello di Castelmola ist eine alte Burgruine, die malerische Ausblicke über Taormina bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.277354,
+                        37.859366
+                  ]
             }
       ],
       "hu": [
@@ -12367,6 +12421,60 @@ export const italyCities: POI[] = [
                   "coords": [
                         15.302082,
                         37.874181
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico",
+                  "text": "A taorminai Museo Archeologico a helyi ókori leletek gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        15.283025,
+                        37.852041
+                  ]
+            },
+            {
+                  "name": "Riserva naturale orientata Isola Bella",
+                  "text": "A Isola Bella természetvédelmi terület Taormina partjainál fekszik, és festői szépségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.302455,
+                        37.849549
+                  ]
+            },
+            {
+                  "name": "Grotta Azzurra",
+                  "text": "A Grotta Azzurra egy lenyűgöző tengeri barlang és turisztikai látványosság Taormina közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304916,
+                        37.851804
+                  ]
+            },
+            {
+                  "name": "ex chiesa di San Giovanni di Malta",
+                  "text": "Az egykori San Giovanni di Malta templom egy történelmi látványosság Taorminában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.284216,
+                        37.851285
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolò di Bari",
+                  "text": "A Chiesa di San Nicolò di Bari egy helyi istentiszteleti hely Taorminában.",
+                  "category": "religious",
+                  "coords": [
+                        15.277163,
+                        37.858427
+                  ]
+            },
+            {
+                  "name": "Castello di Castelmola",
+                  "text": "A Castello di Castelmola egy ősi várrom, amely festői kilátást nyújt Taormina felett.",
+                  "category": "landmark",
+                  "coords": [
+                        15.277354,
+                        37.859366
                   ]
             }
       ],
@@ -12388,6 +12496,60 @@ export const italyCities: POI[] = [
                         15.302082,
                         37.874181
                   ]
+            },
+            {
+                  "name": "Museo Archeologico",
+                  "text": "Museo Archeologico din Taormina găzduiește o colecție de artefacte antice locale.",
+                  "category": "museum",
+                  "coords": [
+                        15.283025,
+                        37.852041
+                  ]
+            },
+            {
+                  "name": "Riserva naturale orientata Isola Bella",
+                  "text": "Rezervația naturală Isola Bella este o arie protejată situată în largul coastei Taormina, renumită pentru frumusețea ei.",
+                  "category": "natural",
+                  "coords": [
+                        15.302455,
+                        37.849549
+                  ]
+            },
+            {
+                  "name": "Grotta Azzurra",
+                  "text": "Grotta Azzurra este o peșteră marină impresionantă și o atracție turistică lângă Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304916,
+                        37.851804
+                  ]
+            },
+            {
+                  "name": "ex chiesa di San Giovanni di Malta",
+                  "text": "Fosta biserică San Giovanni di Malta este o atracție istorică din Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.284216,
+                        37.851285
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolò di Bari",
+                  "text": "Chiesa di San Nicolò di Bari este un lăcaș de cult local din Taormina.",
+                  "category": "religious",
+                  "coords": [
+                        15.277163,
+                        37.858427
+                  ]
+            },
+            {
+                  "name": "Castello di Castelmola",
+                  "text": "Castello di Castelmola este o ruină a unui vechi castel care oferă vederi pitorești deasupra orașului Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.277354,
+                        37.859366
+                  ]
             }
       ],
       "en": [
@@ -12407,6 +12569,60 @@ export const italyCities: POI[] = [
                   "coords": [
                         15.302082,
                         37.874181
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico",
+                  "text": "The Museo Archeologico in Taormina houses a collection of local ancient artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        15.283025,
+                        37.852041
+                  ]
+            },
+            {
+                  "name": "Riserva naturale orientata Isola Bella",
+                  "text": "The Isola Bella nature reserve is a protected area off the coast of Taormina known for its scenic beauty.",
+                  "category": "natural",
+                  "coords": [
+                        15.302455,
+                        37.849549
+                  ]
+            },
+            {
+                  "name": "Grotta Azzurra",
+                  "text": "The Grotta Azzurra is a stunning sea cave and popular tourist attraction near Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.304916,
+                        37.851804
+                  ]
+            },
+            {
+                  "name": "ex chiesa di San Giovanni di Malta",
+                  "text": "The ex chiesa di San Giovanni di Malta is a historic attraction located in Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.284216,
+                        37.851285
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolò di Bari",
+                  "text": "Chiesa di San Nicolò di Bari is a local place of worship in Taormina.",
+                  "category": "religious",
+                  "coords": [
+                        15.277163,
+                        37.858427
+                  ]
+            },
+            {
+                  "name": "Castello di Castelmola",
+                  "text": "Castello di Castelmola is an ancient castle ruin offering scenic views above Taormina.",
+                  "category": "landmark",
+                  "coords": [
+                        15.277354,
+                        37.859366
                   ]
             }
       ]

@@ -6556,7 +6556,340 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-tvrdošín-wooden-church-history-v2.webp",
   },
   {
-    id: "slovakia-podolinec-town-history-v2",
+    id: "slovakia-podolinec-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bašta",
+                  "text": "Bašta ist ein historischer Turm in Podolínec City.",
+                  "category": "tower",
+                  "coords": [
+                        20.535792,
+                        49.259066
+                  ]
+            },
+            {
+                  "name": "Piaristický kláštor",
+                  "text": "Das Piaristický kláštor ist ein lokales Kloster in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.537349,
+                        49.25875
+                  ]
+            },
+            {
+                  "name": "Radnica",
+                  "text": "Radnica ist ein historisches Schlossgebäude in Podolínec City.",
+                  "category": "castle",
+                  "coords": [
+                        20.532742,
+                        49.256624
+                  ]
+            },
+            {
+                  "name": "Anna",
+                  "text": "Anna ist ein Berggipfel in der Nähe von Podolínec City.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544731,
+                        49.28081
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Anny",
+                  "text": "Kostol sv. Anny ist eine Kultstätte in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.543776,
+                        49.265002
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Jána Nepomuckého",
+                  "text": "Kaplnka sv. Jána Nepomuckého ist eine Kultstätte in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.531564,
+                        49.256617
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "Kostol Nanebovzatia Panny Márie ist eine Kirche in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.535384,
+                        49.25803
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala  archanjela",
+                  "text": "Kostol sv. Michala archanjela ist eine Kultstätte in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.49289,
+                        49.2637
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Die Evanjelický a. v. kostol ist eine Kultstätte in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.492748,
+                        49.262053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bašta",
+                  "text": "A Bašta egy történelmi torony Podolin városában.",
+                  "category": "tower",
+                  "coords": [
+                        20.535792,
+                        49.259066
+                  ]
+            },
+            {
+                  "name": "Piaristický kláštor",
+                  "text": "A Piaristický kláštor egy kolostor Podolin városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.537349,
+                        49.25875
+                  ]
+            },
+            {
+                  "name": "Radnica",
+                  "text": "A Radnica egy kastélyszerű épület Podolin városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.532742,
+                        49.256624
+                  ]
+            },
+            {
+                  "name": "Anna",
+                  "text": "Az Anna egy hegycsúcs Podolin városa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544731,
+                        49.28081
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Anny",
+                  "text": "A Kostol sv. Anny egy helyi istentiszteleti hely Podolinban.",
+                  "category": "religious",
+                  "coords": [
+                        20.543776,
+                        49.265002
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Jána Nepomuckého",
+                  "text": "A Kaplnka sv. Jána Nepomuckého egy vallási kápolna Podolin városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.531564,
+                        49.256617
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "A Kostol Nanebovzatia Panny Márie egy templom Podolinban.",
+                  "category": "religious",
+                  "coords": [
+                        20.535384,
+                        49.25803
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala  archanjela",
+                  "text": "A Kostol sv. Michala archanjela egy istentiszteleti hely Podolinban.",
+                  "category": "religious",
+                  "coords": [
+                        20.49289,
+                        49.2637
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Az Evanjelický a. v. kostol egy istentiszteleti hely Podolinban.",
+                  "category": "religious",
+                  "coords": [
+                        20.492748,
+                        49.262053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bašta",
+                  "text": "Bašta este un turn istoric situat în Podolínec City.",
+                  "category": "tower",
+                  "coords": [
+                        20.535792,
+                        49.259066
+                  ]
+            },
+            {
+                  "name": "Piaristický kláštor",
+                  "text": "Piaristický kláštor este o mănăstire situată în Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.537349,
+                        49.25875
+                  ]
+            },
+            {
+                  "name": "Radnica",
+                  "text": "Radnica este o clădire istorică tip castel din Podolínec City.",
+                  "category": "castle",
+                  "coords": [
+                        20.532742,
+                        49.256624
+                  ]
+            },
+            {
+                  "name": "Anna",
+                  "text": "Anna este un vârf montan proeminent situat lângă Podolínec City.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544731,
+                        49.28081
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Anny",
+                  "text": "Kostol sv. Anny este un lăcaș de cult în Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.543776,
+                        49.265002
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Jána Nepomuckého",
+                  "text": "Kaplnka sv. Jána Nepomuckého este un lăcaș de cult în Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.531564,
+                        49.256617
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "Kostol Nanebovzatia Panny Márie este un lăcaș de cult din Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.535384,
+                        49.25803
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala  archanjela",
+                  "text": "Kostol sv. Michala archanjela este un lăcaș de cult local din Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.49289,
+                        49.2637
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Evanjelický a. v. kostol este un lăcaș de cult din Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.492748,
+                        49.262053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bašta",
+                  "text": "Bašta is a historic tower situated in Podolínec City.",
+                  "category": "tower",
+                  "coords": [
+                        20.535792,
+                        49.259066
+                  ]
+            },
+            {
+                  "name": "Piaristický kláštor",
+                  "text": "The Piaristický kláštor is a monastery located in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.537349,
+                        49.25875
+                  ]
+            },
+            {
+                  "name": "Radnica",
+                  "text": "Radnica is a castle-like historic building in Podolínec City.",
+                  "category": "castle",
+                  "coords": [
+                        20.532742,
+                        49.256624
+                  ]
+            },
+            {
+                  "name": "Anna",
+                  "text": "Anna is a mountain peak located near Podolínec City.",
+                  "category": "landmark",
+                  "coords": [
+                        20.544731,
+                        49.28081
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Anny",
+                  "text": "Kostol sv. Anny is a local place of worship in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.543776,
+                        49.265002
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Jána Nepomuckého",
+                  "text": "Kaplnka sv. Jána Nepomuckého is a religious place of worship in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.531564,
+                        49.256617
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "Kostol Nanebovzatia Panny Márie is a place of worship in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.535384,
+                        49.25803
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala  archanjela",
+                  "text": "Kostol sv. Michala archanjela is a local place of worship in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.49289,
+                        49.2637
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "The Evanjelický a. v. kostol is a place of worship situated in Podolínec City.",
+                  "category": "religious",
+                  "coords": [
+                        20.492748,
+                        49.262053
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "SK",
     name: { de: "Stadt Podolínec", hu: "Podolin városa", ro: "Orașul Podolínec", en: "Podolínec City" },

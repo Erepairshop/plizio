@@ -10503,7 +10503,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-belsh-cities-v2",
+    id: "albania-belsh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradishta e Belshit",
+                  "text": "Gradishta e Belshit ist eine archäologische Stätte in Belsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.910703,
+                        40.970481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradishta e Belshit",
+                  "text": "A Gradishta e Belshit egy régészeti lelőhely Belshben.",
+                  "category": "historical",
+                  "coords": [
+                        19.910703,
+                        40.970481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradishta e Belshit",
+                  "text": "Gradishta e Belshit este un sit arheologic situat în Belsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.910703,
+                        40.970481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradishta e Belshit",
+                  "text": "Gradishta e Belshit is an archaeological site located in Belsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.910703,
+                        40.970481
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Belsh", hu: "Belsh", ro: "Belsh", en: "Belsh"},
@@ -12748,7 +12793,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-leskovik-cities-v2.webp",
   },
   {
-    id: "albania-milot-cities-v2",
+    id: "albania-milot-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kisha e Shën Venerandës",
+                  "text": "Die Kirche der Heiligen Veneranda ist eine bekannte Kultstätte in Milot.",
+                  "category": "religious",
+                  "coords": [
+                        19.712666,
+                        41.703327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kisha e Shën Venerandës",
+                  "text": "A Szent Veneranda-templom egy ismert istentiszteleti hely Milotban.",
+                  "category": "religious",
+                  "coords": [
+                        19.712666,
+                        41.703327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kisha e Shën Venerandës",
+                  "text": "Biserica Sfintei Veneranda este un lăcaș de cult cunoscut din Milot.",
+                  "category": "religious",
+                  "coords": [
+                        19.712666,
+                        41.703327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kisha e Shën Venerandës",
+                  "text": "St. Veneranda's Church is a well-known place of worship in Milot.",
+                  "category": "religious",
+                  "coords": [
+                        19.712666,
+                        41.703327
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Milot", hu: "Milot", ro: "Milot", en: "Milot" },
@@ -13225,7 +13315,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-pojan-cities-v2.webp",
   },
   {
-    id: "albania-shupenze-cities-v2",
+    id: "albania-shupenze-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lapidar",
+                  "text": "Der Lapidar ist ein lokales Denkmal in Shupenzë.",
+                  "category": "historical",
+                  "coords": [
+                        20.433937,
+                        41.521152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lapidar",
+                  "text": "A Lapidar egy helyi emlékmű Shupenzë településen.",
+                  "category": "historical",
+                  "coords": [
+                        20.433937,
+                        41.521152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar este un monument situat în Shupenzë.",
+                  "category": "historical",
+                  "coords": [
+                        20.433937,
+                        41.521152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lapidar",
+                  "text": "The Lapidar is a monument located in Shupenzë.",
+                  "category": "historical",
+                  "coords": [
+                        20.433937,
+                        41.521152
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Shupenzë", hu: "Shupenzë", ro: "Shupenzë", en: "Shupenzë" },
@@ -13405,7 +13540,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-shishtavec-cities-v2.webp",
   },
   {
-    id: "albania-bushat-cities-v2",
+    id: "albania-bushat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bushat",
+                  "text": "Eine archäologische Stätte, die die alte Geschichte von Bushat widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        19.542395,
+                        41.980357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bushat",
+                  "text": "A Bushat ókori történelmét tükröző régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        19.542395,
+                        41.980357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bushat",
+                  "text": "Un sit arheologic ce reflectă istoria antică a orașului Bushat.",
+                  "category": "historical",
+                  "coords": [
+                        19.542395,
+                        41.980357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bushat",
+                  "text": "An archaeological site reflecting the ancient history of Bushat.",
+                  "category": "historical",
+                  "coords": [
+                        19.542395,
+                        41.980357
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Bushat", hu: "Bushat", ro: "Bushat", en: "Bushat" },
@@ -14989,7 +15169,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-lukove-cities-v2.webp",
   },
   {
-    id: "albania-frasher-cities-v2",
+    id: "albania-frasher-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vila e Frashërit",
+                  "text": "Die Vila e Frashërit ist ein historisches Haus und eine bedeutende Touristenattraktion in Frashër.",
+                  "category": "landmark",
+                  "coords": [
+                        20.437918,
+                        40.373441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vila e Frashërit",
+                  "text": "A Vila e Frashërit egy történelmi ház és fontos turisztikai látványosság Frashërben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.437918,
+                        40.373441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vila e Frashërit",
+                  "text": "Vila e Frashërit este o casă istorică și o atracție turistică semnificativă din Frashër.",
+                  "category": "landmark",
+                  "coords": [
+                        20.437918,
+                        40.373441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vila e Frashërit",
+                  "text": "The Vila e Frashërit is a historic house and significant tourist attraction in Frashër.",
+                  "category": "landmark",
+                  "coords": [
+                        20.437918,
+                        40.373441
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Frashër", hu: "Frashër", ro: "Frashër", en: "Frashër" },
@@ -15034,7 +15259,88 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-frasher-cities-v2.webp",
   },
   {
-    id: "albania-vithkuq-cities-v2",
+    id: "albania-vithkuq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Kulture",
+                  "text": "Ein Kulturdenkmal in Vithkuq.",
+                  "category": "historical",
+                  "coords": [
+                        20.594344,
+                        40.524663
+                  ]
+            },
+            {
+                  "name": "Manastiri Shën Pjetri",
+                  "text": "Das Kloster Sankt Peter in Vithkuq.",
+                  "category": "religious",
+                  "coords": [
+                        20.599245,
+                        40.531231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Kulture",
+                  "text": "Kulturális műemlék Vithkuqban.",
+                  "category": "historical",
+                  "coords": [
+                        20.594344,
+                        40.524663
+                  ]
+            },
+            {
+                  "name": "Manastiri Shën Pjetri",
+                  "text": "Szent Péter-kolostor Vithkuqban.",
+                  "category": "religious",
+                  "coords": [
+                        20.599245,
+                        40.531231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Kulture",
+                  "text": "Un monument cultural în Vithkuq.",
+                  "category": "historical",
+                  "coords": [
+                        20.594344,
+                        40.524663
+                  ]
+            },
+            {
+                  "name": "Manastiri Shën Pjetri",
+                  "text": "Mănăstirea Sfântul Petru din Vithkuq.",
+                  "category": "religious",
+                  "coords": [
+                        20.599245,
+                        40.531231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Kulture",
+                  "text": "A cultural monument located in Vithkuq.",
+                  "category": "historical",
+                  "coords": [
+                        20.594344,
+                        40.524663
+                  ]
+            },
+            {
+                  "name": "Manastiri Shën Pjetri",
+                  "text": "Saint Peter's Monastery located in Vithkuq.",
+                  "category": "religious",
+                  "coords": [
+                        20.599245,
+                        40.531231
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Vithkuq", hu: "Vithkuq", ro: "Vithkuq", en: "Vithkuq" },
@@ -15376,7 +15682,160 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-xarre-cities-v2.webp",
   },
   {
-    id: "albania-koman-cities-v2",
+    id: "albania-koman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Dalmacës",
+                  "text": "Kalaja e Dalmacës ist eine archäologische Stätte in Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.82926,
+                        42.09351
+                  ]
+            },
+            {
+                  "name": "Catholic Church Ruins",
+                  "text": "Die Catholic Church Ruins sind historische Überreste in Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.83303,
+                        42.090852
+                  ]
+            },
+            {
+                  "name": "Kisha Peshkopale",
+                  "text": "Kisha Peshkopale umfasst alte Ruinen in Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.830757,
+                        42.092021
+                  ]
+            },
+            {
+                  "name": "Komani Lake",
+                  "text": "Komani Lake ist eine natürliche Sehenswürdigkeit in Koman.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826152,
+                        42.108643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Dalmacës",
+                  "text": "A Kalaja e Dalmacës egy régészeti lelőhely Komanban.",
+                  "category": "historical",
+                  "coords": [
+                        19.82926,
+                        42.09351
+                  ]
+            },
+            {
+                  "name": "Catholic Church Ruins",
+                  "text": "A Catholic Church Ruins egy történelmi romterület Komanban.",
+                  "category": "historical",
+                  "coords": [
+                        19.83303,
+                        42.090852
+                  ]
+            },
+            {
+                  "name": "Kisha Peshkopale",
+                  "text": "A Kisha Peshkopale ősi romokat foglal magában Komanban.",
+                  "category": "historical",
+                  "coords": [
+                        19.830757,
+                        42.092021
+                  ]
+            },
+            {
+                  "name": "Komani Lake",
+                  "text": "A Komani Lake egy természeti látványosság Komanban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826152,
+                        42.108643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Dalmacës",
+                  "text": "Kalaja e Dalmacës este un sit arheologic situat în Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.82926,
+                        42.09351
+                  ]
+            },
+            {
+                  "name": "Catholic Church Ruins",
+                  "text": "Catholic Church Ruins sunt niște ruine istorice aflate în Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.83303,
+                        42.090852
+                  ]
+            },
+            {
+                  "name": "Kisha Peshkopale",
+                  "text": "Kisha Peshkopale prezintă ruine antice situate în Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.830757,
+                        42.092021
+                  ]
+            },
+            {
+                  "name": "Komani Lake",
+                  "text": "Komani Lake este o atracție naturală situată în Koman.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826152,
+                        42.108643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Dalmacës",
+                  "text": "Kalaja e Dalmacës is an archaeological site situated in Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.82926,
+                        42.09351
+                  ]
+            },
+            {
+                  "name": "Catholic Church Ruins",
+                  "text": "The Catholic Church Ruins are historical remains found in Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.83303,
+                        42.090852
+                  ]
+            },
+            {
+                  "name": "Kisha Peshkopale",
+                  "text": "Kisha Peshkopale features ancient ruins located in Koman.",
+                  "category": "historical",
+                  "coords": [
+                        19.830757,
+                        42.092021
+                  ]
+            },
+            {
+                  "name": "Komani Lake",
+                  "text": "Komani Lake is a natural attraction situated in Koman.",
+                  "category": "landmark",
+                  "coords": [
+                        19.826152,
+                        42.108643
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Koman", hu: "Koman", ro: "Koman", en: "Koman" },
@@ -15530,6 +15989,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.509796,
                         41.284685
                   ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "Die Basilica of Saint Michael ist eine historische Basilika in Arapaj.",
+                  "category": "landmark",
+                  "coords": [
+                        19.50562,
+                        41.301394
+                  ]
             }
       ],
       "hu": [
@@ -15549,6 +16017,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.509796,
                         41.284685
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "A Szent Mihály-bazilika egy történelmi látványosság Arapaj településén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.50562,
+                        41.301394
                   ]
             }
       ],
@@ -15570,6 +16047,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.509796,
                         41.284685
                   ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "Basilica of Saint Michael este o atracție istorică din Arapaj.",
+                  "category": "landmark",
+                  "coords": [
+                        19.50562,
+                        41.301394
+                  ]
             }
       ],
       "en": [
@@ -15589,6 +16075,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.509796,
                         41.284685
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "The Basilica of Saint Michael is a historic attraction located in Arapaj.",
+                  "category": "landmark",
+                  "coords": [
+                        19.50562,
+                        41.301394
                   ]
             }
       ]
@@ -16024,7 +16519,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-farke-cities-v2.webp",
   },
   {
-    id: "albania-vaqarr-cities-v2",
+    id: "albania-vaqarr-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lalm Castle",
+                  "text": "Das Lalm Castle ist eine lokale Sehenswürdigkeit in Vaqarr.",
+                  "category": "landmark",
+                  "coords": [
+                        19.729694,
+                        41.304248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lalm Castle",
+                  "text": "A Lalm Castle egy helyi látványosság Vaqarrban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.729694,
+                        41.304248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lalm Castle",
+                  "text": "Lalm Castle este o atracție turistică situată în Vaqarr.",
+                  "category": "landmark",
+                  "coords": [
+                        19.729694,
+                        41.304248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lalm Castle",
+                  "text": "Lalm Castle is a local attraction situated in Vaqarr.",
+                  "category": "landmark",
+                  "coords": [
+                        19.729694,
+                        41.304248
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Vaqarr", hu: "Vaqarr", ro: "Vaqarr", en: "Vaqarr" },
@@ -16114,7 +16654,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-balldushk-cities-v2.webp",
   },
   {
-    id: "albania-krrabe-cities-v2",
+    id: "albania-krrabe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cyclops Eye Natural Pools",
+                  "text": "Die natürlichen Pools Cyclops Eye in Krrabë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.984471,
+                        41.234022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cyclops Eye Natural Pools",
+                  "text": "A Cyclops Eye természetes medencéi Krrabë közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.984471,
+                        41.234022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cyclops Eye Natural Pools",
+                  "text": "Piscinele naturale Ochiul Ciclopului din Krrabë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.984471,
+                        41.234022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyclops Eye Natural Pools",
+                  "text": "The Cyclops Eye natural pools, a scenic attraction in Krrabë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.984471,
+                        41.234022
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Krrabë", hu: "Krrabë", ro: "Krrabë", en: "Krrabë" },

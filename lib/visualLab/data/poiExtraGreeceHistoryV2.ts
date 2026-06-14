@@ -3094,7 +3094,160 @@ imageHint: "Archaeological ruins and basilicas of Philippi",
     },
     image: "/poi-images/greece-philippi-history-v2.webp",
 },  {
-    id: "greece-monemvasia-history-v2",
+    id: "greece-monemvasia-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Christ Elkomenos",
+                  "text": "Die Church of Christ Elkomenos ist eine ikonische Kirche in Monemvasia.",
+                  "category": "religious",
+                  "coords": [
+                        23.055637,
+                        36.687574
+                  ]
+            },
+            {
+                  "name": "Aghia Sofia",
+                  "text": "Aghia Sofia ist eine historische Kultstätte in Monemvasia.",
+                  "category": "religious",
+                  "coords": [
+                        23.054549,
+                        36.689659
+                  ]
+            },
+            {
+                  "name": "Κινστέρνα \"Καράβι\" ή \"Galera\"",
+                  "text": "Κινστέρνα „Καράβι“ ή „Galera“ umfasst historische Ruinen in Monemvasia.",
+                  "category": "historical",
+                  "coords": [
+                        23.052311,
+                        36.687663
+                  ]
+            },
+            {
+                  "name": "Kritikos' ruined house",
+                  "text": "Kritikos' ruined house ist eine historische Ruinenstätte in Monemvasia.",
+                  "category": "historical",
+                  "coords": [
+                        23.053963,
+                        36.687389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Christ Elkomenos",
+                  "text": "A Church of Christ Elkomenos egy ikonikus templom Monemvasziában.",
+                  "category": "religious",
+                  "coords": [
+                        23.055637,
+                        36.687574
+                  ]
+            },
+            {
+                  "name": "Aghia Sofia",
+                  "text": "Az Aghia Sofia egy történelmi vallási helyszín Monemvasziában.",
+                  "category": "religious",
+                  "coords": [
+                        23.054549,
+                        36.689659
+                  ]
+            },
+            {
+                  "name": "Κινστέρνα \"Καράβι\" ή \"Galera\"",
+                  "text": "A Κινστέρνα \"Καράβι\" vagy \"Galera\" történelmi romokat jelöl Monemvasziában.",
+                  "category": "historical",
+                  "coords": [
+                        23.052311,
+                        36.687663
+                  ]
+            },
+            {
+                  "name": "Kritikos' ruined house",
+                  "text": "A Kritikos' ruined house egy romépület, amely Monemvasziában található.",
+                  "category": "historical",
+                  "coords": [
+                        23.053963,
+                        36.687389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Christ Elkomenos",
+                  "text": "Church of Christ Elkomenos este o biserică reprezentativă situată în Monemvasia.",
+                  "category": "religious",
+                  "coords": [
+                        23.055637,
+                        36.687574
+                  ]
+            },
+            {
+                  "name": "Aghia Sofia",
+                  "text": "Aghia Sofia este un lăcaș de cult istoric din Monemvasia.",
+                  "category": "religious",
+                  "coords": [
+                        23.054549,
+                        36.689659
+                  ]
+            },
+            {
+                  "name": "Κινστέρνα \"Καράβι\" ή \"Galera\"",
+                  "text": "Κινστέρνα „Καράβι” sau „Galera” prezintă ruine istorice în orașul Monemvasia.",
+                  "category": "historical",
+                  "coords": [
+                        23.052311,
+                        36.687663
+                  ]
+            },
+            {
+                  "name": "Kritikos' ruined house",
+                  "text": "Kritikos' ruined house reprezintă un ansamblu de ruine istorice din Monemvasia.",
+                  "category": "historical",
+                  "coords": [
+                        23.053963,
+                        36.687389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Christ Elkomenos",
+                  "text": "Church of Christ Elkomenos is an iconic church located in Monemvasia.",
+                  "category": "religious",
+                  "coords": [
+                        23.055637,
+                        36.687574
+                  ]
+            },
+            {
+                  "name": "Aghia Sofia",
+                  "text": "Aghia Sofia is a historic place of worship situated in Monemvasia.",
+                  "category": "religious",
+                  "coords": [
+                        23.054549,
+                        36.689659
+                  ]
+            },
+            {
+                  "name": "Κινστέρνα \"Καράβι\" ή \"Galera\"",
+                  "text": "Κινστέρνα \"Καράβι\" ή \"Galera\" features ancient ruins in the town of Monemvasia.",
+                  "category": "historical",
+                  "coords": [
+                        23.052311,
+                        36.687663
+                  ]
+            },
+            {
+                  "name": "Kritikos' ruined house",
+                  "text": "Kritikos' ruined house is a set of historical ruins located in Monemvasia.",
+                  "category": "historical",
+                  "coords": [
+                        23.053963,
+                        36.687389
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "town",
     name: { de: "Monemvasia", hu: "Monemvaszia", ro: "Monemvasia", en: "Monemvasia"},

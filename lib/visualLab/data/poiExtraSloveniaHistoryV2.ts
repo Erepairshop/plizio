@@ -2318,7 +2318,52 @@ imageHint: "Historical castle building in the city center of Maribor",
     },
     image: "/poi-images/slovenia-maribor-castle-history-v2.webp",
 },  {
-    id: "slovenia-stanjel-history-v2",
+    id: "slovenia-stanjel-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Matija Vertovec",
+                  "text": "Eine Attraktion namens Matija Vertovec in Štanjel.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85938,
+                        45.842126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Matija Vertovec",
+                  "text": "Egy Matija Vertovec nevű látványosság Štanjel településén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85938,
+                        45.842126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Matija Vertovec",
+                  "text": "O atracție cunoscută sub numele de Matija Vertovec situată în Štanjel.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85938,
+                        45.842126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Matija Vertovec",
+                  "text": "An attraction known as Matija Vertovec located in Štanjel.",
+                  "category": "landmark",
+                  "coords": [
+                        13.85938,
+                        45.842126
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "village",
     name: { de: "Štanjel", hu: "Štanjel", ro: "Štanjel", en: "Štanjel"},

@@ -3297,7 +3297,232 @@ imageHint: "Battle of Saulė memorial wooden sculptures",
     },
     image: "/poi-images/lithuania-saule-battlefield-history-v2.webp",
 },  {
-    id: "lithuania-varniai-diocese-history-v2",
+    id: "lithuania-varniai-diocese-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Žemaičių vyskupystės muziejus",
+                  "text": "Das Žemaičių vyskupystės muziejus ist ein Museum, das das religiöse Erbe von Varniai erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        22.372267,
+                        55.74407
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia",
+                  "text": "Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia ist eine markante Kirche in Varniai, die den Heiligen Petrus und Paulus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.370048,
+                        55.743773
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. Aleksandro bažnyčia",
+                  "text": "Varnių Šv. Aleksandro bažnyčia ist eine historische Holzkirche in Varniai, die dem Heiligen Alexander gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.369018,
+                        55.741339
+                  ]
+            },
+            {
+                  "name": "Debesnų botaninio tako apžvalgos bokštelis",
+                  "text": "Dieser Aussichtsturm bietet einen Panoramablick über den botanischen Pfad Debesnos in Varniai.",
+                  "category": "natural",
+                  "coords": [
+                        22.351797,
+                        55.737773
+                  ]
+            },
+            {
+                  "name": "Varnių regioninio parko ekspozicija Septyni keliai iš Varnių",
+                  "text": "Diese Museumsausstellung beleuchtet die natürlichen und kulturellen Wege des Regionalparks Varniai.",
+                  "category": "museum",
+                  "coords": [
+                        22.384214,
+                        55.732251
+                  ]
+            },
+            {
+                  "name": "Lūksto gintarų takas",
+                  "text": "Lūksto gintarų takas ist eine einzigartige Touristenattraktion in Varniai, die sich um lokalen Bernstein dreht.",
+                  "category": "landmark",
+                  "coords": [
+                        22.341324,
+                        55.724603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Žemaičių vyskupystės muziejus",
+                  "text": "A Žemaičių vyskupystės muziejus a varniai vallási örökséget bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.372267,
+                        55.74407
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia",
+                  "text": "A Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia egy Szent Péternek és Pálnak szentelt jelentős templom Varniaiban.",
+                  "category": "religious",
+                  "coords": [
+                        22.370048,
+                        55.743773
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. Aleksandro bažnyčia",
+                  "text": "A Varnių Šv. Aleksandro bažnyčia egy történelmi fatemplom Varniaiban, amelyet Szent Sándornak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.369018,
+                        55.741339
+                  ]
+            },
+            {
+                  "name": "Debesnų botaninio tako apžvalgos bokštelis",
+                  "text": "Ez a kilátótorony panorámás kilátást nyújt a Debesnos botanikai ösvényre Varniaiban.",
+                  "category": "natural",
+                  "coords": [
+                        22.351797,
+                        55.737773
+                  ]
+            },
+            {
+                  "name": "Varnių regioninio parko ekspozicija Septyni keliai iš Varnių",
+                  "text": "Ez a múzeumi kiállítás a Varniai Regionális Park természeti és kulturális útvonalait emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        22.384214,
+                        55.732251
+                  ]
+            },
+            {
+                  "name": "Lūksto gintarų takas",
+                  "text": "A Lūksto gintarų takas egy egyedülálló, a helyi borostyánhoz kapcsolódó turisztikai látványosság Varniaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.341324,
+                        55.724603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Žemaičių vyskupystės muziejus",
+                  "text": "Žemaičių vyskupystės muziejus este un muzeu care explorează moștenirea religioasă din Varniai.",
+                  "category": "museum",
+                  "coords": [
+                        22.372267,
+                        55.74407
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia",
+                  "text": "Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia este o biserică proeminentă închinată Sfinților Petru și Pavel din Varniai.",
+                  "category": "religious",
+                  "coords": [
+                        22.370048,
+                        55.743773
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. Aleksandro bažnyčia",
+                  "text": "Varnių Šv. Aleksandro bažnyčia este o biserică istorică din lemn închinată Sfântului Alexandru din Varniai.",
+                  "category": "religious",
+                  "coords": [
+                        22.369018,
+                        55.741339
+                  ]
+            },
+            {
+                  "name": "Debesnų botaninio tako apžvalgos bokštelis",
+                  "text": "Acest turn de observație oferă un punct de belvedere panoramic asupra traseului botanic Debesnos din Varniai.",
+                  "category": "natural",
+                  "coords": [
+                        22.351797,
+                        55.737773
+                  ]
+            },
+            {
+                  "name": "Varnių regioninio parko ekspozicija Septyni keliai iš Varnių",
+                  "text": "Această expoziție muzeală evidențiază traseele naturale și culturale ale Parcului Regional Varniai.",
+                  "category": "museum",
+                  "coords": [
+                        22.384214,
+                        55.732251
+                  ]
+            },
+            {
+                  "name": "Lūksto gintarų takas",
+                  "text": "Lūksto gintarų takas este o atracție turistică unică centrată în jurul chihlimbarului local din Varniai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.341324,
+                        55.724603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Žemaičių vyskupystės muziejus",
+                  "text": "Žemaičių vyskupystės muziejus is a museum exploring the religious heritage of Varniai.",
+                  "category": "museum",
+                  "coords": [
+                        22.372267,
+                        55.74407
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia",
+                  "text": "Varnių Šv. apaštalų Petro ir Pauliaus bažnyčia is a prominent church dedicated to Saints Peter and Paul in Varniai.",
+                  "category": "religious",
+                  "coords": [
+                        22.370048,
+                        55.743773
+                  ]
+            },
+            {
+                  "name": "Varnių Šv. Aleksandro bažnyčia",
+                  "text": "Varnių Šv. Aleksandro bažnyčia is a historic wooden church dedicated to St. Alexander in Varniai.",
+                  "category": "religious",
+                  "coords": [
+                        22.369018,
+                        55.741339
+                  ]
+            },
+            {
+                  "name": "Debesnų botaninio tako apžvalgos bokštelis",
+                  "text": "This observation tower offers a panoramic viewpoint over the Debesnos botanical trail in Varniai.",
+                  "category": "natural",
+                  "coords": [
+                        22.351797,
+                        55.737773
+                  ]
+            },
+            {
+                  "name": "Varnių regioninio parko ekspozicija Septyni keliai iš Varnių",
+                  "text": "This museum exposition highlights the natural and cultural pathways of the Varniai Regional Park.",
+                  "category": "museum",
+                  "coords": [
+                        22.384214,
+                        55.732251
+                  ]
+            },
+            {
+                  "name": "Lūksto gintarų takas",
+                  "text": "Lūksto gintarų takas is a unique tourist attraction centered around local amber in Varniai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.341324,
+                        55.724603
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "town",
     name: { de: "Varniai (Bistum Samogitien)", hu: "Varniai (Szamogit püspökség)", ro: "Varniai (Episcopia Samogitiei)", en: "Varniai (Samogitian Diocese)"},

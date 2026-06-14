@@ -15085,6 +15085,33 @@ export const romaniaCities: POI[] = [
                         26.011649,
                         44.502876
                   ]
+            },
+            {
+                  "name": "Ghețărie",
+                  "text": "Ghețărie ist ein historisches Gebäude in Form einer kleinen Burg auf dem Gelände des Palastes von Mogoșoaia.",
+                  "category": "castle",
+                  "coords": [
+                        25.992546,
+                        44.528211
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 2 Mogoșoaia",
+                  "text": "Das Fort Nr. 2 Mogoșoaia ist eine ehemalige Verteidigungsanlage in der Nähe des Mogoșoaia-Palastes.",
+                  "category": "fortress",
+                  "coords": [
+                        26.026415,
+                        44.524057
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 1-2",
+                  "text": "Die Bateria Nr. 1-2 ist eine historische Festungsanlage im Bereich des Mogoșoaia-Palastes.",
+                  "category": "fortress",
+                  "coords": [
+                        26.010099,
+                        44.514414
+                  ]
             }
       ],
       "hu": [
@@ -15124,6 +15151,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.011649,
                         44.502876
+                  ]
+            },
+            {
+                  "name": "Ghețărie",
+                  "text": "A Ghețărie egy kastély jellegű történelmi épület a Mogoșoaia-palota területén.",
+                  "category": "castle",
+                  "coords": [
+                        25.992546,
+                        44.528211
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 2 Mogoșoaia",
+                  "text": "A 2-es számú Mogoșoaia Erőd egy egykori védelmi építmény a Mogoșoaia-palota közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        26.026415,
+                        44.524057
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 1-2",
+                  "text": "Az 1-2-es számú üteg egy történelmi erődítmény a Mogoșoaia-palota területén.",
+                  "category": "fortress",
+                  "coords": [
+                        26.010099,
+                        44.514414
                   ]
             }
       ],
@@ -15165,6 +15219,33 @@ export const romaniaCities: POI[] = [
                         26.011649,
                         44.502876
                   ]
+            },
+            {
+                  "name": "Ghețărie",
+                  "text": "Ghețărie este o clădire istorică sub forma unui mic castel, situată pe domeniul Palatului Mogoșoaia.",
+                  "category": "castle",
+                  "coords": [
+                        25.992546,
+                        44.528211
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 2 Mogoșoaia",
+                  "text": "Fortul Nr. 2 Mogoșoaia este o fostă structură de apărare situată în apropierea Palatului Mogoșoaia.",
+                  "category": "fortress",
+                  "coords": [
+                        26.026415,
+                        44.524057
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 1-2",
+                  "text": "Bateria Nr. 1-2 este o fortificație istorică din zona Palatului Mogoșoaia.",
+                  "category": "fortress",
+                  "coords": [
+                        26.010099,
+                        44.514414
+                  ]
             }
       ],
       "en": [
@@ -15204,6 +15285,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.011649,
                         44.502876
+                  ]
+            },
+            {
+                  "name": "Ghețărie",
+                  "text": "Ghețărie is a historic castle-like building located on the grounds of Mogoșoaia Palace.",
+                  "category": "castle",
+                  "coords": [
+                        25.992546,
+                        44.528211
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 2 Mogoșoaia",
+                  "text": "Fortul Nr. 2 Mogoșoaia is a former defensive structure located near the Mogoșoaia Palace.",
+                  "category": "fortress",
+                  "coords": [
+                        26.026415,
+                        44.524057
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 1-2",
+                  "text": "Bateria Nr. 1-2 is a historical fortification situated near the Mogoșoaia Palace.",
+                  "category": "fortress",
+                  "coords": [
+                        26.010099,
+                        44.514414
                   ]
             }
       ]
@@ -39833,6 +39941,33 @@ export const romaniaExtraPois: POI[] = [
                         25.34079,
                         43.97136
                   ]
+            },
+            {
+                  "name": "Catedrala Arhiepiscopală Alexandria",
+                  "text": "Die erzbischöfliche Kathedrale von Alexandria ist eine bedeutende orthodoxe Kultstätte in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        25.330612,
+                        43.967788
+                  ]
+            },
+            {
+                  "name": "Centrul Multifuncțional Pentru Tineri",
+                  "text": "Das Multifunktionszentrum für Jugendliche ist ein Theater in Alexandria.",
+                  "category": "cultural",
+                  "coords": [
+                        25.332238,
+                        43.967557
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Das Casa de Cultură ist ein Theater in Alexandria.",
+                  "category": "cultural",
+                  "coords": [
+                        25.329563,
+                        43.969807
+                  ]
             }
       ],
       "hu": [
@@ -39874,6 +40009,33 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.34079,
                         43.97136
+                  ]
+            },
+            {
+                  "name": "Catedrala Arhiepiscopală Alexandria",
+                  "text": "Az Alexandriai Érseki Katedrális egy jelentős ortodox vallási épület a városban.",
+                  "category": "religious",
+                  "coords": [
+                        25.330612,
+                        43.967788
+                  ]
+            },
+            {
+                  "name": "Centrul Multifuncțional Pentru Tineri",
+                  "text": "A Fiatalok Multifunkcionális Központja egy színházi és kulturális létesítmény Alexandria városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.332238,
+                        43.967557
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "A Casa de Cultură egy színház Alexandria városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.329563,
+                        43.969807
                   ]
             }
       ],
@@ -39917,6 +40079,33 @@ export const romaniaExtraPois: POI[] = [
                         25.34079,
                         43.97136
                   ]
+            },
+            {
+                  "name": "Catedrala Arhiepiscopală Alexandria",
+                  "text": "Catedrala Episcopală „Sfântul Alexandru” este un important lăcaș de cult ortodox din Alexandria.",
+                  "category": "religious",
+                  "coords": [
+                        25.330612,
+                        43.967788
+                  ]
+            },
+            {
+                  "name": "Centrul Multifuncțional Pentru Tineri",
+                  "text": "Centrul Multifuncțional pentru Tineri este un spațiu teatral din Alexandria.",
+                  "category": "cultural",
+                  "coords": [
+                        25.332238,
+                        43.967557
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Casa de Cultură este o instituție teatrală și culturală situată în Alexandria.",
+                  "category": "cultural",
+                  "coords": [
+                        25.329563,
+                        43.969807
+                  ]
             }
       ],
       "en": [
@@ -39958,6 +40147,33 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.34079,
                         43.97136
+                  ]
+            },
+            {
+                  "name": "Catedrala Arhiepiscopală Alexandria",
+                  "text": "The Archdiocesan Cathedral of Alexandria is a significant orthodox place of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        25.330612,
+                        43.967788
+                  ]
+            },
+            {
+                  "name": "Centrul Multifuncțional Pentru Tineri",
+                  "text": "The Multifunctional Center for Youth is a theatre venue in Alexandria.",
+                  "category": "cultural",
+                  "coords": [
+                        25.332238,
+                        43.967557
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Casa de Cultură is a theatre located in Alexandria.",
+                  "category": "cultural",
+                  "coords": [
+                        25.329563,
+                        43.969807
                   ]
             }
       ]

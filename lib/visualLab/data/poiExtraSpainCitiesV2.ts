@@ -28506,6 +28506,51 @@ imageHint: "Fuenlabrada city town hall square",
                         -3.75132,
                         40.294057
                   ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "Die Iglesia de San Salvador ist eine lokale Kultstätte in Leganés.",
+                  "category": "religious",
+                  "coords": [
+                        -3.764423,
+                        40.327349
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Leganés",
+                  "text": "Das Ayuntamiento de Leganés dient als offizielles Rathaus und Gemeindezentrum von Leganés.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.768416,
+                        40.32596
+                  ]
+            },
+            {
+                  "name": "Juan de Leganés",
+                  "text": "Juan de Leganés ist ein Denkmal in der Stadt Leganés.",
+                  "category": "historical",
+                  "coords": [
+                        -3.749957,
+                        40.336057
+                  ]
+            },
+            {
+                  "name": "Teatro rey de pikas",
+                  "text": "Das Teatro rey de pikas ist ein Veranstaltungsort für darstellende Künste in Leganés.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.762468,
+                        40.325485
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Das Auditorio ist ein lokales Theater und Veranstaltungszentrum in Leganés.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.764724,
+                        40.332802
+                  ]
             }
       ],
       "hu": [
@@ -28543,6 +28588,51 @@ imageHint: "Fuenlabrada city town hall square",
                   "coords": [
                         -3.75132,
                         40.294057
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "Az Iglesia de San Salvador egy helyi istentiszteleti hely Leganés városában.",
+                  "category": "religious",
+                  "coords": [
+                        -3.764423,
+                        40.327349
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Leganés",
+                  "text": "Az Ayuntamiento de Leganés a város hivatalos városházaként és önkormányzati központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.768416,
+                        40.32596
+                  ]
+            },
+            {
+                  "name": "Juan de Leganés",
+                  "text": "A Juan de Leganés egy emlékmű Leganés városában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.749957,
+                        40.336057
+                  ]
+            },
+            {
+                  "name": "Teatro rey de pikas",
+                  "text": "A Teatro rey de pikas egy előadó-művészeti helyszín Leganés városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.762468,
+                        40.325485
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Az Auditorio egy helyi színház és előadóterem Leganés városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.764724,
+                        40.332802
                   ]
             }
       ],
@@ -28582,6 +28672,51 @@ imageHint: "Fuenlabrada city town hall square",
                         -3.75132,
                         40.294057
                   ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "Iglesia de San Salvador este un lăcaș de cult local situat în Leganés.",
+                  "category": "religious",
+                  "coords": [
+                        -3.764423,
+                        40.327349
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Leganés",
+                  "text": "Ayuntamiento de Leganés servește ca primărie oficială și centru municipal în Leganés.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.768416,
+                        40.32596
+                  ]
+            },
+            {
+                  "name": "Juan de Leganés",
+                  "text": "Juan de Leganés este un monument situat în orașul Leganés.",
+                  "category": "historical",
+                  "coords": [
+                        -3.749957,
+                        40.336057
+                  ]
+            },
+            {
+                  "name": "Teatro rey de pikas",
+                  "text": "Teatro rey de pikas este un loc pentru artele spectacolului situat în Leganés.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.762468,
+                        40.325485
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Auditorio este un teatru local și un spațiu de spectacole situat în Leganés.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.764724,
+                        40.332802
+                  ]
             }
       ],
       "en": [
@@ -28619,6 +28754,51 @@ imageHint: "Fuenlabrada city town hall square",
                   "coords": [
                         -3.75132,
                         40.294057
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "Iglesia de San Salvador is a local place of worship situated in Leganés.",
+                  "category": "religious",
+                  "coords": [
+                        -3.764423,
+                        40.327349
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Leganés",
+                  "text": "The Ayuntamiento de Leganés serves as the official town hall and municipal center of Leganés.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.768416,
+                        40.32596
+                  ]
+            },
+            {
+                  "name": "Juan de Leganés",
+                  "text": "Juan de Leganés is a monument located in the city of Leganés.",
+                  "category": "historical",
+                  "coords": [
+                        -3.749957,
+                        40.336057
+                  ]
+            },
+            {
+                  "name": "Teatro rey de pikas",
+                  "text": "The Teatro rey de pikas is a venue for performing arts situated in Leganés.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.762468,
+                        40.325485
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "The Auditorio is a local theatre and performance space located in Leganés.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.764724,
+                        40.332802
                   ]
             }
       ]
@@ -28696,6 +28876,69 @@ imageHint: "Leganes Carlos III university campus",
                         -3.749691,
                         40.290952
                   ]
+            },
+            {
+                  "name": "Cerro de Buenavista",
+                  "text": "Der Cerro de Buenavista ist ein bemerkenswerter Hügel in Getafe, der für seinen erhöhten Aussichtspunkt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.756794,
+                        40.305002
+                  ]
+            },
+            {
+                  "name": "Frontera 7-8",
+                  "text": "Frontera 7-8 ist ein erkennbares Denkmal in der Stadt Getafe.",
+                  "category": "historical",
+                  "coords": [
+                        -3.753622,
+                        40.3078
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "La Aurora ist ein lokales Denkmal in Getafe.",
+                  "category": "historical",
+                  "coords": [
+                        -3.732033,
+                        40.303305
+                  ]
+            },
+            {
+                  "name": "Monumento a la memoria de las víctimas del 11M",
+                  "text": "Das Monumento a la memoria de las víctimas del 11M ist ein Denkmal in Getafe für die Opfer der Bombenanschläge von Madrid 2004.",
+                  "category": "historical",
+                  "coords": [
+                        -3.743205,
+                        40.304301
+                  ]
+            },
+            {
+                  "name": "Residencial Las Fuentes I",
+                  "text": "Residencial Las Fuentes I ist eine architektonische Attraktion in Getafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.729571,
+                        40.326332
+                  ]
+            },
+            {
+                  "name": "La Paranoia de Trastaravies",
+                  "text": "La Paranoia de Trastaravies ist ein Veranstaltungsort für Theateraufführungen in Getafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.741127,
+                        40.291857
+                  ]
+            },
+            {
+                  "name": "Teatro Federico García Lorca y casa de cultura",
+                  "text": "Das Teatro Federico García Lorca y casa de cultura ist ein bekanntes Theater und Kulturzentrum in Getafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732486,
+                        40.310175
+                  ]
             }
       ],
       "hu": [
@@ -28724,6 +28967,69 @@ imageHint: "Leganes Carlos III university campus",
                   "coords": [
                         -3.749691,
                         40.290952
+                  ]
+            },
+            {
+                  "name": "Cerro de Buenavista",
+                  "text": "A Cerro de Buenavista egy nevezetes domb Getafében, amely magaslati kilátópontjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.756794,
+                        40.305002
+                  ]
+            },
+            {
+                  "name": "Frontera 7-8",
+                  "text": "A Frontera 7-8 egy felismerhető emlékmű Getafe városában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.753622,
+                        40.3078
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "A La Aurora egy helyi emlékmű Getafe városában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.732033,
+                        40.303305
+                  ]
+            },
+            {
+                  "name": "Monumento a la memoria de las víctimas del 11M",
+                  "text": "A Monumento a la memoria de las víctimas del 11M egy getafei emlékmű, amelyet a 2004-es madridi vonatrobbantások áldozatainak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -3.743205,
+                        40.304301
+                  ]
+            },
+            {
+                  "name": "Residencial Las Fuentes I",
+                  "text": "A Residencial Las Fuentes I egy építészeti látványosság Getafében.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.729571,
+                        40.326332
+                  ]
+            },
+            {
+                  "name": "La Paranoia de Trastaravies",
+                  "text": "A La Paranoia de Trastaravies egy színházi előadásoknak otthont adó helyszín Getafében.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.741127,
+                        40.291857
+                  ]
+            },
+            {
+                  "name": "Teatro Federico García Lorca y casa de cultura",
+                  "text": "A Teatro Federico García Lorca y casa de cultura egy kiemelkedő színház és kulturális központ Getafében.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732486,
+                        40.310175
                   ]
             }
       ],
@@ -28754,6 +29060,69 @@ imageHint: "Leganes Carlos III university campus",
                         -3.749691,
                         40.290952
                   ]
+            },
+            {
+                  "name": "Cerro de Buenavista",
+                  "text": "Cerro de Buenavista este un deal notabil din Getafe, cunoscut pentru punctul său de observație înalt.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.756794,
+                        40.305002
+                  ]
+            },
+            {
+                  "name": "Frontera 7-8",
+                  "text": "Frontera 7-8 este un monument recunoscut situat în orașul Getafe.",
+                  "category": "historical",
+                  "coords": [
+                        -3.753622,
+                        40.3078
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "La Aurora este un monument local situat în Getafe.",
+                  "category": "historical",
+                  "coords": [
+                        -3.732033,
+                        40.303305
+                  ]
+            },
+            {
+                  "name": "Monumento a la memoria de las víctimas del 11M",
+                  "text": "Monumento a la memoria de las víctimas del 11M este un memorial din Getafe dedicat victimelor atentatelor din Madrid din 2004.",
+                  "category": "historical",
+                  "coords": [
+                        -3.743205,
+                        40.304301
+                  ]
+            },
+            {
+                  "name": "Residencial Las Fuentes I",
+                  "text": "Residencial Las Fuentes I este o atracție arhitecturală situată în Getafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.729571,
+                        40.326332
+                  ]
+            },
+            {
+                  "name": "La Paranoia de Trastaravies",
+                  "text": "La Paranoia de Trastaravies este un loc pentru spectacole de teatru în Getafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.741127,
+                        40.291857
+                  ]
+            },
+            {
+                  "name": "Teatro Federico García Lorca y casa de cultura",
+                  "text": "Teatro Federico García Lorca y casa de cultura este un teatru și un centru cultural proeminent în Getafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732486,
+                        40.310175
+                  ]
             }
       ],
       "en": [
@@ -28782,6 +29151,69 @@ imageHint: "Leganes Carlos III university campus",
                   "coords": [
                         -3.749691,
                         40.290952
+                  ]
+            },
+            {
+                  "name": "Cerro de Buenavista",
+                  "text": "Cerro de Buenavista is a notable hill in Getafe known for its elevated vantage point.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.756794,
+                        40.305002
+                  ]
+            },
+            {
+                  "name": "Frontera 7-8",
+                  "text": "Frontera 7-8 is a recognizable monument situated in the city of Getafe.",
+                  "category": "historical",
+                  "coords": [
+                        -3.753622,
+                        40.3078
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "La Aurora is a local monument located in Getafe.",
+                  "category": "historical",
+                  "coords": [
+                        -3.732033,
+                        40.303305
+                  ]
+            },
+            {
+                  "name": "Monumento a la memoria de las víctimas del 11M",
+                  "text": "Monumento a la memoria de las víctimas del 11M is a memorial in Getafe dedicated to the victims of the 2004 Madrid train bombings.",
+                  "category": "historical",
+                  "coords": [
+                        -3.743205,
+                        40.304301
+                  ]
+            },
+            {
+                  "name": "Residencial Las Fuentes I",
+                  "text": "Residencial Las Fuentes I is an architectural attraction located in Getafe.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.729571,
+                        40.326332
+                  ]
+            },
+            {
+                  "name": "La Paranoia de Trastaravies",
+                  "text": "La Paranoia de Trastaravies is a venue for theatrical performances in Getafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.741127,
+                        40.291857
+                  ]
+            },
+            {
+                  "name": "Teatro Federico García Lorca y casa de cultura",
+                  "text": "Teatro Federico García Lorca y casa de cultura is a prominent theatre and cultural center in Getafe.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.732486,
+                        40.310175
                   ]
             }
       ]
@@ -54031,6 +54463,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -6.145128,
                         36.417852
                   ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "Die Ermita de Santa Ana ist eine bemerkenswerte Einsiedelei und Kirche auf dem höchsten Punkt in Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.15103,
+                        36.414767
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santísima Trinidad (San Telmo)",
+                  "text": "Die Iglesia de la Santísima Trinidad (San Telmo) ist eine lokale Kultstätte in Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.148803,
+                        36.421139
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesús Nazareno",
+                  "text": "Die Iglesia de Jesús Nazareno ist eine historische Kirche in Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.149207,
+                        36.418761
+                  ]
             }
       ],
       "hu": [
@@ -54068,6 +54527,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -6.145128,
                         36.417852
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "Az Ermita de Santa Ana egy nevezetes remetelak és templom, amely Chiclana de la Frontera legmagasabb pontján található.",
+                  "category": "religious",
+                  "coords": [
+                        -6.15103,
+                        36.414767
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santísima Trinidad (San Telmo)",
+                  "text": "Az Iglesia de la Santísima Trinidad (San Telmo) egy helyi imahely Chiclana de la Frontera városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.148803,
+                        36.421139
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesús Nazareno",
+                  "text": "Az Iglesia de Jesús Nazareno egy történelmi templom Chiclana de la Frontera városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.149207,
+                        36.418761
                   ]
             }
       ],
@@ -54107,6 +54593,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -6.145128,
                         36.417852
                   ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "Ermita de Santa Ana este un schit și o biserică notabilă situată în cel mai înalt punct din Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.15103,
+                        36.414767
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santísima Trinidad (San Telmo)",
+                  "text": "Iglesia de la Santísima Trinidad (San Telmo) este un lăcaș de cult local din Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.148803,
+                        36.421139
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesús Nazareno",
+                  "text": "Iglesia de Jesús Nazareno este o biserică istorică din Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.149207,
+                        36.418761
+                  ]
             }
       ],
       "en": [
@@ -54144,6 +54657,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -6.145128,
                         36.417852
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "Ermita de Santa Ana is a notable hermitage and church situated on the highest point in Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.15103,
+                        36.414767
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santísima Trinidad (San Telmo)",
+                  "text": "Iglesia de la Santísima Trinidad (San Telmo) is a local place of worship in Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.148803,
+                        36.421139
+                  ]
+            },
+            {
+                  "name": "Iglesia de Jesús Nazareno",
+                  "text": "The Iglesia de Jesús Nazareno is a historic church located in Chiclana de la Frontera.",
+                  "category": "religious",
+                  "coords": [
+                        -6.149207,
+                        36.418761
                   ]
             }
       ]
@@ -57173,6 +57713,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         2.246126,
                         41.936039
                   ]
+            },
+            {
+                  "name": "Puig dels Jueus",
+                  "text": "Puig dels Jueus ist ein markanter lokaler Gipfel in der Gemeinde Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.261115,
+                        41.937576
+                  ]
+            },
+            {
+                  "name": "Puig d'Ases",
+                  "text": "Puig d'Ases ist ein geografischer Gipfel in der Nähe der Stadt Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.227719,
+                        41.927011
+                  ]
+            },
+            {
+                  "name": "Pont del Remei",
+                  "text": "Pont del Remei ist eine historische Brücke, die den Fluss in Vic überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        2.2498,
+                        41.924684
+                  ]
             }
       ],
       "hu": [
@@ -57210,6 +57777,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         2.246126,
                         41.936039
+                  ]
+            },
+            {
+                  "name": "Puig dels Jueus",
+                  "text": "A Puig dels Jueus egy kiemelkedő helyi hegycsúcs Vic városában.",
+                  "category": "landmark",
+                  "coords": [
+                        2.261115,
+                        41.937576
+                  ]
+            },
+            {
+                  "name": "Puig d'Ases",
+                  "text": "A Puig d'Ases egy hegycsúcs, amely Vic városának közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        2.227719,
+                        41.927011
+                  ]
+            },
+            {
+                  "name": "Pont del Remei",
+                  "text": "A Pont del Remei egy történelmi híd Vic városában.",
+                  "category": "landmark",
+                  "coords": [
+                        2.2498,
+                        41.924684
                   ]
             }
       ],
@@ -57249,6 +57843,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         2.246126,
                         41.936039
                   ]
+            },
+            {
+                  "name": "Puig dels Jueus",
+                  "text": "Puig dels Jueus este un vârf local proeminent în municipiul Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.261115,
+                        41.937576
+                  ]
+            },
+            {
+                  "name": "Puig d'Ases",
+                  "text": "Puig d'Ases este un vârf geografic situat lângă orașul Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.227719,
+                        41.927011
+                  ]
+            },
+            {
+                  "name": "Pont del Remei",
+                  "text": "Pont del Remei este un pod istoric care traversează râul din Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.2498,
+                        41.924684
+                  ]
             }
       ],
       "en": [
@@ -57286,6 +57907,33 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         2.246126,
                         41.936039
+                  ]
+            },
+            {
+                  "name": "Puig dels Jueus",
+                  "text": "Puig dels Jueus is a prominent local peak in the municipality of Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.261115,
+                        41.937576
+                  ]
+            },
+            {
+                  "name": "Puig d'Ases",
+                  "text": "Puig d'Ases is a geographical peak located near the city of Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.227719,
+                        41.927011
+                  ]
+            },
+            {
+                  "name": "Pont del Remei",
+                  "text": "Pont del Remei is a historic bridge crossing the river in Vic.",
+                  "category": "landmark",
+                  "coords": [
+                        2.2498,
+                        41.924684
                   ]
             }
       ]
@@ -61538,6 +62186,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -2.534949,
                         41.489327
                   ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "Die Iglesia de San Miguel ist eine historische romanische Kirche und ein Nationaldenkmal in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.533927,
+                        41.487392
+                  ]
+            },
+            {
+                  "name": "Ermita de Jesús Nazareno",
+                  "text": "Die Ermita de Jesús Nazareno ist eine religiöse Sehenswürdigkeit in Almazán.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.532788,
+                        41.488041
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "Die Iglesia de San Pedro ist eine lokale Kultstätte in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.534263,
+                        41.486132
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María de Calatañazor",
+                  "text": "Die Iglesia de Santa María de Calatañazor dient als Kultstätte in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.531936,
+                        41.486525
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Vicente",
+                  "text": "Die Iglesia de San Vicente ist ein traditionelles Gotteshaus in der Stadt Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535816,
+                        41.486164
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Campanario",
+                  "text": "Die Iglesia de Nuestra Señora del Campanario ist eine religiöse Stätte in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535046,
+                        41.484214
+                  ]
+            },
+            {
+                  "name": "Ruinas del Castillo de Almazan",
+                  "text": "Die Ruinas del Castillo de Almazan sind die historischen Überreste einer Burg in Almazán.",
+                  "category": "historical",
+                  "coords": [
+                        -2.533027,
+                        41.483257
+                  ]
             }
       ],
       "hu": [
@@ -61548,6 +62259,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -2.534949,
                         41.489327
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "Az Iglesia de San Miguel egy történelmi román stílusú templom és nemzeti műemlék Almazánban.",
+                  "category": "religious",
+                  "coords": [
+                        -2.533927,
+                        41.487392
+                  ]
+            },
+            {
+                  "name": "Ermita de Jesús Nazareno",
+                  "text": "Az Ermita de Jesús Nazareno egy helyi vallási látványosság Almazán városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.532788,
+                        41.488041
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "Az Iglesia de San Pedro egy helyi istentiszteleti hely Almazánban.",
+                  "category": "religious",
+                  "coords": [
+                        -2.534263,
+                        41.486132
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María de Calatañazor",
+                  "text": "Az Iglesia de Santa María de Calatañazor istentiszteleti helyként szolgál Almazán városában.",
+                  "category": "religious",
+                  "coords": [
+                        -2.531936,
+                        41.486525
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Vicente",
+                  "text": "Az Iglesia de San Vicente egy hagyományos templom Almazán városában.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535816,
+                        41.486164
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Campanario",
+                  "text": "Az Iglesia de Nuestra Señora del Campanario egy vallási helyszín Almazánban.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535046,
+                        41.484214
+                  ]
+            },
+            {
+                  "name": "Ruinas del Castillo de Almazan",
+                  "text": "A Ruinas del Castillo de Almazan egy egykori vár történelmi romjai Almazánban.",
+                  "category": "historical",
+                  "coords": [
+                        -2.533027,
+                        41.483257
                   ]
             }
       ],
@@ -61560,6 +62334,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -2.534949,
                         41.489327
                   ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "Iglesia de San Miguel este o biserică istorică romanică și monument național din Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.533927,
+                        41.487392
+                  ]
+            },
+            {
+                  "name": "Ermita de Jesús Nazareno",
+                  "text": "Ermita de Jesús Nazareno este o atracție religioasă situată în Almazán.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.532788,
+                        41.488041
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "Iglesia de San Pedro este un lăcaș de cult local situat în Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.534263,
+                        41.486132
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María de Calatañazor",
+                  "text": "Iglesia de Santa María de Calatañazor servește ca lăcaș de cult în Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.531936,
+                        41.486525
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Vicente",
+                  "text": "Iglesia de San Vicente este un lăcaș de cult tradițional din orașul Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535816,
+                        41.486164
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Campanario",
+                  "text": "Iglesia de Nuestra Señora del Campanario este un sit religios din Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535046,
+                        41.484214
+                  ]
+            },
+            {
+                  "name": "Ruinas del Castillo de Almazan",
+                  "text": "Ruinas del Castillo de Almazan reprezintă vestigiile istorice ale unui castel din Almazán.",
+                  "category": "historical",
+                  "coords": [
+                        -2.533027,
+                        41.483257
+                  ]
             }
       ],
       "en": [
@@ -61570,6 +62407,69 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -2.534949,
                         41.489327
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Miguel",
+                  "text": "The Iglesia de San Miguel is a historic Romanesque church and national monument in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.533927,
+                        41.487392
+                  ]
+            },
+            {
+                  "name": "Ermita de Jesús Nazareno",
+                  "text": "The Ermita de Jesús Nazareno is a religious attraction located in Almazán.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.532788,
+                        41.488041
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Pedro",
+                  "text": "The Iglesia de San Pedro is a local place of worship situated in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.534263,
+                        41.486132
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María de Calatañazor",
+                  "text": "The Iglesia de Santa María de Calatañazor serves as a place of worship in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.531936,
+                        41.486525
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Vicente",
+                  "text": "The Iglesia de San Vicente is a traditional place of worship in the town of Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535816,
+                        41.486164
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora del Campanario",
+                  "text": "The Iglesia de Nuestra Señora del Campanario is a religious site in Almazán.",
+                  "category": "religious",
+                  "coords": [
+                        -2.535046,
+                        41.484214
+                  ]
+            },
+            {
+                  "name": "Ruinas del Castillo de Almazan",
+                  "text": "The Ruinas del Castillo de Almazan are the historical remains of a castle in Almazán.",
+                  "category": "historical",
+                  "coords": [
+                        -2.533027,
+                        41.483257
                   ]
             }
       ]
@@ -61916,6 +62816,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.782222,
                         41.870563
                   ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein malerischer Aussichtspunkt in der Stadt Zuera.",
+                  "category": "natural",
+                  "coords": [
+                        -0.785566,
+                        41.861473
+                  ]
+            },
+            {
+                  "name": "Teatro Zuera",
+                  "text": "Ein lokales Theater in der Gemeinde Zuera.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.787675,
+                        41.867875
+                  ]
             }
       ],
       "hu": [
@@ -61944,6 +62862,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.782222,
                         41.870563
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Egy festői kilátó Zuera városában.",
+                  "category": "natural",
+                  "coords": [
+                        -0.785566,
+                        41.861473
+                  ]
+            },
+            {
+                  "name": "Teatro Zuera",
+                  "text": "Egy helyi színház Zuera településén.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.787675,
+                        41.867875
                   ]
             }
       ],
@@ -61974,6 +62910,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.782222,
                         41.870563
                   ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere pitoresc situat în orașul Zuera.",
+                  "category": "natural",
+                  "coords": [
+                        -0.785566,
+                        41.861473
+                  ]
+            },
+            {
+                  "name": "Teatro Zuera",
+                  "text": "Un teatru local situat în municipiul Zuera.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.787675,
+                        41.867875
+                  ]
             }
       ],
       "en": [
@@ -62002,6 +62956,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.782222,
                         41.870563
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A scenic viewpoint situated in the town of Zuera.",
+                  "category": "natural",
+                  "coords": [
+                        -0.785566,
+                        41.861473
+                  ]
+            },
+            {
+                  "name": "Teatro Zuera",
+                  "text": "A local theater located in the municipality of Zuera.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.787675,
+                        41.867875
                   ]
             }
       ]
@@ -62563,6 +63535,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -1.372971,
                         41.47434
                   ]
+            },
+            {
+                  "name": "Iglesia de la Asunción de Nuestra Señora",
+                  "text": "Eine bemerkenswerte Kirche in La Almunia de Doña Godina.",
+                  "category": "religious",
+                  "coords": [
+                        -1.374819,
+                        41.476728
+                  ]
+            },
+            {
+                  "name": "Puerta antigua de Torreflorida",
+                  "text": "Ein altes monumentales Tor in La Almunia de Doña Godina.",
+                  "category": "historical",
+                  "coords": [
+                        -1.374486,
+                        41.479929
+                  ]
             }
       ],
       "hu": [
@@ -62573,6 +63563,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -1.372971,
                         41.47434
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Asunción de Nuestra Señora",
+                  "text": "Egy nevezetes templom és istentiszteleti hely La Almunia de Doña Godina városában.",
+                  "category": "religious",
+                  "coords": [
+                        -1.374819,
+                        41.476728
+                  ]
+            },
+            {
+                  "name": "Puerta antigua de Torreflorida",
+                  "text": "Egy ősi monumentális kapu La Almunia de Doña Godina városában.",
+                  "category": "historical",
+                  "coords": [
+                        -1.374486,
+                        41.479929
                   ]
             }
       ],
@@ -62585,6 +63593,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -1.372971,
                         41.47434
                   ]
+            },
+            {
+                  "name": "Iglesia de la Asunción de Nuestra Señora",
+                  "text": "O biserică notabilă ce servește ca lăcaș de cult în La Almunia de Doña Godina.",
+                  "category": "religious",
+                  "coords": [
+                        -1.374819,
+                        41.476728
+                  ]
+            },
+            {
+                  "name": "Puerta antigua de Torreflorida",
+                  "text": "O poartă monumentală veche situată în La Almunia de Doña Godina.",
+                  "category": "historical",
+                  "coords": [
+                        -1.374486,
+                        41.479929
+                  ]
             }
       ],
       "en": [
@@ -62595,6 +63621,24 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -1.372971,
                         41.47434
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Asunción de Nuestra Señora",
+                  "text": "A notable church serving as a place of worship in La Almunia de Doña Godina.",
+                  "category": "religious",
+                  "coords": [
+                        -1.374819,
+                        41.476728
+                  ]
+            },
+            {
+                  "name": "Puerta antigua de Torreflorida",
+                  "text": "An ancient monumental gate located in La Almunia de Doña Godina.",
+                  "category": "historical",
+                  "coords": [
+                        -1.374486,
+                        41.479929
                   ]
             }
       ]
@@ -63300,7 +64344,232 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
     image: "/poi-images/spain-borja-cities-v2.webp",
   },
   {
-    id: "spain-ejea-cities-v2",
+    id: "spain-ejea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aquagraria",
+                  "text": "Aquagraria ist ein Museum in Ejea de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -1.141036,
+                        42.114407
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Ejea de los Caballeros",
+                  "text": "Das Ayuntamiento de Ejea de los Caballeros ist das Rathaus von Ejea de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.138569,
+                        42.126701
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "Die Iglesia de San Salvador ist eine bedeutende Kirche in Ejea de los Caballeros.",
+                  "category": "religious",
+                  "coords": [
+                        -1.141845,
+                        42.126092
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "Die Iglesia de Santa María ist ein Gotteshaus in Ejea de los Caballeros.",
+                  "category": "religious",
+                  "coords": [
+                        -1.137427,
+                        42.129096
+                  ]
+            },
+            {
+                  "name": "Museo de las Tres Culturas",
+                  "text": "Das Museo de las Tres Culturas ist ein Museum in Ejea de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14026,
+                        42.128259
+                  ]
+            },
+            {
+                  "name": "Teatro de la Villa",
+                  "text": "Das Teatro de la Villa ist ein Theater in Ejea de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.134331,
+                        42.128937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aquagraria",
+                  "text": "Az Aquagraria egy múzeum Ejea de los Caballerosban.",
+                  "category": "museum",
+                  "coords": [
+                        -1.141036,
+                        42.114407
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Ejea de los Caballeros",
+                  "text": "Az Ayuntamiento de Ejea de los Caballeros a városháza Ejea de los Caballerosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.138569,
+                        42.126701
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "Az Iglesia de San Salvador egy jelentős templom Ejea de los Caballerosban.",
+                  "category": "religious",
+                  "coords": [
+                        -1.141845,
+                        42.126092
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "Az Iglesia de Santa María egy templom Ejea de los Caballerosban.",
+                  "category": "religious",
+                  "coords": [
+                        -1.137427,
+                        42.129096
+                  ]
+            },
+            {
+                  "name": "Museo de las Tres Culturas",
+                  "text": "A Museo de las Tres Culturas egy múzeum Ejea de los Caballerosban.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14026,
+                        42.128259
+                  ]
+            },
+            {
+                  "name": "Teatro de la Villa",
+                  "text": "A Teatro de la Villa egy színház Ejea de los Caballerosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.134331,
+                        42.128937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aquagraria",
+                  "text": "Aquagraria este un muzeu în Ejea de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -1.141036,
+                        42.114407
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Ejea de los Caballeros",
+                  "text": "Ayuntamiento de Ejea de los Caballeros este primăria orașului Ejea de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.138569,
+                        42.126701
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "Iglesia de San Salvador este o biserică importantă din Ejea de los Caballeros.",
+                  "category": "religious",
+                  "coords": [
+                        -1.141845,
+                        42.126092
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "Iglesia de Santa María este un lăcaș de cult în Ejea de los Caballeros.",
+                  "category": "religious",
+                  "coords": [
+                        -1.137427,
+                        42.129096
+                  ]
+            },
+            {
+                  "name": "Museo de las Tres Culturas",
+                  "text": "Museo de las Tres Culturas este un muzeu din Ejea de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14026,
+                        42.128259
+                  ]
+            },
+            {
+                  "name": "Teatro de la Villa",
+                  "text": "Teatro de la Villa este un teatru din Ejea de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.134331,
+                        42.128937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aquagraria",
+                  "text": "Aquagraria is a museum in Ejea de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -1.141036,
+                        42.114407
+                  ]
+            },
+            {
+                  "name": "Ayuntamiento de Ejea de los Caballeros",
+                  "text": "The Ayuntamiento de Ejea de los Caballeros is the town hall of Ejea de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.138569,
+                        42.126701
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Salvador",
+                  "text": "The Iglesia de San Salvador is a notable church in Ejea de los Caballeros.",
+                  "category": "religious",
+                  "coords": [
+                        -1.141845,
+                        42.126092
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa María",
+                  "text": "The Iglesia de Santa María is a place of worship in Ejea de los Caballeros.",
+                  "category": "religious",
+                  "coords": [
+                        -1.137427,
+                        42.129096
+                  ]
+            },
+            {
+                  "name": "Museo de las Tres Culturas",
+                  "text": "The Museo de las Tres Culturas is a museum in Ejea de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -1.14026,
+                        42.128259
+                  ]
+            },
+            {
+                  "name": "Teatro de la Villa",
+                  "text": "The Teatro de la Villa is a theatre in Ejea de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.134331,
+                        42.128937
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ES",
     name: { de: "Ejea de los Caballeros", hu: "Ejea de los Caballeros", ro: "Ejea de los Caballeros", en: "Ejea de los Caballeros" },
@@ -63661,6 +64930,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.413793,
                         40.869979
                   ]
+            },
+            {
+                  "name": "Iglesia Parroquial de la Virgen de la Asunción",
+                  "text": "Die Iglesia Parroquial de la Virgen de la Asunción ist eine bemerkenswerte Kirche in Alcorisa.",
+                  "category": "religious",
+                  "coords": [
+                        -0.380497,
+                        40.89139
+                  ]
             }
       ],
       "hu": [
@@ -63671,6 +64949,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.413793,
                         40.869979
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial de la Virgen de la Asunción",
+                  "text": "Az Iglesia Parroquial de la Virgen de la Asunción egy jelentős templom Alcorisában.",
+                  "category": "religious",
+                  "coords": [
+                        -0.380497,
+                        40.89139
                   ]
             }
       ],
@@ -63683,6 +64970,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.413793,
                         40.869979
                   ]
+            },
+            {
+                  "name": "Iglesia Parroquial de la Virgen de la Asunción",
+                  "text": "Iglesia Parroquial de la Virgen de la Asunción este o biserică notabilă din Alcorisa.",
+                  "category": "religious",
+                  "coords": [
+                        -0.380497,
+                        40.89139
+                  ]
             }
       ],
       "en": [
@@ -63693,6 +64989,15 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.413793,
                         40.869979
+                  ]
+            },
+            {
+                  "name": "Iglesia Parroquial de la Virgen de la Asunción",
+                  "text": "The Iglesia Parroquial de la Virgen de la Asunción is a notable church in Alcorisa.",
+                  "category": "religious",
+                  "coords": [
+                        -0.380497,
+                        40.89139
                   ]
             }
       ]

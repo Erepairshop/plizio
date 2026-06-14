@@ -3862,7 +3862,124 @@ export const czechrepublicHistoryV2: POI[] = [
     },
   },
   {
-    id: "czechrepublic-slavonice-history-v2",
+    id: "czechrepublic-slavonice-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "zboř. zámek Maříž",
+                  "text": "Die Ruinen des Schlosses Maříž befinden sich in Slavonice.",
+                  "category": "historical",
+                  "coords": [
+                        15.319947,
+                        48.985176
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Gutshof aus Hoyos-Sprinzenstein‘schem Besitz",
+                  "text": "Dieser ehemalige Gutshof aus Hoyos-Sprinzenstein‘schem Besitz ist ein Herrenhaus in Slavonice.",
+                  "category": "historical",
+                  "coords": [
+                        15.344977,
+                        48.978548
+                  ]
+            },
+            {
+                  "name": "Gehringsmühle",
+                  "text": "Die Gehringsmühle ist ein historisches Gebäude in Slavonice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.33284,
+                        48.975127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "zboř. zámek Maříž",
+                  "text": "A Maříž kastély romjai Slavonice városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        15.319947,
+                        48.985176
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Gutshof aus Hoyos-Sprinzenstein‘schem Besitz",
+                  "text": "Ez az egykori Hoyos-Sprinzenstein birtokhoz tartozó udvarház Slavonice városában található.",
+                  "category": "historical",
+                  "coords": [
+                        15.344977,
+                        48.978548
+                  ]
+            },
+            {
+                  "name": "Gehringsmühle",
+                  "text": "A Gehringsmühle egy épület Slavonice városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.33284,
+                        48.975127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "zboř. zámek Maříž",
+                  "text": "Ruinele castelului Maříž se află în Slavonice.",
+                  "category": "historical",
+                  "coords": [
+                        15.319947,
+                        48.985176
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Gutshof aus Hoyos-Sprinzenstein‘schem Besitz",
+                  "text": "Acest fost conac al familiei Hoyos-Sprinzenstein este situat în Slavonice.",
+                  "category": "historical",
+                  "coords": [
+                        15.344977,
+                        48.978548
+                  ]
+            },
+            {
+                  "name": "Gehringsmühle",
+                  "text": "Gehringsmühle este o clădire din Slavonice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.33284,
+                        48.975127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "zboř. zámek Maříž",
+                  "text": "The ruins of Maříž Castle are located in Slavonice.",
+                  "category": "historical",
+                  "coords": [
+                        15.319947,
+                        48.985176
+                  ]
+            },
+            {
+                  "name": "Ehemaliger Gutshof aus Hoyos-Sprinzenstein‘schem Besitz",
+                  "text": "This former Hoyos-Sprinzenstein estate manor is located in Slavonice.",
+                  "category": "historical",
+                  "coords": [
+                        15.344977,
+                        48.978548
+                  ]
+            },
+            {
+                  "name": "Gehringsmühle",
+                  "text": "Gehringsmühle is a building located in Slavonice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.33284,
+                        48.975127
+                  ]
+            }
+      ]
+},
     parent: "CZ",
     type: "town",
     name: { de: "Slavonice", hu: "Slavonice", ro: "Slavonice", en: "Slavonice"},

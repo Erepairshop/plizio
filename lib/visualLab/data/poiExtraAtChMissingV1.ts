@@ -33038,6 +33038,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.677798,
                         48.255506
                   ]
+            },
+            {
+                  "name": "Stift Herzogenburg",
+                  "text": "Stift Herzogenburg ist ein bemerkenswertes Kloster in Herzogenburg.",
+                  "category": "religious",
+                  "coords": [
+                        15.697404,
+                        48.28689
+                  ]
             }
       ],
       "hu": [
@@ -33075,6 +33084,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.677798,
                         48.255506
+                  ]
+            },
+            {
+                  "name": "Stift Herzogenburg",
+                  "text": "A Stift Herzogenburg egy figyelemre méltó kolostor Herzogenburgban.",
+                  "category": "religious",
+                  "coords": [
+                        15.697404,
+                        48.28689
                   ]
             }
       ],
@@ -33114,6 +33132,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.677798,
                         48.255506
                   ]
+            },
+            {
+                  "name": "Stift Herzogenburg",
+                  "text": "Stift Herzogenburg este o mănăstire remarcabilă situată în Herzogenburg.",
+                  "category": "religious",
+                  "coords": [
+                        15.697404,
+                        48.28689
+                  ]
             }
       ],
       "en": [
@@ -33151,6 +33178,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.677798,
                         48.255506
+                  ]
+            },
+            {
+                  "name": "Stift Herzogenburg",
+                  "text": "Stift Herzogenburg is a notable monastery situated in Herzogenburg.",
+                  "category": "religious",
+                  "coords": [
+                        15.697404,
+                        48.28689
                   ]
             }
       ]
@@ -44003,6 +44039,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.433001,
                         48.030131
                   ]
+            },
+            {
+                  "name": "Hahnkreuz",
+                  "text": "Das Hahnkreuz ist ein lokales Denkmal und eine Sehenswürdigkeit in Himberg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424306,
+                        48.091023
+                  ]
             }
       ],
       "hu": [
@@ -44040,6 +44085,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.433001,
                         48.030131
+                  ]
+            },
+            {
+                  "name": "Hahnkreuz",
+                  "text": "A Hahnkreuz egy helyi emlékmű és látnivaló az ausztriai Himbergben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424306,
+                        48.091023
                   ]
             }
       ],
@@ -44079,6 +44133,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.433001,
                         48.030131
                   ]
+            },
+            {
+                  "name": "Hahnkreuz",
+                  "text": "Hahnkreuz este un monument local și o atracție turistică situată în Himberg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424306,
+                        48.091023
+                  ]
             }
       ],
       "en": [
@@ -44116,6 +44179,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.433001,
                         48.030131
+                  ]
+            },
+            {
+                  "name": "Hahnkreuz",
+                  "text": "The Hahnkreuz is a local monument and tourist attraction located in Himberg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.424306,
+                        48.091023
                   ]
             }
       ]

@@ -19620,6 +19620,69 @@ export const polandCitiesV2: POI[] = [
                         18.991634,
                         50.275957
                   ]
+            },
+            {
+                  "name": "Park Bogucki",
+                  "text": "Der Park Bogucki ist eine städtische Grünanlage und ein Erholungspark in Katowice.",
+                  "category": "park",
+                  "coords": [
+                        19.037853,
+                        50.264063
+                  ]
+            },
+            {
+                  "name": "Rondo Sztuki",
+                  "text": "Rondo Sztuki ist ein bekanntes Kunstzentrum und eine Galerie in Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023247,
+                        50.26444
+                  ]
+            },
+            {
+                  "name": "Kapliczka Matki Boskiej",
+                  "text": "Die Kapliczka Matki Boskiej ist eine historische Kapelle und ein Gebäude in Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.999583,
+                        50.2739
+                  ]
+            },
+            {
+                  "name": "Szyb Warszawa II",
+                  "text": "Szyb Warszawa II ist ein ehemaliger Schacht, der als Aussichtspunkt in Katowice dient.",
+                  "category": "natural",
+                  "coords": [
+                        19.033089,
+                        50.263715
+                  ]
+            },
+            {
+                  "name": "Centrum Górskie Korona Ziemi",
+                  "text": "Dieses Museum in Katowice widmet sich dem Bergsteigen und der Seven Summits.",
+                  "category": "museum",
+                  "coords": [
+                        18.991378,
+                        50.273543
+                  ]
+            },
+            {
+                  "name": "Szyb Jerzy",
+                  "text": "Szyb Jerzy ist eine lokale Attraktion in der Stadt Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.004925,
+                        50.269413
+                  ]
+            },
+            {
+                  "name": "Kociol",
+                  "text": "Kociol ist eine Touristenattraktion in Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.994473,
+                        50.275585
+                  ]
             }
       ],
       "hu": [
@@ -19639,6 +19702,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.991634,
                         50.275957
+                  ]
+            },
+            {
+                  "name": "Park Bogucki",
+                  "text": "A Park Bogucki egy városi zöldterület és pihenőpark Katowice városában.",
+                  "category": "park",
+                  "coords": [
+                        19.037853,
+                        50.264063
+                  ]
+            },
+            {
+                  "name": "Rondo Sztuki",
+                  "text": "A Rondo Sztuki egy ismert művészeti központ és galéria Katowicében.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023247,
+                        50.26444
+                  ]
+            },
+            {
+                  "name": "Kapliczka Matki Boskiej",
+                  "text": "A Kapliczka Matki Boskiej egy történelmi kápolna és épület Katowice városában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.999583,
+                        50.2739
+                  ]
+            },
+            {
+                  "name": "Szyb Warszawa II",
+                  "text": "A Szyb Warszawa II egykori akna, amely kilátópontként szolgál Katowicében.",
+                  "category": "natural",
+                  "coords": [
+                        19.033089,
+                        50.263715
+                  ]
+            },
+            {
+                  "name": "Centrum Górskie Korona Ziemi",
+                  "text": "Ez a katowicei múzeum a hegymászásnak és a Hét Hegycsúcsnak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        18.991378,
+                        50.273543
+                  ]
+            },
+            {
+                  "name": "Szyb Jerzy",
+                  "text": "A Szyb Jerzy egy helyi látványosság Katowice városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.004925,
+                        50.269413
+                  ]
+            },
+            {
+                  "name": "Kociol",
+                  "text": "A Kociol egy turisztikai látványosság Katowicében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.994473,
+                        50.275585
                   ]
             }
       ],
@@ -19660,6 +19786,69 @@ export const polandCitiesV2: POI[] = [
                         18.991634,
                         50.275957
                   ]
+            },
+            {
+                  "name": "Park Bogucki",
+                  "text": "Parcul Bogucki este un spațiu verde și un parc de recreere urban din Katowice.",
+                  "category": "park",
+                  "coords": [
+                        19.037853,
+                        50.264063
+                  ]
+            },
+            {
+                  "name": "Rondo Sztuki",
+                  "text": "Rondo Sztuki este un centru de arte și o galerie cunoscută în Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023247,
+                        50.26444
+                  ]
+            },
+            {
+                  "name": "Kapliczka Matki Boskiej",
+                  "text": "Kapliczka Matki Boskiej este o capelă istorică și o clădire situată în Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.999583,
+                        50.2739
+                  ]
+            },
+            {
+                  "name": "Szyb Warszawa II",
+                  "text": "Szyb Warszawa II este un fost puț de mină care servește drept punct de belvedere în Katowice.",
+                  "category": "natural",
+                  "coords": [
+                        19.033089,
+                        50.263715
+                  ]
+            },
+            {
+                  "name": "Centrum Górskie Korona Ziemi",
+                  "text": "Acest muzeu din Katowice este dedicat alpinismului și celor Șapte Vârfuri.",
+                  "category": "museum",
+                  "coords": [
+                        18.991378,
+                        50.273543
+                  ]
+            },
+            {
+                  "name": "Szyb Jerzy",
+                  "text": "Szyb Jerzy este o atracție locală situată în orașul Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.004925,
+                        50.269413
+                  ]
+            },
+            {
+                  "name": "Kociol",
+                  "text": "Kociol este o atracție turistică situată în Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.994473,
+                        50.275585
+                  ]
             }
       ],
       "en": [
@@ -19679,6 +19868,69 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.991634,
                         50.275957
+                  ]
+            },
+            {
+                  "name": "Park Bogucki",
+                  "text": "Park Bogucki is an urban green space and recreation park in Katowice.",
+                  "category": "park",
+                  "coords": [
+                        19.037853,
+                        50.264063
+                  ]
+            },
+            {
+                  "name": "Rondo Sztuki",
+                  "text": "Rondo Sztuki is a well-known arts centre and gallery located in Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023247,
+                        50.26444
+                  ]
+            },
+            {
+                  "name": "Kapliczka Matki Boskiej",
+                  "text": "Kapliczka Matki Boskiej is a historic chapel and building located in Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.999583,
+                        50.2739
+                  ]
+            },
+            {
+                  "name": "Szyb Warszawa II",
+                  "text": "Szyb Warszawa II is a former mine shaft that serves as a viewpoint in Katowice.",
+                  "category": "natural",
+                  "coords": [
+                        19.033089,
+                        50.263715
+                  ]
+            },
+            {
+                  "name": "Centrum Górskie Korona Ziemi",
+                  "text": "This museum in Katowice focuses on mountain climbing and the Crown of the Earth.",
+                  "category": "museum",
+                  "coords": [
+                        18.991378,
+                        50.273543
+                  ]
+            },
+            {
+                  "name": "Szyb Jerzy",
+                  "text": "Szyb Jerzy is a local attraction located in the city of Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.004925,
+                        50.269413
+                  ]
+            },
+            {
+                  "name": "Kociol",
+                  "text": "Kociol is a tourist attraction situated in Katowice.",
+                  "category": "landmark",
+                  "coords": [
+                        18.994473,
+                        50.275585
                   ]
             }
       ]
@@ -49432,6 +49684,51 @@ export const polandCitiesV2: POI[] = [
                         18.101984,
                         51.756169
                   ]
+            },
+            {
+                  "name": "Centrum Rysunku i Grafiki im. Tadeusza Kulisiewicza",
+                  "text": "Das Zentrum für Zeichnung und Grafik Tadeusz Kulisiewicz ist ein Kunstmuseum in Kalisz.",
+                  "category": "museum",
+                  "coords": [
+                        18.09271,
+                        51.762204
+                  ]
+            },
+            {
+                  "name": "Muzeum Osiakowskich",
+                  "text": "Das Osiakowski-Museum ist ein Museum in Kalisz.",
+                  "category": "museum",
+                  "coords": [
+                        18.0888,
+                        51.763464
+                  ]
+            },
+            {
+                  "name": "Fundamenty Zamku Królewskiego",
+                  "text": "Die Fundamente des Königsschlosses sind die Überreste einer historischen Burg in Kalisz.",
+                  "category": "castle",
+                  "coords": [
+                        18.092115,
+                        51.764385
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe Ziemi Kaliskiej",
+                  "text": "Das Bezirksmuseum der Region Kalisz widmet sich der lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        18.082135,
+                        51.760716
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Biskupa Męczennika",
+                  "text": "Die Kirche des Heiligen Stanislaus des Bischofs und Märtyrers ist ein historisches Gotteshaus in Kalisz.",
+                  "category": "religious",
+                  "coords": [
+                        18.089142,
+                        51.761211
+                  ]
             }
       ],
       "hu": [
@@ -49469,6 +49766,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.101984,
                         51.756169
+                  ]
+            },
+            {
+                  "name": "Centrum Rysunku i Grafiki im. Tadeusza Kulisiewicza",
+                  "text": "A Tadeusz Kulisiewicz Rajz- és Grafikai Központ egy múzeum Kaliszban.",
+                  "category": "museum",
+                  "coords": [
+                        18.09271,
+                        51.762204
+                  ]
+            },
+            {
+                  "name": "Muzeum Osiakowskich",
+                  "text": "Az Osiakowski Múzeum egy múzeum Kalisz városában.",
+                  "category": "museum",
+                  "coords": [
+                        18.0888,
+                        51.763464
+                  ]
+            },
+            {
+                  "name": "Fundamenty Zamku Królewskiego",
+                  "text": "A kaliszi királyi kastély alapjai egykori történelmi várromok.",
+                  "category": "castle",
+                  "coords": [
+                        18.092115,
+                        51.764385
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe Ziemi Kaliskiej",
+                  "text": "A Kalisz-vidéki Kerületi Múzeum a régió történetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.082135,
+                        51.760716
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Biskupa Męczennika",
+                  "text": "A Szent Szaniszló püspök és vértanú templom egy történelmi épület Kaliszban.",
+                  "category": "religious",
+                  "coords": [
+                        18.089142,
+                        51.761211
                   ]
             }
       ],
@@ -49508,6 +49850,51 @@ export const polandCitiesV2: POI[] = [
                         18.101984,
                         51.756169
                   ]
+            },
+            {
+                  "name": "Centrum Rysunku i Grafiki im. Tadeusza Kulisiewicza",
+                  "text": "Centrul de Desen și Grafică Tadeusz Kulisiewicz este un muzeu de artă în Kalisz.",
+                  "category": "museum",
+                  "coords": [
+                        18.09271,
+                        51.762204
+                  ]
+            },
+            {
+                  "name": "Muzeum Osiakowskich",
+                  "text": "Muzeul Osiakowski este un muzeu din Kalisz.",
+                  "category": "museum",
+                  "coords": [
+                        18.0888,
+                        51.763464
+                  ]
+            },
+            {
+                  "name": "Fundamenty Zamku Królewskiego",
+                  "text": "Fundațiile Castelului Regal reprezintă ruinele unei cetăți istorice în Kalisz.",
+                  "category": "castle",
+                  "coords": [
+                        18.092115,
+                        51.764385
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe Ziemi Kaliskiej",
+                  "text": "Muzeul Districtual al Regiunii Kalisz prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        18.082135,
+                        51.760716
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Biskupa Męczennika",
+                  "text": "Biserica Sfântul Stanislau Episcop și Martir este un lăcaș de cult istoric în Kalisz.",
+                  "category": "religious",
+                  "coords": [
+                        18.089142,
+                        51.761211
+                  ]
             }
       ],
       "en": [
@@ -49545,6 +49932,51 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         18.101984,
                         51.756169
+                  ]
+            },
+            {
+                  "name": "Centrum Rysunku i Grafiki im. Tadeusza Kulisiewicza",
+                  "text": "The Tadeusz Kulisiewicz Centre for Drawing and Graphics is an art museum in Kalisz.",
+                  "category": "museum",
+                  "coords": [
+                        18.09271,
+                        51.762204
+                  ]
+            },
+            {
+                  "name": "Muzeum Osiakowskich",
+                  "text": "The Osiakowski Museum is a museum located in Kalisz.",
+                  "category": "museum",
+                  "coords": [
+                        18.0888,
+                        51.763464
+                  ]
+            },
+            {
+                  "name": "Fundamenty Zamku Królewskiego",
+                  "text": "The foundations of the Royal Castle are the remains of a historic fortress in Kalisz.",
+                  "category": "castle",
+                  "coords": [
+                        18.092115,
+                        51.764385
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe Ziemi Kaliskiej",
+                  "text": "The District Museum of the Kalisz Land exhibits the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.082135,
+                        51.760716
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Biskupa Męczennika",
+                  "text": "The Church of Saint Stanislaus the Bishop and Martyr is a notable church in Kalisz.",
+                  "category": "religious",
+                  "coords": [
+                        18.089142,
+                        51.761211
                   ]
             }
       ]
@@ -49614,6 +50046,33 @@ export const polandCitiesV2: POI[] = [
                         16.152127,
                         51.215367
                   ]
+            },
+            {
+                  "name": "Legnicka Biblioteka Publiczna",
+                  "text": "Die öffentliche Bibliothek von Legnica, die als bemerkenswerte lokale Attraktion fungiert.",
+                  "category": "landmark",
+                  "coords": [
+                        16.156484,
+                        51.209977
+                  ]
+            },
+            {
+                  "name": "Pomnik Władysława II Jagiełły",
+                  "text": "Ein Denkmal für König Władysław II. Jagiełło in Legnica.",
+                  "category": "historical",
+                  "coords": [
+                        16.151523,
+                        51.196877
+                  ]
+            },
+            {
+                  "name": "Otwarta Pracownia Sztuki",
+                  "text": "Eine Kunstgalerie und ein offenes Kunstatelier in Legnica.",
+                  "category": "museum",
+                  "coords": [
+                        16.157453,
+                        51.207278
+                  ]
             }
       ],
       "hu": [
@@ -49633,6 +50092,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.152127,
                         51.215367
+                  ]
+            },
+            {
+                  "name": "Legnicka Biblioteka Publiczna",
+                  "text": "Legnica nyilvános könyvtára, amely jelentős helyi látványosságként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.156484,
+                        51.209977
+                  ]
+            },
+            {
+                  "name": "Pomnik Władysława II Jagiełły",
+                  "text": "II. Ulászló lengyel királynak szentelt emlékmű Legnicában.",
+                  "category": "historical",
+                  "coords": [
+                        16.151523,
+                        51.196877
+                  ]
+            },
+            {
+                  "name": "Otwarta Pracownia Sztuki",
+                  "text": "Egy művészeti galéria és nyitott művészeti stúdió Legnicában.",
+                  "category": "museum",
+                  "coords": [
+                        16.157453,
+                        51.207278
                   ]
             }
       ],
@@ -49654,6 +50140,33 @@ export const polandCitiesV2: POI[] = [
                         16.152127,
                         51.215367
                   ]
+            },
+            {
+                  "name": "Legnicka Biblioteka Publiczna",
+                  "text": "Biblioteca publică din Legnica, funcționând ca o atracție locală notabilă.",
+                  "category": "landmark",
+                  "coords": [
+                        16.156484,
+                        51.209977
+                  ]
+            },
+            {
+                  "name": "Pomnik Władysława II Jagiełły",
+                  "text": "Un monument dedicat regelui Władysław al II-lea Jagiełło situat în Legnica.",
+                  "category": "historical",
+                  "coords": [
+                        16.151523,
+                        51.196877
+                  ]
+            },
+            {
+                  "name": "Otwarta Pracownia Sztuki",
+                  "text": "O galerie de artă și studio de artă deschis situat în Legnica.",
+                  "category": "museum",
+                  "coords": [
+                        16.157453,
+                        51.207278
+                  ]
             }
       ],
       "en": [
@@ -49673,6 +50186,33 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         16.152127,
                         51.215367
+                  ]
+            },
+            {
+                  "name": "Legnicka Biblioteka Publiczna",
+                  "text": "The public library of Legnica, functioning as a notable local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        16.156484,
+                        51.209977
+                  ]
+            },
+            {
+                  "name": "Pomnik Władysława II Jagiełły",
+                  "text": "A monument dedicated to King Władysław II Jagiełło located in Legnica.",
+                  "category": "historical",
+                  "coords": [
+                        16.151523,
+                        51.196877
+                  ]
+            },
+            {
+                  "name": "Otwarta Pracownia Sztuki",
+                  "text": "An art gallery and open art studio situated in Legnica.",
+                  "category": "museum",
+                  "coords": [
+                        16.157453,
+                        51.207278
                   ]
             }
       ]
@@ -57968,6 +58508,15 @@ export const polandCitiesV2: POI[] = [
                         19.700763,
                         51.409106
                   ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Alberta Chmielowskiego",
+                  "text": "Diese dem Heiligen Albert Chmielowski gewidmete Kirche ist eine Kultstätte in Piotrków Trybunalski.",
+                  "category": "religious",
+                  "coords": [
+                        19.740067,
+                        51.410875
+                  ]
             }
       ],
       "hu": [
@@ -58005,6 +58554,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.700763,
                         51.409106
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Alberta Chmielowskiego",
+                  "text": "Ez a Szent Albert Chmielowski nevét viselő templom egy vallási épület Piotrków Trybunalskiban.",
+                  "category": "religious",
+                  "coords": [
+                        19.740067,
+                        51.410875
                   ]
             }
       ],
@@ -58044,6 +58602,15 @@ export const polandCitiesV2: POI[] = [
                         19.700763,
                         51.409106
                   ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Alberta Chmielowskiego",
+                  "text": "Această biserică închinată Sfântului Albert Chmielowski este un lăcaș de cult din Piotrków Trybunalski.",
+                  "category": "religious",
+                  "coords": [
+                        19.740067,
+                        51.410875
+                  ]
             }
       ],
       "en": [
@@ -58081,6 +58648,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         19.700763,
                         51.409106
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Alberta Chmielowskiego",
+                  "text": "This church dedicated to Saint Albert Chmielowski is a place of worship in Piotrków Trybunalski.",
+                  "category": "religious",
+                  "coords": [
+                        19.740067,
+                        51.410875
                   ]
             }
       ]
@@ -62498,6 +63074,15 @@ export const polandCitiesV2: POI[] = [
                         17.593138,
                         52.537737
                   ]
+            },
+            {
+                  "name": "Instalacja artystyczna z oryginalnymi elementami Muru Berlińskiego.",
+                  "text": "Diese Kunstinstallation in Gniezno enthält Originalelemente der Berliner Mauer.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583738,
+                        52.532464
+                  ]
             }
       ],
       "hu": [
@@ -62517,6 +63102,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.593138,
                         52.537737
+                  ]
+            },
+            {
+                  "name": "Instalacja artystyczna z oryginalnymi elementami Muru Berlińskiego.",
+                  "text": "Ez a művészeti installáció Gniezno városában a Berlini Fal eredeti elemeit tartalmazza.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583738,
+                        52.532464
                   ]
             }
       ],
@@ -62538,6 +63132,15 @@ export const polandCitiesV2: POI[] = [
                         17.593138,
                         52.537737
                   ]
+            },
+            {
+                  "name": "Instalacja artystyczna z oryginalnymi elementami Muru Berlińskiego.",
+                  "text": "Această instalație de artă din Gniezno conține elemente originale ale Zidului Berlinului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583738,
+                        52.532464
+                  ]
             }
       ],
       "en": [
@@ -62557,6 +63160,15 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         17.593138,
                         52.537737
+                  ]
+            },
+            {
+                  "name": "Instalacja artystyczna z oryginalnymi elementami Muru Berlińskiego.",
+                  "text": "This art installation in Gniezno features original elements of the Berlin Wall.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583738,
+                        52.532464
                   ]
             }
       ]
@@ -62644,6 +63256,60 @@ export const polandCitiesV2: POI[] = [
                         21.391274,
                         50.946653
                   ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Kościół pw. Świętego Mikołaja ist eine lokale Kultstätte in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.365022,
+                        50.915521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Odkupiciela",
+                  "text": "Kościół pw. Matki Odkupiciela ist eine religiöse Stätte in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.413508,
+                        50.940919
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. Świętego Michała Archanioła",
+                  "text": "Die Stiftskirche des Heiligen Erzengels Michael ist eine bedeutende historische Kirche in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.388162,
+                        50.938175
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Kościół pw. Miłosierdzia Bożego ist eine Kultstätte in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.403395,
+                        50.942565
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Saletyńskiej",
+                  "text": "Diese Kirche in Ostrowiec Świętokrzyski dient als lokales Heiligtum Unserer Lieben Frau von La Salette.",
+                  "category": "religious",
+                  "coords": [
+                        21.367285,
+                        50.951198
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Kościół pw. Świętej Jadwigi Królowej ist eine lokale Pfarrei und religiöse Stätte in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.408037,
+                        50.950951
+                  ]
             }
       ],
       "hu": [
@@ -62681,6 +63347,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.391274,
                         50.946653
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "A Kościół pw. Świętego Mikołaja egy helyi istentiszteleti hely Ostrowiec Świętokrzyskiben.",
+                  "category": "religious",
+                  "coords": [
+                        21.365022,
+                        50.915521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Odkupiciela",
+                  "text": "A Kościół pw. Matki Odkupiciela egy vallási helyszín Ostrowiec Świętokrzyski városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.413508,
+                        50.940919
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. Świętego Michała Archanioła",
+                  "text": "A Szent Mihály arkangyal kollégiumi templom egy kiemelkedő történelmi templom Ostrowiec Świętokrzyskiben.",
+                  "category": "religious",
+                  "coords": [
+                        21.388162,
+                        50.938175
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "A Kościół pw. Miłosierdzia Bożego egy istentiszteleti hely Ostrowiec Świętokrzyski városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.403395,
+                        50.942565
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Saletyńskiej",
+                  "text": "Ez az Ostrowiec Świętokrzyskiben található templom a La Salette-i Miasszonyunk helyi szentélyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        21.367285,
+                        50.951198
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "A Kościół pw. Świętej Jadwigi Królowej egy helyi plébánia és vallási hely Ostrowiec Świętokrzyskiben.",
+                  "category": "religious",
+                  "coords": [
+                        21.408037,
+                        50.950951
                   ]
             }
       ],
@@ -62720,6 +63440,60 @@ export const polandCitiesV2: POI[] = [
                         21.391274,
                         50.946653
                   ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Kościół pw. Świętego Mikołaja este un lăcaș de cult local din Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.365022,
+                        50.915521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Odkupiciela",
+                  "text": "Kościół pw. Matki Odkupiciela este un lăcaș de cult religios situat în Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.413508,
+                        50.940919
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. Świętego Michała Archanioła",
+                  "text": "Biserica Colegiată a Sfântului Arhanghel Mihail este o biserică istorică importantă din Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.388162,
+                        50.938175
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Kościół pw. Miłosierdzia Bożego este un lăcaș de cult din Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.403395,
+                        50.942565
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Saletyńskiej",
+                  "text": "Această biserică din Ostrowiec Świętokrzyski servește drept Sanctuarul local al Maicii Domnului din La Salette.",
+                  "category": "religious",
+                  "coords": [
+                        21.367285,
+                        50.951198
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Kościół pw. Świętej Jadwigi Królowej este o parohie locală și un lăcaș de cult în Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.408037,
+                        50.950951
+                  ]
             }
       ],
       "en": [
@@ -62757,6 +63531,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.391274,
                         50.946653
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Kościół pw. Świętego Mikołaja is a local place of worship in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.365022,
+                        50.915521
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Odkupiciela",
+                  "text": "Kościół pw. Matki Odkupiciela is a religious site located in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.413508,
+                        50.940919
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. Świętego Michała Archanioła",
+                  "text": "The Collegiate Church of St. Michael the Archangel is a prominent historic church in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.388162,
+                        50.938175
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Kościół pw. Miłosierdzia Bożego is a place of worship welcoming visitors in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.403395,
+                        50.942565
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Saletyńskiej",
+                  "text": "This church in Ostrowiec Świętokrzyski serves as the local Sanctuary of Our Lady of La Salette.",
+                  "category": "religious",
+                  "coords": [
+                        21.367285,
+                        50.951198
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Kościół pw. Świętej Jadwigi Królowej is a local parish and religious site in Ostrowiec Świętokrzyski.",
+                  "category": "religious",
+                  "coords": [
+                        21.408037,
+                        50.950951
                   ]
             }
       ]
@@ -83435,6 +84263,60 @@ export const polandCitiesV2: POI[] = [
                         20.43376,
                         49.976472
                   ]
+            },
+            {
+                  "name": "Kopalnia Soli w Bochni",
+                  "text": "Die Salzbergwerk Bochnia ist eines der ältesten kontinuierlich betriebenen Salzbergwerke in Polen.",
+                  "category": "museum",
+                  "coords": [
+                        20.417654,
+                        49.969165
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Stanisława Fischera w Bochni",
+                  "text": "Das Museum in Bochnia bewahrt die lokale Geschichte und Kultur der Bergbauregion.",
+                  "category": "museum",
+                  "coords": [
+                        20.431315,
+                        49.969331
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja Biskupa",
+                  "text": "Die Basilika St. Nikolaus ist ein bedeutendes religiöses Gebäude und ein historischer Schatz in Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.428408,
+                        49.96935
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Pawła Apostoła w Bochni",
+                  "text": "Die Kirche des Heiligen Apostels Paulus ist ein lokales Sakralgebäude in Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.413424,
+                        49.96303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena w Bochni",
+                  "text": "Die Kirche des Heiligen Johannes Nepomuk ist ein historisches Gotteshaus in Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.440709,
+                        49.968259
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Kostki",
+                  "text": "Diese Kirche in Bochnia ist dem Heiligen Stanislaus Kostka geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        20.425406,
+                        49.968588
+                  ]
             }
       ],
       "hu": [
@@ -83472,6 +84354,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.43376,
                         49.976472
+                  ]
+            },
+            {
+                  "name": "Kopalnia Soli w Bochni",
+                  "text": "A bochniai sóbánya Lengyelország egyik legrégebbi, folyamatosan működő sóbányája.",
+                  "category": "museum",
+                  "coords": [
+                        20.417654,
+                        49.969165
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Stanisława Fischera w Bochni",
+                  "text": "A bochniai múzeum a bányászati régió helyi történelmét és kultúráját őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        20.431315,
+                        49.969331
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja Biskupa",
+                  "text": "A Szent Miklós-bazilika egy jelentős vallási épület és történelmi kincs Bochniában.",
+                  "category": "religious",
+                  "coords": [
+                        20.428408,
+                        49.96935
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Pawła Apostoła w Bochni",
+                  "text": "A Szent Pál Apostol-templom egy helyi vallási épület Bochniában.",
+                  "category": "religious",
+                  "coords": [
+                        20.413424,
+                        49.96303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena w Bochni",
+                  "text": "A Nepomuki Szent János-templom egy történelmi istentiszteleti hely Bochniában.",
+                  "category": "religious",
+                  "coords": [
+                        20.440709,
+                        49.968259
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Kostki",
+                  "text": "Ezt a bochniai templomot Kosztka Szent Szaniszló tiszteletére szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        20.425406,
+                        49.968588
                   ]
             }
       ],
@@ -83511,6 +84447,60 @@ export const polandCitiesV2: POI[] = [
                         20.43376,
                         49.976472
                   ]
+            },
+            {
+                  "name": "Kopalnia Soli w Bochni",
+                  "text": "Mina de sare Bochnia este una dintre cele mai vechi mine de sare din Polonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.417654,
+                        49.969165
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Stanisława Fischera w Bochni",
+                  "text": "Muzeul din Bochnia conservă istoria și cultura locală a regiunii miniere.",
+                  "category": "museum",
+                  "coords": [
+                        20.431315,
+                        49.969331
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja Biskupa",
+                  "text": "Bazilica Sfântul Nicolae este o clădire religioasă importantă și o comoară istorică din Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.428408,
+                        49.96935
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Pawła Apostoła w Bochni",
+                  "text": "Biserica Sfântul Apostol Pavel este o clădire religioasă locală din Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.413424,
+                        49.96303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena w Bochni",
+                  "text": "Biserica Sfântul Ioan Nepomuk este un lăcaș de cult istoric din Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.440709,
+                        49.968259
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Kostki",
+                  "text": "Această biserică din Bochnia este dedicată Sfântului Stanislau Kostka.",
+                  "category": "religious",
+                  "coords": [
+                        20.425406,
+                        49.968588
+                  ]
             }
       ],
       "en": [
@@ -83548,6 +84538,60 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         20.43376,
                         49.976472
+                  ]
+            },
+            {
+                  "name": "Kopalnia Soli w Bochni",
+                  "text": "The Bochnia Salt Mine is one of the oldest continuously operated salt mines in Poland.",
+                  "category": "museum",
+                  "coords": [
+                        20.417654,
+                        49.969165
+                  ]
+            },
+            {
+                  "name": "Muzeum im. Stanisława Fischera w Bochni",
+                  "text": "The museum in Bochnia preserves the local history and culture of the mining region.",
+                  "category": "museum",
+                  "coords": [
+                        20.431315,
+                        49.969331
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja Biskupa",
+                  "text": "The St. Nicholas Basilica is a significant religious building and historical treasure in Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.428408,
+                        49.96935
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Pawła Apostoła w Bochni",
+                  "text": "The Church of St. Paul the Apostle is a local religious building in Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.413424,
+                        49.96303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena w Bochni",
+                  "text": "The Church of St. John Nepomuk is a historical place of worship located in Bochnia.",
+                  "category": "religious",
+                  "coords": [
+                        20.440709,
+                        49.968259
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Stanisława Kostki",
+                  "text": "This church in Bochnia is dedicated to Saint Stanislaus Kostka.",
+                  "category": "religious",
+                  "coords": [
+                        20.425406,
+                        49.968588
                   ]
             }
       ]

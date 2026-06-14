@@ -17051,6 +17051,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.465824,
                         39.477148
                   ]
+            },
+            {
+                  "name": "Igreja Matriz da Atalaia",
+                  "text": "Die Igreja Matriz da Atalaia ist ein Gotteshaus in Entroncamento.",
+                  "category": "religious",
+                  "coords": [
+                        -8.450281,
+                        39.482841
+                  ]
             }
       ],
       "hu": [
@@ -17088,6 +17097,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.465824,
                         39.477148
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz da Atalaia",
+                  "text": "Az Igreja Matriz da Atalaia egy istentiszteleti hely Entroncamentóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.450281,
+                        39.482841
                   ]
             }
       ],
@@ -17127,6 +17145,15 @@ export const portugalCitiesV2: POI[] = [
                         -8.465824,
                         39.477148
                   ]
+            },
+            {
+                  "name": "Igreja Matriz da Atalaia",
+                  "text": "Igreja Matriz da Atalaia este un lăcaș de cult situat în Entroncamento.",
+                  "category": "religious",
+                  "coords": [
+                        -8.450281,
+                        39.482841
+                  ]
             }
       ],
       "en": [
@@ -17164,6 +17191,15 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.465824,
                         39.477148
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz da Atalaia",
+                  "text": "Igreja Matriz da Atalaia is a place of worship located in Entroncamento.",
+                  "category": "religious",
+                  "coords": [
+                        -8.450281,
+                        39.482841
                   ]
             }
       ]
@@ -35259,6 +35295,33 @@ export const portugalCitiesV2: POI[] = [
                         -8.626598,
                         40.05563
                   ]
+            },
+            {
+                  "name": "Junta de Freguesia de Soure",
+                  "text": "Die Junta de Freguesia de Soure dient als lokales Rathaus und Verwaltungszentrum von Soure.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625395,
+                        40.061149
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Soure",
+                  "text": "Die Igreja da Misericórdia de Soure ist ein religiöses Gebäude in Soure.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626012,
+                        40.058965
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Soure",
+                  "text": "Die Igreja Paroquial de Soure ist eine Sehenswürdigkeit in der Stadt Soure.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625721,
+                        40.057921
+                  ]
             }
       ],
       "hu": [
@@ -35287,6 +35350,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.626598,
                         40.05563
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de Soure",
+                  "text": "A Junta de Freguesia de Soure a város helyi önkormányzataként és adminisztratív központjaként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625395,
+                        40.061149
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Soure",
+                  "text": "Az Igreja da Misericórdia de Soure egy vallási épület Soure városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626012,
+                        40.058965
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Soure",
+                  "text": "Az Igreja Paroquial de Soure egy nevezetesség Soure városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625721,
+                        40.057921
                   ]
             }
       ],
@@ -35317,6 +35407,33 @@ export const portugalCitiesV2: POI[] = [
                         -8.626598,
                         40.05563
                   ]
+            },
+            {
+                  "name": "Junta de Freguesia de Soure",
+                  "text": "Junta de Freguesia de Soure servește ca primărie locală și centru administrativ pentru Soure.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625395,
+                        40.061149
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Soure",
+                  "text": "Igreja da Misericórdia de Soure este un lăcaș de cult situat în Soure.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626012,
+                        40.058965
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Soure",
+                  "text": "Igreja Paroquial de Soure este un punct de interes din orașul Soure.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625721,
+                        40.057921
+                  ]
             }
       ],
       "en": [
@@ -35345,6 +35462,33 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.626598,
                         40.05563
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de Soure",
+                  "text": "Junta de Freguesia de Soure serves as the local town hall and administrative center for Soure.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625395,
+                        40.061149
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia de Soure",
+                  "text": "Igreja da Misericórdia de Soure is a place of worship located in Soure.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626012,
+                        40.058965
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Soure",
+                  "text": "Igreja Paroquial de Soure is a point of interest located in Soure.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.625721,
+                        40.057921
                   ]
             }
       ]

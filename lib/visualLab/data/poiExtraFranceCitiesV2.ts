@@ -1458,6 +1458,42 @@ export const franceCitiesV2: POI[] = [
                         1.259922,
                         45.827466
                   ]
+            },
+            {
+                  "name": "Chapelle Saint-Aurélien",
+                  "text": "Die Chapelle Saint-Aurélien in Limoges-sur-Vienne ist eine bekannte kleine Kapelle, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        1.257388,
+                        45.828403
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste",
+                  "text": "Die Chapelle Saint-Jean-Baptiste ist eine Kapelle und Kultstätte in Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.227434,
+                        45.830071
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "Die Église Saint-François ist eine Kirche in Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.23093,
+                        45.841836
+                  ]
+            },
+            {
+                  "name": "chapelle du CH Esquirol",
+                  "text": "Die Chapelle du CH Esquirol ist eine Andachtsstätte in Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.241704,
+                        45.817429
+                  ]
             }
       ],
       "hu": [
@@ -1486,6 +1522,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         1.259922,
                         45.827466
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aurélien",
+                  "text": "A Chapelle Saint-Aurélien egy ismert történelmi kápolna Limoges-sur-Vienne-ben, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        1.257388,
+                        45.828403
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste",
+                  "text": "A Chapelle Saint-Jean-Baptiste egy kápolna Limoges-sur-Vienne-ben.",
+                  "category": "religious",
+                  "coords": [
+                        1.227434,
+                        45.830071
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "Az Église Saint-François egy templom Limoges-sur-Vienne városában.",
+                  "category": "religious",
+                  "coords": [
+                        1.23093,
+                        45.841836
+                  ]
+            },
+            {
+                  "name": "chapelle du CH Esquirol",
+                  "text": "A chapelle du CH Esquirol egy istentiszteleti hely Limoges-sur-Vienne-ben.",
+                  "category": "religious",
+                  "coords": [
+                        1.241704,
+                        45.817429
                   ]
             }
       ],
@@ -1516,6 +1588,42 @@ export const franceCitiesV2: POI[] = [
                         1.259922,
                         45.827466
                   ]
+            },
+            {
+                  "name": "Chapelle Saint-Aurélien",
+                  "text": "Chapelle Saint-Aurélien este o capelă notabilă din Limoges-sur-Vienne care găzduiește un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        1.257388,
+                        45.828403
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste",
+                  "text": "Chapelle Saint-Jean-Baptiste este un lăcaș de cult din Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.227434,
+                        45.830071
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "Église Saint-François este o biserică situată în Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.23093,
+                        45.841836
+                  ]
+            },
+            {
+                  "name": "chapelle du CH Esquirol",
+                  "text": "Chapelle du CH Esquirol este un lăcaș de cult din Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.241704,
+                        45.817429
+                  ]
             }
       ],
       "en": [
@@ -1544,6 +1652,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         1.259922,
                         45.827466
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Aurélien",
+                  "text": "The Chapelle Saint-Aurélien is a notable historic chapel operating as a museum in Limoges-sur-Vienne.",
+                  "category": "museum",
+                  "coords": [
+                        1.257388,
+                        45.828403
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Jean-Baptiste",
+                  "text": "Chapelle Saint-Jean-Baptiste is a chapel and place of worship in Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.227434,
+                        45.830071
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "Église Saint-François is a local place of worship in Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.23093,
+                        45.841836
+                  ]
+            },
+            {
+                  "name": "chapelle du CH Esquirol",
+                  "text": "The chapelle du CH Esquirol is a chapel in Limoges-sur-Vienne.",
+                  "category": "religious",
+                  "coords": [
+                        1.241704,
+                        45.817429
                   ]
             }
       ]
@@ -1629,6 +1773,69 @@ export const franceCitiesV2: POI[] = [
                         4.999569,
                         47.291454
                   ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "Das Muséum d'Histoire Naturelle ist ein naturhistorisches Museum im Zentrum von Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.028942,
+                        47.321852
+                  ]
+            },
+            {
+                  "name": "Castel",
+                  "text": "Das Castel ist ein Schlossgebäude in der Innenstadt von Dijon.",
+                  "category": "castle",
+                  "coords": [
+                        5.03663,
+                        47.310607
+                  ]
+            },
+            {
+                  "name": "Obélisque",
+                  "text": "Der Obélisque ist ein markantes Denkmal im Zentrum von Dijon.",
+                  "category": "historical",
+                  "coords": [
+                        5.028199,
+                        47.315
+                  ]
+            },
+            {
+                  "name": "Darcy Square",
+                  "text": "Der Darcy Square ist ein bekannter öffentlicher Park im Zentrum von Dijon.",
+                  "category": "park",
+                  "coords": [
+                        5.032224,
+                        47.32435
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "Die Église Saint-Philibert ist eine ehemalige romanische Kirche, die heute als Museum in Dijon genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        5.034945,
+                        47.320984
+                  ]
+            },
+            {
+                  "name": "FRAC Bourgogne",
+                  "text": "Das FRAC Bourgogne ist ein Museum für zeitgenössische Kunst in Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.0304,
+                        47.3195
+                  ]
+            },
+            {
+                  "name": "Porte Guillaume",
+                  "text": "Die Porte Guillaume ist ein historischer Triumphbogen auf der Place Darcy in Dijon.",
+                  "category": "historical",
+                  "coords": [
+                        5.034732,
+                        47.323289
+                  ]
             }
       ],
       "hu": [
@@ -1657,6 +1864,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.999569,
                         47.291454
+                  ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "A Muséum d'Histoire Naturelle egy természettudományi múzeum Dijon központjában.",
+                  "category": "museum",
+                  "coords": [
+                        5.028942,
+                        47.321852
+                  ]
+            },
+            {
+                  "name": "Castel",
+                  "text": "A Castel egy történelmi kastélyépület Dijon központjában.",
+                  "category": "castle",
+                  "coords": [
+                        5.03663,
+                        47.310607
+                  ]
+            },
+            {
+                  "name": "Obélisque",
+                  "text": "Az Obélisque egy emlékmű Dijon központi részén.",
+                  "category": "historical",
+                  "coords": [
+                        5.028199,
+                        47.315
+                  ]
+            },
+            {
+                  "name": "Darcy Square",
+                  "text": "A Darcy Square egy népszerű nyilvános park Dijon központjában.",
+                  "category": "park",
+                  "coords": [
+                        5.032224,
+                        47.32435
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "Az Église Saint-Philibert egy egykori román stílusú templom, amely ma múzeumként működik Dijonban.",
+                  "category": "museum",
+                  "coords": [
+                        5.034945,
+                        47.320984
+                  ]
+            },
+            {
+                  "name": "FRAC Bourgogne",
+                  "text": "A FRAC Bourgogne egy kortárs művészeti múzeum Dijon központjában.",
+                  "category": "museum",
+                  "coords": [
+                        5.0304,
+                        47.3195
+                  ]
+            },
+            {
+                  "name": "Porte Guillaume",
+                  "text": "A Porte Guillaume egy történelmi diadalív Dijon központjában.",
+                  "category": "historical",
+                  "coords": [
+                        5.034732,
+                        47.323289
                   ]
             }
       ],
@@ -1687,6 +1957,69 @@ export const franceCitiesV2: POI[] = [
                         4.999569,
                         47.291454
                   ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "Muséum d'Histoire Naturelle este un muzeu de istorie naturală din centrul orașului Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.028942,
+                        47.321852
+                  ]
+            },
+            {
+                  "name": "Castel",
+                  "text": "Castel este un castel istoric situat în centrul orașului Dijon.",
+                  "category": "castle",
+                  "coords": [
+                        5.03663,
+                        47.310607
+                  ]
+            },
+            {
+                  "name": "Obélisque",
+                  "text": "Obélisque este un monument aflat în zona centrală a orașului Dijon.",
+                  "category": "historical",
+                  "coords": [
+                        5.028199,
+                        47.315
+                  ]
+            },
+            {
+                  "name": "Darcy Square",
+                  "text": "Darcy Square este un parc public istoric situat în centrul orașului Dijon.",
+                  "category": "park",
+                  "coords": [
+                        5.032224,
+                        47.32435
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "Église Saint-Philibert este o fostă biserică romanică folosită astăzi ca muzeu în Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.034945,
+                        47.320984
+                  ]
+            },
+            {
+                  "name": "FRAC Bourgogne",
+                  "text": "FRAC Bourgogne este un muzeu de artă contemporană din Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.0304,
+                        47.3195
+                  ]
+            },
+            {
+                  "name": "Porte Guillaume",
+                  "text": "Porte Guillaume este un arc de triumf istoric situat în centrul orașului Dijon.",
+                  "category": "historical",
+                  "coords": [
+                        5.034732,
+                        47.323289
+                  ]
             }
       ],
       "en": [
@@ -1715,6 +2048,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.999569,
                         47.291454
+                  ]
+            },
+            {
+                  "name": "Muséum d'Histoire Naturelle",
+                  "text": "The Muséum d'Histoire Naturelle is a natural history museum in central Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.028942,
+                        47.321852
+                  ]
+            },
+            {
+                  "name": "Castel",
+                  "text": "The Castel is a historical castle structure located in Dijon-Centre.",
+                  "category": "castle",
+                  "coords": [
+                        5.03663,
+                        47.310607
+                  ]
+            },
+            {
+                  "name": "Obélisque",
+                  "text": "The Obélisque is a notable monument located in the center of Dijon.",
+                  "category": "historical",
+                  "coords": [
+                        5.028199,
+                        47.315
+                  ]
+            },
+            {
+                  "name": "Darcy Square",
+                  "text": "Darcy Square is a historic public park located in central Dijon.",
+                  "category": "park",
+                  "coords": [
+                        5.032224,
+                        47.32435
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "Église Saint-Philibert is a former Romanesque church serving as a museum in Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.034945,
+                        47.320984
+                  ]
+            },
+            {
+                  "name": "FRAC Bourgogne",
+                  "text": "FRAC Bourgogne is a contemporary art museum located in central Dijon.",
+                  "category": "museum",
+                  "coords": [
+                        5.0304,
+                        47.3195
+                  ]
+            },
+            {
+                  "name": "Porte Guillaume",
+                  "text": "Porte Guillaume is a historic triumphal arch located in the center of Dijon.",
+                  "category": "historical",
+                  "coords": [
+                        5.034732,
+                        47.323289
                   ]
             }
       ]
@@ -1765,10 +2161,374 @@ export const franceCitiesV2: POI[] = [
   },
   {
     id: "france-besancon-bis-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Tour Montmart",
+                  "text": "Tour Montmart ist eine historische Turmanlage in Besançon-Nord.",
+                  "category": "tower",
+                  "coords": [
+                        6.02265,
+                        47.244033
+                  ]
+            },
+            {
+                  "name": "Fort des Justices",
+                  "text": "Fort des Justices ist eine historische Befestigungsanlage in Besançon-Nord.",
+                  "category": "fortress",
+                  "coords": [
+                        6.008083,
+                        47.255009
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin des Chaprais",
+                  "text": "Die Église Saint-Martin des Chaprais ist eine bedeutende Kultstätte in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.035753,
+                        47.249996
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-du-Foyer",
+                  "text": "Die Chapelle Notre-Dame-du-Foyer ist eine Kapelle und Kultstätte in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.027318,
+                        47.254245
+                  ]
+            },
+            {
+                  "name": "Église Saint-Claude",
+                  "text": "Die Église Saint-Claude ist eine örtliche Kirche und Kultstätte in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.016508,
+                        47.256034
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Paul",
+                  "text": "Die Chapelle Saint-Paul ist eine religiöse Kultstätte in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.050729,
+                        47.249803
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "Die Église Saint-Pie X ist eine Kirche, die der Gemeinde in Besançon-Nord als Kultstätte dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.046807,
+                        47.262416
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis de Montrapon",
+                  "text": "Die Église Saint-Louis de Montrapon ist eine Kultstätte in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.009249,
+                        47.246822
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Bouloie",
+                  "text": "Das Théâtre de la Bouloie ist ein bekanntes Theater in Besançon-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.987282,
+                        47.25047
+                  ]
+            },
+            {
+                  "name": "Salle Jenny d'Héricourt",
+                  "text": "Der Salle Jenny d'Héricourt ist ein örtliches Theater und ein Veranstaltungsraum in Besançon-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.99141,
+                        47.249936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tour Montmart",
+                  "text": "A Tour Montmart egy történelmi torony építmény Besançon-Nord-ban.",
+                  "category": "tower",
+                  "coords": [
+                        6.02265,
+                        47.244033
+                  ]
+            },
+            {
+                  "name": "Fort des Justices",
+                  "text": "A Fort des Justices egy történelmi erődítmény Besançon-Nord-ban.",
+                  "category": "fortress",
+                  "coords": [
+                        6.008083,
+                        47.255009
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin des Chaprais",
+                  "text": "Az Église Saint-Martin des Chaprais egy jelentős istentiszteleti hely Besançon-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.035753,
+                        47.249996
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-du-Foyer",
+                  "text": "A Chapelle Notre-Dame-du-Foyer egy kápolna, amely istentiszteleti helyként szolgál Besançon-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.027318,
+                        47.254245
+                  ]
+            },
+            {
+                  "name": "Église Saint-Claude",
+                  "text": "Az Église Saint-Claude egy helyi templom és istentiszteleti hely Besançon-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.016508,
+                        47.256034
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Paul",
+                  "text": "A Chapelle Saint-Paul egy vallási istentiszteleti hely Besançon-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.050729,
+                        47.249803
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "Az Église Saint-Pie X egy templom, amely a közösség istentiszteleti helyeként szolgál Besançon-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.046807,
+                        47.262416
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis de Montrapon",
+                  "text": "Az Église Saint-Louis de Montrapon egy istentiszteleti hely Besançon-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.009249,
+                        47.246822
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Bouloie",
+                  "text": "A Théâtre de la Bouloie egy kiemelkedő színház Besançon-Nord-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        5.987282,
+                        47.25047
+                  ]
+            },
+            {
+                  "name": "Salle Jenny d'Héricourt",
+                  "text": "A Salle Jenny d'Héricourt egy helyi színház és előadóterem Besançon-Nord-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        5.99141,
+                        47.249936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tour Montmart",
+                  "text": "Tour Montmart este o structură istorică tip turn situată în Besançon-Nord.",
+                  "category": "tower",
+                  "coords": [
+                        6.02265,
+                        47.244033
+                  ]
+            },
+            {
+                  "name": "Fort des Justices",
+                  "text": "Fort des Justices este o fortificație istorică situată în Besançon-Nord.",
+                  "category": "fortress",
+                  "coords": [
+                        6.008083,
+                        47.255009
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin des Chaprais",
+                  "text": "Église Saint-Martin des Chaprais este un important lăcaș de cult situat în Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.035753,
+                        47.249996
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-du-Foyer",
+                  "text": "Chapelle Notre-Dame-du-Foyer este o capelă ce oferă un loc de cult în Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.027318,
+                        47.254245
+                  ]
+            },
+            {
+                  "name": "Église Saint-Claude",
+                  "text": "Église Saint-Claude este o biserică locală și lăcaș de cult în Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.016508,
+                        47.256034
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Paul",
+                  "text": "Chapelle Saint-Paul este un lăcaș de cult religios situat în Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.050729,
+                        47.249803
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "Église Saint-Pie X este o biserică ce deservește comunitatea ca lăcaș de cult în Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.046807,
+                        47.262416
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis de Montrapon",
+                  "text": "Église Saint-Louis de Montrapon este un lăcaș de cult situat în Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.009249,
+                        47.246822
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Bouloie",
+                  "text": "Théâtre de la Bouloie este un teatru important aflat în Besançon-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.987282,
+                        47.25047
+                  ]
+            },
+            {
+                  "name": "Salle Jenny d'Héricourt",
+                  "text": "Salle Jenny d'Héricourt este un teatru local și un spațiu de spectacole în Besançon-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.99141,
+                        47.249936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tour Montmart",
+                  "text": "Tour Montmart is a historic tower structure located in Besançon-Nord.",
+                  "category": "tower",
+                  "coords": [
+                        6.02265,
+                        47.244033
+                  ]
+            },
+            {
+                  "name": "Fort des Justices",
+                  "text": "Fort des Justices is a historic fortification located in Besançon-Nord.",
+                  "category": "fortress",
+                  "coords": [
+                        6.008083,
+                        47.255009
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin des Chaprais",
+                  "text": "Église Saint-Martin des Chaprais is a significant place of worship situated in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.035753,
+                        47.249996
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame-du-Foyer",
+                  "text": "Chapelle Notre-Dame-du-Foyer is a chapel offering a place of worship in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.027318,
+                        47.254245
+                  ]
+            },
+            {
+                  "name": "Église Saint-Claude",
+                  "text": "Église Saint-Claude is a local church and place of worship in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.016508,
+                        47.256034
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Paul",
+                  "text": "Chapelle Saint-Paul is a religious place of worship located in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.050729,
+                        47.249803
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "Église Saint-Pie X is a church serving the community as a place of worship in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.046807,
+                        47.262416
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis de Montrapon",
+                  "text": "Église Saint-Louis de Montrapon is a place of worship situated in Besançon-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.009249,
+                        47.246822
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Bouloie",
+                  "text": "Théâtre de la Bouloie is a prominent theatre venue found in Besançon-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.987282,
+                        47.25047
+                  ]
+            },
+            {
+                  "name": "Salle Jenny d'Héricourt",
+                  "text": "Salle Jenny d'Héricourt is a local theatre and performance space in Besançon-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.99141,
+                        47.249936
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "FR",
@@ -1816,10 +2576,374 @@ export const franceCitiesV2: POI[] = [
   },
   {
     id: "france-rouen-bis-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Parc Grammont",
+                  "text": "Der Parc Grammont ist ein bemerkenswerter Stadtpark mit Grünflächen in Rouen-Rive-Gauche.",
+                  "category": "park",
+                  "coords": [
+                        1.098166,
+                        49.426854
+                  ]
+            },
+            {
+                  "name": "Le 106",
+                  "text": "Le 106 ist ein Kunst- und Kulturzentrum in Rouen-Rive-Gauche.",
+                  "category": "cultural",
+                  "coords": [
+                        1.075165,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste-de-la-Salle",
+                  "text": "Die Église Saint-Jean-Baptiste-de-la-Salle ist eine lokale Andachtsstätte in Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.081537,
+                        49.43687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "Die Église Saint-Clément ist eine religiöse Stätte in Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.077844,
+                        49.42653
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-du-Parc",
+                  "text": "Die Église Notre-Dame-du-Parc, historisch mit der Chapelle de Grandmont verbunden, ist ein Wahrzeichen in Rouen-Rive-Gauche.",
+                  "category": "landmark",
+                  "coords": [
+                        1.097342,
+                        49.425761
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sever",
+                  "text": "Die Église Saint-Sever ist ein markantes religiöses Wahrzeichen in Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.085644,
+                        49.430355
+                  ]
+            },
+            {
+                  "name": "Pont Guillaume-le-Conquérant",
+                  "text": "Die Pont Guillaume-le-Conquérant ist eine markante Brücke in Rouen-Rive-Gauche.",
+                  "category": "landmark",
+                  "coords": [
+                        1.081137,
+                        49.440573
+                  ]
+            },
+            {
+                  "name": "Pavillon des transitions",
+                  "text": "Der Pavillon des transitions ist ein Ausstellungsraum und Museum in Rouen-Rive-Gauche.",
+                  "category": "museum",
+                  "coords": [
+                        1.07756,
+                        49.441928
+                  ]
+            },
+            {
+                  "name": "Cité immersive Viking",
+                  "text": "Die Cité immersive Viking ist ein interaktives Museum in Rouen-Rive-Gauche, das das Erbe der Wikinger zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.079124,
+                        49.439532
+                  ]
+            },
+            {
+                  "name": "Atrium",
+                  "text": "Das Atrium dient als Wissenschafts- und Kulturmuseum in Rouen-Rive-Gauche.",
+                  "category": "museum",
+                  "coords": [
+                        1.079459,
+                        49.428204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Grammont",
+                  "text": "A Parc Grammont egy nevezetes városi park Rouen-Rive-Gauche területén.",
+                  "category": "park",
+                  "coords": [
+                        1.098166,
+                        49.426854
+                  ]
+            },
+            {
+                  "name": "Le 106",
+                  "text": "A Le 106 egy művészeti és kulturális központ Rouen-Rive-Gauche-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        1.075165,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste-de-la-Salle",
+                  "text": "Az Église Saint-Jean-Baptiste-de-la-Salle egy helyi istentiszteleti hely Rouen-Rive-Gauche-ban.",
+                  "category": "religious",
+                  "coords": [
+                        1.081537,
+                        49.43687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "Az Église Saint-Clément egy vallási helyszín Rouen-Rive-Gauche-ban.",
+                  "category": "religious",
+                  "coords": [
+                        1.077844,
+                        49.42653
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-du-Parc",
+                  "text": "A történelmileg a Chapelle de Grandmont-hoz kötődő Église Notre-Dame-du-Parc egy nevezetesség Rouen-Rive-Gauche-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.097342,
+                        49.425761
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sever",
+                  "text": "Az Église Saint-Sever egy kiemelkedő vallási nevezetesség Rouen-Rive-Gauche-ban.",
+                  "category": "religious",
+                  "coords": [
+                        1.085644,
+                        49.430355
+                  ]
+            },
+            {
+                  "name": "Pont Guillaume-le-Conquérant",
+                  "text": "A Pont Guillaume-le-Conquérant egy nevezetes híd Rouen-Rive-Gauche-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.081137,
+                        49.440573
+                  ]
+            },
+            {
+                  "name": "Pavillon des transitions",
+                  "text": "A Pavillon des transitions egy kiállítótér és múzeum Rouen-Rive-Gauche-ban.",
+                  "category": "museum",
+                  "coords": [
+                        1.07756,
+                        49.441928
+                  ]
+            },
+            {
+                  "name": "Cité immersive Viking",
+                  "text": "A Cité immersive Viking egy interaktív múzeum Rouen-Rive-Gauche-ban, amely a viking örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.079124,
+                        49.439532
+                  ]
+            },
+            {
+                  "name": "Atrium",
+                  "text": "Az Atrium egy tudományos és kulturális múzeumként szolgál Rouen-Rive-Gauche-ban.",
+                  "category": "museum",
+                  "coords": [
+                        1.079459,
+                        49.428204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Grammont",
+                  "text": "Parc Grammont este un parc urban notabil care oferă spațiu verde în Rouen-Rive-Gauche.",
+                  "category": "park",
+                  "coords": [
+                        1.098166,
+                        49.426854
+                  ]
+            },
+            {
+                  "name": "Le 106",
+                  "text": "Le 106 este un centru cultural și de arte din Rouen-Rive-Gauche.",
+                  "category": "cultural",
+                  "coords": [
+                        1.075165,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste-de-la-Salle",
+                  "text": "Église Saint-Jean-Baptiste-de-la-Salle este un lăcaș de cult local din Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.081537,
+                        49.43687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "Église Saint-Clément este un site religios situat în Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.077844,
+                        49.42653
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-du-Parc",
+                  "text": "Église Notre-Dame-du-Parc, legată istoric de Chapelle de Grandmont, este un punct de reper în Rouen-Rive-Gauche.",
+                  "category": "landmark",
+                  "coords": [
+                        1.097342,
+                        49.425761
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sever",
+                  "text": "Église Saint-Sever este un punct de reper religios proeminent situat în Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.085644,
+                        49.430355
+                  ]
+            },
+            {
+                  "name": "Pont Guillaume-le-Conquérant",
+                  "text": "Pont Guillaume-le-Conquérant este un pod notabil din Rouen-Rive-Gauche.",
+                  "category": "landmark",
+                  "coords": [
+                        1.081137,
+                        49.440573
+                  ]
+            },
+            {
+                  "name": "Pavillon des transitions",
+                  "text": "Pavillon des transitions este un spațiu expozițional și muzeu situat în Rouen-Rive-Gauche.",
+                  "category": "museum",
+                  "coords": [
+                        1.07756,
+                        49.441928
+                  ]
+            },
+            {
+                  "name": "Cité immersive Viking",
+                  "text": "Cité immersive Viking este un muzeu interactiv din Rouen-Rive-Gauche, care prezintă moștenirea vikingă.",
+                  "category": "museum",
+                  "coords": [
+                        1.079124,
+                        49.439532
+                  ]
+            },
+            {
+                  "name": "Atrium",
+                  "text": "Atrium este un muzeu de știință și cultură situat în Rouen-Rive-Gauche.",
+                  "category": "museum",
+                  "coords": [
+                        1.079459,
+                        49.428204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Grammont",
+                  "text": "Parc Grammont is a notable urban park offering green space in Rouen-Rive-Gauche.",
+                  "category": "park",
+                  "coords": [
+                        1.098166,
+                        49.426854
+                  ]
+            },
+            {
+                  "name": "Le 106",
+                  "text": "Le 106 is an arts and cultural centre located in Rouen-Rive-Gauche.",
+                  "category": "cultural",
+                  "coords": [
+                        1.075165,
+                        49.440518
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste-de-la-Salle",
+                  "text": "Église Saint-Jean-Baptiste-de-la-Salle is a local place of worship in Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.081537,
+                        49.43687
+                  ]
+            },
+            {
+                  "name": "Église Saint-Clément",
+                  "text": "Église Saint-Clément is a religious site situated in Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.077844,
+                        49.42653
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-du-Parc",
+                  "text": "Église Notre-Dame-du-Parc, historically linked to the Chapelle de Grandmont, is a landmark in Rouen-Rive-Gauche.",
+                  "category": "landmark",
+                  "coords": [
+                        1.097342,
+                        49.425761
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sever",
+                  "text": "Église Saint-Sever is a prominent religious landmark situated in Rouen-Rive-Gauche.",
+                  "category": "religious",
+                  "coords": [
+                        1.085644,
+                        49.430355
+                  ]
+            },
+            {
+                  "name": "Pont Guillaume-le-Conquérant",
+                  "text": "Pont Guillaume-le-Conquérant is a notable bridge crossing the river in Rouen-Rive-Gauche.",
+                  "category": "landmark",
+                  "coords": [
+                        1.081137,
+                        49.440573
+                  ]
+            },
+            {
+                  "name": "Pavillon des transitions",
+                  "text": "The Pavillon des transitions is an exhibition space and museum located in Rouen-Rive-Gauche.",
+                  "category": "museum",
+                  "coords": [
+                        1.07756,
+                        49.441928
+                  ]
+            },
+            {
+                  "name": "Cité immersive Viking",
+                  "text": "Cité immersive Viking is an interactive museum in Rouen-Rive-Gauche showcasing Viking heritage.",
+                  "category": "museum",
+                  "coords": [
+                        1.079124,
+                        49.439532
+                  ]
+            },
+            {
+                  "name": "Atrium",
+                  "text": "The Atrium serves as a science and culture museum located in Rouen-Rive-Gauche.",
+                  "category": "museum",
+                  "coords": [
+                        1.079459,
+                        49.428204
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "FR",
@@ -1876,6 +3000,69 @@ export const franceCitiesV2: POI[] = [
                         6.16725,
                         49.115164
                   ]
+            },
+            {
+                  "name": "Jardin Marsha P. Johnson et Sylvia Rivera",
+                  "text": "Der Jardin Marsha P. Johnson et Sylvia Rivera ist ein öffentlicher Park in Metz-Centre.",
+                  "category": "park",
+                  "coords": [
+                        6.168982,
+                        49.115565
+                  ]
+            },
+            {
+                  "name": "Place Saint-Thiébault",
+                  "text": "Der Place Saint-Thiébault ist ein städtischer Park und Platz in Metz-Centre.",
+                  "category": "park",
+                  "coords": [
+                        6.177794,
+                        49.112478
+                  ]
+            },
+            {
+                  "name": "Hôtel des Postes",
+                  "text": "Das Hôtel des Postes ist ein bemerkenswertes Postgebäude im neoromanischen Stil in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.175108,
+                        49.109915
+                  ]
+            },
+            {
+                  "name": "Hôtel des Arts et Métiers",
+                  "text": "Das Hôtel des Arts et Métiers ist eine historische Attraktion in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.173415,
+                        49.111247
+                  ]
+            },
+            {
+                  "name": "Porte Serpenoise",
+                  "text": "Die Porte Serpenoise ist ein historisches Stadttor und ein markantes Wahrzeichen in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.171024,
+                        49.112567
+                  ]
+            },
+            {
+                  "name": "Magasin aux Vivres",
+                  "text": "Das Magasin aux Vivres ist ein historisches militärisches Proviantgebäude, das zu einer Attraktion in Metz-Centre wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.169579,
+                        49.114128
+                  ]
+            },
+            {
+                  "name": "Ancien Château d'Eau de la Gare",
+                  "text": "Der Ancien Château d'Eau de la Gare ist ein alter Eisenbahnwasserturm und eine lokale Attraktion in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.179278,
+                        49.11086
+                  ]
             }
       ],
       "hu": [
@@ -1886,6 +3073,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.16725,
                         49.115164
+                  ]
+            },
+            {
+                  "name": "Jardin Marsha P. Johnson et Sylvia Rivera",
+                  "text": "A Jardin Marsha P. Johnson et Sylvia Rivera egy nyilvános park Metz-Centre területén.",
+                  "category": "park",
+                  "coords": [
+                        6.168982,
+                        49.115565
+                  ]
+            },
+            {
+                  "name": "Place Saint-Thiébault",
+                  "text": "A Place Saint-Thiébault egy városi park és tér Metz-Centre szívében.",
+                  "category": "park",
+                  "coords": [
+                        6.177794,
+                        49.112478
+                  ]
+            },
+            {
+                  "name": "Hôtel des Postes",
+                  "text": "Az Hôtel des Postes egy figyelemre méltó neoromán stílusú postai épület és látványosság Metz-Centre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.175108,
+                        49.109915
+                  ]
+            },
+            {
+                  "name": "Hôtel des Arts et Métiers",
+                  "text": "Az Hôtel des Arts et Métiers egy történelmi látványosság Metz-Centre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.173415,
+                        49.111247
+                  ]
+            },
+            {
+                  "name": "Porte Serpenoise",
+                  "text": "A Porte Serpenoise egy történelmi városkapu és jelentős nevezetesség Metz-Centre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.171024,
+                        49.112567
+                  ]
+            },
+            {
+                  "name": "Magasin aux Vivres",
+                  "text": "A Magasin aux Vivres egy egykori katonai élelmiszerraktár, amely ma látványosság Metz-Centre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.169579,
+                        49.114128
+                  ]
+            },
+            {
+                  "name": "Ancien Château d'Eau de la Gare",
+                  "text": "Az Ancien Château d'Eau de la Gare egy régi vasúti víztorony, amely helyi látványosság Metz-Centre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.179278,
+                        49.11086
                   ]
             }
       ],
@@ -1898,6 +3148,69 @@ export const franceCitiesV2: POI[] = [
                         6.16725,
                         49.115164
                   ]
+            },
+            {
+                  "name": "Jardin Marsha P. Johnson et Sylvia Rivera",
+                  "text": "Jardin Marsha P. Johnson et Sylvia Rivera este un parc public situat în Metz-Centre.",
+                  "category": "park",
+                  "coords": [
+                        6.168982,
+                        49.115565
+                  ]
+            },
+            {
+                  "name": "Place Saint-Thiébault",
+                  "text": "Place Saint-Thiébault este un parc și o piață urbană situată în Metz-Centre.",
+                  "category": "park",
+                  "coords": [
+                        6.177794,
+                        49.112478
+                  ]
+            },
+            {
+                  "name": "Hôtel des Postes",
+                  "text": "Hôtel des Postes este o clădire poștală notabilă în stil neo-romanic și o atracție din Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.175108,
+                        49.109915
+                  ]
+            },
+            {
+                  "name": "Hôtel des Arts et Métiers",
+                  "text": "Hôtel des Arts et Métiers este o atracție istorică distinctă situată în Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.173415,
+                        49.111247
+                  ]
+            },
+            {
+                  "name": "Porte Serpenoise",
+                  "text": "Porte Serpenoise este o poartă istorică a orașului și un punct de reper important în Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.171024,
+                        49.112567
+                  ]
+            },
+            {
+                  "name": "Magasin aux Vivres",
+                  "text": "Magasin aux Vivres este o fostă clădire de provizii militare istorice, transformată în atracție turistică în Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.169579,
+                        49.114128
+                  ]
+            },
+            {
+                  "name": "Ancien Château d'Eau de la Gare",
+                  "text": "Ancien Château d'Eau de la Gare este un vechi turn de apă feroviar care servește drept atracție locală în Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.179278,
+                        49.11086
+                  ]
             }
       ],
       "en": [
@@ -1908,6 +3221,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.16725,
                         49.115164
+                  ]
+            },
+            {
+                  "name": "Jardin Marsha P. Johnson et Sylvia Rivera",
+                  "text": "Jardin Marsha P. Johnson et Sylvia Rivera is a public park located in Metz-Centre.",
+                  "category": "park",
+                  "coords": [
+                        6.168982,
+                        49.115565
+                  ]
+            },
+            {
+                  "name": "Place Saint-Thiébault",
+                  "text": "Place Saint-Thiébault is an urban park and square situated in Metz-Centre.",
+                  "category": "park",
+                  "coords": [
+                        6.177794,
+                        49.112478
+                  ]
+            },
+            {
+                  "name": "Hôtel des Postes",
+                  "text": "Hôtel des Postes is a notable neo-Romanesque post office building and attraction in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.175108,
+                        49.109915
+                  ]
+            },
+            {
+                  "name": "Hôtel des Arts et Métiers",
+                  "text": "Hôtel des Arts et Métiers is a distinguished historical attraction located in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.173415,
+                        49.111247
+                  ]
+            },
+            {
+                  "name": "Porte Serpenoise",
+                  "text": "Porte Serpenoise is a historic city gate and prominent landmark in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.171024,
+                        49.112567
+                  ]
+            },
+            {
+                  "name": "Magasin aux Vivres",
+                  "text": "The Magasin aux Vivres is a historic military provisions building turned attraction in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.169579,
+                        49.114128
+                  ]
+            },
+            {
+                  "name": "Ancien Château d'Eau de la Gare",
+                  "text": "Ancien Château d'Eau de la Gare is an old railway water tower serving as a local attraction in Metz-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.179278,
+                        49.11086
                   ]
             }
       ]
@@ -1994,6 +3370,60 @@ export const franceCitiesV2: POI[] = [
                         4.02185,
                         49.240276
                   ]
+            },
+            {
+                  "name": "Statue du Maréchal Drouet Comte d'Erlon",
+                  "text": "Das Denkmal ehrt den Maréchal Drouet Erlon in Reims-Centre.",
+                  "category": "historical",
+                  "coords": [
+                        4.04399,
+                        49.247696
+                  ]
+            },
+            {
+                  "name": "Ancien Cinéma Opéra (Art déco)",
+                  "text": "Das ehemalige Cinéma-opéra in Reims-Centre ist ein bemerkenswertes Art-déco-Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        4.027301,
+                        49.253851
+                  ]
+            },
+            {
+                  "name": "Cathédrale de Reims",
+                  "text": "Die Cathédrale Notre-Dame de Reims in Reims-Centre ist ein berühmtes gotisches Bauwerk.",
+                  "category": "historical",
+                  "coords": [
+                        4.033298,
+                        49.253562
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Musée des Beaux-Arts ist ein bedeutendes Kunstmuseum in Reims-Centre.",
+                  "category": "museum",
+                  "coords": [
+                        4.030439,
+                        49.25298
+                  ]
+            },
+            {
+                  "name": "Place du 11 Novembre",
+                  "text": "Die Place du 11 Novembre ist ein öffentlicher Park in Reims-Centre.",
+                  "category": "park",
+                  "coords": [
+                        4.056595,
+                        49.248274
+                  ]
+            },
+            {
+                  "name": "Vestiges du Couvent des Jacobins",
+                  "text": "Diese Ruinen in Reims-Centre stammen vom historischen Couvent des Jacobins.",
+                  "category": "historical",
+                  "coords": [
+                        4.031843,
+                        49.251698
+                  ]
             }
       ],
       "hu": [
@@ -2031,6 +3461,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.02185,
                         49.240276
+                  ]
+            },
+            {
+                  "name": "Statue du Maréchal Drouet Comte d'Erlon",
+                  "text": "Az emlékmű Maréchal Drouet Erlon előtt tiszteleg Reims-Centre területén.",
+                  "category": "historical",
+                  "coords": [
+                        4.04399,
+                        49.247696
+                  ]
+            },
+            {
+                  "name": "Ancien Cinéma Opéra (Art déco)",
+                  "text": "A korábbi Cinéma-opéra Reims-Centre városrészben egy figyelemre méltó art deco emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        4.027301,
+                        49.253851
+                  ]
+            },
+            {
+                  "name": "Cathédrale de Reims",
+                  "text": "A Notre-Dame de Reims katedrális Reims-Centre-ben egy híres gótikus építmény.",
+                  "category": "historical",
+                  "coords": [
+                        4.033298,
+                        49.253562
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "A Musée des Beaux-Arts egy jelentős művészeti múzeum Reims-Centre területén.",
+                  "category": "museum",
+                  "coords": [
+                        4.030439,
+                        49.25298
+                  ]
+            },
+            {
+                  "name": "Place du 11 Novembre",
+                  "text": "A Place du 11 Novembre egy nyilvános park Reims-Centre városrészben.",
+                  "category": "park",
+                  "coords": [
+                        4.056595,
+                        49.248274
+                  ]
+            },
+            {
+                  "name": "Vestiges du Couvent des Jacobins",
+                  "text": "Ezek a romok Reims-Centre területén a történelmi Couvent des Jacobins maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        4.031843,
+                        49.251698
                   ]
             }
       ],
@@ -2070,6 +3554,60 @@ export const franceCitiesV2: POI[] = [
                         4.02185,
                         49.240276
                   ]
+            },
+            {
+                  "name": "Statue du Maréchal Drouet Comte d'Erlon",
+                  "text": "Monumentul îl onorează pe Maréchal Drouet Erlon în Reims-Centre.",
+                  "category": "historical",
+                  "coords": [
+                        4.04399,
+                        49.247696
+                  ]
+            },
+            {
+                  "name": "Ancien Cinéma Opéra (Art déco)",
+                  "text": "Fostul Cinéma-opéra din Reims-Centre este un remarcabil monument art deco.",
+                  "category": "historical",
+                  "coords": [
+                        4.027301,
+                        49.253851
+                  ]
+            },
+            {
+                  "name": "Cathédrale de Reims",
+                  "text": "Catedrala Notre-Dame din Reims, situată în Reims-Centre, este un edificiu gotic celebru.",
+                  "category": "historical",
+                  "coords": [
+                        4.033298,
+                        49.253562
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Musée des Beaux-Arts este un important muzeu de artă în Reims-Centre.",
+                  "category": "museum",
+                  "coords": [
+                        4.030439,
+                        49.25298
+                  ]
+            },
+            {
+                  "name": "Place du 11 Novembre",
+                  "text": "Place du 11 Novembre este un parc public din Reims-Centre.",
+                  "category": "park",
+                  "coords": [
+                        4.056595,
+                        49.248274
+                  ]
+            },
+            {
+                  "name": "Vestiges du Couvent des Jacobins",
+                  "text": "Aceste ruine din Reims-Centre provin de la istoricul Couvent des Jacobins.",
+                  "category": "historical",
+                  "coords": [
+                        4.031843,
+                        49.251698
+                  ]
             }
       ],
       "en": [
@@ -2107,6 +3645,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.02185,
                         49.240276
+                  ]
+            },
+            {
+                  "name": "Statue du Maréchal Drouet Comte d'Erlon",
+                  "text": "The monument honors Maréchal Drouet Erlon in Reims-Centre.",
+                  "category": "historical",
+                  "coords": [
+                        4.04399,
+                        49.247696
+                  ]
+            },
+            {
+                  "name": "Ancien Cinéma Opéra (Art déco)",
+                  "text": "The former Cinéma-opéra in Reims-Centre is a notable Art Deco monument.",
+                  "category": "historical",
+                  "coords": [
+                        4.027301,
+                        49.253851
+                  ]
+            },
+            {
+                  "name": "Cathédrale de Reims",
+                  "text": "The Cathédrale Notre-Dame de Reims in Reims-Centre is a famous Gothic structure.",
+                  "category": "historical",
+                  "coords": [
+                        4.033298,
+                        49.253562
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "The Musée des Beaux-Arts is a significant art museum in Reims-Centre.",
+                  "category": "museum",
+                  "coords": [
+                        4.030439,
+                        49.25298
+                  ]
+            },
+            {
+                  "name": "Place du 11 Novembre",
+                  "text": "Place du 11 Novembre is a public park located in Reims-Centre.",
+                  "category": "park",
+                  "coords": [
+                        4.056595,
+                        49.248274
+                  ]
+            },
+            {
+                  "name": "Vestiges du Couvent des Jacobins",
+                  "text": "These ruins in Reims-Centre originate from the historic Couvent des Jacobins.",
+                  "category": "historical",
+                  "coords": [
+                        4.031843,
+                        49.251698
                   ]
             }
       ]
@@ -2572,6 +4164,51 @@ export const franceCitiesV2: POI[] = [
                         -0.350167,
                         49.177311
                   ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne église Saint-Gilles",
+                  "text": "Vestiges de l'ancienne église Saint-Gilles sind die historischen Ruinen einer ehemaligen Kirche im Caen-Centre.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354789,
+                        49.186551
+                  ]
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Die Abbaye aux Dames ist ein bedeutendes ehemaliges Benediktinerkloster im Caen-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        -0.349583,
+                        49.187432
+                  ]
+            },
+            {
+                  "name": "Statue de la Victoire",
+                  "text": "Die Statue de la Victoire ist ein öffentliches Kunstwerk im Caen-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.35986,
+                        49.178069
+                  ]
+            },
+            {
+                  "name": "Théâtre de Caen",
+                  "text": "Das Théâtre de Caen ist das wichtigste Theater für darstellende Künste im Caen-Centre.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.36249,
+                        49.180187
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ-des-Saints-des-Derniers-Jours",
+                  "text": "Die Église de Jésus-Christ-des-Saints-des-Derniers-Jours ist eine lokale Andachtsstätte im Caen-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        -0.359147,
+                        49.19076
+                  ]
             }
       ],
       "hu": [
@@ -2609,6 +4246,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -0.350167,
                         49.177311
+                  ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne église Saint-Gilles",
+                  "text": "A Vestiges de l'ancienne église Saint-Gilles egykori templom történelmi romjai Caen-Centre-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354789,
+                        49.186551
+                  ]
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Az Abbaye aux Dames egy kiemelkedő egykori bencés kolostor Caen-Centre-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -0.349583,
+                        49.187432
+                  ]
+            },
+            {
+                  "name": "Statue de la Victoire",
+                  "text": "A Statue de la Victoire egy köztéri műalkotás Caen-Centre-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.35986,
+                        49.178069
+                  ]
+            },
+            {
+                  "name": "Théâtre de Caen",
+                  "text": "A Théâtre de Caen a legfőbb előadóművészeti színház Caen-Centre-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.36249,
+                        49.180187
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ-des-Saints-des-Derniers-Jours",
+                  "text": "Az Église de Jésus-Christ-des-Saints-des-Derniers-Jours egy helyi istentiszteleti hely Caen-Centre-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -0.359147,
+                        49.19076
                   ]
             }
       ],
@@ -2648,6 +4330,51 @@ export const franceCitiesV2: POI[] = [
                         -0.350167,
                         49.177311
                   ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne église Saint-Gilles",
+                  "text": "Vestiges de l'ancienne église Saint-Gilles sunt ruinele istorice ale unei foste biserici din Caen-Centre.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354789,
+                        49.186551
+                  ]
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Abbaye aux Dames este o fostă mănăstire benedictină proeminentă situată în Caen-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        -0.349583,
+                        49.187432
+                  ]
+            },
+            {
+                  "name": "Statue de la Victoire",
+                  "text": "Statue de la Victoire este o operă de artă publică expusă în Caen-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.35986,
+                        49.178069
+                  ]
+            },
+            {
+                  "name": "Théâtre de Caen",
+                  "text": "Théâtre de Caen este teatrul principal de arte ale spectacolului situat în Caen-Centre.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.36249,
+                        49.180187
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ-des-Saints-des-Derniers-Jours",
+                  "text": "Église de Jésus-Christ-des-Saints-des-Derniers-Jours este un lăcaș de cult local situat în Caen-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        -0.359147,
+                        49.19076
+                  ]
             }
       ],
       "en": [
@@ -2685,6 +4412,51 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -0.350167,
                         49.177311
+                  ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne église Saint-Gilles",
+                  "text": "Vestiges de l'ancienne église Saint-Gilles are the historic ruins of a former church in Caen-Centre.",
+                  "category": "historical",
+                  "coords": [
+                        -0.354789,
+                        49.186551
+                  ]
+            },
+            {
+                  "name": "Abbaye aux Dames",
+                  "text": "Abbaye aux Dames is a prominent former Benedictine monastery located in Caen-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        -0.349583,
+                        49.187432
+                  ]
+            },
+            {
+                  "name": "Statue de la Victoire",
+                  "text": "Statue de la Victoire is a public artwork displayed in Caen-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.35986,
+                        49.178069
+                  ]
+            },
+            {
+                  "name": "Théâtre de Caen",
+                  "text": "Théâtre de Caen is the primary performing arts theatre located in Caen-Centre.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.36249,
+                        49.180187
+                  ]
+            },
+            {
+                  "name": "Église de Jésus-Christ-des-Saints-des-Derniers-Jours",
+                  "text": "Église de Jésus-Christ-des-Saints-des-Derniers-Jours is a local place of worship situated in Caen-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        -0.359147,
+                        49.19076
                   ]
             }
       ]
@@ -2744,6 +4516,78 @@ export const franceCitiesV2: POI[] = [
                         -0.570449,
                         47.50049
                   ]
+            },
+            {
+                  "name": "Musée Pincé",
+                  "text": "Das Musée Pincé (Logis Pincé) in Angers-Centre ist ein bekanntes Museum, das eine wertvolle Sammlung von Altertümern beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -0.552017,
+                        47.47208
+                  ]
+            },
+            {
+                  "name": "Tour Villebon",
+                  "text": "Die Tour Villebon ist ein architektonischer Turm in Angers-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        -0.555123,
+                        47.471572
+                  ]
+            },
+            {
+                  "name": "Jardin du Mail",
+                  "text": "Der Jardin du Mail ist ein bekannter öffentlicher Park in Angers-Centre mit schönen Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        -0.54567,
+                        47.470311
+                  ]
+            },
+            {
+                  "name": "Arboretum Gaston-Allard",
+                  "text": "Das Arboretum Gaston-Allard in Angers-Centre ist ein renommierter botanischer Garten mit einer vielfältigen Baumsammlung.",
+                  "category": "park",
+                  "coords": [
+                        -0.542418,
+                        47.450866
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubin",
+                  "text": "Die Tour Saint-Aubin ist ein markanter historischer Turm in Angers-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        -0.553654,
+                        47.468969
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Musée des Beaux-Arts in Angers-Centre ist ein bedeutendes Kunstmuseum mit vielfältigen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -0.55478,
+                        47.468978
+                  ]
+            },
+            {
+                  "name": "Pont de la Basse Chaîne",
+                  "text": "Die Pont de la Basse Chaîne ist eine wichtige Brücke in Angers-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.563469,
+                        47.470511
+                  ]
+            },
+            {
+                  "name": "Pont des Arts et Métiers",
+                  "text": "Die Pont des Arts et Métiers ist eine Fußgängerbrücke in Angers-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557418,
+                        47.474117
+                  ]
             }
       ],
       "hu": [
@@ -2754,6 +4598,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -0.570449,
                         47.50049
+                  ]
+            },
+            {
+                  "name": "Musée Pincé",
+                  "text": "Az Angers-Centre-ben található Musée Pincé egy híres múzeum, amely régiségeket és műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.552017,
+                        47.47208
+                  ]
+            },
+            {
+                  "name": "Tour Villebon",
+                  "text": "A Tour Villebon egy történelmi torony Angers-Centre területén.",
+                  "category": "tower",
+                  "coords": [
+                        -0.555123,
+                        47.471572
+                  ]
+            },
+            {
+                  "name": "Jardin du Mail",
+                  "text": "A Jardin du Mail egy nevezetes nyilvános park Angers-Centre városában.",
+                  "category": "park",
+                  "coords": [
+                        -0.54567,
+                        47.470311
+                  ]
+            },
+            {
+                  "name": "Arboretum Gaston-Allard",
+                  "text": "A Gaston-Allard Arborétum egy híres botanikus kert Angers-Centre-ben.",
+                  "category": "park",
+                  "coords": [
+                        -0.542418,
+                        47.450866
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubin",
+                  "text": "A Tour Saint-Aubin egy történelmi jelentőségű torony Angers-Centre városában.",
+                  "category": "tower",
+                  "coords": [
+                        -0.553654,
+                        47.468969
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "A Musée des Beaux-Arts egy jelentős szépművészeti múzeum Angers-Centre-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -0.55478,
+                        47.468978
+                  ]
+            },
+            {
+                  "name": "Pont de la Basse Chaîne",
+                  "text": "A Pont de la Basse Chaîne egy híd Angers-Centre városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.563469,
+                        47.470511
+                  ]
+            },
+            {
+                  "name": "Pont des Arts et Métiers",
+                  "text": "A Pont des Arts et Métiers egy híd Angers-Centre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557418,
+                        47.474117
                   ]
             }
       ],
@@ -2766,6 +4682,78 @@ export const franceCitiesV2: POI[] = [
                         -0.570449,
                         47.50049
                   ]
+            },
+            {
+                  "name": "Musée Pincé",
+                  "text": "Muzeul Pincé din Angers-Centre este un muzeu notabil care prezintă diverse colecții de antichități.",
+                  "category": "museum",
+                  "coords": [
+                        -0.552017,
+                        47.47208
+                  ]
+            },
+            {
+                  "name": "Tour Villebon",
+                  "text": "Tour Villebon este un turn istoric aflat în Angers-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        -0.555123,
+                        47.471572
+                  ]
+            },
+            {
+                  "name": "Jardin du Mail",
+                  "text": "Jardin du Mail este un parc public recunoscut din Angers-Centre.",
+                  "category": "park",
+                  "coords": [
+                        -0.54567,
+                        47.470311
+                  ]
+            },
+            {
+                  "name": "Arboretum Gaston-Allard",
+                  "text": "Arboretum Gaston-Allard este un parc botanic notabil din Angers-Centre.",
+                  "category": "park",
+                  "coords": [
+                        -0.542418,
+                        47.450866
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubin",
+                  "text": "Tour Saint-Aubin este un turn arhitectural din Angers-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        -0.553654,
+                        47.468969
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Musée des Beaux-Arts din Angers-Centre este un muzeu important de arte frumoase.",
+                  "category": "museum",
+                  "coords": [
+                        -0.55478,
+                        47.468978
+                  ]
+            },
+            {
+                  "name": "Pont de la Basse Chaîne",
+                  "text": "Pont de la Basse Chaîne este un pod din Angers-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.563469,
+                        47.470511
+                  ]
+            },
+            {
+                  "name": "Pont des Arts et Métiers",
+                  "text": "Pont des Arts et Métiers este un pod situat în Angers-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557418,
+                        47.474117
+                  ]
             }
       ],
       "en": [
@@ -2776,6 +4764,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -0.570449,
                         47.50049
+                  ]
+            },
+            {
+                  "name": "Musée Pincé",
+                  "text": "The Musée Pincé (Logis Pincé) is a prominent museum in Angers-Centre featuring collections of antiquities.",
+                  "category": "museum",
+                  "coords": [
+                        -0.552017,
+                        47.47208
+                  ]
+            },
+            {
+                  "name": "Tour Villebon",
+                  "text": "The Tour Villebon is a notable tower situated in Angers-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        -0.555123,
+                        47.471572
+                  ]
+            },
+            {
+                  "name": "Jardin du Mail",
+                  "text": "Jardin du Mail is a well-known public park offering a relaxing green space in Angers-Centre.",
+                  "category": "park",
+                  "coords": [
+                        -0.54567,
+                        47.470311
+                  ]
+            },
+            {
+                  "name": "Arboretum Gaston-Allard",
+                  "text": "The Arboretum Gaston-Allard is an established botanical park in Angers-Centre known for its tree collections.",
+                  "category": "park",
+                  "coords": [
+                        -0.542418,
+                        47.450866
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubin",
+                  "text": "Tour Saint-Aubin is a historic tower located in the heart of Angers-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        -0.553654,
+                        47.468969
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "The Musée des Beaux-Arts is a prominent fine arts museum situated in Angers-Centre.",
+                  "category": "museum",
+                  "coords": [
+                        -0.55478,
+                        47.468978
+                  ]
+            },
+            {
+                  "name": "Pont de la Basse Chaîne",
+                  "text": "The Pont de la Basse Chaîne is a bridge structure in Angers-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.563469,
+                        47.470511
+                  ]
+            },
+            {
+                  "name": "Pont des Arts et Métiers",
+                  "text": "Pont des Arts et Métiers is a bridge serving the area of Angers-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557418,
+                        47.474117
                   ]
             }
       ]
@@ -2853,6 +4913,69 @@ export const franceCitiesV2: POI[] = [
                         6.184027,
                         48.699055
                   ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "Das Musée Archéologique ist das archäologische Museum der Universität Lothringen in Nancy-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        6.16574,
+                        48.695357
+                  ]
+            },
+            {
+                  "name": "Musée Lorrain",
+                  "text": "Das Musée Lorrain ist ein historisches Museum in Nancy-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        6.179747,
+                        48.697171
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Manufacture",
+                  "text": "Das Théâtre de la Manufacture ist ein bekanntes Theater in Nancy-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        6.171876,
+                        48.696081
+                  ]
+            },
+            {
+                  "name": "Porte de la Citadelle",
+                  "text": "Die Porte de la Citadelle ist ein historisches Stadttor und eine Attraktion in Nancy-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.178084,
+                        48.700123
+                  ]
+            },
+            {
+                  "name": "Porte Désilles",
+                  "text": "Die Porte Désilles ist ein bemerkenswertes historisches Tor und Denkmal in Nancy-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.174166,
+                        48.697963
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent et Saint-Fiacre",
+                  "text": "Die Église Saint-Vincent et Saint-Fiacre ist eine bemerkenswerte Kirche in Nancy-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.171472,
+                        48.700983
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Die Église Saint-Vincent-de-Paul ist ein Gotteshaus in Nancy-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.189546,
+                        48.701193
+                  ]
             }
       ],
       "hu": [
@@ -2881,6 +5004,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.184027,
                         48.699055
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "A Musée Archéologique a Lotaringiai Egyetem régészeti múzeuma Nancy-Nord-ban.",
+                  "category": "museum",
+                  "coords": [
+                        6.16574,
+                        48.695357
+                  ]
+            },
+            {
+                  "name": "Musée Lorrain",
+                  "text": "A Musée Lorrain egy történelmi múzeum Nancy-Nord városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.179747,
+                        48.697171
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Manufacture",
+                  "text": "A Théâtre de la Manufacture egy ismert színház Nancy-Nord területén.",
+                  "category": "cultural",
+                  "coords": [
+                        6.171876,
+                        48.696081
+                  ]
+            },
+            {
+                  "name": "Porte de la Citadelle",
+                  "text": "A Porte de la Citadelle egy történelmi városkapu és látványosság Nancy-Nord-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.178084,
+                        48.700123
+                  ]
+            },
+            {
+                  "name": "Porte Désilles",
+                  "text": "A Porte Désilles egy nevezetes történelmi kapu Nancy-Nord területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.174166,
+                        48.697963
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent et Saint-Fiacre",
+                  "text": "Az Église Saint-Vincent et Saint-Fiacre egy jelentős történelmi templom Nancy-Nord városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.171472,
+                        48.700983
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Az Église Saint-Vincent-de-Paul egy istentiszteleti hely Nancy-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        6.189546,
+                        48.701193
                   ]
             }
       ],
@@ -2911,6 +5097,69 @@ export const franceCitiesV2: POI[] = [
                         6.184027,
                         48.699055
                   ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "Musée Archéologique este muzeul arheologic al Universității din Lorena, situat în Nancy-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        6.16574,
+                        48.695357
+                  ]
+            },
+            {
+                  "name": "Musée Lorrain",
+                  "text": "Musée Lorrain este un muzeu istoric din Nancy-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        6.179747,
+                        48.697171
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Manufacture",
+                  "text": "Théâtre de la Manufacture este un teatru remarcabil din Nancy-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        6.171876,
+                        48.696081
+                  ]
+            },
+            {
+                  "name": "Porte de la Citadelle",
+                  "text": "Porte de la Citadelle este o poartă istorică a orașului și o atracție în Nancy-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.178084,
+                        48.700123
+                  ]
+            },
+            {
+                  "name": "Porte Désilles",
+                  "text": "Porte Désilles este o poartă istorică și un memorial situat în Nancy-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.174166,
+                        48.697963
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent et Saint-Fiacre",
+                  "text": "Église Saint-Vincent et Saint-Fiacre este o biserică notabilă situată în Nancy-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.171472,
+                        48.700983
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Église Saint-Vincent-de-Paul este un lăcaș de cult în Nancy-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.189546,
+                        48.701193
+                  ]
             }
       ],
       "en": [
@@ -2939,6 +5188,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.184027,
                         48.699055
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "The Musée Archéologique is the archaeological museum of the University of Lorraine in Nancy-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        6.16574,
+                        48.695357
+                  ]
+            },
+            {
+                  "name": "Musée Lorrain",
+                  "text": "The Musée Lorrain is a historical museum in Nancy-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        6.179747,
+                        48.697171
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Manufacture",
+                  "text": "Théâtre de la Manufacture is a notable theatre in Nancy-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        6.171876,
+                        48.696081
+                  ]
+            },
+            {
+                  "name": "Porte de la Citadelle",
+                  "text": "Porte de la Citadelle is a historical city gate and attraction in Nancy-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.178084,
+                        48.700123
+                  ]
+            },
+            {
+                  "name": "Porte Désilles",
+                  "text": "Porte Désilles is a notable historical gateway and memorial located in Nancy-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.174166,
+                        48.697963
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent et Saint-Fiacre",
+                  "text": "The Église Saint-Vincent et Saint-Fiacre is a notable church located in Nancy-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.171472,
+                        48.700983
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "The Église Saint-Vincent-de-Paul is a place of worship in Nancy-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        6.189546,
+                        48.701193
                   ]
             }
       ]
@@ -3341,6 +5653,78 @@ export const franceCitiesV2: POI[] = [
                         -0.572322,
                         44.812238
                   ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "Die Église Sainte-Geneviève ist eine lokale Kultstätte in Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.57569,
+                        44.818651
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Die Église du Sacré-Cœur ist eine Kultstätte im Gebiet Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.56344,
+                        44.822591
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nerses",
+                  "text": "Die Église Saint-Nerses dient als Kultstätte in Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.569435,
+                        44.80907
+                  ]
+            },
+            {
+                  "name": "Temple protestant de Talence",
+                  "text": "Der Temple protestant de Talence ist eine protestantische Kultstätte in Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.577811,
+                        44.806952
+                  ]
+            },
+            {
+                  "name": "Musée des Compagnons du Tour de France",
+                  "text": "Das Musée des Compagnons du Tour de France ist ein Museum in Bordeaux-Sud.",
+                  "category": "museum",
+                  "coords": [
+                        -0.564637,
+                        44.824014
+                  ]
+            },
+            {
+                  "name": "La Réserve - Bienvenue",
+                  "text": "La Réserve - Bienvenue ist ein Kunstzentrum im Gebiet Bordeaux-Sud.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.576693,
+                        44.819939
+                  ]
+            },
+            {
+                  "name": "Moon Creative Workspace",
+                  "text": "Das Moon Creative Workspace ist ein lokales Kunstzentrum im Viertel Bordeaux-Sud.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.559002,
+                        44.82146
+                  ]
+            },
+            {
+                  "name": "Pont de la Palombe",
+                  "text": "Die Pont de la Palombe ist eine markante Brücke in Bordeaux-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557001,
+                        44.82105
+                  ]
             }
       ],
       "hu": [
@@ -3351,6 +5735,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -0.572322,
                         44.812238
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "Az Église Sainte-Geneviève egy helyi istentiszteleti hely Bordeaux-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        -0.57569,
+                        44.818651
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Az Église du Sacré-Cœur egy istentiszteleti hely Bordeaux-Sud övezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -0.56344,
+                        44.822591
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nerses",
+                  "text": "Az Église Saint-Nerses istentiszteleti helyként szolgál Bordeaux-Sud városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        -0.569435,
+                        44.80907
+                  ]
+            },
+            {
+                  "name": "Temple protestant de Talence",
+                  "text": "A Temple protestant de Talence egy protestáns istentiszteleti hely Bordeaux-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        -0.577811,
+                        44.806952
+                  ]
+            },
+            {
+                  "name": "Musée des Compagnons du Tour de France",
+                  "text": "A Musée des Compagnons du Tour de France egy múzeum Bordeaux-Sud városrészben.",
+                  "category": "museum",
+                  "coords": [
+                        -0.564637,
+                        44.824014
+                  ]
+            },
+            {
+                  "name": "La Réserve - Bienvenue",
+                  "text": "A La Réserve - Bienvenue egy művészeti központ Bordeaux-Sud területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.576693,
+                        44.819939
+                  ]
+            },
+            {
+                  "name": "Moon Creative Workspace",
+                  "text": "A Moon Creative Workspace egy helyi művészeti központ Bordeaux-Sud negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.559002,
+                        44.82146
+                  ]
+            },
+            {
+                  "name": "Pont de la Palombe",
+                  "text": "A Pont de la Palombe egy feltűnő híd Bordeaux-Sud területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557001,
+                        44.82105
                   ]
             }
       ],
@@ -3363,6 +5819,78 @@ export const franceCitiesV2: POI[] = [
                         -0.572322,
                         44.812238
                   ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "Église Sainte-Geneviève este un lăcaș de cult local din Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.57569,
+                        44.818651
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Église du Sacré-Cœur este un lăcaș de cult situat în zona Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.56344,
+                        44.822591
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nerses",
+                  "text": "Église Saint-Nerses servește ca lăcaș de cult în Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.569435,
+                        44.80907
+                  ]
+            },
+            {
+                  "name": "Temple protestant de Talence",
+                  "text": "Temple protestant de Talence este un lăcaș de cult protestant situat în Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.577811,
+                        44.806952
+                  ]
+            },
+            {
+                  "name": "Musée des Compagnons du Tour de France",
+                  "text": "Musée des Compagnons du Tour de France este un muzeu situat în Bordeaux-Sud.",
+                  "category": "museum",
+                  "coords": [
+                        -0.564637,
+                        44.824014
+                  ]
+            },
+            {
+                  "name": "La Réserve - Bienvenue",
+                  "text": "La Réserve - Bienvenue este un centru de arte situat în zona Bordeaux-Sud.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.576693,
+                        44.819939
+                  ]
+            },
+            {
+                  "name": "Moon Creative Workspace",
+                  "text": "Moon Creative Workspace este un centru de arte local din cartierul Bordeaux-Sud.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.559002,
+                        44.82146
+                  ]
+            },
+            {
+                  "name": "Pont de la Palombe",
+                  "text": "Pont de la Palombe este un pod remarcabil situat în Bordeaux-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557001,
+                        44.82105
+                  ]
             }
       ],
       "en": [
@@ -3373,6 +5901,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         -0.572322,
                         44.812238
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Geneviève",
+                  "text": "The Église Sainte-Geneviève is a local place of worship in Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.57569,
+                        44.818651
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "The Église du Sacré-Cœur is a place of worship situated in the Bordeaux-Sud area.",
+                  "category": "religious",
+                  "coords": [
+                        -0.56344,
+                        44.822591
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nerses",
+                  "text": "The Église Saint-Nerses serves as a place of worship in Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.569435,
+                        44.80907
+                  ]
+            },
+            {
+                  "name": "Temple protestant de Talence",
+                  "text": "The Temple protestant de Talence is a Protestant place of worship located in Bordeaux-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        -0.577811,
+                        44.806952
+                  ]
+            },
+            {
+                  "name": "Musée des Compagnons du Tour de France",
+                  "text": "The Musée des Compagnons du Tour de France is a museum situated in Bordeaux-Sud.",
+                  "category": "museum",
+                  "coords": [
+                        -0.564637,
+                        44.824014
+                  ]
+            },
+            {
+                  "name": "La Réserve - Bienvenue",
+                  "text": "La Réserve - Bienvenue is an arts centre located in the Bordeaux-Sud area.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.576693,
+                        44.819939
+                  ]
+            },
+            {
+                  "name": "Moon Creative Workspace",
+                  "text": "The Moon Creative Workspace is a local arts centre in the Bordeaux-Sud area.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.559002,
+                        44.82146
+                  ]
+            },
+            {
+                  "name": "Pont de la Palombe",
+                  "text": "The Pont de la Palombe is a notable bridge situated in Bordeaux-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.557001,
+                        44.82105
                   ]
             }
       ]
@@ -3432,6 +6032,78 @@ export const franceCitiesV2: POI[] = [
                         7.255288,
                         43.725849
                   ]
+            },
+            {
+                  "name": "Pyramide de Falicon",
+                  "text": "Die Pyramide de Falicon ist eine mysteriöse Pyramidenruine, die über einer Karsthöhle in der Nähe von Nizza erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        7.260375,
+                        43.74992
+                  ]
+            },
+            {
+                  "name": "Musée Prieuré du Vieux Logis",
+                  "text": "Das Musée Prieuré du Vieux Logis ist ein Museum in Nizza, das in einem rekonstruierten Priorat untergebracht ist und historische Alltagsgegenstände zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.254975,
+                        43.720631
+                  ]
+            },
+            {
+                  "name": "Cascade de Gairaut",
+                  "text": "Die Cascade de Gairaut ist ein großer künstlicher Wasserfall in Nizza, der im 19. Jahrhundert zur Sauerstoffversorgung des städtischen Wassers angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.259681,
+                        43.737845
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean l'Evangéliste",
+                  "text": "Die Église Saint-Jean l'Evangéliste ist eine örtliche Kirche in Nice-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        7.2548,
+                        43.729256
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pancrace",
+                  "text": "Die Église Saint-Pancrace ist ein Kirchengebäude in den nördlichen Bezirken von Nizza.",
+                  "category": "religious",
+                  "coords": [
+                        7.241138,
+                        43.74403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sauveur de Las Planas",
+                  "text": "Die Église Saint-Sauveur de Las Planas ist ein Gotteshaus im Viertel Las Planas in Nizza.",
+                  "category": "religious",
+                  "coords": [
+                        7.247473,
+                        43.731736
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Die Église Saint-François-d'Assise ist eine Kirche für religiöse Gottesdienste in Nice-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        7.247333,
+                        43.72605
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Vallon-des-Fleurs",
+                  "text": "Die Église Notre-Dame du Vallon-des-Fleurs ist eine Nachbarschaftskirche im nördlichen Teil von Nizza.",
+                  "category": "religious",
+                  "coords": [
+                        7.271078,
+                        43.730964
+                  ]
             }
       ],
       "hu": [
@@ -3442,6 +6114,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.255288,
                         43.725849
+                  ]
+            },
+            {
+                  "name": "Pyramide de Falicon",
+                  "text": "A Pyramide de Falicon egy rejtélyes, romos piramis, amelyet egy karsztbarlang fölé építettek Nizza közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.260375,
+                        43.74992
+                  ]
+            },
+            {
+                  "name": "Musée Prieuré du Vieux Logis",
+                  "text": "A Musée Prieuré du Vieux Logis egy múzeum Nizzában, amely egy újjáépített perjelségben mutat be történelmi mindennapi tárgyakat.",
+                  "category": "museum",
+                  "coords": [
+                        7.254975,
+                        43.720631
+                  ]
+            },
+            {
+                  "name": "Cascade de Gairaut",
+                  "text": "A Cascade de Gairaut egy nagy mesterséges vízesés Nizzában, amelyet a 19. században építettek a város vízellátásának oxigénellátására.",
+                  "category": "landmark",
+                  "coords": [
+                        7.259681,
+                        43.737845
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean l'Evangéliste",
+                  "text": "Az Église Saint-Jean l'Evangéliste egy helyi templom Nice-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        7.2548,
+                        43.729256
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pancrace",
+                  "text": "Az Église Saint-Pancrace egy katolikus templom Nizza északi negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        7.241138,
+                        43.74403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sauveur de Las Planas",
+                  "text": "Az Église Saint-Sauveur de Las Planas egy templom Nizza Las Planas területén.",
+                  "category": "religious",
+                  "coords": [
+                        7.247473,
+                        43.731736
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Az Église Saint-François-d'Assise egy katolikus templom Nice-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        7.247333,
+                        43.72605
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Vallon-des-Fleurs",
+                  "text": "Az Église Notre-Dame du Vallon-des-Fleurs egy helyi templom Nizza északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        7.271078,
+                        43.730964
                   ]
             }
       ],
@@ -3454,6 +6198,78 @@ export const franceCitiesV2: POI[] = [
                         7.255288,
                         43.725849
                   ]
+            },
+            {
+                  "name": "Pyramide de Falicon",
+                  "text": "Pyramide de Falicon este o piramidă misterioasă în ruină, construită deasupra unei peșteri carstice de lângă Nisa.",
+                  "category": "historical",
+                  "coords": [
+                        7.260375,
+                        43.74992
+                  ]
+            },
+            {
+                  "name": "Musée Prieuré du Vieux Logis",
+                  "text": "Musée Prieuré du Vieux Logis este un muzeu din Nisa găzduit într-un priorat reconstruit, expunând obiecte de artă și mobilier vechi.",
+                  "category": "museum",
+                  "coords": [
+                        7.254975,
+                        43.720631
+                  ]
+            },
+            {
+                  "name": "Cascade de Gairaut",
+                  "text": "Cascade de Gairaut este o cascadă artificială mare din Nisa, construită în secolul al XIX-lea pentru oxigenarea apei din canalul Vésubie.",
+                  "category": "landmark",
+                  "coords": [
+                        7.259681,
+                        43.737845
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean l'Evangéliste",
+                  "text": "Église Saint-Jean l'Evangéliste este un lăcaș de cult ce deservește comunitatea din Nice-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        7.2548,
+                        43.729256
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pancrace",
+                  "text": "Église Saint-Pancrace este o biserică situată în districtele de nord ale Nisei.",
+                  "category": "religious",
+                  "coords": [
+                        7.241138,
+                        43.74403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sauveur de Las Planas",
+                  "text": "Église Saint-Sauveur de Las Planas este un lăcaș de cult situat în zona Las Planas din Nisa.",
+                  "category": "religious",
+                  "coords": [
+                        7.247473,
+                        43.731736
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Église Saint-François-d'Assise este o biserică parohială situată în Nice-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        7.247333,
+                        43.72605
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Vallon-des-Fleurs",
+                  "text": "Église Notre-Dame du Vallon-des-Fleurs este un lăcaș de cult de cartier din partea de nord a Nisei.",
+                  "category": "religious",
+                  "coords": [
+                        7.271078,
+                        43.730964
+                  ]
             }
       ],
       "en": [
@@ -3464,6 +6280,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.255288,
                         43.725849
+                  ]
+            },
+            {
+                  "name": "Pyramide de Falicon",
+                  "text": "The Pyramide de Falicon is a mysterious ruined pyramid built over a karst cave near Nice.",
+                  "category": "historical",
+                  "coords": [
+                        7.260375,
+                        43.74992
+                  ]
+            },
+            {
+                  "name": "Musée Prieuré du Vieux Logis",
+                  "text": "The Musée Prieuré du Vieux Logis is a museum in Nice housed in a reconstructed priory, displaying everyday historical objects.",
+                  "category": "museum",
+                  "coords": [
+                        7.254975,
+                        43.720631
+                  ]
+            },
+            {
+                  "name": "Cascade de Gairaut",
+                  "text": "The Cascade de Gairaut is a large artificial waterfall in Nice built in the 19th century to oxygenate the city's water supply.",
+                  "category": "landmark",
+                  "coords": [
+                        7.259681,
+                        43.737845
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean l'Evangéliste",
+                  "text": "Église Saint-Jean l'Evangéliste is a local place of worship serving the community in Nice-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        7.2548,
+                        43.729256
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pancrace",
+                  "text": "Église Saint-Pancrace is a dedicated church building situated in the northern districts of Nice.",
+                  "category": "religious",
+                  "coords": [
+                        7.241138,
+                        43.74403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sauveur de Las Planas",
+                  "text": "Église Saint-Sauveur de Las Planas is a place of worship located in the Las Planas area of Nice.",
+                  "category": "religious",
+                  "coords": [
+                        7.247473,
+                        43.731736
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Église Saint-François-d'Assise is a church providing religious services in Nice-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        7.247333,
+                        43.72605
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame du Vallon-des-Fleurs",
+                  "text": "Église Notre-Dame du Vallon-des-Fleurs is a neighborhood place of worship in the northern part of Nice.",
+                  "category": "religious",
+                  "coords": [
+                        7.271078,
+                        43.730964
                   ]
             }
       ]
@@ -3523,6 +6411,87 @@ export const franceCitiesV2: POI[] = [
                         4.855511,
                         45.777428
                   ]
+            },
+            {
+                  "name": "Fort de Vaise",
+                  "text": "Das Fort de Vaise ist eine historische Festungsanlage in Lyon-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        4.809819,
+                        45.771125
+                  ]
+            },
+            {
+                  "name": "Place Bellevue",
+                  "text": "Die Place Bellevue ist ein Aussichtspunkt, der weite Blicke auf Lyon-Nord bietet.",
+                  "category": "natural",
+                  "coords": [
+                        4.836493,
+                        45.774173
+                  ]
+            },
+            {
+                  "name": "Jardin des Trembles",
+                  "text": "Der Jardin des Trembles ist ein lokaler Park in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.816752,
+                        45.790178
+                  ]
+            },
+            {
+                  "name": "Jardin Saint-Eucher",
+                  "text": "Der Jardin Saint-Eucher ist ein öffentlicher Park in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.840028,
+                        45.779491
+                  ]
+            },
+            {
+                  "name": "Fort Saint-Jean",
+                  "text": "Das Fort Saint-Jean ist eine historische Festungsanlage in Lyon-Nord, die für ihre Rolle im Verteidigungssystem der Stadt bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        4.815243,
+                        45.770653
+                  ]
+            },
+            {
+                  "name": "Jardin Roquette",
+                  "text": "Der Jardin Roquette ist ein Erholungspark in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.807258,
+                        45.776388
+                  ]
+            },
+            {
+                  "name": "Clos Jouve",
+                  "text": "Der Clos Jouve ist ein Park in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.820871,
+                        45.773272
+                  ]
+            },
+            {
+                  "name": "Jardin Marie-Thé Mora",
+                  "text": "Der Jardin Marie-Thé Mora ist eine öffentliche Grünanlage in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.837003,
+                        45.775283
+                  ]
+            },
+            {
+                  "name": "Parc de la Tête d'Or",
+                  "text": "Der Parc de la Tête d'Or ist ein großer Stadtpark in Lyon-Nord, der für seinen See und die botanischen Gärten bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        4.853401,
+                        45.778674
+                  ]
             }
       ],
       "hu": [
@@ -3533,6 +6502,87 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.855511,
                         45.777428
+                  ]
+            },
+            {
+                  "name": "Fort de Vaise",
+                  "text": "A Fort de Vaise egy történelmi erődítmény Lyon-Nordban.",
+                  "category": "castle",
+                  "coords": [
+                        4.809819,
+                        45.771125
+                  ]
+            },
+            {
+                  "name": "Place Bellevue",
+                  "text": "A Place Bellevue egy festői kilátó, amely panorámás kilátást nyújt Lyon-Nordra.",
+                  "category": "natural",
+                  "coords": [
+                        4.836493,
+                        45.774173
+                  ]
+            },
+            {
+                  "name": "Jardin des Trembles",
+                  "text": "A Jardin des Trembles egy helyi park Lyon-Nordban.",
+                  "category": "park",
+                  "coords": [
+                        4.816752,
+                        45.790178
+                  ]
+            },
+            {
+                  "name": "Jardin Saint-Eucher",
+                  "text": "A Jardin Saint-Eucher egy közpark Lyon-Nord területén.",
+                  "category": "park",
+                  "coords": [
+                        4.840028,
+                        45.779491
+                  ]
+            },
+            {
+                  "name": "Fort Saint-Jean",
+                  "text": "A Fort Saint-Jean egy történelmi erődítmény Lyon-Nordban, amely a város régi védelmi rendszerében játszott szerepéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        4.815243,
+                        45.770653
+                  ]
+            },
+            {
+                  "name": "Jardin Roquette",
+                  "text": "A Jardin Roquette egy szabadidőpark Lyon-Nordban.",
+                  "category": "park",
+                  "coords": [
+                        4.807258,
+                        45.776388
+                  ]
+            },
+            {
+                  "name": "Clos Jouve",
+                  "text": "A Clos Jouve egy közösségi park Lyon-Nordban.",
+                  "category": "park",
+                  "coords": [
+                        4.820871,
+                        45.773272
+                  ]
+            },
+            {
+                  "name": "Jardin Marie-Thé Mora",
+                  "text": "A Jardin Marie-Thé Mora egy nyilvános kert Lyon-Nordban.",
+                  "category": "park",
+                  "coords": [
+                        4.837003,
+                        45.775283
+                  ]
+            },
+            {
+                  "name": "Parc de la Tête d'Or",
+                  "text": "A Parc de la Tête d'Or egy nagy városi park Lyon-Nordban, ahol tó és botanikus kert is található.",
+                  "category": "park",
+                  "coords": [
+                        4.853401,
+                        45.778674
                   ]
             }
       ],
@@ -3545,6 +6595,87 @@ export const franceCitiesV2: POI[] = [
                         4.855511,
                         45.777428
                   ]
+            },
+            {
+                  "name": "Fort de Vaise",
+                  "text": "Fort de Vaise este o structură fortificată istorică situată în Lyon-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        4.809819,
+                        45.771125
+                  ]
+            },
+            {
+                  "name": "Place Bellevue",
+                  "text": "Place Bellevue este un punct de belvedere care oferă priveliști ample din Lyon-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        4.836493,
+                        45.774173
+                  ]
+            },
+            {
+                  "name": "Jardin des Trembles",
+                  "text": "Jardin des Trembles este un parc local din Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.816752,
+                        45.790178
+                  ]
+            },
+            {
+                  "name": "Jardin Saint-Eucher",
+                  "text": "Jardin Saint-Eucher este un parc public situat în Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.840028,
+                        45.779491
+                  ]
+            },
+            {
+                  "name": "Fort Saint-Jean",
+                  "text": "Fort Saint-Jean este o fortificație istorică din Lyon-Nord, remarcabilă pentru rolul său în vechiul sistem defensiv al orașului.",
+                  "category": "castle",
+                  "coords": [
+                        4.815243,
+                        45.770653
+                  ]
+            },
+            {
+                  "name": "Jardin Roquette",
+                  "text": "Jardin Roquette este un parc de agrement situat în Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.807258,
+                        45.776388
+                  ]
+            },
+            {
+                  "name": "Clos Jouve",
+                  "text": "Clos Jouve este un parc care oferă spațiu deschis pentru comunitate în Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.820871,
+                        45.773272
+                  ]
+            },
+            {
+                  "name": "Jardin Marie-Thé Mora",
+                  "text": "Jardin Marie-Thé Mora este o grădină publică situată în Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.837003,
+                        45.775283
+                  ]
+            },
+            {
+                  "name": "Parc de la Tête d'Or",
+                  "text": "Parc de la Tête d'Or este un mare parc urban din Lyon-Nord, care cuprinde un lac și grădini botanice.",
+                  "category": "park",
+                  "coords": [
+                        4.853401,
+                        45.778674
+                  ]
             }
       ],
       "en": [
@@ -3555,6 +6686,87 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.855511,
                         45.777428
+                  ]
+            },
+            {
+                  "name": "Fort de Vaise",
+                  "text": "Fort de Vaise is a historical castle structure situated in Lyon-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        4.809819,
+                        45.771125
+                  ]
+            },
+            {
+                  "name": "Place Bellevue",
+                  "text": "Place Bellevue is a scenic viewpoint offering sweeping sights of Lyon-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        4.836493,
+                        45.774173
+                  ]
+            },
+            {
+                  "name": "Jardin des Trembles",
+                  "text": "The Jardin des Trembles is a local park providing green space in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.816752,
+                        45.790178
+                  ]
+            },
+            {
+                  "name": "Jardin Saint-Eucher",
+                  "text": "The Jardin Saint-Eucher is a public park located in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.840028,
+                        45.779491
+                  ]
+            },
+            {
+                  "name": "Fort Saint-Jean",
+                  "text": "Fort Saint-Jean is a historic castle fortification in Lyon-Nord, notable for its role in the city's old defensive system.",
+                  "category": "castle",
+                  "coords": [
+                        4.815243,
+                        45.770653
+                  ]
+            },
+            {
+                  "name": "Jardin Roquette",
+                  "text": "The Jardin Roquette is a recreational park situated in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.807258,
+                        45.776388
+                  ]
+            },
+            {
+                  "name": "Clos Jouve",
+                  "text": "Clos Jouve is a park providing open space for the community in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.820871,
+                        45.773272
+                  ]
+            },
+            {
+                  "name": "Jardin Marie-Thé Mora",
+                  "text": "The Jardin Marie-Thé Mora is a public garden area located in Lyon-Nord.",
+                  "category": "park",
+                  "coords": [
+                        4.837003,
+                        45.775283
+                  ]
+            },
+            {
+                  "name": "Parc de la Tête d'Or",
+                  "text": "The Parc de la Tête d'Or is a large urban park in Lyon-Nord featuring a lake and botanical gardens.",
+                  "category": "park",
+                  "coords": [
+                        4.853401,
+                        45.778674
                   ]
             }
       ]
@@ -3623,6 +6835,78 @@ export const franceCitiesV2: POI[] = [
                         5.3808,
                         43.298025
                   ]
+            },
+            {
+                  "name": "Théâtre Toursky",
+                  "text": "Das Théâtre Toursky ist ein Veranstaltungsort für darstellende Künste in Marseille-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.377641,
+                        43.315918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "Die Église Saint-Barthélémy ist eine Kultstätte in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.393632,
+                        43.323874
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Annonciation",
+                  "text": "Notre-Dame Annonciation ist ein Gotteshaus in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.37529,
+                        43.326132
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Sophie-Barat",
+                  "text": "Die Église Sainte-Sophie-Barat ist eine lokale Kirche in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.383283,
+                        43.319933
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Mont Carmel",
+                  "text": "Notre-Dame du Mont Carmel ist eine Kultstätte in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.366043,
+                        43.354643
+                  ]
+            },
+            {
+                  "name": "Église Saint-Trophyme",
+                  "text": "Die Église Saint-Trophyme ist eine Kirche der Gemeinde Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.361996,
+                        43.334458
+                  ]
+            },
+            {
+                  "name": "Église apostolique arménienne Saint-Jacques",
+                  "text": "Die armenisch-apostolische Kirche Saint-Jacques ist ein Gotteshaus in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.361108,
+                        43.333536
+                  ]
+            },
+            {
+                  "name": "Archaos Pôle national du cirque",
+                  "text": "Archaos Pôle national du cirque ist ein Kunstzentrum in Marseille-Nord, das für zeitgenössische Zirkusaufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        5.362788,
+                        43.333468
+                  ]
             }
       ],
       "hu": [
@@ -3642,6 +6926,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.3808,
                         43.298025
+                  ]
+            },
+            {
+                  "name": "Théâtre Toursky",
+                  "text": "A Théâtre Toursky egy színház Marseille-Nord területén.",
+                  "category": "cultural",
+                  "coords": [
+                        5.377641,
+                        43.315918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "Az Église Saint-Barthélémy egy istentiszteleti hely Marseille-Nordban.",
+                  "category": "religious",
+                  "coords": [
+                        5.393632,
+                        43.323874
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Annonciation",
+                  "text": "A Notre-Dame Annonciation egy istentiszteleti hely Marseille-Nordban.",
+                  "category": "religious",
+                  "coords": [
+                        5.37529,
+                        43.326132
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Sophie-Barat",
+                  "text": "Az Église Sainte-Sophie-Barat egy helyi templom Marseille-Nordban.",
+                  "category": "religious",
+                  "coords": [
+                        5.383283,
+                        43.319933
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Mont Carmel",
+                  "text": "A Notre-Dame du Mont Carmel egy vallási épület Marseille-Nordban.",
+                  "category": "religious",
+                  "coords": [
+                        5.366043,
+                        43.354643
+                  ]
+            },
+            {
+                  "name": "Église Saint-Trophyme",
+                  "text": "Az Église Saint-Trophyme egy templom Marseille-Nordban.",
+                  "category": "religious",
+                  "coords": [
+                        5.361996,
+                        43.334458
+                  ]
+            },
+            {
+                  "name": "Église apostolique arménienne Saint-Jacques",
+                  "text": "A Saint-Jacques örmény apostoli templom egy istentiszteleti hely Marseille-Nordban.",
+                  "category": "religious",
+                  "coords": [
+                        5.361108,
+                        43.333536
+                  ]
+            },
+            {
+                  "name": "Archaos Pôle national du cirque",
+                  "text": "Az Archaos Pôle national du cirque egy művészeti központ Marseille-Nordban, amely a kortárs cirkuszi előadásokról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        5.362788,
+                        43.333468
                   ]
             }
       ],
@@ -3663,6 +7019,78 @@ export const franceCitiesV2: POI[] = [
                         5.3808,
                         43.298025
                   ]
+            },
+            {
+                  "name": "Théâtre Toursky",
+                  "text": "Théâtre Toursky este un teatru din Marseille-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.377641,
+                        43.315918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "Église Saint-Barthélémy este un lăcaș de cult situat în Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.393632,
+                        43.323874
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Annonciation",
+                  "text": "Notre-Dame Annonciation este un lăcaș de cult în Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.37529,
+                        43.326132
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Sophie-Barat",
+                  "text": "Église Sainte-Sophie-Barat este o biserică locală din Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.383283,
+                        43.319933
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Mont Carmel",
+                  "text": "Notre-Dame du Mont Carmel este un lăcaș de cult situat în Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.366043,
+                        43.354643
+                  ]
+            },
+            {
+                  "name": "Église Saint-Trophyme",
+                  "text": "Église Saint-Trophyme este o biserică din Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.361996,
+                        43.334458
+                  ]
+            },
+            {
+                  "name": "Église apostolique arménienne Saint-Jacques",
+                  "text": "Biserica apostolică armeană Saint-Jacques este un lăcaș de cult din Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.361108,
+                        43.333536
+                  ]
+            },
+            {
+                  "name": "Archaos Pôle national du cirque",
+                  "text": "Archaos Pôle national du cirque este un centru de arte din Marseille-Nord, cunoscut pentru spectacolele de circ contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        5.362788,
+                        43.333468
+                  ]
             }
       ],
       "en": [
@@ -3682,6 +7110,78 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.3808,
                         43.298025
+                  ]
+            },
+            {
+                  "name": "Théâtre Toursky",
+                  "text": "The Théâtre Toursky is a performing arts venue situated in Marseille-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.377641,
+                        43.315918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Barthélémy",
+                  "text": "The Église Saint-Barthélémy is a place of worship located in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.393632,
+                        43.323874
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Annonciation",
+                  "text": "Notre-Dame Annonciation is a place of worship in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.37529,
+                        43.326132
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Sophie-Barat",
+                  "text": "The Église Sainte-Sophie-Barat is a local church in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.383283,
+                        43.319933
+                  ]
+            },
+            {
+                  "name": "Notre-Dame du Mont Carmel",
+                  "text": "Notre-Dame du Mont Carmel is a place of worship situated in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.366043,
+                        43.354643
+                  ]
+            },
+            {
+                  "name": "Église Saint-Trophyme",
+                  "text": "The Église Saint-Trophyme is a church serving the community of Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.361996,
+                        43.334458
+                  ]
+            },
+            {
+                  "name": "Église apostolique arménienne Saint-Jacques",
+                  "text": "The Saint-Jacques Armenian Apostolic Church is a place of worship in Marseille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.361108,
+                        43.333536
+                  ]
+            },
+            {
+                  "name": "Archaos Pôle national du cirque",
+                  "text": "Archaos Pôle national du cirque is an arts center in Marseille-Nord, known for contemporary circus performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.362788,
+                        43.333468
                   ]
             }
       ]
@@ -4426,6 +7926,69 @@ export const franceCitiesV2: POI[] = [
                         3.053378,
                         50.632534
                   ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne collégiale Saint-Pierre",
+                  "text": "Die Vestiges de l'ancienne collégiale Saint-Pierre sind die Ruinen einer ehemaligen Stiftskirche in Lille-Nord.",
+                  "category": "historical",
+                  "coords": [
+                        3.062601,
+                        50.642148
+                  ]
+            },
+            {
+                  "name": "Monument à Louise de Bettignies et aux femmes héroïques des pays envahis",
+                  "text": "Das Monument à Louise de Bettignies et aux femmes héroïques des pays envahis ist ein Denkmal in Lille-Nord.",
+                  "category": "historical",
+                  "coords": [
+                        3.0708,
+                        50.641592
+                  ]
+            },
+            {
+                  "name": "Musée de l'Hospice Comtesse",
+                  "text": "Das Musée de l'Hospice Comtesse ist ein Museum in Lille-Nord in einem ehemaligen mittelalterlichen Hospiz.",
+                  "category": "museum",
+                  "coords": [
+                        3.063205,
+                        50.641169
+                  ]
+            },
+            {
+                  "name": "Chapelle des franciscaines",
+                  "text": "Die Chapelle des franciscaines ist eine Kirche in Lille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.059973,
+                        50.641497
+                  ]
+            },
+            {
+                  "name": "Parc de la Citadelle",
+                  "text": "Der Parc de la Citadelle ist ein großer Park in Lille-Nord rund um die historische Zitadelle.",
+                  "category": "park",
+                  "coords": [
+                        3.044003,
+                        50.641747
+                  ]
+            },
+            {
+                  "name": "Parc Henri Matisse",
+                  "text": "Der Parc Henri Matisse ist ein öffentlicher Park in Lille-Nord.",
+                  "category": "park",
+                  "coords": [
+                        3.072505,
+                        50.640379
+                  ]
+            },
+            {
+                  "name": "Maison natale de Charles de Gaulle",
+                  "text": "Dieses Museum in Lille-Nord befindet sich im Geburtshaus des berühmten französischen Politikers Charles de Gaulle.",
+                  "category": "museum",
+                  "coords": [
+                        3.058778,
+                        50.645843
+                  ]
             }
       ],
       "hu": [
@@ -4454,6 +8017,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.053378,
                         50.632534
+                  ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne collégiale Saint-Pierre",
+                  "text": "A Vestiges de l'ancienne collégiale Saint-Pierre egy egykori kollégiumi templom romja Lille-Nord-ban.",
+                  "category": "historical",
+                  "coords": [
+                        3.062601,
+                        50.642148
+                  ]
+            },
+            {
+                  "name": "Monument à Louise de Bettignies et aux femmes héroïques des pays envahis",
+                  "text": "A Monument à Louise de Bettignies et aux femmes héroïques des pays envahis egy emlékmű Lille-Nord-ban.",
+                  "category": "historical",
+                  "coords": [
+                        3.0708,
+                        50.641592
+                  ]
+            },
+            {
+                  "name": "Musée de l'Hospice Comtesse",
+                  "text": "A Musée de l'Hospice Comtesse egy múzeum Lille-Nord-ban, amely egy egykori középkori ispotályban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        3.063205,
+                        50.641169
+                  ]
+            },
+            {
+                  "name": "Chapelle des franciscaines",
+                  "text": "A Chapelle des franciscaines egy ferences templom Lille-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        3.059973,
+                        50.641497
+                  ]
+            },
+            {
+                  "name": "Parc de la Citadelle",
+                  "text": "A Parc de la Citadelle egy nagy park Lille-Nord-ban a történelmi fellegvár körül.",
+                  "category": "park",
+                  "coords": [
+                        3.044003,
+                        50.641747
+                  ]
+            },
+            {
+                  "name": "Parc Henri Matisse",
+                  "text": "A Parc Henri Matisse egy nyilvános park Lille-Nord-ban.",
+                  "category": "park",
+                  "coords": [
+                        3.072505,
+                        50.640379
+                  ]
+            },
+            {
+                  "name": "Maison natale de Charles de Gaulle",
+                  "text": "Ez a Lille-Nord-i múzeum a híres francia vezető, Charles de Gaulle szülőházában található.",
+                  "category": "museum",
+                  "coords": [
+                        3.058778,
+                        50.645843
                   ]
             }
       ],
@@ -4484,6 +8110,69 @@ export const franceCitiesV2: POI[] = [
                         3.053378,
                         50.632534
                   ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne collégiale Saint-Pierre",
+                  "text": "Vestiges de l'ancienne collégiale Saint-Pierre sunt ruinele unei foste biserici colegiale din Lille-Nord.",
+                  "category": "historical",
+                  "coords": [
+                        3.062601,
+                        50.642148
+                  ]
+            },
+            {
+                  "name": "Monument à Louise de Bettignies et aux femmes héroïques des pays envahis",
+                  "text": "Monument à Louise de Bettignies et aux femmes héroïques des pays envahis este un monument din Lille-Nord.",
+                  "category": "historical",
+                  "coords": [
+                        3.0708,
+                        50.641592
+                  ]
+            },
+            {
+                  "name": "Musée de l'Hospice Comtesse",
+                  "text": "Musée de l'Hospice Comtesse este un muzeu din Lille-Nord găzduit într-un fost ospiciu medieval.",
+                  "category": "museum",
+                  "coords": [
+                        3.063205,
+                        50.641169
+                  ]
+            },
+            {
+                  "name": "Chapelle des franciscaines",
+                  "text": "Chapelle des franciscaines este o biserică situată în Lille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.059973,
+                        50.641497
+                  ]
+            },
+            {
+                  "name": "Parc de la Citadelle",
+                  "text": "Parc de la Citadelle este un parc întins din Lille-Nord, care înconjoară o citadelă istorică.",
+                  "category": "park",
+                  "coords": [
+                        3.044003,
+                        50.641747
+                  ]
+            },
+            {
+                  "name": "Parc Henri Matisse",
+                  "text": "Parc Henri Matisse este un parc public situat în Lille-Nord.",
+                  "category": "park",
+                  "coords": [
+                        3.072505,
+                        50.640379
+                  ]
+            },
+            {
+                  "name": "Maison natale de Charles de Gaulle",
+                  "text": "Acest muzeu din Lille-Nord este situat în casa natală a celebrului lider francez Charles de Gaulle.",
+                  "category": "museum",
+                  "coords": [
+                        3.058778,
+                        50.645843
+                  ]
             }
       ],
       "en": [
@@ -4512,6 +8201,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.053378,
                         50.632534
+                  ]
+            },
+            {
+                  "name": "Vestiges de l'ancienne collégiale Saint-Pierre",
+                  "text": "The Vestiges de l'ancienne collégiale Saint-Pierre are the ruins of a former collegiate church in Lille-Nord.",
+                  "category": "historical",
+                  "coords": [
+                        3.062601,
+                        50.642148
+                  ]
+            },
+            {
+                  "name": "Monument à Louise de Bettignies et aux femmes héroïques des pays envahis",
+                  "text": "The Monument à Louise de Bettignies et aux femmes héroïques des pays envahis is a monument in Lille-Nord.",
+                  "category": "historical",
+                  "coords": [
+                        3.0708,
+                        50.641592
+                  ]
+            },
+            {
+                  "name": "Musée de l'Hospice Comtesse",
+                  "text": "The Musée de l'Hospice Comtesse is a museum in Lille-Nord housed in a former medieval hospice.",
+                  "category": "museum",
+                  "coords": [
+                        3.063205,
+                        50.641169
+                  ]
+            },
+            {
+                  "name": "Chapelle des franciscaines",
+                  "text": "The Chapelle des franciscaines is a Franciscan church building located in Lille-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.059973,
+                        50.641497
+                  ]
+            },
+            {
+                  "name": "Parc de la Citadelle",
+                  "text": "Parc de la Citadelle is a large park in Lille-Nord surrounding a historic citadel.",
+                  "category": "park",
+                  "coords": [
+                        3.044003,
+                        50.641747
+                  ]
+            },
+            {
+                  "name": "Parc Henri Matisse",
+                  "text": "Parc Henri Matisse is a public park situated in Lille-Nord.",
+                  "category": "park",
+                  "coords": [
+                        3.072505,
+                        50.640379
+                  ]
+            },
+            {
+                  "name": "Maison natale de Charles de Gaulle",
+                  "text": "This museum in Lille-Nord is located in the birthplace of the famous French leader Charles de Gaulle.",
+                  "category": "museum",
+                  "coords": [
+                        3.058778,
+                        50.645843
                   ]
             }
       ]
@@ -4571,6 +8323,87 @@ export const franceCitiesV2: POI[] = [
                         5.71023,
                         45.170492
                   ]
+            },
+            {
+                  "name": "Parc Jean Verlhac",
+                  "text": "Parc Jean Verlhac ist ein grüner Stadtpark, der einen Erholungsraum in Grenoble-Sud bietet.",
+                  "category": "park",
+                  "coords": [
+                        5.73551,
+                        45.163674
+                  ]
+            },
+            {
+                  "name": "Place Charles Dullin",
+                  "text": "Place Charles Dullin ist ein öffentlicher Parkbereich im Bezirk Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.735352,
+                        45.170679
+                  ]
+            },
+            {
+                  "name": "Place Louis Jouvet",
+                  "text": "Place Louis Jouvet bietet eine offene Parkanlage in Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.736711,
+                        45.170159
+                  ]
+            },
+            {
+                  "name": "Square La Bruyère",
+                  "text": "Square La Bruyère ist ein angenehmer öffentlicher Platz und Parkbereich in Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.738583,
+                        45.166911
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul de la Capuche",
+                  "text": "Église Saint-Paul de la Capuche ist eine lokale Kirche und Kultstätte in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.722483,
+                        45.17121
+                  ]
+            },
+            {
+                  "name": "Centre œcuménique Saint-Marc",
+                  "text": "Centre œcuménique Saint-Marc ist ein ökumenisches Religionszentrum in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.737816,
+                        45.170517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre du Rondeau",
+                  "text": "Église Saint-Pierre du Rondeau ist eine Gemeindekirche in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.711792,
+                        45.169374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Monique",
+                  "text": "Église Sainte-Monique ist ein spiritueller Zufluchtsort und eine Kultstätte in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.728737,
+                        45.153213
+                  ]
+            },
+            {
+                  "name": "Chapelle de Beauvert",
+                  "text": "Chapelle de Beauvert ist eine bescheidene Kapelle, die Raum für Gottesdienste in Grenoble-Sud bietet.",
+                  "category": "religious",
+                  "coords": [
+                        5.718245,
+                        45.164322
+                  ]
             }
       ],
       "hu": [
@@ -4581,6 +8414,87 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.71023,
                         45.170492
+                  ]
+            },
+            {
+                  "name": "Parc Jean Verlhac",
+                  "text": "A Parc Jean Verlhac egy zöldellő városi park, amely kikapcsolódási lehetőséget kínál Grenoble-Sud területén.",
+                  "category": "park",
+                  "coords": [
+                        5.73551,
+                        45.163674
+                  ]
+            },
+            {
+                  "name": "Place Charles Dullin",
+                  "text": "A Place Charles Dullin egy nyilvános park Grenoble-Sud kerületében.",
+                  "category": "park",
+                  "coords": [
+                        5.735352,
+                        45.170679
+                  ]
+            },
+            {
+                  "name": "Place Louis Jouvet",
+                  "text": "A Place Louis Jouvet egy nyitott parkterület, amely Grenoble-Sud városrészben található.",
+                  "category": "park",
+                  "coords": [
+                        5.736711,
+                        45.170159
+                  ]
+            },
+            {
+                  "name": "Square La Bruyère",
+                  "text": "A Square La Bruyère egy kellemes közterület és park Grenoble-Sud-ban.",
+                  "category": "park",
+                  "coords": [
+                        5.738583,
+                        45.166911
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul de la Capuche",
+                  "text": "Az Église Saint-Paul de la Capuche egy helyi templom és istentiszteleti hely Grenoble-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        5.722483,
+                        45.17121
+                  ]
+            },
+            {
+                  "name": "Centre œcuménique Saint-Marc",
+                  "text": "A Centre œcuménique Saint-Marc egy ökumenikus vallási központ Grenoble-Sud-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.737816,
+                        45.170517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre du Rondeau",
+                  "text": "Az Église Saint-Pierre du Rondeau egy közösségi vallási épület Grenoble-Sud-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.711792,
+                        45.169374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Monique",
+                  "text": "Az Église Sainte-Monique egy lelki menedék és istentiszteleti hely Grenoble-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        5.728737,
+                        45.153213
+                  ]
+            },
+            {
+                  "name": "Chapelle de Beauvert",
+                  "text": "A Chapelle de Beauvert egy szerény kápolna, amely istentiszteleti helyet kínál Grenoble-Sud-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.718245,
+                        45.164322
                   ]
             }
       ],
@@ -4593,6 +8507,87 @@ export const franceCitiesV2: POI[] = [
                         5.71023,
                         45.170492
                   ]
+            },
+            {
+                  "name": "Parc Jean Verlhac",
+                  "text": "Parc Jean Verlhac este un parc urban verde care oferă un spațiu de recreere în Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.73551,
+                        45.163674
+                  ]
+            },
+            {
+                  "name": "Place Charles Dullin",
+                  "text": "Place Charles Dullin este o zonă de parc public situată în districtul Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.735352,
+                        45.170679
+                  ]
+            },
+            {
+                  "name": "Place Louis Jouvet",
+                  "text": "Place Louis Jouvet dispune de un spațiu de parc deschis situat în Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.736711,
+                        45.170159
+                  ]
+            },
+            {
+                  "name": "Square La Bruyère",
+                  "text": "Square La Bruyère este o piațetă publică plăcută și un spațiu de parc în Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.738583,
+                        45.166911
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul de la Capuche",
+                  "text": "Église Saint-Paul de la Capuche este o biserică locală și un lăcaș de cult în Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.722483,
+                        45.17121
+                  ]
+            },
+            {
+                  "name": "Centre œcuménique Saint-Marc",
+                  "text": "Centre œcuménique Saint-Marc este un centru religios ecumenic situat în Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.737816,
+                        45.170517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre du Rondeau",
+                  "text": "Église Saint-Pierre du Rondeau este un lăcaș de cult comunitar situat în Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.711792,
+                        45.169374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Monique",
+                  "text": "Église Sainte-Monique este un refugiu spiritual și un lăcaș de cult în Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.728737,
+                        45.153213
+                  ]
+            },
+            {
+                  "name": "Chapelle de Beauvert",
+                  "text": "Chapelle de Beauvert este o capelă modestă care oferă un spațiu de cult în Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.718245,
+                        45.164322
+                  ]
             }
       ],
       "en": [
@@ -4603,6 +8598,87 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         5.71023,
                         45.170492
+                  ]
+            },
+            {
+                  "name": "Parc Jean Verlhac",
+                  "text": "Parc Jean Verlhac is a green urban park providing a recreational space in Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.73551,
+                        45.163674
+                  ]
+            },
+            {
+                  "name": "Place Charles Dullin",
+                  "text": "Place Charles Dullin is a public park area located in the district of Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.735352,
+                        45.170679
+                  ]
+            },
+            {
+                  "name": "Place Louis Jouvet",
+                  "text": "Place Louis Jouvet features an open park space situated in Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.736711,
+                        45.170159
+                  ]
+            },
+            {
+                  "name": "Square La Bruyère",
+                  "text": "Square La Bruyère is a pleasant public square and park space in Grenoble-Sud.",
+                  "category": "park",
+                  "coords": [
+                        5.738583,
+                        45.166911
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul de la Capuche",
+                  "text": "Église Saint-Paul de la Capuche is a local church and place of worship in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.722483,
+                        45.17121
+                  ]
+            },
+            {
+                  "name": "Centre œcuménique Saint-Marc",
+                  "text": "Centre œcuménique Saint-Marc is an ecumenical religious center located in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.737816,
+                        45.170517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre du Rondeau",
+                  "text": "Église Saint-Pierre du Rondeau is a community place of worship situated in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.711792,
+                        45.169374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Monique",
+                  "text": "Église Sainte-Monique is a spiritual haven and place of worship in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.728737,
+                        45.153213
+                  ]
+            },
+            {
+                  "name": "Chapelle de Beauvert",
+                  "text": "Chapelle de Beauvert is a modest chapel offering a space for worship in Grenoble-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        5.718245,
+                        45.164322
                   ]
             }
       ]
@@ -4960,10 +9036,266 @@ export const franceCitiesV2: POI[] = [
   },
   {
     id: "france-perpignan-bis-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Musée des Monnaies et Médailles Joseph Puig",
+                  "text": "Das Musée des Monnaies et Médailles Joseph Puig ist ein bedeutendes Münz- und Medaillenmuseum in Perpignan-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        2.883395,
+                        42.699426
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Die Église Saint-François-d'Assise ist ein religiöses Gebäude im Viertel Vernet in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.890042,
+                        42.707526
+                  ]
+            },
+            {
+                  "name": "Chapelle du Dévôt-Christ",
+                  "text": "Die Chapelle du Dévôt-Christ ist eine bekannte historische Kapelle in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.89716,
+                        42.700415
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Perpignan",
+                  "text": "Die Grande Mosquée de Perpignan dient als bedeutendes Gotteshaus für die lokale muslimische Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        2.882552,
+                        42.729537
+                  ]
+            },
+            {
+                  "name": "Prieuré du Christ-Roi",
+                  "text": "Das Prieuré du Christ-Roi ist eine anerkannte Kirche im Viertel Vernet in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.889761,
+                        42.711095
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "Die Église Notre-Dame-de-Lourdes ist eine örtliche Kirche in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.891187,
+                        42.699765
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "Die Chapelle Saint-Christophe ist eine bekannte Kapelle im Viertel Vernet in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.885375,
+                        42.720786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Monnaies et Médailles Joseph Puig",
+                  "text": "A Musée des Monnaies et Médailles Joseph Puig egy jelentős érme- és éremmúzeum Perpignan-Nord területén.",
+                  "category": "museum",
+                  "coords": [
+                        2.883395,
+                        42.699426
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Az Église Saint-François-d'Assise egy ismert vallási épület Perpignan-Nord Vernet negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        2.890042,
+                        42.707526
+                  ]
+            },
+            {
+                  "name": "Chapelle du Dévôt-Christ",
+                  "text": "A Chapelle du Dévôt-Christ egy nevezetes történelmi kápolna Perpignan-Nord városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        2.89716,
+                        42.700415
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Perpignan",
+                  "text": "A Grande Mosquée de Perpignan a helyi muszlim közösség fontos istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        2.882552,
+                        42.729537
+                  ]
+            },
+            {
+                  "name": "Prieuré du Christ-Roi",
+                  "text": "A Prieuré du Christ-Roi egy ismert templom Perpignan-Nord Vernet részén.",
+                  "category": "religious",
+                  "coords": [
+                        2.889761,
+                        42.711095
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "Az Église Notre-Dame-de-Lourdes egy helyi templom Perpignan-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        2.891187,
+                        42.699765
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "A Chapelle Saint-Christophe a Vernet közösséget szolgáló ismert kápolna Perpignan-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        2.885375,
+                        42.720786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Monnaies et Médailles Joseph Puig",
+                  "text": "Musée des Monnaies et Médailles Joseph Puig este un muzeu remarcabil dedicat monedelor și medaliilor în Perpignan-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        2.883395,
+                        42.699426
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Église Saint-François-d'Assise este o clădire religioasă situată în cartierul Vernet din Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.890042,
+                        42.707526
+                  ]
+            },
+            {
+                  "name": "Chapelle du Dévôt-Christ",
+                  "text": "Chapelle du Dévôt-Christ este o capelă istorică renumită situată în Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.89716,
+                        42.700415
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Perpignan",
+                  "text": "Grande Mosquée de Perpignan servește drept un important lăcaș de cult pentru comunitatea musulmană locală.",
+                  "category": "religious",
+                  "coords": [
+                        2.882552,
+                        42.729537
+                  ]
+            },
+            {
+                  "name": "Prieuré du Christ-Roi",
+                  "text": "Prieuré du Christ-Roi este o biserică recunoscută din zona Vernet a Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.889761,
+                        42.711095
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "Église Notre-Dame-de-Lourdes este o biserică locală din Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.891187,
+                        42.699765
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "Chapelle Saint-Christophe este o capelă cunoscută ce deservește comunitatea Vernet din Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.885375,
+                        42.720786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Monnaies et Médailles Joseph Puig",
+                  "text": "The Musée des Monnaies et Médailles Joseph Puig is a notable museum dedicated to coins and medals in Perpignan-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        2.883395,
+                        42.699426
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-d'Assise",
+                  "text": "Église Saint-François-d'Assise is a recognized religious building located in the Vernet district of Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.890042,
+                        42.707526
+                  ]
+            },
+            {
+                  "name": "Chapelle du Dévôt-Christ",
+                  "text": "Chapelle du Dévôt-Christ is a renowned historical chapel situated in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.89716,
+                        42.700415
+                  ]
+            },
+            {
+                  "name": "Grande Mosquée de Perpignan",
+                  "text": "The Grande Mosquée de Perpignan serves as a prominent place of worship for the local Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        2.882552,
+                        42.729537
+                  ]
+            },
+            {
+                  "name": "Prieuré du Christ-Roi",
+                  "text": "The Prieuré du Christ-Roi is a recognized church in the Vernet area of Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.889761,
+                        42.711095
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-Lourdes",
+                  "text": "Église Notre-Dame-de-Lourdes is a local church offering a place of worship in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.891187,
+                        42.699765
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Christophe",
+                  "text": "Chapelle Saint-Christophe is a known chapel serving the Vernet community in Perpignan-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        2.885375,
+                        42.720786
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "FR",
@@ -5029,6 +9361,15 @@ export const franceCitiesV2: POI[] = [
                         4.908235,
                         44.950713
                   ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "Die Église Sainte-Claire ist eine lokale Kirche in der Gegend von Valence-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        4.91198,
+                        44.94578
+                  ]
             }
       ],
       "hu": [
@@ -5048,6 +9389,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.908235,
                         44.950713
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "Az Église Sainte-Claire egy helyi templom, amely Valence-Nord területén található.",
+                  "category": "religious",
+                  "coords": [
+                        4.91198,
+                        44.94578
                   ]
             }
       ],
@@ -5069,6 +9419,15 @@ export const franceCitiesV2: POI[] = [
                         4.908235,
                         44.950713
                   ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "Église Sainte-Claire este o biserică locală situată în zona Valence-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        4.91198,
+                        44.94578
+                  ]
             }
       ],
       "en": [
@@ -5088,6 +9447,15 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.908235,
                         44.950713
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Claire",
+                  "text": "Église Sainte-Claire is a local church located in the area of Valence-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        4.91198,
+                        44.94578
                   ]
             }
       ]
@@ -5137,7 +9505,376 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-valence-bis-cities-v2.webp",
   },
   {
-    id: "france-chambery-bis-cities-v2",
+    id: "france-chambery-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Caramagne",
+                  "text": "Das Château de Caramagne ist ein bedeutendes historisches Schloss in Chambéry-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        5.914314,
+                        45.586292
+                  ]
+            },
+            {
+                  "name": "Chapelle du Calvaire",
+                  "text": "Die Chapelle du Calvaire ist eine ausgewiesene Kultstätte in Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.924629,
+                        45.574791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Die Église Saint-Pierre ist eine markante historische Kirche und Attraktion im Lémenc-Viertel von Chambéry-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        5.924521,
+                        45.572496
+                  ]
+            },
+            {
+                  "name": "Le Phare",
+                  "text": "Le Phare ist ein modernes Theater und Veranstaltungsort in Chambéry-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.899711,
+                        45.583721
+                  ]
+            },
+            {
+                  "name": "Remise ferroviaire dite rotonde SNCF",
+                  "text": "Remise ferroviaire dite rotonde SNCF ist ein berühmter historischer Ringlokschuppen und eine Attraktion in Chambéry-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        5.916452,
+                        45.5772
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Ombre",
+                  "text": "Die Église de Saint-Ombre ist eine örtliche Kultstätte in Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.903925,
+                        45.594872
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Croix-Rouge",
+                  "text": "Chapelle de la Croix-Rouge ist eine religiöse Kultstätte in Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.921491,
+                        45.591001
+                  ]
+            },
+            {
+                  "name": "Belvédère Piot",
+                  "text": "Belvédère Piot ist ein malerischer Aussichtspunkt mit Blick über Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926037,
+                        45.581914
+                  ]
+            },
+            {
+                  "name": "Belvédère Chantemerle",
+                  "text": "Belvédère Chantemerle ist ein erhöhter Aussichtspunkt in Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926067,
+                        45.580233
+                  ]
+            },
+            {
+                  "name": "Belvédère Côte Rousse",
+                  "text": "Belvédère Côte Rousse ist ein lokaler Aussichtspunkt in Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926737,
+                        45.587285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Caramagne",
+                  "text": "A Château de Caramagne egy jelentős történelmi kastély Chambéry-Nord területén.",
+                  "category": "castle",
+                  "coords": [
+                        5.914314,
+                        45.586292
+                  ]
+            },
+            {
+                  "name": "Chapelle du Calvaire",
+                  "text": "A Chapelle du Calvaire egy kijelölt istentiszteleti hely Chambéry-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.924629,
+                        45.574791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Az Église Saint-Pierre egy kiemelkedő történelmi templom és látványosság Chambéry-Nord Lémenc területén.",
+                  "category": "landmark",
+                  "coords": [
+                        5.924521,
+                        45.572496
+                  ]
+            },
+            {
+                  "name": "Le Phare",
+                  "text": "A Le Phare egy modern színház és rendezvényközpont Chambéry-Nord-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        5.899711,
+                        45.583721
+                  ]
+            },
+            {
+                  "name": "Remise ferroviaire dite rotonde SNCF",
+                  "text": "A Remise ferroviaire dite rotonde SNCF egy híres történelmi körvasúti fűtőház látványosság Chambéry-Nord-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.916452,
+                        45.5772
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Ombre",
+                  "text": "Az Église de Saint-Ombre egy helyi istentiszteleti hely Chambéry-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.903925,
+                        45.594872
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Croix-Rouge",
+                  "text": "A Chapelle de la Croix-Rouge egy vallási istentiszteleti hely Chambéry-Nord-ban.",
+                  "category": "religious",
+                  "coords": [
+                        5.921491,
+                        45.591001
+                  ]
+            },
+            {
+                  "name": "Belvédère Piot",
+                  "text": "A Belvédère Piot egy festői kilátó, amely panorámát nyújt Chambéry-Nord felett.",
+                  "category": "natural",
+                  "coords": [
+                        5.926037,
+                        45.581914
+                  ]
+            },
+            {
+                  "name": "Belvédère Chantemerle",
+                  "text": "A Belvédère Chantemerle egy magaslati kilátó Chambéry-Nord-ban.",
+                  "category": "natural",
+                  "coords": [
+                        5.926067,
+                        45.580233
+                  ]
+            },
+            {
+                  "name": "Belvédère Côte Rousse",
+                  "text": "A Belvédère Côte Rousse egy helyi kilátó Chambéry-Nord-ban.",
+                  "category": "natural",
+                  "coords": [
+                        5.926737,
+                        45.587285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Caramagne",
+                  "text": "Château de Caramagne este un important castel istoric situat în Chambéry-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        5.914314,
+                        45.586292
+                  ]
+            },
+            {
+                  "name": "Chapelle du Calvaire",
+                  "text": "Chapelle du Calvaire este un lăcaș de cult desemnat situat în Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.924629,
+                        45.574791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Église Saint-Pierre este o importantă biserică istorică și atracție în zona Lémenc din Chambéry-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        5.924521,
+                        45.572496
+                  ]
+            },
+            {
+                  "name": "Le Phare",
+                  "text": "Le Phare este un teatru și spațiu de evenimente modern în Chambéry-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.899711,
+                        45.583721
+                  ]
+            },
+            {
+                  "name": "Remise ferroviaire dite rotonde SNCF",
+                  "text": "Remise ferroviaire dite rotonde SNCF este un faimos depou feroviar circular istoric, o atracție în Chambéry-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        5.916452,
+                        45.5772
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Ombre",
+                  "text": "Église de Saint-Ombre este un lăcaș de cult local în Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.903925,
+                        45.594872
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Croix-Rouge",
+                  "text": "Chapelle de la Croix-Rouge este un lăcaș de cult religios situat în Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.921491,
+                        45.591001
+                  ]
+            },
+            {
+                  "name": "Belvédère Piot",
+                  "text": "Belvédère Piot este un punct de belvedere panoramic ce oferă priveliști asupra Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926037,
+                        45.581914
+                  ]
+            },
+            {
+                  "name": "Belvédère Chantemerle",
+                  "text": "Belvédère Chantemerle este un punct de belvedere la înălțime situat în Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926067,
+                        45.580233
+                  ]
+            },
+            {
+                  "name": "Belvédère Côte Rousse",
+                  "text": "Belvédère Côte Rousse este un punct de belvedere local aflat în Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926737,
+                        45.587285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Caramagne",
+                  "text": "Château de Caramagne is a notable historic castle located in Chambéry-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        5.914314,
+                        45.586292
+                  ]
+            },
+            {
+                  "name": "Chapelle du Calvaire",
+                  "text": "Chapelle du Calvaire is a designated place of worship located in Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.924629,
+                        45.574791
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Église Saint-Pierre is a prominent historic church attraction in the Lémenc area of Chambéry-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        5.924521,
+                        45.572496
+                  ]
+            },
+            {
+                  "name": "Le Phare",
+                  "text": "Le Phare is a modern theater and event venue in Chambéry-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        5.899711,
+                        45.583721
+                  ]
+            },
+            {
+                  "name": "Remise ferroviaire dite rotonde SNCF",
+                  "text": "Remise ferroviaire dite rotonde SNCF is a famous historical railway roundhouse attraction in Chambéry-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        5.916452,
+                        45.5772
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Ombre",
+                  "text": "Église de Saint-Ombre is a local place of worship in Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.903925,
+                        45.594872
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Croix-Rouge",
+                  "text": "Chapelle de la Croix-Rouge is a religious place of worship situated in Chambéry-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        5.921491,
+                        45.591001
+                  ]
+            },
+            {
+                  "name": "Belvédère Piot",
+                  "text": "Belvédère Piot is a scenic viewpoint offering views over Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926037,
+                        45.581914
+                  ]
+            },
+            {
+                  "name": "Belvédère Chantemerle",
+                  "text": "Belvédère Chantemerle is an elevated viewpoint situated in Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926067,
+                        45.580233
+                  ]
+            },
+            {
+                  "name": "Belvédère Côte Rousse",
+                  "text": "Belvédère Côte Rousse is a local viewpoint found in Chambéry-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        5.926737,
+                        45.587285
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Chambéry-Nord", hu: "Chambéry-Nord", ro: "Chambéry-Nord", en: "Chambéry-Nord" },
@@ -5220,6 +9957,60 @@ export const franceCitiesV2: POI[] = [
                         7.319876,
                         47.734458
                   ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Die Église du Sacré-Cœur ist eine Kirche im Zentrum von Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.337832,
+                        47.736829
+                  ]
+            },
+            {
+                  "name": "Pavillon 14",
+                  "text": "Pavillon 14 dient als Gotteshaus in Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.331916,
+                        47.733692
+                  ]
+            },
+            {
+                  "name": "Temple Calviniste",
+                  "text": "Der Temple Calviniste ist ein calvinistisches Gotteshaus in Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.306454,
+                        47.743955
+                  ]
+            },
+            {
+                  "name": "Tour du Diable",
+                  "text": "Der Tour du Diable ist ein historischer Turm in Mulhouse-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        7.330668,
+                        47.743476
+                  ]
+            },
+            {
+                  "name": "MUSEUM Dan GERBO",
+                  "text": "Das MUSEUM Dan GERBO ist eine museale Einrichtung in Mulhouse-Centre.",
+                  "category": "museum",
+                  "coords": [
+                        7.308205,
+                        47.747513
+                  ]
+            },
+            {
+                  "name": "Lemurs",
+                  "text": "Lemurs ist eine lokale Attraktion in Mulhouse-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.352093,
+                        47.736067
+                  ]
             }
       ],
       "hu": [
@@ -5257,6 +10048,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.319876,
                         47.734458
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Az Église du Sacré-Cœur egy templom Mulhouse-Centre központjában.",
+                  "category": "religious",
+                  "coords": [
+                        7.337832,
+                        47.736829
+                  ]
+            },
+            {
+                  "name": "Pavillon 14",
+                  "text": "A Pavillon 14 istentiszteleti helyként szolgál Mulhouse-Centre-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.331916,
+                        47.733692
+                  ]
+            },
+            {
+                  "name": "Temple Calviniste",
+                  "text": "A Temple Calviniste egy kálvinista templom Mulhouse-Centre városában.",
+                  "category": "religious",
+                  "coords": [
+                        7.306454,
+                        47.743955
+                  ]
+            },
+            {
+                  "name": "Tour du Diable",
+                  "text": "A Tour du Diable egy történelmi torony Mulhouse-Centre-ben.",
+                  "category": "tower",
+                  "coords": [
+                        7.330668,
+                        47.743476
+                  ]
+            },
+            {
+                  "name": "MUSEUM Dan GERBO",
+                  "text": "A MUSEUM Dan GERBO egy múzeumi intézmény Mulhouse-Centre városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.308205,
+                        47.747513
+                  ]
+            },
+            {
+                  "name": "Lemurs",
+                  "text": "A Lemurs egy helyi látványosság Mulhouse-Centre területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.352093,
+                        47.736067
                   ]
             }
       ],
@@ -5296,6 +10141,60 @@ export const franceCitiesV2: POI[] = [
                         7.319876,
                         47.734458
                   ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Église du Sacré-Cœur este o biserică în Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.337832,
+                        47.736829
+                  ]
+            },
+            {
+                  "name": "Pavillon 14",
+                  "text": "Pavillon 14 servește ca lăcaș de cult în Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.331916,
+                        47.733692
+                  ]
+            },
+            {
+                  "name": "Temple Calviniste",
+                  "text": "Temple Calviniste este un lăcaș de cult calvinist în Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.306454,
+                        47.743955
+                  ]
+            },
+            {
+                  "name": "Tour du Diable",
+                  "text": "Tour du Diable este un turn istoric în Mulhouse-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        7.330668,
+                        47.743476
+                  ]
+            },
+            {
+                  "name": "MUSEUM Dan GERBO",
+                  "text": "MUSEUM Dan GERBO este o instituție muzeală în Mulhouse-Centre.",
+                  "category": "museum",
+                  "coords": [
+                        7.308205,
+                        47.747513
+                  ]
+            },
+            {
+                  "name": "Lemurs",
+                  "text": "Lemurs este o atracție locală în Mulhouse-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.352093,
+                        47.736067
+                  ]
             }
       ],
       "en": [
@@ -5333,6 +10232,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         7.319876,
                         47.734458
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "The Église du Sacré-Cœur is a church in Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.337832,
+                        47.736829
+                  ]
+            },
+            {
+                  "name": "Pavillon 14",
+                  "text": "Pavillon 14 serves as a place of worship in Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.331916,
+                        47.733692
+                  ]
+            },
+            {
+                  "name": "Temple Calviniste",
+                  "text": "The Temple Calviniste is a Calvinist place of worship in Mulhouse-Centre.",
+                  "category": "religious",
+                  "coords": [
+                        7.306454,
+                        47.743955
+                  ]
+            },
+            {
+                  "name": "Tour du Diable",
+                  "text": "The Tour du Diable is a historical tower in Mulhouse-Centre.",
+                  "category": "tower",
+                  "coords": [
+                        7.330668,
+                        47.743476
+                  ]
+            },
+            {
+                  "name": "MUSEUM Dan GERBO",
+                  "text": "The MUSEUM Dan GERBO is a museum institution in Mulhouse-Centre.",
+                  "category": "museum",
+                  "coords": [
+                        7.308205,
+                        47.747513
+                  ]
+            },
+            {
+                  "name": "Lemurs",
+                  "text": "Lemurs is a local attraction in Mulhouse-Centre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.352093,
+                        47.736067
                   ]
             }
       ]
@@ -5437,6 +10390,69 @@ export const franceCitiesV2: POI[] = [
                         6.03,
                         47.234722
                   ]
+            },
+            {
+                  "name": "Mairie de Beure",
+                  "text": "Die Mairie de Beure ist das Rathaus in Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        6.004207,
+                        47.207371
+                  ]
+            },
+            {
+                  "name": "Grotte de la Chère",
+                  "text": "Die Grotte de la Chère ist ein Höhleneingang in Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        5.991987,
+                        47.197454
+                  ]
+            },
+            {
+                  "name": "Mont des Buis",
+                  "text": "Der Mont des Buis ist ein markanter Berggipfel in Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        6.031689,
+                        47.214959
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Buis",
+                  "text": "Die Chapelle Notre-Dame des Buis ist eine bemerkenswerte Kapelle am Berghang in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.046185,
+                        47.218218
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hippolyte",
+                  "text": "Die Église Saint-Hippolyte ist eine historische Kirche in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.018236,
+                        47.21885
+                  ]
+            },
+            {
+                  "name": "Mémorial Notre-Dame de la Libération",
+                  "text": "Das Mémorial Notre-Dame de la Libération ist ein Gedenkbauwerk für die Befreiung in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.051333,
+                        47.219616
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Die Église Saint-Pierre ist eine Kirche in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.024506,
+                        47.200714
+                  ]
             }
       ],
       "hu": [
@@ -5448,6 +10464,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.03,
                         47.234722
+                  ]
+            },
+            {
+                  "name": "Mairie de Beure",
+                  "text": "A Mairie de Beure a városháza épülete Besançon-Sud területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.004207,
+                        47.207371
+                  ]
+            },
+            {
+                  "name": "Grotte de la Chère",
+                  "text": "A Grotte de la Chère egy barlangbejárat Besançon-Sud térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.991987,
+                        47.197454
+                  ]
+            },
+            {
+                  "name": "Mont des Buis",
+                  "text": "A Mont des Buis egy hegycsúcs Besançon-Sud területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.031689,
+                        47.214959
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Buis",
+                  "text": "A Chapelle Notre-Dame des Buis egy figyelemre méltó kápolna a hegyoldalban Besançon-Sud térségében.",
+                  "category": "religious",
+                  "coords": [
+                        6.046185,
+                        47.218218
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hippolyte",
+                  "text": "Az Église Saint-Hippolyte egy történelmi templom Besançon-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        6.018236,
+                        47.21885
+                  ]
+            },
+            {
+                  "name": "Mémorial Notre-Dame de la Libération",
+                  "text": "A Mémorial Notre-Dame de la Libération egy felszabadulási emlékmű Besançon-Sud városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.051333,
+                        47.219616
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Az Église Saint-Pierre egy templom Besançon-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        6.024506,
+                        47.200714
                   ]
             }
       ],
@@ -5471,6 +10550,69 @@ export const franceCitiesV2: POI[] = [
                         6.03,
                         47.234722
                   ]
+            },
+            {
+                  "name": "Mairie de Beure",
+                  "text": "Mairie de Beure este clădirea primăriei din Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        6.004207,
+                        47.207371
+                  ]
+            },
+            {
+                  "name": "Grotte de la Chère",
+                  "text": "Grotte de la Chère este intrarea într-o peșteră din Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        5.991987,
+                        47.197454
+                  ]
+            },
+            {
+                  "name": "Mont des Buis",
+                  "text": "Mont des Buis este un vârf de munte în Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        6.031689,
+                        47.214959
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Buis",
+                  "text": "Chapelle Notre-Dame des Buis este o capelă notabilă situată în Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.046185,
+                        47.218218
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hippolyte",
+                  "text": "Église Saint-Hippolyte este o biserică istorică din Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.018236,
+                        47.21885
+                  ]
+            },
+            {
+                  "name": "Mémorial Notre-Dame de la Libération",
+                  "text": "Mémorial Notre-Dame de la Libération este un monument dedicat eliberării, situat în Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.051333,
+                        47.219616
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "Église Saint-Pierre este o biserică din Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.024506,
+                        47.200714
+                  ]
             }
       ],
       "en": [
@@ -5492,6 +10634,69 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         6.03,
                         47.234722
+                  ]
+            },
+            {
+                  "name": "Mairie de Beure",
+                  "text": "The Mairie de Beure is the town hall building in Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        6.004207,
+                        47.207371
+                  ]
+            },
+            {
+                  "name": "Grotte de la Chère",
+                  "text": "The Grotte de la Chère is a cave entrance located in Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        5.991987,
+                        47.197454
+                  ]
+            },
+            {
+                  "name": "Mont des Buis",
+                  "text": "The Mont des Buis is a prominent peak located in Besançon-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        6.031689,
+                        47.214959
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Buis",
+                  "text": "The Chapelle Notre-Dame des Buis is a notable chapel on the hillside in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.046185,
+                        47.218218
+                  ]
+            },
+            {
+                  "name": "Église Saint-Hippolyte",
+                  "text": "The Église Saint-Hippolyte is a historic church located in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.018236,
+                        47.21885
+                  ]
+            },
+            {
+                  "name": "Mémorial Notre-Dame de la Libération",
+                  "text": "The Mémorial Notre-Dame de la Libération is a liberation memorial situated in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.051333,
+                        47.219616
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre",
+                  "text": "The Église Saint-Pierre is a church located in Besançon-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        6.024506,
+                        47.200714
                   ]
             }
       ],
@@ -5537,6 +10742,60 @@ export const franceCitiesV2: POI[] = [
                         0.350701,
                         46.590317
                   ]
+            },
+            {
+                  "name": "Tour du Cordier",
+                  "text": "Die Tour du Cordier ist ein markanter Turm in Poitiers-Nord.",
+                  "category": "tower",
+                  "coords": [
+                        0.340312,
+                        46.590352
+                  ]
+            },
+            {
+                  "name": "La Rotative",
+                  "text": "La Rotative ist ein Kunst- und Kulturzentrum in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.361479,
+                        46.602314
+                  ]
+            },
+            {
+                  "name": "ZO Prod",
+                  "text": "ZO Prod ist ein Kunstzentrum und kreativer Raum in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.349396,
+                        46.609832
+                  ]
+            },
+            {
+                  "name": "Le 23",
+                  "text": "Le 23 ist ein Kunst- und Veranstaltungszentrum in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.337613,
+                        46.59202
+                  ]
+            },
+            {
+                  "name": "Game Parc",
+                  "text": "Game Parc ist eine Freizeit- und Unterhaltungsattraktion in Poitiers-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        0.353481,
+                        46.624676
+                  ]
+            },
+            {
+                  "name": "Espace Republic Corner",
+                  "text": "Das Espace Republic Corner ist ein Theater und Veranstaltungsort in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.341107,
+                        46.612658
+                  ]
             }
       ],
       "hu": [
@@ -5565,6 +10824,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.350701,
                         46.590317
+                  ]
+            },
+            {
+                  "name": "Tour du Cordier",
+                  "text": "A Tour du Cordier egy jellegzetes toronyépület Poitiers-Nord területén.",
+                  "category": "tower",
+                  "coords": [
+                        0.340312,
+                        46.590352
+                  ]
+            },
+            {
+                  "name": "La Rotative",
+                  "text": "A La Rotative egy művészeti központ Poitiers-Nord városrészben.",
+                  "category": "cultural",
+                  "coords": [
+                        0.361479,
+                        46.602314
+                  ]
+            },
+            {
+                  "name": "ZO Prod",
+                  "text": "A ZO Prod egy művészeti és kreatív tér Poitiers-Nord területén.",
+                  "category": "cultural",
+                  "coords": [
+                        0.349396,
+                        46.609832
+                  ]
+            },
+            {
+                  "name": "Le 23",
+                  "text": "A Le 23 egy helyi művészeti központ Poitiers-Nord-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        0.337613,
+                        46.59202
+                  ]
+            },
+            {
+                  "name": "Game Parc",
+                  "text": "A Game Parc egy szórakoztató létesítmény és turisztikai attrakció Poitiers-Nord-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.353481,
+                        46.624676
+                  ]
+            },
+            {
+                  "name": "Espace Republic Corner",
+                  "text": "Az Espace Republic Corner egy színházi előadótér Poitiers-Nord városrészben.",
+                  "category": "cultural",
+                  "coords": [
+                        0.341107,
+                        46.612658
                   ]
             }
       ],
@@ -5595,6 +10908,60 @@ export const franceCitiesV2: POI[] = [
                         0.350701,
                         46.590317
                   ]
+            },
+            {
+                  "name": "Tour du Cordier",
+                  "text": "Tour du Cordier este un turn istoric situat în Poitiers-Nord.",
+                  "category": "tower",
+                  "coords": [
+                        0.340312,
+                        46.590352
+                  ]
+            },
+            {
+                  "name": "La Rotative",
+                  "text": "La Rotative este un centru dedicat artelor în Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.361479,
+                        46.602314
+                  ]
+            },
+            {
+                  "name": "ZO Prod",
+                  "text": "ZO Prod este un centru de arte și creație din Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.349396,
+                        46.609832
+                  ]
+            },
+            {
+                  "name": "Le 23",
+                  "text": "Le 23 este un centru de arte pentru comunitatea din Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.337613,
+                        46.59202
+                  ]
+            },
+            {
+                  "name": "Game Parc",
+                  "text": "Game Parc este o atracție de divertisment situată în Poitiers-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        0.353481,
+                        46.624676
+                  ]
+            },
+            {
+                  "name": "Espace Republic Corner",
+                  "text": "Espace Republic Corner este un teatru și spațiu de spectacole din Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.341107,
+                        46.612658
+                  ]
             }
       ],
       "en": [
@@ -5623,6 +10990,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         0.350701,
                         46.590317
+                  ]
+            },
+            {
+                  "name": "Tour du Cordier",
+                  "text": "The Tour du Cordier is a notable tower structure located in Poitiers-Nord.",
+                  "category": "tower",
+                  "coords": [
+                        0.340312,
+                        46.590352
+                  ]
+            },
+            {
+                  "name": "La Rotative",
+                  "text": "La Rotative is a vibrant arts and cultural centre in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.361479,
+                        46.602314
+                  ]
+            },
+            {
+                  "name": "ZO Prod",
+                  "text": "ZO Prod operates as an arts centre and creative space in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.349396,
+                        46.609832
+                  ]
+            },
+            {
+                  "name": "Le 23",
+                  "text": "Le 23 is a local arts centre dedicated to cultural events in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.337613,
+                        46.59202
+                  ]
+            },
+            {
+                  "name": "Game Parc",
+                  "text": "Game Parc is a leisure and entertainment attraction in Poitiers-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        0.353481,
+                        46.624676
+                  ]
+            },
+            {
+                  "name": "Espace Republic Corner",
+                  "text": "Espace Republic Corner is a performing arts venue and theatre in Poitiers-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.341107,
+                        46.612658
                   ]
             }
       ]
@@ -5672,7 +11093,88 @@ export const franceCitiesV2: POI[] = [
     image: "/poi-images/france-poitiers-bis-cities-v2.webp",
   },
   {
-    id: "france-nimes-bis-cities-v2",
+    id: "france-nimes-bis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Die Église Notre-Dame ist eine lokale Kultstätte in Nîmes-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.379091,
+                        43.796947
+                  ]
+            },
+            {
+                  "name": "Temple du Mas des Abeilles",
+                  "text": "Der Temple du Mas des Abeilles ist eine religiöse Stätte in Nîmes-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.374512,
+                        43.811986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Az Église Notre-Dame egy helyi istentiszteleti hely Nîmes-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        4.379091,
+                        43.796947
+                  ]
+            },
+            {
+                  "name": "Temple du Mas des Abeilles",
+                  "text": "A Temple du Mas des Abeilles egy vallási helyszín Nîmes-Sud városában.",
+                  "category": "religious",
+                  "coords": [
+                        4.374512,
+                        43.811986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Église Notre-Dame este un lăcaș de cult local situat în Nîmes-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.379091,
+                        43.796947
+                  ]
+            },
+            {
+                  "name": "Temple du Mas des Abeilles",
+                  "text": "Temple du Mas des Abeilles este un sit religios situat în Nîmes-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.374512,
+                        43.811986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "The Église Notre-Dame is a local place of worship situated in Nîmes-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.379091,
+                        43.796947
+                  ]
+            },
+            {
+                  "name": "Temple du Mas des Abeilles",
+                  "text": "The Temple du Mas des Abeilles is a religious site located in Nîmes-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.374512,
+                        43.811986
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FR",
     name: { de: "Nîmes-Sud", hu: "Nîmes-Sud", ro: "Nîmes-Sud", en: "Nîmes-Sud" },
@@ -6198,6 +11700,87 @@ export const franceCitiesV2: POI[] = [
                         3.122255,
                         45.796876
                   ]
+            },
+            {
+                  "name": "Puy de Chanturgue",
+                  "text": "Puy de Chanturgue ist ein markanter Hügel und Aussichtspunkt in Clermont-Ferrand-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        3.09389,
+                        45.800341
+                  ]
+            },
+            {
+                  "name": "Place d'Arménie",
+                  "text": "Der Place d'Arménie ist ein lokaler Park in Clermont-Ferrand-Nord.",
+                  "category": "park",
+                  "coords": [
+                        3.078588,
+                        45.782801
+                  ]
+            },
+            {
+                  "name": "Hôtel Gaschier",
+                  "text": "Das Hôtel Gaschier ist eine bemerkenswerte Sehenswürdigkeit in Clermont-Ferrand-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        3.112919,
+                        45.792586
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Prospérité",
+                  "text": "Die Église Notre-Dame de Prospérité ist eine bedeutende Kirche und Kultstätte in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.11416,
+                        45.793152
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Die Église Saint-Vincent-de-Paul ist eine Kultstätte in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.097949,
+                        45.793856
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Route",
+                  "text": "Die Église Notre-Dame-de-la-Route ist eine Kultstätte in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.065481,
+                        45.784572
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Die Église Sainte-Thérèse ist eine Kultstätte in der Stadt Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.08141,
+                        45.793804
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martial",
+                  "text": "Die Église Saint-Martial ist eine Kultstätte in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.058026,
+                        45.809403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyr",
+                  "text": "Die Église Saint-Cyr ist eine lokale Kultstätte in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.052192,
+                        45.795004
+                  ]
             }
       ],
       "hu": [
@@ -6208,6 +11791,87 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.122255,
                         45.796876
+                  ]
+            },
+            {
+                  "name": "Puy de Chanturgue",
+                  "text": "A Puy de Chanturgue egy kiemelkedő domb és kilátó Clermont-Ferrand-Nord területén.",
+                  "category": "natural",
+                  "coords": [
+                        3.09389,
+                        45.800341
+                  ]
+            },
+            {
+                  "name": "Place d'Arménie",
+                  "text": "A Place d'Arménie egy helyi park Clermont-Ferrand-Nord városában.",
+                  "category": "park",
+                  "coords": [
+                        3.078588,
+                        45.782801
+                  ]
+            },
+            {
+                  "name": "Hôtel Gaschier",
+                  "text": "A Hôtel Gaschier egy figyelemre méltó látványosság Clermont-Ferrand-Nord területén.",
+                  "category": "landmark",
+                  "coords": [
+                        3.112919,
+                        45.792586
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Prospérité",
+                  "text": "Az Église Notre-Dame de Prospérité egy kiemelkedő templom Clermont-Ferrand-Nord városában.",
+                  "category": "religious",
+                  "coords": [
+                        3.11416,
+                        45.793152
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Az Église Saint-Vincent-de-Paul egy istentiszteleti hely Clermont-Ferrand-Nord városában.",
+                  "category": "religious",
+                  "coords": [
+                        3.097949,
+                        45.793856
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Route",
+                  "text": "Az Église Notre-Dame-de-la-Route egy istentiszteleti hely Clermont-Ferrand-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        3.065481,
+                        45.784572
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Az Église Sainte-Thérèse egy istentiszteleti hely Clermont-Ferrand-Nord városában.",
+                  "category": "religious",
+                  "coords": [
+                        3.08141,
+                        45.793804
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martial",
+                  "text": "Az Église Saint-Martial egy templom Clermont-Ferrand-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        3.058026,
+                        45.809403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyr",
+                  "text": "Az Église Saint-Cyr egy helyi istentiszteleti hely Clermont-Ferrand-Nord városában.",
+                  "category": "religious",
+                  "coords": [
+                        3.052192,
+                        45.795004
                   ]
             }
       ],
@@ -6220,6 +11884,87 @@ export const franceCitiesV2: POI[] = [
                         3.122255,
                         45.796876
                   ]
+            },
+            {
+                  "name": "Puy de Chanturgue",
+                  "text": "Puy de Chanturgue este un deal proeminent și un punct de belvedere în Clermont-Ferrand-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        3.09389,
+                        45.800341
+                  ]
+            },
+            {
+                  "name": "Place d'Arménie",
+                  "text": "Place d'Arménie este un parc local situat în Clermont-Ferrand-Nord.",
+                  "category": "park",
+                  "coords": [
+                        3.078588,
+                        45.782801
+                  ]
+            },
+            {
+                  "name": "Hôtel Gaschier",
+                  "text": "Hôtel Gaschier este o atracție notabilă situată în Clermont-Ferrand-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        3.112919,
+                        45.792586
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Prospérité",
+                  "text": "Église Notre-Dame de Prospérité este o biserică proeminentă și un lăcaș de cult în Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.11416,
+                        45.793152
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Église Saint-Vincent-de-Paul este un lăcaș de cult situat în Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.097949,
+                        45.793856
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Route",
+                  "text": "Église Notre-Dame-de-la-Route este un lăcaș de cult situat în Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.065481,
+                        45.784572
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse este un lăcaș de cult din orașul Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.08141,
+                        45.793804
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martial",
+                  "text": "Église Saint-Martial este un lăcaș de cult aflat în Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.058026,
+                        45.809403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyr",
+                  "text": "Église Saint-Cyr este un lăcaș de cult local din Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.052192,
+                        45.795004
+                  ]
             }
       ],
       "en": [
@@ -6230,6 +11975,87 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.122255,
                         45.796876
+                  ]
+            },
+            {
+                  "name": "Puy de Chanturgue",
+                  "text": "Puy de Chanturgue is a prominent hill and viewpoint located in Clermont-Ferrand-Nord.",
+                  "category": "natural",
+                  "coords": [
+                        3.09389,
+                        45.800341
+                  ]
+            },
+            {
+                  "name": "Place d'Arménie",
+                  "text": "Place d'Arménie is a local park situated in Clermont-Ferrand-Nord.",
+                  "category": "park",
+                  "coords": [
+                        3.078588,
+                        45.782801
+                  ]
+            },
+            {
+                  "name": "Hôtel Gaschier",
+                  "text": "Hôtel Gaschier is a notable attraction located in Clermont-Ferrand-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        3.112919,
+                        45.792586
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de Prospérité",
+                  "text": "Église Notre-Dame de Prospérité is a prominent church serving as a place of worship in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.11416,
+                        45.793152
+                  ]
+            },
+            {
+                  "name": "Église Saint-Vincent-de-Paul",
+                  "text": "Église Saint-Vincent-de-Paul is a place of worship located in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.097949,
+                        45.793856
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-la-Route",
+                  "text": "Église Notre-Dame-de-la-Route is a place of worship situated in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.065481,
+                        45.784572
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse is a place of worship in the city of Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.08141,
+                        45.793804
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martial",
+                  "text": "Église Saint-Martial is a place of worship found in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.058026,
+                        45.809403
+                  ]
+            },
+            {
+                  "name": "Église Saint-Cyr",
+                  "text": "Église Saint-Cyr is a local place of worship in Clermont-Ferrand-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        3.052192,
+                        45.795004
                   ]
             }
       ]
@@ -6280,10 +12106,266 @@ export const franceCitiesV2: POI[] = [
   },
   {
     id: "france-tours-bis-cities-v2", "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Chapelle Saint-Martin",
+                  "text": "Die Chapelle Saint-Martin ist eine kleine Kirche und Kultstätte im Viertel Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.699917,
+                        47.418632
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "Die Église du Christ-Roi ist eine religiöse Stätte in Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.684534,
+                        47.412302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "Die Église Saint-Pie X ist eine Andachtsstätte in Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.671593,
+                        47.411455
+                  ]
+            },
+            {
+                  "name": "Atelier d’Offard",
+                  "text": "Das Atelier d’Offard ist eine bemerkenswerte Attraktion in Tours-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        0.682465,
+                        47.409576
+                  ]
+            },
+            {
+                  "name": "Château de Charentais",
+                  "text": "Das Château de Charentais ist eine Burg in Tours-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        0.665553,
+                        47.410763
+                  ]
+            },
+            {
+                  "name": "L'Escale",
+                  "text": "L'Escale ist ein Kunstzentrum in Tours-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.654314,
+                        47.419667
+                  ]
+            },
+            {
+                  "name": "Chapelle des Capucins",
+                  "text": "Die Chapelle des Capucins ist eine Andachtsstätte in Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.683384,
+                        47.406031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chapelle Saint-Martin",
+                  "text": "A Chapelle Saint-Martin egy kápolna Tours-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        0.699917,
+                        47.418632
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "Az Église du Christ-Roi egy vallási célokat szolgáló épület Tours-Nord városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        0.684534,
+                        47.412302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "Az Église Saint-Pie X egy istentiszteleti hely Tours-Nord városában.",
+                  "category": "religious",
+                  "coords": [
+                        0.671593,
+                        47.411455
+                  ]
+            },
+            {
+                  "name": "Atelier d’Offard",
+                  "text": "Az Atelier d’Offard egy figyelemre méltó látványosság Tours-Nord városában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.682465,
+                        47.409576
+                  ]
+            },
+            {
+                  "name": "Château de Charentais",
+                  "text": "A Château de Charentais egy kastély Tours-Nord területén.",
+                  "category": "castle",
+                  "coords": [
+                        0.665553,
+                        47.410763
+                  ]
+            },
+            {
+                  "name": "L'Escale",
+                  "text": "A L'Escale egy művészeti központ Tours-Nord városában.",
+                  "category": "cultural",
+                  "coords": [
+                        0.654314,
+                        47.419667
+                  ]
+            },
+            {
+                  "name": "Chapelle des Capucins",
+                  "text": "A Chapelle des Capucins egy istentiszteleti hely Tours-Nord területén.",
+                  "category": "religious",
+                  "coords": [
+                        0.683384,
+                        47.406031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chapelle Saint-Martin",
+                  "text": "Chapelle Saint-Martin este un lăcaș de cult situat în zona Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.699917,
+                        47.418632
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "Église du Christ-Roi este un lăcaș de cult din cartierul Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.684534,
+                        47.412302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "Église Saint-Pie X este un lăcaș de cult situat în Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.671593,
+                        47.411455
+                  ]
+            },
+            {
+                  "name": "Atelier d’Offard",
+                  "text": "Atelier d’Offard este o atracție notabilă situată în Tours-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        0.682465,
+                        47.409576
+                  ]
+            },
+            {
+                  "name": "Château de Charentais",
+                  "text": "Château de Charentais este un castel situat în Tours-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        0.665553,
+                        47.410763
+                  ]
+            },
+            {
+                  "name": "L'Escale",
+                  "text": "L'Escale este un centru de artă situat în Tours-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.654314,
+                        47.419667
+                  ]
+            },
+            {
+                  "name": "Chapelle des Capucins",
+                  "text": "Chapelle des Capucins este un lăcaș de cult situat în Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.683384,
+                        47.406031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapelle Saint-Martin",
+                  "text": "Chapelle Saint-Martin is a chapel and place of worship located in Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.699917,
+                        47.418632
+                  ]
+            },
+            {
+                  "name": "Église du Christ-Roi",
+                  "text": "Église du Christ-Roi is a place of worship located in Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.684534,
+                        47.412302
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pie X",
+                  "text": "The Église Saint-Pie X is a place of worship located in Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.671593,
+                        47.411455
+                  ]
+            },
+            {
+                  "name": "Atelier d’Offard",
+                  "text": "The Atelier d’Offard is a notable attraction located in Tours-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        0.682465,
+                        47.409576
+                  ]
+            },
+            {
+                  "name": "Château de Charentais",
+                  "text": "The Château de Charentais is a castle located in Tours-Nord.",
+                  "category": "castle",
+                  "coords": [
+                        0.665553,
+                        47.410763
+                  ]
+            },
+            {
+                  "name": "L'Escale",
+                  "text": "L'Escale is an arts centre situated in Tours-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        0.654314,
+                        47.419667
+                  ]
+            },
+            {
+                  "name": "Chapelle des Capucins",
+                  "text": "The Chapelle des Capucins is a place of worship located in Tours-Nord.",
+                  "category": "religious",
+                  "coords": [
+                        0.683384,
+                        47.406031
+                  ]
+            }
+      ]
 },
     type: "city",
     parent: "FR",
@@ -10465,6 +16547,42 @@ export const franceCitiesV2: POI[] = [
                         3.055278,
                         50.616389
                   ]
+            },
+            {
+                  "name": "Église du Cœur Immaculé de Marie",
+                  "text": "Die Église du Cœur Immaculé de Marie ist eine Kultstätte in Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.043189,
+                        50.612326
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "Die Église Saint-Philibert ist eine örtliche Kirche für die religiöse Gemeinde in Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.069818,
+                        50.61126
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Imane",
+                  "text": "Die Mosquée Al Imane ist eine bekannte islamische Kultstätte in Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.061269,
+                        50.613441
+                  ]
+            },
+            {
+                  "name": "Le Prato",
+                  "text": "Le Prato ist ein Theater, das darstellende Kunst und kulturelle Veranstaltungen in Lille-Sud anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        3.071104,
+                        50.619225
+                  ]
             }
       ],
       "hu": [
@@ -10506,6 +16624,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.055278,
                         50.616389
+                  ]
+            },
+            {
+                  "name": "Église du Cœur Immaculé de Marie",
+                  "text": "Az Église du Cœur Immaculé de Marie egy istentiszteleti hely Lille-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        3.043189,
+                        50.612326
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "Az Église Saint-Philibert egy helyi templom, amely a vallási közösséget szolgálja Lille-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        3.069818,
+                        50.61126
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Imane",
+                  "text": "A Mosquée Al Imane egy jelentős iszlám istentiszteleti hely Lille-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        3.061269,
+                        50.613441
+                  ]
+            },
+            {
+                  "name": "Le Prato",
+                  "text": "A Le Prato egy előadóművészeti és kulturális rendezvényeket kínáló színház Lille-Sud területén.",
+                  "category": "cultural",
+                  "coords": [
+                        3.071104,
+                        50.619225
                   ]
             }
       ],
@@ -10549,6 +16703,42 @@ export const franceCitiesV2: POI[] = [
                         3.055278,
                         50.616389
                   ]
+            },
+            {
+                  "name": "Église du Cœur Immaculé de Marie",
+                  "text": "Église du Cœur Immaculé de Marie este un lăcaș de cult situat în Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.043189,
+                        50.612326
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "Église Saint-Philibert este o biserică locală care deservește comunitatea religioasă din Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.069818,
+                        50.61126
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Imane",
+                  "text": "Mosquée Al Imane este un important lăcaș de cult islamic situat în Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.061269,
+                        50.613441
+                  ]
+            },
+            {
+                  "name": "Le Prato",
+                  "text": "Le Prato este un teatru care oferă spectacole și evenimente culturale în Lille-Sud.",
+                  "category": "cultural",
+                  "coords": [
+                        3.071104,
+                        50.619225
+                  ]
             }
       ],
       "en": [
@@ -10590,6 +16780,42 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         3.055278,
                         50.616389
+                  ]
+            },
+            {
+                  "name": "Église du Cœur Immaculé de Marie",
+                  "text": "The Église du Cœur Immaculé de Marie is a place of worship located in Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.043189,
+                        50.612326
+                  ]
+            },
+            {
+                  "name": "Église Saint-Philibert",
+                  "text": "The Église Saint-Philibert is a local church serving the religious community in Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.069818,
+                        50.61126
+                  ]
+            },
+            {
+                  "name": "Mosquée Al Imane",
+                  "text": "Mosquée Al Imane is a notable Islamic place of worship situated in Lille-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        3.061269,
+                        50.613441
+                  ]
+            },
+            {
+                  "name": "Le Prato",
+                  "text": "Le Prato is a theater providing performing arts and cultural events in Lille-Sud.",
+                  "category": "cultural",
+                  "coords": [
+                        3.071104,
+                        50.619225
                   ]
             }
       ],
@@ -11687,6 +17913,60 @@ export const franceCitiesV2: POI[] = [
                         4.873611,
                         44.913889
                   ]
+            },
+            {
+                  "name": "Marcel Paul Park",
+                  "text": "Der Marcel Paul Park ist ein schöner öffentlicher Park in Valence-Sud.",
+                  "category": "park",
+                  "coords": [
+                        4.878782,
+                        44.916196
+                  ]
+            },
+            {
+                  "name": "Domaine de Murat-Fontlozier",
+                  "text": "Die Domaine de Murat-Fontlozier ist eine Parkanlage in Valence-Sud.",
+                  "category": "park",
+                  "coords": [
+                        4.888227,
+                        44.907957
+                  ]
+            },
+            {
+                  "name": "Pont des Lônes",
+                  "text": "Der Pont des Lônes ist eine lokale Brücke, die den Verkehr in Valence-Sud erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        4.866952,
+                        44.908081
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Die Église Sainte-Catherine ist ein Gotteshaus in Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.885129,
+                        44.919535
+                  ]
+            },
+            {
+                  "name": "La Chapelle",
+                  "text": "La Chapelle ist ein kleines Gotteshaus in Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.887829,
+                        44.916925
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Die Église Sainte-Thérèse ist eine lokale Kirche in Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.900127,
+                        44.917867
+                  ]
             }
       ],
       "hu": [
@@ -11709,6 +17989,60 @@ export const franceCitiesV2: POI[] = [
                         4.873611,
                         44.913889
                   ]
+            },
+            {
+                  "name": "Marcel Paul Park",
+                  "text": "A Marcel Paul Park egy kellemes nyilvános park Valence-Sud területén.",
+                  "category": "park",
+                  "coords": [
+                        4.878782,
+                        44.916196
+                  ]
+            },
+            {
+                  "name": "Domaine de Murat-Fontlozier",
+                  "text": "A Domaine de Murat-Fontlozier egy park Valence-Sud területén.",
+                  "category": "park",
+                  "coords": [
+                        4.888227,
+                        44.907957
+                  ]
+            },
+            {
+                  "name": "Pont des Lônes",
+                  "text": "A Pont des Lônes egy helyi híd Valence-Sud területén.",
+                  "category": "landmark",
+                  "coords": [
+                        4.866952,
+                        44.908081
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Az Église Sainte-Catherine egy istentiszteleti hely Valence-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        4.885129,
+                        44.919535
+                  ]
+            },
+            {
+                  "name": "La Chapelle",
+                  "text": "A La Chapelle egy kisebb istentiszteleti hely Valence-Sud területén.",
+                  "category": "religious",
+                  "coords": [
+                        4.887829,
+                        44.916925
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Az Église Sainte-Thérèse egy helyi templom Valence-Sud közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        4.900127,
+                        44.917867
+                  ]
             }
       ],
       "ro": [
@@ -11730,6 +18064,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.873611,
                         44.913889
+                  ]
+            },
+            {
+                  "name": "Marcel Paul Park",
+                  "text": "Parcul Marcel Paul este un parc public plăcut situat în zona Valence-Sud.",
+                  "category": "park",
+                  "coords": [
+                        4.878782,
+                        44.916196
+                  ]
+            },
+            {
+                  "name": "Domaine de Murat-Fontlozier",
+                  "text": "Domaine de Murat-Fontlozier este o zonă de parc situată în Valence-Sud.",
+                  "category": "park",
+                  "coords": [
+                        4.888227,
+                        44.907957
+                  ]
+            },
+            {
+                  "name": "Pont des Lônes",
+                  "text": "Pont des Lônes este un pod local din zona Valence-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        4.866952,
+                        44.908081
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Église Sainte-Catherine este un lăcaș de cult situat în Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.885129,
+                        44.919535
+                  ]
+            },
+            {
+                  "name": "La Chapelle",
+                  "text": "La Chapelle este un mic lăcaș de cult aflat în Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.887829,
+                        44.916925
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse este o biserică locală din Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.900127,
+                        44.917867
                   ]
             }
       ],
@@ -11762,6 +18150,60 @@ export const franceCitiesV2: POI[] = [
                   "coords": [
                         4.88944,
                         44.9317
+                  ]
+            },
+            {
+                  "name": "Marcel Paul Park",
+                  "text": "Marcel Paul Park is a pleasant public park located in the Valence-Sud area.",
+                  "category": "park",
+                  "coords": [
+                        4.878782,
+                        44.916196
+                  ]
+            },
+            {
+                  "name": "Domaine de Murat-Fontlozier",
+                  "text": "Domaine de Murat-Fontlozier is a local park area situated in Valence-Sud.",
+                  "category": "park",
+                  "coords": [
+                        4.888227,
+                        44.907957
+                  ]
+            },
+            {
+                  "name": "Pont des Lônes",
+                  "text": "Pont des Lônes is a local bridge structure located in Valence-Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        4.866952,
+                        44.908081
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Catherine",
+                  "text": "Église Sainte-Catherine is a place of worship located in Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.885129,
+                        44.919535
+                  ]
+            },
+            {
+                  "name": "La Chapelle",
+                  "text": "La Chapelle is a small place of worship found in Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.887829,
+                        44.916925
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse is a local place of worship serving Valence-Sud.",
+                  "category": "religious",
+                  "coords": [
+                        4.900127,
+                        44.917867
                   ]
             }
       ],

@@ -1848,7 +1848,232 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-enniskillen-castle-history-v2.webp",
   },
   {
-    id: "ireland-ballymore-eustace-history-v2",
+    id: "ireland-ballymore-eustace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballymore Bridge",
+                  "text": "Die Ballymore Bridge ist eine funktionale und historische Brücke in Ballymore Eustace.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.616359,
+                        53.130218
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "Die Church of the Immaculate Conception ist ein bedeutendes Gotteshaus in Ballymore Eustace.",
+                  "category": "religious",
+                  "coords": [
+                        -6.616482,
+                        53.132261
+                  ]
+            },
+            {
+                  "name": "Broadleas Stone Circle",
+                  "text": "Der Broadleas Stone Circle ist eine archäologische Stätte in Ballymore Eustace.",
+                  "category": "historical",
+                  "coords": [
+                        -6.612042,
+                        53.110937
+                  ]
+            },
+            {
+                  "name": "Knockshee Moat",
+                  "text": "Knockshee Moat ist eine archäologische Stätte in Ballymore Eustace.",
+                  "category": "historical",
+                  "coords": [
+                        -6.605201,
+                        53.1143
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Blessington Reserve",
+                  "text": "Das Blessington Reserve des Native Woodland Trust ist ein Naturschutzgebiet in Ballymore Eustace.",
+                  "category": "natural",
+                  "coords": [
+                        -6.567153,
+                        53.134462
+                  ]
+            },
+            {
+                  "name": "Artisans Workshops",
+                  "text": "Die Artisans Workshops sind eine lokale Sehenswürdigkeit in Ballymore Eustace.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.570898,
+                        53.140979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballymore Bridge",
+                  "text": "A Ballymore Bridge egy történelmi jelentőségű híd Ballymore Eustace-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.616359,
+                        53.130218
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "A Szeplőtelen Fogantatás temploma egy kiemelkedő vallási épület Ballymore Eustace-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.616482,
+                        53.132261
+                  ]
+            },
+            {
+                  "name": "Broadleas Stone Circle",
+                  "text": "A Broadleas Stone Circle egy régészeti lelőhely, amely Ballymore Eustace területén található.",
+                  "category": "historical",
+                  "coords": [
+                        -6.612042,
+                        53.110937
+                  ]
+            },
+            {
+                  "name": "Knockshee Moat",
+                  "text": "A Knockshee Moat egy régészeti lelőhely Ballymore Eustace városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.605201,
+                        53.1143
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Blessington Reserve",
+                  "text": "A Native Woodland Trust Blessington Reserve egy természetvédelmi terület Ballymore Eustace közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -6.567153,
+                        53.134462
+                  ]
+            },
+            {
+                  "name": "Artisans Workshops",
+                  "text": "Az Artisans Workshops egy helyi látványosság Ballymore Eustace területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.570898,
+                        53.140979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballymore Bridge",
+                  "text": "Podul Ballymore este un pod funcțional și istoric în Ballymore Eustace.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.616359,
+                        53.130218
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "Biserica Imaculata Concepție este un lăcaș de cult proeminent în Ballymore Eustace.",
+                  "category": "religious",
+                  "coords": [
+                        -6.616482,
+                        53.132261
+                  ]
+            },
+            {
+                  "name": "Broadleas Stone Circle",
+                  "text": "Broadleas Stone Circle este un sit arheologic situat în Ballymore Eustace.",
+                  "category": "historical",
+                  "coords": [
+                        -6.612042,
+                        53.110937
+                  ]
+            },
+            {
+                  "name": "Knockshee Moat",
+                  "text": "Knockshee Moat este un sit arheologic situat în orașul Ballymore Eustace.",
+                  "category": "historical",
+                  "coords": [
+                        -6.605201,
+                        53.1143
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Blessington Reserve",
+                  "text": "Blessington Reserve, administrată de Native Woodland Trust, este o rezervație naturală în Ballymore Eustace.",
+                  "category": "natural",
+                  "coords": [
+                        -6.567153,
+                        53.134462
+                  ]
+            },
+            {
+                  "name": "Artisans Workshops",
+                  "text": "Artisans Workshops este o atracție locală situată în Ballymore Eustace.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.570898,
+                        53.140979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballymore Bridge",
+                  "text": "Ballymore Bridge is a functional and historic bridge in Ballymore Eustace.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.616359,
+                        53.130218
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "The Church of the Immaculate Conception is a prominent place of worship in Ballymore Eustace.",
+                  "category": "religious",
+                  "coords": [
+                        -6.616482,
+                        53.132261
+                  ]
+            },
+            {
+                  "name": "Broadleas Stone Circle",
+                  "text": "Broadleas Stone Circle is an archaeological site located in Ballymore Eustace.",
+                  "category": "historical",
+                  "coords": [
+                        -6.612042,
+                        53.110937
+                  ]
+            },
+            {
+                  "name": "Knockshee Moat",
+                  "text": "Knockshee Moat is an archaeological site situated in Ballymore Eustace.",
+                  "category": "historical",
+                  "coords": [
+                        -6.605201,
+                        53.1143
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Blessington Reserve",
+                  "text": "The Native Woodland Trust's Blessington Reserve is a nature reserve in Ballymore Eustace.",
+                  "category": "natural",
+                  "coords": [
+                        -6.567153,
+                        53.134462
+                  ]
+            },
+            {
+                  "name": "Artisans Workshops",
+                  "text": "Artisans Workshops is a local attraction located in Ballymore Eustace.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.570898,
+                        53.140979
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "IE",
     name: { de: "Ballymore Eustace", hu: "Ballymore Eustace", ro: "Ballymore Eustace", en: "Ballymore Eustace" },
@@ -2254,6 +2479,78 @@ export const irelandHistoryV2: POI[] = [
                         -9.611299,
                         52.578004
                   ]
+            },
+            {
+                  "name": "Shannon Estuary",
+                  "text": "Das Shannon Estuary ist eine große Trichtermündung in der Nähe von Asdee.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.580267,
+                        52.558963
+                  ]
+            },
+            {
+                  "name": "Cloghlea",
+                  "text": "Cloghlea ist eine archäologische Stätte in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.62184,
+                        52.557922
+                  ]
+            },
+            {
+                  "name": "Lisheenamoulty",
+                  "text": "Lisheenamoulty ist eine archäologische Stätte in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.550458,
+                        52.560606
+                  ]
+            },
+            {
+                  "name": "Lissamogha",
+                  "text": "Lissamogha ist eine archäologische Stätte in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.601626,
+                        52.566833
+                  ]
+            },
+            {
+                  "name": "Lissatober",
+                  "text": "Lissatober ist eine archäologische Stätte in der Stadt Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.613223,
+                        52.54327
+                  ]
+            },
+            {
+                  "name": "Lismoyle",
+                  "text": "Lismoyle ist eine archäologische Stätte in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.553248,
+                        52.560572
+                  ]
+            },
+            {
+                  "name": "Kyle Burial Ground",
+                  "text": "Kyle Burial Ground ist eine historische archäologische Stätte in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.590121,
+                        52.564341
+                  ]
+            },
+            {
+                  "name": "Lissaniska",
+                  "text": "Lissaniska ist eine archäologische Stätte in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.581613,
+                        52.563222
+                  ]
             }
       ],
       "hu": [
@@ -2273,6 +2570,78 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -9.611299,
                         52.578004
+                  ]
+            },
+            {
+                  "name": "Shannon Estuary",
+                  "text": "A Shannon Estuary egy nagy tölcsértorkolat Asdee közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.580267,
+                        52.558963
+                  ]
+            },
+            {
+                  "name": "Cloghlea",
+                  "text": "Cloghlea egy régészeti lelőhely Asdee településen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.62184,
+                        52.557922
+                  ]
+            },
+            {
+                  "name": "Lisheenamoulty",
+                  "text": "Lisheenamoulty egy régészeti lelőhely Asdee településen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.550458,
+                        52.560606
+                  ]
+            },
+            {
+                  "name": "Lissamogha",
+                  "text": "A Lissamogha egy régészeti lelőhely Asdee városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.601626,
+                        52.566833
+                  ]
+            },
+            {
+                  "name": "Lissatober",
+                  "text": "A Lissatober egy régészeti lelőhely Asdee településén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.613223,
+                        52.54327
+                  ]
+            },
+            {
+                  "name": "Lismoyle",
+                  "text": "A Lismoyle egy régészeti lelőhely Asdee-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.553248,
+                        52.560572
+                  ]
+            },
+            {
+                  "name": "Kyle Burial Ground",
+                  "text": "A Kyle Burial Ground egy történelmi régészeti lelőhely Asdee-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.590121,
+                        52.564341
+                  ]
+            },
+            {
+                  "name": "Lissaniska",
+                  "text": "A Lissaniska egy régészeti lelőhely Asdee területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.581613,
+                        52.563222
                   ]
             }
       ],
@@ -2294,6 +2663,78 @@ export const irelandHistoryV2: POI[] = [
                         -9.611299,
                         52.578004
                   ]
+            },
+            {
+                  "name": "Shannon Estuary",
+                  "text": "Shannon Estuary este un estuar mare situat în apropiere de Asdee.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.580267,
+                        52.558963
+                  ]
+            },
+            {
+                  "name": "Cloghlea",
+                  "text": "Cloghlea este un sit arheologic în Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.62184,
+                        52.557922
+                  ]
+            },
+            {
+                  "name": "Lisheenamoulty",
+                  "text": "Lisheenamoulty este un sit arheologic în Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.550458,
+                        52.560606
+                  ]
+            },
+            {
+                  "name": "Lissamogha",
+                  "text": "Lissamogha este un sit arheologic situat în Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.601626,
+                        52.566833
+                  ]
+            },
+            {
+                  "name": "Lissatober",
+                  "text": "Lissatober este un sit arheologic din orașul Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.613223,
+                        52.54327
+                  ]
+            },
+            {
+                  "name": "Lismoyle",
+                  "text": "Lismoyle este un sit arheologic din Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.553248,
+                        52.560572
+                  ]
+            },
+            {
+                  "name": "Kyle Burial Ground",
+                  "text": "Kyle Burial Ground este un sit arheologic istoric din Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.590121,
+                        52.564341
+                  ]
+            },
+            {
+                  "name": "Lissaniska",
+                  "text": "Lissaniska este un sit arheologic situat în Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.581613,
+                        52.563222
+                  ]
             }
       ],
       "en": [
@@ -2313,6 +2754,78 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -9.611299,
                         52.578004
+                  ]
+            },
+            {
+                  "name": "Shannon Estuary",
+                  "text": "The Shannon Estuary is a large estuary located near Asdee.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.580267,
+                        52.558963
+                  ]
+            },
+            {
+                  "name": "Cloghlea",
+                  "text": "Cloghlea is an archaeological site located in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.62184,
+                        52.557922
+                  ]
+            },
+            {
+                  "name": "Lisheenamoulty",
+                  "text": "Lisheenamoulty is an archaeological site located in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.550458,
+                        52.560606
+                  ]
+            },
+            {
+                  "name": "Lissamogha",
+                  "text": "Lissamogha is an archaeological site located in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.601626,
+                        52.566833
+                  ]
+            },
+            {
+                  "name": "Lissatober",
+                  "text": "Lissatober is an archaeological site situated in the town of Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.613223,
+                        52.54327
+                  ]
+            },
+            {
+                  "name": "Lismoyle",
+                  "text": "Lismoyle is an archaeological site found in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.553248,
+                        52.560572
+                  ]
+            },
+            {
+                  "name": "Kyle Burial Ground",
+                  "text": "Kyle Burial Ground is a historical archaeological site in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.590121,
+                        52.564341
+                  ]
+            },
+            {
+                  "name": "Lissaniska",
+                  "text": "Lissaniska is an archaeological site located in Asdee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.581613,
+                        52.563222
                   ]
             }
       ]

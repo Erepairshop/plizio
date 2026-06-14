@@ -20211,6 +20211,51 @@ export const netherlandsCitiesV2: POI[] = [
                         4.350951,
                         51.93734
                   ]
+            },
+            {
+                  "name": "Museum Vlaardingen",
+                  "text": "Das Museum Vlaardingen präsentiert Ausstellungen zur lokalen Geschichte und Kultur der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        4.345225,
+                        51.905735
+                  ]
+            },
+            {
+                  "name": "Broekpolder",
+                  "text": "Der Broekpolder ist ein weitläufiger Park und ein wichtiges Naherholungsgebiet in Vlaardingen.",
+                  "category": "park",
+                  "coords": [
+                        4.322432,
+                        51.929365
+                  ]
+            },
+            {
+                  "name": "Aalkeetbuitenpolder",
+                  "text": "Der Aalkeetbuitenpolder ist ein malerisches Naturschutzgebiet in der Nähe von Vlaardingen.",
+                  "category": "natural",
+                  "coords": [
+                        4.306282,
+                        51.92345
+                  ]
+            },
+            {
+                  "name": "Stadsgehoorzaal Vlaardingen",
+                  "text": "Die Stadsgehoorzaal in Vlaardingen ist ein bekanntes Theater für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        4.34656,
+                        51.909603
+                  ]
+            },
+            {
+                  "name": "Stadhuis Vlaardingen",
+                  "text": "Das Rathaus von Vlaardingen ist ein bedeutendes historisches und administratives Gebäude der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.341937,
+                        51.908012
+                  ]
             }
       ],
       "hu": [
@@ -20239,6 +20284,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.350951,
                         51.93734
+                  ]
+            },
+            {
+                  "name": "Museum Vlaardingen",
+                  "text": "A Museum Vlaardingen a város helyi történelmét és kultúráját bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        4.345225,
+                        51.905735
+                  ]
+            },
+            {
+                  "name": "Broekpolder",
+                  "text": "A Broekpolder egy kiterjedt park és fontos rekreációs terület Vlaardingenben.",
+                  "category": "park",
+                  "coords": [
+                        4.322432,
+                        51.929365
+                  ]
+            },
+            {
+                  "name": "Aalkeetbuitenpolder",
+                  "text": "Az Aalkeetbuitenpolder egy festői természetvédelmi terület Vlaardingen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.306282,
+                        51.92345
+                  ]
+            },
+            {
+                  "name": "Stadsgehoorzaal Vlaardingen",
+                  "text": "A vlaardingeni Stadsgehoorzaal egy ismert színház kulturális rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        4.34656,
+                        51.909603
+                  ]
+            },
+            {
+                  "name": "Stadhuis Vlaardingen",
+                  "text": "A vlaardingeni városháza a város jelentős történelmi és adminisztratív épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        4.341937,
+                        51.908012
                   ]
             }
       ],
@@ -20269,6 +20359,51 @@ export const netherlandsCitiesV2: POI[] = [
                         4.350951,
                         51.93734
                   ]
+            },
+            {
+                  "name": "Museum Vlaardingen",
+                  "text": "Muzeul Vlaardingen prezintă expoziții despre istoria și cultura locală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        4.345225,
+                        51.905735
+                  ]
+            },
+            {
+                  "name": "Broekpolder",
+                  "text": "Broekpolder este un parc întins și o importantă zonă de recreere în Vlaardingen.",
+                  "category": "park",
+                  "coords": [
+                        4.322432,
+                        51.929365
+                  ]
+            },
+            {
+                  "name": "Aalkeetbuitenpolder",
+                  "text": "Aalkeetbuitenpolder este o rezervație naturală pitorească lângă Vlaardingen.",
+                  "category": "natural",
+                  "coords": [
+                        4.306282,
+                        51.92345
+                  ]
+            },
+            {
+                  "name": "Stadsgehoorzaal Vlaardingen",
+                  "text": "Stadsgehoorzaal din Vlaardingen este un teatru cunoscut pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        4.34656,
+                        51.909603
+                  ]
+            },
+            {
+                  "name": "Stadhuis Vlaardingen",
+                  "text": "Primăria din Vlaardingen este o clădire istorică și administrativă importantă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        4.341937,
+                        51.908012
+                  ]
             }
       ],
       "en": [
@@ -20297,6 +20432,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.350951,
                         51.93734
+                  ]
+            },
+            {
+                  "name": "Museum Vlaardingen",
+                  "text": "Museum Vlaardingen features exhibitions on the local history and culture of the city.",
+                  "category": "museum",
+                  "coords": [
+                        4.345225,
+                        51.905735
+                  ]
+            },
+            {
+                  "name": "Broekpolder",
+                  "text": "Broekpolder is an extensive park and an important recreational area in Vlaardingen.",
+                  "category": "park",
+                  "coords": [
+                        4.322432,
+                        51.929365
+                  ]
+            },
+            {
+                  "name": "Aalkeetbuitenpolder",
+                  "text": "Aalkeetbuitenpolder is a picturesque nature reserve near Vlaardingen.",
+                  "category": "natural",
+                  "coords": [
+                        4.306282,
+                        51.92345
+                  ]
+            },
+            {
+                  "name": "Stadsgehoorzaal Vlaardingen",
+                  "text": "The Stadsgehoorzaal in Vlaardingen is a well-known theater for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        4.34656,
+                        51.909603
+                  ]
+            },
+            {
+                  "name": "Stadhuis Vlaardingen",
+                  "text": "The City Hall of Vlaardingen is a significant historical and administrative building in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        4.341937,
+                        51.908012
                   ]
             }
       ]
@@ -28219,6 +28399,60 @@ export const netherlandsCitiesV2: POI[] = [
                         6.198995,
                         52.129007
                   ]
+            },
+            {
+                  "name": "Windmotor Zutphen",
+                  "text": "Die Windmotor Zutphen ist eine klassische Windmühle und ein technisches Denkmal in der niederländischen Stadt Zutphen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.186552,
+                        52.123598
+                  ]
+            },
+            {
+                  "name": "Fluisterboot Zutphen",
+                  "text": "Die Flüsterboote in Zutphen sind eine beliebte Touristenattraktion für Touren durch die Wasserwege der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.198223,
+                        52.142828
+                  ]
+            },
+            {
+                  "name": "IJsselspoorbrug",
+                  "text": "Die IJsselspoorbrug in Zutphen ist eine Eisenbahnbrücke, die den Fluss IJssel überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187059,
+                        52.143141
+                  ]
+            },
+            {
+                  "name": "Berkelpoort",
+                  "text": "Das Berkelpoort ist ein historisches Stadttor in Zutphen, das über dem Fluss Berkel erbaut wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199341,
+                        52.142846
+                  ]
+            },
+            {
+                  "name": "Spanjaardspoort",
+                  "text": "Das Spanjaardspoort ist ein markantes altes Stadttor, das Teil der historischen Befestigungsanlagen von Zutphen ist.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199257,
+                        52.145314
+                  ]
+            },
+            {
+                  "name": "Nooit Gedacht",
+                  "text": "Nooit Gedacht ist eine historische Windmühle im Dorf Warnsveld bei Zutphen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.221557,
+                        52.140058
+                  ]
             }
       ],
       "hu": [
@@ -28256,6 +28490,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.198995,
                         52.129007
+                  ]
+            },
+            {
+                  "name": "Windmotor Zutphen",
+                  "text": "A Windmotor Zutphen egy hagyományos szélmalom és műszaki emlék a hollandiai Zutphenben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.186552,
+                        52.123598
+                  ]
+            },
+            {
+                  "name": "Fluisterboot Zutphen",
+                  "text": "A zutpheni suttogó csónakok népszerű turisztikai attrakciók a város vízi útjainak felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.198223,
+                        52.142828
+                  ]
+            },
+            {
+                  "name": "IJsselspoorbrug",
+                  "text": "A zutpheni IJsselspoorbrug egy vasúti híd, amely az IJssel folyót íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187059,
+                        52.143141
+                  ]
+            },
+            {
+                  "name": "Berkelpoort",
+                  "text": "A Berkelpoort egy történelmi városkapu Zutphenben, amely a Berkel folyó felett épült.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199341,
+                        52.142846
+                  ]
+            },
+            {
+                  "name": "Spanjaardspoort",
+                  "text": "A Spanjaardspoort egy jellegzetes régi városkapu Zutphen történelmi erődítményrendszerében.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199257,
+                        52.145314
+                  ]
+            },
+            {
+                  "name": "Nooit Gedacht",
+                  "text": "A Nooit Gedacht egy történelmi szélmalom a Zutphen melletti Warnsveld településen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.221557,
+                        52.140058
                   ]
             }
       ],
@@ -28295,6 +28583,60 @@ export const netherlandsCitiesV2: POI[] = [
                         6.198995,
                         52.129007
                   ]
+            },
+            {
+                  "name": "Windmotor Zutphen",
+                  "text": "Windmotor Zutphen este o moară de vânt tradițională și un monument tehnic în orașul olandez Zutphen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.186552,
+                        52.123598
+                  ]
+            },
+            {
+                  "name": "Fluisterboot Zutphen",
+                  "text": "Bărcile Fluisterboot din Zutphen sunt o atracție turistică populară pentru navigarea pe canalele orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        6.198223,
+                        52.142828
+                  ]
+            },
+            {
+                  "name": "IJsselspoorbrug",
+                  "text": "Podul feroviar IJsselspoorbrug din Zutphen traversează râul IJssel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187059,
+                        52.143141
+                  ]
+            },
+            {
+                  "name": "Berkelpoort",
+                  "text": "Berkelpoort este o poartă istorică a orașului Zutphen, construită deasupra râului Berkel.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199341,
+                        52.142846
+                  ]
+            },
+            {
+                  "name": "Spanjaardspoort",
+                  "text": "Spanjaardspoort este o poartă veche a orașului, care face parte din fortificațiile istorice din Zutphen.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199257,
+                        52.145314
+                  ]
+            },
+            {
+                  "name": "Nooit Gedacht",
+                  "text": "Nooit Gedacht este o moară de vânt istorică din satul Warnsveld, lângă Zutphen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.221557,
+                        52.140058
+                  ]
             }
       ],
       "en": [
@@ -28332,6 +28674,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.198995,
                         52.129007
+                  ]
+            },
+            {
+                  "name": "Windmotor Zutphen",
+                  "text": "The Windmotor Zutphen is a traditional windmill and technical monument located in Zutphen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.186552,
+                        52.123598
+                  ]
+            },
+            {
+                  "name": "Fluisterboot Zutphen",
+                  "text": "The Fluisterboot in Zutphen is a popular tourist attraction for exploring the town's waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        6.198223,
+                        52.142828
+                  ]
+            },
+            {
+                  "name": "IJsselspoorbrug",
+                  "text": "The IJsselspoorbrug in Zutphen is a railway bridge spanning the river IJssel.",
+                  "category": "landmark",
+                  "coords": [
+                        6.187059,
+                        52.143141
+                  ]
+            },
+            {
+                  "name": "Berkelpoort",
+                  "text": "The Berkelpoort is a historic city gate in Zutphen, built spanning across the river Berkel.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199341,
+                        52.142846
+                  ]
+            },
+            {
+                  "name": "Spanjaardspoort",
+                  "text": "The Spanjaardspoort is a prominent old city gate, part of the historical fortifications of Zutphen.",
+                  "category": "fortress",
+                  "coords": [
+                        6.199257,
+                        52.145314
+                  ]
+            },
+            {
+                  "name": "Nooit Gedacht",
+                  "text": "Nooit Gedacht is a historical windmill situated in the village of Warnsveld near Zutphen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.221557,
+                        52.140058
                   ]
             }
       ]
@@ -42674,6 +43070,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.244878,
                         52.658694
                   ]
+            },
+            {
+                  "name": "Dorpskerk",
+                  "text": "Die Dorpskerk ist ein Gotteshaus in Staphorst.",
+                  "category": "religious",
+                  "coords": [
+                        6.207236,
+                        52.64536
+                  ]
             }
       ],
       "hu": [
@@ -42711,6 +43116,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.244878,
                         52.658694
+                  ]
+            },
+            {
+                  "name": "Dorpskerk",
+                  "text": "A Dorpskerk egy istentiszteleti hely Staphorstban.",
+                  "category": "religious",
+                  "coords": [
+                        6.207236,
+                        52.64536
                   ]
             }
       ],
@@ -42750,6 +43164,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.244878,
                         52.658694
                   ]
+            },
+            {
+                  "name": "Dorpskerk",
+                  "text": "Dorpskerk este un lăcaș de cult situat în Staphorst.",
+                  "category": "religious",
+                  "coords": [
+                        6.207236,
+                        52.64536
+                  ]
             }
       ],
       "en": [
@@ -42787,6 +43210,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.244878,
                         52.658694
+                  ]
+            },
+            {
+                  "name": "Dorpskerk",
+                  "text": "The Dorpskerk is a place of worship located in Staphorst.",
+                  "category": "religious",
+                  "coords": [
+                        6.207236,
+                        52.64536
                   ]
             }
       ]
@@ -53294,6 +53726,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.604727,
                         51.889435
                   ]
+            },
+            {
+                  "name": "Uiterwaarden Waal",
+                  "text": "Uiterwaarden Waal ist ein Naturschutzgebiet, das die Flussauen der Waal in der Nähe von Druten schützt.",
+                  "category": "natural",
+                  "coords": [
+                        5.565558,
+                        51.876301
+                  ]
+            },
+            {
+                  "name": "Leeuwense Waard",
+                  "text": "Die Leeuwense Waard ist ein ruhiges Naturschutzgebiet in der Nähe von Druten.",
+                  "category": "natural",
+                  "coords": [
+                        5.553223,
+                        51.893448
+                  ]
             }
       ],
       "hu": [
@@ -53331,6 +53781,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.604727,
                         51.889435
+                  ]
+            },
+            {
+                  "name": "Uiterwaarden Waal",
+                  "text": "Az Uiterwaarden Waal egy természetvédelmi terület, amely a Waal folyó ártereit védi Druten közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.565558,
+                        51.876301
+                  ]
+            },
+            {
+                  "name": "Leeuwense Waard",
+                  "text": "A Leeuwense Waard egy békés természetvédelmi terület Druten közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.553223,
+                        51.893448
                   ]
             }
       ],
@@ -53370,6 +53838,24 @@ export const netherlandsCitiesV2: POI[] = [
                         5.604727,
                         51.889435
                   ]
+            },
+            {
+                  "name": "Uiterwaarden Waal",
+                  "text": "Uiterwaarden Waal este o rezervație naturală care protejează câmpiile inundabile ale râului Waal lângă Druten.",
+                  "category": "natural",
+                  "coords": [
+                        5.565558,
+                        51.876301
+                  ]
+            },
+            {
+                  "name": "Leeuwense Waard",
+                  "text": "Leeuwense Waard este o rezervație naturală liniștită situată lângă Druten.",
+                  "category": "natural",
+                  "coords": [
+                        5.553223,
+                        51.893448
+                  ]
             }
       ],
       "en": [
@@ -53407,6 +53893,24 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.604727,
                         51.889435
+                  ]
+            },
+            {
+                  "name": "Uiterwaarden Waal",
+                  "text": "Uiterwaarden Waal is a nature reserve protecting the floodplains of the Waal river near Druten.",
+                  "category": "natural",
+                  "coords": [
+                        5.565558,
+                        51.876301
+                  ]
+            },
+            {
+                  "name": "Leeuwense Waard",
+                  "text": "The Leeuwense Waard is a peaceful nature reserve located near Druten.",
+                  "category": "natural",
+                  "coords": [
+                        5.553223,
+                        51.893448
                   ]
             }
       ]

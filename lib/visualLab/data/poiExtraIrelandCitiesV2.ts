@@ -525,7 +525,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-arklow-cities-v2.webp",
   },
   {
-    id: "ireland-ashbourne-cities-v2",
+    id: "ireland-ashbourne-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fallen Jockey Monument",
+                  "text": "Das Fallen Jockey Monument ist ein Denkmal in Ashbourne zu Ehren lokaler Reiter.",
+                  "category": "historical",
+                  "coords": [
+                        -6.375876,
+                        53.492212
+                  ]
+            },
+            {
+                  "name": "Pet Farm",
+                  "text": "Die Pet Farm in Ashbourne ist ein familienfreundlicher Zoo mit verschiedenen Haustieren.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.379952,
+                        53.488758
+                  ]
+            },
+            {
+                  "name": "Cornstown House",
+                  "text": "Cornstown House ist ein bemerkenswertes Anwesen und eine Besucherattraktion in Ashbourne.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.37943,
+                        53.527095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fallen Jockey Monument",
+                  "text": "A Fallen Jockey Monument egy emlékmű Ashbourne-ban, amely a helyi lovasok előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -6.375876,
+                        53.492212
+                  ]
+            },
+            {
+                  "name": "Pet Farm",
+                  "text": "Az ashbourne-i Pet Farm egy családbarát állatkert, ahol különféle háziállatok találhatók.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.379952,
+                        53.488758
+                  ]
+            },
+            {
+                  "name": "Cornstown House",
+                  "text": "A Cornstown House egy figyelemre méltó birtok és látványosság Ashbourne-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.37943,
+                        53.527095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fallen Jockey Monument",
+                  "text": "Fallen Jockey Monument este un memorial situat în Ashbourne care onorează călăreții locali.",
+                  "category": "historical",
+                  "coords": [
+                        -6.375876,
+                        53.492212
+                  ]
+            },
+            {
+                  "name": "Pet Farm",
+                  "text": "Ferma de Animale din Ashbourne este o grădină zoologică potrivită pentru familii, care prezintă diverse animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.379952,
+                        53.488758
+                  ]
+            },
+            {
+                  "name": "Cornstown House",
+                  "text": "Cornstown House este o proprietate notabilă și o atracție pentru vizitatori situată în Ashbourne.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.37943,
+                        53.527095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fallen Jockey Monument",
+                  "text": "The Fallen Jockey Monument is a memorial located in Ashbourne honoring local equestrians.",
+                  "category": "historical",
+                  "coords": [
+                        -6.375876,
+                        53.492212
+                  ]
+            },
+            {
+                  "name": "Pet Farm",
+                  "text": "The Pet Farm in Ashbourne is a family-friendly zoo featuring various domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.379952,
+                        53.488758
+                  ]
+            },
+            {
+                  "name": "Cornstown House",
+                  "text": "Cornstown House is a notable property and visitor attraction situated in Ashbourne.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.37943,
+                        53.527095
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Ashbourne", hu: "Ashbourne", ro: "Ashbourne", en: "Ashbourne" },
@@ -1218,7 +1335,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-ballymena-cities-v2.webp",
   },
   {
-    id: "ireland-banbridge-cities-v2",
+    id: "ireland-banbridge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crozier Monument",
+                  "text": "Das Crozier Monument ist ein historisches Wahrzeichen in Banbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.267338,
+                        54.351346
+                  ]
+            },
+            {
+                  "name": "Listullyard Fort",
+                  "text": "Listullyard Fort ist eine alte archäologische Stätte in Banbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.306635,
+                        54.35849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crozier Monument",
+                  "text": "A Crozier-emlékmű egy történelmi nevezetesség Banbridge-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.267338,
+                        54.351346
+                  ]
+            },
+            {
+                  "name": "Listullyard Fort",
+                  "text": "A Listullyard Fort egy ősi régészeti lelőhely Banbridge-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.306635,
+                        54.35849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crozier Monument",
+                  "text": "Monumentul Crozier este un reper istoric situat în Banbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.267338,
+                        54.351346
+                  ]
+            },
+            {
+                  "name": "Listullyard Fort",
+                  "text": "Fortul Listullyard este un vechi sit arheologic situat în Banbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.306635,
+                        54.35849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crozier Monument",
+                  "text": "The Crozier Monument is a historical landmark located in Banbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.267338,
+                        54.351346
+                  ]
+            },
+            {
+                  "name": "Listullyard Fort",
+                  "text": "Listullyard Fort is an ancient archaeological site situated in Banbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.306635,
+                        54.35849
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Banbridge", hu: "Banbridge", ro: "Banbridge", en: "Banbridge" },
@@ -4899,7 +5097,340 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-cratloe-cities-v2.webp",
   },
   {
-    id: "ireland-dalkey-cities-v2", "sights": {"de": [{"name": "Killiney Beach", "text": "Weitreichende Ausblicke auf den Ozean prägen die malerische Landschaft am Killiney Beach, der sich knapp außerhalb von Dalkey befindet. Die lange, geschwungene Küstenlinie zieht eine lebhafte Mischung aus Einheimischen und Besuchern an, die sich auf erfrischende Schwimmrunden und ausgedehnte Strandspaziergänge freuen. Die verblüffende Ähnlichkeit mit dem Golf von Neapel verleiht der Erholung im Freien einen besonderen Charme. Wer früh am Tag anreist, sichert sich einen besonders ruhigen Platz, um das atemberaubende Panorama zu genießen.", "category": "recreational", "coords": [-6.110447, 53.25801]}, {"name": "Sandycove Beach", "text": "Bekannt für seine malerische kleine Bucht, bietet der Sandycove Beach einen geschützten und einladenden Küstenwinkel in der Nähe von Dalkey. Dieser kompakte Strandabschnitt ist besonders bei begeisterten Ganzjahresschwimmern und Familien, die einen Ausflug ans Meer machen, überaus beliebt. Die sanften Wellen bilden eine beruhigende Kulisse, um im Sand zu entspannen oder die umliegenden Felsformationen zu erkunden. Ein Besuch in den wärmeren Monaten ist am besten, wenn man ein längeres Bad im Ozean plant.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "White Rock, Killiney Beach", "text": "Etwas abseits des Hauptstrandes gelegen, bietet White Rock in der Nähe von Dalkey ein wunderschön raues Küstenerlebnis. Dieses verborgene Juwel sorgt für eine ruhigere, abgeschiedenere Atmosphäre, die perfekt für all jene ist, die den großen Menschenmassen am Meer entkommen möchten. Besucher können friedliche Sonnenbäder vor der Kulisse heller Steine und klaren Wassers genießen. Gutes Schuhwerk wird empfohlen, um die unebenen Wege hinab zum Ufer sicher zu meistern.", "category": "recreational", "coords": [-6.107115, 53.265079]}, {"name": "Hawk Cliff/Whiterock Beach", "text": "Von dramatischen Küstenformationen überragt, bilden Hawk Cliff und der Whiterock Beach einen atemberaubenden Rückzugsort am Meer bei Dalkey. Das Gebiet ist ein Favorit bei abenteuerlustigen Einheimischen und bietet hervorragende Möglichkeiten für erfrischende Schwimmrunden von den felsigen Rändern sowie entspannte Stunden am Wasser. Die kräftige Irische See sorgt für ein belebendes Umfeld, das auf natürliche Weise den Kopf frei macht. Besucher sollten stets Vorsicht walten lassen und die lokalen Gezeitenpläne prüfen, bevor sie ein Bad planen.", "category": "recreational", "coords": [-6.096018, 53.270054]}], "hu": [{"name": "Killiney Beach", "text": "A Dalkey mellett található Killiney Beach festői táját a tengerre nyíló lenyűgöző kilátás határozza meg. A hosszan elnyúló, ívelt partvidék a helyiek és a látogatók élénk keverékét vonzza, akik frissítő úszásra és lendületes parti sétákra vágynak. A Nápolyi-öböllel való feltűnő hasonlósága egyedi bájt kölcsönöz a szabadtéri pihenésnek. A kora reggeli érkezés biztosítja a legbékésebb helyet a lélegzetelállító panoráma befogadásához.", "category": "recreational", "coords": [-6.110447, 53.25801]}, {"name": "Sandycove Beach", "text": "A festői kis öbléről híres Sandycove Beach egy védett és hívogató tengerparti zugot kínál Dalkey közelében. Ez a kompakt partszakasz rendkívül népszerű a lelkes, egész évben fürdőzők és a tengerparti napot élvező családok körében. A szelíd hullámok nyugtató hátteret biztosítanak a homokon való pihenéshez vagy a környező sziklaképződmények felfedezéséhez. Érdemes a melegebb hónapokban idelátogatni, ha hosszabb óceáni mártózást tervezünk.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "White Rock, Killiney Beach", "text": "A fő partszakasztól kissé távolabb megbúvó Dalkey melletti White Rock gyönyörűen vadregényes tengerparti élményt nyújt. Ez a rejtett gyöngyszem csendesebb, elzártabb légkört biztosít, amely tökéletes azok számára, akik szeretnének elmenekülni a nagyobb tengerparti tömeg elől. A látogatók békésen napozhatnak a világos kövek és a tiszta vizek háttere előtt. Jó séta- vagy túracipő ajánlott a partra vezető egyenetlen ösvényeken való lejutáshoz.", "category": "recreational", "coords": [-6.107115, 53.265079]}, {"name": "Hawk Cliff/Whiterock Beach", "text": "A drámai parti sziklák által ölelt Hawk Cliff és Whiterock Beach lenyűgöző tengerparti menedéket alkot Dalkey közelében. A terület a kalandvágyó helyiek kedvence, kiváló lehetőséget kínálva a sziklás szélekről induló frissítő úszásokhoz és a víz melletti nyugodt órákhoz. Az erőteljes Ír-tenger pezsdítő környezetet biztosít, amely természetes módon kitisztítja az elmét. A látogatóknak óvatosnak kell lenniük, és fürdőzés tervezése előtt feltétlenül ellenőrizniük kell a helyi árapály-táblázatokat.", "category": "recreational", "coords": [-6.096018, 53.270054]}], "ro": [{"name": "Killiney Beach", "text": "Vederile panoramice asupra oceanului definesc peisajul pitoresc de la Killiney Beach, situată chiar la ieșirea din Dalkey. Țărmul lung și arcuit atrage un amestec plin de viață de localnici și vizitatori dornici de înot revigorant și plimbări alerte pe coastă. Asemănarea sa izbitoare cu Golful Napoli adaugă un farmec unic timpului petrecut în aer liber. Ajungând devreme în timpul zilei vă garantează un loc mai liniștit pentru a admira panorama care îți taie respirația.", "category": "recreational", "coords": [-6.110447, 53.25801]}, {"name": "Sandycove Beach", "text": "Renumită pentru micul său golf pitoresc, Sandycove Beach oferă un colț de coastă adăpostit și primitor lângă Dalkey. Acest țărm compact este extrem de popular printre înotătorii entuziaști pe tot parcursul anului și familiile care se bucură de o zi la mare. Valurile blânde creează un fundal liniștitor pentru a vă relaxa pe nisip sau pentru a explora aflorimentele stâncoase din jur. Cel mai bine este să vizitați în lunile mai calde dacă plănuiți o baie prelungită în ocean.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "White Rock, Killiney Beach", "text": "Ascunsă ușor de la porțiunea principală, White Rock de lângă Dalkey oferă o experiență de coastă frumos de accidentată. Această bijuterie ascunsă oferă o atmosferă mai liniștită și mai retrasă, perfectă pentru cei care speră să scape de aglomerația mare de pe litoral. Vizitatorii se pot bucura de sesiuni de plajă pașnice pe fundalul pietrelor strălucitoare și al apelor limpezi. O încălțăminte bună de mers este recomandată pentru a naviga pe potecile inegale care coboară spre țărm.", "category": "recreational", "coords": [-6.107115, 53.265079]}, {"name": "Hawk Cliff/Whiterock Beach", "text": "Vegheate de formațiuni de coastă dramatice, Hawk Cliff și Whiterock Beach formează un refugiu marin uluitor lângă Dalkey. Zona este favorita localnicilor aventuroși, oferind oportunități excelente pentru înot revigorant de pe marginile stâncoase și ore de agrement pe malul apei. Marea Irlandeză robustă oferă un mediu stimulant care limpezește mintea în mod natural. Vizitatorii ar trebui să manifeste prudență și să verifice programele locale ale mareelor înainte de a planifica o înotare.", "category": "recreational", "coords": [-6.096018, 53.270054]}], "en": [{"name": "Killiney Beach", "text": "Sweeping views of the ocean define the scenic landscape at Killiney Beach, located just outside Dalkey. The long, sweeping shore draws a lively mix of locals and visitors eager for refreshing swims and brisk coastal walks. Its striking resemblance to the Bay of Naples adds a unique charm to your outdoor leisure. Arriving early in the day guarantees a more peaceful spot to take in the breathtaking panorama.", "category": "recreational", "coords": [-6.110447, 53.25801]}, {"name": "Sandycove Beach", "text": "Renowned for its picturesque little bay, Sandycove Beach offers a sheltered and inviting coastal nook near Dalkey. This compact shoreline is highly popular among enthusiastic year-round swimmers and families enjoying a day out by the sea. The gentle waves create a soothing backdrop for relaxing on the sand or exploring the surrounding rocky outcrops. It is best to visit during the warmer months if you plan on taking a prolonged dip in the ocean.", "category": "recreational", "coords": [-6.114499, 53.288565]}, {"name": "White Rock, Killiney Beach", "text": "Tucked away slightly off the main stretch, White Rock near Dalkey offers a beautifully rugged coastal experience. This hidden gem provides a quieter, more secluded atmosphere, perfect for those hoping to escape the larger seaside crowds. Visitors can enjoy peaceful sunbathing sessions against the backdrop of bright stones and clear waters. Good walking shoes are recommended to navigate the uneven paths leading down to the shore.", "category": "recreational", "coords": [-6.107115, 53.265079]}, {"name": "Hawk Cliff/Whiterock Beach", "text": "Overlooked by dramatic coastal features, Hawk Cliff and Whiterock Beach form a stunning seaside retreat near Dalkey. The area is a favorite among adventurous locals, offering excellent opportunities for refreshing swims from the rocky edges and leisurely hours by the water. The robust Irish sea provides an invigorating environment that naturally clears the mind. Visitors should exercise caution and check the local tide schedules before planning a swim.", "category": "recreational", "coords": [-6.096018, 53.270054]}]},
+    id: "ireland-dalkey-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "Weitreichende Ausblicke auf den Ozean prägen die malerische Landschaft am Killiney Beach, der sich knapp außerhalb von Dalkey befindet. Die lange, geschwungene Küstenlinie zieht eine lebhafte Mischung aus Einheimischen und Besuchern an, die sich auf erfrischende Schwimmrunden und ausgedehnte Strandspaziergänge freuen. Die verblüffende Ähnlichkeit mit dem Golf von Neapel verleiht der Erholung im Freien einen besonderen Charme. Wer früh am Tag anreist, sichert sich einen besonders ruhigen Platz, um das atemberaubende Panorama zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Bekannt für seine malerische kleine Bucht, bietet der Sandycove Beach einen geschützten und einladenden Küstenwinkel in der Nähe von Dalkey. Dieser kompakte Strandabschnitt ist besonders bei begeisterten Ganzjahresschwimmern und Familien, die einen Ausflug ans Meer machen, überaus beliebt. Die sanften Wellen bilden eine beruhigende Kulisse, um im Sand zu entspannen oder die umliegenden Felsformationen zu erkunden. Ein Besuch in den wärmeren Monaten ist am besten, wenn man ein längeres Bad im Ozean plant.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "Etwas abseits des Hauptstrandes gelegen, bietet White Rock in der Nähe von Dalkey ein wunderschön raues Küstenerlebnis. Dieses verborgene Juwel sorgt für eine ruhigere, abgeschiedenere Atmosphäre, die perfekt für all jene ist, die den großen Menschenmassen am Meer entkommen möchten. Besucher können friedliche Sonnenbäder vor der Kulisse heller Steine und klaren Wassers genießen. Gutes Schuhwerk wird empfohlen, um die unebenen Wege hinab zum Ufer sicher zu meistern.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "Von dramatischen Küstenformationen überragt, bilden Hawk Cliff und der Whiterock Beach einen atemberaubenden Rückzugsort am Meer bei Dalkey. Das Gebiet ist ein Favorit bei abenteuerlustigen Einheimischen und bietet hervorragende Möglichkeiten für erfrischende Schwimmrunden von den felsigen Rändern sowie entspannte Stunden am Wasser. Die kräftige Irische See sorgt für ein belebendes Umfeld, das auf natürliche Weise den Kopf frei macht. Besucher sollten stets Vorsicht walten lassen und die lokalen Gezeitenpläne prüfen, bevor sie ein Bad planen.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            },
+            {
+                  "name": "Killiney Church (ruin)",
+                  "text": "Die Ruinen der Killiney Church sind eine alte kirchliche Stätte in der Nähe von Dalkey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.116301,
+                        53.25472
+                  ]
+            },
+            {
+                  "name": "Saint Begnet's Church",
+                  "text": "Die Saint Begnet's Church ist ein historisches Kirchengebäude in Dalkey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.085527,
+                        53.272679
+                  ]
+            },
+            {
+                  "name": "Ayesha Castle",
+                  "text": "Das Ayesha Castle, auch bekannt als Manderley Castle, ist ein großes irisches Herrenhaus in Dalkey.",
+                  "category": "castle",
+                  "coords": [
+                        -6.113104,
+                        53.262795
+                  ]
+            },
+            {
+                  "name": "Muglins Lighthouse",
+                  "text": "Der Muglins Lighthouse ist ein Leuchtturm vor der Küste von Dalkey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.075844,
+                        53.275568
+                  ]
+            },
+            {
+                  "name": "Dalkey Hill",
+                  "text": "Der Dalkey Hill ist ein markanter Hügel mit Panoramablick auf die umliegende Küste und Dalkey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.104863,
+                        53.27005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "A Dalkey mellett található Killiney Beach festői táját a tengerre nyíló lenyűgöző kilátás határozza meg. A hosszan elnyúló, ívelt partvidék a helyiek és a látogatók élénk keverékét vonzza, akik frissítő úszásra és lendületes parti sétákra vágynak. A Nápolyi-öböllel való feltűnő hasonlósága egyedi bájt kölcsönöz a szabadtéri pihenésnek. A kora reggeli érkezés biztosítja a legbékésebb helyet a lélegzetelállító panoráma befogadásához.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "A festői kis öbléről híres Sandycove Beach egy védett és hívogató tengerparti zugot kínál Dalkey közelében. Ez a kompakt partszakasz rendkívül népszerű a lelkes, egész évben fürdőzők és a tengerparti napot élvező családok körében. A szelíd hullámok nyugtató hátteret biztosítanak a homokon való pihenéshez vagy a környező sziklaképződmények felfedezéséhez. Érdemes a melegebb hónapokban idelátogatni, ha hosszabb óceáni mártózást tervezünk.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "A fő partszakasztól kissé távolabb megbúvó Dalkey melletti White Rock gyönyörűen vadregényes tengerparti élményt nyújt. Ez a rejtett gyöngyszem csendesebb, elzártabb légkört biztosít, amely tökéletes azok számára, akik szeretnének elmenekülni a nagyobb tengerparti tömeg elől. A látogatók békésen napozhatnak a világos kövek és a tiszta vizek háttere előtt. Jó séta- vagy túracipő ajánlott a partra vezető egyenetlen ösvényeken való lejutáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "A drámai parti sziklák által ölelt Hawk Cliff és Whiterock Beach lenyűgöző tengerparti menedéket alkot Dalkey közelében. A terület a kalandvágyó helyiek kedvence, kiváló lehetőséget kínálva a sziklás szélekről induló frissítő úszásokhoz és a víz melletti nyugodt órákhoz. Az erőteljes Ír-tenger pezsdítő környezetet biztosít, amely természetes módon kitisztítja az elmét. A látogatóknak óvatosnak kell lenniük, és fürdőzés tervezése előtt feltétlenül ellenőrizniük kell a helyi árapály-táblázatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            },
+            {
+                  "name": "Killiney Church (ruin)",
+                  "text": "A Killiney Church romjai egy ősi egyházi helyszín Dalkey közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.116301,
+                        53.25472
+                  ]
+            },
+            {
+                  "name": "Saint Begnet's Church",
+                  "text": "A Saint Begnet's Church egy történelmi templomépület Dalkeyban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.085527,
+                        53.272679
+                  ]
+            },
+            {
+                  "name": "Ayesha Castle",
+                  "text": "Az Ayesha-kastély, más néven Manderley-kastély, egy nagy, kastélyszerű ír kúria Dalkeyban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.113104,
+                        53.262795
+                  ]
+            },
+            {
+                  "name": "Muglins Lighthouse",
+                  "text": "A Muglins világítótorony egy navigációs torony Dalkey partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.075844,
+                        53.275568
+                  ]
+            },
+            {
+                  "name": "Dalkey Hill",
+                  "text": "A Dalkey Hill egy kiemelkedő domb, ahonnan panorámás kilátás nyílik a környező tengerpartra és Dalkeyra.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.104863,
+                        53.27005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "Vederile panoramice asupra oceanului definesc peisajul pitoresc de la Killiney Beach, situată chiar la ieșirea din Dalkey. Țărmul lung și arcuit atrage un amestec plin de viață de localnici și vizitatori dornici de înot revigorant și plimbări alerte pe coastă. Asemănarea sa izbitoare cu Golful Napoli adaugă un farmec unic timpului petrecut în aer liber. Ajungând devreme în timpul zilei vă garantează un loc mai liniștit pentru a admira panorama care îți taie respirația.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Renumită pentru micul său golf pitoresc, Sandycove Beach oferă un colț de coastă adăpostit și primitor lângă Dalkey. Acest țărm compact este extrem de popular printre înotătorii entuziaști pe tot parcursul anului și familiile care se bucură de o zi la mare. Valurile blânde creează un fundal liniștitor pentru a vă relaxa pe nisip sau pentru a explora aflorimentele stâncoase din jur. Cel mai bine este să vizitați în lunile mai calde dacă plănuiți o baie prelungită în ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "Ascunsă ușor de la porțiunea principală, White Rock de lângă Dalkey oferă o experiență de coastă frumos de accidentată. Această bijuterie ascunsă oferă o atmosferă mai liniștită și mai retrasă, perfectă pentru cei care speră să scape de aglomerația mare de pe litoral. Vizitatorii se pot bucura de sesiuni de plajă pașnice pe fundalul pietrelor strălucitoare și al apelor limpezi. O încălțăminte bună de mers este recomandată pentru a naviga pe potecile inegale care coboară spre țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "Vegheate de formațiuni de coastă dramatice, Hawk Cliff și Whiterock Beach formează un refugiu marin uluitor lângă Dalkey. Zona este favorita localnicilor aventuroși, oferind oportunități excelente pentru înot revigorant de pe marginile stâncoase și ore de agrement pe malul apei. Marea Irlandeză robustă oferă un mediu stimulant care limpezește mintea în mod natural. Vizitatorii ar trebui să manifeste prudență și să verifice programele locale ale mareelor înainte de a planifica o înotare.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            },
+            {
+                  "name": "Killiney Church (ruin)",
+                  "text": "Ruinele Bisericii Killiney sunt un vechi sit ecleziastic lângă Dalkey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.116301,
+                        53.25472
+                  ]
+            },
+            {
+                  "name": "Saint Begnet's Church",
+                  "text": "Biserica Sfânta Begnet este o clădire istorică a bisericii situată în Dalkey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.085527,
+                        53.272679
+                  ]
+            },
+            {
+                  "name": "Ayesha Castle",
+                  "text": "Castelul Ayesha, cunoscut și sub numele de Castelul Manderley, este un mare conac irlandez în Dalkey.",
+                  "category": "castle",
+                  "coords": [
+                        -6.113104,
+                        53.262795
+                  ]
+            },
+            {
+                  "name": "Muglins Lighthouse",
+                  "text": "Farul Muglins este un turn de navigație situat în largul coastei Dalkey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.075844,
+                        53.275568
+                  ]
+            },
+            {
+                  "name": "Dalkey Hill",
+                  "text": "Dalkey Hill este un deal proeminent care oferă vederi panoramice ale coastei înconjurătoare și ale orașului Dalkey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.104863,
+                        53.27005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "Sweeping views of the ocean define the scenic landscape at Killiney Beach, located just outside Dalkey. The long, sweeping shore draws a lively mix of locals and visitors eager for refreshing swims and brisk coastal walks. Its striking resemblance to the Bay of Naples adds a unique charm to your outdoor leisure. Arriving early in the day guarantees a more peaceful spot to take in the breathtaking panorama.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Renowned for its picturesque little bay, Sandycove Beach offers a sheltered and inviting coastal nook near Dalkey. This compact shoreline is highly popular among enthusiastic year-round swimmers and families enjoying a day out by the sea. The gentle waves create a soothing backdrop for relaxing on the sand or exploring the surrounding rocky outcrops. It is best to visit during the warmer months if you plan on taking a prolonged dip in the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "Tucked away slightly off the main stretch, White Rock near Dalkey offers a beautifully rugged coastal experience. This hidden gem provides a quieter, more secluded atmosphere, perfect for those hoping to escape the larger seaside crowds. Visitors can enjoy peaceful sunbathing sessions against the backdrop of bright stones and clear waters. Good walking shoes are recommended to navigate the uneven paths leading down to the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "Overlooked by dramatic coastal features, Hawk Cliff and Whiterock Beach form a stunning seaside retreat near Dalkey. The area is a favorite among adventurous locals, offering excellent opportunities for refreshing swims from the rocky edges and leisurely hours by the water. The robust Irish sea provides an invigorating environment that naturally clears the mind. Visitors should exercise caution and check the local tide schedules before planning a swim.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            },
+            {
+                  "name": "Killiney Church (ruin)",
+                  "text": "The ruins of Killiney Church are an ancient ecclesiastical site near Dalkey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.116301,
+                        53.25472
+                  ]
+            },
+            {
+                  "name": "Saint Begnet's Church",
+                  "text": "Saint Begnet's Church is a historical church building situated in Dalkey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.085527,
+                        53.272679
+                  ]
+            },
+            {
+                  "name": "Ayesha Castle",
+                  "text": "Ayesha Castle, also known as Manderley Castle, is a large castellated Irish mansion in Dalkey.",
+                  "category": "castle",
+                  "coords": [
+                        -6.113104,
+                        53.262795
+                  ]
+            },
+            {
+                  "name": "Muglins Lighthouse",
+                  "text": "Muglins Lighthouse is a navigational tower situated off the coast of Dalkey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.075844,
+                        53.275568
+                  ]
+            },
+            {
+                  "name": "Dalkey Hill",
+                  "text": "Dalkey Hill is a prominent hill offering panoramic views of the surrounding coast and Dalkey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.104863,
+                        53.27005
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Dalkey", hu: "Dalkey", ro: "Dalkey", en: "Dalkey" },
@@ -4944,7 +5475,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-dalkey-cities-v2.webp",
   },
   {
-    id: "ireland-donegal-cities-v2",
+    id: "ireland-donegal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Donegal Parish Church",
+                  "text": "Die Donegal Parish Church ist ein Gotteshaus in Donegal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.109896,
+                        54.654653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Donegal Parish Church",
+                  "text": "A donegali plébániatemplom egy istentiszteleti hely Donegal városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.109896,
+                        54.654653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Donegal Parish Church",
+                  "text": "Donegal Parish Church este un lăcaș de cult situat în Donegal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.109896,
+                        54.654653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Donegal Parish Church",
+                  "text": "Donegal Parish Church is a place of worship situated in Donegal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.109896,
+                        54.654653
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Donegal", hu: "Donegal", ro: "Donegal", en: "Donegal" },
@@ -6628,6 +7204,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.795014,
                         53.052977
                   ]
+            },
+            {
+                  "name": "Coole-Garryland Nature Reserve",
+                  "text": "Das Coole-Garryland Nature Reserve ist ein geschütztes Naturgebiet in der Nähe von Gort.",
+                  "category": "natural",
+                  "coords": [
+                        -8.853556,
+                        53.084888
+                  ]
             }
       ],
       "hu": [
@@ -6647,6 +7232,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.795014,
                         53.052977
+                  ]
+            },
+            {
+                  "name": "Coole-Garryland Nature Reserve",
+                  "text": "A Coole-Garryland Természetvédelmi Terület egy védett természeti övezet Gort közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.853556,
+                        53.084888
                   ]
             }
       ],
@@ -6668,6 +7262,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.795014,
                         53.052977
                   ]
+            },
+            {
+                  "name": "Coole-Garryland Nature Reserve",
+                  "text": "Rezervația naturală Coole-Garryland este o arie naturală protejată situată lângă Gort.",
+                  "category": "natural",
+                  "coords": [
+                        -8.853556,
+                        53.084888
+                  ]
             }
       ],
       "en": [
@@ -6687,6 +7290,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.795014,
                         53.052977
+                  ]
+            },
+            {
+                  "name": "Coole-Garryland Nature Reserve",
+                  "text": "Coole-Garryland Nature Reserve is a protected natural area situated near Gort.",
+                  "category": "natural",
+                  "coords": [
+                        -8.853556,
+                        53.084888
                   ]
             }
       ]
@@ -10398,7 +11010,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-lurgan-cities-v2.webp",
   },
   {
-    id: "ireland-macroom-cities-v2",
+    id: "ireland-macroom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Town Hall",
+                  "text": "Das Rathaus von Macroom.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.95976,
+                        51.904738
+                  ]
+            },
+            {
+                  "name": "St. Colmans",
+                  "text": "Die Andachtsstätte St. Colmans in Macroom.",
+                  "category": "religious",
+                  "coords": [
+                        -8.957123,
+                        51.904086
+                  ]
+            },
+            {
+                  "name": "Macroom Castle",
+                  "text": "Das Schloss von Macroom.",
+                  "category": "castle",
+                  "coords": [
+                        -8.961805,
+                        51.905265
+                  ]
+            },
+            {
+                  "name": "Mashanaglass Castle",
+                  "text": "Das Schloss Mashanaglass bei Macroom.",
+                  "category": "castle",
+                  "coords": [
+                        -8.914992,
+                        51.885575
+                  ]
+            },
+            {
+                  "name": "Briery Gap Cultural Centre",
+                  "text": "Das Kulturzentrum Briery Gap in Macroom.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.958518,
+                        51.904553
+                  ]
+            },
+            {
+                  "name": "Bealick Mill",
+                  "text": "Die Bealick Mill Attraktion in Macroom.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940746,
+                        51.904158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Town Hall",
+                  "text": "Macroom városházája.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.95976,
+                        51.904738
+                  ]
+            },
+            {
+                  "name": "St. Colmans",
+                  "text": "A St. Colmans vallási épület Macroomban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.957123,
+                        51.904086
+                  ]
+            },
+            {
+                  "name": "Macroom Castle",
+                  "text": "A macroomi kastély.",
+                  "category": "castle",
+                  "coords": [
+                        -8.961805,
+                        51.905265
+                  ]
+            },
+            {
+                  "name": "Mashanaglass Castle",
+                  "text": "A Mashanaglass kastély Macroom közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -8.914992,
+                        51.885575
+                  ]
+            },
+            {
+                  "name": "Briery Gap Cultural Centre",
+                  "text": "A Briery Gap Kulturális Központ Macroomban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.958518,
+                        51.904553
+                  ]
+            },
+            {
+                  "name": "Bealick Mill",
+                  "text": "A Bealick Mill látványosság Macroomban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940746,
+                        51.904158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Town Hall",
+                  "text": "Primăria orașului Macroom.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.95976,
+                        51.904738
+                  ]
+            },
+            {
+                  "name": "St. Colmans",
+                  "text": "Lăcașul de cult St. Colmans din Macroom.",
+                  "category": "religious",
+                  "coords": [
+                        -8.957123,
+                        51.904086
+                  ]
+            },
+            {
+                  "name": "Macroom Castle",
+                  "text": "Castelul din Macroom.",
+                  "category": "castle",
+                  "coords": [
+                        -8.961805,
+                        51.905265
+                  ]
+            },
+            {
+                  "name": "Mashanaglass Castle",
+                  "text": "Castelul Mashanaglass de lângă Macroom.",
+                  "category": "castle",
+                  "coords": [
+                        -8.914992,
+                        51.885575
+                  ]
+            },
+            {
+                  "name": "Briery Gap Cultural Centre",
+                  "text": "Centrul Cultural Briery Gap din Macroom.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.958518,
+                        51.904553
+                  ]
+            },
+            {
+                  "name": "Bealick Mill",
+                  "text": "Atracția Bealick Mill din Macroom.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940746,
+                        51.904158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Town Hall",
+                  "text": "The Town Hall building in Macroom.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.95976,
+                        51.904738
+                  ]
+            },
+            {
+                  "name": "St. Colmans",
+                  "text": "St. Colmans place of worship in Macroom.",
+                  "category": "religious",
+                  "coords": [
+                        -8.957123,
+                        51.904086
+                  ]
+            },
+            {
+                  "name": "Macroom Castle",
+                  "text": "The historic Macroom Castle.",
+                  "category": "castle",
+                  "coords": [
+                        -8.961805,
+                        51.905265
+                  ]
+            },
+            {
+                  "name": "Mashanaglass Castle",
+                  "text": "Mashanaglass Castle located near Macroom.",
+                  "category": "castle",
+                  "coords": [
+                        -8.914992,
+                        51.885575
+                  ]
+            },
+            {
+                  "name": "Briery Gap Cultural Centre",
+                  "text": "The Briery Gap Cultural Centre in Macroom.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.958518,
+                        51.904553
+                  ]
+            },
+            {
+                  "name": "Bealick Mill",
+                  "text": "The Bealick Mill attraction situated in Macroom.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.940746,
+                        51.904158
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Macroom", hu: "Macroom", ro: "Macroom", en: "Macroom" },
@@ -11109,7 +11946,304 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-malahide-cities-v2.webp",
   },
   {
-    id: "ireland-maynooth-cities-v2",
+    id: "ireland-maynooth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Science Museum",
+                  "text": "Das Nationale Wissenschaftsmuseum in Maynooth beherbergt eine bedeutende Sammlung historischer wissenschaftlicher Instrumente.",
+                  "category": "museum",
+                  "coords": [
+                        -6.598165,
+                        53.378576
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "Bride's Well ist eine lokale Quelle, die einen ruhigen Naturort in Maynooth bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.551215,
+                        53.381232
+                  ]
+            },
+            {
+                  "name": "Bond Bridge",
+                  "text": "Die Bond Bridge ist eine bemerkenswerte Brückeninfrastruktur über lokale Gewässer in Maynooth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.596503,
+                        53.37644
+                  ]
+            },
+            {
+                  "name": "Maynooth Castle",
+                  "text": "Maynooth Castle ist eine zerstörte Festung aus dem 12. Jahrhundert, die einst der Hauptsitz der Kildare FitzGeralds war.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.593997,
+                        53.381083
+                  ]
+            },
+            {
+                  "name": "Conolly's Folly",
+                  "text": "Conolly's Folly ist ein imposanter Obelisk, der gebaut wurde, um während der irischen Hungersnot von 1740-41 Arbeit zu schaffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.559909,
+                        53.369432
+                  ]
+            },
+            {
+                  "name": "Tyrconnell Tower",
+                  "text": "Der Tyrconnell Tower ist ein erhöhtes Bauwerk, das Ausblicke auf die Landschaft von Maynooth bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.55291,
+                        53.387695
+                  ]
+            },
+            {
+                  "name": "Donaghmore Church",
+                  "text": "Die Donaghmore Church ist ein historisches Kirchengebäude in der Stadt Maynooth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.552982,
+                        53.376916
+                  ]
+            },
+            {
+                  "name": "Moygaddy Tower House",
+                  "text": "Das Moygaddy Tower House besteht aus historischen Steinruinen, die von der mittelalterlichen Vergangenheit der Gegend zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        -6.580724,
+                        53.394369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Science Museum",
+                  "text": "A maynoothi Nemzeti Tudományos Múzeum történelmi tudományos műszerek jelentős gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -6.598165,
+                        53.378576
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "A Bride's Well egy helyi forrás, amely egy csendes természeti foltot kínál Maynoothban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.551215,
+                        53.381232
+                  ]
+            },
+            {
+                  "name": "Bond Bridge",
+                  "text": "A Bond Bridge egy nevezetes híd, amely a helyi vizeken ível át Maynoothban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.596503,
+                        53.37644
+                  ]
+            },
+            {
+                  "name": "Maynooth Castle",
+                  "text": "A Maynooth kastély egy 12. századi erőd romja, amely egykor a Kildare FitzGeraldok elsődleges rezidenciája volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.593997,
+                        53.381083
+                  ]
+            },
+            {
+                  "name": "Conolly's Folly",
+                  "text": "A Conolly's Folly egy impozáns obeliszk, amelyet az 1740-41-es ír éhínség idején építettek munkateremtés céljából.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.559909,
+                        53.369432
+                  ]
+            },
+            {
+                  "name": "Tyrconnell Tower",
+                  "text": "A Tyrconnell-torony egy magasított építmény, amely kilátást nyújt a maynoothi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.55291,
+                        53.387695
+                  ]
+            },
+            {
+                  "name": "Donaghmore Church",
+                  "text": "A Donaghmore-templom egy történelmi egyházi épület Maynooth városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.552982,
+                        53.376916
+                  ]
+            },
+            {
+                  "name": "Moygaddy Tower House",
+                  "text": "A Moygaddy lakótorony történelmi kőromokból áll, amelyek a térség középkori múltját idézik.",
+                  "category": "historical",
+                  "coords": [
+                        -6.580724,
+                        53.394369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Science Museum",
+                  "text": "Muzeul Național de Știință din Maynooth deține o colecție majoră de instrumente științifice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -6.598165,
+                        53.378576
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "Bride's Well este un izvor local care oferă un loc natural liniștit în Maynooth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.551215,
+                        53.381232
+                  ]
+            },
+            {
+                  "name": "Bond Bridge",
+                  "text": "Bond Bridge este o infrastructură notabilă de trecere peste apele locale din Maynooth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.596503,
+                        53.37644
+                  ]
+            },
+            {
+                  "name": "Maynooth Castle",
+                  "text": "Castelul Maynooth este o fortăreață în ruine din secolul al XII-lea, care a fost odată reședința principală a familiei Kildare FitzGerald.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.593997,
+                        53.381083
+                  ]
+            },
+            {
+                  "name": "Conolly's Folly",
+                  "text": "Conolly's Folly este un obelisc impunător construit pentru a oferi locuri de muncă în timpul foametei irlandeze din 1740-41.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.559909,
+                        53.369432
+                  ]
+            },
+            {
+                  "name": "Tyrconnell Tower",
+                  "text": "Turnul Tyrconnell este o structură înaltă care oferă vedere asupra peisajului din Maynooth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.55291,
+                        53.387695
+                  ]
+            },
+            {
+                  "name": "Donaghmore Church",
+                  "text": "Biserica Donaghmore este o clădire ecleziastică istorică situată în orașul Maynooth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.552982,
+                        53.376916
+                  ]
+            },
+            {
+                  "name": "Moygaddy Tower House",
+                  "text": "Moygaddy Tower House constă din ruine istorice de piatră care dezvăluie trecutul medieval al zonei.",
+                  "category": "historical",
+                  "coords": [
+                        -6.580724,
+                        53.394369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Science Museum",
+                  "text": "The National Science Museum at Maynooth holds a major collection of historical scientific instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -6.598165,
+                        53.378576
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "Bride's Well is a local spring offering a quiet natural spot in Maynooth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.551215,
+                        53.381232
+                  ]
+            },
+            {
+                  "name": "Bond Bridge",
+                  "text": "Bond Bridge is a notable crossing infrastructure spanning over local waters in Maynooth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.596503,
+                        53.37644
+                  ]
+            },
+            {
+                  "name": "Maynooth Castle",
+                  "text": "Maynooth Castle is a ruined 12th-century stronghold that was once the primary residence of the Kildare FitzGeralds.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.593997,
+                        53.381083
+                  ]
+            },
+            {
+                  "name": "Conolly's Folly",
+                  "text": "Conolly's Folly is an imposing obelisk built to provide employment during the Irish famine of 1740-41.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.559909,
+                        53.369432
+                  ]
+            },
+            {
+                  "name": "Tyrconnell Tower",
+                  "text": "Tyrconnell Tower is an elevated structure offering views over the Maynooth landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -6.55291,
+                        53.387695
+                  ]
+            },
+            {
+                  "name": "Donaghmore Church",
+                  "text": "Donaghmore Church is a historic ecclesiastical building located in the town of Maynooth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.552982,
+                        53.376916
+                  ]
+            },
+            {
+                  "name": "Moygaddy Tower House",
+                  "text": "Moygaddy Tower House consists of historical stone ruins that reveal the area's medieval past.",
+                  "category": "historical",
+                  "coords": [
+                        -6.580724,
+                        53.394369
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Maynooth", hu: "Maynooth", ro: "Maynooth", en: "Maynooth" },
@@ -14034,7 +15168,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-omagh-cities-v2.webp",
   },
   {
-    id: "ireland-passage-west-cities-v2",
+    id: "ireland-passage-west-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cross",
+                  "text": "Ein monumentales Kreuz in Passage West.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413697,
+                        51.85197
+                  ]
+            },
+            {
+                  "name": "Coach House",
+                  "text": "Die Ruinen eines alten Kutschenhauses in Passage West.",
+                  "category": "historical",
+                  "coords": [
+                        -8.395253,
+                        51.881067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cross",
+                  "text": "Egy monumentális kereszt Passage West településén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413697,
+                        51.85197
+                  ]
+            },
+            {
+                  "name": "Coach House",
+                  "text": "Egy régi kocsiszín romjai Passage West területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.395253,
+                        51.881067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cross",
+                  "text": "O cruce monumentală situată în Passage West.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413697,
+                        51.85197
+                  ]
+            },
+            {
+                  "name": "Coach House",
+                  "text": "Ruinele unei vechi remize de trăsuri aflate în Passage West.",
+                  "category": "historical",
+                  "coords": [
+                        -8.395253,
+                        51.881067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cross",
+                  "text": "A monumental cross structure located in Passage West.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413697,
+                        51.85197
+                  ]
+            },
+            {
+                  "name": "Coach House",
+                  "text": "The ruins of an old Coach House located in Passage West.",
+                  "category": "historical",
+                  "coords": [
+                        -8.395253,
+                        51.881067
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Passage West", hu: "Passage West", ro: "Passage West", en: "Passage West" },
@@ -14079,7 +15294,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-passage-west-cities-v2.webp",
   },
   {
-    id: "ireland-portadown-cities-v2",
+    id: "ireland-portadown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brackagh Nature Reserve",
+                  "text": "Das Naturschutzgebiet Brackagh ist ein geschütztes Naturgebiet in Portadown.",
+                  "category": "natural",
+                  "coords": [
+                        -6.427957,
+                        54.399053
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Das Amphitheater ist ein lokaler Freiluft-Theaterraum in Portadown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.448135,
+                        54.427275
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Das Town Hall Theatre ist ein kultureller Veranstaltungsort in Portadown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.441746,
+                        54.422426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brackagh Nature Reserve",
+                  "text": "A Brackagh Természetvédelmi Terület egy védett természeti övezet Portadownban.",
+                  "category": "natural",
+                  "coords": [
+                        -6.427957,
+                        54.399053
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Az amfiteátrum egy helyi szabadtéri színházi tér Portadownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.448135,
+                        54.427275
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "A Town Hall Theatre egy kulturális előadóhely Portadownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.441746,
+                        54.422426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brackagh Nature Reserve",
+                  "text": "Rezervația Naturală Brackagh este o zonă naturală protejată situată în Portadown.",
+                  "category": "natural",
+                  "coords": [
+                        -6.427957,
+                        54.399053
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Amfiteatrul este un spațiu de teatru în aer liber local din Portadown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.448135,
+                        54.427275
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Town Hall Theatre este un loc de spectacole culturale în Portadown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.441746,
+                        54.422426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brackagh Nature Reserve",
+                  "text": "Brackagh Nature Reserve is a protected natural area located in Portadown.",
+                  "category": "natural",
+                  "coords": [
+                        -6.427957,
+                        54.399053
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "The Amphitheater is a local outdoor theatre space in Portadown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.448135,
+                        54.427275
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "The Town Hall Theatre is a cultural performance venue in Portadown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.441746,
+                        54.422426
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Portadown", hu: "Portadown", ro: "Portadown", en: "Portadown" },
@@ -14124,7 +15456,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-portadown-cities-v2.webp",
   },
   {
-    id: "ireland-rathkeale-cities-v2",
+    id: "ireland-rathkeale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rathkeale Abbey",
+                  "text": "Die Rathkeale Abbey ist eine historische Kirche in Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.932409,
+                        52.523705
+                  ]
+            },
+            {
+                  "name": "St James Church, Cappagh",
+                  "text": "Die St. James Church in Cappagh ist ein lokales Gotteshaus in der Nähe von Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.92459,
+                        52.554758
+                  ]
+            },
+            {
+                  "name": "Ballingarrane Methodist Church",
+                  "text": "Die Ballingarrane Methodist Church ist ein gemeindliches Gotteshaus in Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.936117,
+                        52.549308
+                  ]
+            },
+            {
+                  "name": "Lissavorteale",
+                  "text": "Lissavorteale ist eine archäologische Stätte, die Einblicke in die Vergangenheit von Rathkeale bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -8.888374,
+                        52.529502
+                  ]
+            },
+            {
+                  "name": "Castle Matrix",
+                  "text": "Das Castle Matrix ist eine historische Burg in Rathkeale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.956475,
+                        52.519157
+                  ]
+            },
+            {
+                  "name": "Glebe Castle",
+                  "text": "Glebe Castle ist eine faszinierende historische Burg in Rathkeale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.948663,
+                        52.518407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rathkeale Abbey",
+                  "text": "A Rathkeale-apátság egy történelmi templom Rathkeale-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.932409,
+                        52.523705
+                  ]
+            },
+            {
+                  "name": "St James Church, Cappagh",
+                  "text": "A cappaghi Szent Jakab-templom egy helyi vallási épület Rathkeale közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.92459,
+                        52.554758
+                  ]
+            },
+            {
+                  "name": "Ballingarrane Methodist Church",
+                  "text": "A ballingarrane-i metodista templom egy közösségi vallási épület Rathkeale-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.936117,
+                        52.549308
+                  ]
+            },
+            {
+                  "name": "Lissavorteale",
+                  "text": "A Lissavorteale egy régészeti lelőhely, amely betekintést nyújt Rathkeale múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        -8.888374,
+                        52.529502
+                  ]
+            },
+            {
+                  "name": "Castle Matrix",
+                  "text": "A Castle Matrix egy történelmi kastély Rathkeale-ben.",
+                  "category": "castle",
+                  "coords": [
+                        -8.956475,
+                        52.519157
+                  ]
+            },
+            {
+                  "name": "Glebe Castle",
+                  "text": "A Glebe Castle egy lenyűgöző történelmi vár Rathkeale-ben.",
+                  "category": "castle",
+                  "coords": [
+                        -8.948663,
+                        52.518407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rathkeale Abbey",
+                  "text": "Abația Rathkeale este o biserică istorică situată în Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.932409,
+                        52.523705
+                  ]
+            },
+            {
+                  "name": "St James Church, Cappagh",
+                  "text": "Biserica Sf. Iacob din Cappagh este un lăcaș de cult local lângă Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.92459,
+                        52.554758
+                  ]
+            },
+            {
+                  "name": "Ballingarrane Methodist Church",
+                  "text": "Biserica Metodistă Ballingarrane este un lăcaș de cult comunitar în Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.936117,
+                        52.549308
+                  ]
+            },
+            {
+                  "name": "Lissavorteale",
+                  "text": "Lissavorteale este un sit arheologic care oferă informații despre trecutul localității Rathkeale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.888374,
+                        52.529502
+                  ]
+            },
+            {
+                  "name": "Castle Matrix",
+                  "text": "Castelul Matrix este un castel istoric situat în Rathkeale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.956475,
+                        52.519157
+                  ]
+            },
+            {
+                  "name": "Glebe Castle",
+                  "text": "Castelul Glebe este un castel istoric fascinant situat în Rathkeale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.948663,
+                        52.518407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rathkeale Abbey",
+                  "text": "Rathkeale Abbey is a historic church located in Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.932409,
+                        52.523705
+                  ]
+            },
+            {
+                  "name": "St James Church, Cappagh",
+                  "text": "St James Church in Cappagh is a local place of worship near Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.92459,
+                        52.554758
+                  ]
+            },
+            {
+                  "name": "Ballingarrane Methodist Church",
+                  "text": "The Ballingarrane Methodist Church is a community place of worship in Rathkeale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.936117,
+                        52.549308
+                  ]
+            },
+            {
+                  "name": "Lissavorteale",
+                  "text": "Lissavorteale is an archaeological site providing insights into the past of Rathkeale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.888374,
+                        52.529502
+                  ]
+            },
+            {
+                  "name": "Castle Matrix",
+                  "text": "Castle Matrix is a historic castle situated in Rathkeale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.956475,
+                        52.519157
+                  ]
+            },
+            {
+                  "name": "Glebe Castle",
+                  "text": "Glebe Castle is an intriguing historic castle located in Rathkeale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.948663,
+                        52.518407
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Rathkeale", hu: "Rathkeale", ro: "Rathkeale", en: "Rathkeale" },
@@ -15564,7 +17121,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-thurles-cities-v2.webp",
   },
   {
-    id: "ireland-tipperary-cities-v2",
+    id: "ireland-tipperary-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carron Fort",
+                  "text": "Carron Fort ist eine alte archäologische Stätte in Tipperary.",
+                  "category": "historical",
+                  "coords": [
+                        -8.179878,
+                        52.493466
+                  ]
+            },
+            {
+                  "name": "St. Bridget's Well",
+                  "text": "St. Bridget's Well ist eine natürliche Quelle in Tipperary.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.154972,
+                        52.474314
+                  ]
+            },
+            {
+                  "name": "Tipperary Excel",
+                  "text": "Tipperary Excel ist ein Kunstzentrum in Tipperary, in dem kulturelle Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.16023,
+                        52.475135
+                  ]
+            },
+            {
+                  "name": "St. Michael's Church",
+                  "text": "St. Michael's Church ist eine Kultstätte in Tipperary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.159167,
+                        52.476421
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Saint Mary's Church ist eine lokale Kultstätte in Tipperary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.164509,
+                        52.474466
+                  ]
+            },
+            {
+                  "name": "Garranacanty Moat",
+                  "text": "Garranacanty Moat ist eine archäologische Stätte in Tipperary.",
+                  "category": "historical",
+                  "coords": [
+                        -8.135328,
+                        52.486405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carron Fort",
+                  "text": "A Carron Fort egy ősi régészeti lelőhely Tipperaryban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.179878,
+                        52.493466
+                  ]
+            },
+            {
+                  "name": "St. Bridget's Well",
+                  "text": "A St. Bridget's Well egy természetes forrás Tipperaryban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.154972,
+                        52.474314
+                  ]
+            },
+            {
+                  "name": "Tipperary Excel",
+                  "text": "A Tipperary Excel egy művészeti központ Tipperaryban, amely kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.16023,
+                        52.475135
+                  ]
+            },
+            {
+                  "name": "St. Michael's Church",
+                  "text": "A St. Michael's Church egy istentiszteleti hely Tipperaryban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.159167,
+                        52.476421
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A Saint Mary's Church egy helyi istentiszteleti hely Tipperaryban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.164509,
+                        52.474466
+                  ]
+            },
+            {
+                  "name": "Garranacanty Moat",
+                  "text": "A Garranacanty Moat egy régészeti lelőhely Tipperaryban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.135328,
+                        52.486405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carron Fort",
+                  "text": "Fortul Carron este un vechi sit arheologic situat în Tipperary.",
+                  "category": "historical",
+                  "coords": [
+                        -8.179878,
+                        52.493466
+                  ]
+            },
+            {
+                  "name": "St. Bridget's Well",
+                  "text": "Izvorul Sf. Bridget este un izvor natural situat în Tipperary.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.154972,
+                        52.474314
+                  ]
+            },
+            {
+                  "name": "Tipperary Excel",
+                  "text": "Tipperary Excel este un centru de arte din Tipperary, care găzduiește evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.16023,
+                        52.475135
+                  ]
+            },
+            {
+                  "name": "St. Michael's Church",
+                  "text": "Biserica Sf. Mihail este un lăcaș de cult situat în Tipperary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.159167,
+                        52.476421
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Biserica Sfânta Maria este un lăcaș de cult local din Tipperary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.164509,
+                        52.474466
+                  ]
+            },
+            {
+                  "name": "Garranacanty Moat",
+                  "text": "Garranacanty Moat este un sit arheologic situat în Tipperary.",
+                  "category": "historical",
+                  "coords": [
+                        -8.135328,
+                        52.486405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carron Fort",
+                  "text": "Carron Fort is an ancient archaeological site located in Tipperary.",
+                  "category": "historical",
+                  "coords": [
+                        -8.179878,
+                        52.493466
+                  ]
+            },
+            {
+                  "name": "St. Bridget's Well",
+                  "text": "St. Bridget's Well is a natural spring located in Tipperary.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.154972,
+                        52.474314
+                  ]
+            },
+            {
+                  "name": "Tipperary Excel",
+                  "text": "Tipperary Excel is an arts centre in Tipperary that hosts cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.16023,
+                        52.475135
+                  ]
+            },
+            {
+                  "name": "St. Michael's Church",
+                  "text": "St. Michael's Church is a place of worship situated in Tipperary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.159167,
+                        52.476421
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Saint Mary's Church is a local place of worship in Tipperary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.164509,
+                        52.474466
+                  ]
+            },
+            {
+                  "name": "Garranacanty Moat",
+                  "text": "Garranacanty Moat is a historical archaeological site located in Tipperary.",
+                  "category": "historical",
+                  "coords": [
+                        -8.135328,
+                        52.486405
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Tipperary", hu: "Tipperary", ro: "Tipperary", en: "Tipperary" },
@@ -15960,7 +17742,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-tuam-cities-v2.webp",
   },
   {
-    id: "ireland-tulla-cities-v2",
+    id: "ireland-tulla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tulla Church",
+                  "text": "Die Tulla Church ist ein bemerkenswertes kirchliches Gebäude in Tulla.",
+                  "category": "religious",
+                  "coords": [
+                        -8.754045,
+                        52.867526
+                  ]
+            },
+            {
+                  "name": "Rathduff Fort",
+                  "text": "Rathduff Fort ist eine antike archäologische Stätte in der Nähe von Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.731685,
+                        52.855678
+                  ]
+            },
+            {
+                  "name": "Children's Burial Ground",
+                  "text": "Der Children's Burial Ground ist eine historische archäologische Stätte in Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.710936,
+                        52.866652
+                  ]
+            },
+            {
+                  "name": "Ballygascell Fort",
+                  "text": "Ballygascell Fort ist eine archäologische Stätte und ein antikes Denkmal in Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.726787,
+                        52.866427
+                  ]
+            },
+            {
+                  "name": "Garruragh Castle",
+                  "text": "Garruragh Castle ist eine historische Burgruine in Tulla.",
+                  "category": "castle",
+                  "coords": [
+                        -8.728859,
+                        52.873062
+                  ]
+            },
+            {
+                  "name": "Cnoc na Gaoithe",
+                  "text": "Cnoc na Gaoithe ist ein lebendiges Kunstzentrum für die Gemeinde in Tulla.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.756817,
+                        52.866342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tulla Church",
+                  "text": "A Tulla Church egy jelentős egyházi épület Tulla városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.754045,
+                        52.867526
+                  ]
+            },
+            {
+                  "name": "Rathduff Fort",
+                  "text": "A Rathduff Fort egy ősi régészeti lelőhely Tulla közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.731685,
+                        52.855678
+                  ]
+            },
+            {
+                  "name": "Children's Burial Ground",
+                  "text": "A Children's Burial Ground egy történelmi régészeti lelőhely Tulla területén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.710936,
+                        52.866652
+                  ]
+            },
+            {
+                  "name": "Ballygascell Fort",
+                  "text": "A Ballygascell Fort egy régészeti lelőhely és ősi műemlék Tulla közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.726787,
+                        52.866427
+                  ]
+            },
+            {
+                  "name": "Garruragh Castle",
+                  "text": "A Garruragh Castle egy történelmi kastélyépület Tulla városában.",
+                  "category": "castle",
+                  "coords": [
+                        -8.728859,
+                        52.873062
+                  ]
+            },
+            {
+                  "name": "Cnoc na Gaoithe",
+                  "text": "A Cnoc na Gaoithe egy nyüzsgő művészeti központ Tulla közössége számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.756817,
+                        52.866342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tulla Church",
+                  "text": "Biserica Tulla este o clădire ecleziastică notabilă situată în Tulla.",
+                  "category": "religious",
+                  "coords": [
+                        -8.754045,
+                        52.867526
+                  ]
+            },
+            {
+                  "name": "Rathduff Fort",
+                  "text": "Rathduff Fort este un sit arheologic antic situat lângă Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.731685,
+                        52.855678
+                  ]
+            },
+            {
+                  "name": "Children's Burial Ground",
+                  "text": "Children's Burial Ground este un sit arheologic istoric situat în Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.710936,
+                        52.866652
+                  ]
+            },
+            {
+                  "name": "Ballygascell Fort",
+                  "text": "Ballygascell Fort este un sit arheologic și un monument antic în Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.726787,
+                        52.866427
+                  ]
+            },
+            {
+                  "name": "Garruragh Castle",
+                  "text": "Castelul Garruragh este o structură istorică situată în Tulla.",
+                  "category": "castle",
+                  "coords": [
+                        -8.728859,
+                        52.873062
+                  ]
+            },
+            {
+                  "name": "Cnoc na Gaoithe",
+                  "text": "Cnoc na Gaoithe este un centru de arte vibrant care deservește comunitatea din Tulla.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.756817,
+                        52.866342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tulla Church",
+                  "text": "Tulla Church is a notable ecclesiastical building located in Tulla.",
+                  "category": "religious",
+                  "coords": [
+                        -8.754045,
+                        52.867526
+                  ]
+            },
+            {
+                  "name": "Rathduff Fort",
+                  "text": "Rathduff Fort is an ancient archaeological site situated near Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.731685,
+                        52.855678
+                  ]
+            },
+            {
+                  "name": "Children's Burial Ground",
+                  "text": "The Children's Burial Ground is a historic archaeological site located in Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.710936,
+                        52.866652
+                  ]
+            },
+            {
+                  "name": "Ballygascell Fort",
+                  "text": "Ballygascell Fort is an archaeological site and ancient monument in Tulla.",
+                  "category": "historical",
+                  "coords": [
+                        -8.726787,
+                        52.866427
+                  ]
+            },
+            {
+                  "name": "Garruragh Castle",
+                  "text": "Garruragh Castle is a historic castle structure located in Tulla.",
+                  "category": "castle",
+                  "coords": [
+                        -8.728859,
+                        52.873062
+                  ]
+            },
+            {
+                  "name": "Cnoc na Gaoithe",
+                  "text": "Cnoc na Gaoithe is a vibrant arts centre serving the community in Tulla.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.756817,
+                        52.866342
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Tulla", hu: "Tulla", ro: "Tulla", en: "Tulla" },
@@ -17040,7 +19047,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-adare-cities-v2.webp",
   },
   {
-    id: "ireland-ardee-cities-v2",
+    id: "ireland-ardee-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kildemock Church",
+                  "text": "Die Kildemock Church ist ein historisches Kirchengebäude in Ardee.",
+                  "category": "religious",
+                  "coords": [
+                        -6.520506,
+                        53.835817
+                  ]
+            },
+            {
+                  "name": "Ardee Castle",
+                  "text": "Ardee Castle ist eine historische mittelalterliche Burg in der Stadt Ardee.",
+                  "category": "castle",
+                  "coords": [
+                        -6.538732,
+                        53.855142
+                  ]
+            },
+            {
+                  "name": "Hatch's Castle",
+                  "text": "Hatch's Castle ist ein gut erhaltenes Burggebäude in Ardee.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539517,
+                        53.856963
+                  ]
+            },
+            {
+                  "name": "Garrets Fort",
+                  "text": "Garrets Fort ist eine antike archäologische Stätte in der Nähe von Ardee.",
+                  "category": "historical",
+                  "coords": [
+                        -6.511744,
+                        53.838578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kildemock Church",
+                  "text": "A Kildemock Church egy történelmi templomépület Ardee-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.520506,
+                        53.835817
+                  ]
+            },
+            {
+                  "name": "Ardee Castle",
+                  "text": "Az Ardee Castle egy történelmi középkori kastély Ardee városában.",
+                  "category": "castle",
+                  "coords": [
+                        -6.538732,
+                        53.855142
+                  ]
+            },
+            {
+                  "name": "Hatch's Castle",
+                  "text": "A Hatch's Castle egy jó állapotban fennmaradt kastélyépület Ardee-ben.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539517,
+                        53.856963
+                  ]
+            },
+            {
+                  "name": "Garrets Fort",
+                  "text": "A Garrets Fort egy ősi régészeti lelőhely Ardee közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.511744,
+                        53.838578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kildemock Church",
+                  "text": "Biserica Kildemock este o clădire istorică a unei biserici situată în Ardee.",
+                  "category": "religious",
+                  "coords": [
+                        -6.520506,
+                        53.835817
+                  ]
+            },
+            {
+                  "name": "Ardee Castle",
+                  "text": "Castelul Ardee este un castel medieval istoric situat în orașul Ardee.",
+                  "category": "castle",
+                  "coords": [
+                        -6.538732,
+                        53.855142
+                  ]
+            },
+            {
+                  "name": "Hatch's Castle",
+                  "text": "Castelul Hatch este o clădire de castel bine conservată situată în Ardee.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539517,
+                        53.856963
+                  ]
+            },
+            {
+                  "name": "Garrets Fort",
+                  "text": "Garrets Fort este un sit arheologic antic situat lângă Ardee.",
+                  "category": "historical",
+                  "coords": [
+                        -6.511744,
+                        53.838578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kildemock Church",
+                  "text": "Kildemock Church is a historic church building located in Ardee.",
+                  "category": "religious",
+                  "coords": [
+                        -6.520506,
+                        53.835817
+                  ]
+            },
+            {
+                  "name": "Ardee Castle",
+                  "text": "Ardee Castle is a historic medieval castle located in the town of Ardee.",
+                  "category": "castle",
+                  "coords": [
+                        -6.538732,
+                        53.855142
+                  ]
+            },
+            {
+                  "name": "Hatch's Castle",
+                  "text": "Hatch's Castle is a well-preserved castle building situated in Ardee.",
+                  "category": "castle",
+                  "coords": [
+                        -6.539517,
+                        53.856963
+                  ]
+            },
+            {
+                  "name": "Garrets Fort",
+                  "text": "Garrets Fort is an ancient archaeological site located near Ardee.",
+                  "category": "historical",
+                  "coords": [
+                        -6.511744,
+                        53.838578
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Ardee", hu: "Ardee", ro: "Ardee", en: "Ardee" },
@@ -18066,7 +20226,304 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-buncrana-cities-v2.webp",
   },
   {
-    id: "ireland-cahir-cities-v2",
+    id: "ireland-cahir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cahir Castle",
+                  "text": "Cahir Castle ist eine prominente historische Burg in der Stadt Cahir.",
+                  "category": "castle",
+                  "coords": [
+                        -7.927227,
+                        52.374631
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well ist eine natürliche Quelle in Cahir.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.927368,
+                        52.378779
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's ist eine Kultstätte in Cahir.",
+                  "category": "religious",
+                  "coords": [
+                        -7.924525,
+                        52.377277
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "St Mary's Church ist eine lokale Kultstätte in Cahir.",
+                  "category": "religious",
+                  "coords": [
+                        -7.923187,
+                        52.372868
+                  ]
+            },
+            {
+                  "name": "Caher Abbey",
+                  "text": "Caher Abbey ist eine historische Sehenswürdigkeit in Cahir.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.928367,
+                        52.37939
+                  ]
+            },
+            {
+                  "name": "Swiss Cottage",
+                  "text": "Swiss Cottage ist eine bemerkenswerte historische Sehenswürdigkeit in Cahir, bekannt für ihre malerische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.923556,
+                        52.357286
+                  ]
+            },
+            {
+                  "name": "Carrigeen Castle",
+                  "text": "Carrigeen Castle ist ein historisches Burggebäude in Cahir.",
+                  "category": "castle",
+                  "coords": [
+                        -7.931908,
+                        52.376166
+                  ]
+            },
+            {
+                  "name": "Lissawan",
+                  "text": "Lissawan ist eine archäologische Stätte in Cahir.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914308,
+                        52.348952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cahir Castle",
+                  "text": "A Cahir-kastély egy kiemelkedő történelmi kastély Cahir városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.927227,
+                        52.374631
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A Lady's Well egy természetes forrás Cahirban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.927368,
+                        52.378779
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "A St Paul's egy istentiszteleti hely Cahirban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.924525,
+                        52.377277
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "A St Mary's Church egy helyi istentiszteleti hely Cahirban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.923187,
+                        52.372868
+                  ]
+            },
+            {
+                  "name": "Caher Abbey",
+                  "text": "A Caher Abbey egy történelmi látványosság Cahirban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.928367,
+                        52.37939
+                  ]
+            },
+            {
+                  "name": "Swiss Cottage",
+                  "text": "A Swiss Cottage egy figyelemre méltó történelmi látványosság Cahirban, amely festői építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.923556,
+                        52.357286
+                  ]
+            },
+            {
+                  "name": "Carrigeen Castle",
+                  "text": "A Carrigeen-kastély egy történelmi kastélyépület Cahirban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.931908,
+                        52.376166
+                  ]
+            },
+            {
+                  "name": "Lissawan",
+                  "text": "A Lissawan egy régészeti lelőhely Cahirban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914308,
+                        52.348952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cahir Castle",
+                  "text": "Castelul Cahir este un castel istoric proeminent situat în orașul Cahir.",
+                  "category": "castle",
+                  "coords": [
+                        -7.927227,
+                        52.374631
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Izvorul Lady's Well este un izvor natural situat în Cahir.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.927368,
+                        52.378779
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's este un lăcaș de cult situat în Cahir.",
+                  "category": "religious",
+                  "coords": [
+                        -7.924525,
+                        52.377277
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "Biserica Sfânta Maria este un lăcaș de cult local situat în Cahir.",
+                  "category": "religious",
+                  "coords": [
+                        -7.923187,
+                        52.372868
+                  ]
+            },
+            {
+                  "name": "Caher Abbey",
+                  "text": "Abăția Caher este o atracție istorică situată în Cahir.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.928367,
+                        52.37939
+                  ]
+            },
+            {
+                  "name": "Swiss Cottage",
+                  "text": "Swiss Cottage este o atracție istorică notabilă din Cahir, cunoscută pentru arhitectura sa pitorească.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.923556,
+                        52.357286
+                  ]
+            },
+            {
+                  "name": "Carrigeen Castle",
+                  "text": "Castelul Carrigeen este o structură de castel istorică situată în Cahir.",
+                  "category": "castle",
+                  "coords": [
+                        -7.931908,
+                        52.376166
+                  ]
+            },
+            {
+                  "name": "Lissawan",
+                  "text": "Lissawan este un sit arheologic situat în orașul Cahir.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914308,
+                        52.348952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cahir Castle",
+                  "text": "Cahir Castle is a prominent historic castle located in the town of Cahir.",
+                  "category": "castle",
+                  "coords": [
+                        -7.927227,
+                        52.374631
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well is a natural spring situated in Cahir.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.927368,
+                        52.378779
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's is a place of worship located in Cahir.",
+                  "category": "religious",
+                  "coords": [
+                        -7.924525,
+                        52.377277
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "St Mary's Church is a local place of worship situated in Cahir.",
+                  "category": "religious",
+                  "coords": [
+                        -7.923187,
+                        52.372868
+                  ]
+            },
+            {
+                  "name": "Caher Abbey",
+                  "text": "Caher Abbey is a historical attraction situated in Cahir.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.928367,
+                        52.37939
+                  ]
+            },
+            {
+                  "name": "Swiss Cottage",
+                  "text": "Swiss Cottage is a notable historic attraction in Cahir, known for its picturesque architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.923556,
+                        52.357286
+                  ]
+            },
+            {
+                  "name": "Carrigeen Castle",
+                  "text": "Carrigeen Castle is a historical castle structure located in Cahir.",
+                  "category": "castle",
+                  "coords": [
+                        -7.931908,
+                        52.376166
+                  ]
+            },
+            {
+                  "name": "Lissawan",
+                  "text": "Lissawan is an archaeological site situated in Cahir.",
+                  "category": "historical",
+                  "coords": [
+                        -7.914308,
+                        52.348952
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Cahir", hu: "Cahir", ro: "Cahir", en: "Cahir" },
@@ -18111,7 +20568,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-cahir-cities-v2.webp",
   },
   {
-    id: "ireland-carrickmacross-cities-v2",
+    id: "ireland-carrickmacross-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tober Lasair",
+                  "text": "Tober Lasair ist eine natürliche Quelle in Carrickmacross.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.70805,
+                        54.002425
+                  ]
+            },
+            {
+                  "name": "St. Finbarr's Church",
+                  "text": "St. Finbarr's Church ist eine Kultstätte in Carrickmacross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.718372,
+                        53.974367
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Saint Joseph's ist eine lokale Kultstätte in Carrickmacross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.71513,
+                        53.976651
+                  ]
+            },
+            {
+                  "name": "Fin McCool's Table",
+                  "text": "Fin McCool's Table ist eine historische archäologische Stätte in Carrickmacross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.732455,
+                        53.997247
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tober Lasair",
+                  "text": "A Tober Lasair egy természetes forrás Carrickmacrossban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.70805,
+                        54.002425
+                  ]
+            },
+            {
+                  "name": "St. Finbarr's Church",
+                  "text": "A St. Finbarr's Church egy istentiszteleti hely Carrickmacrossban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.718372,
+                        53.974367
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "A Saint Joseph's egy helyi istentiszteleti hely Carrickmacrossban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.71513,
+                        53.976651
+                  ]
+            },
+            {
+                  "name": "Fin McCool's Table",
+                  "text": "A Fin McCool's Table egy történelmi régészeti lelőhely Carrickmacrossban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.732455,
+                        53.997247
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tober Lasair",
+                  "text": "Tober Lasair este un izvor natural situat în Carrickmacross.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.70805,
+                        54.002425
+                  ]
+            },
+            {
+                  "name": "St. Finbarr's Church",
+                  "text": "Biserica Sf. Finbarr este un lăcaș de cult situat în Carrickmacross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.718372,
+                        53.974367
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Saint Joseph's este un lăcaș de cult local situat în Carrickmacross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.71513,
+                        53.976651
+                  ]
+            },
+            {
+                  "name": "Fin McCool's Table",
+                  "text": "Masa lui Fin McCool este un sit arheologic istoric aflat în Carrickmacross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.732455,
+                        53.997247
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tober Lasair",
+                  "text": "Tober Lasair is a natural spring located in Carrickmacross.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.70805,
+                        54.002425
+                  ]
+            },
+            {
+                  "name": "St. Finbarr's Church",
+                  "text": "St. Finbarr's Church is a place of worship situated in Carrickmacross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.718372,
+                        53.974367
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Saint Joseph's is a local place of worship located in Carrickmacross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.71513,
+                        53.976651
+                  ]
+            },
+            {
+                  "name": "Fin McCool's Table",
+                  "text": "Fin McCool's Table is a historic archaeological site found in Carrickmacross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.732455,
+                        53.997247
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Carrickmacross", hu: "Carrickmacross", ro: "Carrickmacross", en: "Carrickmacross" },
@@ -18156,7 +20766,268 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-carrickmacross-cities-v2.webp",
   },
   {
-    id: "ireland-castlewellan-cities-v2",
+    id: "ireland-castlewellan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castlewellan Castle",
+                  "text": "Castlewellan Castle ist eine historische Burg in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.955454,
+                        54.264477
+                  ]
+            },
+            {
+                  "name": "Cashel",
+                  "text": "Cashel ist eine archäologische Stätte in Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.965746,
+                        54.243725
+                  ]
+            },
+            {
+                  "name": "souterrain",
+                  "text": "Dieses Souterrain ist eine archäologische Stätte in Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.943854,
+                        54.233318
+                  ]
+            },
+            {
+                  "name": "Moorish Tower",
+                  "text": "Der Moorish Tower ist ein Burgbauwerk in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.979576,
+                        54.264673
+                  ]
+            },
+            {
+                  "name": "Tea House",
+                  "text": "Das Tea House gehört zu einem Schlossanwesen in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.951362,
+                        54.270032
+                  ]
+            },
+            {
+                  "name": "Ice House",
+                  "text": "Das Ice House ist ein historisches Burggebäude in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.961454,
+                        54.26116
+                  ]
+            },
+            {
+                  "name": "Cashel & souterrain",
+                  "text": "Cashel & Souterrain ist eine archäologische Stätte in Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.90414,
+                        54.2571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castlewellan Castle",
+                  "text": "A Castlewellan Castle egy történelmi kastély Castlewellanban.",
+                  "category": "castle",
+                  "coords": [
+                        -5.955454,
+                        54.264477
+                  ]
+            },
+            {
+                  "name": "Cashel",
+                  "text": "A Cashel egy régészeti lelőhely Castlewellanban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.965746,
+                        54.243725
+                  ]
+            },
+            {
+                  "name": "souterrain",
+                  "text": "Ez a souterrain egy régészeti lelőhely Castlewellanban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.943854,
+                        54.233318
+                  ]
+            },
+            {
+                  "name": "Moorish Tower",
+                  "text": "A Moorish Tower egy kastélyépítmény Castlewellanban.",
+                  "category": "castle",
+                  "coords": [
+                        -5.979576,
+                        54.264673
+                  ]
+            },
+            {
+                  "name": "Tea House",
+                  "text": "A Tea House egy kastélybirtokhoz tartozik Castlewellanban.",
+                  "category": "castle",
+                  "coords": [
+                        -5.951362,
+                        54.270032
+                  ]
+            },
+            {
+                  "name": "Ice House",
+                  "text": "Az Ice House egy történelmi kastélyhoz kapcsolódó építmény Castlewellanban.",
+                  "category": "castle",
+                  "coords": [
+                        -5.961454,
+                        54.26116
+                  ]
+            },
+            {
+                  "name": "Cashel & souterrain",
+                  "text": "A Cashel és a souterrain egy régészeti lelőhely Castlewellanban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.90414,
+                        54.2571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castlewellan Castle",
+                  "text": "Castlewellan Castle este un castel istoric situat în Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.955454,
+                        54.264477
+                  ]
+            },
+            {
+                  "name": "Cashel",
+                  "text": "Cashel este un sit arheologic situat în Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.965746,
+                        54.243725
+                  ]
+            },
+            {
+                  "name": "souterrain",
+                  "text": "Acest souterrain este un sit arheologic găsit în Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.943854,
+                        54.233318
+                  ]
+            },
+            {
+                  "name": "Moorish Tower",
+                  "text": "Moorish Tower este o structură de castel situată în Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.979576,
+                        54.264673
+                  ]
+            },
+            {
+                  "name": "Tea House",
+                  "text": "Tea House este asociată cu un domeniu de castel din Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.951362,
+                        54.270032
+                  ]
+            },
+            {
+                  "name": "Ice House",
+                  "text": "Ice House este o structură istorică legată de un castel în Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.961454,
+                        54.26116
+                  ]
+            },
+            {
+                  "name": "Cashel & souterrain",
+                  "text": "Cashel & souterrain este un sit arheologic situat în Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.90414,
+                        54.2571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castlewellan Castle",
+                  "text": "Castlewellan Castle is a historic castle situated in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.955454,
+                        54.264477
+                  ]
+            },
+            {
+                  "name": "Cashel",
+                  "text": "Cashel is an archaeological site located in Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.965746,
+                        54.243725
+                  ]
+            },
+            {
+                  "name": "souterrain",
+                  "text": "This souterrain is an archaeological site found in Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.943854,
+                        54.233318
+                  ]
+            },
+            {
+                  "name": "Moorish Tower",
+                  "text": "Moorish Tower is a castle structure located in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.979576,
+                        54.264673
+                  ]
+            },
+            {
+                  "name": "Tea House",
+                  "text": "The Tea House is associated with a castle estate in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.951362,
+                        54.270032
+                  ]
+            },
+            {
+                  "name": "Ice House",
+                  "text": "The Ice House is a historic castle-related structure in Castlewellan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.961454,
+                        54.26116
+                  ]
+            },
+            {
+                  "name": "Cashel & souterrain",
+                  "text": "Cashel & souterrain is an archaeological site located in Castlewellan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.90414,
+                        54.2571
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Castlewellan", hu: "Castlewellan", ro: "Castlewellan", en: "Castlewellan" },
@@ -18220,6 +21091,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.659452,
                         52.328216
                   ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Der Lady's Well ist ein lokaler Wegschrein in Charleville.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.665451,
+                        52.325547
+                  ]
             }
       ],
       "hu": [
@@ -18239,6 +21119,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.659452,
                         52.328216
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A Lady's Well egy helyi útmenti szentély Charleville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.665451,
+                        52.325547
                   ]
             }
       ],
@@ -18260,6 +21149,15 @@ export const irelandCitiesV2: POI[] = [
                         -8.659452,
                         52.328216
                   ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well este un altar stradal local din Charleville.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.665451,
+                        52.325547
+                  ]
             }
       ],
       "en": [
@@ -18279,6 +21177,15 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.659452,
                         52.328216
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well is a local wayside shrine located in Charleville.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.665451,
+                        52.325547
                   ]
             }
       ]
@@ -18327,7 +21234,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-charleville-cities-v2.webp",
   },
   {
-    id: "ireland-clara-cities-v2",
+    id: "ireland-clara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint Carthach's Church",
+                  "text": "Die Kirche des Heiligen Carthach in Clara.",
+                  "category": "religious",
+                  "coords": [
+                        -7.612629,
+                        53.279065
+                  ]
+            },
+            {
+                  "name": "Trumpet Hill",
+                  "text": "Ein natürlicher Gipfel in der Gegend von Clara.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.584847,
+                        53.294426
+                  ]
+            },
+            {
+                  "name": "Old Quay",
+                  "text": "Historische Ruinen in Clara.",
+                  "category": "historical",
+                  "coords": [
+                        -7.592232,
+                        53.273888
+                  ]
+            },
+            {
+                  "name": "Priest's Bridge",
+                  "text": "Alte Ruinen in Clara.",
+                  "category": "historical",
+                  "coords": [
+                        -7.593846,
+                        53.274141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Carthach's Church",
+                  "text": "Szent Carthach temploma Clarában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.612629,
+                        53.279065
+                  ]
+            },
+            {
+                  "name": "Trumpet Hill",
+                  "text": "Egy természetes hegycsúcs Clara környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.584847,
+                        53.294426
+                  ]
+            },
+            {
+                  "name": "Old Quay",
+                  "text": "Történelmi romok Clara városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.592232,
+                        53.273888
+                  ]
+            },
+            {
+                  "name": "Priest's Bridge",
+                  "text": "Ősi romok Clara területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.593846,
+                        53.274141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Carthach's Church",
+                  "text": "Biserica Sfântul Carthach din Clara.",
+                  "category": "religious",
+                  "coords": [
+                        -7.612629,
+                        53.279065
+                  ]
+            },
+            {
+                  "name": "Trumpet Hill",
+                  "text": "Un vârf natural situat în zona Clara.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.584847,
+                        53.294426
+                  ]
+            },
+            {
+                  "name": "Old Quay",
+                  "text": "Ruine istorice situate în Clara.",
+                  "category": "historical",
+                  "coords": [
+                        -7.592232,
+                        53.273888
+                  ]
+            },
+            {
+                  "name": "Priest's Bridge",
+                  "text": "Ruine antice aflate în Clara.",
+                  "category": "historical",
+                  "coords": [
+                        -7.593846,
+                        53.274141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Carthach's Church",
+                  "text": "Saint Carthach's Church located in Clara.",
+                  "category": "religious",
+                  "coords": [
+                        -7.612629,
+                        53.279065
+                  ]
+            },
+            {
+                  "name": "Trumpet Hill",
+                  "text": "A natural peak located in the area of Clara.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.584847,
+                        53.294426
+                  ]
+            },
+            {
+                  "name": "Old Quay",
+                  "text": "Historical ruins situated in Clara.",
+                  "category": "historical",
+                  "coords": [
+                        -7.592232,
+                        53.273888
+                  ]
+            },
+            {
+                  "name": "Priest's Bridge",
+                  "text": "Ancient ruins found in Clara.",
+                  "category": "historical",
+                  "coords": [
+                        -7.593846,
+                        53.274141
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Clara", hu: "Clara", ro: "Clara", en: "Clara" },
@@ -19020,7 +22080,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-donaghadee-cities-v2.webp",
   },
   {
-    id: "ireland-dungloe-cities-v2",
+    id: "ireland-dungloe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Croaghnashallog",
+                  "text": "Croaghnashallog ist ein markanter Berggipfel in der Nähe von Dungloe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.349302,
+                        54.933939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Croaghnashallog",
+                  "text": "A Croaghnashallog egy jellegzetes hegycsúcs Dungloe közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.349302,
+                        54.933939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Croaghnashallog",
+                  "text": "Croaghnashallog este un vârf montan distinct situat lângă Dungloe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.349302,
+                        54.933939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Croaghnashallog",
+                  "text": "Croaghnashallog is a distinct mountain peak located near Dungloe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.349302,
+                        54.933939
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Dungloe", hu: "Dungloe", ro: "Dungloe", en: "Dungloe" },
@@ -19263,7 +22368,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-dunmanway-cities-v2.webp",
   },
   {
-    id: "ireland-glenties-cities-v2",
+    id: "ireland-glenties-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crockbrack",
+                  "text": "Crockbrack ist ein natürlicher Berggipfel in der malerischen Gegend von Glenties.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.191283,
+                        54.775295
+                  ]
+            },
+            {
+                  "name": "Croaghloughanna",
+                  "text": "Croaghloughanna ist ein schroffer Berggipfel in der Region Glenties.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.229874,
+                        54.777967
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Dermot & Grania's Bed ist ein prähistorisches Megalithdenkmal und eine archäologische Stätte in Glenties.",
+                  "category": "historical",
+                  "coords": [
+                        -8.203172,
+                        54.794765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crockbrack",
+                  "text": "A Crockbrack egy természetes hegycsúcs a festői Glenties térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.191283,
+                        54.775295
+                  ]
+            },
+            {
+                  "name": "Croaghloughanna",
+                  "text": "A Croaghloughanna egy zord hegycsúcs a Glenties régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.229874,
+                        54.777967
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "A Dermot & Grania's Bed egy történelem előtti megalitikus emlékmű és régészeti lelőhely Glentiesben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.203172,
+                        54.794765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crockbrack",
+                  "text": "Crockbrack este un vârf montan natural situat în zona pitorească a orașului Glenties.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.191283,
+                        54.775295
+                  ]
+            },
+            {
+                  "name": "Croaghloughanna",
+                  "text": "Croaghloughanna este un vârf montan stâncos situat în regiunea Glenties.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.229874,
+                        54.777967
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Dermot & Grania's Bed este un monument megalitic preistoric și un sit arheologic din Glenties.",
+                  "category": "historical",
+                  "coords": [
+                        -8.203172,
+                        54.794765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crockbrack",
+                  "text": "Crockbrack is a natural mountain peak situated in the scenic area of Glenties.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.191283,
+                        54.775295
+                  ]
+            },
+            {
+                  "name": "Croaghloughanna",
+                  "text": "Croaghloughanna is a rugged mountain peak located in the Glenties region.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.229874,
+                        54.777967
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Dermot & Grania's Bed is a prehistoric megalithic monument and archaeological site in Glenties.",
+                  "category": "historical",
+                  "coords": [
+                        -8.203172,
+                        54.794765
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Glenties", hu: "Glenties", ro: "Glenties", en: "Glenties" },
@@ -19308,7 +22530,340 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-glenties-cities-v2.webp",
   },
   {
-    id: "ireland-gorey-cities-v2",
+    id: "ireland-gorey-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Market House",
+                  "text": "Das Market House ist eine bemerkenswerte lokale Attraktion in Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.294266,
+                        52.675604
+                  ]
+            },
+            {
+                  "name": "Ballyminaun Hill",
+                  "text": "Ballyminaun Hill ist ein geografischer Gipfel in Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.307494,
+                        52.646549
+                  ]
+            },
+            {
+                  "name": "Carriganeagh Rock",
+                  "text": "Der Carriganeagh Rock ist ein markanter Gipfel in der Nähe der Stadt Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.291121,
+                        52.650408
+                  ]
+            },
+            {
+                  "name": "Gorey Hill",
+                  "text": "Der Gorey Hill ist ein lokaler Gipfel, der Ausblicke auf die Stadt Gorey bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.314196,
+                        52.670934
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Die Christ Church ist eine historische Kultstätte in der Stadt Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.297482,
+                        52.674471
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Die Saint Michael's Church ist eine religiöse Stätte in Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.289699,
+                        52.674844
+                  ]
+            },
+            {
+                  "name": "Gorey Wesleyan Chapel",
+                  "text": "Die Gorey Wesleyan Chapel ist eine etablierte Kultstätte in Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.294212,
+                        52.674512
+                  ]
+            },
+            {
+                  "name": "Kia Ora Mini Farm",
+                  "text": "Die Kia Ora Mini Farm ist eine interaktive Tierattraktion in Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.251354,
+                        52.676002
+                  ]
+            },
+            {
+                  "name": "Gorey Little Theatre",
+                  "text": "Das Gorey Little Theatre ist ein Veranstaltungsort für darstellende Künste in Gorey.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.293843,
+                        52.677132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Market House",
+                  "text": "A Market House egy nevezetes helyi látványosság Gorey városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.294266,
+                        52.675604
+                  ]
+            },
+            {
+                  "name": "Ballyminaun Hill",
+                  "text": "A Ballyminaun Hill egy földrajzi magaslat Gorey közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.307494,
+                        52.646549
+                  ]
+            },
+            {
+                  "name": "Carriganeagh Rock",
+                  "text": "A Carriganeagh Rock egy markáns hegycsúcs Gorey városának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.291121,
+                        52.650408
+                  ]
+            },
+            {
+                  "name": "Gorey Hill",
+                  "text": "A Gorey Hill egy helyi hegycsúcs, amely kilátást nyújt Gorey városára.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.314196,
+                        52.670934
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Christ Church egy történelmi istentiszteleti hely Gorey városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.297482,
+                        52.674471
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "A Saint Michael's Church egy vallási helyszín Goreyban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.289699,
+                        52.674844
+                  ]
+            },
+            {
+                  "name": "Gorey Wesleyan Chapel",
+                  "text": "A Gorey Wesleyan Chapel egy bejáratott istentiszteleti hely Gorey városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.294212,
+                        52.674512
+                  ]
+            },
+            {
+                  "name": "Kia Ora Mini Farm",
+                  "text": "A Kia Ora Mini Farm egy interaktív állatos látványosság Goreyban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.251354,
+                        52.676002
+                  ]
+            },
+            {
+                  "name": "Gorey Little Theatre",
+                  "text": "A Gorey Little Theatre egy előadóművészeti helyszín Goreyban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.293843,
+                        52.677132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Market House",
+                  "text": "Market House este o atracție locală notabilă situată în Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.294266,
+                        52.675604
+                  ]
+            },
+            {
+                  "name": "Ballyminaun Hill",
+                  "text": "Ballyminaun Hill este un vârf geografic situat în Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.307494,
+                        52.646549
+                  ]
+            },
+            {
+                  "name": "Carriganeagh Rock",
+                  "text": "Carriganeagh Rock este un vârf proeminent situat în apropiere de Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.291121,
+                        52.650408
+                  ]
+            },
+            {
+                  "name": "Gorey Hill",
+                  "text": "Gorey Hill este un vârf local care oferă vederi asupra orașului Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.314196,
+                        52.670934
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church este un lăcaș de cult istoric situat în orașul Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.297482,
+                        52.674471
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Biserica Sfântul Mihail este un lăcaș de cult situat în Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.289699,
+                        52.674844
+                  ]
+            },
+            {
+                  "name": "Gorey Wesleyan Chapel",
+                  "text": "Gorey Wesleyan Chapel este un lăcaș de cult stabilit în Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.294212,
+                        52.674512
+                  ]
+            },
+            {
+                  "name": "Kia Ora Mini Farm",
+                  "text": "Kia Ora Mini Farm este o atracție interactivă cu animale situată în Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.251354,
+                        52.676002
+                  ]
+            },
+            {
+                  "name": "Gorey Little Theatre",
+                  "text": "Gorey Little Theatre este o locație dedicată artelor spectacolului din Gorey.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.293843,
+                        52.677132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Market House",
+                  "text": "The Market House is a notable local attraction situated in Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.294266,
+                        52.675604
+                  ]
+            },
+            {
+                  "name": "Ballyminaun Hill",
+                  "text": "Ballyminaun Hill is a geographic peak located in Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.307494,
+                        52.646549
+                  ]
+            },
+            {
+                  "name": "Carriganeagh Rock",
+                  "text": "Carriganeagh Rock is a prominent peak located near the town of Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.291121,
+                        52.650408
+                  ]
+            },
+            {
+                  "name": "Gorey Hill",
+                  "text": "Gorey Hill is a local peak offering views over the town of Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.314196,
+                        52.670934
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church is a historic place of worship located in the town of Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.297482,
+                        52.674471
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Saint Michael's Church is a religious site situated in Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.289699,
+                        52.674844
+                  ]
+            },
+            {
+                  "name": "Gorey Wesleyan Chapel",
+                  "text": "Gorey Wesleyan Chapel is an established place of worship in Gorey.",
+                  "category": "religious",
+                  "coords": [
+                        -6.294212,
+                        52.674512
+                  ]
+            },
+            {
+                  "name": "Kia Ora Mini Farm",
+                  "text": "Kia Ora Mini Farm is an interactive animal attraction located in Gorey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.251354,
+                        52.676002
+                  ]
+            },
+            {
+                  "name": "Gorey Little Theatre",
+                  "text": "Gorey Little Theatre is a venue for performing arts situated in Gorey.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.293843,
+                        52.677132
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Gorey", hu: "Gorey", ro: "Gorey", en: "Gorey" },
@@ -19353,7 +22908,304 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-gorey-cities-v2.webp",
   },
   {
-    id: "ireland-graiguenamanagh-cities-v2",
+    id: "ireland-graiguenamanagh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tinnahinch Castle",
+                  "text": "Tinnahinch Castle ist eine Burgruine in der Nähe von Graiguenamanagh.",
+                  "category": "castle",
+                  "coords": [
+                        -6.957271,
+                        52.537481
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church (ruins)",
+                  "text": "Die Saint Michael's Church besteht aus historischen Kirchenruinen in Graiguenamanagh.",
+                  "category": "religious",
+                  "coords": [
+                        -6.955042,
+                        52.534363
+                  ]
+            },
+            {
+                  "name": "Duiske Abbey",
+                  "text": "Die Duiske Abbey in Graiguenamanagh ist ein ehemaliges Zisterzienserkloster.",
+                  "category": "religious",
+                  "coords": [
+                        -6.954819,
+                        52.541092
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well ist eine natürliche Quelle in Graiguenamanagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.956696,
+                        52.541162
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Well",
+                  "text": "Saint Michael's Well ist eine natürliche Quelle in Graiguenamanagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.954523,
+                        52.532326
+                  ]
+            },
+            {
+                  "name": "Barnastick",
+                  "text": "Barnastick ist eine archäologische Stätte in Graiguenamanagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.945734,
+                        52.520417
+                  ]
+            },
+            {
+                  "name": "Ballyduff Ringfort",
+                  "text": "Ballyduff Ringfort ist eine archäologische Stätte in Graiguenamanagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965216,
+                        52.561455
+                  ]
+            },
+            {
+                  "name": "Galmoy Castle",
+                  "text": "Galmoy Castle ist eine historische Burg in Graiguenamanagh.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938141,
+                        52.518948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tinnahinch Castle",
+                  "text": "A Tinnahinch kastély egy romos erődítmény Graiguenamanagh közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -6.957271,
+                        52.537481
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church (ruins)",
+                  "text": "A Szent Mihály-templom történelmi vallási romokat kínál Graiguenamanaghban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.955042,
+                        52.534363
+                  ]
+            },
+            {
+                  "name": "Duiske Abbey",
+                  "text": "A graiguenamanaghi Duiske apátság egy egykori ciszterci kolostor.",
+                  "category": "religious",
+                  "coords": [
+                        -6.954819,
+                        52.541092
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A Lady's Well egy természetes forrás Graiguenamanagh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.956696,
+                        52.541162
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Well",
+                  "text": "A Saint Michael's Well egy természetes forrás Graiguenamanagh-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.954523,
+                        52.532326
+                  ]
+            },
+            {
+                  "name": "Barnastick",
+                  "text": "Barnastick egy régészeti lelőhely Graiguenamanagh közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.945734,
+                        52.520417
+                  ]
+            },
+            {
+                  "name": "Ballyduff Ringfort",
+                  "text": "A Ballyduff Ringfort egy régészeti lelőhely Graiguenamanagh-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965216,
+                        52.561455
+                  ]
+            },
+            {
+                  "name": "Galmoy Castle",
+                  "text": "A Galmoy Castle egy történelmi vár Graiguenamanagh területén.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938141,
+                        52.518948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinnahinch Castle",
+                  "text": "Castelul Tinnahinch este o fortăreață ruinată situată lângă Graiguenamanagh.",
+                  "category": "castle",
+                  "coords": [
+                        -6.957271,
+                        52.537481
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church (ruins)",
+                  "text": "Biserica Sfântul Mihail este o ruină istorică a unei biserici din Graiguenamanagh.",
+                  "category": "religious",
+                  "coords": [
+                        -6.955042,
+                        52.534363
+                  ]
+            },
+            {
+                  "name": "Duiske Abbey",
+                  "text": "Abația Duiske din Graiguenamanagh este o fostă mănăstire cisterciană.",
+                  "category": "religious",
+                  "coords": [
+                        -6.954819,
+                        52.541092
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well este un izvor natural situat în Graiguenamanagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.956696,
+                        52.541162
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Well",
+                  "text": "Saint Michael's Well este un izvor natural aflat în Graiguenamanagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.954523,
+                        52.532326
+                  ]
+            },
+            {
+                  "name": "Barnastick",
+                  "text": "Barnastick este un sit arheologic situat în Graiguenamanagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.945734,
+                        52.520417
+                  ]
+            },
+            {
+                  "name": "Ballyduff Ringfort",
+                  "text": "Ballyduff Ringfort este un sit arheologic aflat în Graiguenamanagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965216,
+                        52.561455
+                  ]
+            },
+            {
+                  "name": "Galmoy Castle",
+                  "text": "Galmoy Castle este un castel istoric situat în Graiguenamanagh.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938141,
+                        52.518948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinnahinch Castle",
+                  "text": "Tinnahinch Castle is a ruined fortress located near Graiguenamanagh.",
+                  "category": "castle",
+                  "coords": [
+                        -6.957271,
+                        52.537481
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Church (ruins)",
+                  "text": "Saint Michael's Church features historic church ruins located in Graiguenamanagh.",
+                  "category": "religious",
+                  "coords": [
+                        -6.955042,
+                        52.534363
+                  ]
+            },
+            {
+                  "name": "Duiske Abbey",
+                  "text": "Duiske Abbey in Graiguenamanagh is a former Cistercian monastery.",
+                  "category": "religious",
+                  "coords": [
+                        -6.954819,
+                        52.541092
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well is a natural spring located in Graiguenamanagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.956696,
+                        52.541162
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Well",
+                  "text": "Saint Michael's Well is a natural spring found in Graiguenamanagh.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.954523,
+                        52.532326
+                  ]
+            },
+            {
+                  "name": "Barnastick",
+                  "text": "Barnastick is an archaeological site located in Graiguenamanagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.945734,
+                        52.520417
+                  ]
+            },
+            {
+                  "name": "Ballyduff Ringfort",
+                  "text": "Ballyduff Ringfort is an archaeological site found in Graiguenamanagh.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965216,
+                        52.561455
+                  ]
+            },
+            {
+                  "name": "Galmoy Castle",
+                  "text": "Galmoy Castle is a historical castle located in Graiguenamanagh.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938141,
+                        52.518948
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Graiguenamanagh", hu: "Graiguenamanagh", ro: "Graiguenamanagh", en: "Graiguenamanagh" },
@@ -19443,7 +23295,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-killaloe-cities-v2.webp",
   },
   {
-    id: "ireland-manorhamilton-cities-v2",
+    id: "ireland-manorhamilton-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cashel",
+                  "text": "Cashel ist eine archäologische Stätte in der Nähe von Manorhamilton.",
+                  "category": "historical",
+                  "coords": [
+                        -8.141908,
+                        54.267632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cashel",
+                  "text": "Cashel egy régészeti lelőhely Manorhamilton közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.141908,
+                        54.267632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cashel",
+                  "text": "Cashel este un sit arheologic situat în apropiere de Manorhamilton.",
+                  "category": "historical",
+                  "coords": [
+                        -8.141908,
+                        54.267632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cashel",
+                  "text": "Cashel is an archaeological site located near Manorhamilton.",
+                  "category": "historical",
+                  "coords": [
+                        -8.141908,
+                        54.267632
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Manorhamilton", hu: "Manorhamilton", ro: "Manorhamilton", en: "Manorhamilton" },
@@ -19507,6 +23404,42 @@ export const irelandCitiesV2: POI[] = [
                         -9.42773,
                         52.867509
                   ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Die St Joseph's Church ist ein lokales Gotteshaus für spirituelle Gottesdienste in Miltown Malbay.",
+                  "category": "religious",
+                  "coords": [
+                        -9.400184,
+                        52.858597
+                  ]
+            },
+            {
+                  "name": "The Music Makers of West Clare",
+                  "text": "The Music Makers of West Clare ist ein Museum in Miltown Malbay, das dem reichen traditionellen Musikerbe der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.403409,
+                        52.85403
+                  ]
+            },
+            {
+                  "name": "Cloghaunclooneen Fort",
+                  "text": "Das Cloghaunclooneen Fort ist eine antike archäologische Stätte in der Nähe von Miltown Malbay.",
+                  "category": "historical",
+                  "coords": [
+                        -9.412407,
+                        52.829802
+                  ]
+            },
+            {
+                  "name": "Lissanure",
+                  "text": "Lissanure ist eine archäologische Stätte, die Einblicke in die antike Geschichte von Miltown Malbay bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -9.425261,
+                        52.837222
+                  ]
             }
       ],
       "hu": [
@@ -19526,6 +23459,42 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -9.42773,
                         52.867509
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "A Szent József-templom egy helyi istentiszteleti hely, amely spirituális szolgáltatásokat nyújt Miltown Malbayben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.400184,
+                        52.858597
+                  ]
+            },
+            {
+                  "name": "The Music Makers of West Clare",
+                  "text": "A The Music Makers of West Clare egy múzeum Miltown Malbayben, amely a régió gazdag hagyományos zenei örökségének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -9.403409,
+                        52.85403
+                  ]
+            },
+            {
+                  "name": "Cloghaunclooneen Fort",
+                  "text": "A Cloghaunclooneen Fort egy ősi régészeti lelőhely Miltown Malbay közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.412407,
+                        52.829802
+                  ]
+            },
+            {
+                  "name": "Lissanure",
+                  "text": "A Lissanure egy régészeti lelőhely, amely betekintést nyújt Miltown Malbay ókori történetébe.",
+                  "category": "historical",
+                  "coords": [
+                        -9.425261,
+                        52.837222
                   ]
             }
       ],
@@ -19547,6 +23516,42 @@ export const irelandCitiesV2: POI[] = [
                         -9.42773,
                         52.867509
                   ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Biserica Sf. Iosif este un lăcaș de cult local care oferă servicii spirituale în Miltown Malbay.",
+                  "category": "religious",
+                  "coords": [
+                        -9.400184,
+                        52.858597
+                  ]
+            },
+            {
+                  "name": "The Music Makers of West Clare",
+                  "text": "The Music Makers of West Clare este un muzeu din Miltown Malbay dedicat bogatei moșteniri de muzică tradițională a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -9.403409,
+                        52.85403
+                  ]
+            },
+            {
+                  "name": "Cloghaunclooneen Fort",
+                  "text": "Fortul Cloghaunclooneen este un sit arheologic antic situat lângă Miltown Malbay.",
+                  "category": "historical",
+                  "coords": [
+                        -9.412407,
+                        52.829802
+                  ]
+            },
+            {
+                  "name": "Lissanure",
+                  "text": "Lissanure este un sit arheologic care oferă o privire în istoria antică a orașului Miltown Malbay.",
+                  "category": "historical",
+                  "coords": [
+                        -9.425261,
+                        52.837222
+                  ]
             }
       ],
       "en": [
@@ -19566,6 +23571,42 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -9.42773,
                         52.867509
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "St Joseph's Church is a local place of worship providing spiritual services in Miltown Malbay.",
+                  "category": "religious",
+                  "coords": [
+                        -9.400184,
+                        52.858597
+                  ]
+            },
+            {
+                  "name": "The Music Makers of West Clare",
+                  "text": "The Music Makers of West Clare is a museum in Miltown Malbay dedicated to the region's rich traditional music heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -9.403409,
+                        52.85403
+                  ]
+            },
+            {
+                  "name": "Cloghaunclooneen Fort",
+                  "text": "Cloghaunclooneen Fort is an ancient archaeological site situated near Miltown Malbay.",
+                  "category": "historical",
+                  "coords": [
+                        -9.412407,
+                        52.829802
+                  ]
+            },
+            {
+                  "name": "Lissanure",
+                  "text": "Lissanure is an archaeological site offering insights into the ancient history of Miltown Malbay.",
+                  "category": "historical",
+                  "coords": [
+                        -9.425261,
+                        52.837222
                   ]
             }
       ]
@@ -19614,7 +23655,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-miltown-malbay-cities-v2.webp",
   },
   {
-    id: "ireland-moate-cities-v2",
+    id: "ireland-moate-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "Die St. Mary's Church of Ireland ist ein Gotteshaus in Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727177,
+                        53.396028
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Die St. Patrick's Church ist ein lokales Gotteshaus in Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.723225,
+                        53.395519
+                  ]
+            },
+            {
+                  "name": "Carmelite Friary, Moate",
+                  "text": "Das Karmeliterkloster ist ein religiöses Gebäude in der Stadt Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.713517,
+                        53.397302
+                  ]
+            },
+            {
+                  "name": "Dún na Sí Heritage Centre",
+                  "text": "Das Dún na Sí Heritage Centre ist ein Museum in Moate.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73837,
+                        53.402855
+                  ]
+            },
+            {
+                  "name": "Dún na Sí",
+                  "text": "Dún na Sí ist ein Museum in der Stadt Moate.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73883,
+                        53.401854
+                  ]
+            },
+            {
+                  "name": "Tuar Ard Theatre",
+                  "text": "Das Tuar Ard Theatre ist ein Kultur- und Theaterort in Moate.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.725225,
+                        53.396066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "A St. Mary's Church of Ireland egy istentiszteleti hely Moate városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727177,
+                        53.396028
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "A Szent Patrik-templom egy helyi istentiszteleti hely Moate-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.723225,
+                        53.395519
+                  ]
+            },
+            {
+                  "name": "Carmelite Friary, Moate",
+                  "text": "A kármelita kolostor egy vallási épület Moate városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.713517,
+                        53.397302
+                  ]
+            },
+            {
+                  "name": "Dún na Sí Heritage Centre",
+                  "text": "A Dún na Sí Örökségvédelmi Központ egy múzeum Moate városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73837,
+                        53.402855
+                  ]
+            },
+            {
+                  "name": "Dún na Sí",
+                  "text": "A Dún na Sí egy múzeum, amely Moate városában található.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73883,
+                        53.401854
+                  ]
+            },
+            {
+                  "name": "Tuar Ard Theatre",
+                  "text": "A Tuar Ard Színház egy kulturális és színházi helyszín Moate-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.725225,
+                        53.396066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "Biserica Irlandei Sfânta Maria este un lăcaș de cult situat în Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727177,
+                        53.396028
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Biserica Sfântul Patrick este un lăcaș de cult local situat în Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.723225,
+                        53.395519
+                  ]
+            },
+            {
+                  "name": "Carmelite Friary, Moate",
+                  "text": "Mănăstirea Carmelită este o clădire religioasă situată în orașul Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.713517,
+                        53.397302
+                  ]
+            },
+            {
+                  "name": "Dún na Sí Heritage Centre",
+                  "text": "Centrul de Patrimoniu Dún na Sí este un muzeu situat în Moate.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73837,
+                        53.402855
+                  ]
+            },
+            {
+                  "name": "Dún na Sí",
+                  "text": "Dún na Sí este un muzeu localizat în orașul Moate.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73883,
+                        53.401854
+                  ]
+            },
+            {
+                  "name": "Tuar Ard Theatre",
+                  "text": "Teatrul Tuar Ard este un spațiu cultural și teatral din Moate.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.725225,
+                        53.396066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "St. Mary's Church of Ireland is a place of worship located in Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727177,
+                        53.396028
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "St. Patrick's Church is a local place of worship situated in Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.723225,
+                        53.395519
+                  ]
+            },
+            {
+                  "name": "Carmelite Friary, Moate",
+                  "text": "The Carmelite Friary is a religious building located in the town of Moate.",
+                  "category": "religious",
+                  "coords": [
+                        -7.713517,
+                        53.397302
+                  ]
+            },
+            {
+                  "name": "Dún na Sí Heritage Centre",
+                  "text": "The Dún na Sí Heritage Centre is a museum situated in Moate.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73837,
+                        53.402855
+                  ]
+            },
+            {
+                  "name": "Dún na Sí",
+                  "text": "Dún na Sí is a museum located in the town of Moate.",
+                  "category": "museum",
+                  "coords": [
+                        -7.73883,
+                        53.401854
+                  ]
+            },
+            {
+                  "name": "Tuar Ard Theatre",
+                  "text": "Tuar Ard Theatre is a cultural and theatrical venue in Moate.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.725225,
+                        53.396066
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Moate", hu: "Moate", ro: "Moate", en: "Moate" },
@@ -19659,7 +23925,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-moate-cities-v2.webp",
   },
   {
-    id: "ireland-moville-cities-v2",
+    id: "ireland-moville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St Columb's Church",
+                  "text": "Die St Columb's Church ist eine lokale Kultstätte in Moville.",
+                  "category": "religious",
+                  "coords": [
+                        -7.033602,
+                        55.190879
+                  ]
+            },
+            {
+                  "name": "Moville Presbyterian Church",
+                  "text": "Diese presbyterianische Kirche dient der lokalen Gemeinde in Moville.",
+                  "category": "religious",
+                  "coords": [
+                        -7.044594,
+                        55.188796
+                  ]
+            },
+            {
+                  "name": "Moville Old Church and Cross",
+                  "text": "Die Moville Old Church and Cross ist eine archäologische Stätte, die die lokale Geschichte bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.061119,
+                        55.188907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St Columb's Church",
+                  "text": "A St Columb's Church egy helyi istentiszteleti hely Moville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.033602,
+                        55.190879
+                  ]
+            },
+            {
+                  "name": "Moville Presbyterian Church",
+                  "text": "Ez a presbiteriánus templom a helyi közösséget szolgálja Moville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.044594,
+                        55.188796
+                  ]
+            },
+            {
+                  "name": "Moville Old Church and Cross",
+                  "text": "A Moville Old Church and Cross egy régészeti lelőhely, amely a helyi történelmet őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -7.061119,
+                        55.188907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St Columb's Church",
+                  "text": "Biserica Sf. Columba este un lăcaș de cult local situat în Moville.",
+                  "category": "religious",
+                  "coords": [
+                        -7.033602,
+                        55.190879
+                  ]
+            },
+            {
+                  "name": "Moville Presbyterian Church",
+                  "text": "Această biserică prezbiteriană servește comunitatea locală din Moville.",
+                  "category": "religious",
+                  "coords": [
+                        -7.044594,
+                        55.188796
+                  ]
+            },
+            {
+                  "name": "Moville Old Church and Cross",
+                  "text": "Vechea biserică și crucea din Moville reprezintă un sit arheologic care păstrează istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        -7.061119,
+                        55.188907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Columb's Church",
+                  "text": "St Columb's Church is a local place of worship situated in Moville.",
+                  "category": "religious",
+                  "coords": [
+                        -7.033602,
+                        55.190879
+                  ]
+            },
+            {
+                  "name": "Moville Presbyterian Church",
+                  "text": "This Presbyterian church serves the local community in Moville.",
+                  "category": "religious",
+                  "coords": [
+                        -7.044594,
+                        55.188796
+                  ]
+            },
+            {
+                  "name": "Moville Old Church and Cross",
+                  "text": "The Moville Old Church and Cross is an archaeological site preserving local history.",
+                  "category": "historical",
+                  "coords": [
+                        -7.061119,
+                        55.188907
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Moville", hu: "Moville", ro: "Moville", en: "Moville" },
@@ -20199,7 +24582,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-new-ross-cities-v2.webp",
   },
   {
-    id: "ireland-portarlington-cities-v2",
+    id: "ireland-portarlington-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Die Saint Michael's Church ist ein Gotteshaus in Portarlington.",
+                  "category": "religious",
+                  "coords": [
+                        -7.203245,
+                        53.160578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "A Szent Mihály-templom egy istentiszteleti hely Portarlingtonban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.203245,
+                        53.160578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Biserica Sfântul Mihail este un lăcaș de cult situat în Portarlington.",
+                  "category": "religious",
+                  "coords": [
+                        -7.203245,
+                        53.160578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Michael's Church",
+                  "text": "Saint Michael's Church is a place of worship located in Portarlington.",
+                  "category": "religious",
+                  "coords": [
+                        -7.203245,
+                        53.160578
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Portarlington", hu: "Portarlington", ro: "Portarlington", en: "Portarlington" },
@@ -20244,7 +24672,196 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-portarlington-cities-v2.webp",
   },
   {
-    id: "ireland-rathdrum-cities-v2",
+    id: "ireland-rathdrum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Virgins Well",
+                  "text": "Virgins Well ist eine natürliche Quelle in Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.210259,
+                        52.91024
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "Die Saint Saviour's Church ist eine lokale Kultstätte in Rathdrum.",
+                  "category": "religious",
+                  "coords": [
+                        -6.231323,
+                        52.930367
+                  ]
+            },
+            {
+                  "name": "Avondale House",
+                  "text": "Avondale House ist eine bekannte Touristenattraktion in Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222481,
+                        52.913358
+                  ]
+            },
+            {
+                  "name": "Splash Valley Aqua Park",
+                  "text": "Der Splash Valley Aqua Park ist ein lokaler Wasserpark in Rathdrum.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.227676,
+                        52.940622
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "Der Viewing Tower bietet eine attraktive Aussicht in Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223802,
+                        52.911918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Virgins Well",
+                  "text": "A Virgins Well egy természetes forrás Rathdrumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.210259,
+                        52.91024
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "A Saint Saviour's Church egy helyi istentiszteleti hely Rathdrumban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.231323,
+                        52.930367
+                  ]
+            },
+            {
+                  "name": "Avondale House",
+                  "text": "Az Avondale House egy ismert turisztikai látványosság Rathdrumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222481,
+                        52.913358
+                  ]
+            },
+            {
+                  "name": "Splash Valley Aqua Park",
+                  "text": "A Splash Valley Aqua Park egy helyi vízi park Rathdrumban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.227676,
+                        52.940622
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "A Viewing Tower vonzó kilátást nyújt Rathdrumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223802,
+                        52.911918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Virgins Well",
+                  "text": "Virgins Well este un izvor natural din Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.210259,
+                        52.91024
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "Biserica Saint Saviour este un lăcaș de cult local din Rathdrum.",
+                  "category": "religious",
+                  "coords": [
+                        -6.231323,
+                        52.930367
+                  ]
+            },
+            {
+                  "name": "Avondale House",
+                  "text": "Avondale House este o atracție turistică cunoscută în Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222481,
+                        52.913358
+                  ]
+            },
+            {
+                  "name": "Splash Valley Aqua Park",
+                  "text": "Splash Valley Aqua Park este un parc acvatic local din Rathdrum.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.227676,
+                        52.940622
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "Turnul de observare oferă o priveliște atractivă în Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223802,
+                        52.911918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Virgins Well",
+                  "text": "Virgins Well is a natural spring in Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.210259,
+                        52.91024
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "Saint Saviour's Church is a local place of worship in Rathdrum.",
+                  "category": "religious",
+                  "coords": [
+                        -6.231323,
+                        52.930367
+                  ]
+            },
+            {
+                  "name": "Avondale House",
+                  "text": "Avondale House is a known tourist attraction in Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.222481,
+                        52.913358
+                  ]
+            },
+            {
+                  "name": "Splash Valley Aqua Park",
+                  "text": "Splash Valley Aqua Park is a local water park in Rathdrum.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.227676,
+                        52.940622
+                  ]
+            },
+            {
+                  "name": "Viewing Tower",
+                  "text": "The Viewing Tower provides an attractive viewpoint in Rathdrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.223802,
+                        52.911918
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Rathdrum", hu: "Rathdrum", ro: "Rathdrum", en: "Rathdrum" },

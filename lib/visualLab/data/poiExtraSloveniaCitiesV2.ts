@@ -8561,7 +8561,124 @@ imageHint: "Brezice Castle and historic town center",
     },
     image: "/poi-images/slovenia-brezice-cities-v2.webp",
 },  {
-    id: "slovenia-skofja-loka-cities-v2",
+    id: "slovenia-skofja-loka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loški muzej",
+                  "text": "Das Loški muzej ist ein Museum in Škofja Loka.",
+                  "category": "museum",
+                  "coords": [
+                        14.305231,
+                        46.165362
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "Stari grad ist eine historische Burg in Škofja Loka.",
+                  "category": "castle",
+                  "coords": [
+                        14.287083,
+                        46.163074
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "Kužno znamenje ist ein Denkmal in Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.306868,
+                        46.165104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loški muzej",
+                  "text": "A Loški muzej egy múzeum Škofja Lokában.",
+                  "category": "museum",
+                  "coords": [
+                        14.305231,
+                        46.165362
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "A Stari grad egy történelmi vár Škofja Lokában.",
+                  "category": "castle",
+                  "coords": [
+                        14.287083,
+                        46.163074
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "A Kužno znamenje egy emlékmű Škofja Lokában.",
+                  "category": "historical",
+                  "coords": [
+                        14.306868,
+                        46.165104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loški muzej",
+                  "text": "Loški muzej este un muzeu situat în Škofja Loka.",
+                  "category": "museum",
+                  "coords": [
+                        14.305231,
+                        46.165362
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "Stari grad este un castel istoric situat în Škofja Loka.",
+                  "category": "castle",
+                  "coords": [
+                        14.287083,
+                        46.163074
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "Kužno znamenje este un monument în Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.306868,
+                        46.165104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loški muzej",
+                  "text": "Loški muzej is a museum located in Škofja Loka.",
+                  "category": "museum",
+                  "coords": [
+                        14.305231,
+                        46.165362
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "Stari grad is a historic castle situated in Škofja Loka.",
+                  "category": "castle",
+                  "coords": [
+                        14.287083,
+                        46.163074
+                  ]
+            },
+            {
+                  "name": "Kužno znamenje",
+                  "text": "Kužno znamenje is a monument in Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.306868,
+                        46.165104
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Škofja Loka", hu: "Škofja Loka", ro: "Škofja Loka", en: "Škofja Loka"},
@@ -8607,7 +8724,88 @@ imageHint: "Skofja Loka old town and Loka castle",
     },
     image: "/poi-images/slovenia-skofja-loka-cities-v2.webp",
 },  {
-    id: "slovenia-ajdovscina-cities-v2",
+    id: "slovenia-ajdovscina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dvorec Petergalovše (Petrogalli)",
+                  "text": "Dvorec Petergalovše (Petrogalli) ist ein historisches Schlossanwesen in Ajdovščina.",
+                  "category": "castle",
+                  "coords": [
+                        13.870023,
+                        45.885702
+                  ]
+            },
+            {
+                  "name": "Fužine ob Hublju",
+                  "text": "Fužine ob Hublju sind historische Industrieruinen am Fluss Hubelj in Ajdovščina.",
+                  "category": "historical",
+                  "coords": [
+                        13.910089,
+                        45.902352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dvorec Petergalovše (Petrogalli)",
+                  "text": "A Dvorec Petergalovše (Petrogalli) egy történelmi kastélybirtok Ajdovščinában.",
+                  "category": "castle",
+                  "coords": [
+                        13.870023,
+                        45.885702
+                  ]
+            },
+            {
+                  "name": "Fužine ob Hublju",
+                  "text": "A Fužine ob Hublju történelmi ipari romok Ajdovščina városában, a Hubelj folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        13.910089,
+                        45.902352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dvorec Petergalovše (Petrogalli)",
+                  "text": "Dvorec Petergalovše (Petrogalli) este un conac și castel istoric situat în Ajdovščina.",
+                  "category": "castle",
+                  "coords": [
+                        13.870023,
+                        45.885702
+                  ]
+            },
+            {
+                  "name": "Fužine ob Hublju",
+                  "text": "Fužine ob Hublju reprezintă ruine industriale istorice situate de-a lungul râului Hubelj în Ajdovščina.",
+                  "category": "historical",
+                  "coords": [
+                        13.910089,
+                        45.902352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dvorec Petergalovše (Petrogalli)",
+                  "text": "Dvorec Petergalovše (Petrogalli) is a historic castle estate located in Ajdovščina.",
+                  "category": "castle",
+                  "coords": [
+                        13.870023,
+                        45.885702
+                  ]
+            },
+            {
+                  "name": "Fužine ob Hublju",
+                  "text": "Fužine ob Hublju are historic industrial ruins situated along the Hubelj river in Ajdovščina.",
+                  "category": "historical",
+                  "coords": [
+                        13.910089,
+                        45.902352
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Ajdovščina", hu: "Ajdovščina", ro: "Ajdovščina", en: "Ajdovščina"},
@@ -10510,7 +10708,52 @@ imageHint: "Idrija town and Gewerkenegg Castle",
     },
     image: "/poi-images/slovenia-idrija-cities-v2.webp",
 },  {
-    id: "slovenia-crnomelj-cities-v2",
+    id: "slovenia-crnomelj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerkev sv. Petra",
+                  "text": "Cerkev sv. Petra ist eine lokale Kultstätte in Črnomelj.",
+                  "category": "religious",
+                  "coords": [
+                        15.192783,
+                        45.570231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerkev sv. Petra",
+                  "text": "A Cerkev sv. Petra egy vallási épület Črnomelj városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.192783,
+                        45.570231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerkev sv. Petra",
+                  "text": "Cerkev sv. Petra este un lăcaș de cult situat în Črnomelj.",
+                  "category": "religious",
+                  "coords": [
+                        15.192783,
+                        45.570231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerkev sv. Petra",
+                  "text": "Cerkev sv. Petra is a local place of worship situated in Črnomelj.",
+                  "category": "religious",
+                  "coords": [
+                        15.192783,
+                        45.570231
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Črnomelj", hu: "Črnomelj", ro: "Črnomelj", en: "Črnomelj"},
@@ -14033,6 +14276,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.126157,
                         46.592793
                   ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "Grad Muta umfasst historische Ruinen in der Nähe von Vuzenica.",
+                  "category": "historical",
+                  "coords": [
+                        15.150293,
+                        46.612632
+                  ]
             }
       ],
       "hu": [
@@ -14052,6 +14304,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.126157,
                         46.592793
+                  ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "A Grad Muta történelmi romjai Vuzenica közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        15.150293,
+                        46.612632
                   ]
             }
       ],
@@ -14073,6 +14334,15 @@ imageHint: "Crnomelj town center at river confluence",
                         15.126157,
                         46.592793
                   ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "Grad Muta prezintă ruine istorice situate în apropiere de Vuzenica.",
+                  "category": "historical",
+                  "coords": [
+                        15.150293,
+                        46.612632
+                  ]
             }
       ],
       "en": [
@@ -14092,6 +14362,15 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.126157,
                         46.592793
+                  ]
+            },
+            {
+                  "name": "Grad",
+                  "text": "Grad Muta features historic ruins located near Vuzenica.",
+                  "category": "historical",
+                  "coords": [
+                        15.150293,
+                        46.612632
                   ]
             }
       ]

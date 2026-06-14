@@ -7509,7 +7509,124 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La ville est mentionnée pour la première fois en 1127 dans les chroniques de la Rus' de Kiev.", "Le Vieux Château a été fondé au XIe siècle, puis reconstruit en style Renaissance sous Étienne Báthory.", "Étienne Báthory, prince de Transylvanie et roi de Pologne, est décédé à Grodno en 1586.", "L'église Saint-Boris-et-Saint-Gleb (Kalotscha) du XIIe siècle est l'un des plus anciens bâtiments de Biélorussie.", "La cathédrale Saint-François-Xavier a été construite au XVIIe siècle comme église jésuite.", "La seule synagogue encore en activité dans la ville est l'une des plus grandes du pays."],
     }, image: "/poi-images/belarus-grodno-cities-v2.webp"},
   {
-    id: "belarus-babruysk-cities-v2",
+    id: "belarus-babruysk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Сядзіба 1912 года",
+                  "text": "Сядзіба 1912 года ist ein historisches Anwesen und eine Touristenattraktion aus dem Jahr 1912 in Babruysk.",
+                  "category": "landmark",
+                  "coords": [
+                        29.221866,
+                        53.140712
+                  ]
+            },
+            {
+                  "name": "290 ВМЦ УС РБ (расфарміраваны)",
+                  "text": "Dieser Ort markiert den ehemaligen Standort einer aufgelösten militärischen Einrichtung in Babruysk.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250088,
+                        53.135613
+                  ]
+            },
+            {
+                  "name": "Будынак банка пач.20ст.",
+                  "text": "Diese Attraktion in Babruysk ist ein historisches Bankgebäude aus dem frühen 20. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        29.224496,
+                        53.136434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Сядзіба 1912 года",
+                  "text": "A Сядзіба 1912 года egy 1912-ből származó történelmi birtok és látványosság Babrujszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.221866,
+                        53.140712
+                  ]
+            },
+            {
+                  "name": "290 ВМЦ УС РБ (расфарміраваны)",
+                  "text": "Ez a hely egy egykori, már feloszlatott katonai létesítmény emlékét őrzi Babrujszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250088,
+                        53.135613
+                  ]
+            },
+            {
+                  "name": "Будынак банка пач.20ст.",
+                  "text": "Ez a babrujszki látványosság egy a 20. század elején épült történelmi banképület.",
+                  "category": "landmark",
+                  "coords": [
+                        29.224496,
+                        53.136434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Сядзіба 1912 года",
+                  "text": "Сядзіба 1912 года este o moșie istorică și o atracție turistică datând din 1912 în Babruysk.",
+                  "category": "landmark",
+                  "coords": [
+                        29.221866,
+                        53.140712
+                  ]
+            },
+            {
+                  "name": "290 ВМЦ УС РБ (расфарміраваны)",
+                  "text": "Acest loc marchează fosta locație a unei facilități militare desființate din Babruysk.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250088,
+                        53.135613
+                  ]
+            },
+            {
+                  "name": "Будынак банка пач.20ст.",
+                  "text": "Această atracție din Babruysk este o clădire istorică a unei bănci, construită la începutul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        29.224496,
+                        53.136434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Сядзіба 1912 года",
+                  "text": "Сядзіба 1912 года is a historical estate and tourist attraction dating back to 1912 in Babruysk.",
+                  "category": "landmark",
+                  "coords": [
+                        29.221866,
+                        53.140712
+                  ]
+            },
+            {
+                  "name": "290 ВМЦ УС РБ (расфарміраваны)",
+                  "text": "This site marks the former location of a disbanded military facility in Babruysk.",
+                  "category": "landmark",
+                  "coords": [
+                        29.250088,
+                        53.135613
+                  ]
+            },
+            {
+                  "name": "Будынак банка пач.20ст.",
+                  "text": "This attraction in Babruysk is a historical bank building constructed in the early 20th century.",
+                  "category": "landmark",
+                  "coords": [
+                        29.224496,
+                        53.136434
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Babrujsk", hu: "Babrujszk", ro: "Babruisk", en: "Babruysk"},
@@ -9678,7 +9795,304 @@ export const belarusCitiesV2: POI[] = [
       fr: ["Fondée en 1102 par le prince Boris de Polotsk", "Napoléon perdit environ 30 000 hommes lors de la bataille de 1812", "La Borisov Arena au design 'percé' a ouvert en 2014", "Important centre de l'industrie militaire", "Le BATE Borissov est le club le plus titré avec plus de 15 titres", "Entourée de forêts denses alimentant l'industrie du bois"],
     }, image: "/poi-images/belarus-barysaw-cities-v2.webp"},
   {
-    id: "belarus-pinsk-cities-v2",
+    id: "belarus-pinsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of Belarusian Palessie",
+                  "text": "Das Museum des belarussischen Polesien ist ein Museum in Pinsk, das sich der Geschichte und Kultur der Region Polesien widmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.10397,
+                        52.111143
+                  ]
+            },
+            {
+                  "name": "Царква Святой Барбары (1786)",
+                  "text": "Die St.-Barbara-Kirche aus dem Jahr 1786 ist eine bemerkenswerte Sehenswürdigkeit in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.11069,
+                        52.118463
+                  ]
+            },
+            {
+                  "name": "Theological seminary",
+                  "text": "Das theologische Seminar ist eine lokale Sehenswürdigkeit in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108455,
+                        52.112604
+                  ]
+            },
+            {
+                  "name": "Баявы карабель «БК-92»",
+                  "text": "Das Kriegsschiff \"BK-92\" ist ein historisches Denkmal in Pinsk.",
+                  "category": "historical",
+                  "coords": [
+                        26.122759,
+                        52.118492
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Карла Барамеуша (1782)",
+                  "text": "Die Kirche des Heiligen Karl Borromäus aus dem Jahr 1782 ist eine historische Kirche und Sehenswürdigkeit in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.115276,
+                        52.120116
+                  ]
+            },
+            {
+                  "name": "Сінагога «Канфедэрацкая» (1889)",
+                  "text": "Die \"Konföderierte\" Synagoge aus dem Jahr 1889 ist eine historische Sehenswürdigkeit in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.112263,
+                        52.117743
+                  ]
+            },
+            {
+                  "name": "Артилерийская 85-мм дивизионная пушка Д-44",
+                  "text": "Die 85-mm-Divisionskanone D-44 ist eine Artillerie-Sehenswürdigkeit in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.123881,
+                        52.120279
+                  ]
+            },
+            {
+                  "name": "Пінск 1097",
+                  "text": "\"Pinsk 1097\" ist eine Sehenswürdigkeit, die an die frühe Geschichte der Stadt Pinsk erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        26.067357,
+                        52.11985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of Belarusian Palessie",
+                  "text": "A Fehérorosz Polézia Múzeuma egy pinszki múzeum, amely a poléziai régió történelmére és kultúrájára fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        26.10397,
+                        52.111143
+                  ]
+            },
+            {
+                  "name": "Царква Святой Барбары (1786)",
+                  "text": "Az 1786-ból származó Szent Borbála-templom egy nevezetes látványosság Pinszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        26.11069,
+                        52.118463
+                  ]
+            },
+            {
+                  "name": "Theological seminary",
+                  "text": "A teológiai szeminárium egy helyi látványosság Pinszk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108455,
+                        52.112604
+                  ]
+            },
+            {
+                  "name": "Баявы карабель «БК-92»",
+                  "text": "A „BK-92” hadihajó egy történelmi emlékmű Pinszkben.",
+                  "category": "historical",
+                  "coords": [
+                        26.122759,
+                        52.118492
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Карла Барамеуша (1782)",
+                  "text": "Az 1782-ből származó Borromeo Szent Károly-templom egy történelmi templom és látványosság Pinszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        26.115276,
+                        52.120116
+                  ]
+            },
+            {
+                  "name": "Сінагога «Канфедэрацкая» (1889)",
+                  "text": "Az 1889-ben épült „Konföderációs” zsinagóga egy történelmi látványosság Pinszk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.112263,
+                        52.117743
+                  ]
+            },
+            {
+                  "name": "Артилерийская 85-мм дивизионная пушка Д-44",
+                  "text": "A 85 mm-es D-44-es hadosztályágyú egy tüzérségi látványosság Pinszkben.",
+                  "category": "landmark",
+                  "coords": [
+                        26.123881,
+                        52.120279
+                  ]
+            },
+            {
+                  "name": "Пінск 1097",
+                  "text": "A \"Pinszk 1097\" egy látványosság, amely Pinszk városának korai történelmére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.067357,
+                        52.11985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of Belarusian Palessie",
+                  "text": "Muzeul Poloniei Bieloruse este un muzeu din Pinsk dedicat istoriei și culturii regiunii Polesia.",
+                  "category": "museum",
+                  "coords": [
+                        26.10397,
+                        52.111143
+                  ]
+            },
+            {
+                  "name": "Царква Святой Барбары (1786)",
+                  "text": "Biserica Sfânta Barbara, datând din 1786, este o atracție notabilă în Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.11069,
+                        52.118463
+                  ]
+            },
+            {
+                  "name": "Theological seminary",
+                  "text": "Seminarul teologic este o atracție locală situată în Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108455,
+                        52.112604
+                  ]
+            },
+            {
+                  "name": "Баявы карабель «БК-92»",
+                  "text": "Nava de război „BK-92” este un monument istoric situat în Pinsk.",
+                  "category": "historical",
+                  "coords": [
+                        26.122759,
+                        52.118492
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Карла Барамеуша (1782)",
+                  "text": "Biserica Sfântul Carol Borromeu, datând din 1782, este o biserică istorică și o atracție în Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.115276,
+                        52.120116
+                  ]
+            },
+            {
+                  "name": "Сінагога «Канфедэрацкая» (1889)",
+                  "text": "Sinagoga „Confederată”, construită în 1889, este o atracție istorică din Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.112263,
+                        52.117743
+                  ]
+            },
+            {
+                  "name": "Артилерийская 85-мм дивизионная пушка Д-44",
+                  "text": "Tunul divizionar de 85 mm D-44 este o atracție de artilerie situată în Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.123881,
+                        52.120279
+                  ]
+            },
+            {
+                  "name": "Пінск 1097",
+                  "text": "„Pinsk 1097” este o atracție care comemorează istoria timpurie a orașului Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.067357,
+                        52.11985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Belarusian Palessie",
+                  "text": "The Museum of Belarusian Palessie is a museum in Pinsk focused on the history and culture of the Polesia region.",
+                  "category": "museum",
+                  "coords": [
+                        26.10397,
+                        52.111143
+                  ]
+            },
+            {
+                  "name": "Царква Святой Барбары (1786)",
+                  "text": "St. Barbara's Church, dating back to 1786, is a notable attraction in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.11069,
+                        52.118463
+                  ]
+            },
+            {
+                  "name": "Theological seminary",
+                  "text": "The theological seminary is a local attraction located in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108455,
+                        52.112604
+                  ]
+            },
+            {
+                  "name": "Баявы карабель «БК-92»",
+                  "text": "The \"BK-92\" warship is a historic monument situated in Pinsk.",
+                  "category": "historical",
+                  "coords": [
+                        26.122759,
+                        52.118492
+                  ]
+            },
+            {
+                  "name": "Касцёл Святога Карла Барамеуша (1782)",
+                  "text": "The Church of St. Charles Borromeo, dating to 1782, is a historic church and attraction in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.115276,
+                        52.120116
+                  ]
+            },
+            {
+                  "name": "Сінагога «Канфедэрацкая» (1889)",
+                  "text": "The \"Confederate\" Synagogue, built in 1889, is a historic attraction in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.112263,
+                        52.117743
+                  ]
+            },
+            {
+                  "name": "Артилерийская 85-мм дивизионная пушка Д-44",
+                  "text": "The 85-mm divisional gun D-44 is an artillery attraction located in Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.123881,
+                        52.120279
+                  ]
+            },
+            {
+                  "name": "Пінск 1097",
+                  "text": "\"Pinsk 1097\" is an attraction commemorating the early history of the city of Pinsk.",
+                  "category": "landmark",
+                  "coords": [
+                        26.067357,
+                        52.11985
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Pinsk", hu: "Pinszk", ro: "Pinsk", en: "Pinsk"},
@@ -11307,7 +11721,124 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La ville est mentionnée pour la première fois en 1155 dans les chroniques du grand-prince Iouri Dolgorouki de Kiev", "La raffinerie de pétrole de Mozyr a commencé ses opérations en 1975 et a une capacité de dizaines de milliers de barils par jour", "Aux alentours de la ville, le long de la rivière Pripyat, se trouvent de vastes zones naturelles protégées", "En raison du relief, fait unique dans le pays, une piste de ski fonctionne également ici", "La reconstitution du château avec ses tours en bois a été réalisée pour le 850e anniversaire de la fondation de la ville", "Le port de la ville est l'une des stations de fret les plus importantes sur la rivière Pripyat"],
     }, image: "/poi-images/belarus-mozyr-cities-v2.webp"},
   {
-    id: "belarus-soligorsk-cities-v2",
+    id: "belarus-soligorsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Касцёл Святога Францішка (2006)",
+                  "text": "Dieses moderne, dem Heiligen Franziskus gewidmete Gotteshaus befindet sich in Soligorsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.536139,
+                        52.791829
+                  ]
+            },
+            {
+                  "name": "70-гадоў Перамогі ў ВАВ",
+                  "text": "Dieses Denkmal in Soligorsk erinnert an den 70. Jahrestag des Sieges im Großen Vaterländischen Krieg.",
+                  "category": "historical",
+                  "coords": [
+                        27.545641,
+                        52.77898
+                  ]
+            },
+            {
+                  "name": "Будынак 1958г.",
+                  "text": "Dieses historische Gebäude aus dem Jahr 1958 ist eine bemerkenswerte lokale Attraktion in Soligorsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543292,
+                        52.79582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Касцёл Святога Францішка (2006)",
+                  "text": "Ez a Szent Ferencnek szentelt modern istentiszteleti hely Szalihorszkban található.",
+                  "category": "religious",
+                  "coords": [
+                        27.536139,
+                        52.791829
+                  ]
+            },
+            {
+                  "name": "70-гадоў Перамогі ў ВАВ",
+                  "text": "Ez a szalihorszki emlékmű a Nagy Honvédő Háború győzelmének 70. évfordulójának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.545641,
+                        52.77898
+                  ]
+            },
+            {
+                  "name": "Будынак 1958г.",
+                  "text": "Ez az 1958-ból származó történelmi épület egy figyelemre méltó helyi látványosság Szalihorszkban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543292,
+                        52.79582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Касцёл Святога Францішка (2006)",
+                  "text": "Dedicat Sfântului Francisc, acest lăcaș de cult modern este situat în Soligorsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.536139,
+                        52.791829
+                  ]
+            },
+            {
+                  "name": "70-гадоў Перамогі ў ВАВ",
+                  "text": "Acest monument din Soligorsk comemorează cea de-a 70-a aniversare a victoriei în Marele Război pentru Apărarea Patriei.",
+                  "category": "historical",
+                  "coords": [
+                        27.545641,
+                        52.77898
+                  ]
+            },
+            {
+                  "name": "Будынак 1958г.",
+                  "text": "Această clădire istorică din 1958 este o atracție locală notabilă în Soligorsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543292,
+                        52.79582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Касцёл Святога Францішка (2006)",
+                  "text": "Dedicated to St. Francis, this modern place of worship is located in Soligorsk.",
+                  "category": "religious",
+                  "coords": [
+                        27.536139,
+                        52.791829
+                  ]
+            },
+            {
+                  "name": "70-гадоў Перамогі ў ВАВ",
+                  "text": "This monument in Soligorsk commemorates the 70th anniversary of victory in the Great Patriotic War.",
+                  "category": "historical",
+                  "coords": [
+                        27.545641,
+                        52.77898
+                  ]
+            },
+            {
+                  "name": "Будынак 1958г.",
+                  "text": "This historic building from 1958 is a notable local attraction in Soligorsk.",
+                  "category": "landmark",
+                  "coords": [
+                        27.543292,
+                        52.79582
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Salihorsk", hu: "Szalihorszk", ro: "Salihorsk", en: "Soligorsk"},
@@ -11352,7 +11883,304 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La première pierre de la ville a été officiellement posée en 1958 lors du début de l'exploitation minière.", "L'entreprise Belaruskali fournit environ un cinquième de l'approvisionnement mondial en potasse.", "La superficie du réservoir de Salihorsk est de 23,1 kilomètres carrés.", "L'équipe de football locale, le Chakhtior Salihorsk, est plusieurs fois championne de Biélorussie.", "Les mines descendent par endroits à plus de 1000 mètres de profondeur.", "La population de la ville dépasse les 100 000 habitants et elle est l'une des localités ayant le salaire moyen le plus élevé du pays."],
     }, image: "/poi-images/belarus-soligorsk-cities-v2.webp"},
   {
-    id: "belarus-lida-cities-v2",
+    id: "belarus-lida-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lida Historical and Art Museum",
+                  "text": "Das Historische und Kunstmuseum Lida zeigt die reiche Regionalgeschichte und das kulturelle Erbe von Lida.",
+                  "category": "museum",
+                  "coords": [
+                        25.295913,
+                        53.891605
+                  ]
+            },
+            {
+                  "name": "Lida Brewery Museum",
+                  "text": "Das Lida-Brauereimuseum widmet sich der Geschichte und den Traditionen des lokalen Brauwesens in Lida.",
+                  "category": "museum",
+                  "coords": [
+                        25.303218,
+                        53.897049
+                  ]
+            },
+            {
+                  "name": "Lida castle",
+                  "text": "Die Burg von Lida ist eine mittelalterliche Festung, die ursprünglich vom litauischen Großherzog Gediminas erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        25.302867,
+                        53.887225
+                  ]
+            },
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "Die Heilig-Kreuz-Kirche ist eine markante katholische Barockkirche in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.303297,
+                        53.889288
+                  ]
+            },
+            {
+                  "name": "Zooland",
+                  "text": "Zooland ist ein lokaler Zoo in Lida mit verschiedenen Tierausstellungen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.278059,
+                        53.877047
+                  ]
+            },
+            {
+                  "name": "Adam Mickiewicz monument",
+                  "text": "Das Adam-Mickiewicz-Denkmal ist eine bemerkenswerte Attraktion zu Ehren des berühmten Dichters in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.298258,
+                        53.895789
+                  ]
+            },
+            {
+                  "name": "Su-25",
+                  "text": "Die Su-25-Ausstellung ist eine Luftfahrtattraktion in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.307549,
+                        53.890125
+                  ]
+            },
+            {
+                  "name": "St. Barbara Chapel",
+                  "text": "Die St.-Barbara-Kapelle ist eine historische religiöse Sehenswürdigkeit in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.306323,
+                        53.881478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lida Historical and Art Museum",
+                  "text": "A Lidai Történeti és Művészeti Múzeum Lida gazdag regionális történelmét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.295913,
+                        53.891605
+                  ]
+            },
+            {
+                  "name": "Lida Brewery Museum",
+                  "text": "A Lidai Sörfőzde Múzeum a helyi sörfőzés történetét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.303218,
+                        53.897049
+                  ]
+            },
+            {
+                  "name": "Lida castle",
+                  "text": "A lidai vár egy középkori erődítmény, amelyet eredetileg Gediminas litván nagyfejedelem építtetett.",
+                  "category": "landmark",
+                  "coords": [
+                        25.302867,
+                        53.887225
+                  ]
+            },
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "A Szent Kereszt Felmagasztalása templom egy lenyűgöző katolikus barokk templom Lidában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.303297,
+                        53.889288
+                  ]
+            },
+            {
+                  "name": "Zooland",
+                  "text": "A Zooland egy helyi állatkert Lidában, ahol különböző állatokat mutatnak be.",
+                  "category": "recreational",
+                  "coords": [
+                        25.278059,
+                        53.877047
+                  ]
+            },
+            {
+                  "name": "Adam Mickiewicz monument",
+                  "text": "Az Adam Mickiewicz-emlékmű egy figyelemre méltó látványosság Lidában, amely a híres költőnek állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        25.298258,
+                        53.895789
+                  ]
+            },
+            {
+                  "name": "Su-25",
+                  "text": "A Szu-25-ös repülőgép kiállítása egy repülési látványosság Lidában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.307549,
+                        53.890125
+                  ]
+            },
+            {
+                  "name": "St. Barbara Chapel",
+                  "text": "A Szent Borbála-kápolna egy történelmi vallási látványosság Lidában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.306323,
+                        53.881478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lida Historical and Art Museum",
+                  "text": "Muzeul Istoric și de Artă Lida prezintă istoria regională bogată și moștenirea culturală a orașului Lida.",
+                  "category": "museum",
+                  "coords": [
+                        25.295913,
+                        53.891605
+                  ]
+            },
+            {
+                  "name": "Lida Brewery Museum",
+                  "text": "Muzeul Berăriei Lida este dedicat istoriei și tradițiilor fabricării locale a berii.",
+                  "category": "museum",
+                  "coords": [
+                        25.303218,
+                        53.897049
+                  ]
+            },
+            {
+                  "name": "Lida castle",
+                  "text": "Castelul Lida este o fortăreață medievală construită inițial de Marele Duce al Lituaniei, Gediminas.",
+                  "category": "landmark",
+                  "coords": [
+                        25.302867,
+                        53.887225
+                  ]
+            },
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "Biserica Înălțării Sfintei Cruci este o impresionantă biserică catolică barocă din Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.303297,
+                        53.889288
+                  ]
+            },
+            {
+                  "name": "Zooland",
+                  "text": "Zooland este o grădină zoologică locală din Lida, care prezintă diverse expoziții de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        25.278059,
+                        53.877047
+                  ]
+            },
+            {
+                  "name": "Adam Mickiewicz monument",
+                  "text": "Monumentul Adam Mickiewicz este o atracție notabilă din Lida care îl onorează pe celebrul poet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.298258,
+                        53.895789
+                  ]
+            },
+            {
+                  "name": "Su-25",
+                  "text": "Expoziția Su-25 este o atracție aviatică situată în Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.307549,
+                        53.890125
+                  ]
+            },
+            {
+                  "name": "St. Barbara Chapel",
+                  "text": "Capela Sfânta Barbara este o atracție religioasă istorică situată în Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.306323,
+                        53.881478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lida Historical and Art Museum",
+                  "text": "The Lida Historical and Art Museum showcases the rich regional history and cultural heritage of Lida.",
+                  "category": "museum",
+                  "coords": [
+                        25.295913,
+                        53.891605
+                  ]
+            },
+            {
+                  "name": "Lida Brewery Museum",
+                  "text": "The Lida Brewery Museum is dedicated to the history and traditions of local brewing in Lida.",
+                  "category": "museum",
+                  "coords": [
+                        25.303218,
+                        53.897049
+                  ]
+            },
+            {
+                  "name": "Lida castle",
+                  "text": "Lida Castle is a medieval fortress originally built by the Grand Duke of Lithuania, Gediminas.",
+                  "category": "landmark",
+                  "coords": [
+                        25.302867,
+                        53.887225
+                  ]
+            },
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "The Church of the Exaltation of the Holy Cross is a striking Catholic baroque church in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.303297,
+                        53.889288
+                  ]
+            },
+            {
+                  "name": "Zooland",
+                  "text": "Zooland is a local zoo in Lida featuring various animal exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        25.278059,
+                        53.877047
+                  ]
+            },
+            {
+                  "name": "Adam Mickiewicz monument",
+                  "text": "The Adam Mickiewicz monument is a notable attraction honoring the famous poet in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.298258,
+                        53.895789
+                  ]
+            },
+            {
+                  "name": "Su-25",
+                  "text": "The Su-25 display is an aviation attraction located in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.307549,
+                        53.890125
+                  ]
+            },
+            {
+                  "name": "St. Barbara Chapel",
+                  "text": "St. Barbara Chapel is a historic religious attraction situated in Lida.",
+                  "category": "landmark",
+                  "coords": [
+                        25.306323,
+                        53.881478
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Lida", hu: "Lida", ro: "Lida", en: "Lida"},
@@ -11739,7 +12567,376 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La ville a été fondée en 1958 dans le cadre d'un camp de construction de la jeunesse (Komsomol).", "La raffinerie de pétrole 'Naftan' a commencé sa production en 1963.", "Un pont enjambant la Dvina occidentale relie la ville à sa voisine Polotsk.", "De nombreux campus de l'Université d'État de Polotsk sont situés à Novopolotsk.", "L'oléoduc Droujba (Amitié) traverse le territoire de la ville.", "L'équipe locale de hockey sur glace, le HK Khimik Novopolotsk, participe régulièrement aux championnats."],
     }, image: "/poi-images/belarus-novopolotsk-cities-v2.webp"},
   {
-    id: "belarus-maladzyechna-cities-v2",
+    id: "belarus-maladzyechna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maladechna castle",
+                  "text": "Das Schloss von Maladsetschna ist eine historische Attraktion in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.872774,
+                        54.334863
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Arch ist ein Denkmal in der belarussischen Stadt Maladzyechna.",
+                  "category": "historical",
+                  "coords": [
+                        26.837801,
+                        54.305202
+                  ]
+            },
+            {
+                  "name": "Вайне 1812 года",
+                  "text": "Dieses Denkmal in Maladzyechna erinnert an den Krieg von 1812.",
+                  "category": "historical",
+                  "coords": [
+                        26.869874,
+                        54.330836
+                  ]
+            },
+            {
+                  "name": "Месца трыўмфальнай аркі (1929 г., знесена 1958-59 гг., ільвы/звон вывезена ў Бярэзінскае/Мінск)",
+                  "text": "Diese Ruinen in Maladzyechna markieren den ehemaligen Standort eines Triumphbogens.",
+                  "category": "historical",
+                  "coords": [
+                        26.829908,
+                        54.301214
+                  ]
+            },
+            {
+                  "name": "Стары чыгуначны мост (меркавана 1905 г., дзейнічае)",
+                  "text": "Diese alte Eisenbahnbrücke dient als schöner Aussichtspunkt in Maladzyechna.",
+                  "category": "natural",
+                  "coords": [
+                        26.856447,
+                        54.330737
+                  ]
+            },
+            {
+                  "name": "Былое месца паравой млына Дабравольскага (побач захаваны будынак агляду канец XIX ст.)",
+                  "text": "Diese Ruinen in Maladzyechna zeugen vom Standort der ehemaligen Dampfmühle von Dabrawolski.",
+                  "category": "historical",
+                  "coords": [
+                        26.858345,
+                        54.329231
+                  ]
+            },
+            {
+                  "name": "Чыгуначная станцыя (1907)",
+                  "text": "Der historische Bahnhof aus dem Jahr 1907 ist eine bekannte Attraktion in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839241,
+                        54.316009
+                  ]
+            },
+            {
+                  "name": "Мэмарыяльны комплекс «Шталаг 342»",
+                  "text": "Der Gedenkkomplex Stalag 342 ist eine bedeutende historische Attraktion in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.873442,
+                        54.322555
+                  ]
+            },
+            {
+                  "name": "Summer amphitheater",
+                  "text": "Das Sommeramphitheater ist ein beliebter Veranstaltungsort und eine Attraktion in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839685,
+                        54.302779
+                  ]
+            },
+            {
+                  "name": "Стараства (Польская забудова 1920—38-я гг.)",
+                  "text": "Das Gebäude der Starostei mit seiner polnischen Architektur ist eine Attraktion in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.836417,
+                        54.314207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maladechna castle",
+                  "text": "A maladzecsnai kastély egy történelmi látványosság Maladzyechna városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.872774,
+                        54.334863
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Az Arch egy emlékmű a fehéroroszországi Maladzyechna városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.837801,
+                        54.305202
+                  ]
+            },
+            {
+                  "name": "Вайне 1812 года",
+                  "text": "Ez a Maladzyechna városában található emlékmű az 1812-es háborúnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        26.869874,
+                        54.330836
+                  ]
+            },
+            {
+                  "name": "Месца трыўмфальнай аркі (1929 г., знесена 1958-59 гг., ільвы/звон вывезена ў Бярэзінскае/Мінск)",
+                  "text": "Ezek a romok egy egykori diadalív helyét jelölik Maladzyechna városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.829908,
+                        54.301214
+                  ]
+            },
+            {
+                  "name": "Стары чыгуначны мост (меркавана 1905 г., дзейнічае)",
+                  "text": "Ez a régi vasúti híd egy szép kilátópontként szolgál Maladzyechna városában.",
+                  "category": "natural",
+                  "coords": [
+                        26.856447,
+                        54.330737
+                  ]
+            },
+            {
+                  "name": "Былое месца паравой млына Дабравольскага (побач захаваны будынак агляду канец XIX ст.)",
+                  "text": "Ezek a romok a volt Dabravolszki-gőzmalom helyét jelzik Maladzyechna városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.858345,
+                        54.329231
+                  ]
+            },
+            {
+                  "name": "Чыгуначная станцыя (1907)",
+                  "text": "Az 1907-ben épült történelmi vasútállomás egy ismert látványosság Maladzyechna városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839241,
+                        54.316009
+                  ]
+            },
+            {
+                  "name": "Мэмарыяльны комплекс «Шталаг 342»",
+                  "text": "A Stalag 342 emlékkomplexum egy jelentős történelmi látványosság Maladzyechna városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.873442,
+                        54.322555
+                  ]
+            },
+            {
+                  "name": "Summer amphitheater",
+                  "text": "A nyári amfiteátrum egy népszerű rendezvényhelyszín és látványosság Maladzyechna városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839685,
+                        54.302779
+                  ]
+            },
+            {
+                  "name": "Стараства (Польская забудова 1920—38-я гг.)",
+                  "text": "A lengyel építészetű Starostwo épülete egy látványosság Maladzyechna városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.836417,
+                        54.314207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maladechna castle",
+                  "text": "Castelul Maladechna este o atracție istorică din orașul Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.872774,
+                        54.334863
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Arch este un monument situat în orașul Maladzyechna.",
+                  "category": "historical",
+                  "coords": [
+                        26.837801,
+                        54.305202
+                  ]
+            },
+            {
+                  "name": "Вайне 1812 года",
+                  "text": "Acest monument din Maladzyechna comemorează războiul din anul 1812.",
+                  "category": "historical",
+                  "coords": [
+                        26.869874,
+                        54.330836
+                  ]
+            },
+            {
+                  "name": "Месца трыўмфальнай аркі (1929 г., знесена 1958-59 гг., ільвы/звон вывезена ў Бярэзінскае/Мінск)",
+                  "text": "Aceste ruine din Maladzyechna marchează fostul amplasament al unui arc de triumf.",
+                  "category": "historical",
+                  "coords": [
+                        26.829908,
+                        54.301214
+                  ]
+            },
+            {
+                  "name": "Стары чыгуначны мост (меркавана 1905 г., дзейнічае)",
+                  "text": "Acest vechi pod feroviar servește drept un frumos punct de belvedere în Maladzyechna.",
+                  "category": "natural",
+                  "coords": [
+                        26.856447,
+                        54.330737
+                  ]
+            },
+            {
+                  "name": "Былое месца паравой млына Дабравольскага (побач захаваны будынак агляду канец XIX ст.)",
+                  "text": "Aceste ruine din Maladzyechna reprezintă locul fostei mori cu aburi a lui Dabrawolski.",
+                  "category": "historical",
+                  "coords": [
+                        26.858345,
+                        54.329231
+                  ]
+            },
+            {
+                  "name": "Чыгуначная станцыя (1907)",
+                  "text": "Gara istorică din 1907 este o atracție cunoscută în Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839241,
+                        54.316009
+                  ]
+            },
+            {
+                  "name": "Мэмарыяльны комплекс «Шталаг 342»",
+                  "text": "Complexul memorial Stalag 342 este o importantă atracție istorică din Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.873442,
+                        54.322555
+                  ]
+            },
+            {
+                  "name": "Summer amphitheater",
+                  "text": "Amfiteatrul de vară este o atracție și un loc de desfășurare a evenimentelor în Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839685,
+                        54.302779
+                  ]
+            },
+            {
+                  "name": "Стараства (Польская забудова 1920—38-я гг.)",
+                  "text": "Clădirea Starostei, cu arhitectura sa poloneză, este o atracție în Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.836417,
+                        54.314207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maladechna castle",
+                  "text": "Maladechna castle is a historic attraction located in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.872774,
+                        54.334863
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Arch is a monument located in the city of Maladzyechna.",
+                  "category": "historical",
+                  "coords": [
+                        26.837801,
+                        54.305202
+                  ]
+            },
+            {
+                  "name": "Вайне 1812 года",
+                  "text": "This monument in Maladzyechna commemorates the War of 1812.",
+                  "category": "historical",
+                  "coords": [
+                        26.869874,
+                        54.330836
+                  ]
+            },
+            {
+                  "name": "Месца трыўмфальнай аркі (1929 г., знесена 1958-59 гг., ільвы/звон вывезена ў Бярэзінскае/Мінск)",
+                  "text": "These ruins in Maladzyechna mark the former location of a triumphal arch.",
+                  "category": "historical",
+                  "coords": [
+                        26.829908,
+                        54.301214
+                  ]
+            },
+            {
+                  "name": "Стары чыгуначны мост (меркавана 1905 г., дзейнічае)",
+                  "text": "This old railway bridge serves as a nice viewpoint in Maladzyechna.",
+                  "category": "natural",
+                  "coords": [
+                        26.856447,
+                        54.330737
+                  ]
+            },
+            {
+                  "name": "Былое месца паравой млына Дабравольскага (побач захаваны будынак агляду канец XIX ст.)",
+                  "text": "These ruins in Maladzyechna mark the site of the former steam mill of Dabrawolski.",
+                  "category": "historical",
+                  "coords": [
+                        26.858345,
+                        54.329231
+                  ]
+            },
+            {
+                  "name": "Чыгуначная станцыя (1907)",
+                  "text": "The historic railway station from 1907 is a well-known attraction in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839241,
+                        54.316009
+                  ]
+            },
+            {
+                  "name": "Мэмарыяльны комплекс «Шталаг 342»",
+                  "text": "The Stalag 342 memorial complex is a significant historic attraction in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.873442,
+                        54.322555
+                  ]
+            },
+            {
+                  "name": "Summer amphitheater",
+                  "text": "The summer amphitheater is a popular event venue and attraction in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.839685,
+                        54.302779
+                  ]
+            },
+            {
+                  "name": "Стараства (Польская забудова 1920—38-я гг.)",
+                  "text": "The Starosty building, featuring Polish architecture, is an attraction in Maladzyechna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.836417,
+                        54.314207
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Maladsetschna", hu: "Maladzecsna", ro: "Maladzecina", en: "Maladzyechna"},
@@ -15033,7 +16230,340 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La ville est mentionnée pour la première fois en 1252 dans les Chroniques d'Ipatiev.", "L'intérieur de la Grande Synagogue était autrefois orné de fresques baroques et de stucs impressionnants.", "Au XVIIIe siècle, le théâtre de la ville disposait d'une technique de scène avancée et d'une troupe d'opéra.", "Le canal Ogiński, qui relie le Niémen au Pripiat, passe par la rivière Chtchara.", "L'église de l'Immaculée-Conception et le monastère des Bernardins ont été bâtis au XVIIe siècle.", "La papeterie locale (Albertin) est en activité depuis le début du XIXe siècle."],
     }, image: "/poi-images/belarus-slonim-cities-v2.webp"},
   {
-    id: "belarus-kobrin-cities-v2",
+    id: "belarus-kobrin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kobryn Synagogue (19th c.)",
+                  "text": "Die Synagoge von Kobryn ist ein historisches jüdisches Gotteshaus aus dem 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.365047,
+                        52.211813
+                  ]
+            },
+            {
+                  "name": "Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі (1843)",
+                  "text": "Die katholische Kirche Mariä Himmelfahrt ist ein historisches Gotteshaus in Kobryn aus dem Jahr 1843.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371997,
+                        52.212461
+                  ]
+            },
+            {
+                  "name": "Былая турма (1821)",
+                  "text": "Das ehemalige Gefängnis aus dem Jahr 1821 ist eine bemerkenswerte historische Stätte in Kobryn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.350783,
+                        52.212099
+                  ]
+            },
+            {
+                  "name": "Дваранскі банк (19 ст.)",
+                  "text": "Die ehemalige Adelsbank ist eine architektonische Attraktion aus dem 19. Jahrhundert in Kobryn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.359432,
+                        52.213907
+                  ]
+            },
+            {
+                  "name": "Дзяржаўная гімназія імя Марыі Радзевіч (1924)",
+                  "text": "Das Maria-Rodziewicz-Gymnasium ist ein historisches Bildungsgebäude aus dem Jahr 1924 in Kobryn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.340059,
+                        52.21085
+                  ]
+            },
+            {
+                  "name": "Царква Святога Георгія (1889)",
+                  "text": "Die St.-Georgs-Kirche ist ein historisches Gotteshaus in Kobryn aus dem Jahr 1889.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371547,
+                        52.220294
+                  ]
+            },
+            {
+                  "name": "Царква Святога Мікалая (1750)",
+                  "text": "Die St.-Nikolaus-Kirche ist ein altes Gotteshaus in Kobryn, das auf das Jahr 1750 zurückgeht.",
+                  "category": "landmark",
+                  "coords": [
+                        24.360552,
+                        52.216738
+                  ]
+            },
+            {
+                  "name": "Kobryn aquapark",
+                  "text": "Der Aquapark in Kobryn ist ein beliebtes Ausflugsziel mit Wasserrutschen und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        24.351944,
+                        52.204551
+                  ]
+            },
+            {
+                  "name": "Жаночы манастыр Святога Спаса (18 ст.)",
+                  "text": "Das Erlöser-Frauenkloster ist eine spirituelle Stätte aus dem 18. Jahrhundert in Kobryn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.355633,
+                        52.21479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kobryn Synagogue (19th c.)",
+                  "text": "A kobrini zsinagóga egy történelmi zsidó imaház a 19. századból.",
+                  "category": "landmark",
+                  "coords": [
+                        24.365047,
+                        52.211813
+                  ]
+            },
+            {
+                  "name": "Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі (1843)",
+                  "text": "A Mária Mennybevétele katolikus templom egy 1843-ban épült történelmi imaház Kobrinban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371997,
+                        52.212461
+                  ]
+            },
+            {
+                  "name": "Былая турма (1821)",
+                  "text": "Az 1821-ből származó egykori börtön figyelemre méltó történelmi helyszín Kobrinban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.350783,
+                        52.212099
+                  ]
+            },
+            {
+                  "name": "Дваранскі банк (19 ст.)",
+                  "text": "Az egykori Nemesi Bank egy 19. századi építészeti látványosság Kobrinban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.359432,
+                        52.213907
+                  ]
+            },
+            {
+                  "name": "Дзяржаўная гімназія імя Марыі Радзевіч (1924)",
+                  "text": "A Maria Rodziewicz Gimnázium egy 1924-ben épült történelmi oktatási épület Kobrinban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.340059,
+                        52.21085
+                  ]
+            },
+            {
+                  "name": "Царква Святога Георгія (1889)",
+                  "text": "A Szent György-templom egy 1889-ben épült történelmi imaház Kobrinban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371547,
+                        52.220294
+                  ]
+            },
+            {
+                  "name": "Царква Святога Мікалая (1750)",
+                  "text": "A Szent Miklós-templom egy régi imaház Kobrinban, amely 1750-ből származik.",
+                  "category": "landmark",
+                  "coords": [
+                        24.360552,
+                        52.216738
+                  ]
+            },
+            {
+                  "name": "Kobryn aquapark",
+                  "text": "A kobrini aquapark egy népszerű vízipark csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        24.351944,
+                        52.204551
+                  ]
+            },
+            {
+                  "name": "Жаночы манастыр Святога Спаса (18 ст.)",
+                  "text": "A Szent Megváltó női kolostor egy 18. századi spirituális helyszín Kobrinban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.355633,
+                        52.21479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kobryn Synagogue (19th c.)",
+                  "text": "Sinagoga din Kobrin este un lăcaș de cult evreiesc istoric din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        24.365047,
+                        52.211813
+                  ]
+            },
+            {
+                  "name": "Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі (1843)",
+                  "text": "Biserica Catolică Adormirea Maicii Domnului este un lăcaș de cult istoric din Kobrin datând din 1843.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371997,
+                        52.212461
+                  ]
+            },
+            {
+                  "name": "Былая турма (1821)",
+                  "text": "Fosta închisoare din anul 1821 este un sit istoric remarcabil din Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.350783,
+                        52.212099
+                  ]
+            },
+            {
+                  "name": "Дваранскі банк (19 ст.)",
+                  "text": "Fosta Bancă a Nobilimii este o atracție arhitecturală din secolul al XIX-lea din Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.359432,
+                        52.213907
+                  ]
+            },
+            {
+                  "name": "Дзяржаўная гімназія імя Марыі Радзевіч (1924)",
+                  "text": "Gimnaziul de stat Maria Rodziewicz este o clădire istorică educațională din 1924 din Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.340059,
+                        52.21085
+                  ]
+            },
+            {
+                  "name": "Царква Святога Георгія (1889)",
+                  "text": "Biserica Sfântul Gheorghe este un lăcaș de cult istoric din 1889 în Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371547,
+                        52.220294
+                  ]
+            },
+            {
+                  "name": "Царква Святога Мікалая (1750)",
+                  "text": "Biserica Sfântul Nicolae este un vechi lăcaș de cult din Kobrin, datând din anul 1750.",
+                  "category": "landmark",
+                  "coords": [
+                        24.360552,
+                        52.216738
+                  ]
+            },
+            {
+                  "name": "Kobryn aquapark",
+                  "text": "Parcul acvatic din Kobrin este o destinație populară cu tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        24.351944,
+                        52.204551
+                  ]
+            },
+            {
+                  "name": "Жаночы манастыр Святога Спаса (18 ст.)",
+                  "text": "Mănăstirea de maici Sfântul Mântuitor este un așezământ spiritual din secolul al XVIII-lea din Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.355633,
+                        52.21479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kobryn Synagogue (19th c.)",
+                  "text": "The Kobryn Synagogue is a historical Jewish place of worship from the 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        24.365047,
+                        52.211813
+                  ]
+            },
+            {
+                  "name": "Касцёл Унебаўзяцця Найсвяцейшай Панны Марыі (1843)",
+                  "text": "The Catholic Church of the Assumption of the Blessed Virgin Mary is a historical place of worship in Kobrin dating from 1843.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371997,
+                        52.212461
+                  ]
+            },
+            {
+                  "name": "Былая турма (1821)",
+                  "text": "The former prison dating back to 1821 is a notable historical site in Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.350783,
+                        52.212099
+                  ]
+            },
+            {
+                  "name": "Дваранскі банк (19 ст.)",
+                  "text": "The former Noble Bank is a 19th-century architectural attraction in Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.359432,
+                        52.213907
+                  ]
+            },
+            {
+                  "name": "Дзяржаўная гімназія імя Марыі Радзевіч (1924)",
+                  "text": "The Maria Rodziewicz State Gymnasium is a historical educational building from 1924 in Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.340059,
+                        52.21085
+                  ]
+            },
+            {
+                  "name": "Царква Святога Георгія (1889)",
+                  "text": "St. George's Church is a historical place of worship in Kobrin built in 1889.",
+                  "category": "landmark",
+                  "coords": [
+                        24.371547,
+                        52.220294
+                  ]
+            },
+            {
+                  "name": "Царква Святога Мікалая (1750)",
+                  "text": "St. Nicholas Church is an old place of worship in Kobrin dating back to 1750.",
+                  "category": "landmark",
+                  "coords": [
+                        24.360552,
+                        52.216738
+                  ]
+            },
+            {
+                  "name": "Kobryn aquapark",
+                  "text": "The Kobryn aquapark is a popular destination featuring water slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        24.351944,
+                        52.204551
+                  ]
+            },
+            {
+                  "name": "Жаночы манастыр Святога Спаса (18 ст.)",
+                  "text": "The Holy Savior Convent is an 18th-century spiritual site in Kobrin.",
+                  "category": "landmark",
+                  "coords": [
+                        24.355633,
+                        52.21479
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Kobryn", hu: "Kobrin", ro: "Kobrin", en: "Kobrin"},
@@ -20649,7 +22179,52 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La localité est mentionnée pour la première fois dans des documents au début du XVIe siècle (1508).", "Le combinat de transformation du bois d'Ivatsevitchy est l'un des plus modernes de toute la Biélorussie.", "Tadeusz Kościuszko, héros des guerres d'indépendance américaine et polono-lituanienne, est né dans la ville voisine de Kossava.", "Les points de mesure de l'arc géodésique de Struve à Ivatsevitchy ont été établis au milieu du XIXe siècle pour déterminer la taille exacte de la Terre.", "Le développement rapide de la ville a été lancé par la ligne de chemin de fer Moscou-Brest construite dans les années 1870.", "La rivière Chtchara, qui appartient au bassin versant du Niémen, coule à la limite de la localité."],
     }, image: "/poi-images/belarus-ivatsevichy-cities-v2.webp"},
   {
-    id: "belarus-luninyets-cities-v2",
+    id: "belarus-luninyets-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "Die Kreuzerhöhungskirche ist eine bemerkenswerte Sehenswürdigkeit in Luninyets.",
+                  "category": "landmark",
+                  "coords": [
+                        26.796243,
+                        52.244802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "A Szent Kereszt felmagasztalása templom egy jelentős látnivaló Luninyecben.",
+                  "category": "landmark",
+                  "coords": [
+                        26.796243,
+                        52.244802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "Biserica Înălțarea Sfintei Cruci este o atracție notabilă din Lunineț.",
+                  "category": "landmark",
+                  "coords": [
+                        26.796243,
+                        52.244802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Exaltation of the Holy Cross",
+                  "text": "The Church of the Exaltation of the Holy Cross is a notable attraction in Luninyets.",
+                  "category": "landmark",
+                  "coords": [
+                        26.796243,
+                        52.244802
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Luninez", hu: "Luninyec", ro: "Lunineț", en: "Luninyets"},
@@ -22458,7 +24033,196 @@ export const belarusCitiesV2: POI[] = [
       fr: ["Le village est officiellement mentionné pour la première fois au XIVe siècle.", "La papeterie locale a été fondée en 1870 par le général russe Fiodor Paskevitch.", "À la fin du XIXe siècle, la papeterie de Dobrusch était l'une des plus modernes de l'Empire russe.", "La rivière Ipout se divise en plusieurs bras dans la ville, nécessitant 13 ponts.", "En 1889, la toute première centrale hydroélectrique de l'histoire de la Biélorussie y fut construite.", "Après la catastrophe de Tchernobyl, une partie des environs a subi une contamination radioactive."],
     }, image: "/poi-images/belarus-dobrush-cities-v2.webp"},
   {
-    id: "belarus-hlybokaye-cities-v2",
+    id: "belarus-hlybokaye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Калона ў гонар Канстытуцыі Рэчы Паспалітай 3 мая 1791 г.",
+                  "text": "Diese Attraktion ist eine Gedenksäule zu Ehren der Verfassung vom 3. Mai 1791 in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.705631,
+                        55.139261
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "Die Kirche der Heiligen Dreifaltigkeit ist eine bedeutende religiöse Attraktion in der Stadt Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.69356,
+                        55.141047
+                  ]
+            },
+            {
+                  "name": "Tomb of baron Ferdinand von Münchhausen",
+                  "text": "Das Grab von Baron Ferdinand von Münchhausen ist eine bekannte historische Attraktion in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.706776,
+                        55.140307
+                  ]
+            },
+            {
+                  "name": "BomberSu-24M",
+                  "text": "BomberSu-24M ist eine Luftfahrtattraktion mit einem sowjetischen Bomberflugzeug in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.690554,
+                        55.13418
+                  ]
+            },
+            {
+                  "name": "Помнік авіяканструктару П.Сухому: самалёт Су-17МЗ",
+                  "text": "Dieses Denkmal ehrt den Flugzeugkonstrukteur P. Suchoi und zeigt ein Su-17MZ-Flugzeug in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.672002,
+                        55.11948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Калона ў гонар Канстытуцыі Рэчы Паспалітай 3 мая 1791 г.",
+                  "text": "Ez a látványosság az 1791. május 3-i alkotmány tiszteletére emelt emlékoszlop Hlybokaye városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.705631,
+                        55.139261
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "A Szentháromság-templom egy jelentős vallási látványosság Hlybokaye városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.69356,
+                        55.141047
+                  ]
+            },
+            {
+                  "name": "Tomb of baron Ferdinand von Münchhausen",
+                  "text": "Ferdinand von Münchhausen báró sírja egy jól ismert történelmi látványosság Hlybokaye-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        27.706776,
+                        55.140307
+                  ]
+            },
+            {
+                  "name": "BomberSu-24M",
+                  "text": "A BomberSu-24M egy repülési látványosság, amely egy szovjet bombázó repülőgépet mutat be Hlybokaye-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        27.690554,
+                        55.13418
+                  ]
+            },
+            {
+                  "name": "Помнік авіяканструктару П.Сухому: самалёт Су-17МЗ",
+                  "text": "Ez az emlékmű P. Szuhoj repülőgép-tervező előtt tiszteleg egy Szu-17MZ repülőgéppel Hlybokaye-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        27.672002,
+                        55.11948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Калона ў гонар Канстытуцыі Рэчы Паспалітай 3 мая 1791 г.",
+                  "text": "Această atracție este o coloană comemorativă în onoarea Constituției din 3 mai 1791, situată în Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.705631,
+                        55.139261
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "Biserica Sfintei Treimi este o atracție religioasă semnificativă în orașul Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.69356,
+                        55.141047
+                  ]
+            },
+            {
+                  "name": "Tomb of baron Ferdinand von Münchhausen",
+                  "text": "Mormântul baronului Ferdinand von Münchhausen este o atracție istorică bine-cunoscută în Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.706776,
+                        55.140307
+                  ]
+            },
+            {
+                  "name": "BomberSu-24M",
+                  "text": "BomberSu-24M este o atracție aviatică care prezintă un avion bombardier sovietic în Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.690554,
+                        55.13418
+                  ]
+            },
+            {
+                  "name": "Помнік авіяканструктару П.Сухому: самалёт Су-17МЗ",
+                  "text": "Acest monument îl onorează pe designerul de avioane P. Sukhoi, prezentând o aeronavă Su-17MZ în Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.672002,
+                        55.11948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Калона ў гонар Канстытуцыі Рэчы Паспалітай 3 мая 1791 г.",
+                  "text": "This attraction is a commemorative column honoring the Constitution of May 3, 1791, located in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.705631,
+                        55.139261
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "The Church of the Holy Trinity is a significant religious attraction in the town of Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.69356,
+                        55.141047
+                  ]
+            },
+            {
+                  "name": "Tomb of baron Ferdinand von Münchhausen",
+                  "text": "The Tomb of baron Ferdinand von Münchhausen is a well-known historical attraction in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.706776,
+                        55.140307
+                  ]
+            },
+            {
+                  "name": "BomberSu-24M",
+                  "text": "BomberSu-24M is an aviation attraction featuring a Soviet bomber aircraft in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.690554,
+                        55.13418
+                  ]
+            },
+            {
+                  "name": "Помнік авіяканструктару П.Сухому: самалёт Су-17МЗ",
+                  "text": "This monument honors aircraft designer P. Sukhoi, featuring a Su-17MZ aircraft in Hlybokaye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.672002,
+                        55.11948
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Hlybokaje", hu: "Hlibokaje", ro: "Hlîbokaye", en: "Hlybokaye"},
@@ -23944,7 +25708,88 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La localité est mentionnée pour la première fois en 1423 sous le nom de Porkhov, elle a pris le nom de Janovo plus tard.", "Napoléon Orda (1807–1883) a réalisé plus de 1 000 croquis de bâtiments historiques d'Europe de l'Est.", "La langue secrète des artisans itinérants locaux, appelée 'lasje', a été créée artificiellement.", "La ville est une station importante sur la ligne de chemin de fer reliant Brest à Pinsk.", "Ivanava est l'un des principaux centres de production de malt et d'orge de brasserie du pays (usine Belsolod).", "L'église catholique de l'Exaltation de la Sainte-Croix a été construite en briques en 1848."],
     }, image: "/poi-images/belarus-ivanava-cities-v2.webp"},
   {
-    id: "belarus-shklow-cities-v2",
+    id: "belarus-shklow-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Škłoŭ town hall",
+                  "text": "Das Rathaus von Škłoŭ ist ein markantes historisches Wahrzeichen und ein klassisches architektonisches Symbol von Shklow.",
+                  "category": "landmark",
+                  "coords": [
+                        30.300008,
+                        54.200231
+                  ]
+            },
+            {
+                  "name": "Жылы дом (18в)",
+                  "text": "Dieses Wohngebäude aus dem 18. Jahrhundert ist eine in Shklow erhaltene historische Sehenswürdigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        30.30216,
+                        54.199661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Škłoŭ town hall",
+                  "text": "A shklow-i városháza egy kiemelkedő történelmi nevezetesség és Shklow klasszikus építészeti szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        30.300008,
+                        54.200231
+                  ]
+            },
+            {
+                  "name": "Жылы дом (18в)",
+                  "text": "Ez a 18. századi lakóépület egy Shklowban fennmaradt történelmi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        30.30216,
+                        54.199661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Škłoŭ town hall",
+                  "text": "Primăria din Škłoŭ este un punct de reper istoric proeminent și un simbol arhitectural clasic al orașului Shklow.",
+                  "category": "landmark",
+                  "coords": [
+                        30.300008,
+                        54.200231
+                  ]
+            },
+            {
+                  "name": "Жылы дом (18в)",
+                  "text": "Această clădire rezidențială din secolul al XVIII-lea este o atracție istorică conservată în Shklow.",
+                  "category": "landmark",
+                  "coords": [
+                        30.30216,
+                        54.199661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Škłoŭ town hall",
+                  "text": "The Škłoŭ town hall is a prominent historical landmark and classic architectural symbol of Shklow.",
+                  "category": "landmark",
+                  "coords": [
+                        30.300008,
+                        54.200231
+                  ]
+            },
+            {
+                  "name": "Жылы дом (18в)",
+                  "text": "This 18th-century residential building is a historic attraction preserved in Shklow.",
+                  "category": "landmark",
+                  "coords": [
+                        30.30216,
+                        54.199661
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Schklou", hu: "Sklov", ro: "Șklou", en: "Shklow"},
@@ -25357,7 +27202,52 @@ export const belarusCitiesV2: POI[] = [
       fr: ["La localité est mentionnée pour la première fois dans des documents historiques en 1785", "La longueur de la carrière de granit de Mikashevitchy approche les 3 kilomètres et sa largeur 1,8 kilomètre", "Plusieurs millions de tonnes de gravier de granit de haute qualité sont extraites chaque année de la carrière", "L'extraction s'effectue en terrasses sur les parois de la fosse, et la carrière doit être protégée de la nappe phréatique par d'énormes pompes", "En raison des eaux souterraines qui s'écoulent en cascades, la carrière possède un microclimat unique", "Grâce au port fluvial, le granit peut être transporté jusqu'à la mer Noire"],
     }, image: "/poi-images/belarus-mikashevichy-cities-v2.webp"},
   {
-    id: "belarus-byerazino-cities-v2",
+    id: "belarus-byerazino-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman Catholic church of the Mother of the Lord Mercy",
+                  "text": "Die römisch-katholische Kirche der Mutter der Barmherzigkeit ist eine Kultstätte in Byerazino.",
+                  "category": "religious",
+                  "coords": [
+                        28.995733,
+                        53.837909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman Catholic church of the Mother of the Lord Mercy",
+                  "text": "Az Irgalmas Szűzanya római katolikus templom egy istentiszteleti hely Berezino városában.",
+                  "category": "religious",
+                  "coords": [
+                        28.995733,
+                        53.837909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman Catholic church of the Mother of the Lord Mercy",
+                  "text": "Biserica romano-catolică a Maicii Milostivirii este un lăcaș de cult din Byerazino.",
+                  "category": "religious",
+                  "coords": [
+                        28.995733,
+                        53.837909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Catholic church of the Mother of the Lord Mercy",
+                  "text": "The Roman Catholic church of the Mother of the Lord Mercy is a place of worship in Byerazino.",
+                  "category": "religious",
+                  "coords": [
+                        28.995733,
+                        53.837909
+                  ]
+            }
+      ]
+},
     parent: "BY",
     type: "city",
     name: { de: "Berasino", hu: "Bjarazino", ro: "Berazino", en: "Byerazino"},
@@ -25439,6 +27329,15 @@ export const belarusCitiesV2: POI[] = [
                         24.257957,
                         53.590646
                   ]
+            },
+            {
+                  "name": "Здание иешивы нач.20в.",
+                  "text": "Das Jeschiwa-Gebäude aus dem frühen 20. Jahrhundert ist eine Sehenswürdigkeit in Skidal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.252158,
+                        53.593581
+                  ]
             }
       ],
       "hu": [
@@ -25476,6 +27375,15 @@ export const belarusCitiesV2: POI[] = [
                   "coords": [
                         24.257957,
                         53.590646
+                  ]
+            },
+            {
+                  "name": "Здание иешивы нач.20в.",
+                  "text": "A kora 20. századi jesiva épülete egy látványosság Skidalban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.252158,
+                        53.593581
                   ]
             }
       ],
@@ -25515,6 +27423,15 @@ export const belarusCitiesV2: POI[] = [
                         24.257957,
                         53.590646
                   ]
+            },
+            {
+                  "name": "Здание иешивы нач.20в.",
+                  "text": "Clădirea ieșivei de la începutul secolului al XX-lea este o atracție din Skidal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.252158,
+                        53.593581
+                  ]
             }
       ],
       "en": [
@@ -25552,6 +27469,15 @@ export const belarusCitiesV2: POI[] = [
                   "coords": [
                         24.257957,
                         53.590646
+                  ]
+            },
+            {
+                  "name": "Здание иешивы нач.20в.",
+                  "text": "The early 20th-century Yeshiva building is an attraction in Skidal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.252158,
+                        53.593581
                   ]
             }
       ]
@@ -27501,7 +29427,232 @@ export const belarusCitiesV2: POI[] = [
     image: "/poi-images/belarus-glusk-cities-v2.webp",
   },
   {
-    id: "belarus-ivye-cities-v2",
+    id: "belarus-ivye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saints Peter and Paul Church",
+                  "text": "Die Peter-und-Paul-Kirche ist eine bekannte katholische Kirche und historische Sehenswürdigkeit in Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.780845,
+                        53.932568
+                  ]
+            },
+            {
+                  "name": "Iwye Mosque",
+                  "text": "Die Moschee von Iwye ist ein wichtiges islamisches Gotteshaus und eine kulturelle Sehenswürdigkeit der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772927,
+                        53.92224
+                  ]
+            },
+            {
+                  "name": "Забудова XIX - пачатку ХХ ст.",
+                  "text": "Diese Sehenswürdigkeit umfasst die historische städtische Bebauung von Ivye aus dem 19. und frühen 20. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772159,
+                        53.931887
+                  ]
+            },
+            {
+                  "name": "Прысядзібны парк XVIII-XIX ст.",
+                  "text": "Dieser historische Gutspark in Ivye stammt aus dem 18. und 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.777232,
+                        53.943766
+                  ]
+            },
+            {
+                  "name": "Забудова XIX-XX ст.",
+                  "text": "Diese Sehenswürdigkeit zeigt die erhaltene Architektur aus dem 19. und 20. Jahrhundert in Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.769279,
+                        53.932755
+                  ]
+            },
+            {
+                  "name": "The wheel of history",
+                  "text": "„Das Rad der Geschichte“ ist eine reizvolle Touristenattraktion in Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.766813,
+                        53.931965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saints Peter and Paul Church",
+                  "text": "A Szent Péter és Pál-templom egy jelentős katolikus templom és történelmi látványosság Ivye városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.780845,
+                        53.932568
+                  ]
+            },
+            {
+                  "name": "Iwye Mosque",
+                  "text": "Az ivyei mecset a város fontos iszlám istentiszteleti helye és kulturális látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772927,
+                        53.92224
+                  ]
+            },
+            {
+                  "name": "Забудова XIX - пачатку ХХ ст.",
+                  "text": "Ez a látványosság Ivye 19. és kora 20. századi történelmi épületegyüttesét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772159,
+                        53.931887
+                  ]
+            },
+            {
+                  "name": "Прысядзібны парк XVIII-XIX ст.",
+                  "text": "Ez az ivyei történelmi kastélypark a 18. és 19. századból származik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.777232,
+                        53.943766
+                  ]
+            },
+            {
+                  "name": "Забудова XIX-XX ст.",
+                  "text": "Ez a látványosság Ivye megőrzött 19. és 20. századi építészetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        25.769279,
+                        53.932755
+                  ]
+            },
+            {
+                  "name": "The wheel of history",
+                  "text": "„A történelem kereke” egy érdekes turisztikai látványosság Ivye városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.766813,
+                        53.931965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saints Peter and Paul Church",
+                  "text": "Biserica Sfinții Petru și Pavel este o biserică catolică proeminentă și o atracție istorică în Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.780845,
+                        53.932568
+                  ]
+            },
+            {
+                  "name": "Iwye Mosque",
+                  "text": "Moscheea Iwye este un important lăcaș de cult islamic și o atracție culturală în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772927,
+                        53.92224
+                  ]
+            },
+            {
+                  "name": "Забудова XIX - пачатку ХХ ст.",
+                  "text": "Această atracție prezintă dezvoltarea urbană istorică a orașului Ivye din secolul al XIX-lea și începutul secolului al XX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772159,
+                        53.931887
+                  ]
+            },
+            {
+                  "name": "Прысядзібны парк XVIII-XIX ст.",
+                  "text": "Acest parc al conacului istoric din Ivye datează din secolele XVIII și XIX.",
+                  "category": "landmark",
+                  "coords": [
+                        25.777232,
+                        53.943766
+                  ]
+            },
+            {
+                  "name": "Забудова XIX-XX ст.",
+                  "text": "Această atracție prezintă arhitectura conservată din secolele XIX și XX în Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.769279,
+                        53.932755
+                  ]
+            },
+            {
+                  "name": "The wheel of history",
+                  "text": "„Roata Istoriei” este o atracție turistică interesantă situată în Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.766813,
+                        53.931965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saints Peter and Paul Church",
+                  "text": "The Saints Peter and Paul Church is a prominent Catholic church and historical attraction in Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.780845,
+                        53.932568
+                  ]
+            },
+            {
+                  "name": "Iwye Mosque",
+                  "text": "The Iwye Mosque is an important Islamic place of worship and cultural attraction in the town.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772927,
+                        53.92224
+                  ]
+            },
+            {
+                  "name": "Забудова XIX - пачатку ХХ ст.",
+                  "text": "This attraction features the historical urban development and buildings of Ivye from the 19th and early 20th centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        25.772159,
+                        53.931887
+                  ]
+            },
+            {
+                  "name": "Прысядзібны парк XVIII-XIX ст.",
+                  "text": "This historical manor park in Ivye dates back to the 18th and 19th centuries.",
+                  "category": "landmark",
+                  "coords": [
+                        25.777232,
+                        53.943766
+                  ]
+            },
+            {
+                  "name": "Забудова XIX-XX ст.",
+                  "text": "This attraction showcases preserved architecture from the 19th and 20th centuries in Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.769279,
+                        53.932755
+                  ]
+            },
+            {
+                  "name": "The wheel of history",
+                  "text": "\"The Wheel of History\" is an engaging tourist attraction situated in Ivye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.766813,
+                        53.931965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BY",
     name: { de: "Iwje", hu: "Ivje", ro: "Ivye", en: "Ivye" },
@@ -27996,7 +30147,52 @@ export const belarusCitiesV2: POI[] = [
     image: "/poi-images/belarus-kletsk-cities-v2.webp",
   },
   {
-    id: "belarus-klimavichy-cities-v2",
+    id: "belarus-klimavichy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Царква Святога Міхала Арханёла 1848г.",
+                  "text": "Die Kirche des Heiligen Erzengels Michael aus dem Jahr 1848 ist eine Sehenswürdigkeit in Klimawitschy.",
+                  "category": "landmark",
+                  "coords": [
+                        31.957552,
+                        53.606213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Царква Святога Міхала Арханёла 1848г.",
+                  "text": "Az 1848-as Szent Mihály arkangyal-templom egy látványosság Klimavicsi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.957552,
+                        53.606213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Царква Святога Міхала Арханёла 1848г.",
+                  "text": "Biserica Sfântul Arhanghel Mihail din 1848 este o atracție din Klimavichy.",
+                  "category": "landmark",
+                  "coords": [
+                        31.957552,
+                        53.606213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Царква Святога Міхала Арханёла 1848г.",
+                  "text": "The 1848 Church of St. Michael the Archangel is an attraction located in Klimavichy.",
+                  "category": "landmark",
+                  "coords": [
+                        31.957552,
+                        53.606213
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BY",
     name: { de: "Klimawitschy", hu: "Klimavicsi", ro: "Klimovici", en: "Klimavichy" },
@@ -28482,7 +30678,52 @@ export const belarusCitiesV2: POI[] = [
     image: "/poi-images/belarus-myadzyel-cities-v2.webp",
   },
   {
-    id: "belarus-narawlya-cities-v2",
+    id: "belarus-narawlya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horvatt palace",
+                  "text": "Der Horvatt-Palast ist ein bedeutendes historisches Herrenhaus und eine Sehenswürdigkeit in Narawlya.",
+                  "category": "landmark",
+                  "coords": [
+                        29.501195,
+                        51.80628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horvatt palace",
+                  "text": "A Horvatt-palota egy nevezetes történelmi udvarház és látványosság Naravlja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.501195,
+                        51.80628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horvatt palace",
+                  "text": "Palatul Horvatt este un conac istoric notabil și o atracție situată în Narawlya.",
+                  "category": "landmark",
+                  "coords": [
+                        29.501195,
+                        51.80628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horvatt palace",
+                  "text": "Horvatt Palace is a notable historic manor and attraction located in Narawlya.",
+                  "category": "landmark",
+                  "coords": [
+                        29.501195,
+                        51.80628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BY",
     name: { de: "Naroulja", hu: "Narovlja", ro: "Narovlia", en: "Narawlya" },
@@ -29360,7 +31601,160 @@ export const belarusCitiesV2: POI[] = [
     image: "/poi-images/belarus-rosony-cities-v2.webp",
   },
   {
-    id: "belarus-schuchyn-cities-v2",
+    id: "belarus-schuchyn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Касцёл святой Тэрэзы з Авілы (1828)",
+                  "text": "Die 1828 erbaute katholische Kirche der Heiligen Teresa von Ávila in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.741158,
+                        53.606389
+                  ]
+            },
+            {
+                  "name": "Самалёт МіГ-19С",
+                  "text": "Ein MiG-19S Flugzeug in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.74683,
+                        53.610424
+                  ]
+            },
+            {
+                  "name": "MiG-25PU",
+                  "text": "Ein MiG-25PU in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.727352,
+                        53.625144
+                  ]
+            },
+            {
+                  "name": "Царква Арханёла Міхала (1865)",
+                  "text": "Die 1865 erbaute Kirche des Erzengels Michael in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742193,
+                        53.606177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Касцёл святой Тэрэзы з Авілы (1828)",
+                  "text": "Az 1828-ban épült Ávilai Szent Teréz katolikus templom Scsucsiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.741158,
+                        53.606389
+                  ]
+            },
+            {
+                  "name": "Самалёт МіГ-19С",
+                  "text": "Egy MiG-19S repülőgép mint látványosság Scsucsiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.74683,
+                        53.610424
+                  ]
+            },
+            {
+                  "name": "MiG-25PU",
+                  "text": "Egy MiG-25PU repülőgép Scsucsiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.727352,
+                        53.625144
+                  ]
+            },
+            {
+                  "name": "Царква Арханёла Міхала (1865)",
+                  "text": "Az 1865-ben épült Mihály arkangyal-templom Scsucsiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742193,
+                        53.606177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Касцёл святой Тэрэзы з Авілы (1828)",
+                  "text": "Biserica catolică Sfânta Tereza de Ávila, construită în 1828 în Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.741158,
+                        53.606389
+                  ]
+            },
+            {
+                  "name": "Самалёт МіГ-19С",
+                  "text": "Un avion MiG-19S expus în Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.74683,
+                        53.610424
+                  ]
+            },
+            {
+                  "name": "MiG-25PU",
+                  "text": "O aeronavă MiG-25PU în Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.727352,
+                        53.625144
+                  ]
+            },
+            {
+                  "name": "Царква Арханёла Міхала (1865)",
+                  "text": "Biserica Arhanghelul Mihail, construită în 1865 în Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742193,
+                        53.606177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Касцёл святой Тэрэзы з Авілы (1828)",
+                  "text": "The Catholic Church of Saint Teresa of Ávila, built in 1828 in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.741158,
+                        53.606389
+                  ]
+            },
+            {
+                  "name": "Самалёт МіГ-19С",
+                  "text": "A MiG-19S aircraft displayed as an attraction in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.74683,
+                        53.610424
+                  ]
+            },
+            {
+                  "name": "MiG-25PU",
+                  "text": "A MiG-25PU aircraft attraction in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.727352,
+                        53.625144
+                  ]
+            },
+            {
+                  "name": "Царква Арханёла Міхала (1865)",
+                  "text": "The Church of the Archangel Michael, constructed in 1865 in Shchuchyn.",
+                  "category": "landmark",
+                  "coords": [
+                        24.742193,
+                        53.606177
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BY",
     name: { de: "Schtschutschyn", hu: "Scsucsin", ro: "Sciucin", en: "Shchuchyn" },
@@ -29882,7 +32276,124 @@ export const belarusCitiesV2: POI[] = [
     image: "/poi-images/belarus-talachyn-cities-v2.webp",
   },
   {
-    id: "belarus-turov-cities-v2",
+    id: "belarus-turov-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biological reserve \"Turovsky Lug\"",
+                  "text": "Das Biologische Reservat 'Turowski Lug' ist ein wichtiges Naturschutzgebiet in Turow.",
+                  "category": "natural",
+                  "coords": [
+                        27.739794,
+                        52.07914
+                  ]
+            },
+            {
+                  "name": "#ILOVEBONFESTO",
+                  "text": "#ILOVEBONFESTO ist eine moderne Attraktion in der Stadt Turow.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763057,
+                        52.063591
+                  ]
+            },
+            {
+                  "name": "Царква Усіх Святых (1810)",
+                  "text": "Die Allerheiligenkirche von 1810 ist eine historische Sehenswürdigkeit in Turow.",
+                  "category": "landmark",
+                  "coords": [
+                        27.741739,
+                        52.06644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biological reserve \"Turovsky Lug\"",
+                  "text": "A 'Turovszkij Lug' Biológiai Rezervátum egy fontos természetvédelmi terület Turovban.",
+                  "category": "natural",
+                  "coords": [
+                        27.739794,
+                        52.07914
+                  ]
+            },
+            {
+                  "name": "#ILOVEBONFESTO",
+                  "text": "A #ILOVEBONFESTO egy modern látványosság Turov városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763057,
+                        52.063591
+                  ]
+            },
+            {
+                  "name": "Царква Усіх Святых (1810)",
+                  "text": "Az 1810-ből származó Mindenszentek temploma egy történelmi látványosság Turovban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.741739,
+                        52.06644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biological reserve \"Turovsky Lug\"",
+                  "text": "Rezervația biologică „Turovsky Lug” este o importantă arie naturală protejată din Turov.",
+                  "category": "natural",
+                  "coords": [
+                        27.739794,
+                        52.07914
+                  ]
+            },
+            {
+                  "name": "#ILOVEBONFESTO",
+                  "text": "#ILOVEBONFESTO este o atracție modernă din orașul Turov.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763057,
+                        52.063591
+                  ]
+            },
+            {
+                  "name": "Царква Усіх Святых (1810)",
+                  "text": "Biserica Tuturor Sfinților din 1810 este o atracție istorică din Turov.",
+                  "category": "landmark",
+                  "coords": [
+                        27.741739,
+                        52.06644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biological reserve \"Turovsky Lug\"",
+                  "text": "The Biological reserve 'Turovsky Lug' is an important nature reserve located in Turov.",
+                  "category": "natural",
+                  "coords": [
+                        27.739794,
+                        52.07914
+                  ]
+            },
+            {
+                  "name": "#ILOVEBONFESTO",
+                  "text": "#ILOVEBONFESTO is a modern attraction situated in the city of Turov.",
+                  "category": "landmark",
+                  "coords": [
+                        27.763057,
+                        52.063591
+                  ]
+            },
+            {
+                  "name": "Царква Усіх Святых (1810)",
+                  "text": "The Church of All Saints from 1810 is a historic attraction in Turov.",
+                  "category": "landmark",
+                  "coords": [
+                        27.741739,
+                        52.06644
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BY",
     name: { de: "Turau", hu: "Turau", ro: "Turov", en: "Turov" },
@@ -29927,7 +32438,52 @@ export const belarusCitiesV2: POI[] = [
     image: "/poi-images/belarus-turov-cities-v2.webp",
   },
   {
-    id: "belarus-usda-cities-v2",
+    id: "belarus-usda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Касцёл Узвышэння Святога Крыжа (1798)",
+                  "text": "Die historische Kreuzerhöhungskirche aus dem Jahr 1798 ist eine Sehenswürdigkeit in Uzda.",
+                  "category": "landmark",
+                  "coords": [
+                        27.216844,
+                        53.457322
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Касцёл Узвышэння Святога Крыжа (1798)",
+                  "text": "Az 1798-as Szent Kereszt felmagasztalása-templom egy történelmi látványosság Uzda városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.216844,
+                        53.457322
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Касцёл Узвышэння Святога Крыжа (1798)",
+                  "text": "Biserica istorică Înălțarea Sfintei Cruci (1798) este o atracție situată în Uzda.",
+                  "category": "landmark",
+                  "coords": [
+                        27.216844,
+                        53.457322
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Касцёл Узвышэння Святога Крыжа (1798)",
+                  "text": "The historic Church of the Exaltation of the Holy Cross (1798) is an attraction located in Uzda.",
+                  "category": "landmark",
+                  "coords": [
+                        27.216844,
+                        53.457322
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BY",
     name: { de: "Usda", hu: "Uzda", ro: "Uzda", en: "Uzda" },
@@ -30305,7 +32861,340 @@ export const belarusCitiesV2: POI[] = [
     image: "/poi-images/belarus-voranava-cities-v2.webp",
   },
   {
-    id: "belarus-zaslawye-cities-v2",
+    id: "belarus-zaslawye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Church of Transfiguration",
+                  "text": "Die Verklärungskirche in Zaslawye ist ein bemerkenswertes Baudenkmal und ein ehemaliger calvinistischer Versammlungsort.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291708,
+                        54.007366
+                  ]
+            },
+            {
+                  "name": "Church of the Blessed Virgin Mary 1779",
+                  "text": "Die Kirche Mariä Geburt aus dem Jahr 1779 ist eine historische Sehenswürdigkeit in Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291669,
+                        54.003268
+                  ]
+            },
+            {
+                  "name": "Monument \"Ragneda and Izyaslau\"",
+                  "text": "Ein Aussichtspunkt in Zaslawye mit einem Denkmal für Rogneda und Isjaslaw.",
+                  "category": "natural",
+                  "coords": [
+                        27.264852,
+                        54.011946
+                  ]
+            },
+            {
+                  "name": "Museum of forrest mythology for children",
+                  "text": "Ein Museum in Zaslawye, das Kindern die Waldmythologie näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        27.292548,
+                        53.996979
+                  ]
+            },
+            {
+                  "name": "Zaslaue 985",
+                  "text": "Zaslaue 985 ist ein historisches Denkmal in der Stadt Zaslawye.",
+                  "category": "historical",
+                  "coords": [
+                        27.301332,
+                        53.992186
+                  ]
+            },
+            {
+                  "name": "АПК №033",
+                  "text": "АПК №033 ist eine interessante Attraktion in der Stadt Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.278578,
+                        53.991952
+                  ]
+            },
+            {
+                  "name": "ДАК №105",
+                  "text": "Die als ДАК №105 bekannte Attraktion empfängt Besucher in Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.246032,
+                        54.018658
+                  ]
+            },
+            {
+                  "name": "ДАК №110",
+                  "text": "ДАК №110 ist eine lokale Sehenswürdigkeit in Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.255633,
+                        54.006641
+                  ]
+            },
+            {
+                  "name": "ДАК №116",
+                  "text": "Besucher von Zaslawye können die als ДАК №116 bekannte lokale Attraktion erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        27.276279,
+                        53.99709
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Church of Transfiguration",
+                  "text": "A zaszlavjei Színeváltozás temploma egy jelentős építészeti műemlék és egykori kálvinista gyülekezeti hely.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291708,
+                        54.007366
+                  ]
+            },
+            {
+                  "name": "Church of the Blessed Virgin Mary 1779",
+                  "text": "Az 1779-ből származó Szűz Mária Születése templom egy történelmi látványosság Zaszlavjében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291669,
+                        54.003268
+                  ]
+            },
+            {
+                  "name": "Monument \"Ragneda and Izyaslau\"",
+                  "text": "Egy kilátópont Zaszlavjében Rogneda és Izjaszlav emlékművével.",
+                  "category": "natural",
+                  "coords": [
+                        27.264852,
+                        54.011946
+                  ]
+            },
+            {
+                  "name": "Museum of forrest mythology for children",
+                  "text": "Múzeum Zaszlavjében, amely az erdei mitológiát mutatja be gyermekeknek.",
+                  "category": "museum",
+                  "coords": [
+                        27.292548,
+                        53.996979
+                  ]
+            },
+            {
+                  "name": "Zaslaue 985",
+                  "text": "A Zaslaue 985 egy történelmi emlékmű Zaslawye városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.301332,
+                        53.992186
+                  ]
+            },
+            {
+                  "name": "АПК №033",
+                  "text": "Az АПК №033 egy érdekes látványosság Zaslawye városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.278578,
+                        53.991952
+                  ]
+            },
+            {
+                  "name": "ДАК №105",
+                  "text": "A ДАК №105 néven ismert látványosság Zaslawye városában várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        27.246032,
+                        54.018658
+                  ]
+            },
+            {
+                  "name": "ДАК №110",
+                  "text": "A ДАК №110 egy helyi látványosság Zaslawye-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.255633,
+                        54.006641
+                  ]
+            },
+            {
+                  "name": "ДАК №116",
+                  "text": "A Zaslawye városába látogatók felfedezhetik a ДАК №116 nevű helyi látványosságot.",
+                  "category": "landmark",
+                  "coords": [
+                        27.276279,
+                        53.99709
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Church of Transfiguration",
+                  "text": "Biserica Schimbarea la Față din Zaslawye este un monument arhitectural notabil și fost loc de adunare calvinist.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291708,
+                        54.007366
+                  ]
+            },
+            {
+                  "name": "Church of the Blessed Virgin Mary 1779",
+                  "text": "Biserica Nașterea Sfintei Fecioare Maria din anul 1779 este o atracție istorică din Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291669,
+                        54.003268
+                  ]
+            },
+            {
+                  "name": "Monument \"Ragneda and Izyaslau\"",
+                  "text": "Un punct de belvedere în Zaslawye care include un monument pentru Rogneda și Izyaslav.",
+                  "category": "natural",
+                  "coords": [
+                        27.264852,
+                        54.011946
+                  ]
+            },
+            {
+                  "name": "Museum of forrest mythology for children",
+                  "text": "Un muzeu în Zaslawye care prezintă copiilor mitologia forestieră.",
+                  "category": "museum",
+                  "coords": [
+                        27.292548,
+                        53.996979
+                  ]
+            },
+            {
+                  "name": "Zaslaue 985",
+                  "text": "Zaslaue 985 este un monument istoric situat în orașul Zaslawye.",
+                  "category": "historical",
+                  "coords": [
+                        27.301332,
+                        53.992186
+                  ]
+            },
+            {
+                  "name": "АПК №033",
+                  "text": "АПК №033 este o atracție interesantă situată în orașul Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.278578,
+                        53.991952
+                  ]
+            },
+            {
+                  "name": "ДАК №105",
+                  "text": "Atracția cunoscută sub numele de ДАК №105 primește vizitatori în Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.246032,
+                        54.018658
+                  ]
+            },
+            {
+                  "name": "ДАК №110",
+                  "text": "ДАК №110 este un punct de atracție local aflat în Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.255633,
+                        54.006641
+                  ]
+            },
+            {
+                  "name": "ДАК №116",
+                  "text": "Vizitatorii din Zaslawye pot explora atracția locală cunoscută sub numele de ДАК №116.",
+                  "category": "landmark",
+                  "coords": [
+                        27.276279,
+                        53.99709
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of Transfiguration",
+                  "text": "The Church of the Transfiguration in Zaslawye is a notable architectural monument and former Calvinist gathering place.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291708,
+                        54.007366
+                  ]
+            },
+            {
+                  "name": "Church of the Blessed Virgin Mary 1779",
+                  "text": "The Church of the Blessed Virgin Mary from 1779 is a historical attraction located in Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.291669,
+                        54.003268
+                  ]
+            },
+            {
+                  "name": "Monument \"Ragneda and Izyaslau\"",
+                  "text": "A scenic viewpoint in Zaslawye featuring a monument dedicated to Rogneda and Izyaslav.",
+                  "category": "natural",
+                  "coords": [
+                        27.264852,
+                        54.011946
+                  ]
+            },
+            {
+                  "name": "Museum of forrest mythology for children",
+                  "text": "A museum in Zaslawye introducing children to local forest mythology.",
+                  "category": "museum",
+                  "coords": [
+                        27.292548,
+                        53.996979
+                  ]
+            },
+            {
+                  "name": "Zaslaue 985",
+                  "text": "Zaslaue 985 is a historical monument located in the city of Zaslawye.",
+                  "category": "historical",
+                  "coords": [
+                        27.301332,
+                        53.992186
+                  ]
+            },
+            {
+                  "name": "АПК №033",
+                  "text": "АПК №033 is an interesting attraction located in the city of Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.278578,
+                        53.991952
+                  ]
+            },
+            {
+                  "name": "ДАК №105",
+                  "text": "The attraction known as ДАК №105 welcomes visitors in Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.246032,
+                        54.018658
+                  ]
+            },
+            {
+                  "name": "ДАК №110",
+                  "text": "ДАК №110 is a local point of interest found in Zaslawye.",
+                  "category": "landmark",
+                  "coords": [
+                        27.255633,
+                        54.006641
+                  ]
+            },
+            {
+                  "name": "ДАК №116",
+                  "text": "Visitors to Zaslawye can explore the local attraction known as ДАК №116.",
+                  "category": "landmark",
+                  "coords": [
+                        27.276279,
+                        53.99709
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BY",
     name: { de: "Saslauje", hu: "Zaszlavje", ro: "Zaslavl", en: "Zaslawye" },

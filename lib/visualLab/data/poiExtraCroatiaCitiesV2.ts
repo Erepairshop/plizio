@@ -7268,6 +7268,15 @@ imageHint: "Vinkovci central square and church",
                         16.434538,
                         46.390519
                   ]
+            },
+            {
+                  "name": "Kapela svete Jelene",
+                  "text": "Die Kapela svete Jelene ist eine religiöse Stätte in Čakovec.",
+                  "category": "religious",
+                  "coords": [
+                        16.418621,
+                        46.404158
+                  ]
             }
       ],
       "hu": [
@@ -7287,6 +7296,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.434538,
                         46.390519
+                  ]
+            },
+            {
+                  "name": "Kapela svete Jelene",
+                  "text": "A Kapela svete Jelene egy vallási kegyhely Csáktornya városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.418621,
+                        46.404158
                   ]
             }
       ],
@@ -7308,6 +7326,15 @@ imageHint: "Vinkovci central square and church",
                         16.434538,
                         46.390519
                   ]
+            },
+            {
+                  "name": "Kapela svete Jelene",
+                  "text": "Kapela svete Jelene este un lăcaș de cult din Čakovec.",
+                  "category": "religious",
+                  "coords": [
+                        16.418621,
+                        46.404158
+                  ]
             }
       ],
       "en": [
@@ -7327,6 +7354,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.434538,
                         46.390519
+                  ]
+            },
+            {
+                  "name": "Kapela svete Jelene",
+                  "text": "The Kapela svete Jelene is a place of worship located in Čakovec.",
+                  "category": "religious",
+                  "coords": [
+                        16.418621,
+                        46.404158
                   ]
             }
       ],
@@ -11487,6 +11523,15 @@ imageHint: "Vinkovci central square and church",
                         16.541079,
                         46.010821
                   ]
+            },
+            {
+                  "name": "Greek Catholic Cathedral of the Holy Trinity",
+                  "text": "Die griechisch-katholische Dreifaltigkeitskathedrale ist ein wichtiges Gotteshaus in Križevci.",
+                  "category": "religious",
+                  "coords": [
+                        16.543636,
+                        46.0307
+                  ]
             }
       ],
       "hu": [
@@ -11524,6 +11569,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.541079,
                         46.010821
+                  ]
+            },
+            {
+                  "name": "Greek Catholic Cathedral of the Holy Trinity",
+                  "text": "A Szentháromság görögkatolikus katedrális egy jelentős vallási épület Križevci városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.543636,
+                        46.0307
                   ]
             }
       ],
@@ -11563,6 +11617,15 @@ imageHint: "Vinkovci central square and church",
                         16.541079,
                         46.010821
                   ]
+            },
+            {
+                  "name": "Greek Catholic Cathedral of the Holy Trinity",
+                  "text": "Catedrala Greco-Catolică Sfânta Treime este un lăcaș de cult important situat în Križevci.",
+                  "category": "religious",
+                  "coords": [
+                        16.543636,
+                        46.0307
+                  ]
             }
       ],
       "en": [
@@ -11600,6 +11663,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.541079,
                         46.010821
+                  ]
+            },
+            {
+                  "name": "Greek Catholic Cathedral of the Holy Trinity",
+                  "text": "The Greek Catholic Cathedral of the Holy Trinity is a prominent place of worship located in Križevci.",
+                  "category": "religious",
+                  "coords": [
+                        16.543636,
+                        46.0307
                   ]
             }
       ],
@@ -16446,6 +16518,15 @@ imageHint: "Vinkovci central square and church",
                         16.549745,
                         46.229578
                   ]
+            },
+            {
+                  "name": "Dvorac Batthyany",
+                  "text": "Ein historisches Schloss in Ludbreg, das früher der Familie Batthyány gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        16.619664,
+                        46.251602
+                  ]
             }
       ],
       "hu": [
@@ -16474,6 +16555,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.549745,
                         46.229578
+                  ]
+            },
+            {
+                  "name": "Dvorac Batthyany",
+                  "text": "Egy történelmi kastély Ludbregben, amely korábban a Batthyány család birtokában volt.",
+                  "category": "castle",
+                  "coords": [
+                        16.619664,
+                        46.251602
                   ]
             }
       ],
@@ -16504,6 +16594,15 @@ imageHint: "Vinkovci central square and church",
                         16.549745,
                         46.229578
                   ]
+            },
+            {
+                  "name": "Dvorac Batthyany",
+                  "text": "Un castel istoric din Ludbreg care a aparținut anterior familiei Batthyány.",
+                  "category": "castle",
+                  "coords": [
+                        16.619664,
+                        46.251602
+                  ]
             }
       ],
       "en": [
@@ -16532,6 +16631,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.549745,
                         46.229578
+                  ]
+            },
+            {
+                  "name": "Dvorac Batthyany",
+                  "text": "A historic castle in Ludbreg that formerly belonged to the Batthyány family.",
+                  "category": "castle",
+                  "coords": [
+                        16.619664,
+                        46.251602
                   ]
             }
       ],
@@ -16621,6 +16729,15 @@ imageHint: "Vinkovci central square and church",
                         17.871628,
                         45.428272
                   ]
+            },
+            {
+                  "name": "Dvorac Kutjevo",
+                  "text": "Dvorac Kutjevo ist ein bekanntes historisches Schloss in der Stadt Kutjevo.",
+                  "category": "castle",
+                  "coords": [
+                        17.885056,
+                        45.428978
+                  ]
             }
       ],
       "hu": [
@@ -16640,6 +16757,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.871628,
                         45.428272
+                  ]
+            },
+            {
+                  "name": "Dvorac Kutjevo",
+                  "text": "A Dvorac Kutjevo egy jól ismert történelmi kastély Kutjevo városában.",
+                  "category": "castle",
+                  "coords": [
+                        17.885056,
+                        45.428978
                   ]
             }
       ],
@@ -16661,6 +16787,15 @@ imageHint: "Vinkovci central square and church",
                         17.871628,
                         45.428272
                   ]
+            },
+            {
+                  "name": "Dvorac Kutjevo",
+                  "text": "Dvorac Kutjevo este un castel istoric binecunoscut situat în orașul Kutjevo.",
+                  "category": "castle",
+                  "coords": [
+                        17.885056,
+                        45.428978
+                  ]
             }
       ],
       "en": [
@@ -16680,6 +16815,15 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.871628,
                         45.428272
+                  ]
+            },
+            {
+                  "name": "Dvorac Kutjevo",
+                  "text": "Dvorac Kutjevo is a well-known historic castle situated in the town of Kutjevo.",
+                  "category": "castle",
+                  "coords": [
+                        17.885056,
+                        45.428978
                   ]
             }
       ],

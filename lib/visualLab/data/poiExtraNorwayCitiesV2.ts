@@ -25015,6 +25015,42 @@ export const norwayCitiesV2: POI[] = [
                         6.910585,
                         60.568129
                   ]
+            },
+            {
+                  "name": "Ulvikpollen naturreservat",
+                  "text": "Das Ulvikpollen naturreservat ist ein geschütztes Naturschutzgebiet in Ulvik.",
+                  "category": "natural",
+                  "coords": [
+                        6.944279,
+                        60.570947
+                  ]
+            },
+            {
+                  "name": "Solhaug",
+                  "text": "Solhaug ist eine lokale Sehenswürdigkeit in der Stadt Ulvik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.934453,
+                        60.561285
+                  ]
+            },
+            {
+                  "name": "Ulvik kyrkje",
+                  "text": "Ulvik kyrkje ist ein traditionelles Gotteshaus für die Gemeinde in Ulvik.",
+                  "category": "religious",
+                  "coords": [
+                        6.91753,
+                        60.567409
+                  ]
+            },
+            {
+                  "name": "Olav H. Hauge-senteret",
+                  "text": "Das Olav H. Hauge-senteret ist ein Museum für lokale Geschichte und Kultur in Ulvik.",
+                  "category": "museum",
+                  "coords": [
+                        6.918682,
+                        60.567159
+                  ]
             }
       ],
       "hu": [
@@ -25052,6 +25088,42 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.910585,
                         60.568129
+                  ]
+            },
+            {
+                  "name": "Ulvikpollen naturreservat",
+                  "text": "Az Ulvikpollen naturreservat egy védett természetvédelmi terület Ulvik városában.",
+                  "category": "natural",
+                  "coords": [
+                        6.944279,
+                        60.570947
+                  ]
+            },
+            {
+                  "name": "Solhaug",
+                  "text": "Solhaug egy helyi látványosság Ulvik városában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.934453,
+                        60.561285
+                  ]
+            },
+            {
+                  "name": "Ulvik kyrkje",
+                  "text": "Az Ulvik kyrkje egy hagyományos istentiszteleti hely, amely Ulvik közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.91753,
+                        60.567409
+                  ]
+            },
+            {
+                  "name": "Olav H. Hauge-senteret",
+                  "text": "Az Olav H. Hauge-senteret a helyi történelemnek és kultúrának szentelt múzeum Ulvikban.",
+                  "category": "museum",
+                  "coords": [
+                        6.918682,
+                        60.567159
                   ]
             }
       ],
@@ -25091,6 +25163,42 @@ export const norwayCitiesV2: POI[] = [
                         6.910585,
                         60.568129
                   ]
+            },
+            {
+                  "name": "Ulvikpollen naturreservat",
+                  "text": "Ulvikpollen naturreservat este o rezervație naturală protejată situată în Ulvik.",
+                  "category": "natural",
+                  "coords": [
+                        6.944279,
+                        60.570947
+                  ]
+            },
+            {
+                  "name": "Solhaug",
+                  "text": "Solhaug este o atracție locală situată în orașul Ulvik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.934453,
+                        60.561285
+                  ]
+            },
+            {
+                  "name": "Ulvik kyrkje",
+                  "text": "Ulvik kyrkje este un lăcaș de cult tradițional care deservește comunitatea din Ulvik.",
+                  "category": "religious",
+                  "coords": [
+                        6.91753,
+                        60.567409
+                  ]
+            },
+            {
+                  "name": "Olav H. Hauge-senteret",
+                  "text": "Olav H. Hauge-senteret este un muzeu dedicat istoriei și culturii locale din Ulvik.",
+                  "category": "museum",
+                  "coords": [
+                        6.918682,
+                        60.567159
+                  ]
             }
       ],
       "en": [
@@ -25128,6 +25236,42 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.910585,
                         60.568129
+                  ]
+            },
+            {
+                  "name": "Ulvikpollen naturreservat",
+                  "text": "Ulvikpollen naturreservat is a protected nature reserve situated in Ulvik.",
+                  "category": "natural",
+                  "coords": [
+                        6.944279,
+                        60.570947
+                  ]
+            },
+            {
+                  "name": "Solhaug",
+                  "text": "Solhaug is a local attraction located in the town of Ulvik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.934453,
+                        60.561285
+                  ]
+            },
+            {
+                  "name": "Ulvik kyrkje",
+                  "text": "Ulvik kyrkje is a traditional place of worship serving the community of Ulvik.",
+                  "category": "religious",
+                  "coords": [
+                        6.91753,
+                        60.567409
+                  ]
+            },
+            {
+                  "name": "Olav H. Hauge-senteret",
+                  "text": "The Olav H. Hauge-senteret is a museum dedicated to local history and culture in Ulvik.",
+                  "category": "museum",
+                  "coords": [
+                        6.918682,
+                        60.567159
                   ]
             }
       ]
@@ -31000,6 +31144,51 @@ export const norwayCitiesV2: POI[] = [
                         5.358372,
                         59.544294
                   ]
+            },
+            {
+                  "name": "Bjellandsvatnet naturreservat",
+                  "text": "Das Bjellandsvatnet naturreservat ist ein ausgewiesenes Naturschutzgebiet in Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.38239,
+                        59.552474
+                  ]
+            },
+            {
+                  "name": "Skiftestad naturreservat",
+                  "text": "Das Skiftestad naturreservat ist ein geschütztes Naturschutzgebiet in Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.311416,
+                        59.560951
+                  ]
+            },
+            {
+                  "name": "Mannavatn naturreservat",
+                  "text": "Das Mannavatn naturreservat ist ein Naturschutzgebiet in der Stadt Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.372344,
+                        59.544589
+                  ]
+            },
+            {
+                  "name": "Færås naturreservat",
+                  "text": "Das Færås naturreservat ist ein lokales Naturschutzgebiet in Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.359553,
+                        59.570919
+                  ]
+            },
+            {
+                  "name": "Sveio kyrkje",
+                  "text": "Die Sveio kyrkje ist eine Kirche und Kultstätte in der Gemeinde Sveio.",
+                  "category": "religious",
+                  "coords": [
+                        5.351442,
+                        59.543258
+                  ]
             }
       ],
       "hu": [
@@ -31037,6 +31226,51 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.358372,
                         59.544294
+                  ]
+            },
+            {
+                  "name": "Bjellandsvatnet naturreservat",
+                  "text": "A Bjellandsvatnet naturreservat egy védett természetvédelmi terület Sveio területén.",
+                  "category": "natural",
+                  "coords": [
+                        5.38239,
+                        59.552474
+                  ]
+            },
+            {
+                  "name": "Skiftestad naturreservat",
+                  "text": "A Skiftestad naturreservat egy védett természetvédelmi terület Sveio városában.",
+                  "category": "natural",
+                  "coords": [
+                        5.311416,
+                        59.560951
+                  ]
+            },
+            {
+                  "name": "Mannavatn naturreservat",
+                  "text": "A Mannavatn naturreservat egy természetvédelmi terület, amely Sveio területén található.",
+                  "category": "natural",
+                  "coords": [
+                        5.372344,
+                        59.544589
+                  ]
+            },
+            {
+                  "name": "Færås naturreservat",
+                  "text": "A Færås naturreservat egy helyi természetvédelmi terület Sveio községben.",
+                  "category": "natural",
+                  "coords": [
+                        5.359553,
+                        59.570919
+                  ]
+            },
+            {
+                  "name": "Sveio kyrkje",
+                  "text": "A Sveio kyrkje egy templom és vallási épület Sveio községben.",
+                  "category": "religious",
+                  "coords": [
+                        5.351442,
+                        59.543258
                   ]
             }
       ],
@@ -31076,6 +31310,51 @@ export const norwayCitiesV2: POI[] = [
                         5.358372,
                         59.544294
                   ]
+            },
+            {
+                  "name": "Bjellandsvatnet naturreservat",
+                  "text": "Bjellandsvatnet naturreservat este o rezervație naturală protejată din Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.38239,
+                        59.552474
+                  ]
+            },
+            {
+                  "name": "Skiftestad naturreservat",
+                  "text": "Skiftestad naturreservat este o rezervație naturală protejată din Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.311416,
+                        59.560951
+                  ]
+            },
+            {
+                  "name": "Mannavatn naturreservat",
+                  "text": "Mannavatn naturreservat este o rezervație naturală situată în Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.372344,
+                        59.544589
+                  ]
+            },
+            {
+                  "name": "Færås naturreservat",
+                  "text": "Færås naturreservat este o rezervație naturală locală din Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.359553,
+                        59.570919
+                  ]
+            },
+            {
+                  "name": "Sveio kyrkje",
+                  "text": "Sveio kyrkje este o biserică și lăcaș de cult în localitatea Sveio.",
+                  "category": "religious",
+                  "coords": [
+                        5.351442,
+                        59.543258
+                  ]
             }
       ],
       "en": [
@@ -31113,6 +31392,51 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.358372,
                         59.544294
+                  ]
+            },
+            {
+                  "name": "Bjellandsvatnet naturreservat",
+                  "text": "Bjellandsvatnet naturreservat is a designated nature reserve located in Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.38239,
+                        59.552474
+                  ]
+            },
+            {
+                  "name": "Skiftestad naturreservat",
+                  "text": "Skiftestad naturreservat is a protected nature reserve in Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.311416,
+                        59.560951
+                  ]
+            },
+            {
+                  "name": "Mannavatn naturreservat",
+                  "text": "Mannavatn naturreservat is a nature reserve situated in Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.372344,
+                        59.544589
+                  ]
+            },
+            {
+                  "name": "Færås naturreservat",
+                  "text": "Færås naturreservat is a local nature reserve located in Sveio.",
+                  "category": "natural",
+                  "coords": [
+                        5.359553,
+                        59.570919
+                  ]
+            },
+            {
+                  "name": "Sveio kyrkje",
+                  "text": "Sveio kyrkje is a church and place of worship in the municipality of Sveio.",
+                  "category": "religious",
+                  "coords": [
+                        5.351442,
+                        59.543258
                   ]
             }
       ]
