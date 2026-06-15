@@ -87,12 +87,23 @@ export async function loadFullPois(): Promise<POI[]> {
   // Hoist it back to top level so it's used. Structure-agnostic, covers all variants.
   for (const p of all) {
     if (!p) continue;
-    const d = (p as any).description;
-    if (d && typeof d === "object" && d.descriptionAdvanced && typeof d.descriptionAdvanced === "object") {
-      if (!(p as any).descriptionAdvanced) (p as any).descriptionAdvanced = d.descriptionAdvanced;
-      if (d.factsAdvanced && !(p as any).factsAdvanced) (p as any).factsAdvanced = d.factsAdvanced;
-      delete d.descriptionAdvanced;
-      delete d.factsAdvanced;
+    const pa = p as any;
+    if (pa.descriptionAdvanced && typeof pa.descriptionAdvanced === "object") continue;
+    // The bad apply dropped the closing brace after `en:` of a preceding object,
+    // so descriptionAdvanced/factsAdvanced got swallowed into whatever object came
+    // before — `description` (Comoros/Cuba…) OR `name` (China ports…). Scan all
+    // object-valued direct properties (NOT arrays like sights) and hoist.
+    for (const k of Object.keys(pa)) {
+      if (k === "descriptionAdvanced" || k === "factsAdvanced") continue;
+      const v = pa[k];
+      if (v && typeof v === "object" && !Array.isArray(v)
+          && v.descriptionAdvanced && typeof v.descriptionAdvanced === "object") {
+        pa.descriptionAdvanced = v.descriptionAdvanced;
+        if (v.factsAdvanced && !pa.factsAdvanced) pa.factsAdvanced = v.factsAdvanced;
+        delete v.descriptionAdvanced;
+        delete v.factsAdvanced;
+        break;
+      }
     }
   }
   // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
