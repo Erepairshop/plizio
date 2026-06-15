@@ -2434,7 +2434,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       // on the nearest road and shows the wrong place — fall to the Maps pin then.
       if (typeof SV_OK[svKey(slat, slng)] === "string") {
         const svUrl = svHref(slat, slng);
-        svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
+        // Street View pegman + Google Maps pin egymas mellett (user 2026-06-15):
+        // ahol van SV, ott is jelenjen meg a GM-link a sight valos listing-jere.
+        const gmUrl = `https://www.google.com/maps/search/?api=1&query=${slat.toFixed(6)},${slng.toFixed(6)}`;
+        svBtn = `<a class="plz-sight-sv" href="${svUrl}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`
+          + `<a class="plz-sight-sv plz-sight-gm" href="${gmUrl}" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
       } else {
         // Nincs SV: Maps-pin ikon. Nev + viewport-bias path-form (/@lat,lng,17z):
         // a Google a koord kornyeken keresi a nevet -> a tenyleges hely listing-
