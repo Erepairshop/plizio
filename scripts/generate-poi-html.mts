@@ -2233,6 +2233,55 @@ function renderTabNav(lang: Lang, opts: { hasItin: boolean; hasSights: boolean; 
 }
 
 // Bottom sticky FAB action bar (mobile-only)
+// Visitor error-report widget: floating button + modal, POST-ol a /report.php
+// VPS endpointra (-> ntfy a telefonra + logfile). Oneloszerlt, inline CSS+JS,
+// honeypot mezovel a botok ellen. (user 2026-06-15)
+const _REP_T: Record<string, { btn: string; title: string; ph: string; email: string; send: string; cancel: string; thanks: string; err: string }> = {
+  de: { btn: "Fehler melden", title: "Fehler auf dieser Seite melden", ph: "Was stimmt nicht? (falsche Daten, Bild, Übersetzung, Link …)", email: "E-Mail (optional, für Rückfragen)", send: "Senden", cancel: "Abbrechen", thanks: "Danke für deine Meldung!", err: "Senden fehlgeschlagen, bitte später erneut." },
+  hu: { btn: "Hiba jelentése", title: "Hiba jelentése ezen az oldalon", ph: "Mit tapasztaltál? (hibás adat, kép, fordítás, link …)", email: "E-mail (opcionális, ha választ kérsz)", send: "Küldés", cancel: "Mégse", thanks: "Köszönjük a jelzést!", err: "A küldés nem sikerült, próbáld később." },
+  ro: { btn: "Raportează o eroare", title: "Raportează o eroare pe această pagină", ph: "Ce nu este în regulă? (date, imagine, traducere, link …)", email: "E-mail (opțional, pentru răspuns)", send: "Trimite", cancel: "Anulează", thanks: "Mulțumim pentru sesizare!", err: "Trimiterea a eșuat, încearcă mai târziu." },
+  en: { btn: "Report an issue", title: "Report an issue on this page", ph: "What's wrong? (incorrect data, image, translation, link …)", email: "Email (optional, if you want a reply)", send: "Send", cancel: "Cancel", thanks: "Thanks for letting us know!", err: "Sending failed, please try again later." },
+  fr: { btn: "Signaler une erreur", title: "Signaler une erreur sur cette page", ph: "Quel est le problème ? (données, image, traduction, lien …)", email: "E-mail (facultatif, pour une réponse)", send: "Envoyer", cancel: "Annuler", thanks: "Merci pour votre signalement !", err: "Échec de l'envoi, réessayez plus tard." },
+  tr: { btn: "Hata bildir", title: "Bu sayfadaki bir hatayı bildir", ph: "Sorun nedir? (yanlış veri, görsel, çeviri, bağlantı …)", email: "E-posta (isteğe bağlı, yanıt için)", send: "Gönder", cancel: "İptal", thanks: "Bildirdiğiniz için teşekkürler!", err: "Gönderim başarısız, lütfen sonra tekrar deneyin." },
+  hr: { btn: "Prijavi grešku", title: "Prijavi grešku na ovoj stranici", ph: "Što nije u redu? (podaci, slika, prijevod, poveznica …)", email: "E-pošta (neobavezno, za odgovor)", send: "Pošalji", cancel: "Odustani", thanks: "Hvala na prijavi!", err: "Slanje nije uspjelo, pokušajte kasnije." },
+};
+function renderReportWidget(lang: Lang): string {
+  const t = _REP_T[lang] || _REP_T.en;
+  const e = escapeHtml;
+  return `<button type="button" class="plz-rep-open" aria-label="${e(t.btn)}" title="${e(t.btn)}"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg><span>${e(t.btn)}</span></button>
+<div class="plz-rep-modal" id="plz-rep-modal" role="dialog" aria-modal="true" aria-hidden="true" aria-label="${e(t.title)}">
+  <div class="plz-rep-card">
+    <button type="button" class="plz-rep-x" aria-label="${e(t.cancel)}">×</button>
+    <h3>${e(t.title)}</h3>
+    <textarea class="plz-rep-msg" rows="4" placeholder="${e(t.ph)}" maxlength="4000"></textarea>
+    <input type="email" class="plz-rep-email" placeholder="${e(t.email)}" maxlength="200" autocomplete="email">
+    <input type="text" class="plz-rep-hp" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
+    <div class="plz-rep-row"><button type="button" class="plz-rep-cancel">${e(t.cancel)}</button><button type="button" class="plz-rep-send">${e(t.send)}</button></div>
+    <p class="plz-rep-status" aria-live="polite"></p>
+  </div>
+</div>
+<style>
+.plz-rep-open{position:fixed;left:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:9998;display:inline-flex;align-items:center;gap:6px;padding:7px 11px;border:0;border-radius:999px;background:rgba(20,28,40,.82);color:#fff;font:600 12px/1 system-ui,sans-serif;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.3);backdrop-filter:blur(4px);opacity:.7;transition:opacity .15s}
+.plz-rep-open:hover{opacity:1}
+.plz-rep-open svg{flex:none}
+@media(max-width:640px){.plz-rep-open span{display:none}.plz-rep-open{padding:9px}}
+.plz-rep-modal{position:fixed;inset:0;z-index:10001;display:none;align-items:center;justify-content:center;background:rgba(2,6,12,.72);padding:16px}
+.plz-rep-modal.open{display:flex}
+.plz-rep-card{position:relative;width:100%;max-width:440px;background:#fff;color:#1a2230;border-radius:14px;padding:20px 18px 16px;box-shadow:0 12px 40px rgba(0,0,0,.4)}
+.plz-rep-card h3{margin:0 0 12px;font-size:1.05rem;padding-right:24px}
+.plz-rep-x{position:absolute;top:8px;right:10px;border:0;background:none;font-size:1.6rem;line-height:1;color:#888;cursor:pointer}
+.plz-rep-msg,.plz-rep-email{width:100%;box-sizing:border-box;border:1px solid #cdd5e0;border-radius:9px;padding:9px 11px;font:400 .95rem system-ui,sans-serif;margin-bottom:9px;resize:vertical}
+.plz-rep-msg:focus,.plz-rep-email:focus{outline:none;border-color:#2b7cff}
+.plz-rep-row{display:flex;gap:9px;justify-content:flex-end}
+.plz-rep-row button{border:0;border-radius:9px;padding:9px 16px;font:600 .9rem system-ui,sans-serif;cursor:pointer}
+.plz-rep-cancel{background:#eef1f6;color:#444}
+.plz-rep-send{background:#2b7cff;color:#fff}
+.plz-rep-send[disabled]{opacity:.5;cursor:default}
+.plz-rep-status{margin:10px 0 0;font-size:.9rem;min-height:1.1em}
+.plz-rep-status.ok{color:#1d8a45}.plz-rep-status.bad{color:#c0392b}
+</style>
+<script>(function(){var o=document.querySelector('.plz-rep-open'),m=document.getElementById('plz-rep-modal');if(!o||!m)return;var msg=m.querySelector('.plz-rep-msg'),em=m.querySelector('.plz-rep-email'),hp=m.querySelector('.plz-rep-hp'),send=m.querySelector('.plz-rep-send'),st=m.querySelector('.plz-rep-status');function open(){m.classList.add('open');m.setAttribute('aria-hidden','false');setTimeout(function(){msg.focus();},50);}function close(){m.classList.remove('open');m.setAttribute('aria-hidden','true');}o.addEventListener('click',open);m.querySelector('.plz-rep-x').addEventListener('click',close);m.querySelector('.plz-rep-cancel').addEventListener('click',close);m.addEventListener('click',function(e){if(e.target===m)close();});document.addEventListener('keydown',function(e){if(e.key==='Escape'&&m.classList.contains('open'))close();});send.addEventListener('click',function(){var v=(msg.value||'').trim();if(v.length<3){msg.focus();return;}send.disabled=true;st.className='plz-rep-status';st.textContent='…';fetch('/report.php',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({msg:v,email:(em.value||'').trim(),url:location.href,title:document.title,hp:(hp.value||'')})}).then(function(r){return r.ok?r.json():Promise.reject();}).then(function(){st.className='plz-rep-status ok';st.textContent=${JSON.stringify(t.thanks)};msg.value='';em.value='';setTimeout(close,1600);setTimeout(function(){send.disabled=false;st.textContent='';},1900);}).catch(function(){st.className='plz-rep-status bad';st.textContent=${JSON.stringify(t.err)};send.disabled=false;});});})();</script>`;
+}
 function renderMobileFab(poi: POI, lang: Lang, name: string): string {
   if (!poi.coords) return "";
   const gmaps = `https://www.google.com/maps/search/?api=1&query=${poi.coords[1]},${poi.coords[0]}`;
@@ -3229,6 +3278,7 @@ ${EXPLORE_CSS}
   ${footerHtml(lang)}
   <div style="margin-top:.4rem;font-size:.85em;opacity:.7;">Weitere Projekte: <a href="https://punktepass.de" rel="me">PunktePass</a> · <a href="https://erepairshop.de" rel="me">Erepairshop</a> · <a href="https://diginachrichten.de" rel="me">Diginachrichten</a></div>
 </footer>
+${renderReportWidget(lang)}
 </body>
 </html>`;
 }

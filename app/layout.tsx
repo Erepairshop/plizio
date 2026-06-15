@@ -7,6 +7,7 @@ import CookieConsent from "@/components/CookieConsent";
 import JsonLd from "@/components/JsonLd";
 import GlobalOverlays from "@/components/GlobalOverlays";
 import MapPrefetcher from "@/components/MapPrefetcher";
+import ReportIssue from "@/components/ReportIssue";
 import SiteFooterNav from "@/components/SiteFooterNav";
 import { buildOrganizationSchema, buildWebsiteSchema, buildSiteFeaturesSchema } from "@/lib/seo/schema";
 
@@ -137,6 +138,7 @@ export default function RootLayout({
           {children}
           <GlobalOverlays />
           <MapPrefetcher />
+          <ReportIssue />
         </LanguageProvider>
         {/* Crawlable HTML site map — server-rendered, in every page's static HTML
             (the homepage itself returns null at SSR, so its links must live here). */}
