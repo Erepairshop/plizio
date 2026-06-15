@@ -79,6 +79,22 @@ export async function loadFullPois(): Promise<POI[]> {
     poiExtraHrV3 as POI[], euNewV1 as POI[], glNewV1 as POI[], naNewV1 as POI[], afNewV1 as POI[],
     asiaNewV1 as POI[], ocNewV1 as POI[],
   );
+  // NORMALIZE bad-apply artifact: a batch insert nested descriptionAdvanced +
+  // factsAdvanced INSIDE the `description` object (180 POIs across 7 economic/
+  // cities files: Cuba/Comoros/EquatorialGuinea/Ecuador/Congo/Ethiopia/Gabon).
+  // The generator reads poi.descriptionAdvanced (top-level), so the rich content
+  // (1000-2000 char/lang) was invisible → those POIs rendered thin/noindex.
+  // Hoist it back to top level so it's used. Structure-agnostic, covers all variants.
+  for (const p of all) {
+    if (!p) continue;
+    const d = (p as any).description;
+    if (d && typeof d === "object" && d.descriptionAdvanced && typeof d.descriptionAdvanced === "object") {
+      if (!(p as any).descriptionAdvanced) (p as any).descriptionAdvanced = d.descriptionAdvanced;
+      if (d.factsAdvanced && !(p as any).factsAdvanced) (p as any).factsAdvanced = d.factsAdvanced;
+      delete d.descriptionAdvanced;
+      delete d.factsAdvanced;
+    }
+  }
   // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
   const byId = new Map<string, POI>();
   function richness(p: POI): number {
